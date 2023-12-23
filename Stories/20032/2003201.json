@@ -1,0 +1,141 @@
+[
+    {
+        "CharacterId": 20032,
+        "MessageJP": "エイミ（水着）",
+        "MessageKR": "에이미(수영복)",
+        "MessageTW": "エイミ（水着）",
+        "MessageEN": "Eimi (Swimsuit)"
+    },
+    {
+        "MessageId": 200310010,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 200320010,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 200320010,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200320020,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "大人って、結構服にこだわるよね",
+        "MessageKR": "어른들은 옷에 꽤나 신경 쓰는 편이지?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200320020,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200320030,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "たしかに、そうかもしれない",
+        "MessageKR": "그런 편이지.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200320020,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200320030,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "私はあまり詳しくないけど……",
+        "MessageKR": "대충 입는 편인데…….",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200320030,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200320031,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ちょっと時間ができたし、買い物に行こうと思って",
+        "MessageKR": "잠시 여유가 생긴 김에 쇼핑을 하려는데.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200320031,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200320040,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "あんまりファションに詳しくないから、後で先生に意見を聞きたくて",
+        "MessageKR": "나는 패션에 대해서 잘 모르니까 선생님과 함께 훈련을 해 보려고.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200320040,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200320050,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "とりあえず、色々持ってくね",
+        "MessageKR": "일단 필요한 걸 챙겨서 갈게.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200320050,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200310067,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "？？？",
+        "MessageKR": "???",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200310067,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": 200320060,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "エイミ（水着）の絆イベントへ",
+        "MessageKR": "에이미(수영복)의 인연스토리로",
+        "MessageTW": "前往エイミ（水着）的羈絆劇情",
+        "MessageEN": "Go to Eimi (Swimsuit)'s Event"
+    },
+    {
+        "MessageId": 200320060,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200320070,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生、今日はありがとう",
+        "MessageKR": "선생님. 오늘 어울려줘서 고마워.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200320070,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "また連絡するね",
+        "MessageKR": "조만간 연락할게.",
+        "MessageTW": "",
+        "MessageEN": ""
+    }
+]

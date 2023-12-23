@@ -1,0 +1,153 @@
+[
+    {
+        "CharacterId": 10081,
+        "MessageJP": "ユカリ",
+        "MessageKR": "유카리",
+        "MessageTW": "ユカリ",
+        "MessageEN": "Yukari"
+    },
+    {
+        "MessageId": 100800130,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 100810130,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 100810130,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100810140,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先日、食後のでざーとを食べていたら……",
+        "MessageKR": "최근 식후 디저트를 먹던 도중….",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100810140,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 100810150,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "すごいことを思いつきましたの！",
+        "MessageKR": "저 유카리, 놀라운 아이디어를 떠올렸사와요!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100810150,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 100810160,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "何を思いついたの？",
+        "MessageKR": "좋아. 갑작스러운 이야기지만, 어떤 아이디어야?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100810160,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100810161,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "和菓子やもんぶらん、ぷりんなどなど……",
+        "MessageKR": "화과자나 몽블랑, 푸딩처럼. ",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100810161,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100810170,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "でざーとは甘いものばかりですが！",
+        "MessageKR": "디저트에는 단맛의 과자들이 잔뜩이지만!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100810170,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 100810171,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "よく考えてみたら……",
+        "MessageKR": "제가 심사숙고해본 결과….",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100810171,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100810180,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "しょっぱい系もいけると思いまして！",
+        "MessageKR": "디저트엔 짠맛도 잘 어울릴 것이라 생각하여요!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100810180,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 100810190,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "そこで、しょっぱい味のでざーとを作れば、皆様も飽きずに楽しめるのではないかと……！",
+        "MessageKR": "이 기회에 짠맛 디저트를 만들면 소녀도 질리지 않고 마음껏 단짠을…!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100810190,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 100810200,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "実は……しょっぱい味のお菓子もあるんだ",
+        "MessageKR": "짠맛 과자라면 이미 많이 있지……?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100810200,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100800207,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "……え？",
+        "MessageKR": "…네?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100800207,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ユカリの絆イベントへ",
+        "MessageKR": "유카리의 인연스토리로",
+        "MessageTW": "前往ユカリ的羈絆劇情",
+        "MessageEN": "Go to Yukari's Event"
+    }
+]

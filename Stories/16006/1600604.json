@@ -1,0 +1,129 @@
+[
+    {
+        "CharacterId": 16006,
+        "MessageJP": "イズミ（水着）",
+        "MessageKR": "이즈미(수영복)",
+        "MessageTW": "泉(泳裝)",
+        "MessageEN": "Izumi (Swimsuit)"
+    },
+    {
+        "MessageId": 160050320,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 160060320,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 160060320,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 160060330,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "細かいことは置いといて～",
+        "MessageKR": "여러 가지 사정과 상황을 생략하고",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 160060330,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 160060340,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "海に行こう、先生！！",
+        "MessageKR": "바다로 나가자, 선생님!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 160060340,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 160060350,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ついに説明を省略することまで学んで……",
+        "MessageKR": "이젠 생략하는 법도 배운 건가…….",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 160060340,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 160060350,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ふぅ……これ以上教えることは何もない",
+        "MessageKR": "후우, 강해졌군. 이즈미. 더 이상 가르칠 것이 없어.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 160060350,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 160060351,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "えーっと……？",
+        "MessageKR": "……?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 160060351,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 160060360,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "よくわからないけど、とにかく今日は特別暑いんだって！",
+        "MessageKR": "잘 모르겠지만, 오늘은 특히 덥대!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 160060360,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 160060361,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "だから、暑さを忘れるために……",
+        "MessageKR": "그러니까, 더위를 잊기 위해서…….",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 160060361,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 160050367,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "さらに楽しく！珍味を巡る旅に出るんだよ！",
+        "MessageKR": "한층 더 신나게! 별미 여행을 떠나는 거야!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 160050367,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "イズミ（水着）の絆イベントへ",
+        "MessageKR": "이즈미(수영복)의 인연스토리로",
+        "MessageTW": "前往泉(泳裝)的羈絆劇情",
+        "MessageEN": "Go to Izumi (Swimsuit)'s Event"
+    }
+]

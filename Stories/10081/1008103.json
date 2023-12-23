@@ -1,0 +1,93 @@
+[
+    {
+        "CharacterId": 10081,
+        "MessageJP": "ユカリ",
+        "MessageKR": "유카리",
+        "MessageTW": "ユカリ",
+        "MessageEN": "Yukari"
+    },
+    {
+        "MessageId": 100800210,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 100810210,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 100810210,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100810220,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生、急なご連絡で申し訳ありませんが……",
+        "MessageKR": "선생님. 다소… 염치가 없지만.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100810220,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 100810221,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "今日もまた！",
+        "MessageKR": "지난번에 이어 오늘도!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100810221,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100810230,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生に新しいことを教えていただきたいのです！",
+        "MessageKR": "저 유카리. 많은 것들을 선생님에게 배우고 싶사와요!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100810230,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 100810240,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "もちろん！それじゃあ、シャーレで待ってるね",
+        "MessageKR": "좋아. 그럼 나도 샬레에서 기다리고 있을게.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100810240,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100800247,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "はい！すぐに向かいますの！",
+        "MessageKR": "네! 바로 가겠사와요!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100800247,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ユカリの絆イベントへ",
+        "MessageKR": "유카리의 인연스토리로",
+        "MessageTW": "前往ユカリ的羈絆劇情",
+        "MessageEN": "Go to Yukari's Event"
+    }
+]

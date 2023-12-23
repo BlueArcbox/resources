@@ -1,0 +1,141 @@
+[
+    {
+        "CharacterId": 10081,
+        "MessageJP": "ユカリ",
+        "MessageKR": "유카리",
+        "MessageTW": "ユカリ",
+        "MessageEN": "Yukari"
+    },
+    {
+        "MessageId": 100800250,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 100810250,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 100810250,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100810260,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生、びっぐにゅーすですの！",
+        "MessageKR": "선생님, 빅- 뉴스여요!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100810260,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 100810270,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "今日、百鬼夜行第七商店街で「抽選会」が行われると聞きまして！",
+        "MessageKR": "오늘 백귀야행 제7번 상점가에서 <추첨식>이라는 특별한 이벤트를 한다고 들었사와요!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100810270,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 100810280,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "商店街でよくやってるやつだね",
+        "MessageKR": "아, 상점가에서 자주 하는 그거 말이구나.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100810280,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100810290,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "商品の中には、おでゅっせいあ海洋高等学校のりぞーとに行ける招待券もあるみたいですのよ",
+        "MessageKR": "상품 중에는 오디세이아 해양학교의 휴양지로 떠날 수 있는 초대권도 있다는 모양이어요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100810290,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 100810300,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "そんなに豪華な景品もあるんだ",
+        "MessageKR": "꽤 호화스럽네.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100810300,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100810301,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ええ！",
+        "MessageKR": "아, 그럼 이럴 게 아니라.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100810301,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100810310,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "それで、その……",
+        "MessageKR": "선생님!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100810310,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 100810320,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "うん、一緒に行こうか",
+        "MessageKR": "응. 가볼까?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100810320,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100800327,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "はい！いつもの場所でお待ちしておりますの！",
+        "MessageKR": "네! 그럼 평소처럼 그곳에서!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100800327,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ユカリの絆イベントへ",
+        "MessageKR": "유카리의 인연스토리로",
+        "MessageTW": "前往ユカリ的羈絆劇情",
+        "MessageEN": "Go to Yukari's Event"
+    }
+]

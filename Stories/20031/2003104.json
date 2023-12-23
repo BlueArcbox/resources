@@ -1,0 +1,129 @@
+[
+    {
+        "CharacterId": 20031,
+        "MessageJP": "シグレ（温泉）",
+        "MessageKR": "시구레(온천)",
+        "MessageTW": "シグレ（温泉）",
+        "MessageEN": "Shigure (Hot Spring)"
+    },
+    {
+        "MessageId": 200300390,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 200310390,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 200310390,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200310400,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生、旧校舎の湯船にお湯が溜まったよ",
+        "MessageKR": "선생님, 지난번에 청소한 구교사의 탕에 물을 다시 모두 채웠어",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200310400,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200310401,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ついでに周りの環境整備をして、新しい入浴剤も入れておいた",
+        "MessageKR": "그사이에 겸사겸사 주변 환경도 정리하고 새 입욕제도 넣어두었으니",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200310401,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200310410,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "よかったら先生も入りに来て",
+        "MessageKR": "나중에 괜찮다면 선생님도 한 번 목욕하러 와",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200310410,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200310420,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "復旧できてよかったけど……",
+        "MessageKR": "탕이 복구되었다니 다행이지만……",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200310420,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200310430,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "「ぶどうジュース」は入ってないよね……？",
+        "MessageKR": "설마 또 와인을 넣은 건 아니겠지?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200310430,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200310431,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ふふっ、どうかな",
+        "MessageKR": "후후, 어떠려나",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200310431,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200310432,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "気になるなら、直接確認しに来たらどう？",
+        "MessageKR": "의심스러우면 구교사에 한 번 직접 와보는 건 어때?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200310432,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200300437,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "待ってるよ、先生",
+        "MessageKR": "기다리고 있을게, 선생님.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200300437,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "シグレ（温泉）の絆イベントへ",
+        "MessageKR": "시구레(온천)의 인연스토리로",
+        "MessageTW": "前往シグレ（温泉）的羈絆劇情",
+        "MessageEN": "Go to Shigure (Hot Spring)'s Event"
+    }
+]

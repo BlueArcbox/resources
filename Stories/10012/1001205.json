@@ -1,0 +1,153 @@
+[
+    {
+        "CharacterId": 10012,
+        "MessageJP": "スミレ",
+        "MessageKR": "스미레",
+        "MessageTW": "堇",
+        "MessageEN": "Sumire"
+    },
+    {
+        "MessageId": 100110260,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 100120260,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 100120260,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100120270,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "トレーナー、シャーレの近くに新しくできた公園にはもう行かれましたか？",
+        "MessageKR": "트레이너, 혹시 샬레 근처에 새로 생긴 공원에 가보신 적 있으신가요?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100120270,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 100120280,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "まだないよ",
+        "MessageKR": "아직 안 가 봤어.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100120280,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100120281,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "そうでしたか",
+        "MessageKR": "그러시군요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100120281,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100120290,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "私はこの前、当番の帰りに寄ってみたのですが",
+        "MessageKR": "지난번 당번 활동이 끝나고 돌아가는 길에 잠깐 둘러봤는데",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100120290,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 100120300,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "トラックも整備されていて、朝のジョギングによさそうでした",
+        "MessageKR": "조깅용 트랙이 깨끗하게 정비되어 있어서 아침 조깅을 하기에 적합해 보이더군요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100120300,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 100120301,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ですので、もしよろしければ、ですが",
+        "MessageKR": "혹시 괜찮으시다면",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100120301,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100120310,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "明日の朝、その公園で軽くジョギングをしませんか？",
+        "MessageKR": "내일 아침에 그 공원에서 가볍게 조깅이라도 하지 않으시겠습니까?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100120310,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 100120320,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "軽いジョギングなら……",
+        "MessageKR": "가벼운 조깅이라면 괜찮겠지……",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100120320,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100120330,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ありがとうございます",
+        "MessageKR": "감사합니다, 트레이너.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100120330,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 100110337,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "では、明日の朝お会いしましょう！",
+        "MessageKR": "그럼, 내일 아침에 뵙겠습니다!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100110337,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "スミレの絆イベントへ",
+        "MessageKR": "스미레의 인연스토리로",
+        "MessageTW": "前往堇的羈絆劇情",
+        "MessageEN": "Go to Sumire's Event"
+    }
+]

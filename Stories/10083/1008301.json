@@ -1,0 +1,117 @@
+[
+    {
+        "CharacterId": 10083,
+        "MessageJP": "キキョウ",
+        "MessageKR": "키쿄",
+        "MessageTW": "キキョウ",
+        "MessageEN": "Kikyou"
+    },
+    {
+        "MessageId": 100820010,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 100830010,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 100830010,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100830020,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ようやく百花繚乱が元に戻ってきたから",
+        "MessageKR": "슬슬 백화요란의 업무가 정상 궤도에 오르고 있어. ",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100830020,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 100830021,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "今後の業務提携について話しておきたいんだけど",
+        "MessageKR": "그러니 더 늦기 전에 샬레와 백화요란 간의 업무 협력에 대해 논하고 싶은데.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100830021,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100830030,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "これから時間もらえる？",
+        "MessageKR": "시간 괜찮을까?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100830030,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 100830040,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "もちろん大丈夫だよ",
+        "MessageKR": "아, 시간이라면 괜찮아.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100830040,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100830041,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "そう",
+        "MessageKR": "그래.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100830041,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100830050,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "じゃ、調停室で待ってるから",
+        "MessageKR": "그렇다면 백화요란의 조정실에서 이야기를 나눴으면 해.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100830050,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 100820057,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "よろしく",
+        "MessageKR": "기다리고 있을게.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100820057,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "キキョウの絆イベントへ",
+        "MessageKR": "키쿄의 인연스토리로",
+        "MessageTW": "前往キキョウ的羈絆劇情",
+        "MessageEN": "Go to Kikyou's Event"
+    }
+]
