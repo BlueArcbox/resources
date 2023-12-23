@@ -1,9 +1,7 @@
 [
     {
         "Id": 10000,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/d/de/Aru_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/d/de/Aru_Icon.png"],
         "Bio": {
             "zh": "什么都能解决哦！",
             "jp": "なんでも解決するわよ！",
@@ -15,9 +13,7 @@
     },
     {
         "Id": 10001,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/e/e3/Eimi_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/e/e3/Eimi_Icon.png"],
         "Bio": {
             "zh": "在此输入状态信息",
             "jp": "ここにステータスメッセージを入力",
@@ -29,9 +25,7 @@
     },
     {
         "Id": 10002,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/e/e7/Haruna_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/e/e7/Haruna_Icon.png"],
         "Bio": {
             "zh": "EAT OR DIE",
             "jp": "EAT OR DIE",
@@ -89,9 +83,7 @@
     },
     {
         "Id": 10006,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/1/16/Iori_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/1/16/Iori_Icon.png"],
         "Bio": {
             "zh": "看到可疑的人请立刻联络",
             "jp": "怪しい人を見たらすぐに連絡",
@@ -103,9 +95,7 @@
     },
     {
         "Id": 10007,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/e/e9/Maki_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/e/e9/Maki_Icon.png"],
         "Bio": {
             "zh": "最爱街头涂鸦！",
             "jp": "グラフィティ大好き！",
@@ -117,9 +107,7 @@
     },
     {
         "Id": 10008,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/0/0f/Neru_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/0/0f/Neru_Icon.png"],
         "Bio": {
             "zh": "啊啊！？",
             "jp": "あぁん！？",
@@ -162,9 +150,7 @@
     },
     {
         "Id": 10011,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/f/fa/Shun_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/f/fa/Shun_Icon.png"],
         "Bio": {
             "zh": "和天使们一起",
             "jp": "天使たちと一緒に",
@@ -176,9 +162,7 @@
     },
     {
         "Id": 10012,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/e/e5/Sumire_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/e/e5/Sumire_Icon.png"],
         "Bio": {
             "zh": "健全的精神寓于健康的身体",
             "jp": "健康な身体は健全な精神が宿る",
@@ -190,9 +174,7 @@
     },
     {
         "Id": 10013,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/f/fb/Tsurugi_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/f/fb/Tsurugi_Icon.png"],
         "Bio": {
             "zh": "……",
             "jp": "……",
@@ -204,9 +186,7 @@
     },
     {
         "Id": 13000,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/4/47/Akane_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/4/47/Akane_Icon.png"],
         "Bio": {
             "zh": "一杯热红茶的余裕",
             "jp": "温かい紅茶一杯分の余裕を",
@@ -218,9 +198,7 @@
     },
     {
         "Id": 13001,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/c/c2/Chise_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/c/c2/Chise_Icon.png"],
         "Bio": {
             "zh": "找到云的话告诉我",
             "jp": "雲を見つけたら教えて",
@@ -248,9 +226,7 @@
     },
     {
         "Id": 13003,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/a/a3/Hasumi_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/a/a3/Hasumi_Icon.png"],
         "Bio": {
             "zh": "减肥中……",
             "jp": "ダイエット中……",
@@ -292,9 +268,7 @@
     },
     {
         "Id": 13006,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/8/83/Mutsuki_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/8/83/Mutsuki_Icon.png"],
         "Bio": {
             "zh": "没有什么有趣的事吗~",
             "jp": "何か面白いことないかな～",
@@ -306,9 +280,7 @@
     },
     {
         "Id": 13007,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/9/97/Junko_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/9/97/Junko_Icon.png"],
         "Bio": {
             "zh": "谢绝骚扰 (╬⊙益⊙)",
             "jp": "スパムお断り(╬☉益☉)",
@@ -338,9 +310,7 @@
     },
     {
         "Id": 13009,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/1/1b/Tsubaki_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/1/1b/Tsubaki_Icon.png"],
         "Bio": {
             "zh": "好困……",
             "jp": "眠い……",
@@ -363,24 +333,11 @@
             "en": "Just as I calculated...",
             "kr": "계산대로야"
         },
-        "Nickname": [
-            "邮箱",
-            "没包人",
-            "半包人",
-            "管账婆",
-            "妈",
-            "阻冲之",
-            "祖冲之",
-            "优华",
-            "📪",
-            "📮"
-        ]
+        "Nickname": ["邮箱", "没包人", "半包人", "管账婆", "妈", "阻冲之", "祖冲之", "优华", "📪", "📮"]
     },
     {
         "Id": 16000,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/b/bd/Haruka_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/b/bd/Haruka_Icon.png"],
         "Bio": {
             "zh": "请多多指教",
             "jp": "よろしくお願いいたします",
@@ -407,9 +364,7 @@
     },
     {
         "Id": 16002,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/9/93/Kotori_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/9/93/Kotori_Icon.png"],
         "Bio": {
             "zh": "赞叹微波吧！",
             "jp": "マイクロ波を讃えましょう！",
@@ -421,9 +376,7 @@
     },
     {
         "Id": 16003,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/d/d8/Suzumi_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/d/d8/Suzumi_Icon.png"],
         "Bio": {
             "zh": "希望今天也是平安的一天",
             "jp": "今日も平穏な一日を",
@@ -435,9 +388,7 @@
     },
     {
         "Id": 16004,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/8/8e/Pina_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/8/8e/Pina_Icon.png"],
         "Bio": {
             "zh": "CHUCIJIANMIAN！",
             "jp": "ハジメマシテ！",
@@ -449,9 +400,7 @@
     },
     {
         "Id": 20000,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/8/88/Hibiki_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/8/88/Hibiki_Icon.png"],
         "Bio": {
             "zh": "虚争空言，不如思而试之",
             "jp": "言葉より行動で",
@@ -478,9 +427,7 @@
     },
     {
         "Id": 20002,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/a/a3/Saya_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/a/a3/Saya_Icon.png"],
         "Bio": {
             "zh": "赞扬我吧！",
             "jp": "ぼく様を讃えよ！",
@@ -492,9 +439,7 @@
     },
     {
         "Id": 23000,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/2/23/Airi_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/2/23/Airi_Icon.png"],
         "Bio": {
             "zh": "薄荷巧克力最棒了！",
             "jp": "チョコミントは最高！",
@@ -506,9 +451,7 @@
     },
     {
         "Id": 23001,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/7/77/Fuuka_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/7/77/Fuuka_Icon.png"],
         "Bio": {
             "zh": "希望至少能过平静的一天(T_T)",
             "jp": "一日くらい平穏な日が欲しいです(T_T)",
@@ -535,9 +478,7 @@
     },
     {
         "Id": 23003,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/7/7b/Hare_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/7/7b/Hare_Icon.png"],
         "Bio": {
             "zh": "有急事请私信",
             "jp": "急な用件はDMで",
@@ -549,9 +490,7 @@
     },
     {
         "Id": 23004,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/8/8b/Utaha_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/8/8b/Utaha_Icon.png"],
         "Bio": {
             "zh": "随时接受改造、维修的委托",
             "jp": "改造・修理の依頼ならいつでも",
@@ -579,9 +518,7 @@
     },
     {
         "Id": 26000,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/a/a7/Chinatsu_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/a/a7/Chinatsu_Icon.png"],
         "Bio": {
             "zh": "丧失的前方",
             "jp": "喪失の先に",
@@ -593,9 +530,7 @@
     },
     {
         "Id": 26001,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/4/41/Kotama_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/4/41/Kotama_Icon.png"],
         "Bio": {
             "zh": "我一直守望着你",
             "jp": "あなたを見守っています",
@@ -607,9 +542,7 @@
     },
     {
         "Id": 26002,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/1/15/Juri_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/1/15/Juri_Icon.png"],
         "Bio": {
             "zh": "今天也要全力以赴进行料理的练习！",
             "jp": "今日も一生懸命、料理の練習！",
@@ -636,9 +569,7 @@
     },
     {
         "Id": 26004,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/c/c6/Shimiko_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/c/c6/Shimiko_Icon.png"],
         "Bio": {
             "zh": "请在借阅期间内还书",
             "jp": "本は期限内に返却してください",
@@ -650,9 +581,7 @@
     },
     {
         "Id": 26005,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/8/84/Yoshimi_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/8/84/Yoshimi_Icon.png"],
         "Bio": {
             "zh": "#还在成长期",
             "jp": "#まだ成長期",
@@ -664,9 +593,7 @@
     },
     {
         "Id": 20003,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/0/0e/Mashiro_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/0/0e/Mashiro_Icon.png"],
         "Bio": {
             "zh": "聚沙成塔",
             "jp": "塵も積もれば山となる",
@@ -678,9 +605,7 @@
     },
     {
         "Id": 10014,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/9/9b/Izuna_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/9/9b/Izuna_Icon.png"],
         "Bio": {
             "zh": "泉奈会加油的！忍忍！",
             "jp": "イズナ、頑張ります！ ニンニン！",
@@ -692,9 +617,7 @@
     },
     {
         "Id": 23006,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/0/04/Shizuko_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/0/04/Shizuko_Icon.png"],
         "Bio": {
             "zh": "百夜堂，今天也绝赞营业中！",
             "jp": "百夜堂、今日も元気に営業中！",
@@ -753,9 +676,7 @@
     },
     {
         "Id": 10017,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/6/6a/Cherino_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/6/6a/Cherino_Icon.png"],
         "Bio": {
             "zh": "看看这胡子吧！！",
             "jp": "このヒゲを見よ！！",
@@ -767,9 +688,7 @@
     },
     {
         "Id": 26006,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/2/2a/Nodoka_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/2/2a/Nodoka_Icon.png"],
         "Bio": {
             "zh": "一起去看星星吧！★彡",
             "jp": "一緒に星を見に行きましょう！★彡",
@@ -826,9 +745,7 @@
     },
     {
         "Id": 10020,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/7/7a/Koharu_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/7/7a/Koharu_Icon.png"],
         "Bio": {
             "zh": "涩涩的东西不行就是不行！",
             "jp": "エッチなのはダメったらダメ！",
@@ -840,9 +757,7 @@
     },
     {
         "Id": 10021,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/f/f0/Azusa_Swimsuit_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/f/f0/Azusa_Swimsuit_Icon.png"],
         "Bio": {
             "zh": "A brevis paradisum",
             "jp": "A brevis paradisum",
@@ -855,9 +770,7 @@
     },
     {
         "Id": 20004,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/3/30/Mashiro_Swimsuit_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/3/30/Mashiro_Swimsuit_Icon.png"],
         "Bio": {
             "zh": "井底之蛙 不知大海",
             "jp": "井の中の蛙 大海を知らず",
@@ -870,9 +783,7 @@
     },
     {
         "Id": 16005,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/f/fc/Tsurugi_Swimsuit_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/f/fc/Tsurugi_Swimsuit_Icon.png"],
         "Bio": {
             "zh": "夏日、大海、青春",
             "jp": "夏、海、青春",
@@ -885,9 +796,7 @@
     },
     {
         "Id": 20005,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/d/d5/Hifumi_Swimsuit_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/d/d5/Hifumi_Swimsuit_Icon.png"],
         "Bio": {
             "zh": "请看新的佩洛洛大人泳圈！",
             "jp": "新しいペロロ様の浮き輪、見てください！",
@@ -900,9 +809,7 @@
     },
     {
         "Id": 10022,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/3/3b/Hina_Swimsuit_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/3/3b/Hina_Swimsuit_Icon.png"],
         "Bio": {
             "zh": "",
             "jp": "",
@@ -915,9 +822,7 @@
     },
     {
         "Id": 10023,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/3/34/Iori_Swimsuit_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/3/34/Iori_Swimsuit_Icon.png"],
         "Bio": {
             "zh": "夏季合宿训练中",
             "jp": "夏の合宿訓練中",
@@ -930,9 +835,7 @@
     },
     {
         "Id": 16006,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/e/e1/Izumi_Swimsuit_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/e/e1/Izumi_Swimsuit_Icon.png"],
         "Bio": {
             "zh": "前往寻找夏天美食之旅！",
             "jp": "夏のグルメを求める旅へ！",
@@ -945,9 +848,7 @@
     },
     {
         "Id": 10024,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/b/bd/Shiroko_Riding_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/b/bd/Shiroko_Riding_Icon.png"],
         "Bio": {
             "zh": "正在纵贯鸡窝托斯中",
             "jp": "今キヴォトス縦断中",
@@ -960,9 +861,7 @@
     },
     {
         "Id": 10025,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/4/47/Shun_Young_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/4/47/Shun_Young_Icon.png"],
         "Bio": {
             "zh": "想吃糖葫芦的心情！",
             "jp": "タンフールーが食べたい気分です！",
@@ -975,9 +874,7 @@
     },
     {
         "Id": 13012,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/f/fa/Kirino_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/f/fa/Kirino_Icon.png"],
         "Bio": {
             "zh": "女武神警察学园，转学生募集中！",
             "jp": "ヴァルキューレ警察学校、転入学者募集中！",
@@ -989,9 +886,7 @@
     },
     {
         "Id": 20006,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/a/a7/Saya_Casual_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/a/a7/Saya_Casual_Icon.png"],
         "Bio": {
             "zh": "我什么都知道！",
             "jp": "ぼく様は何でも知っているのだ！",
@@ -1004,9 +899,7 @@
     },
     {
         "Id": 10026,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/1/1e/Neru_Bunny_Girl_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/1/1e/Neru_Bunny_Girl_Icon.png"],
         "Bio": {
             "zh": "看什么看",
             "jp": "見せもんじゃねぇぞ",
@@ -1019,9 +912,7 @@
     },
     {
         "Id": 10027,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/1/12/Karin_Bunny_Girl_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/1/12/Karin_Bunny_Girl_Icon.png"],
         "Bio": {
             "zh": "任务中",
             "jp": "任務中",
@@ -1034,9 +925,7 @@
     },
     {
         "Id": 10028,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/8/81/Asuna_Bunny_Girl_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/8/81/Asuna_Bunny_Girl_Icon.png"],
         "Bio": {
             "zh": "带给主人最棒的快乐！",
             "jp": "最高の楽しさをご主人様に!",
@@ -1049,9 +938,7 @@
     },
     {
         "Id": 10029,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/5/5b/Natsu_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/5/5b/Natsu_Icon.png"],
         "Bio": {
             "zh": "人生是巧克力蝴蝶饼",
             "jp": "人生はチョコレートプレッツェル",
@@ -1063,9 +950,7 @@
     },
     {
         "Id": 23008,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/e/e0/Mari_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/e/e0/Mari_Icon.png"],
         "Bio": {
             "zh": "愿大家的心得到安宁",
             "jp": "みなさんの心が、安らぎと共にありますように",
@@ -1077,9 +962,7 @@
     },
     {
         "Id": 20007,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/3/39/Miku_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/3/39/Miku_Icon.png"],
         "Bio": {
             "zh": "演唱会，敬请期待哦！",
             "jp": "ライブ、楽しみにしててくださいね！",
@@ -1106,9 +989,7 @@
     },
     {
         "Id": 20009,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/9/96/Cherino_Hot_Spring_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/9/96/Cherino_Hot_Spring_Icon.png"],
         "Bio": {
             "zh": "世界上没有不好的胡子！",
             "jp": "世の中に悪い髭など無い！",
@@ -1121,9 +1002,7 @@
     },
     {
         "Id": 10030,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/3/34/Chinatsu_Hot_Spring_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/3/34/Chinatsu_Hot_Spring_Icon.png"],
         "Bio": {
             "zh": "寻求未知的视野",
             "jp": "未知の視界を求めて",
@@ -1136,9 +1015,7 @@
     },
     {
         "Id": 16007,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/3/3d/Tomoe_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/3/3d/Tomoe_Icon.png"],
         "Bio": {
             "zh": "想了解切里诺会长的丰功伟业吗？",
             "jp": "チェリノ会長についてのお話を聞かれませんか？",
@@ -1150,9 +1027,7 @@
     },
     {
         "Id": 20010,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/d/d7/Nodoka_Hot_Spring_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/d/d7/Nodoka_Hot_Spring_Icon.png"],
         "Bio": {
             "zh": "227号温泉乡，住宿预约接受中！",
             "jp": "227号温泉郷、宿泊予約受付中です！",
@@ -1165,9 +1040,7 @@
     },
     {
         "Id": 10031,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/6/60/Aru_New_Year_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/6/60/Aru_New_Year_Icon.png"],
         "Bio": {
             "zh": "今年也请多多指教",
             "jp": "本年もどうぞよろしくお願いいたします",
@@ -1180,9 +1053,7 @@
     },
     {
         "Id": 10032,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/b/bf/Mutsuki_New_Year_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/b/bf/Mutsuki_New_Year_Icon.png"],
         "Bio": {
             "zh": "让今年变成快乐的一年吧♪",
             "jp": "今年はもっと楽しい一年にしようね♪",
@@ -1195,9 +1066,7 @@
     },
     {
         "Id": 20011,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/b/be/Serika_New_Year_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/b/be/Serika_New_Year_Icon.png"],
         "Bio": {
             "zh": "谨贺新年",
             "jp": "新年明けましておめでとうございます",
@@ -1226,9 +1095,7 @@
     },
     {
         "Id": 16008,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/b/bd/Fubuki_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/b/bd/Fubuki_Icon.png"],
         "Bio": {
             "zh": "咖啡要配甜甜圈！",
             "jp": "コーヒーにはドーナッツ！",
@@ -1240,9 +1107,7 @@
     },
     {
         "Id": 20012,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/3/37/Sena_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/3/37/Sena_Icon.png"],
         "Bio": {
             "zh": "请把我设为紧急联络人",
             "jp": "緊急メッセージの受信設定をお願いします",
@@ -1254,9 +1119,7 @@
     },
     {
         "Id": 20013,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/a/aa/Chihiro_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/a/aa/Chihiro_Icon.png"],
         "Bio": {
             "zh": "安全性检查从日常做起",
             "jp": "セキュリティチェックは日頃から",
@@ -1268,9 +1131,7 @@
     },
     {
         "Id": 10034,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/8/84/Mimori_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/8/84/Mimori_Icon.png"],
         "Bio": {
             "zh": "每天踏实，一步一步",
             "jp": "毎日着実に、一歩ずつ",
@@ -1282,9 +1143,7 @@
     },
     {
         "Id": 10035,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/f/f8/Ui_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/f/f8/Ui_Icon.png"],
         "Bio": {
             "zh": "正在办其他事",
             "jp": "作業中",
@@ -1296,9 +1155,7 @@
     },
     {
         "Id": 10036,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/1/13/Hinata_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/1/13/Hinata_Icon.png"],
         "Bio": {
             "zh": "有困难时，请随时联系我！",
             "jp": "何かお困りの際は、いつでもご連絡ください！",
@@ -1310,9 +1167,7 @@
     },
     {
         "Id": 10037,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/b/b0/Marina_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/b/b0/Marina_Icon.png"],
         "Bio": {
             "zh": "叛逆者通通肃清！",
             "jp": "不穏分子は粛清する！",
@@ -1354,9 +1209,7 @@
     },
     {
         "Id": 10039,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/2/23/Miyu_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/2/23/Miyu_Icon.png"],
         "Bio": {
             "zh": "眼前一片黑……",
             "jp": "一寸先は闇……",
@@ -1368,9 +1221,7 @@
     },
     {
         "Id": 20015,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/c/c1/Kaede_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/c/c1/Kaede_Icon.png"],
         "Bio": {
             "zh": "今天要玩什么呢！？",
             "jp": "今日は何して遊ぶ！？",
@@ -1382,9 +1233,7 @@
     },
     {
         "Id": 20016,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/6/6a/Iroha_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/6/6a/Iroha_Icon.png"],
         "Bio": {
             "zh": "读书时除了紧急状况请不要联络我",
             "jp": "読書中につき、急用以外は連絡しないでください",
@@ -1396,9 +1245,7 @@
     },
     {
         "Id": 16009,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/2/24/Michiru_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/2/24/Michiru_Icon.png"],
         "Bio": {
             "zh": "请关注「少女忍法帖 小小满」！",
             "jp": "「少女忍法帖ミチルっち」チャンネル登録よろしく！",
@@ -1410,9 +1257,7 @@
     },
     {
         "Id": 10040,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/5/54/Tsukuyo_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/5/54/Tsukuyo_Icon.png"],
         "Bio": {
             "zh": "有朝一日要成为，独当一面的忍者……",
             "jp": "いつかは、一人前の忍者に……",
@@ -1439,9 +1284,7 @@
     },
     {
         "Id": 20017,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/a/af/Hiyori_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/a/af/Hiyori_Icon.png"],
         "Bio": {
             "zh": "人生是痛苦的连续……",
             "jp": "人生は、苦痛の連続です……",
@@ -1501,9 +1344,7 @@
     },
     {
         "Id": 26007,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/a/af/Ayane_Swimsuit_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/a/af/Ayane_Swimsuit_Icon.png"],
         "Bio": {
             "zh": "玩的时候就要好好玩！",
             "jp": "遊ぶときはしっかり遊びましょう！",
@@ -1532,9 +1373,7 @@
     },
     {
         "Id": 26008,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/4/4f/Shizuko_Swimsuit_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/4/4f/Shizuko_Swimsuit_Icon.png"],
         "Bio": {
             "zh": "百夜堂连锁店热烈营业中！",
             "jp": "百夜堂フランチャイズ絶賛営業中！",
@@ -1547,9 +1386,7 @@
     },
     {
         "Id": 10046,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/f/f6/Izuna_Swimsuit_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/f/f6/Izuna_Swimsuit_Icon.png"],
         "Bio": {
             "zh": "这次要在海边修行咯！忍忍！",
             "jp": "今度は海で修行です！ニンニン！",
@@ -1562,9 +1399,7 @@
     },
     {
         "Id": 10047,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/1/11/Chise_Swimsuit_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/1/11/Chise_Swimsuit_Icon.png"],
         "Bio": {
             "zh": "光芒～会在哪里呢？",
             "jp": "キラキラ～。どこにあるのかな？",
@@ -1608,9 +1443,7 @@
     },
     {
         "Id": 10049,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/c/cb/Kazusa_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/c/cb/Kazusa_Icon.png"],
         "Bio": {
             "zh": "放学后的甜点部成员",
             "jp": "放課後スイーツ部のメンバーです",
@@ -1622,9 +1455,7 @@
     },
     {
         "Id": 10050,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/4/4a/Kokona_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/4/4a/Kokona_Icon.png"],
         "Bio": {
             "zh": "我是山海经的教官！",
             "jp": "山海経の教官です！",
@@ -1636,9 +1467,7 @@
     },
     {
         "Id": 10051,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/b/bd/Utaha_Cheerleader_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/b/bd/Utaha_Cheerleader_Icon.png"],
         "Bio": {
             "zh": "应援委托受理中！",
             "jp": "応援依頼受付中！",
@@ -1651,9 +1480,7 @@
     },
     {
         "Id": 10052,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/3/31/Noa_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/3/31/Noa_Icon.png"],
         "Bio": {
             "zh": "奇普托斯的忧郁",
             "jp": "キヴォトスの憂鬱",
@@ -1665,9 +1492,7 @@
     },
     {
         "Id": 16010,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/a/ab/Hibiki_Cheerleader_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/a/ab/Hibiki_Cheerleader_Icon.png"],
         "Bio": {
             "zh": "如果有更多时间练习的话……",
             "jp": "もう少し練習する時間があれば……",
@@ -1680,9 +1505,7 @@
     },
     {
         "Id": 20019,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/7/7f/Akane_Bunny_Girl_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/7/7f/Akane_Bunny_Girl_Icon.png"],
         "Bio": {
             "zh": "和有点新鲜的日常生活一起",
             "jp": "少しだけ新しい日常と共に",
@@ -1695,9 +1518,7 @@
     },
     {
         "Id": 10053,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/9/95/Yuuka_Gym_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/9/95/Yuuka_Gym_Icon.png"],
         "Bio": {
             "zh": "晄轮大祭现正举办中！",
             "jp": "晄輪大祭開催中！",
@@ -1710,9 +1531,7 @@
     },
     {
         "Id": 10054,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/9/99/Mari_Gym_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/9/99/Mari_Gym_Icon.png"],
         "Bio": {
             "zh": "希望会是一场和平的庆典",
             "jp": "平和なお祭りになりますように",
@@ -1725,9 +1544,7 @@
     },
     {
         "Id": 16011,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/9/9e/Hasumi_Gym_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/9/9e/Hasumi_Gym_Icon.png"],
         "Bio": {
             "zh": "大会运营相关咨询请到执行委员会",
             "jp": "大会運営に関するお問い合わせは実行委員会まで",
@@ -1755,9 +1572,7 @@
     },
     {
         "Id": 10055,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/0/0c/Shigure_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/0/0c/Shigure_Icon.png"],
         "Bio": {
             "zh": "调一杯饮料改变人生的时间到啦",
             "jp": "飲み物を混ぜて人生を変える時間だね",
@@ -1769,9 +1584,7 @@
     },
     {
         "Id": 10056,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/d/d9/Serina_Christmas_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/d/d9/Serina_Christmas_Icon.png"],
         "Bio": {
             "zh": "在这圣夜里，希望大家都有幸福来敲门",
             "jp": "聖なる夜、みなさんに幸せが訪れますよう",
@@ -1784,9 +1597,7 @@
     },
     {
         "Id": 20021,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/0/0a/Hanae_Christmas_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/0/0a/Hanae_Christmas_Icon.png"],
         "Bio": {
             "zh": "在等圣诞老人！",
             "jp": "サンタさんを待ってます！",
@@ -1799,9 +1610,7 @@
     },
     {
         "Id": 10057,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/4/4b/Haruna_New_Year_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/4/4b/Haruna_New_Year_Icon.png"],
         "Bio": {
             "zh": "今年也要探寻究极的美食",
             "jp": "今年も、究極の美食を探求いたします",
@@ -1814,9 +1623,7 @@
     },
     {
         "Id": 20022,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/f/f9/Fuuka_New_Year_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/f/f9/Fuuka_New_Year_Icon.png"],
         "Bio": {
             "zh": "平安无事、祈愿中",
             "jp": "平穏無事、祈願中",
@@ -1829,9 +1636,7 @@
     },
     {
         "Id": 16012,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/3/31/Junko_New_Year_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/3/31/Junko_New_Year_Icon.png"],
         "Bio": {
             "zh": "吃东西的时候别来烦我！",
             "jp": "食べてる時は邪魔しないで！",
@@ -1844,9 +1649,7 @@
     },
     {
         "Id": 10058,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/b/b1/Mine_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/b/b1/Mine_Icon.png"],
         "Bio": {
             "zh": "我时刻准备就绪",
             "jp": "私はいつでも準備できております",
@@ -1874,9 +1677,7 @@
     },
     {
         "Id": 10060,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/9/9b/Megu_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/9/9b/Megu_Icon.png"],
         "Bio": {
             "zh": "随时欢迎温泉开发的同志哦！",
             "jp": "温泉開発の同志はいつでも歓迎だよ！",
@@ -1888,9 +1689,7 @@
     },
     {
         "Id": 20023,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/b/ba/Kanna_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/b/ba/Kanna_Icon.png"],
         "Bio": {
             "zh": "创建安全的鸡窝托斯，请交给瓦尔基里",
             "jp": "安全なキヴォトスを目指して、ヴァルキューレにお任せを",
@@ -1964,9 +1763,7 @@
     },
     {
         "Id": 10064,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/2/23/Kayoko_New_Year_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/2/23/Kayoko_New_Year_Icon.png"],
         "Bio": {
             "zh": "谨贺新年",
             "jp": "謹賀新年",
@@ -1979,9 +1776,7 @@
     },
     {
         "Id": 20025,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/2/2d/Haruka_New_Year_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/2/2d/Haruka_New_Year_Icon.png"],
         "Bio": {
             "zh": "新年也请一直幸福地度过",
             "jp": "新年も末永くお幸せにお過ごしください",
@@ -1994,9 +1789,7 @@
     },
     {
         "Id": 10065,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/b/be/Kaho_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/b/be/Kaho_Icon.png"],
         "Bio": {
             "zh": "业务相关请随时咨询",
             "jp": "業務に関してはお気軽にご相談ください",
@@ -2008,9 +1801,7 @@
     },
     {
         "Id": 10066,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/4/48/Alice_Maid_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/4/48/Alice_Maid_Icon.png"],
         "Bio": {
             "zh": "我是女仆勇者爱丽丝",
             "jp": "メイド勇者のアリスです",
@@ -2023,9 +1814,7 @@
     },
     {
         "Id": 10067,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/f/ff/Toki_Bunny_Girl_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/f/ff/Toki_Bunny_Girl_Icon.png"],
         "Bio": {
             "zh": "作战待机中",
             "jp": "作戦待機中",
@@ -2038,9 +1827,7 @@
     },
     {
         "Id": 26009,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/e/e1/Yuzu_Maid_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/e/e1/Yuzu_Maid_Icon.png"],
         "Bio": {
             "zh": "403 Forbidden",
             "jp": "403 Forbidden",
@@ -2053,9 +1840,7 @@
     },
     {
         "Id": 10068,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/e/e5/Reisa_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/e/e5/Reisa_Icon.png"],
         "Bio": {
             "zh": "\"The ♠ of Vigilante\"",
             "jp": "\"The ♠ of Vigilante\"",
@@ -2067,9 +1852,7 @@
     },
     {
         "Id": 10069,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/b/bc/Rumi_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/b/bc/Rumi_Icon.png"],
         "Bio": {
             "zh": "玄武商会，正在营业中",
             "jp": "玄武商会、営業中だよ",
@@ -2081,9 +1864,7 @@
     },
     {
         "Id": 10070,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/8/8f/Mina_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/8/8f/Mina_Icon.png"],
         "Bio": {
             "zh": "能听到风声啊……",
             "jp": "風の声が聞こえるな……",
@@ -2095,9 +1876,7 @@
     },
     {
         "Id": 20026,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/4/43/Minori_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/4/43/Minori_Icon.png"],
         "Bio": {
             "zh": "联邦学生会应保证每周休息4天！",
             "jp": "連邦生徒会は週休4日を保障せよ！",
@@ -2109,9 +1888,7 @@
     },
     {
         "Id": 10071,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/8/8e/Miyako_Swimsuit_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/8/8e/Miyako_Swimsuit_Icon.png"],
         "Bio": {
             "zh": "用结果来证明",
             "jp": "結果で証明します",
@@ -2124,9 +1901,7 @@
     },
     {
         "Id": 10072,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/e/e5/Saki_Swimsuit_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/e/e5/Saki_Swimsuit_Icon.png"],
         "Bio": {
             "zh": "将不可能化为可能",
             "jp": "不可能を可能に",
@@ -2139,9 +1914,7 @@
     },
     {
         "Id": 26010,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/9/9b/Miyu_Swimsuit_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/9/9b/Miyu_Swimsuit_Icon.png"],
         "Bio": {
             "zh": "船到桥头自然直",
             "jp": "明日は明日の風が吹く",
@@ -2154,9 +1927,7 @@
     },
     {
         "Id": 20027,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/c/c8/Shiroko_Swimsuit_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/c/c8/Shiroko_Swimsuit_Icon.png"],
         "Bio": {
             "zh": "嗯，需要粮食请联络我",
             "jp": "ん、食糧が必要な人は連絡して",
@@ -2169,9 +1940,7 @@
     },
     {
         "Id": 10073,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/5/53/Ui_Swimsuit_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/5/53/Ui_Swimsuit_Icon.png"],
         "Bio": {
             "zh": "出差中",
             "jp": "出張中",
@@ -2182,9 +1951,7 @@
     },
     {
         "Id": 20028,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/c/cd/Hinata_Swimsuit_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/c/cd/Hinata_Swimsuit_Icon.png"],
         "Bio": {
             "zh": "出差中，有事请留言！",
             "jp": "出張中です、なにかありましたらメッセージをどうぞ！",
@@ -2195,9 +1962,7 @@
     },
     {
         "Id": 16013,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/0/03/Koharu_Swimsuit_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/0/03/Koharu_Swimsuit_Icon.png"],
         "Bio": {
             "zh": "泳装才不是涩涩呢！",
             "jp": "水着はエッチじゃないんだからね！",
@@ -2208,9 +1973,7 @@
     },
     {
         "Id": 10074,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/9/96/Hanako_Swimsuit_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/9/96/Hanako_Swimsuit_Icon.png"],
         "Bio": {
             "zh": "我的真面目，可以随着肌肤一同裸露出来吗？",
             "jp": "さらけ出した肌のぶんだけ、素直になっていいですか？",
@@ -2221,9 +1984,7 @@
     },
     {
         "Id": 20029,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/2/2d/Mimori_Swimsuit_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/2/2d/Mimori_Swimsuit_Icon.png"],
         "Bio": {
             "zh": "总觉得，会有什么好事发生",
             "jp": "なんだか、いいことが起きそう",
@@ -2248,9 +2009,7 @@
     },
     {
         "Id": 13013,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/a/a9/Momiji_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/a/a9/Momiji_Icon.png"],
         "Bio": {
             "zh": "知识就是力量。我会好好保护它的！",
             "jp": "知識は力。ちゃんと守っていきます！",
@@ -2260,9 +2019,7 @@
     },
     {
         "Id": 10076,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/b/bb/Kotori_Cheerleader_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/b/bb/Kotori_Cheerleader_Icon.png"],
         "Bio": {
             "zh": "健全的知识寓于健康的身体！",
             "jp": "健全な知識は健全な肉体に宿ります！",
@@ -2273,9 +2030,7 @@
     },
     {
         "Id": 20030,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/0/0b/Haruna_Gym_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/0/0b/Haruna_Gym_Icon.png"],
         "Bio": {
             "zh": "一起来探寻运动和美食之间的关系吧",
             "jp": "運動と美食の相関関係を探してみましょうか",
@@ -2286,9 +2041,7 @@
     },
     {
         "Id": 10077,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/2/2f/Ichika_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/2/2f/Ichika_Icon.png"],
         "Bio": {
             "zh": "无论何时都是大家的伙伴，正义实现委员会！",
             "jp": "いつも皆さんの味方、正義実現委員会っす！",
@@ -2298,9 +2051,7 @@
     },
     {
         "Id": 10078,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/1/1e/Kasumi_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/1/1e/Kasumi_Icon.png"],
         "Bio": {
             "zh": "众生皆源于温泉，亦将终归于温泉",
             "jp": "みな温泉から生まれ、温泉に還る",
@@ -2310,9 +2061,7 @@
     },
     {
         "Id": 20031,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/9/91/Shigure_Hot_Spring_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/9/91/Shigure_Hot_Spring_Icon.png"],
         "Bio": {
             "zh": "倘若乡愁也能一饮而尽",
             "jp": "郷愁さえも飲み干せるのなら",
@@ -2323,9 +2072,7 @@
     },
     {
         "Id": 10079,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/8/81/Misaka_Mikoto_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/8/81/Misaka_Mikoto_Icon.png"],
         "Bio": {
             "zh": "寻找周边中",
             "jp": "グッズ探し中",
@@ -2335,9 +2082,7 @@
     },
     {
         "Id": 10080,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/a/a2/Shokuhou_Misaki_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/a/a2/Shokuhou_Misaki_Icon.png"],
         "Bio": {
             "zh": "我会联系你的",
             "jp": "連絡はこちらからするわ",
@@ -2347,9 +2092,7 @@
     },
     {
         "Id": 26011,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/0/0b/Saten_Ruiko_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/0/0b/Saten_Ruiko_Icon.png"],
         "Bio": {
             "zh": "要是看到了不可思议的东西，请联系我！",
             "jp": "不思議なものが見つかったら、ご連絡ください！",
@@ -2388,9 +2131,7 @@
     },
     {
         "Id": 10082,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/9/90/Renge_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/9/90/Renge_Icon.png"],
         "Bio": {
             "zh": "此刻正值青春之盛时！",
             "jp": "今が青春真っ盛り！",
@@ -2400,9 +2141,7 @@
     },
     {
         "Id": 10083,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/5/55/Kikyou_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/5/55/Kikyou_Icon.png"],
         "Bio": {
             "zh": "教学相长",
             "jp": "教学相長ず",
@@ -2412,7 +2151,7 @@
     },
     {
         "Id": 20032,
-        "Avatar": [],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/1/10/Eimi_Swimsuit_Icon.png"],
         "Bio": {
             "zh": "不在",
             "jp": "不在",
