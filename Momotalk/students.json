@@ -74,7 +74,7 @@
     {
         "Id": 10005,
         "Avatar": [
-            "/momotalk/Avatars/Hoshino.webp",
+            "/api/Avatars/Hoshino.webp",
             "https://static.wikia.nocookie.net/blue-archive/images/d/de/Hoshino_Icon.png",
             "https://static.wikia.nocookie.net/blue-archive/images/8/8e/Hoshino_Robber_Icon.png"
         ],
@@ -132,7 +132,7 @@
     {
         "Id": 10009,
         "Avatar": [
-            "/momotalk/Avatars/Izumi_New_Year.webp",
+            "/api/Avatars/Izumi_New_Year.webp",
             "https://static.wikia.nocookie.net/blue-archive/images/0/03/Izumi_Icon.png",
             "https://static.wikia.nocookie.net/blue-archive/images/6/6f/Izumi_New_Year_Icon.png"
         ],
@@ -233,7 +233,7 @@
     {
         "Id": 13002,
         "Avatar": [
-            "/momotalk/Avatars/Akari_New_Year.webp",
+            "/api/Avatars/Akari_New_Year.webp",
             "https://static.wikia.nocookie.net/blue-archive/images/1/1b/Akari_Icon.png",
             "https://static.wikia.nocookie.net/blue-archive/images/c/c3/Akari_New_Year_Icon.png"
         ],
@@ -321,7 +321,7 @@
     {
         "Id": 13008,
         "Avatar": [
-            "/momotalk/Avatars/Serika_Swimsuit.webp",
+            "/api/Avatars/Serika_Swimsuit.webp",
             "https://static.wikia.nocookie.net/blue-archive/images/5/5f/Serika_Icon.png",
             "https://static.wikia.nocookie.net/blue-archive/images/6/60/Serika_Shibaseki_Icon.png",
             "https://static.wikia.nocookie.net/blue-archive/images/c/c4/Serika_Robber_Icon.png",
@@ -722,7 +722,7 @@
     {
         "Id": 10016,
         "Avatar": [
-            "/momotalk/Avatars/Midori_Maid.webp",
+            "/api/Avatars/Midori_Maid.webp",
             "https://static.wikia.nocookie.net/blue-archive/images/a/ae/Midori_Icon.png",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_200/h_200/829/43637/2023/4/5/824530.png"
         ],
@@ -738,7 +738,7 @@
     {
         "Id": 13011,
         "Avatar": [
-            "/momotalk/Avatars/Momoi_Maid.webp",
+            "/api/Avatars/Momoi_Maid.webp",
             "https://static.wikia.nocookie.net/blue-archive/images/7/72/Momoi_Icon.png",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_200/h_200/829/43637/2023/4/5/261764.png"
         ],
@@ -782,7 +782,7 @@
     {
         "Id": 10018,
         "Avatar": [
-            "/momotalk/Avatars/Yuzu.webp",
+            "/api/Avatars/Yuzu.webp",
             "https://static.wikia.nocookie.net/blue-archive/images/0/09/Yuzu_Icon.png"
         ],
         "Bio": {
@@ -1593,7 +1593,7 @@
     {
         "Id": 20018,
         "Avatar": [
-            "/momotalk/Avatars/Moe_Swimsuit.webp",
+            "/api/Avatars/Moe_Swimsuit.webp",
             "https://static.wikia.nocookie.net/blue-archive/images/0/06/Moe_Icon.png",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_200/h_200/829/43637/2023/5/27/712489.png"
         ],
@@ -1949,7 +1949,7 @@
     {
         "Id": 10063,
         "Avatar": [
-            "/momotalk/Avatars/Koyuki_Bunny_Girl.webp",
+            "/api/Avatars/Koyuki_Bunny_Girl.webp",
             "https://static.wikia.nocookie.net/blue-archive/images/9/97/Koyuki_Icon.png",
             "https://static.wikia.nocookie.net/blue-archive/images/a/a0/Koyuki_Bunny_Girl_Icon.png"
         ],
@@ -2235,7 +2235,7 @@
     {
         "Id": 10075,
         "Avatar": [
-            "/momotalk/Avatars/Meru_Hot_Spring.webp",
+            "/api/Avatars/Meru_Hot_Spring.webp",
             "https://static.wikia.nocookie.net/blue-archive/images/2/2b/Meru_Icon.png",
             "https://static.wikia.nocookie.net/blue-archive/images/2/2c/Meru_Hot_Spring_Icon.png"
         ],
@@ -2361,7 +2361,7 @@
     {
         "Id": 10081,
         "Avatar": [
-            "/momotalk/Avatars/Yukari.webp",
+            "/api/Avatars/Yukari.webp",
             "https://static.wikia.nocookie.net/blue-archive/images/3/3f/Yukari_Icon.png",
             "https://static.wikia.nocookie.net/blue-archive/images/3/3b/Yukari_Middle_School_Icon.png"
         ],

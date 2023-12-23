@@ -132,7 +132,7 @@
         "Type": 0,
         "NextId": 100380140,
         "MessageType": "Image",
-        "ImagePath": "./Stickers/Mo_Miyako_01.webp",
+        "ImagePath": "/api/Stickers/Mo_Miyako_01.webp",
         "MessageJP": "",
         "MessageKR": "",
         "MessageTW": "",

@@ -72,7 +72,7 @@
             "en": "Schale Student"
         },
         "Avatar": [
-            "/momotalk/Avatars/Schale2.webp",
+            "/api/Avatars/Schale2.webp",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_200/h_200/829/43637/2023/7/8/144957.png",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_200/h_200/829/43637/2023/7/8/448379.png"
         ],
@@ -281,10 +281,10 @@
             "kr": "게헨나 학생"
         },
         "Avatar": [
-            "/momotalk/Avatars/Gehenna2.webp",
-            "/momotalk/Avatars/Gehenna3.webp",
-            "/momotalk/Avatars/Gehenna4.webp",
-            "/momotalk/Avatars/Gehenna5.webp",
+            "/api/Avatars/Gehenna2.webp",
+            "/api/Avatars/Gehenna3.webp",
+            "/api/Avatars/Gehenna4.webp",
+            "/api/Avatars/Gehenna5.webp",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_252/h_204/829/43637/2023/7/8/602110.png",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_252/h_204/829/43637/2023/7/8/923176.png",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_252/h_204/829/43637/2023/7/8/6851.png",
@@ -397,7 +397,7 @@
             "kr": "밀레니엄 학생"
         },
         "Avatar": [
-            "/momotalk/Avatars/Millennium2.webp",
+            "/api/Avatars/Millennium2.webp",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_252/h_204/829/43637/2023/7/8/793158.png",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_252/h_204/829/43637/2023/7/8/52322.png"
         ],
@@ -436,10 +436,10 @@
             "kr": "트리니티 학생"
         },
         "Avatar": [
-            "/momotalk/Avatars/Trinity2.webp",
-            "/momotalk/Avatars/Trinity3.webp",
-            "/momotalk/Avatars/Trinity4.webp",
-            "/momotalk/Avatars/Trinity5.webp",
+            "/api/Avatars/Trinity2.webp",
+            "/api/Avatars/Trinity3.webp",
+            "/api/Avatars/Trinity4.webp",
+            "/api/Avatars/Trinity5.webp",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_252/h_204/829/43637/2023/7/8/961729.png",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_252/h_204/829/43637/2023/7/8/470787.png",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_252/h_204/829/43637/2023/7/8/936072.png",
@@ -487,10 +487,10 @@
             "kr": "백귀야행 학생"
         },
         "Avatar": [
-            "/momotalk/Avatars/Hyakkiyako2.webp",
-            "/momotalk/Avatars/Hyakkiyako3.webp",
-            "/momotalk/Avatars/Hyakkiyako4.webp",
-            "/momotalk/Avatars/Hyakkiyako5.webp",
+            "/api/Avatars/Hyakkiyako2.webp",
+            "/api/Avatars/Hyakkiyako3.webp",
+            "/api/Avatars/Hyakkiyako4.webp",
+            "/api/Avatars/Hyakkiyako5.webp",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_252/h_204/829/43637/2023/7/8/52113.png",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_252/h_204/829/43637/2023/7/8/539444.png",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_550/h_550/829/43637/2023/10/9/5596.png",
@@ -629,9 +629,9 @@
             "kr": "산해경 학생"
         },
         "Avatar": [
-            "/momotalk/Avatars/Shanhaijing2.webp",
-            "/momotalk/Avatars/Shanhaijing3.webp",
-            "/momotalk/Avatars/Shanhaijing4.webp",
+            "/api/Avatars/Shanhaijing2.webp",
+            "/api/Avatars/Shanhaijing3.webp",
+            "/api/Avatars/Shanhaijing4.webp",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_252/h_204/829/43637/2023/7/8/540339.png",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_200/h_200/829/43637/2023/7/8/924732.png",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_550/h_550/829/43637/2023/10/9/703879.png",
@@ -709,7 +709,7 @@
             "kr": "붉은겨울 학생"
         },
         "Avatar": [
-            "/momotalk/Avatars/RedWinter2.webp",
+            "/api/Avatars/RedWinter2.webp",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_252/h_204/829/43637/2023/7/9/88211.png",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_252/h_204/829/43637/2023/7/9/409008.png"
         ],
@@ -1084,10 +1084,10 @@
             "kr": "카이텐져"
         },
         "Avatar": [
-            "/momotalk/Avatars/Kaitenger2.webp",
-            "/momotalk/Avatars/Kaitenger3.webp",
-            "/momotalk/Avatars/Kaitenger4.webp",
-            "/momotalk/Avatars/Kaitenger5.webp",
+            "/api/Avatars/Kaitenger2.webp",
+            "/api/Avatars/Kaitenger3.webp",
+            "/api/Avatars/Kaitenger4.webp",
+            "/api/Avatars/Kaitenger5.webp",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_252/h_204/829/43637/2022/6/2/23158.png",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_252/h_204/829/43637/2022/6/2/36893.png",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_252/h_204/829/43637/2022/6/2/228429.png",
@@ -1112,10 +1112,10 @@
             "en": "Sukeban"
         },
         "Avatar": [
-            "/momotalk/Avatars/Sukeban2.webp",
-            "/momotalk/Avatars/Sukeban3.webp",
-            "/momotalk/Avatars/Sukeban4.webp",
-            "/momotalk/Avatars/Sukeban5.webp",
+            "/api/Avatars/Sukeban2.webp",
+            "/api/Avatars/Sukeban3.webp",
+            "/api/Avatars/Sukeban4.webp",
+            "/api/Avatars/Sukeban5.webp",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_252/h_204/829/43637/2022/6/2/703523.png",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_252/h_204/829/43637/2022/6/2/785318.png",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_252/h_204/829/43637/2022/6/2/940419.png",
@@ -1136,7 +1136,7 @@
             "kr": "헬멧단"
         },
         "Avatar": [
-            "/momotalk/Avatars/Helmet_2.webp",
+            "/api/Avatars/Helmet_2.webp",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_252/h_204/829/43637/2022/6/2/354264.png",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_252/h_204/829/43637/2022/6/2/101340.png"
         ],
@@ -1154,13 +1154,13 @@
             "kr": "학생"
         },
         "Avatar": [
-            "/momotalk/Avatars/Student2.webp",
-            "/momotalk/Avatars/Student3.webp",
-            "/momotalk/Avatars/Student4.webp",
-            "/momotalk/Avatars/Student5.webp",
-            "/momotalk/Avatars/Student6.webp",
-            "/momotalk/Avatars/Student7.webp",
-            "/momotalk/Avatars/Student8.webp",
+            "/api/Avatars/Student2.webp",
+            "/api/Avatars/Student3.webp",
+            "/api/Avatars/Student4.webp",
+            "/api/Avatars/Student5.webp",
+            "/api/Avatars/Student6.webp",
+            "/api/Avatars/Student7.webp",
+            "/api/Avatars/Student8.webp",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_252/h_204/829/43637/2023/7/8/496653.png",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_252/h_204/829/43637/2023/7/8/802905.png",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_252/h_204/829/43637/2023/7/8/121389.png",

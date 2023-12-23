@@ -120,7 +120,7 @@
         "Type": 0,
         "NextId": 100060370,
         "MessageType": "Image",
-        "ImagePath": "./Stickers/Mo_Iori_01.webp",
+        "ImagePath": "/api/Stickers/Mo_Iori_01.webp",
         "MessageJP": "",
         "MessageKR": "",
         "MessageTW": "",
