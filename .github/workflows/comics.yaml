@@ -3,8 +3,9 @@ name: download-comics
 on:
   workflow_dispatch: 
   schedule:
-  # 定时任务在每天的14点执行
-    - cron:  0 6 * * * 
+  # 定时任务在周四周五的15点执行
+    - cron:  0 7 * * 4 
+    - cron:  0 7 * * 5 
 
 jobs:
   build:
