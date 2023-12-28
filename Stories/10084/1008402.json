@@ -1,0 +1,141 @@
+[
+    {
+        "CharacterId": 10084,
+        "MessageJP": "コタマ（キャンプ）",
+        "MessageKR": "코타마(캠핑)",
+        "MessageTW": "コタマ（キャンプ）",
+        "MessageEN": "Kotama (Camping)"
+    },
+    {
+        "MessageId": 100830090,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 100840090,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 100840090,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100840100,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "たしかに副部長の言う通り……",
+        "MessageKR": "확실히 부부장의 말처럼",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100840100,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 100840110,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "もう少し体力があった方が良いかもしれません",
+        "MessageKR": "올해는 좀 더 체력을 키워 두는 편이 좋을지도 모르겠습니다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100840110,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 100840120,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "それは良い考えだけど……",
+        "MessageKR": "좋은 생각이긴 한데……",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100840120,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 100840130,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "……急にどうしたの？",
+        "MessageKR": "……어째서 갑자기 그런 생각을?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100840130,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100840131,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ハッカーとして活動するためには、ある程度の体力も必要ですからね",
+        "MessageKR": "해커로서 활동하기 위해서는 어느 정도의 체력도 필요하니까요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100840131,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100840140,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "前回の登山で思い知らされたんです……",
+        "MessageKR": "지난 번의 산행을 통해 뼈저리게 느꼈습니다……",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100840140,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 100840141,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "チヒロ副部長のように、急な崖も軽々と登れるような体力を身に付けられたら……",
+        "MessageKR": "치히로 부부장처럼 험지도 쉽게 오를 수 있는 체력을 갖추게 된다면",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100840141,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100840150,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "盗聴の待機場所にも幅が出るはずです",
+        "MessageKR": "접근하기 어려운 지점에서의 도청도 쉽게 할 수 있을 겁니다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100840150,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 100830157,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "……なんて返したらいいんだろうね",
+        "MessageKR": "이유가 불손해……",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100830157,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "コタマ（キャンプ）の絆イベントへ",
+        "MessageKR": "코타마(캠핑)의 인연스토리로",
+        "MessageTW": "前往コタマ（キャンプ）的羈絆劇情",
+        "MessageEN": "Go to Kotama (Camping)'s Event"
+    }
+]

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、村の西側に干潟があるらしいぞ",
         "MessageKR": "선생님, 마을 서쪽에 갯벌이 있는 거 알고 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，村子西邊好像有一片泥灘哦",
+        "MessageEN": "Sensei, did you know that there is a mudflat west of town?"
     },
     {
         "MessageId": 100720240,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "住民に聞いたら、1日に2回潮が引いて",
         "MessageKR": "마을 주민들에게 들었는데, 마을의 서쪽 해안은 하루에 두 번씩 물이 빠져서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "聽居民說，一天會退潮兩次",
+        "MessageEN": "According to the locals, the water recedes twice a day at the western shore"
     },
     {
         "MessageId": 100720241,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "干潟が現れるんだとか",
         "MessageKR": "갯벌 바닥이 드러난다고 하더라고.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "然後那片泥灘就會出現",
+        "MessageEN": "and exposes a mudflat!"
     },
     {
         "MessageId": 100720250,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "不思議な現象だね",
         "MessageKR": "그거 신기하네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真是不可思議的現象呢",
+        "MessageEN": "That's amazing."
     },
     {
         "MessageId": 100720260,
@@ -74,9 +74,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "潮が引くと、貝や魚が簡単に拾えるんだ",
-        "MessageKR": "응. 그래서 갯벌이 드러났을 때는 조개나 물웅덩이에 남아 있는 물고기를 편하게 주울 수 있대.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "응. 그래서 갯벌이 드러났을 때는 조개나 물 웅덩이에 남아 있는 물고기를 편하게 주울 수 있대.",
+        "MessageTW": "聽說退潮的時候，可以很輕鬆地撿到貝類或魚",
+        "MessageEN": "All these fish get trapped in the pools that form when the tide is out, and they're easy picking."
     },
     {
         "MessageId": 100720270,
@@ -86,9 +86,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "……実は、海産物を獲る許可をもらった時に",
-        "MessageKR": "……사실 지난번에 마을 주민들에게 채취 허가를 받으면서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "……사실 지난 번에 마을 주민들에게 채취 허가를 받으면서",
+        "MessageTW": "……其實，在取得採集海產的許可時",
+        "MessageEN": "Last time, when I asked if I could fish off their shore,"
     },
     {
         "MessageId": 100720271,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "干潟にも入っていいと言われてるんだ",
         "MessageKR": "갯벌에 들어가도 좋다는 허락도 받았거든.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "他們也告訴我可以到泥灘去",
+        "MessageEN": "they also said I could use the mudflat."
     },
     {
         "MessageId": 100720280,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "それで、時間があるなら一緒に行かないか？",
         "MessageKR": "그래서 말인데, 시간 있으면 마을 서편의 갯바위 앞으로 나와 줄래?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以，有空的話要不要一起去？",
+        "MessageEN": "If you have time, can you meet me at the shore on the west of town?"
     },
     {
         "MessageId": 100720281,
@@ -122,9 +122,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "水中では失態を見せたが、干潟で落ちてる魚を拾うだけだ。同じ過ちは繰り返さない……",
-        "MessageKR": "물 속이라면 몰라도 땅 위에서 물고기를 줍는데, 지난번 같은 실수를 저지르지는 않겠지……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "물 속이라면 몰라도 땅 위에서 물고기를 줍는데, 지난 번 같은 실수를 저지르지는 않겠지……",
+        "MessageTW": "雖然讓你看到了在水中的失態，不過這次只是在泥灘上撿撿魚而已。不會再犯跟上次同樣的錯誤……",
+        "MessageEN": "I won't have to actually get into the water this time, so I'm sure I won't repeat any of my old mistakes..."
     },
     {
         "MessageId": 100720290,
@@ -134,9 +134,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "今度こそ、先生に最高級の海産物を食べてもらう！",
-        "MessageKR": "이번에야말로 선생님에게 최고급 해산물을 대접할 테니까!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "이번에야 말로 선생님에게 최고급 해산물을 대접할 테니까!",
+        "MessageTW": "這次絕對要讓老師吃到最高級的海產！",
+        "MessageEN": "This time, I'm really going to catch something special for you!"
     },
     {
         "MessageId": 100710297,

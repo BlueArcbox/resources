@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、ちょっといいか？",
         "MessageKR": "선생님, 지금 시간 괜찮아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，現在有空嗎？",
+        "MessageEN": "Sensei, are you busy right now?"
     },
     {
         "MessageId": 100720110,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "さっき、面白い物を見つけたんだ",
         "MessageKR": "내가 방금 끝내주는 물건을 찾은 참이거든.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我剛才找到了一個有趣的東西",
+        "MessageEN": "I just happened on something amazing!"
     },
     {
         "MessageId": 100720111,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "これがあれば、今度こそ先生に魚を獲ってこれる！",
         "MessageKR": "이것만 있으면 어떤 큰 물고기라도 한 방에 해치울 수 있어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只要有這個，這次一定能抓魚給老師！",
+        "MessageEN": "With this, I'll be able to catch even the biggest fish!"
     },
     {
         "MessageId": 100720120,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "倉庫に網でもあったの？",
         "MessageKR": "뭔가 좋은 그물이라도 찾은 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是在倉庫裡找到漁網了嗎？",
+        "MessageEN": "Did you find a fishing net?"
     },
     {
         "MessageId": 100720130,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ふふん",
         "MessageKR": "그물?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哼哼",
+        "MessageEN": "A net?"
     },
     {
         "MessageId": 100720140,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ただの網だと思ったら間違いだ",
         "MessageKR": "이 물건의 가치는 그런 평범한 어구에 비할 바가 아니라고.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "以為只是單純的漁網就大錯特錯了",
+        "MessageEN": "It's nothing so mundane as a net."
     },
     {
         "MessageId": 100720150,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "これは直接見せた方がいいな",
         "MessageKR": "역시 모모톡으로 설명하는 것보다는 직접 보여주는 게 낫겠지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這個還是直接給你看看比較好",
+        "MessageEN": "I can't describe it here. You need to see it for yourself."
     },
     {
         "MessageId": 100720151,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "この前の波止場に来てくれ",
         "MessageKR": "지금 바로 전의 부둣가로 와줄래?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "來之前那個碼頭一趟吧",
+        "MessageEN": "Can you come to the dock right now?"
     },
     {
         "MessageId": 100720160,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "今度こそ、先生に最高級の刺身を食べさせてやる！",
         "MessageKR": "이번에야말로 선생님에게 최고급 생선회를 대접할 테니까!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這次絕對要讓老師吃到最高級的生魚片！",
+        "MessageEN": "I'm going to treat you to the best sashimi after this!"
     },
     {
         "MessageId": 100710177,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 100720180,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "あの後、波止場の様子を見に行ったら",
         "MessageKR": "나중에 다시 그 부둣가에 갔다가 발견했는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "後來，我又去看了看碼頭的情況",
+        "MessageEN": "I went back to the dock later and found"
     },
     {
         "MessageId": 100720190,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "水面に小魚が何匹か浮かんでいたぞ",
         "MessageKR": "수면 위에 작은 물고기 여러 마리가 떠 있더라고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "發現水面上漂著幾隻小魚",
+        "MessageEN": "little fish floating on the surface."
     },
     {
         "MessageId": 100720191,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "おそらく、爆破の衝撃で気を失ったんだろう",
         "MessageKR": "아마 아까 터트린 폭뢰의 강한 충격으로 인해 기절한 모양이야",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "恐怕是被爆炸的衝擊震暈了吧",
+        "MessageEN": "They must have been knocked unconscious by the explosion I set off earlier."
     },
     {
         "MessageId": 100720200,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "小さな魚は、意外と衝撃に弱いって聞くよね",
         "MessageKR": "작은 물고기들은 외부 충격에 약하다고 하니까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我聽說體型小的魚意外的怕衝擊",
+        "MessageEN": "Small fish must be vulnerable to external shocks."
     },
     {
         "MessageId": 100720210,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "と、いうことは……",
         "MessageKR": "……그렇다면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "也就是說……",
+        "MessageEN": "So that means..."
     },
     {
         "MessageId": 100720211,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "高圧電流を流せば、まとめて気絶……",
         "MessageKR": "자동차 배터리 같은 것으로 물에 전류를 흘려 물고기를 기절시킨다면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只要接入高壓電流，就能一口氣……",
+        "MessageEN": "I could rig a car battery to run currents through the water and stun the fish!"
     },
     {
         "MessageId": 100720220,
@@ -231,7 +231,7 @@
         "ImagePath": "",
         "MessageJP": "それは絶対にダメ！",
         "MessageKR": "그건 절대로 안 돼!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個絕對不行！",
+        "MessageEN": "You can't do that!"
     }
 ]

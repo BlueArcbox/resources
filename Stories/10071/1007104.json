@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "こちらはRABBIT1。状況を報告します",
         "MessageKR": "여기는 RABBIT 1. RABBIT 소대 정기 현황 보고.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這裡是RABBIT1。報告目前狀況",
+        "MessageEN": "This is RABBIT 1. RABBIT Squad status report."
     },
     {
         "MessageId": 100710260,
@@ -38,9 +38,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "現在時刻は0600。負傷者0名、引き続き――",
-        "MessageKR": "현재 시각 0600시. 사고 및 작전으로 인한 결원 없음—",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "현재 시각 0600 시. 사고 및 작전으로 인한 결원 없음—",
+        "MessageTW": "現在時間0600。\n負傷人數為0，請繼續──",
+        "MessageEN": "Current time is 0600 hours. All squad members are accounted for."
     },
     {
         "MessageId": 100710270,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "あ……",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊……",
+        "MessageEN": "Ah"
     },
     {
         "MessageId": 100710271,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "このような時間に、すみません",
         "MessageKR": "이른 아침부터 죄송합니다, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不好意思，在這種時間打擾老師",
+        "MessageEN": "I hope I didn't wake you, Sensei."
     },
     {
         "MessageId": 100710280,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "送り先を間違えてしまい……",
         "MessageKR": "주소를 잘못 기입해서 RABBIT 소대의 정기 현황 보고가 선생님께 가고 말았네요……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我弄錯了傳送的對象……",
+        "MessageEN": "I must've sent the RABBIT Squad status report to you by accident..."
     },
     {
         "MessageId": 100710290,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "大丈夫だよ、気にしないで",
         "MessageKR": "괜찮아, 신경 쓰지 마.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒關係的，別在意",
+        "MessageEN": "It's okay. Don't worry about it."
     },
     {
         "MessageId": 100710300,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "それより、こんな朝早くから起きてるんだ",
         "MessageKR": "그보다 꽤 이른 시간에 일어났네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "話說回來，你這麼早就起床了啊",
+        "MessageEN": "You're awake so early."
     },
     {
         "MessageId": 100710310,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "はい。規則正しい生活は、特殊部隊の基本ですから",
         "MessageKR": "네, 규칙적인 생활은 특수부대의 기본 소양이니까요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是的。畢竟保持規律的生活是特殊部隊的基本",
+        "MessageEN": "Keeping a strict routine is critical to the special forces."
     },
     {
         "MessageId": 100710320,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "夜間作戦の日や体調が悪い時を除いて、毎日この時間は日誌の整理などを行って……",
         "MessageKR": "특별히 야간 작전이 있거나 몸 상태가 나쁜 게 아니라면 매일 이 시간에 일어나 일지를 정리한답니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "除了執行夜間作戰或身體狀態特別差的時候之外，我每天都會在這個時間整理日誌……",
+        "MessageEN": "Unless I'm sick or stayed up on a night mission, I always wake up at this time to organize my logs."
     },
     {
         "MessageId": 100710321,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "それから、朝のジョギングをしたり、軽く体操をして身体をほぐしています",
         "MessageKR": "그리고 그 이후에는 아침 구보를 하거나, 체조를 하며 몸을 가볍게 풀어 두지요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "接著再去進行晨跑或是做些輕鬆的體操伸展身體",
+        "MessageEN": "And then I go for a morning walk, or do some exercises to warm up."
     },
     {
         "MessageId": 100710330,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "ミヤコはすごいね……",
         "MessageKR": "그렇게 부지런하다니, 대단하네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "都子真厲害……",
+        "MessageEN": "That's very impressive."
     },
     {
         "MessageId": 100710340,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "ふふ。最初は少し面倒かもしれませんが、習慣にしてしまえば、なんてことありませんよ",
         "MessageKR": "후후, 처음에는 조금 귀찮을 수도 있지만 습관이 되면 아무렇지도 않답니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵。一開始可能會覺得麻煩，不過養成習慣之後就不算什麼了",
+        "MessageEN": "Heehee. It takes some getting used to, but once you get into the habbit, it's not a big deal."
     },
     {
         "MessageId": 100710341,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "むしろ、朝のジョギングが出来なかった日は、身体を重く感じてしまうくらいです",
         "MessageKR": "오히려 이제는 아침 운동을 하지 않으면 몸이 무겁게 느껴질 정도니까요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在如果早上沒運動的話，我反而還會覺得身體僵硬呢",
+        "MessageEN": "These days, I feel sluggish if I skip my morning exercises."
     },
     {
         "MessageId": 100700347,

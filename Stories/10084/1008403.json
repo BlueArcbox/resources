@@ -1,0 +1,141 @@
+[
+    {
+        "CharacterId": 10084,
+        "MessageJP": "コタマ（キャンプ）",
+        "MessageKR": "코타마(캠핑)",
+        "MessageTW": "コタマ（キャンプ）",
+        "MessageEN": "Kotama (Camping)"
+    },
+    {
+        "MessageId": 100830160,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 100840160,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 100840160,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100840170,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生、今週末は空いてますか？",
+        "MessageKR": "선생님, 혹시 이번 주말에 시간 괜찮으신가요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100840170,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 100840180,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "特に予定は無いけど……",
+        "MessageKR": "특별한 일정은 없는데……",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100840180,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100840181,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "それなら、二人で山に行きませんか？",
+        "MessageKR": "그럼 이번 주말에 같이 산에 가지 않으시겠습니까?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100840181,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100840190,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "……前回のリベンジをしたいのです",
+        "MessageKR": "……지난 번의 리벤지를 하고 싶습니다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100840190,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 100840200,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "私は構わないけど……",
+        "MessageKR": "나야 큰 상관은 없지만……",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100840200,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 100840210,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "一応マッチ持っていこうか？",
+        "MessageKR": "혹시 이번에도 성냥 챙겨갈까?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100840210,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100840211,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "いえ、大丈夫です",
+        "MessageKR": "아뇨, 괜찮습니다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100840211,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100840212,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "今度こそ人為的な要素を全て排除した……",
+        "MessageKR": "이번에는 인위적인 요소를 모두 배제한",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100840212,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100830217,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "自然そのものを録音する予定ですから",
+        "MessageKR": "진짜 자연의 소리를 녹음할 예정이니까요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100830217,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "コタマ（キャンプ）の絆イベントへ",
+        "MessageKR": "코타마(캠핑)의 인연스토리로",
+        "MessageTW": "前往コタマ（キャンプ）的羈絆劇情",
+        "MessageEN": "Go to Kotama (Camping)'s Event"
+    }
+]

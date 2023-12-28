@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "やっぱり、海に来てみたら",
         "MessageKR": "확실히 바다에 오니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "果然，一到海邊來",
+        "MessageEN": "Coming to the sea"
     },
     {
         "MessageId": 260100170,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "いつもとは違う、特別な経験ができました",
         "MessageKR": "평소와는 다른 특별한 경험을 잔뜩 하게 되는 것 같아요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就體驗到了許多和平時不同的特別經驗",
+        "MessageEN": "has given me so many special experiences."
     },
     {
         "MessageId": 260100171,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "思いがけない出会いもあったり",
         "MessageKR": "예기치 않은 만남도 있고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不僅有了預料之外的相會",
+        "MessageEN": "An unexpected meeting..."
     },
     {
         "MessageId": 260100180,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "意外な場所で、見慣れた姿もあったりして……",
         "MessageKR": "익숙한 모습을 의외의 장소에서 만나기도 하고……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還能在意外的地方見到熟悉的身影……",
+        "MessageEN": "Finding something familiar in a strange place..."
     },
     {
         "MessageId": 260100190,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "……ミユ？",
         "MessageKR": "……미유?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……美優？",
+        "MessageEN": "Miyu?"
     },
     {
         "MessageId": 260100190,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "何かあったの……？",
         "MessageKR": "무슨 이야기야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "發生什麼事了……？",
+        "MessageEN": "What are you talking about?"
     },
     {
         "MessageId": 260100200,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "あ",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah"
     },
     {
         "MessageId": 260100210,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "すみません、分かりにくかったですよね",
         "MessageKR": "죄송해요, 선생님. 두서가 없었네요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不好意思，這樣說有點難懂對吧",
+        "MessageEN": "I'm sorry, Sensei. I'm just rambling."
     },
     {
         "MessageId": 260100220,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "小石探しの話です",
         "MessageKR": "조약돌에 관한 이야기였어요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我指的是找小石頭",
+        "MessageEN": "It was about the pebbles."
     },
     {
         "MessageId": 260090237,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 260100240,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "すみません……",
         "MessageKR": "죄송해요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "對不起……",
+        "MessageEN": "I'm sorry..."
     },
     {
         "MessageId": 260100250,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "一緒に集めた小石は、みんな元の場所に戻しました",
         "MessageKR": "아까 같이 모은 돌은 다시 자리에 돌려 두고 왔어요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "剛才一起收集的石頭，我全都放回原位了",
+        "MessageEN": "I put the stones we collected back where they belong."
     },
     {
         "MessageId": 260100251,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "頑張ってくださったのに……本当に、すみません……",
         "MessageKR": "열심히 같이 모아 주셨는데 죄송해요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "明明老師那麼努力幫我……真的，很抱歉……",
+        "MessageEN": "You worked so hard to collect them with me. I'm sorry."
     },
     {
         "MessageId": 260100260,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "大丈夫だよ、気にしないで",
         "MessageKR": "괜찮아, 신경 쓰지 마",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒關係的，不用在意",
+        "MessageEN": "It's okay. Don't worry about it."
     },
     {
         "MessageId": 260100270,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "でも、どうして全部……？",
         "MessageKR": "그런데 어째서 갑자기……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過，為什麼把所有石頭都……？",
+        "MessageEN": "But why did you do that?"
     },
     {
         "MessageId": 260100280,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "先生と解散した後、よく考えてみたら……",
         "MessageKR": "조금 더 생각해 보았는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "跟老師分開後，我仔細想了想……",
+        "MessageEN": "I thought about it, and..."
     },
     {
         "MessageId": 260100281,
@@ -230,9 +230,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "あの小石たちは、ここで静かに自分の役割を果たしていたのだな、と……",
-        "MessageKR": "이 돌들은 이곳에서 눈에 띄지 않게 자신의 역할을 다하고 있던 거니까요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "이 돌 들은 이곳에서 눈에 띄지 않게 자신의 역할을 다하고 있던 거니까요.",
+        "MessageTW": "那些小石頭們，都在默默地完成自己的使命……",
+        "MessageEN": "These rocks were fulfilling their roles here without anyone noticing."
     },
     {
         "MessageId": 260100290,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "なので、素敵だと思ったからといって、連れ帰ってしまうのは……",
         "MessageKR": "누군가가 가치 있게 여겨준다 하더라도 평소에 하던 일을 하지 못하게 된다면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以雖然覺得很棒，但如果把它們帶走……",
+        "MessageEN": "If you can't do what you're meant to do, even if someone says you're valuable..."
     },
     {
         "MessageId": 260100291,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "小石たちが……寂しい思いをしてしまいそうで……",
         "MessageKR": "저는 조금 슬플 것 같아요……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那些小石頭們……感覺會很難過……",
+        "MessageEN": "Well, it would make me sad..."
     },
     {
         "MessageId": 260100300,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "ですが、その代わりに……",
         "MessageKR": "대신이라고 하긴 그렇지만",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但是，作為代替……",
+        "MessageEN": "This isn't much of a replacement, but..."
     },
     {
         "MessageId": 260100310,
@@ -276,7 +276,7 @@
         "Type": 0,
         "NextId": 260100320,
         "MessageType": "Image",
-        "ImagePath": "/api/Stickers/Mo_CH0218_01.webp",
+        "ImagePath": "./Stickers/Mo_CH0218_01.webp",
         "MessageJP": "",
         "MessageKR": "",
         "MessageTW": "",
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "写真に収めたんだ",
         "MessageKR": "사진으로 찍었구나.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你把它們照起來了啊",
+        "MessageEN": "You took pictures!"
     },
     {
         "MessageId": 260100320,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "そっか、良かったね",
         "MessageKR": "응. 좋은 생각이네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這樣啊，也不錯呢",
+        "MessageEN": "Oh, that's nice."
     },
     {
         "MessageId": 260100330,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "はい",
         "MessageKR": "네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是的",
+        "MessageEN": "Yeah..."
     },
     {
         "MessageId": 260100331,
@@ -326,9 +326,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "今日の思い出を、こうして宝物に……",
-        "MessageKR": "이렇게라도 오늘의 추억을 간직하려고요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "이렇게 라도 오늘의 추억을 간직하려고요",
+        "MessageTW": "將今天的回憶，以這樣的形式變為寶物",
+        "MessageEN": "This way, I can keep the memory."
     },
     {
         "MessageId": 260100340,
@@ -339,8 +339,8 @@
         "ImagePath": "",
         "MessageJP": "先生と一緒に過ごせて……本当に、楽しかったです",
         "MessageKR": "오늘은 정말 즐거웠어요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "能和老師一起度過……真的很開心",
+        "MessageEN": "I had so much fun today."
     },
     {
         "MessageId": 260100341,
@@ -351,7 +351,7 @@
         "ImagePath": "",
         "MessageJP": "ありがとうございます",
         "MessageKR": "감사합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "非常感謝",
+        "MessageEN": "Thank you."
     }
 ]

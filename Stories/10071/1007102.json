@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "今回の作戦を遂行しながら感じたのですが……",
         "MessageKR": "이번 작전을 수행하며 느낀 점인데……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "在執行這次作戰時，我感覺到……",
+        "MessageEN": "So during this mission, I felt..."
     },
     {
         "MessageId": 100710080,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "SRTの訓練は、陸上を想定したものが多いため",
         "MessageKR": "역시 SRT의 훈련은 육상 훈련에 집중되어 있다 보니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "由於SRT的訓練多以陸上作戰為前提",
+        "MessageEN": "Since SRT's training is focused on land-based operations,"
     },
     {
         "MessageId": 100710081,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "海上作戦に対処する能力が足りていないような気がします",
         "MessageKR": "해상에서는 사고가 일어났을 때 제대로 대처하지 못하는 것 같아요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因此應對海上作戰的能力似乎不夠充分",
+        "MessageEN": "we aren't able to handle actions at sea very well."
     },
     {
         "MessageId": 100710090,
@@ -62,9 +62,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "ミヤコは十分頑張ってるよ",
-        "MessageKR": "미야코는 충분히 잘하고 있어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "미야코는 충분히 잘 하고 있어",
+        "MessageTW": "都子已經非常努力了唷",
+        "MessageEN": "Miyako, you're doing fine."
     },
     {
         "MessageId": 100710100,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "……ありがとうございます",
         "MessageKR": "……감사합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……謝謝你",
+        "MessageEN": "Thank you..."
     },
     {
         "MessageId": 100710110,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "しかし、自分が未熟な自覚はあります",
         "MessageKR": "하지만 제 미숙함은 스스로도 충분히 인지하고 있으니까요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過，我也有自己能力不足的自覺",
+        "MessageEN": "But I'm fully aware of my shortcomings."
     },
     {
         "MessageId": 100710120,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "急なお願いなのですが……",
         "MessageKR": "그래서 드리는 말씀입니다만……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以雖然有點突然……",
+        "MessageEN": "Which brings me back to my point."
     },
     {
         "MessageId": 100710130,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "海上での人質救出を想定した訓練を行いたいので",
         "MessageKR": "이번에 해상에서의 인질 구출 상황을 대비한 훈련을 하려 하는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我想進行模擬在海上營救人質的訓練",
+        "MessageEN": "I am planning to run some hostage rescue drills at sea."
     },
     {
         "MessageId": 100710131,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "先生に、ご協力いただけないでしょうか？",
         "MessageKR": "선생님께서 협력해 주실 수 없을까요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可以請老師協助嗎？",
+        "MessageEN": "Would you be able to help us with that?"
     },
     {
         "MessageId": 100710140,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "うん、もちろん",
         "MessageKR": "응, 괜찮아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，當然可以",
+        "MessageEN": "Um, sure."
     },
     {
         "MessageId": 100710150,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとうございます",
         "MessageKR": "감사합니다, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "非常感謝",
+        "MessageEN": "Thank you, Sensei."
     },
     {
         "MessageId": 100710151,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "それでは、村の東側にある埠頭でお待ちしております",
         "MessageKR": "그럼 마을 동편의 부둣가에서 기다리고 있겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼，我在村子東邊的碼頭等你",
+        "MessageEN": "I'll be waiting for you at the docks on the east side of town."
     },
     {
         "MessageId": 100700157,

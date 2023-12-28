@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、聞きましたか？",
         "MessageKR": "선생님, 그거 들으셨나요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，你聽說了嗎？",
+        "MessageEN": "Sensei, have you heard?"
     },
     {
         "MessageId": 100710170,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "村の西海岸から、歩いて行ける離島があるそうです",
         "MessageKR": "마을의 서쪽 해안에 걸어서 이동할 수 있는 섬이 있다고 하네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "似乎有個可以從村子的西海岸徒步抵達的離島",
+        "MessageEN": "There's an island off the west coast of town that you can walk to."
     },
     {
         "MessageId": 100710180,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "海の上を……？",
         "MessageKR": "걸어서 이동할 수 있는 섬?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "從海上……？",
+        "MessageEN": "An island you can walk to?"
     },
     {
         "MessageId": 100710190,
@@ -62,9 +62,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "はい。西側の海岸は水深が浅いので",
-        "MessageKR": "네. 서쪽 해안은 수심이 얕아서 썰물 때마다 바닥이 드러나는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "네. 서쪽 해안은 수심이 얕아서 썰물 때 마다 바닥이 드러나는데",
+        "MessageTW": "是的。因為西側海岸的水深較淺",
+        "MessageEN": "Yes. During low tide, the water pulls away and reveals a path."
     },
     {
         "MessageId": 100710191,
@@ -74,9 +74,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "潮が引くと、島につながる道が現れると聞きました",
-        "MessageKR": "그때 도보로 이동할 수 있는 거리에 섬이 하나 있다고 해요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "그 때 도보로 이동할 수 있는 거리에 섬이 하나 있다고 해요",
+        "MessageTW": "所以聽說在退潮的時候，與離島連接的道路就會出現",
+        "MessageEN": "And during that window, you can walk to the island."
     },
     {
         "MessageId": 100710200,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "面白そうだね",
         "MessageKR": "그거 신기하네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好像很有趣呢",
+        "MessageEN": "That's amazing."
     },
     {
         "MessageId": 100710210,
@@ -98,9 +98,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "私もそう思いました。それに島は景観が良いので、住民も休日はよく遊びに行くみたいです",
-        "MessageKR": "네. 게다가 섬의 경관도 좋아서 주민들도 휴일에는 종종 놀러 간다고 하네요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "네. 게다가 섬의 경관도 좋아서 주민들도 휴일에는 종종 놀러간다고 하네요",
+        "MessageTW": "我也這麼覺得。而且由於那座島的風景非常棒，居民們似乎也時常會在假日去島上玩",
+        "MessageEN": "Yes. And the scenery there is beautiful, so the locals go there on their days off."
     },
     {
         "MessageId": 100710220,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "もし先生がよろしければ",
         "MessageKR": "혹시 선생님께서도 괜찮으시다면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果老師願意的話",
+        "MessageEN": "If it's all right with you..."
     },
     {
         "MessageId": 100710221,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "お付き合いしていただけませんか？",
         "MessageKR": "함께 그 섬에 가보지 않으시겠어요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "能請老師陪我一起去嗎？",
+        "MessageEN": "would you like to go the island with me?"
     },
     {
         "MessageId": 100710230,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "もちろん、喜んで",
         "MessageKR": "좋아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然，我很樂意",
+        "MessageEN": "Okay."
     },
     {
         "MessageId": 100710240,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとうございます、先生",
         "MessageKR": "감사합니다, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝你，老師",
+        "MessageEN": "Thank you, Sensei."
     },
     {
         "MessageId": 100710241,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "それでは明日、干潮に合わせて埠頭の前でお会いしましょう",
         "MessageKR": "그럼 내일 물 빠지는 때에 맞춰서 부둣가 앞에서 뵙겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼明天，我們就在退潮時在碼頭碰面吧",
+        "MessageEN": "I'll meet you tomorrow at the dock when the water has receded."
     },
     {
         "MessageId": 100700247,

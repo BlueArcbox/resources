@@ -26,9 +26,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "先生、今何してる？",
-        "MessageKR": "선생님, 지금 뭐 하고 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "선생님, 지금 뭐하고 있어?",
+        "MessageTW": "老師，你現在在做什麼？",
+        "MessageEN": "Sensei, what are you doing right now?"
     },
     {
         "MessageId": 100720020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "休憩中だよ",
         "MessageKR": "숨 쉬어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "在休息哦",
+        "MessageEN": "Breathing..."
     },
     {
         "MessageId": 100720020,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "呼吸、かな……",
         "MessageKR": "그냥 쉬고 있어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呼吸，吧……",
+        "MessageEN": "Taking it easy."
     },
     {
         "MessageId": 100720030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "？",
         "MessageKR": "?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "？",
+        "MessageEN": "...?"
     },
     {
         "MessageId": 100720031,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "なんだそれ",
         "MessageKR": "그게 뭐야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "什麼嘛",
+        "MessageEN": "What kind of answer is that."
     },
     {
         "MessageId": 100720032,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "何もしてないってことか？",
         "MessageKR": "아무것도 안 하고 있다는 뜻이잖아. 장난치지 마.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "意思是你什麼事都沒在做嗎？",
+        "MessageEN": "It sounds like you're not doing anything."
     },
     {
         "MessageId": 100720040,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "せっかく海まで来たんだから",
         "MessageKR": "모처럼 바다에 왔는데 시간이 아깝지도 않은 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "難得都到海邊來了",
+        "MessageEN": "We're visiting the sea. Do you plan to waste the whole trip?"
     },
     {
         "MessageId": 100720050,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "海でしか出来ないことをしないと、もったいないぞ",
         "MessageKR": "바다에 왔으니 여기서만 할 수 있는 일을 해야지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不做些只有在海邊才能做的事就太浪費了",
+        "MessageEN": "Since we're at the beach, we should be doing beach activities."
     },
     {
         "MessageId": 100720060,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "海でしか出来ないこと……",
         "MessageKR": "바다에서만 할 수 있는 일이라고 해도……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只有在海邊才能做的事……",
+        "MessageEN": "Beach activities, huh..."
     },
     {
         "MessageId": 100720070,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "泳ぐとか？",
         "MessageKR": "해수욕이라도 하자고?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "游泳之類的？",
+        "MessageEN": "Like swimming?"
     },
     {
         "MessageId": 100720080,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "泳ぐだけなら、プールでも良いだろう？",
         "MessageKR": "아니, 바다에서만 할 수 있는 일이라면 따로 있잖아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只是要游泳的話，去泳池就行了吧？",
+        "MessageEN": "No, I don't mean playing or goofing off."
     },
     {
         "MessageId": 100720090,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "つまりだな……",
         "MessageKR": "바로……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以說……",
+        "MessageEN": "I mean..."
     },
     {
         "MessageId": 100720091,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "海産物を獲りに行くんだ！",
         "MessageKR": "해산물 채취지!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要去抓海產！",
+        "MessageEN": "Catching seafood!"
     },
     {
         "MessageId": 100710097,

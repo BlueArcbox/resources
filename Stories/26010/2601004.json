@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先日、捨てられていたファッション雑誌を読んだところ……",
         "MessageKR": "얼마 전에 버려진 패션 잡지에서 보았는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "前幾天，我讀了一本被丟掉的時尚雜誌……",
+        "MessageEN": "I found a magazine on the ground that said"
     },
     {
         "MessageId": 260100460,
@@ -38,9 +38,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "服装を変えることで、注目を集められる……とありました",
-        "MessageKR": "의상 코디를 바꾸는 것만으로도 주변의 시선을 크게 끌 수 있대요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "의상 코디를 바꾸는 것 만으로도 주변의 시선을 크게 끌 수 있대요.",
+        "MessageTW": "書上寫……可以藉由改變服裝來吸引別人的注意",
+        "MessageEN": "you can attract attention just by changing your clothes."
     },
     {
         "MessageId": 260100470,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "あえて、その場にそぐわない格好をすることで、人の目を惹き付けられると……",
         "MessageKR": "TPO에 적합하지 않은 의상이 가끔은 사람을 휘어잡는 매력이 될 수 있다고……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "刻意選擇與環境不搭的服裝，也能吸引到別人的目光……",
+        "MessageEN": "If you wear an outfit that doesn't match the setting, sometimes people will like you more."
     },
     {
         "MessageId": 260100480,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "今日は、最近買った服を着て",
         "MessageKR": "그래서 최근에 산 사복을 입고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以今天，我打算穿著最近買來的衣服",
+        "MessageEN": "So I was thinking that I can wear my new outfit"
     },
     {
         "MessageId": 260100481,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "街を歩いてみようと思います",
         "MessageKR": "거리를 한 번 돌아보려고요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "試著到街上走走",
+        "MessageEN": "and go for a walk through the city."
     },
     {
         "MessageId": 260100490,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "いいアイデアだとは思うけど……",
         "MessageKR": "새 사복을 시험하는 건 좋긴 하지만……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然我覺得是個不錯的想法……",
+        "MessageEN": "Trying out new clothes is good and all, but..."
     },
     {
         "MessageId": 260100500,
@@ -98,9 +98,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "それって、水着じゃないよね……？",
-        "MessageKR": "최근에 산 사복은 수영복밖에 없지 않았어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "최근에 산 사복은 수영복 밖에 없지 않았어?",
+        "MessageTW": "不過你說的，應該不是泳裝吧……？",
+        "MessageEN": "Isn't the only new outfit you bought a swimsuit?"
     },
     {
         "MessageId": 260100510,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "じ、じゃあ……行ってきます",
         "MessageKR": "일단 다녀올게요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那，那麼……我要出發了",
+        "MessageEN": "Talk to you later."
     },
     {
         "MessageId": 260100520,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "……ミユ？",
         "MessageKR": "……미유?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……美優？",
+        "MessageEN": "Miyu?"
     },
     {
         "MessageId": 260100530,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "…………ミユさん？",
         "MessageKR": "………미유야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "…………美優同學？",
+        "MessageEN": "Miyu?!"
     },
     {
         "MessageId": 260090537,

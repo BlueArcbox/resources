@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "任務は、天候にも左右されるので",
         "MessageKR": "저격 임무를 수행하다 보면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為任務有時會被天氣影響",
+        "MessageEN": "When I'm waiting for a shot in the field..."
     },
     {
         "MessageId": 260100360,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "狙撃任務の時、空を見上げることが多いんです",
         "MessageKR": "하늘을 보고 있을 때가 많아요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "在進行狙擊任務時，我經常會仰望天空",
+        "MessageEN": "I have a lot of time to stare at the sky."
     },
     {
         "MessageId": 260100370,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "地面を見ていても、あまり変化はありませんが……",
         "MessageKR": "거의 움직이지 않고 고정된 땅과는 달리",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "和即使盯著也不會有什麼變化的地面不同……",
+        "MessageEN": "Unlike the earth, which never moves,"
     },
     {
         "MessageId": 260100371,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "空の景色は、移り変わりが早いです",
         "MessageKR": "하늘은 시시각각 변화무쌍하게 움직이거든요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "天空景色的變化相當快",
+        "MessageEN": "the sky is always changing, moment by moment."
     },
     {
         "MessageId": 260100380,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "だから……いつまでも、見ていられるのかもしれません",
         "MessageKR": "그래서 하늘을 바라보는 건 질리지가 않는 것 같아요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以……無論看多久，似乎都不會看膩",
+        "MessageEN": "I think that's why I never get bored looking at the sky."
     },
     {
         "MessageId": 260100390,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ただ、海辺から眺める空は……",
         "MessageKR": "다만 바닷가에서 본 하늘은……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可是，在海邊眺望的天空……",
+        "MessageEN": "But the sky I saw at the sea was..."
     },
     {
         "MessageId": 260100391,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "……少し違うような",
         "MessageKR": "……조금 다른 것 같아요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……好像有點不太一樣",
+        "MessageEN": "It was a bit different."
     },
     {
         "MessageId": 260100400,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "どう違うの？",
         "MessageKR": "어떻게 다른데?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼說呢？",
+        "MessageEN": "How was it different?"
     },
     {
         "MessageId": 260100410,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "えっと……",
         "MessageKR": "그게",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個……",
+        "MessageEN": "Th-The thing is..."
     },
     {
         "MessageId": 260100420,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "うぅ……",
         "MessageKR": "음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗚……",
+        "MessageEN": "Well..."
     },
     {
         "MessageId": 260100430,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "すみません",
         "MessageKR": "죄송해요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "對不起",
+        "MessageEN": "I'm sorry..."
     },
     {
         "MessageId": 260100440,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "うまく……言葉にできないです",
         "MessageKR": "뭔가 설명이 잘…… 안 되는 것 같아요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我不太……會形容",
+        "MessageEN": "It's hard to explain..."
     },
     {
         "MessageId": 260090447,
