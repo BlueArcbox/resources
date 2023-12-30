@@ -95,7 +95,10 @@
     },
     {
         "Id": 10007,
-        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/e/e9/Maki_Icon.png"],
+        "Avatar": [
+            "https://static.wikia.nocookie.net/blue-archive/images/e/e9/Maki_Icon.png",
+            "https://cdnimg.gamekee.com/wiki2.0/images/w_550/h_550/829/43637/2023/11/28/488861.png"
+        ],
         "Bio": {
             "zh": "最爱街头涂鸦！",
             "jp": "グラフィティ大好き！",
@@ -1119,7 +1122,10 @@
     },
     {
         "Id": 20013,
-        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/a/aa/Chihiro_Icon.png"],
+        "Avatar": [
+            "https://static.wikia.nocookie.net/blue-archive/images/a/aa/Chihiro_Icon.png",
+            "https://cdnimg.gamekee.com/wiki2.0/images/w_550/h_550/829/43637/2023/11/28/558384.png"
+        ],
         "Bio": {
             "zh": "安全性检查从日常做起",
             "jp": "セキュリティチェックは日頃から",

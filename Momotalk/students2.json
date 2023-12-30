@@ -392,6 +392,19 @@
         "School": "Millennium"
     },
     {
+        "Id": 142,
+        "Name": {
+            "zh": "莱依",
+            "jp": "レイ",
+            "tw": "萊依",
+            "en": "Rei"
+        },
+        "Avatar": ["https://cdnimg.gamekee.com/wiki2.0/images/w_500/h_500/829/43637/2023/11/28/827199.png"],
+        "Bio": { },
+        "Nickname": ["Rei", "丽"],
+        "School": "Millennium"
+    },
+    {
         "Id": 150,
         "Name": {
             "zh": "圣三一学生",
@@ -1170,7 +1183,7 @@
         },
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/e/ee/Ein_Icon.png"],
         "Bio": {},
-        "Nickname": ["Ein"],
+        "Nickname": ["Ein", "无"],
         "School": "ETC"
     },
     {
@@ -1183,7 +1196,7 @@
         },
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/9/90/Ohr_Icon.png"],
         "Bio": {},
-        "Nickname": ["Ohr"],
+        "Nickname": ["Ohr", "光"],
         "School": "ETC"
     },
     {
@@ -1196,7 +1209,7 @@
         },
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/b/b8/Sof_Icon.png"],
         "Bio": {},
-        "Nickname": ["Sof"],
+        "Nickname": ["Sof", "限"],
         "School": "ETC"
     },
     {
