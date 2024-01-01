@@ -97,7 +97,7 @@
         "Id": 10007,
         "Avatar": [
             "https://static.wikia.nocookie.net/blue-archive/images/e/e9/Maki_Icon.png",
-            "https://cdnimg.gamekee.com/wiki2.0/images/w_550/h_550/829/43637/2023/11/28/488861.png"
+            "https://static.wikia.nocookie.net/blue-archive/images/e/ec/Maki_Camp_Icon.png"
         ],
         "Bio": {
             "zh": "最爱街头涂鸦！",
@@ -650,7 +650,7 @@
         "Avatar": [
             "/api/Avatars/Midori_Maid.webp",
             "https://static.wikia.nocookie.net/blue-archive/images/a/ae/Midori_Icon.png",
-            "https://cdnimg.gamekee.com/wiki2.0/images/w_200/h_200/829/43637/2023/4/5/824530.png"
+            "https://static.wikia.nocookie.net/blue-archive/images/f/fc/Midori_Maid_Icon.png"
         ],
         "Bio": {
             "zh": "请向我推荐游戏",
@@ -666,7 +666,7 @@
         "Avatar": [
             "/api/Avatars/Momoi_Maid.webp",
             "https://static.wikia.nocookie.net/blue-archive/images/7/72/Momoi_Icon.png",
-            "https://cdnimg.gamekee.com/wiki2.0/images/w_200/h_200/829/43637/2023/4/5/261764.png"
+            "https://static.wikia.nocookie.net/blue-archive/images/7/7a/Momoi_Maid_Icon.png"
         ],
         "Bio": {
             "zh": "致力于游戏！",
@@ -859,7 +859,7 @@
             "en": "Trekking across Kivotos",
             "kr": "키보토스 종단일주중……."
         },
-        "Nickname": ["小车唯", "xcw", "车白", "骑白子"],
+        "Nickname": ["小车唯", "xcw", "骑白子"],
         "related": [10010, "riding"]
     },
     {
@@ -1124,7 +1124,7 @@
         "Id": 20013,
         "Avatar": [
             "https://static.wikia.nocookie.net/blue-archive/images/a/aa/Chihiro_Icon.png",
-            "https://cdnimg.gamekee.com/wiki2.0/images/w_550/h_550/829/43637/2023/11/28/558384.png"
+            "https://static.wikia.nocookie.net/blue-archive/images/7/7c/Chihiro_Camp_Icon.png"
         ],
         "Bio": {
             "zh": "安全性检查从日常做起",
@@ -1420,7 +1420,8 @@
         "Id": 10048,
         "Avatar": [
             "https://static.wikia.nocookie.net/blue-archive/images/7/70/Saori_Icon.png",
-            "https://static.wikia.nocookie.net/blue-archive/images/f/f1/Saori_Unmask_Icon.png"
+            "https://static.wikia.nocookie.net/blue-archive/images/f/f1/Saori_Unmask_Icon.png",
+            "https://static.wikia.nocookie.net/blue-archive/images/3/34/Saori_Helmet_Icon.png"
         ],
         "Bio": {
             "zh": "努力再努力",
@@ -1449,7 +1450,10 @@
     },
     {
         "Id": 10049,
-        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/c/cb/Kazusa_Icon.png"],
+        "Avatar": [
+            "https://static.wikia.nocookie.net/blue-archive/images/c/cb/Kazusa_Icon.png",
+            "https://static.wikia.nocookie.net/blue-archive/images/5/54/Kazusa_Old_Icon.png"
+        ],
         "Bio": {
             "zh": "放学后的甜点部成员",
             "jp": "放課後スイーツ部のメンバーです",
@@ -1565,7 +1569,8 @@
         "Id": 20020,
         "Avatar": [
             "https://static.wikia.nocookie.net/blue-archive/images/e/e4/Himari_Icon.png",
-            "https://static.wikia.nocookie.net/blue-archive/images/4/45/Himari_Ark_Uniform_Icon.png"
+            "https://static.wikia.nocookie.net/blue-archive/images/4/45/Himari_Ark_Uniform_Icon.png",
+            "https://static.wikia.nocookie.net/blue-archive/images/c/ce/Himari_Winter_Icon.png"
         ],
         "Bio": {
             "zh": "千禧最高峰的超天才清纯系病弱美少女",
@@ -1882,7 +1887,10 @@
     },
     {
         "Id": 20026,
-        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/4/43/Minori_Icon.png"],
+        "Avatar": [
+            "https://static.wikia.nocookie.net/blue-archive/images/4/43/Minori_Icon.png",
+            "https://static.wikia.nocookie.net/blue-archive/images/e/e2/Minori_Old_Icon.png"
+        ],
         "Bio": {
             "zh": "联邦学生会应保证每周休息4天！",
             "jp": "連邦生徒会は週休4日を保障せよ！",
@@ -2004,6 +2012,7 @@
         "Avatar": [
             "/api/Avatars/Meru_Hot_Spring.webp",
             "https://static.wikia.nocookie.net/blue-archive/images/2/2b/Meru_Icon.png",
+            "https://static.wikia.nocookie.net/blue-archive/images/0/08/Meru_Old_Icon.png",
             "https://static.wikia.nocookie.net/blue-archive/images/2/2c/Meru_Hot_Spring_Icon.png"
         ],
         "Bio": {
@@ -2168,7 +2177,7 @@
     },
     {
         "Id": 10084,
-        "Avatar": [],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/d/d0/Kotama_Camp_Icon.png"],
         "Bio": {
             "zh": "我倾听着你的声音",
             "jp": "あなたの音に耳を澄ませています",
@@ -2179,7 +2188,7 @@
     },
     {
         "Id": 10085,
-        "Avatar": [],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/6/64/Hare_Camp_Icon.png"],
         "Bio": {
             "zh": "雅典娜3号调整中。注意垃圾邮件",
             "jp": "アテナ3号調整中。スパムメッセージには注意",
