@@ -1328,5 +1328,26 @@
             }
         ],
         "pictures_count": 2
+    },
+    {
+        "dynamic_id": 880486935859036279,
+        "description": "【国际服资讯】【官方四格漫画第114话】\n▎我所看见的未来\n\n虽然很受小动物的欢迎\n但软体动物先不要...🥺\n\n萌就是要看到大场面!!! (喷洒)\n\n#蔚蓝档案四格漫画连载中# #第114话#\n#蔚蓝档案# #碧蓝档案# #BlueArchive#",
+        "pictures": [
+            {
+                "img_height": 1280,
+                "img_size": 261.5499877929688,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/3b1f4583d6795df4fb0ad7f827af146637507923.jpg",
+                "img_tags": null,
+                "img_width": 800
+            },
+            {
+                "img_height": 650,
+                "img_size": 72.38999938964844,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/25b329c7694256a44a407d81ace0fd0e37507923.jpg",
+                "img_tags": null,
+                "img_width": 800
+            }
+        ],
+        "pictures_count": 2
     }
 ]
