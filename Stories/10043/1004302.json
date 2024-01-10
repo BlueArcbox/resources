@@ -39,7 +39,7 @@
         "ImagePath": "",
         "MessageJP": "本日、シャーレのお仕事で海にいらしてると伺ったのですが",
         "MessageKR": "이번에 샬레의 일로 근처 해변을 찾으셨다는 이야기를 들었습니다만.",
-        "MessageTW": "聽說，今日因為夏萊的工作去了海邊",
+        "MessageTW": "聽說您今日因為夏萊的工作去了海邊",
         "MessageEN": "I heard you went to a beach nearby for Schale business."
     },
     {
@@ -51,7 +51,7 @@
         "ImagePath": "",
         "MessageJP": "そうだけど……ワカモは一体どこでそれを……",
         "MessageKR": "응…. 와카모는 언제나 잘 알고 있구나….",
-        "MessageTW": "是這樣沒錯……若藻到底是從哪裡得知……",
+        "MessageTW": "是這樣沒錯……不過若藻到底是怎麼知道的……",
         "MessageEN": "Yes... You're always well informed..."
     },
     {
@@ -63,7 +63,7 @@
         "ImagePath": "",
         "MessageJP": "この間準備していた花火大会の件でちょっとね",
         "MessageKR": "저번에 준비하던 지역 여름 불꽃놀이 축제의 일로 잠깐.",
-        "MessageTW": "因為之前準備的煙花大會的事，稍微",
+        "MessageTW": "之前在準備的煙火大會稍微有點事要辦",
         "MessageEN": "I went there for the local summer fireworks festival."
     },
     {
@@ -99,7 +99,7 @@
         "ImagePath": "",
         "MessageJP": "ごめん！今日は本当に忙しくて……また今度ね！",
         "MessageKR": "앗. 미안, 와카모! 지금은 정말로 바빠서 미안!",
-        "MessageTW": "抱歉！今天真的很忙……下次再說！",
+        "MessageTW": "抱歉！今天真的很忙……下次再說吧！",
         "MessageEN": "Oh, sorry, Wakamo! I'm really busy right now."
     },
     {
@@ -111,7 +111,7 @@
         "ImagePath": "",
         "MessageJP": "あら……そうですか",
         "MessageKR": "아앗, 과연, 그러, 신가요….",
-        "MessageTW": "啊啦……這樣子啊",
+        "MessageTW": "哎呀……這樣子啊",
         "MessageEN": "O-Okay... I understand."
     },
     {
@@ -147,7 +147,7 @@
         "ImagePath": "",
         "MessageJP": "……分かりました。それでは、残念ですが是非また今度",
         "MessageKR": "네에, 알겠습니다. 그럼 아쉽지만, 부디 다음에.",
-        "MessageTW": "……我明白了。那麼，雖然很遺憾下次務必",
+        "MessageTW": "……我明白了。雖然遺憾，下次再會吧",
         "MessageEN": "Okay, got it. Then, I'll see you later."
     },
     {
@@ -159,7 +159,7 @@
         "ImagePath": "",
         "MessageJP": "お待ちしておりますね……うふふっ",
         "MessageKR": "그럼 와카모, 기다리고 있겠습니다. 우후훗.",
-        "MessageTW": "我會恭候著的……唔哼哼",
+        "MessageTW": "我會恭候您的……唔呵呵",
         "MessageEN": "I'll be waiting for you. Heeheehee."
     },
     {

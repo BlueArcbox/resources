@@ -147,7 +147,7 @@
         "ImagePath": "",
         "MessageJP": "どこかで聞いたことがあるんだけど",
         "MessageKR": "어딘가에서 본 적이 있는데,",
-        "MessageTW": "我曾在哪裡聽說過",
+        "MessageTW": "我曾經聽說過",
         "MessageEN": "I saw somewhere,"
     },
     {
@@ -171,7 +171,7 @@
         "ImagePath": "",
         "MessageJP": "鯨もジャンプするって聞いたんだけど",
         "MessageKR": "고래도",
-        "MessageTW": "聽說鯨魚也會躍出水面",
+        "MessageTW": "鯨魚也會躍出水面",
         "MessageEN": "the whales"
     },
     {
@@ -183,7 +183,7 @@
         "ImagePath": "",
         "MessageJP": "それって",
         "MessageKR": "물 위로 뛸 때가 있다지?",
-        "MessageTW": "那個啊",
+        "MessageTW": "那個",
         "MessageEN": "also jump above the water, right?"
     },
     {
@@ -219,7 +219,7 @@
         "ImagePath": "",
         "MessageJP": "遠い海の方に出たら見れるかな",
         "MessageKR": "먼 바다로 나가야 하지 않을까",
-        "MessageTW": "開船到遠洋上面或許能看見",
+        "MessageTW": "也許得到遠洋才能看見",
         "MessageEN": "You have to go far out to sea."
     },
     {

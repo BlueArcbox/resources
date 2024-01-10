@@ -27,7 +27,7 @@
         "ImagePath": "",
         "MessageJP": "先生、ご無沙汰しております",
         "MessageKR": "선생님. 오늘은 평소보다도 더욱 날이 무더워진 듯합니다만.",
-        "MessageTW": "老師，久未問候了",
+        "MessageTW": "老師，久疏問候",
         "MessageEN": "Sensei. Today is especially hot."
     },
     {
@@ -51,7 +51,7 @@
         "ImagePath": "",
         "MessageJP": "心配してくれてありがとう、ワカモ。私は大丈夫だよ",
         "MessageKR": "아, 걱정해줘서 고마워. 와카모, 난 괜찮아.",
-        "MessageTW": "謝謝妳擔心我，若藻。我沒事唷",
+        "MessageTW": "謝謝你擔心我，若藻。我沒事",
         "MessageEN": "Oh, thanks for the concern, Wakamo. I'm okay."
     },
     {
@@ -75,7 +75,7 @@
         "ImagePath": "",
         "MessageJP": "あぁ……いつ何時も変わらないこの優しいお返事……",
         "MessageKR": "아아…. 평소와 마찬가지로 다정하기 그지없는 말씀.",
-        "MessageTW": "啊……無論何時都不會變的這溫柔的答覆……",
+        "MessageTW": "啊……無論何時都依然如此溫柔的答覆……",
         "MessageEN": "Oh, you're always so kind."
     },
     {
@@ -111,7 +111,7 @@
         "ImagePath": "",
         "MessageJP": "うふふ……時に、先生",
         "MessageKR": "네…? 아, 그보다 선생님….",
-        "MessageTW": "唔哼哼……話說，老師",
+        "MessageTW": "唔呵呵……話說，老師",
         "MessageEN": "Oh, by the way, Sensei..."
     },
     {
@@ -159,7 +159,7 @@
         "ImagePath": "",
         "MessageJP": "そうでしたか……無慈悲な太陽の熱を避けられるのは良いことですが……",
         "MessageKR": "그러하신가요…. 무자비한 여름의 열기를 피할 수 있는 것은 다행이지만.",
-        "MessageTW": "是這樣啊……雖然可以躲避無慈悲的太陽的熱能是件好事……",
+        "MessageTW": "是這樣啊……雖然可以躲避陽光無情的照射是件好事……",
         "MessageEN": "I see... I'm glad you're out of the heat during this merciless summer, but..."
     },
     {

@@ -195,7 +195,7 @@
         "ImagePath": "",
         "MessageJP": "私も呼び出される……？",
         "MessageKR": "나도 소환되는 건가?",
-        "MessageTW": "我也被叫去嗎……？",
+        "MessageTW": "我也被叫去了嗎……？",
         "MessageEN": "Am I gonna be summoned?"
     },
     {
@@ -231,7 +231,7 @@
         "ImagePath": "",
         "MessageJP": "だから、これからも毎日採ってきてってさ～",
         "MessageKR": "앞으로도 계속 해오라고 고정 일과가 돼 버렸어",
-        "MessageTW": "所以被吩咐今後也要每天採收～",
+        "MessageTW": "所以被吩咐之後每天都要採收～",
         "MessageEN": "I was asked to keep bringing stuff."
     },
     {
@@ -255,7 +255,7 @@
         "ImagePath": "",
         "MessageJP": "これからもよろしくね、先生",
         "MessageKR": "앞으로도 잘 부탁해 선생",
-        "MessageTW": "今後也拜託了，老師",
+        "MessageTW": "之後也要拜託你囉，老師",
         "MessageEN": "I'm looking forward to continuing to work together, Sensei."
     }
 ]

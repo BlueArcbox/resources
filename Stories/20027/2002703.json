@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 200270190,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "起きてる？",
         "MessageKR": "자?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還醒著嗎？",
+        "MessageEN": "Sleeping?"
     },
     {
         "MessageId": 200270191,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "もう寝ちゃったかな",
         "MessageKR": "자는 건가",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "已經睡著了嗎",
+        "MessageEN": "Are you asleep?"
     },
     {
         "MessageId": 200270200,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "こんな時間にどうしたの？",
         "MessageKR": "이 이른 새벽에 모모톡이?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這種時間有什麼事嗎？",
+        "MessageEN": "This is pretty early for a MomoTalk..."
     },
     {
         "MessageId": 200270200,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "シロコ……？",
         "MessageKR": "시로코는? 설마 밤을 새운 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "白子……？",
+        "MessageEN": "Shiroko? Are you still awake?"
     },
     {
         "MessageId": 200270210,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "あ……",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊……",
+        "MessageEN": "Ah"
     },
     {
         "MessageId": 200270211,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "うん",
         "MessageKR": "응 조금",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "Yeah, kind of."
     },
     {
         "MessageId": 200270212,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと、眠れなくて",
         "MessageKR": "잠이 안 와서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有點，睡不著",
+        "MessageEN": "I couldn't sleep."
     },
     {
         "MessageId": 200260217,

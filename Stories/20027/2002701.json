@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 200270020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "もし、大丈夫なら",
         "MessageKR": "괜찮다면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果方便的話",
+        "MessageEN": "If you have a moment,"
     },
     {
         "MessageId": 200270021,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "今から来れる？",
         "MessageKR": "혹시 지금 좀 와 줄 수 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可以現在過來一趟嗎？",
+        "MessageEN": "can you help me with something?"
     },
     {
         "MessageId": 200270030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "うん、大丈夫だよ",
         "MessageKR": "응. 무슨 일이야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，可以哦",
+        "MessageEN": "Yeah. What is it?"
     },
     {
         "MessageId": 200270030,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "どこにいるの？",
         "MessageKR": "괜찮지. 지금 어딘데?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你在哪裡？",
+        "MessageEN": "I can help. Where are you?"
     },
     {
         "MessageId": 200270040,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ん",
         "MessageKR": "음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "Well..."
     },
     {
         "MessageId": 200270050,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "えっと……",
         "MessageKR": "그게…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個……",
+        "MessageEN": "How do I say this..."
     },
     {
         "MessageId": 200260067,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "幻なんて言うくらいだし、もっと美味しいと思ってた",
         "MessageKR": "생각했던 것만큼, 대단한 재료는 아니었어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "說是夢幻的貝類，我還以為會更好吃的",
+        "MessageEN": "It wasn't as great of an ingredient as I thought it'd be."
     },
     {
         "MessageId": 200270070,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと残念",
         "MessageKR": "좀 아쉽네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有點遺憾",
+        "MessageEN": "It was disappointing."
     },
     {
         "MessageId": 200270080,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "でも、楽しかったね",
         "MessageKR": "그래도 과정은 즐거웠잖아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過很開心對吧",
+        "MessageEN": "But catching it was fun!"
     },
     {
         "MessageId": 200270080,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "シロコと一緒に過ごせて、すごく嬉しかったよ",
         "MessageKR": "그래도 시로코가 만들어 준 거라 좋았어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "能跟白子待在一起，我非常高興哦",
+        "MessageEN": "And I enjoyed it because you made it."
     },
     {
         "MessageId": 200270090,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "先生……",
         "MessageKR": "선생님…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師……",
+        "MessageEN": "Sensei..."
     },
     {
         "MessageId": 200270100,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "……",
         "MessageKR": "…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……",
+        "MessageEN": "..."
     },
     {
         "MessageId": 200270110,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "うん",
         "MessageKR": "응",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯\u200b",
+        "MessageEN": "Yes."
     },
     {
         "MessageId": 200270111,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "私も……嬉しい",
         "MessageKR": "다시 생각해 보니, 나도 좋은 것 같아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我也……很開心",
+        "MessageEN": "Come to think of it, I agree."
     },
     {
         "MessageId": 200270120,
@@ -219,7 +219,7 @@
         "ImagePath": "",
         "MessageJP": "ありがとう",
         "MessageKR": "다행이야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝你",
+        "MessageEN": "I'm glad."
     }
 ]

@@ -75,7 +75,7 @@
         "ImagePath": "",
         "MessageJP": "いいけど……客室にいるの？",
         "MessageKR": "상관없긴 한데…… 객실에서 잘 거지?",
-        "MessageTW": "是沒什麼關係……你是在客房嗎？",
+        "MessageTW": "可以是可以……打算在房間睡覺嗎？",
         "MessageEN": "Sure... Are you gonna sleep in the cabin?"
     },
     {
@@ -87,7 +87,7 @@
         "ImagePath": "",
         "MessageJP": "客室で寝る、とか？",
         "MessageKR": "또 자려고?",
-        "MessageTW": "在客房睡覺之類的嗎？",
+        "MessageTW": "是要睡覺嗎？",
         "MessageEN": "You're gonna nap again?"
     },
     {
@@ -111,7 +111,7 @@
         "ImagePath": "",
         "MessageJP": "寝てるわけじゃないけど……客室にはいるよ～",
         "MessageKR": "대충 무슨 의미인지…… 알지?",
-        "MessageTW": "雖然不是在睡覺……不過是在客房～",
+        "MessageTW": "大叔的意思……明白了嗎？",
         "MessageEN": "You understand the assignment though, right?"
     },
     {
@@ -123,7 +123,7 @@
         "ImagePath": "",
         "MessageJP": "とりあえず……聞かれたらそう答えておいてね、先生",
         "MessageKR": "아무튼 그런 연유로 잘 좀 부탁해 선생",
-        "MessageTW": "總之……被問到的話，就這麼回答囉，老師",
+        "MessageTW": "總之就麻煩你囉，老師",
         "MessageEN": "Anyway, I'll be counting on you, Sensei."
     },
     {

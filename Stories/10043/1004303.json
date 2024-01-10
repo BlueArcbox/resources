@@ -111,7 +111,7 @@
         "ImagePath": "",
         "MessageJP": "本日は一日、ありがとうございました",
         "MessageKR": "오늘 하루, 함께 해주셔서 감사합니다. 선생님.",
-        "MessageTW": "今日一日，非常感謝您",
+        "MessageTW": "今天一整天非常感謝您",
         "MessageEN": "Thank you so much for spending time with me today, Sensei."
     },
     {
@@ -219,7 +219,7 @@
         "ImagePath": "",
         "MessageJP": "うふふっ、そんなセキュリティなんて、このワカモには何の障害にもなりません",
         "MessageKR": "우후훗, 그런 보안 따위, 이 와카모에겐 아무런 문제도 되지 않기에.",
-        "MessageTW": "唔哼哼，那種保全系統，對若藻我來說構成不了任何阻礙",
+        "MessageTW": "唔呵呵，那種保全系統，對若藻我來說構成不了任何阻礙",
         "MessageEN": "Heeheehee. A security isn't an issue for me, not at all."
     },
     {
@@ -243,7 +243,7 @@
         "ImagePath": "",
         "MessageJP": "不一",
         "MessageKR": "그럼 이만 총총.",
-        "MessageTW": "不悉",
+        "MessageTW": "那麼，告辭",
         "MessageEN": "See you later, then. Ta-ta."
     },
     {

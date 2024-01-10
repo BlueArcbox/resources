@@ -39,7 +39,7 @@
         "ImagePath": "",
         "MessageJP": "この姿はやはり目線も低いですし、",
         "MessageKR": "또다시 몸이 어려지니 시선도 낮고,",
-        "MessageTW": "這副模樣果然視線也很低，",
+        "MessageTW": "這副模樣不只視線低",
         "MessageEN": "The age regression lowered my line of sight."
     },
     {
@@ -63,7 +63,7 @@
         "ImagePath": "",
         "MessageJP": "解毒剤が効くまで、あんまり外に出ない方が良いかもね",
         "MessageKR": "괜찮아? 일단 오늘은 실내에서 쉬는 게 좋겠어.",
-        "MessageTW": "感覺在解毒劑生效之前，最好不要外出吧",
+        "MessageTW": "在解毒劑生效之前，最好不要外出吧",
         "MessageEN": "Are you okay? I think you should take a rest inside."
     },
     {
@@ -87,7 +87,7 @@
         "ImagePath": "",
         "MessageJP": "子供になったら、ぜひ食べてみたいものがあったんです！",
         "MessageKR": "어린아이가 되었을 때, 꼭 먹어보고 싶은 음식이 있었거든요!",
-        "MessageTW": "變成小孩的話，我有個務必想吃吃看的東西！",
+        "MessageTW": "既然變成小孩，我有個務必想吃吃看的東西！",
         "MessageEN": "There was something I wanted to try when I became a kid!"
     },
     {

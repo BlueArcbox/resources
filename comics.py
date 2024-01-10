@@ -135,6 +135,8 @@ def getADynamic(dyid):
     for item in cache:
         if item['dynamic_id'] == dyid:
             return item
+        else:
+            return _getADynamic(dyid)
 
 @retry(3)
 def getTotalNum(target):

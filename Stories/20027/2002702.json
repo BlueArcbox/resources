@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 200270140,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "また今日も……",
         "MessageKR": "또……이긴 하지만,",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天也……",
+        "MessageEN": "I don't mean to be a bother, but..."
     },
     {
         "MessageId": 200270141,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "大丈夫？",
         "MessageKR": "혹시 지금 괜찮아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可以嗎？",
+        "MessageEN": "Are you busy right now?"
     },
     {
         "MessageId": 200270150,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "もちろん、いつでも行くよ",
         "MessageKR": "즐거워 보이네, 시로코.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然，隨時都能過去哦",
+        "MessageEN": "You seem happy, Shiroko."
     },
     {
         "MessageId": 200270150,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "なんだか楽しそうだね",
         "MessageKR": "몇 번이라도 괜찮으니 신경 쓰지 마.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你好像很高興呢",
+        "MessageEN": "Ask me whatever you want."
     },
     {
         "MessageId": 200270160,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ん……",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔嗯……",
+        "MessageEN": "Ah"
     },
     {
         "MessageId": 200270161,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "うん",
         "MessageKR": "음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "Well"
     },
     {
         "MessageId": 200270170,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "そうかも",
         "MessageKR": "응",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可能是",
+        "MessageEN": "Right"
     },
     {
         "MessageId": 200260177,
