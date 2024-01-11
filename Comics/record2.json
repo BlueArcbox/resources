@@ -438,11 +438,11 @@
         "description": "【青春record】官方漫画第29话\n老师，收到来自志美子同学请求帮忙的委托了！\n看来是想拜托老师来帮忙整理圣三一图书馆里的展示柜呢，让我们立刻动身出发吧！\n\n\n#碧蓝档案##蔚蓝档案#",
         "pictures": [
             {
-                "height": 1719,
-                "size": 1826.68,
-                "src": "https://i0.hdslb.com/bfs/new_dyn/218858bf919573cd2a080b9d6a5968a137507923.png",
-                "tags": [],
-                "width": 1219
+                "img_height": 1719,
+                "img_size": 1826.68,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/218858bf919573cd2a080b9d6a5968a137507923.png",
+                "img_tags": [],
+                "img_width": 1219
             }
         ],
         "pictures_count": 1
@@ -452,11 +452,11 @@
         "description": "【青春Record】官方漫画第30话\n老师，您一直忙于工作，但要不要也试着稍微休息休息呢？\n为了提升工作的效率，小憩一番也是非常重要的！\n难得有这样的机会，去邀请紫蓠同学到街上逛一逛，放松一下心情吧♪\n\n#碧蓝档案##蔚蓝档案#",
         "pictures": [
             {
-                "height": 1521,
-                "size": 1074.69,
-                "src": "https://i0.hdslb.com/bfs/new_dyn/87992e2cfbcfec5672adda954fd80c4537507923.jpg",
-                "tags": [],
-                "width": 1080
+                "img_height": 1521,
+                "img_size": 1074.69,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/87992e2cfbcfec5672adda954fd80c4537507923.jpg",
+                "img_tags": [],
+                "img_width": 1080
             }
         ],
         "pictures_count": 1
