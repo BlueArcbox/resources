@@ -1349,5 +1349,26 @@
             }
         ],
         "pictures_count": 2
+    },
+    {
+        "dynamic_id": 883077746275647560,
+        "description": "【国际服资讯】【官方四格漫画第115\n话】 \n▎诅咒...?\n​\n总是喜欢捣乱\n看热闹不嫌事大的萌\n居然也有退缩的时候...\n​\n还好吓跑了反而没有进去禁区呢~\n\n#碧蓝档案漫画连载中# #第115话# #蔚蓝档案# #碧蓝档案# #BlueArchive#",
+        "pictures": [
+            {
+                "img_height": 1217,
+                "img_size": 231.1699981689453,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/bab7cd316fb73c4e794c7584204c0c1f37507923.jpg",
+                "img_tags": null,
+                "img_width": 800
+            },
+            {
+                "img_height": 600,
+                "img_size": 44.22999954223633,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/71dc30f06c2c8a5a859479ab6ff3d11637507923.jpg",
+                "img_tags": null,
+                "img_width": 800
+            }
+        ],
+        "pictures_count": 2
     }
 ]

@@ -1033,11 +1033,11 @@
         "description": "【碧蓝档案！】第74话\r\n🔹作:純粋な不純物(@parang9494)先生\r\n#碧蓝档案# #蔚蓝档案#",
         "pictures": [
             {
-                "img_height": 4320,
-                "img_size": 4646.951171875,
-                "img_src": "https://i0.hdslb.com/bfs/new_dyn/ccdaf863a766d8982ba3ed0b880c7437436037759.jpg",
-                "img_tags": null,
-                "img_width": 3080
+                "height": 4320,
+                "size": 4646.951,
+                "src": "https://i0.hdslb.com/bfs/new_dyn/ccdaf863a766d8982ba3ed0b880c7437436037759.jpg",
+                "tags": [],
+                "width": 3080
             }
         ],
         "pictures_count": 1
