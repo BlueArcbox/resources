@@ -26,7 +26,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "せんせー！まただよー！！",
-        "MessageKR": "아앗~! 또야~! 또…! 선생님!",
+        "MessageKR": "아앗\\~! 또야\\~! 또…! 선생님!",
         "MessageTW": "老師～！又來了～！！",
         "MessageEN": "Argh! Not again, Sensei!"
     },
@@ -158,7 +158,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "ちなみに私の台詞は「紅葉に代わって突撃だ」！",
-        "MessageKR": "참고로 내 대사는 '알록달록한 단풍의 이름으로 널 용서하지 않겠다!' 인데 말이야~",
+        "MessageKR": "참고로 내 대사는 '알록달록한 단풍의 이름으로 널 용서하지 않겠다!' 인데 말이야\\~",
         "MessageTW": "順帶一提，我的台詞是：「我要代替楓葉突襲你！」",
         "MessageEN": "My line goes, \"In the name of the colorful autumn leaves, I shall never forgive you!\""
     },

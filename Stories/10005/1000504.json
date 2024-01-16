@@ -28,7 +28,7 @@
         "MessageJP": "うへ～、やっぱり夜中まで起きてると次の日まで引きずるねえ……",
         "MessageKR": "하암. 새벽까지 깨어있으면 역시 다음 주까지 힘들단 말야.",
         "MessageTW": "唔嘿～半夜不睡覺，第二天果然會很難受……",
-        "MessageEN": "*yawn* The whole week is hard when I stay up until dawn."
+        "MessageEN": "\\*yawn\\* The whole week is hard when I stay up until dawn."
     },
     {
         "MessageId": 100050185,
@@ -62,7 +62,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "お互い気を付けていこうね～",
-        "MessageKR": "몸조심해야지~",
+        "MessageKR": "몸조심해야지\\~",
         "MessageTW": "讓我們互相照應吧～",
         "MessageEN": "You need to take care of yourself!"
     },
@@ -98,7 +98,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "おじさんの方はまあ色々事情があるというか……",
-        "MessageKR": "으헤~ 뭐, 여러 사정이 있달까…….",
+        "MessageKR": "으헤\\~ 뭐, 여러 사정이 있달까…….",
         "MessageTW": "大叔這兒也是有各種情況……",
         "MessageEN": "Well, there are multiple reasons... "
     },
@@ -122,7 +122,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "おじさん感激しちゃうな～",
-        "MessageKR": "이 아저씨는 감동이네~",
+        "MessageKR": "이 아저씨는 감동이네\\~",
         "MessageTW": "大叔好感動啊～",
         "MessageEN": "Wow! I'm touched..."
     },
@@ -206,7 +206,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "うん、おやすみ",
-        "MessageKR": "호시노도 잘 자~",
+        "MessageKR": "호시노도 잘 자\\~",
         "MessageTW": "嗯，晚安",
         "MessageEN": "Goodnight, Hoshino!"
     },
@@ -218,7 +218,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "またね",
-        "MessageKR": "다음에 봐~",
+        "MessageKR": "다음에 봐\\~",
         "MessageTW": "回頭見",
         "MessageEN": "Later, alligator!"
     }

@@ -121,9 +121,9 @@
         "NextId": 260040126,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "私たち、活動する時間帯が近いかもしれません(・∀・*)",
+        "MessageJP": "私たち、活動する時間帯が近いかもしれません(・∀・\\*)",
         "MessageKR": "비슷한 활동 시간대를 가진 걸지도요!",
-        "MessageTW": "說不定，我們活動的時間很接近喔(．∀．*)",
+        "MessageTW": "說不定，我們活動的時間很接近喔(．∀．\\*)",
         "MessageEN": "We have a very similar lifestyle! "
     },
     {
@@ -205,9 +205,9 @@
         "NextId": -1,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "私も秘密にしておきますね！(・∀・*)",
-        "MessageKR": "저도 비밀로 해 둘게요! (・∀・*)",
-        "MessageTW": "我也會保密的！(・∀・*)",
+        "MessageJP": "私も秘密にしておきますね！(・∀・\\*)",
+        "MessageKR": "저도 비밀로 해 둘게요! (・∀・\\*)",
+        "MessageTW": "我也會保密的！(・∀・\\*)",
         "MessageEN": "I won't say a word to anyone!"
     }
 ]

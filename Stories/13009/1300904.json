@@ -50,7 +50,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "うん、そうだよ～",
-        "MessageKR": "응. 맞아~",
+        "MessageKR": "응. 맞아\\~",
         "MessageTW": "嗯，沒錯～",
         "MessageEN": "Yeah, you're right!"
     },

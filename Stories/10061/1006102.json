@@ -62,7 +62,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "今日も良い一日を～！！",
-        "MessageKR": "그럼 오늘도 좋은 하루 되시기 바래용~!",
+        "MessageKR": "그럼 오늘도 좋은 하루 되시기 바래용\\~!",
         "MessageTW": "希望今天也是美好的一天～！！",
         "MessageEN": "Have a great day!"
     },
@@ -74,7 +74,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "それじゃ、またね☆",
-        "MessageKR": "그럼~ 뾰로롱~☆",
+        "MessageKR": "그럼\\~ 뾰로롱\\~☆",
         "MessageTW": "那，掰掰囉☆",
         "MessageEN": "Baiii! ☆"
     },
@@ -278,8 +278,8 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "それでは……わっぴ～！",
-        "MessageKR": "뾰로롱~!",
+        "MessageKR": "뾰로롱\\~!",
         "MessageTW": "那麼……啾咪～！",
-        "MessageEN": "Baiii~!"
+        "MessageEN": "Baiii\\~!"
     }
 ]

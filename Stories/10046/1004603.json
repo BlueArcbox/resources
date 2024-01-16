@@ -26,7 +26,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "今日も朝から暑いですね、主殿！",
-        "MessageKR": "주군~! 오늘도 아침부터 무지막지하게 더운 거 있죠~!",
+        "MessageKR": "주군\\~! 오늘도 아침부터 무지막지하게 더운 거 있죠\\~!",
         "MessageTW": "今天從早上開始就非常熱呢，主公！",
         "MessageEN": "My lord! It's been so hot since this morning!"
     },
@@ -50,7 +50,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "特に尻尾が……",
-        "MessageKR": "아침에 일어났을 땐 꼬리가 땀으로 축축해져서~",
+        "MessageKR": "아침에 일어났을 땐 꼬리가 땀으로 축축해져서\\~",
         "MessageTW": "特別是尾巴的部份……",
         "MessageEN": "when I woke up, my tail was soaking wet!"
     },

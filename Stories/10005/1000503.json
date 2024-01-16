@@ -108,7 +108,7 @@
         "Type": 0,
         "NextId": 100050140,
         "MessageType": "Image",
-        "ImagePath": "/api/Stickers/Mo_Hoshino_01.webp",
+        "ImagePath": "./Stickers/Mo_Hoshino_01.webp",
         "MessageJP": "",
         "MessageKR": "",
         "MessageTW": "",
@@ -194,7 +194,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "光に包まれたベッド、ロマンチックだね",
-        "MessageKR": "별빛 아래의 침대구나. 로망이네~",
+        "MessageKR": "별빛 아래의 침대구나. 로망이네\\~",
         "MessageTW": "被光芒包裹住的床，真是浪漫呀",
         "MessageEN": "A bed under the stars? Sounds dreamy."
     }

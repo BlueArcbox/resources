@@ -61,9 +61,9 @@
         "NextId": 200010174,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "テスト、完全に惨敗 (*‿*)ノ",
-        "MessageKR": "시험 완전 망했다. (*‿*)ノ",
-        "MessageTW": "考試，完全慘敗 (*‿*)ノ",
+        "MessageJP": "テスト、完全に惨敗 (\\*‿\\*)ノ",
+        "MessageKR": "시험 완전 망했다. (\\*‿\\*)ノ",
+        "MessageTW": "考試，完全慘敗 (\\*‿\\*)ノ",
         "MessageEN": "I totally failed my test. :D"
     },
     {

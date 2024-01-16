@@ -26,7 +26,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "ひ～ま～！(つ ◑▽◑)つ",
-        "MessageKR": "심심~해~! (つ ◑▽◑)つ",
+        "MessageKR": "심심\\~해\\~! (つ ◑▽◑)つ",
         "MessageTW": "好～閒～！(つ ◑▽◑)つ",
         "MessageEN": "I'm bored! (つ ◑▽◑)つ"
     },
@@ -122,7 +122,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "そっか～うんうん！息するのめっちゃ大事だよね！",
-        "MessageKR": "그렇구나~ 응! 숨 쉬는 건 완전 중요하지!",
+        "MessageKR": "그렇구나\\~ 응! 숨 쉬는 건 완전 중요하지!",
         "MessageTW": "這樣啊～嗯嗯！呼吸是非常重要的！",
         "MessageEN": "I see! Yeah, breathing is really important!"
     },
@@ -182,7 +182,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "今日は楽しかったね～、先生！",
-        "MessageKR": "오늘 재미있었어~ 선생님!",
+        "MessageKR": "오늘 재미있었어\\~ 선생님!",
         "MessageTW": "今天很開心呢～老師！",
         "MessageEN": "Today was so much fun, Sensei!"
     },

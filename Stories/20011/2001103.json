@@ -290,7 +290,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "違うからっ、絶対に違うから！",
-        "MessageKR": "오, 오해하지 마~!",
+        "MessageKR": "오, 오해하지 마\\~!",
         "MessageTW": "不是那樣的，絕對不是！",
         "MessageEN": "D-Don't get the wrong idea!"
     }

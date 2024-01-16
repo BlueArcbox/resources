@@ -38,7 +38,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "もうこんな時間だもんね",
-        "MessageKR": "음~. 역시 잘 시간이려나. 좀 늦긴 했지?",
+        "MessageKR": "음\\~. 역시 잘 시간이려나. 좀 늦긴 했지?",
         "MessageTW": "已經是這個時間了呢",
         "MessageEN": "Hmm, I guess it is pretty late, isn't it?"
     },
@@ -122,7 +122,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "あ、特にお仕事とかじゃないよ。それでなんとなく手持無沙汰で、連絡してみたの",
-        "MessageKR": "참고로 임무는 아니니까 걱정하지 마~.",
+        "MessageKR": "참고로 임무는 아니니까 걱정하지 마\\~.",
         "MessageTW": "啊，不是在工作唷。所以閒得發慌，就想說密你一下",
         "MessageEN": "I'm not here for work though, so don't worry."
     },

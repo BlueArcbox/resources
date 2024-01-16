@@ -26,7 +26,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "つ～ん～だ～",
-        "MessageKR": "망~ 했~ 어~",
+        "MessageKR": "망\\~ 했\\~ 어\\~",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -38,7 +38,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "も～～～お～わ～り～～",
-        "MessageKR": "막~ 혔~ 어~",
+        "MessageKR": "막\\~ 혔\\~ 어\\~",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -74,7 +74,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "た～す～け～て～よ～",
-        "MessageKR": "도~ 와~ 줘~",
+        "MessageKR": "도\\~ 와\\~ 줘\\~",
         "MessageTW": "",
         "MessageEN": ""
     },

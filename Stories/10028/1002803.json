@@ -122,7 +122,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "後で、ご主人様のところに行くね！",
-        "MessageKR": "음~. 나중에 따로 찾아 갈게!",
+        "MessageKR": "음\\~. 나중에 따로 찾아 갈게!",
         "MessageTW": "晚點過去主人那邊唷！",
         "MessageEN": "Hm! I'll go find you later!"
     },

@@ -208,7 +208,7 @@
         "MessageJP": "（しゅばばばばばばっ！！！）←靴ひもを結ぶ音",
         "MessageKR": "(파바바바바바밧!!!) <- 신발 끈 묶는 소리",
         "MessageTW": "（啪沙沙沙沙沙沙）←綁鞋帶的聲音",
-        "MessageEN": "*shwoop shwoop shwoop shwoop* <- sound of tying shoelaces"
+        "MessageEN": "\\*shwoop shwoop shwoop shwoop\\* <- sound of tying shoelaces"
     },
     {
         "MessageId": 160090530,

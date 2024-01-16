@@ -26,7 +26,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "復～讐～だ～",
-        "MessageKR": "복~ 수~ 다~",
+        "MessageKR": "복\\~ 수\\~ 다\\~",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -62,7 +62,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "はらさでおくべきか～～～",
-        "MessageKR": "잊을 거라고 생각하였느냐~",
+        "MessageKR": "잊을 거라고 생각하였느냐\\~",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -146,7 +146,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "ふっかーつ！",
-        "MessageKR": "부~ 활~ 했~ 도~ 다!",
+        "MessageKR": "부\\~ 활\\~ 했\\~ 도\\~ 다!",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -158,7 +158,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "よかったよかった",
-        "MessageKR": "다행이구만~",
+        "MessageKR": "다행이구만\\~",
         "MessageTW": "",
         "MessageEN": ""
     },

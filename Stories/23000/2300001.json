@@ -170,7 +170,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "ちょうど煮詰まってたから、ありがとね",
-        "MessageKR": "잇츠 베리 딜리셔스~",
+        "MessageKR": "잇츠 베리 딜리셔스\\~",
         "MessageTW": "工作正好也到了一個瓶頸，謝啦",
         "MessageEN": "It was super delicious!"
     },
@@ -194,7 +194,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "それではまた今度！",
-        "MessageKR": "그럼 오늘 하루도 좋은 하루 되세요~!",
+        "MessageKR": "그럼 오늘 하루도 좋은 하루 되세요\\~!",
         "MessageTW": "下次見囉！",
         "MessageEN": "Have a great day!"
     },
@@ -206,7 +206,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "o(^▽^)o",
-        "MessageKR": "선생님~ o(^▽^)o",
+        "MessageKR": "선생님\\~ o(^▽^)o",
         "MessageTW": "o(^▽^)o",
         "MessageEN": "Sensei! o(^▽^)o"
     }

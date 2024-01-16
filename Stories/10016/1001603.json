@@ -64,7 +64,7 @@
         "MessageJP": "……はい、深呼吸して落ち着きました！",
         "MessageKR": "후우후우, 네, 지, 진정했어요!",
         "MessageTW": "……好，深呼吸後冷靜下來了！",
-        "MessageEN": "*deep breath* Okay, I'm calm now!"
+        "MessageEN": "\\*deep breath\\* Okay, I'm calm now!"
     },
     {
         "MessageId": 100160160,

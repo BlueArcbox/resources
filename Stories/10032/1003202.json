@@ -62,7 +62,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "ふーん、そうなんだ",
-        "MessageKR": "아하~ 역시 그렇구나.",
+        "MessageKR": "아하\\~ 역시 그렇구나.",
         "MessageTW": "呵──，這樣啊",
         "MessageEN": "Aha! I knew it."
     },
@@ -74,7 +74,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "先生のお願いごと、気になるな―",
-        "MessageKR": "응, 하긴 평범하게 생각하면 소원 한둘쯤은 가지고 있을 테니까~",
+        "MessageKR": "응, 하긴 평범하게 생각하면 소원 한둘쯤은 가지고 있을 테니까\\~",
         "MessageTW": "老師的願望，好在意吶──",
         "MessageEN": "Yeah, if you think about it, everyone has one or two wishes!"
     },
@@ -86,7 +86,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "あ、そうなんだ",
-        "MessageKR": "어라~? 그래?",
+        "MessageKR": "어라\\~? 그래?",
         "MessageTW": "啊，這樣啊",
         "MessageEN": "Oh! Really?"
     },
@@ -98,7 +98,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "まあ、今からゆっくり決めれば良いんじゃない？",
-        "MessageKR": "흐응~ 뭐, 상관은 없지만!",
+        "MessageKR": "흐응\\~ 뭐, 상관은 없지만!",
         "MessageTW": "嘛，從現在開始慢慢決定不就行了嗎？",
         "MessageEN": "Hmm, it doesn't really matter!"
     },

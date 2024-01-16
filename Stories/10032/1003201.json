@@ -26,7 +26,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "先生！",
-        "MessageKR": "선생님~ 선생님~",
+        "MessageKR": "선생님\\~ 선생님\\~",
         "MessageTW": "老師！",
         "MessageEN": "Sensei! Sensei!"
     },
@@ -38,7 +38,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "あらためて、明けましておめでとー！",
-        "MessageKR": "새해 복 많이 받아~!",
+        "MessageKR": "새해 복 많이 받아\\~!",
         "MessageTW": "再次祝你新年快樂──！",
         "MessageEN": "Happy New Year!"
     },
@@ -74,7 +74,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "えー、何その先生のリアクション。つまんな～い",
-        "MessageKR": "흐응, 뭐야~ 선생님의 반응, 재미없어~",
+        "MessageKR": "흐응, 뭐야\\~ 선생님의 반응, 재미없어\\~",
         "MessageTW": "耶──，老師那是什麼反應。無～聊",
         "MessageEN": "Oh, come on! What's with your reaction, Sensei! It's not funny!"
     },
@@ -134,7 +134,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "じゃあ楽しみにしててね、先生！",
-        "MessageKR": "그럼 잔뜩 기대하고 있어~ 선생님!",
+        "MessageKR": "그럼 잔뜩 기대하고 있어\\~ 선생님!",
         "MessageTW": "那就敬請期待吧，老師！",
         "MessageEN": "Be excited, Sensei!"
     },

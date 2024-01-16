@@ -182,7 +182,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "じゃあ、私は牛乳と砂糖を入れておいしいコーヒーを飲もうかな",
-        "MessageKR": "그럼 난 우유와 설탕을 타서 맛있는 커피를 마셔야지~",
+        "MessageKR": "그럼 난 우유와 설탕을 타서 맛있는 커피를 마셔야지\\~",
         "MessageTW": "那麼，我就來喝加了牛奶和砂糖的美味咖啡吧",
         "MessageEN": "Then I'll just have delicious coffee with milk and sugar by myself!"
     },

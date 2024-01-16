@@ -122,7 +122,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "ふーん……？あ、でも前に言ってた気がするね",
-        "MessageKR": "으음~ 그러면…. 아, 맞아! 나 들은 적 있어!",
+        "MessageKR": "으음\\~ 그러면…. 아, 맞아! 나 들은 적 있어!",
         "MessageTW": "嗯……？啊，我記得之前有聽過",
         "MessageEN": "Hmm, then... Oh, right! I heard someone say this before!"
     },

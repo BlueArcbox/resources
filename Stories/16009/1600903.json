@@ -256,7 +256,7 @@
         "MessageJP": "（くるりっ！シュババババッ！）←ものすごくかっこよく宙返りして走っていく音",
         "MessageKR": "(휘리리릭! 파바바바밧!) <- 엄청나게 멋지게 달려가는 소리",
         "MessageTW": "（刷刷！咻啪啪啪啪！）←非常帥氣地後空翻奔跑的聲音",
-        "MessageEN": "*swoosh* *tatatatat* <- sound of running super fast"
+        "MessageEN": "\\*swoosh\\* \\*tatatatat\\* <- sound of running super fast"
     },
     {
         "MessageId": 160090410,

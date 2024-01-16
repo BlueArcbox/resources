@@ -26,7 +26,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "なあ先生",
-        "MessageKR": "선생~",
+        "MessageKR": "선생\\~",
         "MessageTW": "吶，老師",
         "MessageEN": "Sensei!"
     },
@@ -50,7 +50,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "なかなかに悪くねぇもんだぜ？",
-        "MessageKR": "엄~청 멋진 거?",
+        "MessageKR": "엄\\~청 멋진 거?",
         "MessageTW": "相當不錯喔？",
         "MessageEN": "Something amazing?!"
     },
@@ -110,7 +110,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "損はさせねえからさ",
-        "MessageKR": "엄~청 멋지니까. 기대해!",
+        "MessageKR": "엄\\~청 멋지니까. 기대해!",
         "MessageTW": "不會讓你吃虧的",
         "MessageEN": "It really is amazing! You won't be disappointed!"
     },

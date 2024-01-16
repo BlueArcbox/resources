@@ -50,7 +50,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "今日も良い天気だね",
-        "MessageKR": "오늘도 날씨가 좋구나~",
+        "MessageKR": "오늘도 날씨가 좋구나\\~",
         "MessageTW": "",
         "MessageEN": ""
     },

@@ -109,10 +109,10 @@
         "NextId": 160030212,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "あｌ%$ｇ3ｒ#$%^",
-        "MessageKR": "ㄱㄴ%$ㅇㄹ3ㄴ#$%^",
-        "MessageTW": "啊ｌ%$ｇ3ｒ#$%^",
-        "MessageEN": "%!&^@#%&"
+        "MessageJP": "あｌ%$ｇ3ｒ\\#$%^",
+        "MessageKR": "ㄱㄴ%$ㅇㄹ3ㄴ\\#$%^",
+        "MessageTW": "啊ｌ%$ｇ3ｒ\\#$%^",
+        "MessageEN": "%!&^@\\#%&"
     },
     {
         "MessageId": 160030212,

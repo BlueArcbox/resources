@@ -170,7 +170,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "ん～～～～～！！",
-        "MessageKR": "으음~!!",
+        "MessageKR": "으음\\~!!",
         "MessageTW": "嗯～～～～～！",
         "MessageEN": "Ugh!"
     },
@@ -182,7 +182,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "なんかすっきりしない～！！まだ何か残ってる！",
-        "MessageKR": "답답해~!! 아직 뭔가 답답해!",
+        "MessageKR": "답답해\\~!! 아직 뭔가 답답해!",
         "MessageTW": "總覺得不夠痛快～！！還少了點什麼！",
         "MessageEN": "I'm so frustrated! Something's not right!"
     },

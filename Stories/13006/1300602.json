@@ -62,7 +62,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "え～？忙しいの～？",
-        "MessageKR": "으응~? 바쁘다고?",
+        "MessageKR": "으응\\~? 바쁘다고?",
         "MessageTW": "咦～？很忙嗎～？",
         "MessageEN": "Huh? You're busy?"
     },
@@ -110,7 +110,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "……くふふ、うちの便利屋の情報収集能力をなめちゃダメだよ～？",
-        "MessageKR": "쿠후후, 우리 흥신소의 정보력을 얕보지 말라구~",
+        "MessageKR": "쿠후후, 우리 흥신소의 정보력을 얕보지 말라구\\~",
         "MessageTW": "……呵呵呵，可不能小看我們便利屋的情報收集能力唷～！",
         "MessageEN": "Hehe... Don't underestimate the intel of Problem Solver!"
     },

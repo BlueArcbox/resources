@@ -97,9 +97,9 @@
         "NextId": 260030067,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "(・∀・*)はい！ではお待ちしてます！",
-        "MessageKR": "(・∀・*) 네! 그럼 기다리겠습니다!",
-        "MessageTW": "（・∀・*)好！那我等著你！",
+        "MessageJP": "(・∀・\\*)はい！ではお待ちしてます！",
+        "MessageKR": "(・∀・\\*) 네! 그럼 기다리겠습니다!",
+        "MessageTW": "（・∀・\\*)好！那我等著你！",
         "MessageEN": "Great! I'll be waiting for you!"
     },
     {
@@ -181,9 +181,9 @@
         "NextId": -1,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "とにかく、いつでもお待ちしておりますね！ (・∀・*)",
-        "MessageKR": "항상 기다리고 있겠습니다! (・∀・*)",
-        "MessageTW": "總之，隨時恭候你的光臨！(・∀・*)",
+        "MessageJP": "とにかく、いつでもお待ちしておりますね！ (・∀・\\*)",
+        "MessageKR": "항상 기다리고 있겠습니다! (・∀・\\*)",
+        "MessageTW": "總之，隨時恭候你的光臨！(・∀・\\*)",
         "MessageEN": "I'll be waiting for you!"
     }
 ]

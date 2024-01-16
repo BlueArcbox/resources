@@ -146,7 +146,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "まぁまぁ細かい事は気にしない～",
-        "MessageKR": "뭐, 사소한 건 됐고~",
+        "MessageKR": "뭐, 사소한 건 됐고\\~",
         "MessageTW": "小細節就別管了～",
         "MessageEN": "Well, let's not worry about the details!"
     },
@@ -244,7 +244,7 @@
         "MessageJP": "（ボンッ！！）←煙幕弾の効果音",
         "MessageKR": "(퍼퍼버버벙!!) <- 연막탄을 터트리는 소리",
         "MessageTW": "（砰！！）←引爆煙霧彈的音效",
-        "MessageEN": "*pop pop pop pop* <- smoke bomb sound"
+        "MessageEN": "\\*pop pop pop pop\\* <- smoke bomb sound"
     },
     {
         "MessageId": 160090170,

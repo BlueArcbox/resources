@@ -110,7 +110,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "お返事をいただけるとは思っていませんでした、嬉しいです～☆",
-        "MessageKR": "답장해주실 줄은 몰랐어요. 기뻐요~☆",
+        "MessageKR": "답장해주실 줄은 몰랐어요. 기뻐요\\~☆",
         "MessageTW": "沒想到能收到回覆，真開心～☆",
         "MessageEN": "I didn't think you'd reply back. I'm so happy! ☆"
     },
@@ -146,7 +146,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "今回は最初の特別なご挨拶ですが、これからも時々送らせてもらいますね☆",
-        "MessageKR": "아. 이건 그냥 안부 인사였으니까~☆ 괜찮으면 종종 보낼게요.",
+        "MessageKR": "아. 이건 그냥 안부 인사였으니까\\~☆ 괜찮으면 종종 보낼게요.",
         "MessageTW": "這次是特別的初次問候，以後會不定時發訊息的☆",
         "MessageEN": "Oh, I was just saying hi. I'll text you every now and then. ☆"
     },

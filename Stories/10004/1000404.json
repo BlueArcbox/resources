@@ -100,7 +100,7 @@
         "MessageJP": "別に、天気が良くても何も変わらない",
         "MessageKR": "하아…… 그런 건 됐고.",
         "MessageTW": "我不在意，天氣好也不會有什麼變化",
-        "MessageEN": "*sigh* That's not what I wanted to discuss."
+        "MessageEN": "\\*sigh\\* That's not what I wanted to discuss."
     },
     {
         "MessageId": 100040340,
@@ -220,6 +220,6 @@
         "MessageJP": "……全くもう",
         "MessageKR": "……하아.",
         "MessageTW": "……真受不了",
-        "MessageEN": "*sigh*"
+        "MessageEN": "\\*sigh\\*"
     }
 ]

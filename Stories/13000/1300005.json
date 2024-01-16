@@ -98,7 +98,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "楽しみにしていてくださいね～",
-        "MessageKR": "기대해 주세요~",
+        "MessageKR": "기대해 주세요\\~",
         "MessageTW": "敬請期待唷～",
         "MessageEN": "I won't let you down!"
     },
@@ -110,7 +110,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "次会うときは、私たちの記念日になるはずですから",
-        "MessageKR": "다음에 만나는 날은, 저희의 기념일이 될 거예요~",
+        "MessageKR": "다음에 만나는 날은, 저희의 기념일이 될 거예요\\~",
         "MessageTW": "下次見面的那天將成為我們的紀念日",
         "MessageEN": "The next time we see each other, it'll be our anniversary!"
     },
@@ -134,7 +134,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "ふふっ。お楽しみに、ですっ！",
-        "MessageKR": "후훗. 기.대.하.세.요~",
+        "MessageKR": "후훗. 기.대.하.세.요\\~",
         "MessageTW": "呵呵。敬請期待！",
         "MessageEN": "Hehe! You should be excited!"
     }

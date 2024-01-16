@@ -122,7 +122,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "それより、そんなことじゃなくて！",
-        "MessageKR": "그~보다 중요한 건 그런 게 아니야~! 선생님!",
+        "MessageKR": "그\\~보다 중요한 건 그런 게 아니야\\~! 선생님!",
         "MessageTW": "反正重點不在那裡啦！",
         "MessageEN": "Anyway, that's not what's important, Sensei!"
     },
@@ -146,7 +146,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "とにかく、非常事態なの！",
-        "MessageKR": "아~ 이머전시라는 건 말이지. 그러니까 그게 말이야~!",
+        "MessageKR": "아\\~ 이머전시라는 건 말이지. 그러니까 그게 말이야\\~!",
         "MessageTW": "總之就是有緊急狀況！",
         "MessageEN": "Oh! By emergency, I meant..."
     },

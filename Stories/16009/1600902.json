@@ -62,7 +62,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "細かいことは言いっこなし！",
-        "MessageKR": "에이~ 세세한 건 신경 쓰지 말라고~!",
+        "MessageKR": "에이\\~ 세세한 건 신경 쓰지 말라고\\~!",
         "MessageTW": "別在乎那些小細節！",
         "MessageEN": "Come on! Don't worry about the details!"
     },
@@ -124,7 +124,7 @@
         "MessageJP": "（ボンッ！！）←煙幕弾の効果音",
         "MessageKR": "(퍼퍼버버벙!!) <- 연막탄을 터트린 소리",
         "MessageTW": "（砰！！）←引爆煙霧彈的音效",
-        "MessageEN": "*pop pop pop pop* <- smoke bomb sound"
+        "MessageEN": "\\*pop pop pop pop\\* <- smoke bomb sound"
     },
     {
         "MessageId": 160090250,
@@ -136,7 +136,7 @@
         "MessageJP": "（シュバババッ！）←素早く去る音",
         "MessageKR": "(샤샤샤샥!) <- 재빠르게 물러나는 소리",
         "MessageTW": "（沙沙沙沙！）←迅速離去的聲音",
-        "MessageEN": "*swoosh* <- retreating quickly"
+        "MessageEN": "\\*swoosh\\* <- retreating quickly"
     },
     {
         "MessageId": 160090260,

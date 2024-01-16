@@ -50,7 +50,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "せっかくこんなに晴れてますし",
-        "MessageKR": "이런 날 해변에서 일광욕하면 분명 기분 좋을 거예요~",
+        "MessageKR": "이런 날 해변에서 일광욕하면 분명 기분 좋을 거예요\\~",
         "MessageTW": "既然好不容易放晴了",
         "MessageEN": "This is the perfect weather to sunbathe on the beach!"
     },

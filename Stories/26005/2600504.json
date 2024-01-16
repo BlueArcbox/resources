@@ -169,10 +169,10 @@
         "NextId": 260040347,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "じゃあ、気が向いたらまた連絡するから(￣︶￣*)",
-        "MessageKR": "이따가 다시 연락할게~. //(￣︶￣*))",
-        "MessageTW": "那就先這樣，想連絡的時候會再聯絡你\n(￣︶￣*)",
-        "MessageEN": "Ttyl! //(￣︶￣*))"
+        "MessageJP": "じゃあ、気が向いたらまた連絡するから(￣︶￣\\*)",
+        "MessageKR": "이따가 다시 연락할게\\~. //(￣︶￣\\*))",
+        "MessageTW": "那就先這樣，想連絡的時候會再聯絡你\n(￣︶￣\\*)",
+        "MessageEN": "Ttyl! //(￣︶￣\\*))"
     },
     {
         "MessageId": 260040347,

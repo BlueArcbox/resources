@@ -98,7 +98,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "とにかく！このままだと補習授業を受けることになっちゃうよ～！",
-        "MessageKR": "어쨌든! 이대로 가다가는 보충 수업을 받게 되어버려~",
+        "MessageKR": "어쨌든! 이대로 가다가는 보충 수업을 받게 되어버려\\~",
         "MessageTW": "總之！這樣下去就得去補課了～！",
         "MessageEN": "Well, I'm gonna need to take make-up classes as this rate!"
     },
@@ -110,7 +110,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "先生、助けて～！",
-        "MessageKR": "선생님, 나 좀 도와줘~",
+        "MessageKR": "선생님, 나 좀 도와줘\\~",
         "MessageTW": "老師，幫幫我～！",
         "MessageEN": "Please help me, Sensei!"
     },

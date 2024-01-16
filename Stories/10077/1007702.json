@@ -146,7 +146,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "やー、楽しかった",
-        "MessageKR": "이야~ 즐거웠습니다.",
+        "MessageKR": "이야\\~ 즐거웠습니다.",
         "MessageTW": "",
         "MessageEN": ""
     },

@@ -86,9 +86,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "わっ、ほんと？",
-        "MessageKR": "흐음~!",
+        "MessageKR": "흐음\\~!",
         "MessageTW": "哇，真的嗎？",
-        "MessageEN": "Mm~!"
+        "MessageEN": "Mm\\~!"
     },
     {
         "MessageId": 100600390,

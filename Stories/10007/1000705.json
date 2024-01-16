@@ -182,7 +182,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "いつかまた、こういう機会があったらいいな",
-        "MessageKR": "다음에도 또 이런 기회가 있었으면 좋겠네~",
+        "MessageKR": "다음에도 또 이런 기회가 있었으면 좋겠네\\~",
         "MessageTW": "希望有一天還有這種機會",
         "MessageEN": "I hope I get another opportunity like this soon!"
     }

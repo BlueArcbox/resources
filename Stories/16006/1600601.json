@@ -122,7 +122,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "うん、やっぱりまずは……！",
-        "MessageKR": "이번에 말이야~",
+        "MessageKR": "이번에 말이야\\~",
         "MessageTW": "嗯，首先果然是……！",
         "MessageEN": "This time..."
     },
@@ -146,7 +146,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "良いね、まさに定番って感じ",
-        "MessageKR": "바다의 집이라, 여름의 풍류구나~",
+        "MessageKR": "바다의 집이라, 여름의 풍류구나\\~",
         "MessageTW": "不錯耶，感覺就是要這裡",
         "MessageEN": "Beach Shack? Sounds like a summer thing."
     },

@@ -180,7 +180,7 @@
         "Type": 0,
         "NextId": 100680110,
         "MessageType": "Image",
-        "ImagePath": "/api/Stickers/Mo_CH0167_01.webp",
+        "ImagePath": "./Stickers/Mo_CH0167_01.webp",
         "MessageJP": "",
         "MessageKR": "",
         "MessageTW": "",

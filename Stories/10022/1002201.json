@@ -38,7 +38,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "夏だね！",
-        "MessageKR": "그러게~ 여름이네~",
+        "MessageKR": "그러게\\~ 여름이네\\~",
         "MessageTW": "是夏天呢！",
         "MessageEN": "Yeah, summertime!"
     },
@@ -50,7 +50,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "そして夏と言えば、海だね！",
-        "MessageKR": "그리고 여름이라고 하면, 역시 바다지~!",
+        "MessageKR": "그리고 여름이라고 하면, 역시 바다지\\~!",
         "MessageTW": "說到夏天，就是大海呢！",
         "MessageEN": "And when you think of the summer, you think of beaches!"
     },
@@ -124,7 +124,7 @@
         "MessageJP": "ふぅ……",
         "MessageKR": "하아…….",
         "MessageTW": "呼……",
-        "MessageEN": "*sigh*"
+        "MessageEN": "\\*sigh\\*"
     },
     {
         "MessageId": 100220071,
@@ -256,7 +256,7 @@
         "MessageJP": "はあ、まったく……",
         "MessageKR": "하아. 정말이지…….",
         "MessageTW": "唉，真是的……",
-        "MessageEN": "*sigh* Honestly..."
+        "MessageEN": "\\*sigh\\* Honestly..."
     },
     {
         "MessageId": 100220141,

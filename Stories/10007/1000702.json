@@ -26,7 +26,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "今日もお疲れ様、先生。気を付けて帰ってね～！",
-        "MessageKR": "오늘도 고생 많았어, 선생님. 조심해서 들어가~!",
+        "MessageKR": "오늘도 고생 많았어, 선생님. 조심해서 들어가\\~!",
         "MessageTW": "今天也辛苦了，老師。回去小心唷～！",
         "MessageEN": "You worked hard today, Sensei. Goodbye!"
     },

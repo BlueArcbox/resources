@@ -26,7 +26,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "先生～(～￣▽￣)～",
-        "MessageKR": "선생님~ (～￣▽￣)～",
+        "MessageKR": "선생님\\~ (～￣▽￣)～",
         "MessageTW": "老師～(～￣▽￣)～",
         "MessageEN": "Sensei! (～￣▽￣)～"
     },
@@ -85,9 +85,9 @@
         "NextId": 229990317,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "アイリはいつも応援していますから！ヾ(^▽^*)))",
-        "MessageKR": "아이리가 항상 응원할게요! ヾ(^▽^*)))",
-        "MessageTW": "愛莉會一直支持你的！ヾ(^▽^*)))",
+        "MessageJP": "アイリはいつも応援していますから！ヾ(^▽^\\*)))",
+        "MessageKR": "아이리가 항상 응원할게요! ヾ(^▽^\\*)))",
+        "MessageTW": "愛莉會一直支持你的！ヾ(^▽^\\*)))",
         "MessageEN": "I'm always rooting for you!"
     },
     {
@@ -206,7 +206,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "それでは今日も明日も、良い一日を！(✿•‿•✿)",
-        "MessageKR": "그럼 오늘도 행복한 하루 되세요~!\n(✿•‿•✿)",
+        "MessageKR": "그럼 오늘도 행복한 하루 되세요\\~!\n(✿•‿•✿)",
         "MessageTW": "那麼，祝你每天都是美好的一天！\n(✿◕‿◕✿)",
         "MessageEN": "Have an awesome day!\n(✿◕‿◕✿)"
     }

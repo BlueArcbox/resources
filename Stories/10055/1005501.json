@@ -110,7 +110,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "時間があったら、227号にも寄ってもらえると嬉しい",
-        "MessageKR": "시간 있으면 특별반에도 좀 들러줘~",
+        "MessageKR": "시간 있으면 특별반에도 좀 들러줘\\~",
         "MessageTW": "如果有空能來227號這邊一趟我會很開心的",
         "MessageEN": "You should stop by Spec Ops... If you have time."
     },

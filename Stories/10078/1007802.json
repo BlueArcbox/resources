@@ -26,7 +26,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "先生～？",
-        "MessageKR": "선생님~?",
+        "MessageKR": "선생님\\~?",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -98,7 +98,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "さすがは先生、以心伝心じゃないか？",
-        "MessageKR": "역~시 선생님이야. 척하면 척이구만?",
+        "MessageKR": "역\\~시 선생님이야. 척하면 척이구만?",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -278,7 +278,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "改めて思うが、本当に完璧なポイントだ！",
-        "MessageKR": "음~!!",
+        "MessageKR": "음\\~!!",
         "MessageTW": "",
         "MessageEN": ""
     },

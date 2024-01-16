@@ -26,7 +26,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "先生～☆",
-        "MessageKR": "선생님~☆",
+        "MessageKR": "선생님\\~☆",
         "MessageTW": "老師～☆",
         "MessageEN": "Sensei! ☆"
     },
@@ -74,7 +74,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "わっ！ありがとうございます～！",
-        "MessageKR": "와아~",
+        "MessageKR": "와아\\~",
         "MessageTW": "哇！非常感謝～！",
         "MessageEN": "Wow!"
     },
@@ -98,7 +98,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "あ、いえショッピング、ショッピングですね、先生とショッピング～☆",
-        "MessageKR": "아니, 쇼핑, 쇼핑이에요. 쇼핑~☆",
+        "MessageKR": "아니, 쇼핑, 쇼핑이에요. 쇼핑\\~☆",
         "MessageTW": "啊，不，是購物，購物才對，跟老師一起購物～☆",
         "MessageEN": "No, it's just shopping. Shopping! ☆"
     },
@@ -170,7 +170,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "ではでは、また明日も幸せな一日を～♡",
-        "MessageKR": "아하하, 그럼 오늘도 행복한 시간 되길~♡",
+        "MessageKR": "아하하, 그럼 오늘도 행복한 시간 되길\\~♡",
         "MessageTW": "那麼，明天也要度過幸福的一天唷～♡",
         "MessageEN": "Haha. Have a great day! ♥"
     }

@@ -242,7 +242,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "全然大丈夫だよ",
-        "MessageKR": "전혀 이상하지 않아요~.",
+        "MessageKR": "전혀 이상하지 않아요\\~.",
         "MessageTW": "",
         "MessageEN": ""
     },

@@ -109,9 +109,9 @@
         "NextId": 260030207,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "ヒントを出しますと、「宝探し」みたいなものです！(・∀・*)",
-        "MessageKR": "일종의 보물찾기니까요! (・∀・*)",
-        "MessageTW": "給你一個提示，是「尋寶」之類的！\n(．∀．*)",
+        "MessageJP": "ヒントを出しますと、「宝探し」みたいなものです！(・∀・\\*)",
+        "MessageKR": "일종의 보물찾기니까요! (・∀・\\*)",
+        "MessageTW": "給你一個提示，是「尋寶」之類的！\n(．∀．\\*)",
         "MessageEN": "It'll be like a treasure hunt!"
     },
     {
@@ -181,9 +181,9 @@
         "NextId": 260040219,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "これからもよろしくお願いしますね！先生！(・∀・*)",
-        "MessageKR": "그러니 앞으로도 잘 부탁드릴게요! 선생님! (・∀・*)",
-        "MessageTW": "今後也請多多關照囉！老師！(・∀・*)",
+        "MessageJP": "これからもよろしくお願いしますね！先生！(・∀・\\*)",
+        "MessageKR": "그러니 앞으로도 잘 부탁드릴게요! 선생님! (・∀・\\*)",
+        "MessageTW": "今後也請多多關照囉！老師！(・∀・\\*)",
         "MessageEN": "So I hope to see you again soon, Sensei!"
     },
     {

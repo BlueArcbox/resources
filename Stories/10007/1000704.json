@@ -62,7 +62,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "偉いでしょ？もっと褒めて～！",
-        "MessageKR": "나 잘했지? 더 칭찬해 줘, 더~!",
+        "MessageKR": "나 잘했지? 더 칭찬해 줘, 더\\~!",
         "MessageTW": "很了不起吧？再多稱讚一點～！",
         "MessageEN": "Didn't I do great? Tell me I did a great job! Come on!"
     },

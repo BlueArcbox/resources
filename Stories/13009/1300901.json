@@ -38,7 +38,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "いつも通り、修行頑張ってる？",
-        "MessageKR": "평소에도 수행 열심히 하고 있어~?",
+        "MessageKR": "평소에도 수행 열심히 하고 있어\\~?",
         "MessageTW": "和往常一樣，在努力修行嗎？",
         "MessageEN": "Are you keeping up the hard work?"
     },
@@ -110,7 +110,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "本当に～？",
-        "MessageKR": "그래~?",
+        "MessageKR": "그래\\~?",
         "MessageTW": "真的嗎～？",
         "MessageEN": "Yeah? "
     },
@@ -158,7 +158,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "じゃあ、約束の場所でね～、先生",
-        "MessageKR": "약속 장소에서 보자. 선생님~",
+        "MessageKR": "약속 장소에서 보자. 선생님\\~",
         "MessageTW": "那麼，去約定的地點吧～老師",
         "MessageEN": "I'll see you at the meeting spot, Sensei!"
     },
