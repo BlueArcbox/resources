@@ -1370,5 +1370,26 @@
             }
         ],
         "pictures_count": 2
+    },
+    {
+        "dynamic_id": 885692668153167876,
+        "description": "【国际服资讯】【官方四格漫画第116话】 \n▎暖身运动\n​\n即使靠着游泳圈\n下水前也要好好伸展!\n​\n然后把学生可爱的模样都记录下來(๑´ڡ`๑)\n\n#碧蓝档案漫画连载中# #第116话# #蔚蓝档案#\n#碧蓝档案# #BlueArchive#",
+        "pictures": [
+            {
+                "img_height": 1252,
+                "img_size": 226.2400054931641,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/05fcf33da655ca4d2cb9c4dcc4c6e06737507923.jpg",
+                "img_tags": null,
+                "img_width": 800
+            },
+            {
+                "img_height": 574,
+                "img_size": 57.84000015258789,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/2f8685d433c854f8bf51b138dd4fe18437507923.jpg",
+                "img_tags": null,
+                "img_width": 800
+            }
+        ],
+        "pictures_count": 2
     }
 ]
