@@ -863,7 +863,7 @@
             "en": "Beatrice, phantasm of all pilgrims"
         },
         "Nickname": ["Beatrice"],
-        "School": "ETC"
+        "School": ""
     },
     {
         "Id": 221,
@@ -884,7 +884,7 @@
             "en": "Observer, explorer, researcher"
         },
         "Nickname": ["Kurofuku", "Black Suit"],
-        "School": "ETC"
+        "School": ""
     },
     {
         "Id": 222,
@@ -905,7 +905,7 @@
             "en": "Looking forward to seeing what kind of text you will read"
         },
         "Nickname": ["Golconde&Decalcomanie"],
-        "School": "ETC"
+        "School": ""
     },
     {
         "Id": 223,
@@ -918,7 +918,7 @@
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/9/94/Francis_Icon.png"],
         "Bio": {},
         "Nickname": ["Francis"],
-        "School": "ETC"
+        "School": ""
     },
     {
         "Id": 224,
@@ -939,7 +939,7 @@
             "en": "Now then, Sensei. Please prepare to applaud."
         },
         "Nickname": ["Maestro"],
-        "School": "ETC"
+        "School": ""
     },
     {
         "Id": 225,
@@ -958,7 +958,7 @@
             "en": "Please... take care of the students."
         },
         "Nickname": ["Phrenapates"],
-        "School": "ETC"
+        "School": ""
     },
     {
         "Id": 226,
@@ -976,7 +976,7 @@
             "en": "Followers of the \"Nameless God\""
         },
         "Nickname": ["Nameless_Priests"],
-        "School": "ETC"
+        "School": ""
     },
     {
         "Id": 230,
@@ -1114,7 +1114,7 @@
         ],
         "Bio": {},
         "Nickname": ["Citizen"],
-        "School": "ETC"
+        "School": ""
     },
     {
         "Id": 236,
@@ -1133,7 +1133,7 @@
         ],
         "Bio": {},
         "Nickname": ["Robot"],
-        "School": "ETC"
+        "School": ""
     },
     {
         "Id": 237,
@@ -1151,7 +1151,7 @@
         ],
         "Bio": {},
         "Nickname": ["Kaiser_PMC"],
-        "School": "ETC"
+        "School": ""
     },
     {
         "Id": 250,
@@ -1164,7 +1164,7 @@
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/e/ee/Ein_Icon.png"],
         "Bio": {},
         "Nickname": ["Ein", "无"],
-        "School": "ETC"
+        "School": ""
     },
     {
         "Id": 251,
@@ -1177,7 +1177,7 @@
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/9/90/Ohr_Icon.png"],
         "Bio": {},
         "Nickname": ["Ohr", "光"],
-        "School": "ETC"
+        "School": ""
     },
     {
         "Id": 252,
@@ -1190,7 +1190,7 @@
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/b/b8/Sof_Icon.png"],
         "Bio": {},
         "Nickname": ["Sof", "限"],
-        "School": "ETC"
+        "School": ""
     },
     {
         "Id": 240,
@@ -1207,7 +1207,7 @@
         ],
         "Bio": {},
         "Nickname": ["Binah", "大蛇"],
-        "School": "ETC"
+        "School": ""
     },
     {
         "Id": 241,
@@ -1224,7 +1224,7 @@
         ],
         "Bio": {},
         "Nickname": ["Chesed", "球"],
-        "School": "ETC"
+        "School": ""
     },
     {
         "Id": 242,
@@ -1241,7 +1241,7 @@
         ],
         "Bio": {},
         "Nickname": ["Shirokuro", "黑白"],
-        "School": "ETC"
+        "School": ""
     },
     {
         "Id": 243,
@@ -1258,7 +1258,7 @@
         ],
         "Bio": {},
         "Nickname": ["Hieronymus", "主教", "教皇"],
-        "School": "ETC"
+        "School": ""
     },
     {
         "Id": 244,
@@ -1272,7 +1272,7 @@
         "Avatar": ["https://schale.gg/images/raid/icon/Icon_KaitenFxMk0.png"],
         "Bio": {},
         "Nickname": ["KaitenFxMk0", "寿司人"],
-        "School": "ETC"
+        "School": ""
     },
     {
         "Id": 245,
@@ -1289,7 +1289,7 @@
         ],
         "Bio": {},
         "Nickname": ["Perorozilla", "鸡斯拉"],
-        "School": "ETC"
+        "School": ""
     },
     {
         "Id": 246,
@@ -1306,7 +1306,7 @@
         ],
         "Bio": {},
         "Nickname": ["HOD"],
-        "School": "ETC"
+        "School": ""
     },
     {
         "Id": 247,
@@ -1320,7 +1320,7 @@
         "Avatar": ["https://schale.gg/images/raid/icon/Icon_Goz.png"],
         "Bio": {},
         "Nickname": ["Goz"],
-        "School": "ETC"
+        "School": ""
     },
     {
         "Id": 248,
@@ -1334,7 +1334,7 @@
         "Avatar": ["https://schale.gg/images/raid/icon/Icon_EN0005.png"],
         "Bio": {},
         "Nickname": ["Gregorius"],
-        "School": "ETC"
+        "School": ""
     },
     {
         "Id": 248,
@@ -1348,6 +1348,6 @@
         "Avatar": ["https://schale.gg/images/raid/icon/Icon_EN0006.png"],
         "Bio": {},
         "Nickname": ["Kurokage"],
-        "School": "ETC"
+        "School": ""
     }
 ]
