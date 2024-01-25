@@ -1,0 +1,153 @@
+[
+    {
+        "CharacterId": 20033,
+        "MessageJP": "マコト",
+        "MessageKR": "마코토",
+        "MessageTW": "マコト",
+        "MessageEN": "Makoto"
+    },
+    {
+        "MessageId": 200320010,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 200330010,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 200330010,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200330020,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "時が来た",
+        "MessageKR": "드디어 때가 무르익은 듯하군. 샬레의 선생.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200330020,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200330030,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "……？",
+        "MessageKR": "……?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200330030,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200330031,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "キキキッ、そう狼狽える必要は無い",
+        "MessageKR": "크크큭. 당황할 거 없다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200330031,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200330040,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "私の完璧な計画が整ったという知らせだ",
+        "MessageKR": "그저 내 완벽한 계획을 위한 모든 준비가 끝났다는 뜻이니까.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200330040,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200330050,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "いよいよ、この羽沼マコト様の……",
+        "MessageKR": "오늘을 기점으로 마침내 나 하누마 마코토 님의…….",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200330050,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200330060,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "いや、我々の偉大な物語が始まるのだ！",
+        "MessageKR": "아니, 우리들이 함께하는 위대한 첫걸음이 시작되는 거다!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200330060,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200330070,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "…………？",
+        "MessageKR": "…………?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200330070,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200330071,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "さあ、シャーレの先生よ",
+        "MessageKR": "자아, 샬레의 선생이여.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200330071,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200330080,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "万魔殿で待っているぞ、キキキッ",
+        "MessageKR": "그럼 오늘 만마전에서 기다리고 있겠다. 키키킥.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200330080,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200320087,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "えっと……万魔殿に来てほしい、って意味だよね……？",
+        "MessageKR": "으음, 만마전을 방문해달라는 이야기지……? 알았어.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200320087,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "マコトの絆イベントへ",
+        "MessageKR": "마코토의 인연스토리로",
+        "MessageTW": "前往マコト的羈絆劇情",
+        "MessageEN": "Go to Makoto's Event"
+    }
+]

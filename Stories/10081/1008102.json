@@ -26,7 +26,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "先日、食後のでざーとを食べていたら……",
-        "MessageKR": "최근 식후 디저트를 먹던 도중….",
+        "MessageKR": "최근 식후 간식을 먹던 도중….",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -38,7 +38,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "すごいことを思いつきましたの！",
-        "MessageKR": "저 유카리, 놀라운 아이디어를 떠올렸사와요!",
+        "MessageKR": "저 유카리, 놀라운 아이디-어를 떠올렸사와요!",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -62,7 +62,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "和菓子やもんぶらん、ぷりんなどなど……",
-        "MessageKR": "화과자나 몽블랑, 푸딩처럼. ",
+        "MessageKR": "화과자나 몽부을\\~랑, 푸디-잉처럼.",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -74,7 +74,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "でざーとは甘いものばかりですが！",
-        "MessageKR": "디저트에는 단맛의 과자들이 잔뜩이지만!",
+        "MessageKR": "간식에는 단맛의 과자들이 잔뜩이지만!",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -98,7 +98,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "しょっぱい系もいけると思いまして！",
-        "MessageKR": "디저트엔 짠맛도 잘 어울릴 것이라 생각하여요!",
+        "MessageKR": "간식으로는 짠맛도 잘 어울릴 것이라 생각하여요!",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -110,7 +110,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "そこで、しょっぱい味のでざーとを作れば、皆様も飽きずに楽しめるのではないかと……！",
-        "MessageKR": "이 기회에 짠맛 디저트를 만들면 소녀도 질리지 않고 마음껏 단짠을…!",
+        "MessageKR": "이 기회에 짠맛의 과자를 만들면 소녀도 질리지 않고 마음껏 단짠을…!",
         "MessageTW": "",
         "MessageEN": ""
     },

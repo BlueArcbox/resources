@@ -282,15 +282,14 @@
     {
         "Id": 131,
         "Name": {
-            "zh": "真琴",
-            "jp": "マコト",
-            "tw": "真琴",
-            "en": "Makoto",
-            "kr": "마코토"
+            "zh": "千秋",
+            "jp": "チアキ",
+            "tw": "千秋",
+            "en": "Chiaki"
         },
-        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/a/ac/Makoto_Icon.png"],
+        "Avatar": [],
         "Bio": {},
-        "Nickname": ["Makoto", "猴王"],
+        "Nickname": ["Chiaki"],
         "School": "Gehenna"
     },
     {
@@ -305,25 +304,6 @@
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/4/4e/Satsuki_Icon.png"],
         "Bio": {},
         "Nickname": ["Satsuki"],
-        "School": "Gehenna"
-    },
-    {
-        "Id": 133,
-        "Name": {
-            "zh": "伊吹",
-            "jp": "イブキ",
-            "tw": "伊吹",
-            "en": "Ibuki",
-            "kr": "이부키"
-        },
-        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/3/36/Ibuki_Icon.png"],
-        "Bio": {
-            "zh": "伊吹会尽全力的！",
-            "jp": "イブキは全力を尽くします！",
-            "tw": "伊吹會盡全力的！",
-            "en": "Ibuki will do her best!"
-        },
-        "Nickname": ["Ibuki"],
         "School": "Gehenna"
     },
     {

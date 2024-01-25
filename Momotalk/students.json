@@ -63,7 +63,7 @@
             "en": "",
             "kr": ""
         },
-        "Nickname": ["阳奈", "魔王", "雏", "老婆"]
+        "Nickname": ["阳奈", "魔王", "雏", "老婆", "委员长"]
     },
     {
         "Id": 10005,
@@ -988,7 +988,7 @@
             "en": "Do not disturb unless it's task-related.",
             "kr": "업무 이외의 연락 사절"
         },
-        "Nickname": []
+        "Nickname": ["爱犬"]
     },
     {
         "Id": 20009,
@@ -2196,5 +2196,53 @@
         },
         "Nickname": ["小红薯", "山钩", "小红书"],
         "related": [23003, "camping"]
+    },
+    {
+        "Id": 20033,
+        "Avatar": [
+            "https://static.wikia.nocookie.net/blue-archive/images/a/ac/Makoto_Icon.png",
+            "https://static.wikia.nocookie.net/blue-archive/images/b/be/Makoto_Dress_Icon.png"
+        ],
+        "Bio": {
+            "zh": "我便是，格赫娜真正的领导者！",
+            "jp": "私こそ、ゲヘナの真のリーダーである！",
+            "kr": "이 몸이 바로 게헨나의 진정한 리더다!"
+        },
+        "Nickname": ["猴王"]
+    },
+    {
+        "Id": 10087,
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/c/c5/Ako_Dress_Icon.png"],
+        "Bio": {
+            "zh": "现在的我，只是一名特工…",
+            "jp": "今の私は、ただのエージェント…",
+            "kr": "지금의 저는, 한 명의 에이전트…"
+        },
+        "Nickname": ["贵宾犬"],
+        "related": [20008, "dress"]
+    },
+    {
+        "Id": 16014,
+        "Avatar": [
+            "https://static.wikia.nocookie.net/blue-archive/images/3/36/Ibuki_Icon.png",
+            "https://static.wikia.nocookie.net/blue-archive/images/b/ba/Ibuki_Dress_Icon.png"
+        ],
+        "Bio": {
+            "zh": "格赫娜学园的伊吹！",
+            "jp": "ゲヘナ学園のイブキです！",
+            "kr": "게헨나 학원의 이부키입니다!"
+        },
+        "Nickname": []
+    },
+    {
+        "Id": 10086,
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/f/f1/Hina_Dress_Icon.png"],
+        "Bio": {
+            "zh": "",
+            "jp": "",
+            "kr": ""
+        },
+        "Nickname": [],
+        "related": [10004, "dress"]
     }
 ]

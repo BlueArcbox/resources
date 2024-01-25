@@ -110,7 +110,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "水風呂は諦めるよ",
-        "MessageKR": "역시 냉수욕조를 만드는 건 포기하기로 했어.",
+        "MessageKR": "역시 냉수 욕조를 만드는 건 포기하기로 했어.",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -194,7 +194,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "いつもありがとう、先生",
-        "MessageKR": "언제나 신경써줘서 고마워, 선생님.",
+        "MessageKR": "언제나 신경 써줘서 고마워, 선생님.",
         "MessageTW": "",
         "MessageEN": ""
     }

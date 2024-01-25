@@ -1,0 +1,129 @@
+[
+    {
+        "CharacterId": 10086,
+        "MessageJP": "ヒナ（ドレス）",
+        "MessageKR": "히나(드레스)",
+        "MessageTW": "ヒナ（ドレス）",
+        "MessageEN": "Hina (Dress)"
+    },
+    {
+        "MessageId": 100850010,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 100860010,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 100860010,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100860020,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生、少し相談があるのだけど",
+        "MessageKR": "선생님. 조금 업무 관련으로 상담하고 싶은 게 있는데.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100860020,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 100860030,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "よし、今すぐ出動だ！",
+        "MessageKR": "좋아, 샬레 출동이다!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100860030,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100860040,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "う、うん？出動……？",
+        "MessageKR": "으, 응? 출동…?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100860040,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 100860050,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "どこに行けばいい？",
+        "MessageKR": "어디서 만날까? 히나.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100860050,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100860060,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "出動って、会いに来てくれるって意味だったの？",
+        "MessageKR": "아, 응. 출동이란 게, 바로 만나자는 의미였구나.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100860060,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 100860070,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ふふっ、先生らしいね",
+        "MessageKR": "…후훗. 선생님답네.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100860070,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 100860071,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "今日は私がシャーレに行くわ",
+        "MessageKR": "오늘은 내가 샬레로 찾아갈게.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100860071,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100850077,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "じゃあ後でね、先生",
+        "MessageKR": "그럼 조금 이따가 보자. 선생님.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100850077,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ヒナ（ドレス）の絆イベントへ",
+        "MessageKR": "히나(드레스)의 인연스토리로",
+        "MessageTW": "前往ヒナ（ドレス）的羈絆劇情",
+        "MessageEN": "Go to Hina (Dress)'s Event"
+    }
+]
