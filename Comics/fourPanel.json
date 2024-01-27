@@ -1412,5 +1412,26 @@
             }
         ],
         "pictures_count": 2
+    },
+    {
+        "dynamic_id": 890871290603241496,
+        "description": "【国际服资讯】【官方四格漫画第118话】  \n▎冷酷的专家\n放长线钓大鱼\n一举冲进大本营~ (X)\n\n不要那么失望好吗！(ﾟдﾟ)\n\n#碧蓝档案漫画连载中# #第118话#\n#蔚蓝档案# #碧蓝档案# #BlueArchive#",
+        "pictures": [
+            {
+                "img_height": 1384,
+                "img_size": 280.1700134277344,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/98521739671487e24485db70137c45bf37507923.jpg",
+                "img_tags": null,
+                "img_width": 800
+            },
+            {
+                "img_height": 610,
+                "img_size": 60.56999969482422,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/fadc8a201868507bae32a53efebbb41c37507923.jpg",
+                "img_tags": null,
+                "img_width": 800
+            }
+        ],
+        "pictures_count": 2
     }
 ]
