@@ -26,7 +26,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "そういえば、生活安全局には",
-        "MessageKR": "그러고보니 생활안전국에는",
+        "MessageKR": "그러고 보니 생활안전국에는",
         "MessageTW": "這麼說來，在生活安全局裡",
         "MessageEN": "Come to think of it, in the Public Safety Bureau"
     },
@@ -74,7 +74,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "そういうカンナは、最初から公安局志望だったの？",
-        "MessageKR": "그러고보니 칸나는 처음부터 공안국을 지망했던 거야?",
+        "MessageKR": "그러고 보니 칸나는 처음부터 공안국을 지망했던 거야?",
         "MessageTW": "話說環奈一開始就是想進入公安局嗎？",
         "MessageEN": "Did you want to apply for the Public Peace Bureau from the beginning?"
     },

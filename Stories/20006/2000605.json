@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "ふっふっふ！",
         "MessageKR": "흠흠!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哼哼哼！",
+        "MessageEN": "Ahem!"
     },
     {
         "MessageId": 200060285,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "良いことだ",
         "MessageKR": "좋은 일이다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "發生了一件好事",
+        "MessageEN": "Good news."
     },
     {
         "MessageId": 200060290,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ようやくぼく様の才能に",
         "MessageKR": "드디어 나님의 천재성을",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "終於有人慧眼識英雄",
+        "MessageEN": "At long last,"
     },
     {
         "MessageId": 200060291,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "気づいてくれる人が現れたのだ！",
         "MessageKR": "알아봐 주는 사람들이 생긴 것이다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "看出我的天縱英才了！",
+        "MessageEN": "my genius has been recognized!"
     },
     {
         "MessageId": 200060300,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "どうしたの？",
         "MessageKR": "오, 무슨 일이야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哦？怎麼說呢？",
+        "MessageEN": "Oh? What's going on?"
     },
     {
         "MessageId": 200060300,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "何か依頼があったとか？",
         "MessageKR": "무슨 부탁이라도 받았어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "收到什麼委託了嗎？",
+        "MessageEN": "Did you get a commission?"
     },
     {
         "MessageId": 200060310,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "そうなのだ！",
         "MessageKR": "그런 것이다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "正是如此！",
+        "MessageEN": "Indeed!"
     },
     {
         "MessageId": 200060320,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "せっかくだから、先生にも来てほしくて！",
         "MessageKR": "모처럼의 일이니, 선생도 오는 것이다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "難得有這種機會，希望老師也能過來一趟！",
+        "MessageEN": "Even you're going to be there, since it's a special occasion!"
     },
     {
         "MessageId": 200060321,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "一緒にぼく様の発明品を見てみるのだ！",
         "MessageKR": "함께 나님의 발명품을 지켜보도록!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "一起見證我的發明吧！",
+        "MessageEN": "You'll get to see my latest invention firsthand!"
     },
     {
         "MessageId": 200050337,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "うう……",
         "MessageKR": "크윽",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗚嗚……",
+        "MessageEN": "Ugh"
     },
     {
         "MessageId": 200060331,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "よく考えれば、ガスマスクを着ければ良かったのだ",
         "MessageKR": "생각해 보니, 방독면을 썼어야 했던 것이다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "仔細想想，當時應該戴著防毒面具才對",
+        "MessageEN": "Looking back on it, I should've worn a gas mask."
     },
     {
         "MessageId": 200060340,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "ただの香水だと思って油断してしまうなんて……",
         "MessageKR": "향수라고 방심해 버리다니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "以為只是香水就掉以輕心……",
+        "MessageEN": "I underestimated the formulation, treating it like mere perfume."
     },
     {
         "MessageId": 200060341,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "いや、ぼく様の発明がすごすぎたのだ……？",
         "MessageKR": "나님 정도 되는 사람이 이런 실수를…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒想到我竟然也會犯下這種失誤",
+        "MessageEN": "That someone like me would make such a mistake..."
     },
     {
         "MessageId": 200060350,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "みんな喜んでくれてたね",
         "MessageKR": "그래도 덕분에 모두가 즐거웠잖아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過大家都很開心",
+        "MessageEN": "But everyone had a great time, thanks to that."
     },
     {
         "MessageId": 200060350,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "サヤのおかげで、イベントは大成功だよ",
         "MessageKR": "행사는 대성공이었는걸. 사야 덕분이야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "託沙耶的福，活動非常成功哦",
+        "MessageEN": "I'd say you made the event a great success."
     },
     {
         "MessageId": 200060360,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "ふっふっふ",
         "MessageKR": "흥",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哼哼",
+        "MessageEN": "Heh"
     },
     {
         "MessageId": 200060361,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "それは当たり前なのだ！",
         "MessageKR": "그건 당연한 것이다! 나님이니까!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那是當然！畢竟是我的發明啊！",
+        "MessageEN": "Was there ever any doubt?"
     },
     {
         "MessageId": 200060370,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "だって、ぼく様なのだから！",
         "MessageKR": "음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "Hm"
     },
     {
         "MessageId": 200060371,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "そうだ",
         "MessageKR": "그래도",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "對了",
+        "MessageEN": "Still"
     },
     {
         "MessageId": 200060372,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 200060380,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "今日は助かったのだ、ありがとう！",
         "MessageKR": "정말 고맙다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天真的很謝謝你",
+        "MessageEN": "Thank you."
     },
     {
         "MessageId": 200060381,
@@ -291,7 +291,7 @@
         "ImagePath": "",
         "MessageJP": "また次の発明も楽しみにしていてほしいのだ！",
         "MessageKR": "다음에 또 함께하는 것이다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "期待我的下一個發明吧！",
+        "MessageEN": "Next time, I'll really knock your socks off!"
     }
 ]

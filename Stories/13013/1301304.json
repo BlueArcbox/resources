@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "おはようございます、先生",
         "MessageKR": "안녕하세요. 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你好，老師",
+        "MessageEN": "Hello, Sensei."
     },
     {
         "MessageId": 130130330,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "おはよう、モミジ……",
         "MessageKR": "안녀엉…… 모미지……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你好呀……紅葉……",
+        "MessageEN": "Hello........"
     },
     {
         "MessageId": 130130340,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "あれ？",
         "MessageKR": "어라?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？",
+        "MessageEN": "Huh?"
     },
     {
         "MessageId": 130130341,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "どうしたんですか？",
         "MessageKR": "무슨 일이라도 있으세요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "發生什麼事了嗎？",
+        "MessageEN": "Is something wrong?"
     },
     {
         "MessageId": 130130350,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "実は……",
         "MessageKR": "별 건 아니고……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "其實也沒什麼……",
+        "MessageEN": "It's nothing..."
     },
     {
         "MessageId": 130130360,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "2日連続の徹夜で頭がぼーっとして……",
         "MessageKR": "그냥, 이틀째 철야를 했더니 정신이 없네……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只是熬夜了兩天，頭昏昏的……",
+        "MessageEN": "Just feeling tired after staying up two nights in a row..."
     },
     {
         "MessageId": 130130370,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "そんな！大変です！",
         "MessageKR": "세상에, 그거 정말 큰 일이잖아요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "什麼，這樣不行！",
+        "MessageEN": "Oh no, that is something!"
     },
     {
         "MessageId": 130130371,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "私も本を読んでいると気づいたら朝になっている日もありますが……",
         "MessageKR": "물론 저도 만화를 읽다가 밤을 새우는 적도 가끔씩 있지만……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然我偶爾也會通宵看漫畫……",
+        "MessageEN": "I mean, I've stayed up a few nights reading manga, but..."
     },
     {
         "MessageId": 130130380,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "あの、先生",
         "MessageKR": "저, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個，老師",
+        "MessageEN": "Uh, Sensei?"
     },
     {
         "MessageId": 130130381,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "もしよろしければ……レッドウィンターの図書館に来ていただけませんか？",
         "MessageKR": "괜찮으시다면…… 붉은겨울 도서관에, 한 번 들러 주실 수 있으세요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "方便的話……可以來一趟赤冬圖書館嗎？",
+        "MessageEN": "If you feel up to it...could you stop by the Red Winter Library?"
     },
     {
         "MessageId": 130130390,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "図書館に……？",
         "MessageKR": "도서관에……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "圖書館……？",
+        "MessageEN": "The library...?"
     },
     {
         "MessageId": 130120397,

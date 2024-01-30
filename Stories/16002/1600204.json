@@ -27,7 +27,7 @@
         "ImagePath": "",
         "MessageJP": "おはようございます！何か気になることがありましたら、いつでも仰ってください！",
         "MessageKR": "궁금한 게 있으시면 언제든 말해주세요!",
-        "MessageTW": "早上好！如果有任何問題，請隨時告訴我唷！",
+        "MessageTW": "如果有任何問題，請隨時告訴我唷！",
         "MessageEN": "If you have any questions, just ask me anytime!"
     },
     {
@@ -39,7 +39,7 @@
         "ImagePath": "",
         "MessageJP": "疑問や質問があれば、いつでもぜひこのコトリに！",
         "MessageKR": "궁금증 해결은 언제나 코토리와 함께!",
-        "MessageTW": "如果你有任何疑問或問題，請隨時找亞都梨！",
+        "MessageTW": "讓亞都梨陪你解決各種疑惑！",
         "MessageEN": "I can answer all your questions!"
     },
     {
@@ -158,7 +158,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "お任せください、何でもお答えしますよ！",
-        "MessageKR": "좋아요!! 좋습니다. 뭐든지 대답해 드릴 게요!",
+        "MessageKR": "좋아요!! 좋습니다. 뭐든지 대답해 드릴게요!",
         "MessageTW": "交給我吧，什麼都能回答！",
         "MessageEN": "Yay, I'm happy to hear that! I'll answer anything!"
     },
@@ -219,7 +219,7 @@
         "ImagePath": "",
         "MessageJP": "本当にその、不意を突かれたと言いますか……",
         "MessageKR": "정말로, 그런 종류의 질문이실 거라곤 상상도 못 했어서…….",
-        "MessageTW": "真的是那個，還是說措手不及呢……",
+        "MessageTW": "我實在沒想過會是那種問題……",
         "MessageEN": "I really didn't expect you to ask that..."
     },
     {
@@ -231,7 +231,7 @@
         "ImagePath": "",
         "MessageJP": "すみません、前にもこんなことがあった気がしますね……",
         "MessageKR": "그러고 보니 전에도 이런 일이 있었던 것 같은데…….",
-        "MessageTW": "對不起，之前好像也有發生過這種事……",
+        "MessageTW": "之前好像也發生過類似的事……",
         "MessageEN": "Speaking of which, I think something like this has happened before."
     },
     {
@@ -243,7 +243,7 @@
         "ImagePath": "",
         "MessageJP": "……\u200b\u200b",
         "MessageKR": "음. 으음…….",
-        "MessageTW": "……\u200b\u200b",
+        "MessageTW": "唔嗯……",
         "MessageEN": "Hmm.... Umm..."
     },
     {
@@ -255,7 +255,7 @@
         "ImagePath": "",
         "MessageJP": "その",
         "MessageKR": "그…….",
-        "MessageTW": "那個",
+        "MessageTW": "那個……",
         "MessageEN": "Um..."
     },
     {
@@ -267,7 +267,7 @@
         "ImagePath": "",
         "MessageJP": "今度よろしければ",
         "MessageKR": "다음에",
-        "MessageTW": "下次如果可以的話",
+        "MessageTW": "如果",
         "MessageEN": "Next time..."
     },
     {
@@ -279,7 +279,7 @@
         "ImagePath": "",
         "MessageJP": "いえ、私の準備ができてないので、すぐではないのですが",
         "MessageKR": "다음에 혹시 괜찮으시면, 언젠가 저도 준비가 됐을 때!",
-        "MessageTW": "不，我還沒準備好，不是馬上",
+        "MessageTW": "如果可以的話，等我做好準備之後",
         "MessageEN": "Next time if it's okay, please ask me when I'm prepared!"
     },
     {
@@ -291,7 +291,7 @@
         "ImagePath": "",
         "MessageJP": "その時でも、良いですか？",
         "MessageKR": "다시 부탁드리겠습니다…….",
-        "MessageTW": "到那個時候，可以嗎？",
+        "MessageTW": "再麻煩老師了……",
         "MessageEN": "Please ask me again..."
     },
     {
@@ -303,7 +303,7 @@
         "ImagePath": "",
         "MessageJP": "ちゃんと",
         "MessageKR": "그땐 꼭",
-        "MessageTW": "會好好地",
+        "MessageTW": "到時候",
         "MessageEN": "The next time..."
     },
     {
@@ -315,7 +315,7 @@
         "ImagePath": "",
         "MessageJP": "ちゃんと答えを、出しますので",
         "MessageKR": "잘 대답해 보겠습니다…….",
-        "MessageTW": "好好地給出答案",
+        "MessageTW": "我一定會好好回答的……",
         "MessageEN": "I promise I'll be able to answer it."
     }
 ]

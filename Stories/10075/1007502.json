@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "つ～ん～だ～",
         "MessageKR": "망\\~ 했\\~ 어\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "完～蛋～了～",
+        "MessageEN": "I'm ruined!"
     },
     {
         "MessageId": 100750130,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "も～～～お～わ～り～～",
         "MessageKR": "막\\~ 혔\\~ 어\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "卡～住～了～",
+        "MessageEN": "I'm done for!"
     },
     {
         "MessageId": 100750140,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "いつも通りのメルだ",
         "MessageKR": "이해했다. 언제나의 메루다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哎呀，是熟悉的愛瑠呢",
+        "MessageEN": "Good ol' Meru..."
     },
     {
         "MessageId": 100750150,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "冷たい！そうやって他人事みたいにさぁ！",
         "MessageKR": "그렇게 강 건너 불구경하는 것처럼 반응하지 말고!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不要一副隔岸觀火的樣子！",
+        "MessageEN": "This is SERIOUS!!"
     },
     {
         "MessageId": 100750151,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "た～す～け～て～よ～",
         "MessageKR": "도\\~ 와\\~ 줘\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "幫～幫～我～",
+        "MessageEN": "HELP!!"
     },
     {
         "MessageId": 100740157,

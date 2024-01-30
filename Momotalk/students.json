@@ -846,7 +846,7 @@
             "en": "Summer delicacy road trip!",
             "kr": "여름의 별미를 찾아서 여행이야!"
         },
-        "Nickname": ["水汉堡"],
+        "Nickname": [],
         "related": [10009, "swimsuit"]
     },
     {
@@ -1051,7 +1051,7 @@
             "en": "Looking forward to the new year.",
             "kr": "부디 올해도 잘 부탁드립니다."
         },
-        "Nickname": ["春鲁", "新社", "春露"],
+        "Nickname": ["春鲁", "春露"],
         "related": [10000, "newyear"]
     },
     {
@@ -1413,7 +1413,7 @@
             "en": "Where are the sparkles?",
             "kr": "반짝반짝, 어디 있을까?"
         },
-        "Nickname": ["水千"],
+        "Nickname": [],
         "related": [13001, "swimsuit"]
     },
     {
@@ -1702,7 +1702,7 @@
         "Id": 20023,
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/b/ba/Kanna_Icon.png"],
         "Bio": {
-            "zh": "创建安全的鸡窝托斯，请交给瓦尔基里",
+            "zh": "建立安全的鸡窝托斯，请交给瓦尔基里",
             "jp": "安全なキヴォトスを目指して、ヴァルキューレにお任せを",
             "tw": "建立安全的奇普托斯，請交給女武神",
             "en": "A trustworthy Valkyrie = A safe Kivotos.",
@@ -1917,7 +1917,7 @@
         "Id": 10072,
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/e/e5/Saki_Swimsuit_Icon.png"],
         "Bio": {
-            "zh": "将不可能化为可能",
+            "zh": "化不可能为可能",
             "jp": "不可能を可能に",
             "tw": "將不可能化為可能",
             "en": "If it doesn't work, make it work.",
@@ -1958,6 +1958,8 @@
         "Bio": {
             "zh": "出差中",
             "jp": "出張中",
+            "tw": "出差中",
+            "en": "On a business trip.",
             "kr": "출장 중."
         },
         "Nickname": [],
@@ -1969,6 +1971,8 @@
         "Bio": {
             "zh": "出差中，有事请留言！",
             "jp": "出張中です、なにかありましたらメッセージをどうぞ！",
+            "tw": "出差中，如果有事麻煩請傳訊息！",
+            "en": "I'm away on business. Please leave a message!",
             "kr": "출장 중입니다, 메시지 남겨주세요!"
         },
         "Nickname": [],
@@ -1980,6 +1984,8 @@
         "Bio": {
             "zh": "泳装才不是涩涩呢！",
             "jp": "水着はエッチじゃないんだからね！",
+            "tw": "泳裝又沒有色色！",
+            "en": "There is nothing inappropriate about swimsuits!!",
             "kr": "수영복은 야한 게 아니니까!"
         },
         "Nickname": ["水春", "泳春"],
@@ -1991,6 +1997,8 @@
         "Bio": {
             "zh": "我的真面目，可以随着肌肤一同裸露出来吗？",
             "jp": "さらけ出した肌のぶんだけ、素直になっていいですか？",
+            "tw": "可以像裸露出來的皮膚一樣，坦誠以對嗎？",
+            "en": "As you can see, I have nothing to hide...",
             "kr": "드러낸 피부만큼, 솔직해져도 될까요?"
         },
         "Nickname": ["紫攻花子", "水花"],
@@ -2002,6 +2010,8 @@
         "Bio": {
             "zh": "总觉得，会有什么好事发生",
             "jp": "なんだか、いいことが起きそう",
+            "tw": "總覺得，好像會有好事發生",
+            "en": "I think something good's going to happen today.",
             "kr": "왠지, 좋은 일이 일어날 것 같은 날."
         },
         "Nickname": [],
@@ -2016,8 +2026,10 @@
             "https://static.wikia.nocookie.net/blue-archive/images/2/2c/Meru_Hot_Spring_Icon.png"
         ],
         "Bio": {
-            "zh": "画画时独自言自语的次数会变多呢～",
+            "zh": "画画时自言自语的次数会变多呢～",
             "jp": "お絵かきしてると、独り言が増えるんだよね～",
+            "tw": "畫畫之所以累人，是因為必須常常胡言亂語",
+            "en": "The hard part about drawing is that sometimes you have to say nonsense.",
             "kr": "그림이 힘든 것은, 주기적으로 헛소리를 해야 하기 때문"
         },
         "Nickname": ["梅露", "爱瑠"]
@@ -2028,6 +2040,8 @@
         "Bio": {
             "zh": "知识就是力量。我会好好保护它的！",
             "jp": "知識は力。ちゃんと守っていきます！",
+            "tw": "知識就是力量，我會遵守這個原則！",
+            "en": "Knowledge is power, and it's our duty to protect it!",
             "kr": "지식은 힘이니, 잘 지켜야죠!"
         },
         "Nickname": ["熊熊"]
@@ -2038,6 +2052,8 @@
         "Bio": {
             "zh": "健全的知识寓于健康的身体！",
             "jp": "健全な知識は健全な肉体に宿ります！",
+            "tw": "健全的知識寄宿於健全的肉體！",
+            "en": "A sound body and a sound mind!",
             "kr": "건전한 육체에 건전한 지식!"
         },
         "Nickname": ["拉拉鸟"],
@@ -2049,6 +2065,8 @@
         "Bio": {
             "zh": "一起来探寻运动和美食之间的关系吧",
             "jp": "運動と美食の相関関係を探してみましょうか",
+            "tw": "來尋找運動和美食的關聯性吧",
+            "en": "The correlation between exercise and gastronomy",
             "kr": "운동과 미식의 상관관계"
         },
         "Nickname": ["体奈", "运奈", "运动狙"],
@@ -2060,6 +2078,7 @@
         "Bio": {
             "zh": "无论何时都是大家的伙伴，正义实现委员会！",
             "jp": "いつも皆さんの味方、正義実現委員会っす！",
+            "tw": "始終親切的實現正義部！",
             "kr": "언제나 친절한 정의실현부입니다!"
         },
         "Nickname": ["大杂鱼"]
@@ -2068,8 +2087,10 @@
         "Id": 10078,
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/1/1e/Kasumi_Icon.png"],
         "Bio": {
-            "zh": "众生皆源于温泉，亦将终归于温泉",
+            "zh": "众生皆源于温泉，亦终将归于温泉",
             "jp": "みな温泉から生まれ、温泉に還る",
+            "tw": "萬物皆出於溫泉，且終將歸於溫泉",
+            "en": "Life begins and ends with hot spring development.",
             "kr": "모두 진흙에서 태어나, 진흙으로 돌아가지."
         },
         "Nickname": ["佳澄"]
@@ -2080,6 +2101,7 @@
         "Bio": {
             "zh": "倘若乡愁也能一饮而尽",
             "jp": "郷愁さえも飲み干せるのなら",
+            "tw": "若連思念都能一飲而盡",
             "kr": "그리움도 마셔서 없앨 수 있다면"
         },
         "Nickname": ["温时雨"],

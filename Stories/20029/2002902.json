@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "おはようございます、先生",
         "MessageKR": "안녕하세요. 선생님. ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "您好，老師",
+        "MessageEN": "Hello, Sensei. "
     },
     {
         "MessageId": 200290150,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "おはよう、ミモリ",
         "MessageKR": "좋은 아침이네. 미모리.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你好呀，三森",
+        "MessageEN": "Good morning, Mimori."
     },
     {
         "MessageId": 200290150,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "今日も良い天気だね",
         "MessageKR": "오늘도 날씨가 좋구나\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天天氣也很好呢～",
+        "MessageEN": "Beautiful weather today."
     },
     {
         "MessageId": 200290160,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "はい、本当に良いお天気ですね",
         "MessageKR": "앗, 네. 그러게요. ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，是的，就是說啊",
+        "MessageEN": "Yes, it's wonderful. "
     },
     {
         "MessageId": 200290161,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "穏やかな風もあって、過ごしやすいですし",
         "MessageKR": "바람도 솔솔 불어오는 게 무척이나 기분이 좋아서.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "微風徐徐，相當舒適",
+        "MessageEN": "There's such a nice breeze."
     },
     {
         "MessageId": 200290170,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "なんだか素敵な日になりそうです",
         "MessageKR": "왠지 좋은 일이 일어날 것 같은 날이네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總覺得會有好事發生",
+        "MessageEN": "I have a good feeling about today."
     },
     {
         "MessageId": 200290171,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "それでは、今日も頑張りましょう！",
         "MessageKR": "그럼 오늘도 파이팅이에요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼今天也加油吧！",
+        "MessageEN": "Have a fabulous day!"
     },
     {
         "MessageId": 200280177,

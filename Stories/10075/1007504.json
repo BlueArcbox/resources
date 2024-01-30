@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生って",
         "MessageKR": "선생",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 100750280,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今日も忙しかったりする？",
         "MessageKR": "오늘도 바빠?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你今天也很忙嗎？",
+        "MessageEN": "Are you busy today?"
     },
     {
         "MessageId": 100750290,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ペロッ！この味は……構ってほしい「味」だね",
         "MessageKR": "이 맛은…… 관심이 필요하다는 맛이로군. ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這個味道……是需要關心的味道",
+        "MessageEN": "It sounds like someone wants attention... "
     },
     {
         "MessageId": 100750300,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "私を構ってちゃんキャラにしないで！",
         "MessageKR": "날 자꾸 관심에 목마른 사람으로 몰고 가려는 모양인데! ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "為什麼老是要把我塑造成需要關心的人！ ",
+        "MessageEN": "I do NOT like what you're implying! "
     },
     {
         "MessageId": 100750301,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "そういうの、良くないよ！",
         "MessageKR": "그거 별로 좋지 않으니까!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我不喜歡這樣！",
+        "MessageEN": "You make me sound attention-starved!"
     },
     {
         "MessageId": 100750310,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "いや、まぁ……間違ってはいないけど",
         "MessageKR": "……틀린 건 아니었지만 말이야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……雖然的確是這樣沒錯",
+        "MessageEN": "...Although you're not wrong."
     },
     {
         "MessageId": 100750320,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ちょうどレッドウィンターに用事があったんだ",
         "MessageKR": "그렇지 않아도 붉은겨울 학원에 들를 일이 있었어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我正好有事要去赤冬一趟",
+        "MessageEN": "I actually need to stop by Red Winter Academy."
     },
     {
         "MessageId": 100750330,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "本当？",
         "MessageKR": "진짜?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真的嗎？",
+        "MessageEN": "Really?"
     },
     {
         "MessageId": 100750331,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "じゃあ……",
         "MessageKR": "그러면……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那……",
+        "MessageEN": "In that case..."
     },
     {
         "MessageId": 100750332,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "時間があったら、で良いんだけど",
         "MessageKR": "꼭 그럴 필요는 없지만.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然不是非這麼做不可",
+        "MessageEN": "I mean, you don't have to, but..."
     },
     {
         "MessageId": 100750340,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "知識解放戦線にも寄ってくれたら、嬉しいかも……",
         "MessageKR": "지식해방전선에도 들러 주면 고맙지……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果能順便來知識解放戰線一趟的話，我會感謝你的……",
+        "MessageEN": "Maybe you could swing by the Knowledge Liberation Front..."
     },
     {
         "MessageId": 100750350,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "しれなくなくなくなくない",
         "MessageKR": "않지 않지 않지 않을까……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "大概也許應該可能會吧……",
+        "MessageEN": "I'd really appreciate it..."
     },
     {
         "MessageId": 100750360,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "どっちなの……",
         "MessageKR": "어느 쪽이야……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "到底會不會……",
+        "MessageEN": "Where's that again?"
     },
     {
         "MessageId": 100740367,

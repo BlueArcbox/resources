@@ -62,7 +62,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "はい。西側の海岸は水深が浅いので",
-        "MessageKR": "네. 서쪽 해안은 수심이 얕아서 썰물 때 마다 바닥이 드러나는데",
+        "MessageKR": "네. 서쪽 해안은 수심이 얕아서 썰물 때마다 바닥이 드러나는데",
         "MessageTW": "是的。因為西側海岸的水深較淺",
         "MessageEN": "Yes. During low tide, the water pulls away and reveals a path."
     },
@@ -74,7 +74,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "潮が引くと、島につながる道が現れると聞きました",
-        "MessageKR": "그 때 도보로 이동할 수 있는 거리에 섬이 하나 있다고 해요",
+        "MessageKR": "그때 도보로 이동할 수 있는 거리에 섬이 하나 있다고 해요",
         "MessageTW": "所以聽說在退潮的時候，與離島連接的道路就會出現",
         "MessageEN": "And during that window, you can walk to the island."
     },
@@ -98,7 +98,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "私もそう思いました。それに島は景観が良いので、住民も休日はよく遊びに行くみたいです",
-        "MessageKR": "네. 게다가 섬의 경관도 좋아서 주민들도 휴일에는 종종 놀러간다고 하네요",
+        "MessageKR": "네. 게다가 섬의 경관도 좋아서 주민들도 휴일에는 종종 놀러 간다고 하네요",
         "MessageTW": "我也這麼覺得。而且由於那座島的風景非常棒，居民們似乎也時常會在假日去島上玩",
         "MessageEN": "Yes. And the scenery there is beautiful, so the locals go there on their days off."
     },

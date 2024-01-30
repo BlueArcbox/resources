@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 200300130,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "本日はどのようなスケジュールでしょうか？",
         "MessageKR": "오늘의 일정은 어떻게 되시나요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請問您今天有什麼行程呢？",
+        "MessageEN": "What's your schedule like today?"
     },
     {
         "MessageId": 200300140,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "会場のパトロールを頼まれてて……",
         "MessageKR": "운동회장의 순찰을 부탁받아서……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為接到在大運動會會場巡邏的委託……",
+        "MessageEN": "I've been asked to monitor the sports field..."
     },
     {
         "MessageId": 200300140,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "あちこち歩き回ることになりそう",
         "MessageKR": "오전부터 여기저기를 돌아다녀야 할 것 같아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好像從上午開始就得到處巡邏",
+        "MessageEN": "So I'll be running all over."
     },
     {
         "MessageId": 200300150,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "そうなのですね",
         "MessageKR": "그렇군요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原來如此",
+        "MessageEN": "I see."
     },
     {
         "MessageId": 200300160,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "それは残念です",
         "MessageKR": "그것은 참으로",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這是個",
+        "MessageEN": "Well, that's"
     },
     {
         "MessageId": 200300161,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ですが、会場にはいらっしゃるという事で安心しました",
         "MessageKR": "희미한 실망과 함께, 많은 기대를 품게 되는 대답이네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "讓人感到些許失望，又充滿期待的回答呢",
+        "MessageEN": "a little disappointing...but it also gives me some hope."
     },
     {
         "MessageId": 200300170,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "えっと……ごめん、ね……？",
         "MessageKR": "어…… 실망하게 했다면, 미안해……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呃……讓你失望的話，我很抱歉……？",
+        "MessageEN": "Um... I'm sorry I disappointed you?"
     },
     {
         "MessageId": 200300180,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "謝る必要はありませんわ",
         "MessageKR": "아닙니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "別這麼說",
+        "MessageEN": "Don't worry about it."
     },
     {
         "MessageId": 200300181,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "むしろ……",
         "MessageKR": "그것은 그저 저 혼자만의 감정.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這終究只是我個人的情緒",
+        "MessageEN": "There's disappointment, yes, but"
     },
     {
         "MessageId": 200300190,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "いつどこでパトロール中の先生と出会えるか……",
         "MessageKR": "도리어 언제 어디에서 무슨 일로 선생님과 만나게 될지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不知會在何時何地和老師相見……",
+        "MessageEN": "I also have a sense of anticipation"
     },
     {
         "MessageId": 200300200,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "逆に楽しみになってきました。それでは、また会場でお会いしましょう",
         "MessageKR": "그쪽이 더욱 기대되는군요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "反而讓我更加期待",
+        "MessageEN": "that we just might bump into each other at some point."
     },
     {
         "MessageId": 200290207,

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "せ～ん～せ～",
         "MessageKR": "도\\~와\\~줘\\~ ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "幫～幫～我～ ",
+        "MessageEN": "HELP!! "
     },
     {
         "MessageId": 100750020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "た～す～け～て～！",
         "MessageKR": "도움!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "需要幫忙！",
+        "MessageEN": "Help me!"
     },
     {
         "MessageId": 100750030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "嫌な予感が……",
         "MessageKR": "뭔가 불길한 외침이군……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有股不好的預感……",
+        "MessageEN": "Sounds dire..."
     },
     {
         "MessageId": 100750040,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "コラ！嫌な予感とか言わない！",
         "MessageKR": "불길하다고 하지 마!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不要說是不好的預感啊！",
+        "MessageEN": "Don't call me dire!"
     },
     {
         "MessageId": 100750041,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "先生の助けを求めてる生徒がここにいるっていうのに……",
         "MessageKR": "선생님은 자기의 도움을 이렇게까지 필요로 하는 학생이 있는데, ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "需要幫助老師的學生就在這裡……",
+        "MessageEN": "Sensei, when you hear your student's desperate pleas, "
     },
     {
         "MessageId": 100750042,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "まさか……見て見ぬふりするつもり！？",
         "MessageKR": "그걸 외면하진 않을 거지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你應該……不會置之不理吧？",
+        "MessageEN": "you don't just turn your back on her, do you?"
     },
     {
         "MessageId": 100750050,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "冗談だよ。どうしたの？",
         "MessageKR": "음. 그렇게까지 말한다면 어쩔 수 없지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "既然如此那就沒辦法了",
+        "MessageEN": "When you put it that way..."
     },
     {
         "MessageId": 100750050,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "何があったの？ ",
         "MessageKR": "무슨 문제라도 있어, 메루? ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "發生什麼事了嗎，愛瑠？ ",
+        "MessageEN": "What's the problem, Meru? "
     },
     {
         "MessageId": 100750060,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "由々しき事態！！何も浮かばないの！！！",
         "MessageKR": "더 이상 그림을 그릴 수가 없어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我畫不出畫了！",
+        "MessageEN": "I can't draw anymore!"
     },
     {
         "MessageId": 100750070,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "いつものスランプね",
         "MessageKR": "늘 있는 소재 고갈이군요. 압니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是熟悉的靈感枯竭吧，我知道",
+        "MessageEN": "Ah, you've got \"artist's block\"?"
     },
     {
         "MessageId": 100750080,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "違う！むしろネタは湧き出てるんだよ！",
         "MessageKR": "아니야! 오히려 소재는 폭발하려 하고 있다고!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "才不是！反而應該說靈感不斷湧現才對！",
+        "MessageEN": "No! I'm stuffed with ideas! To the gills!"
     },
     {
         "MessageId": 100750081,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "ただ今回は、別の物理的な問題があって……",
         "MessageKR": "문제는… 좀 더 물질적인 문제랄까…",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但這次……該說是比較物質上的問題嗎……",
+        "MessageEN": "The problem...is more physical..."
     },
     {
         "MessageId": 100750090,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "どうしたの！？怪我！？",
         "MessageKR": "설마 다치기라도 한 거야?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "該不會是受傷了吧！？",
+        "MessageEN": "Did you hurt your wrist?"
     },
     {
         "MessageId": 100750100,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "いや、そういうのじゃないんだけど……",
         "MessageKR": "아니. 그런 게 아니라.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "也，也不是那樣啦……",
+        "MessageEN": "That's not it."
     },
     {
         "MessageId": 100750101,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "ペンが壊れちゃって……",
         "MessageKR": "그… 태블릿 펜이 고장 났어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是那個……平板電腦的筆壞掉了",
+        "MessageEN": "My...tablet pen is broken."
     },
     {
         "MessageId": 100750110,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "……ペン？",
         "MessageKR": "……응?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……嗯？",
+        "MessageEN": "Oh, is that all?"
     },
     {
         "MessageId": 100740117,

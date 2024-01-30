@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "おはようございます、先生。ご機嫌いかがでしょうか？",
         "MessageKR": "안녕하신가요. 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "貴安，老師",
+        "MessageEN": "Hello, Sensei."
     },
     {
         "MessageId": 100330450,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "おはよう、ワカモ",
         "MessageKR": "안녕. 와카모.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你好呀，若藻",
+        "MessageEN": "Hi, Wakamo."
     },
     {
         "MessageId": 100330460,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "このような連絡は、あなた様の貴重なお時間を奪ってしまうのではないかと",
         "MessageKR": "혹여나 제가 당신의 소중한 시간을 빼앗는 게 아닐지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "此次聯絡，不知是否剝奪了您寶貴的時間",
+        "MessageEN": "I hope I'm not interrupting"
     },
     {
         "MessageId": 100330461,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "申し訳なくも思うのですが……",
         "MessageKR": "걱정이 되기만 합니다만…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "讓我感到有些擔憂……",
+        "MessageEN": "anything important..."
     },
     {
         "MessageId": 100330470,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ちょうど休憩中だよ、今日はどうしたの？",
         "MessageKR": "아냐. 마침 나도 한가했고.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不會，我正好也在休息哦",
+        "MessageEN": "It's okay. I'm free for the moment."
     },
     {
         "MessageId": 100330480,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "なんと奇遇なのでしょう",
         "MessageKR": "아아, 그러신가요. 이 무슨 우연이.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這可真是個美妙的巧合",
+        "MessageEN": "Is that so? What a coincidence..."
     },
     {
         "MessageId": 100330481,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "私もちょうど、時間が空いたところなのです",
         "MessageKR": "저 역시 때마침 시간이 비었던 참인데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我現在也正巧有些閒暇時間",
+        "MessageEN": "I happen to be free, too!"
     },
     {
         "MessageId": 100330490,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "ふふ、このような幸運に恵まれるだなんて……",
         "MessageKR": "……후후, 그렇군요. 이 우연을 그냥 흘려보내는 건 무척이나 아쉬운 일일 터.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……呵呵，竟然能被這般幸運眷顧",
+        "MessageEN": "Heehee... We shouldn't let such a wonderful coincidence go to waste."
     },
     {
         "MessageId": 100330500,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "奇跡のような瞬間を永遠にすべく……",
         "MessageKR": "이 소중한 기적을 기념하기 위해.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "為了紀念這奇蹟般的瞬間……",
+        "MessageEN": "In celebration of this precious miracle..."
     },
     {
         "MessageId": 100330501,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "本日は、あなた様のために全力を尽くさせていただきますね♡",
         "MessageKR": "저 와카모, 오늘 당신이 기뻐할 수 있도록 전력을 다해 보이겠습니다♡",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "若藻我，今天會為閣下拚盡全力的♡",
+        "MessageEN": "I, Wakamo, will give my all to make you happy today! ♡"
     },
     {
         "MessageId": 100330510,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "わ、ワカモ？それってどういう……",
         "MessageKR": "응? 와카모……. 저기, 그게 무슨 의미야? 어어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "若，若藻？那是什麼意思？嗯……？",
+        "MessageEN": "Uh... What do you mean by that...?"
     },
     {
         "MessageId": 100320517,

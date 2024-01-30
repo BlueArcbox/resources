@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "もうこんな時間ですか",
         "MessageKR": "시간도 꽤 늦었네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "時間已經這麼晚了啊",
+        "MessageEN": "It's getting late."
     },
     {
         "MessageId": 100760490,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "いつの間にか大運動会も終盤ですね",
         "MessageKR": "어느덧 일정도 다 끝나고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不知不覺間大運動會也要結束了",
+        "MessageEN": "All the scheduled events are over."
     },
     {
         "MessageId": 100760500,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "なんだか",
         "MessageKR": "그런데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過",
+        "MessageEN": "And yet"
     },
     {
         "MessageId": 100760501,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "その",
         "MessageKR": "뭔가",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總覺得",
+        "MessageEN": "I feel"
     },
     {
         "MessageId": 100760510,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "変な気分です",
         "MessageKR": "이상한 기분이에요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "心情有點奇妙",
+        "MessageEN": "kind of strange."
     },
     {
         "MessageId": 100760520,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "終わってほしくない？",
         "MessageKR": "조금 아쉬운 걸까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "覺得有點捨不得？",
+        "MessageEN": "Maybe you're sad that it's over."
     },
     {
         "MessageId": 100760520,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "一生懸命だった証拠だよ",
         "MessageKR": "열심히 했을수록, 그럴 수 있지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "越認真就越容易有這種心情吧",
+        "MessageEN": "You worked hard on this. I can see why you'd feel that way."
     },
     {
         "MessageId": 100760530,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "そうでしょうか？",
         "MessageKR": "그런 걸까요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是這樣嗎？",
+        "MessageEN": "Is that what this is?"
     },
     {
         "MessageId": 100760540,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "んん",
         "MessageKR": "으음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔嗯",
+        "MessageEN": "Huh"
     },
     {
         "MessageId": 100760550,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "このことは",
         "MessageKR": "이 부분은,",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "關於這點",
+        "MessageEN": "I think..."
     },
     {
         "MessageId": 100760551,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "もう少し、考えてみたいと思います",
         "MessageKR": "좀 더 생각해 봐야겠어요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我想再思考一下",
+        "MessageEN": "I need to give that some thought."
     },
     {
         "MessageId": 100750557,

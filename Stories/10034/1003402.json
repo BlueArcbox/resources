@@ -27,7 +27,7 @@
         "ImagePath": "",
         "MessageJP": "先生、前回に引き続き修行の一環として、今度は家庭料理を作ってみようと思います。",
         "MessageKR": "선생님, 저번에 이어 이번엔 가정 요리를 수행해볼까 해요.",
-        "MessageTW": "老師，作為繼上次修行的一環，這次我想試著做家庭料理",
+        "MessageTW": "老師，繼上次的修行之後，這次我想試著做家庭料理",
         "MessageEN": "Sensei, continuing our previous conversation, I'd like to work on home cooking."
     },
     {
@@ -75,7 +75,7 @@
         "ImagePath": "",
         "MessageJP": "え……？あ、はい。そう、ですが……？",
         "MessageKR": "네? 그런…… 데요?",
-        "MessageTW": "咦……？啊，是的。是，沒錯……？",
+        "MessageTW": "咦……？是這樣沒錯……？",
         "MessageEN": "Yes, is that okay?"
     },
     {
@@ -87,7 +87,7 @@
         "ImagePath": "",
         "MessageJP": "それで、よろしければその修行をお手伝いしていただきたく……。",
         "MessageKR": "그래서 수행을 도와주셨으면 하고 부탁을.",
-        "MessageTW": "所以，如果可以的話想請老師幫忙那個修行……",
+        "MessageTW": "所以，如果方便的話希望請老師協助修行……",
         "MessageEN": "I'd like your help with it."
     },
     {
@@ -99,7 +99,7 @@
         "ImagePath": "",
         "MessageJP": "手伝う以外の選択肢がない",
         "MessageKR": "뭐, 어쩔 수 없네. 도와줄게.",
-        "MessageTW": "沒有除了幫忙以外的選擇",
+        "MessageTW": "沒有除了幫忙以外的選項",
         "MessageEN": "Uh, sure. I can try."
     },
     {
@@ -111,7 +111,7 @@
         "ImagePath": "",
         "MessageJP": "全力で！手伝う！",
         "MessageKR": "전력을 다해! 도와줄게!",
-        "MessageTW": "全力的！幫忙！",
+        "MessageTW": "我會盡全力！幫忙！",
         "MessageEN": "I'll do what I can."
     },
     {

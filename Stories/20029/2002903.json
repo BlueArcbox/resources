@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "안녕하세요. 선생님. ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "您好，老師。",
+        "MessageEN": "Hello, Sensei. "
     },
     {
         "MessageId": 200290190,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今日は先生と一緒に、海辺で過ごしたいのですが……",
         "MessageKR": "오늘은 선생님과 해변에서 함께 시간을 보내고 싶은데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天我想和老師一起在海邊度過……",
+        "MessageEN": "I'd like to go to the beach with you again today."
     },
     {
         "MessageId": 200290200,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "お時間、大丈夫でしょうか？",
         "MessageKR": "괜찮으신가요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請問是否方便呢？",
+        "MessageEN": "Would that be okay?"
     },
     {
         "MessageId": 200290210,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "もちろんだよ",
         "MessageKR": "얼마든지 좋아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然沒問題",
+        "MessageEN": "Yes, I'd enjoy that."
     },
     {
         "MessageId": 200290220,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "それでは、よろしくお願いします",
         "MessageKR": "그러면 잘 부탁드립니다.  ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼就麻煩您了 ",
+        "MessageEN": "Then it's a plan.  "
     },
     {
         "MessageId": 200290230,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "……とても、楽しみです",
         "MessageKR": "뭔가…… 엄청나게 기대가 되네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我……感到非常期待",
+        "MessageEN": "I'm...so excited..."
     },
     {
         "MessageId": 200290240,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "こんなにも、胸がドキドキするなんて……",
         "MessageKR": "저, 지금 가슴이 막 뛰고 그러는 거 있죠?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "竟然會如此怦然心動……",
+        "MessageEN": "My heart is beating so fast!"
     },
     {
         "MessageId": 200290250,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "も、もう少し気楽にね……？",
         "MessageKR": "음, 저기. 살살 부탁합니다……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那，那個，不用那麼緊張哦……？",
+        "MessageEN": "Hmm. You should probably calm down..."
     },
     {
         "MessageId": 200280257,

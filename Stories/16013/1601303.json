@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 160130240,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今どこにいるの？",
         "MessageKR": "지금 어디 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你現在在哪裡？",
+        "MessageEN": "Where are you right now?"
     },
     {
         "MessageId": 160130250,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "えっと……",
         "MessageKR": "그",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那",
+        "MessageEN": "Um"
     },
     {
         "MessageId": 160130260,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "その……",
         "MessageKR": "그\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個……",
+        "MessageEN": "Um\u200b"
     },
     {
         "MessageId": 160130270,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "その......?",
         "MessageKR": "그……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哪個……？",
+        "MessageEN": "Um?"
     },
     {
         "MessageId": 160130270,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "コハル、どうしたの？",
         "MessageKR": "코하루? 왜 그래?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "小春？怎麼了？",
+        "MessageEN": "Koharu? Is something wrong?"
     },
     {
         "MessageId": 160130280,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "いや……",
         "MessageKR": "아니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒有",
+        "MessageEN": "No"
     },
     {
         "MessageId": 160130290,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "その",
         "MessageKR": "그\u200b\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就是",
+        "MessageEN": "Um\u200b\u200b"
     },
     {
         "MessageId": 160130291,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "私",
         "MessageKR": "나",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我",
+        "MessageEN": "I"
     },
     {
         "MessageId": 160130300,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "……",
         "MessageKR": "……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……",
+        "MessageEN": "..."
     },
     {
         "MessageId": 160130310,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと……来て",
         "MessageKR": "그냥 좀…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有點……",
+        "MessageEN": "I just"
     },
     {
         "MessageId": 160120317,

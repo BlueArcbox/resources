@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "人が多いからでしょうか",
         "MessageKR": "어우",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哎呀",
+        "MessageEN": "Whoa"
     },
     {
         "MessageId": 100760180,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "仕事も山積みですね",
         "MessageKR": "사람이 많아서 그런지 일도 많네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不知道是不是因為人多的關係，事情也特別多呢",
+        "MessageEN": "There are so many people to manage, so much to do..."
     },
     {
         "MessageId": 100760190,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "さすがは大運動会！",
         "MessageKR": "그야말로 대운동회라는 이름이 아깝지 않습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真不愧是大運動會！",
+        "MessageEN": "It really is a grand field day!"
     },
     {
         "MessageId": 100760200,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "先生も今頃きっと",
         "MessageKR": "분명",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "想必",
+        "MessageEN": "Of course"
     },
     {
         "MessageId": 100760201,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "目が回るくらい忙しいですよね！",
         "MessageKR": "선생님께서도 일이 많으시겠지요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師現在也忙得暈頭轉向吧！",
+        "MessageEN": "I bet you have a ton to do as well!"
     },
     {
         "MessageId": 100760210,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "運営管理の仕事だからね",
         "MessageKR": "아무래도 운영관리 일이 있다 보니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "終究有管理營運的工作要做",
+        "MessageEN": "So much to manage..."
     },
     {
         "MessageId": 100760210,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "色んな学園が集まってるから",
         "MessageKR": "여러 학교가 모이는 일이다 보니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "畢竟是各大學園共襄盛舉的活動",
+        "MessageEN": "So many schools gathering..."
     },
     {
         "MessageId": 100760220,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "やっぱり！",
         "MessageKR": "역시!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "果然如此！",
+        "MessageEN": "For sure!"
     },
     {
         "MessageId": 100760230,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "んー",
         "MessageKR": "음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯……",
+        "MessageEN": "Hm"
     },
     {
         "MessageId": 100760231,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "でしたら、書類の整理を手伝わせてください！",
         "MessageKR": "그럼 도움이 되신다면, 서류 업무 같은 건 도와드리고 싶군요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "方便的話，請讓我幫老師處理一些文書工作吧！",
+        "MessageEN": "Maybe I could help you out with some paperwork!"
     },
     {
         "MessageId": 100760240,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "こちらの仕事は一段落しましたし！",
         "MessageKR": "마침 지금은 저도 시간이 좀 비어 있으니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "正好現在稍微有點空閒時間",
+        "MessageEN": "I've got some free time,"
     },
     {
         "MessageId": 100760241,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "待っていてください！",
         "MessageKR": "기다려 주세요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請稍等！",
+        "MessageEN": "so wait for me!"
     },
     {
         "MessageId": 100760250,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "今すぐ行きます！",
         "MessageKR": "바로 찾아가겠습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我馬上過去！",
+        "MessageEN": "I'll be there soon!"
     },
     {
         "MessageId": 100750267,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "お疲れ様です！",
         "MessageKR": "음!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯！",
+        "MessageEN": "Hm!"
     },
     {
         "MessageId": 100760270,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "さっきの理由は未だによくわからないのですが",
         "MessageKR": "뭔가 잘은 모르지만",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然還是不太清楚",
+        "MessageEN": "I'm not certain,"
     },
     {
         "MessageId": 100760271,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "ちゃんと先生のお役に立てたみたいで",
         "MessageKR": "진짜로 선생님께 도움이 된 것 같아요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但似乎有幫上老師的忙",
+        "MessageEN": "but I feel like I was of some help."
     },
     {
         "MessageId": 100760280,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "すごく嬉しいです！",
         "MessageKR": "정말로 기쁘네요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我真的很開心！",
+        "MessageEN": "What a great feeling!"
     },
     {
         "MessageId": 100760290,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "……勘違いじゃ、ないですよね？",
         "MessageKR": "기분 탓……은 아니겠죠?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "應該不是……我的錯覺吧？",
+        "MessageEN": "It's not just my imagination, is it?"
     },
     {
         "MessageId": 100760300,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "救世主かと思った",
         "MessageKR": "장난 아니었지. 구세주인 줄 알았어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不是錯覺哦，我還以為是救世主出現了呢",
+        "MessageEN": "No, you basically saved me."
     },
     {
         "MessageId": 100760300,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "スーパーコトリ、万歳！",
         "MessageKR": "그야말로 '슈퍼'했달까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這就是「超人」嗎？",
+        "MessageEN": "You were a super star!"
     },
     {
         "MessageId": 100760310,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "……！！",
         "MessageKR": "……!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……！！",
+        "MessageEN": "...!"
     },
     {
         "MessageId": 100760311,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "えへへ",
         "MessageKR": "오옷!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哦哦！！",
+        "MessageEN": "Hee!"
     },
     {
         "MessageId": 100760320,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとうございます、先生！",
         "MessageKR": "히히",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嘻嘻",
+        "MessageEN": "Heehee!"
     },
     {
         "MessageId": 100760321,
@@ -315,7 +315,7 @@
         "ImagePath": "",
         "MessageJP": "またいつでも呼んでくださいね！！",
         "MessageKR": "언제든 또 불러주세요! 선생님!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "歡迎隨時找我哦！老師！！",
+        "MessageEN": "Call on me anytime, Sensei!"
     }
 ]

@@ -27,7 +27,7 @@
         "ImagePath": "",
         "MessageJP": "先生。本日はシャーレのお仕事、お休みですよね？",
         "MessageKR": "선생님, 오늘은 샬레의 업무도 쉬는 휴일이시지요?",
-        "MessageTW": "老師。今日夏萊的工作，休息對吧？",
+        "MessageTW": "老師。今日夏萊的工作休息對吧？",
         "MessageEN": "Sensei, you have the day off today, correct?"
     },
     {
@@ -39,7 +39,7 @@
         "ImagePath": "",
         "MessageJP": "うん。あれ、前に伝えてたっけ？",
         "MessageKR": "응, 알고 있었구나.",
-        "MessageTW": "嗯。啊咧，之前有告訴妳嗎？",
+        "MessageTW": "嗯。原來你知道啊",
         "MessageEN": "Uh, yeah. You knew that?"
     },
     {
@@ -51,7 +51,7 @@
         "ImagePath": "",
         "MessageJP": "ふふふっ……",
         "MessageKR": "후후훗, 저 와카모.",
-        "MessageTW": "哼哼哼……",
+        "MessageTW": "呵呵呵……",
         "MessageEN": "Heehee."
     },
     {
@@ -63,7 +63,7 @@
         "ImagePath": "",
         "MessageJP": "このワカモ、先生のスケジュールでしたら一寸の狂いも無く心の中に刻んでおりますので",
         "MessageKR": "선생님의 발자취라면 어느 것이든 가슴속에 새겨 두고 따르고 있답니다.",
-        "MessageTW": "若藻我，假如是老師的行程已經毫無一寸偏差刻在心裡了",
+        "MessageTW": "若藻我，早已將老師的行程銘記於心",
         "MessageEN": "I always know your schedule, at all times of the day."
     },
     {
@@ -87,7 +87,7 @@
         "ImagePath": "",
         "MessageJP": "日ごろからご多忙でなかなか心休まらない中、ようやく設けられた休日……",
         "MessageKR": "오늘은 다사다망하여 바쁘기만 하여 쉬지 못하는 당신께 모처럼 주어진 휴일.",
-        "MessageTW": "平時總是忙碌沒辦法休息之中，好不容易設置的假日……",
+        "MessageTW": "今日是閣下百忙之中難得的休息日……",
         "MessageEN": "This is a timely day off for a workaholic like you."
     },
     {
@@ -99,7 +99,7 @@
         "ImagePath": "",
         "MessageJP": "どうか、安全で楽しい一日になりますよう",
         "MessageKR": "부디 무탈하고도 즐거운 하루가 되길.",
-        "MessageTW": "祈望，會是安全快樂的一天",
+        "MessageTW": "希望會是安全快樂的一天",
         "MessageEN": "I hope you have a nice day."
     },
     {
@@ -111,7 +111,7 @@
         "ImagePath": "",
         "MessageJP": "私、先生の後を追いつつお祈りしておりますね",
         "MessageKR": "저 와카모. 뒤를 따르며 기원하고 있겠습니다.",
-        "MessageTW": "我，會跟隨在老師後方同時祈求哦",
+        "MessageTW": "若藻我，會跟隨老師一同祈願",
         "MessageEN": "I'll always be following you and wishing for your happiness."
     },
     {

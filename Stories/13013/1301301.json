@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "あの……先生",
         "MessageKR": "저…… 선생님?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個……老師？",
+        "MessageEN": "Umm...Sensei?"
     },
     {
         "MessageId": 130130020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今、お時間大丈夫ですか？",
         "MessageKR": "지금, 시간 괜찮으신가요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請問，現在有空嗎？",
+        "MessageEN": "Can I borrow you for a little while?"
     },
     {
         "MessageId": 130130030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "もちろん！",
         "MessageKR": "안녕. 모미지. 물론 괜찮아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗨，紅葉，當然有空",
+        "MessageEN": "Hi, Momiji. Of course you can."
     },
     {
         "MessageId": 130130040,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "良かったです……",
         "MessageKR": "다행이에요……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "太好了……",
+        "MessageEN": "Good..."
     },
     {
         "MessageId": 130130041,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "実は、先生にお願いがあるんですが……",
         "MessageKR": "실례일지도 모르지만, 선생님께 부탁드리고 싶은 것이 있어서……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不好意思，其實我有事想拜託老師……",
+        "MessageEN": "If you don't mind, I'd like to ask you a favor..."
     },
     {
         "MessageId": 130130050,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "分かった、すぐ向かうね",
         "MessageKR": "그래. 알았어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，我馬上過去",
+        "MessageEN": "Sure."
     },
     {
         "MessageId": 130120067,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "無事に帰れましたか？",
         "MessageKR": "잘 들어가셨나요. 선생님?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "平安回去了嗎，老師？",
+        "MessageEN": "Did you make it home safely, Sensei?"
     },
     {
         "MessageId": 130130061,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "すみません、私のせいで遅くまで迷惑を……",
         "MessageKR": "괜히 저 때문에 고생만 하시고……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不好意思，害你忙到這麼晚……",
+        "MessageEN": "I put you through so much..."
     },
     {
         "MessageId": 130130070,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "迷惑だなんて、私も楽しかったよ",
         "MessageKR": "고생이라니, 무슨.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "別這麼說，我也很開心",
+        "MessageEN": "Oh, it was nothing."
     },
     {
         "MessageId": 130130080,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "同人誌、ちゃんと保管しないとね",
         "MessageKR": "회지, 잘 보관해야겠네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "同人誌，記得要好好保存哦",
+        "MessageEN": "You'd better find a safe place to keep that fanzine."
     },
     {
         "MessageId": 130130090,
@@ -159,7 +159,7 @@
         "ImagePath": "",
         "MessageJP": "はい！",
         "MessageKR": "물론이죠!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是！",
+        "MessageEN": "Of course!"
     }
 ]

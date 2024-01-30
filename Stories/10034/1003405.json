@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "こんにちは、先生",
         "MessageKR": "안녕하세요. 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "您好，老師",
+        "MessageEN": "Hello, Sensei."
     },
     {
         "MessageId": 100340355,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "本日、百鬼夜行にいらっしゃっていると伺ったのですが",
         "MessageKR": "이번에 저희 백귀야행 학원에 오신다고 들었어요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "聽說老師今天會來百鬼夜行",
+        "MessageEN": "I heard that you were coming to Hyakkiyako Academy."
     },
     {
         "MessageId": 100340360,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "うん、その予定だよ",
         "MessageKR": "응. 그럴 예정이야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，是有這個計畫",
+        "MessageEN": "That's the plan."
     },
     {
         "MessageId": 100340370,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "え、ええと……",
         "MessageKR": "저, 저기……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那，那麼……",
+        "MessageEN": "U-Umm..."
     },
     {
         "MessageId": 100340371,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "でしたら",
         "MessageKR": "그러시다면……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "既然如此……",
+        "MessageEN": "In that case..."
     },
     {
         "MessageId": 100340380,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "久しぶりに先生をご招待したいのですが",
         "MessageKR": "오랜만에…… 선생님을 초대해 드리고 싶은데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我想久違地……招待老師",
+        "MessageEN": "I'd like to...invite you to visit me..."
     },
     {
         "MessageId": 100340381,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "よろしい、でしょうか……？",
         "MessageKR": "괜찮……으실까요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可以嗎……？",
+        "MessageEN": "Would...that be okay?"
     },
     {
         "MessageId": 100340390,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "もちろん！",
         "MessageKR": "꼭 갈게!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我一定到！",
+        "MessageEN": "I'll be there!"
     },
     {
         "MessageId": 100330397,

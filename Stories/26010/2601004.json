@@ -38,7 +38,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "服装を変えることで、注目を集められる……とありました",
-        "MessageKR": "의상 코디를 바꾸는 것 만으로도 주변의 시선을 크게 끌 수 있대요.",
+        "MessageKR": "의상 코디를 바꾸는 것만으로도 주변의 시선을 크게 끌 수 있대요.",
         "MessageTW": "書上寫……可以藉由改變服裝來吸引別人的注意",
         "MessageEN": "you can attract attention just by changing your clothes."
     },
@@ -98,7 +98,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "それって、水着じゃないよね……？",
-        "MessageKR": "최근에 산 사복은 수영복 밖에 없지 않았어?",
+        "MessageKR": "최근에 산 사복은 수영복밖에 없지 않았어?",
         "MessageTW": "不過你說的，應該不是泳裝吧……？",
         "MessageEN": "Isn't the only new outfit you bought a swimsuit?"
     },

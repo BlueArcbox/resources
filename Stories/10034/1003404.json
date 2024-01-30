@@ -99,7 +99,7 @@
         "ImagePath": "",
         "MessageJP": "ちょっと、百貨店で買いたいものがありまして。",
         "MessageKR": "후후, 이번에 백화점에서 사고 싶은 물건이 좀 있는데.",
-        "MessageTW": "稍微，在百貨店有想買的東西",
+        "MessageTW": "我想在百貨店買點東西",
         "MessageEN": "There's something I've had my eye on at the store."
     },
     {
@@ -111,7 +111,7 @@
         "ImagePath": "",
         "MessageJP": "ぜひ先生と一緒に行ければと思ってご連絡したのですが……",
         "MessageKR": "선생님이 같이 가주셨으면 해서요.",
-        "MessageTW": "想務必請老師和我一起去所以聯絡了老師……",
+        "MessageTW": "希望老師能和我一起去……",
         "MessageEN": "I was hoping you would come with me."
     },
     {
@@ -123,7 +123,7 @@
         "ImagePath": "",
         "MessageJP": "その、ご迷惑だったりしませんでしょうか……？",
         "MessageKR": "혹시……, 폐가 될까요?",
-        "MessageTW": "那個，請問有造成困擾嗎……？",
+        "MessageTW": "那個，會造成您的困擾嗎……？",
         "MessageEN": "Is that okay?"
     },
     {
@@ -135,7 +135,7 @@
         "ImagePath": "",
         "MessageJP": "全っ然大丈夫",
         "MessageKR": "절대로 아닙니다.",
-        "MessageTW": "完──全沒問題",
+        "MessageTW": "完全不會哦",
         "MessageEN": "Yeah, sure."
     },
     {
@@ -171,7 +171,7 @@
         "ImagePath": "",
         "MessageJP": "それでは、百貨店の前でお待ちしておりますね。",
         "MessageKR": "그럼 백화점 앞에서 기다리고 있을게요.",
-        "MessageTW": "那麼，我在百貨店前等你哦",
+        "MessageTW": "那麼，我在百貨店前等您哦",
         "MessageEN": "I'll meet you at the department store!"
     },
     {

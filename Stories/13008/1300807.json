@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、今日アビドスに来るんだっけ？",
         "MessageKR": "오늘 아비도스 자치구에 온다고 들었어. 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "聽說你今天要來阿拜多斯自治區是嗎，老師",
+        "MessageEN": "I've heard you're going to visit Abydos, Sensei."
     },
     {
         "MessageId": 130080310,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "うん、そうだよ",
         "MessageKR": "응. 그렇게 됐지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，沒錯哦",
+        "MessageEN": "That's the plan."
     },
     {
         "MessageId": 130080320,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "道中怪我したら危ないし、迎えに行こうと思うんだけど……",
         "MessageKR": "그래서, 선생님의 안전을 위해 내가 마중 나갈 생각인데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "為了保護老師的安全，我打算去接你",
+        "MessageEN": "I'd better meet you when you get here. For your safety."
     },
     {
         "MessageId": 130080321,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "いいわよね？",
         "MessageKR": "괜찮지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可以吧？",
+        "MessageEN": "You don't mind, right?"
     },
     {
         "MessageId": 130080330,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "あ、「大丈夫」は「来て大丈夫」って意味だと受け取るけど",
         "MessageKR": "괜찮지 않다고 해도 괜찮다는 뜻으로 받아들이겠어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，如果你說「沒關係」我會當成「來也沒關係」的哦",
+        "MessageEN": "Even if you do mind, I'm doing it."
     },
     {
         "MessageId": 130080340,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "私に拒否権は無いんだね……",
         "MessageKR": "결과는 이미 정해져 있는 것인가……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我沒有拒絕的權利嗎……",
+        "MessageEN": "I've got no choice in the matter, huh?"
     },
     {
         "MessageId": 130080340,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "でも嬉しいよ、ありがとう",
         "MessageKR": "그래도 반가운 말이네. 고마워.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過你能這麼說我很高興。謝謝你",
+        "MessageEN": "Well, I appreciate it. Thanks."
     },
     {
         "MessageId": 130080350,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "いや、本当に先生が事件に巻き込まれるかもしれないから言ってるの",
         "MessageKR": "아니, 이건 안전상의 문제이기도 해서 말이야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不，這也是安全上的問題",
+        "MessageEN": "This is really just a matter of your safety."
     },
     {
         "MessageId": 130080351,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "最近うちの自治区……ちょっとうるさい連中が来てて……",
         "MessageKR": "최근 우리 자치구에…… 조금, 시끄러운 녀석들이 돌아다니고 있거든.  ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "最近我們自治區……來了一些煩人的傢伙  ",
+        "MessageEN": "We've had...troublemakers in our district lately...  "
     },
     {
         "MessageId": 130080360,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "まぁそういうことだから、気をつけてね",
         "MessageKR": "아무튼 이번만은 조심해.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總之這次還是小心為妙",
+        "MessageEN": "You've got to be careful."
     },
     {
         "MessageId": 130080361,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "いざとなったら、私の後ろに隠れてて",
         "MessageKR": "여차하면 내 뒤로 숨고.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "覺得不對勁就躲到我身後吧",
+        "MessageEN": "If anything happens, just hide behind me."
     },
     {
         "MessageId": 130070367,

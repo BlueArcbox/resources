@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 200280150,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "他にも持ってきた荷物はありますか？",
         "MessageKR": "혹시 들고 오신 다른 짐들이 있으실까요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請問您還有帶其他行李來嗎？",
+        "MessageEN": "Do you have any luggage?"
     },
     {
         "MessageId": 200280160,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "拠点近くの荷物をまとめているところなので",
         "MessageKR": "지금 짐들을 캠프로 옮기는 중인데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我正在把行李搬到營地",
+        "MessageEN": "I'm moving my things to the camp."
     },
     {
         "MessageId": 200280161,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "もし何かありましたら、一緒に運ばせていただきますね",
         "MessageKR": "선생님 것도 있으시면, 함께 옮겨 드리려고요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果還有行李的話，我可以替您一起搬過去",
+        "MessageEN": "If you have anything, I'll take it, as well."
     },
     {
         "MessageId": 200280170,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ヒナタに全部やらせるわけには……",
         "MessageKR": "그런 걸 혼자 하게 둘 순 없지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不能放日向一個人做這種事",
+        "MessageEN": "Oh, I couldn't ask you to do that by yourself."
     },
     {
         "MessageId": 200280170,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "私も手伝うよ",
         "MessageKR": "그럼 나도 좀 도와줄게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我也來幫忙吧",
+        "MessageEN": "I'll help out too."
     },
     {
         "MessageId": 200280180,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "あ",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah!"
     },
     {
         "MessageId": 200280190,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "いえ、大丈夫です！",
         "MessageKR": "아니에요, 괜찮아요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒關係的！",
+        "MessageEN": "No, no, that's not necessary!"
     },
     {
         "MessageId": 200280191,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "そういう意味で言ったわけでは……",
         "MessageKR": "그런 의미로 말씀드린 건 아닌데…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我不是那個意思……",
+        "MessageEN": "I didn't intend to press you into work..."
     },
     {
         "MessageId": 200280200,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "ほ、他の荷物は無いのですね！",
         "MessageKR": "따, 따로 짐은 더 없으신 걸로 알게요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我，我就當老師沒有其他行李囉！",
+        "MessageEN": "I shall assume you haven't anything to pack!"
     },
     {
         "MessageId": 200280201,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "それでは、失礼します！",
         "MessageKR": "그럼 이만!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼再見！！",
+        "MessageEN": "Until next time!"
     },
     {
         "MessageId": 200270207,

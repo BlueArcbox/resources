@@ -63,7 +63,7 @@
         "ImagePath": "",
         "MessageJP": "は、はい",
         "MessageKR": "이, 일단은……?",
-        "MessageTW": "有，有的",
+        "MessageTW": "有，有哦……？",
         "MessageEN": "Y-Yeah...?"
     },
     {
@@ -75,7 +75,7 @@
         "ImagePath": "",
         "MessageJP": "それはまた、どうして急に……？",
         "MessageKR": "갑자기 그건 왜……?",
-        "MessageTW": "這也真是，為什麼這麼突然……？",
+        "MessageTW": "為什麼突然這麼問……？",
         "MessageEN": "Why do you ask...?"
     },
     {
@@ -87,7 +87,7 @@
         "ImagePath": "",
         "MessageJP": "それは良かった",
         "MessageKR": "응, 그럼 다행이다-",
-        "MessageTW": "那太好了",
+        "MessageTW": "嗯，那就好",
         "MessageEN": "That's good. Yes."
     },
     {
@@ -99,7 +99,7 @@
         "ImagePath": "",
         "MessageJP": "じゃあ先生",
         "MessageKR": "선생님, 앞으로도.",
-        "MessageTW": "那麼老師",
+        "MessageTW": "老師，那之後",
         "MessageEN": "Sensei, from now on,"
     },
     {
@@ -111,7 +111,7 @@
         "ImagePath": "",
         "MessageJP": "これからも、1日3回",
         "MessageKR": "어떤 일이 있더라도 하루 세 번.",
-        "MessageTW": "今後也，1天3次",
+        "MessageTW": "不管發生什麼事",
         "MessageEN": "no matter what happens,"
     },
     {
@@ -123,7 +123,7 @@
         "ImagePath": "",
         "MessageJP": "歯磨き、忘れないようにね？",
         "MessageKR": "이 닦는 거 잊지 말아야 해?",
-        "MessageTW": "不要忘了，刷牙唷？",
+        "MessageTW": "都不能忘記一天要刷三次牙哦？",
         "MessageEN": "brush your teeth three times a day, okay?"
     },
     {
@@ -135,7 +135,7 @@
         "ImagePath": "",
         "MessageJP": "そ、そうだね。了解",
         "MessageKR": "으, 응?",
-        "MessageTW": "也，也是呢。了解",
+        "MessageTW": "呃，嗯？",
         "MessageEN": "Y-Yes?"
     },
     {
@@ -147,7 +147,7 @@
         "ImagePath": "",
         "MessageJP": "それじゃあ……",
         "MessageKR": "그럼, 안녕.",
-        "MessageTW": "那麼……",
+        "MessageTW": "那，再見囉",
         "MessageEN": "Okay, see ya."
     },
     {
@@ -159,7 +159,7 @@
         "ImagePath": "",
         "MessageJP": "元気でね、先生",
         "MessageKR": "선생님.\u200b",
-        "MessageTW": "保重哦，老師",
+        "MessageTW": "老師\u200b",
         "MessageEN": "Sensei.\u200b"
     },
     {

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生は",
         "MessageKR": "선생님께서는",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei,"
     },
     {
         "MessageId": 130130110,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "何かをコレクションしたりしていますか？",
         "MessageKR": "무언가를 콜렉팅 해 본 적 있으세요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你有收集過什麼東西嗎？",
+        "MessageEN": "do you collect anything?"
     },
     {
         "MessageId": 130130120,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "疲労のレパートリーならコレクションされてるよ……",
         "MessageKR": "피로라면 열심히 콜렉팅하고 있어……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "收集了很多疲勞……",
+        "MessageEN": "I've collected a lot of fatigue..."
     },
     {
         "MessageId": 130130130,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "そ、それは",
         "MessageKR": "네? ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？ ",
+        "MessageEN": "Huh? "
     },
     {
         "MessageId": 130130131,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "大変ですね……",
         "MessageKR": "그, 그건 큰일이네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那，那還真是辛苦呢",
+        "MessageEN": "That's not good!"
     },
     {
         "MessageId": 130130140,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "モミジはどう？",
         "MessageKR": "그런 걸 묻는 걸 보니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "既然會這麼問",
+        "MessageEN": "What about you?"
     },
     {
         "MessageId": 130130140,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "何か集めてる？",
         "MessageKR": "모미지는 뭔가 모으는 게 있나 봐?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "代表紅葉你有在收集東西吧？",
+        "MessageEN": "Do you collect something?"
     },
     {
         "MessageId": 130130160,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "えへへ……",
         "MessageKR": "저는……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我……",
+        "MessageEN": "I..."
     },
     {
         "MessageId": 130130161,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "私は、とある作家さんの絶版本を集めてるんです",
         "MessageKR": "에헤헤. 개인적으로 콜렉팅하는 판본이 있어요. ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "耶嘿嘿，我在收集某位作家的絕版書 ",
+        "MessageEN": "Heehee. I collect books. "
     },
     {
         "MessageId": 130120167,

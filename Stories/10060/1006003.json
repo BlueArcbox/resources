@@ -50,9 +50,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "お湯が出なくなっちゃったんだって？そしたら冷たいシャワー浴びてるの？",
-        "MessageKR": "온수가 안나온다고? 그럼 찬물로 씻는 거야?",
+        "MessageKR": "온수가 안 나온다고? 그럼 찬물로 씻는 거야?",
         "MessageTW": "沒有熱水了是嗎？要洗冷水澡？",
-        "MessageEN": "Your hot water isn't working! Does that mean you have to take a cold shower?"
+        "MessageEN": "Your hot water isn't working?! Does that mean you have to take a cold shower?"
     },
     {
         "MessageId": 100600230,

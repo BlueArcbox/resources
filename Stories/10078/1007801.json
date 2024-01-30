@@ -27,7 +27,7 @@
         "ImagePath": "",
         "MessageJP": "んむ！",
         "MessageKR": "음!",
-        "MessageTW": "",
+        "MessageTW": "嗯！",
         "MessageEN": ""
     },
     {
@@ -39,7 +39,7 @@
         "ImagePath": "",
         "MessageJP": "んむむっ！！",
         "MessageKR": "으음!!",
-        "MessageTW": "",
+        "MessageTW": "嗯嗯！！",
         "MessageEN": ""
     },
     {
@@ -51,7 +51,7 @@
         "ImagePath": "",
         "MessageJP": "むむむむむ～っ！！",
         "MessageKR": "으으으으음\\~!!",
-        "MessageTW": "",
+        "MessageTW": "嗯嗯嗯嗯嗯～！！",
         "MessageEN": ""
     },
     {
@@ -63,7 +63,7 @@
         "ImagePath": "",
         "MessageJP": "……カスミ？",
         "MessageKR": "……카스미?",
-        "MessageTW": "",
+        "MessageTW": "……佳澄？",
         "MessageEN": ""
     },
     {
@@ -75,7 +75,7 @@
         "ImagePath": "",
         "MessageJP": "どうしたの？",
         "MessageKR": "뭔가 고민이라도 있어?",
-        "MessageTW": "",
+        "MessageTW": "有什麼煩惱嗎？",
         "MessageEN": ""
     },
     {
@@ -87,7 +87,7 @@
         "ImagePath": "",
         "MessageJP": "おお、先生！",
         "MessageKR": "아! 선생님!",
-        "MessageTW": "",
+        "MessageTW": "啊！老師！",
         "MessageEN": ""
     },
     {
@@ -99,7 +99,7 @@
         "ImagePath": "",
         "MessageJP": "すぐに返事をくれると信じていたぞ！",
         "MessageKR": "역시 있었어! 대답할 거라 믿고 있었거든.",
-        "MessageTW": "",
+        "MessageTW": "問得真好！我一直相信你會這樣回答！",
         "MessageEN": ""
     },
     {
@@ -111,7 +111,7 @@
         "ImagePath": "",
         "MessageJP": "少し悩んでいる事があってな！",
         "MessageKR": "고민이 있어",
-        "MessageTW": "",
+        "MessageTW": "我有個煩惱",
         "MessageEN": ""
     },
     {
@@ -123,7 +123,7 @@
         "ImagePath": "",
         "MessageJP": "それも簡単に解決できるようなものではなくてな……",
         "MessageKR": "아주 큰 고민이지",
-        "MessageTW": "",
+        "MessageTW": "而且是相當大的煩惱",
         "MessageEN": ""
     },
     {
@@ -135,7 +135,7 @@
         "ImagePath": "",
         "MessageJP": "先生、もしよかったら力になってくれないか？",
         "MessageKR": "선생님이 도와줄 수 있을까?",
-        "MessageTW": "",
+        "MessageTW": "老師願意幫助我嗎？",
         "MessageEN": ""
     },
     {
@@ -159,7 +159,7 @@
         "ImagePath": "",
         "MessageJP": "先生！",
         "MessageKR": "선생님!",
-        "MessageTW": "",
+        "MessageTW": "老師！",
         "MessageEN": ""
     },
     {
@@ -171,7 +171,7 @@
         "ImagePath": "",
         "MessageJP": "非常に残念なお知らせだ",
         "MessageKR": "참으로 유감스럽게 됐어.",
-        "MessageTW": "",
+        "MessageTW": "真是太遺憾了",
         "MessageEN": ""
     },
     {
@@ -183,7 +183,7 @@
         "ImagePath": "",
         "MessageJP": "タイミング悪く風紀委員がパトロールしていてな",
         "MessageKR": "하필 그 타이밍에 그곳을 선도부가 순찰하고 있었지 뭐야?",
-        "MessageTW": "",
+        "MessageTW": "風紀委員會怎麼偏偏那個時間點在那裡巡邏呢？",
         "MessageEN": ""
     },
     {
@@ -195,7 +195,7 @@
         "ImagePath": "",
         "MessageJP": "半分は逃げられたんだが……もう半分は捕まってしまった",
         "MessageKR": "한 절반 정도 체포되고, 절반 정도 도망치는 데에 성공했군.",
-        "MessageTW": "",
+        "MessageTW": "大約有一半人被逮捕，另一半成功逃走了",
         "MessageEN": ""
     },
     {
@@ -207,7 +207,7 @@
         "ImagePath": "",
         "MessageJP": "あ～！残念だ！爆薬を仕込むところまで進んでいたというのに！",
         "MessageKR": "아\\~! 안타깝다! 폭약까지 다 심었는데 말이지!",
-        "MessageTW": "",
+        "MessageTW": "啊～！真可惜！我連炸藥都埋好了說！",
         "MessageEN": ""
     },
     {
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "そ、そうなんだ。残念だったね",
         "MessageKR": "그, 그렇구나. 힘내.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這，這樣啊。加油",
+        "MessageEN": "[s] \"I-I see...\""
     },
     {
         "MessageId": 100780120,
@@ -231,7 +231,7 @@
         "ImagePath": "",
         "MessageJP": "ハーハッハッハッハ！！",
         "MessageKR": "와핫핫핫핫!!",
-        "MessageTW": "",
+        "MessageTW": "哈～哈哈哈哈！！",
         "MessageEN": ""
     },
     {
@@ -243,7 +243,7 @@
         "ImagePath": "",
         "MessageJP": "気にするな！",
         "MessageKR": "신경 쓸 거 없어!",
-        "MessageTW": "",
+        "MessageTW": "不必在意！",
         "MessageEN": ""
     },
     {
@@ -254,9 +254,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "これくらい、日常茶飯事だ",
-        "MessageKR": "이런 건 늘상 있는 일이니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "이런 건 늘상 있은 일이니까.",
+        "MessageTW": "這種小事只是家常便飯而已",
+        "MessageEN": "I'm used to this."
     },
     {
         "MessageId": 100780130,
@@ -267,7 +267,7 @@
         "ImagePath": "",
         "MessageJP": "むしろ、こうでなくては面白くない！",
         "MessageKR": "오히려 이쯤 해 줘야 시도할 가치가 있다고 볼 수 있지!",
-        "MessageTW": "",
+        "MessageTW": "況且不做到這種程度就沒有嘗試的價值了！",
         "MessageEN": ""
     },
     {
@@ -279,7 +279,7 @@
         "ImagePath": "",
         "MessageJP": "では！",
         "MessageKR": "그럼!",
-        "MessageTW": "",
+        "MessageTW": "那麼！",
         "MessageEN": ""
     },
     {
@@ -291,7 +291,7 @@
         "ImagePath": "",
         "MessageJP": "また会おう、先生！",
         "MessageKR": "다음에 또 보자고, 선생님!",
-        "MessageTW": "",
+        "MessageTW": "下次見囉，老師！",
         "MessageEN": ""
     }
 ]

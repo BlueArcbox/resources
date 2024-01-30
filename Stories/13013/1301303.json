@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生……",
         "MessageKR": "선생님……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師……",
+        "MessageEN": "Sensei..."
     },
     {
         "MessageId": 130130180,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "先生……！",
         "MessageKR": "선생님……!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師……！",
+        "MessageEN": "Sensei!"
     },
     {
         "MessageId": 130130181,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "いよいよ……開催です……！",
         "MessageKR": "드디어…… 열려요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "終於……要舉辦了！",
+        "MessageEN": "It's starting! finally!"
     },
     {
         "MessageId": 130130190,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "な、何が？",
         "MessageKR": "뭐, 뭐가?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "舉，舉辦什麼？",
+        "MessageEN": "What's that?"
     },
     {
         "MessageId": 130130190,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "楽しそうだね、モミジ",
         "MessageKR": "모미지가 이렇게까지 흥분하다니, 드문 일이네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "紅葉竟然這麼激動，真少見",
+        "MessageEN": "Momiji, you seem extra excited!"
     },
     {
         "MessageId": 130130200,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "わわっ、すみません……",
         "MessageKR": "아, 아앗. 죄송해요……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哇，哇哇。不好意思……",
+        "MessageEN": "Ah, yes, that's because!"
     },
     {
         "MessageId": 130130201,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "思わず、浮かれてしまいました……",
         "MessageKR": "너무 기대된 나머지, 그만……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為太期待，不小心就……",
+        "MessageEN": "Sorry, I got ahead of myself and"
     },
     {
         "MessageId": 130130210,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "聞かせてもらえる？",
         "MessageKR": "진정하고, 차근차근 이야기해 줘.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "冷靜下來慢慢說吧",
+        "MessageEN": "Calm down and type it out slowly."
     },
     {
         "MessageId": 130130220,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "今日は……",
         "MessageKR": "네……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯……",
+        "MessageEN": "Right..."
     },
     {
         "MessageId": 130130230,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "レッドウィンターブックフェスティバルの日です！",
         "MessageKR": "그러니까, 붉은겨울 책 축제예요! ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天，是赤冬書展的日子！ ",
+        "MessageEN": "It's the Red Winter Book Festival! "
     },
     {
         "MessageId": 130130240,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "うん……？",
         "MessageKR": "응……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯……？",
+        "MessageEN": "Hm?"
     },
     {
         "MessageId": 130120257,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "先生、今日はお付き合いいただきありがとうございました！",
         "MessageKR": "선생님. 잘 들어가셨나요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，平安到家了嗎？",
+        "MessageEN": "Sensei, did you make it home safely?"
     },
     {
         "MessageId": 130130251,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "たくさん歩き回りましたが……疲れてませんか？",
         "MessageKR": "너무 피곤하다거나 하지는…… 않으시고요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天走了不少路……會不會很累呢？",
+        "MessageEN": "You're not too tired, are you?"
     },
     {
         "MessageId": 130130260,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "これくらい大丈夫だよ！",
         "MessageKR": "이 정도는 괜찮아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這點程度不算什麼！",
+        "MessageEN": "I'm fine."
     },
     {
         "MessageId": 130130270,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "良かったです",
         "MessageKR": "다행이에요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "太好了",
+        "MessageEN": "What a relief!"
     },
     {
         "MessageId": 130130271,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "明日も楽しみですね！",
         "MessageKR": "그러면 내일도 함께 해 주신다는 거죠?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "明天也很令人期待呢！",
+        "MessageEN": "You'll help out tomorrow too, right?"
     },
     {
         "MessageId": 130130280,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "あ、明日も！？",
         "MessageKR": "내, 내일도?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "明，明天也要！？",
+        "MessageEN": "T-Tomorrow?!"
     },
     {
         "MessageId": 130130290,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "ブックフェスティバルは2日間ありますから！",
         "MessageKR": "네. 붉은겨울 책 축제는 내일까지니까요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，赤冬書展明天才結束！",
+        "MessageEN": "Yes! The Red Winter Book Festival continues until tomorrow!"
     },
     {
         "MessageId": 130130291,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "明日で残りのコーナーを完全制覇したいと思います！",
         "MessageKR": "내일은 오늘 다 못 돌아본 코너를 완전히 정복할 거예요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我打算在明天把剩下的攤位完全征服！",
+        "MessageEN": "And there are so many sections I still need to see!"
     },
     {
         "MessageId": 130130300,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "が、頑張るね……",
         "MessageKR": "선생님, 힘낼게……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師我會加油的……",
+        "MessageEN": "I'll be there..."
     },
     {
         "MessageId": 130130310,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとうございます！",
         "MessageKR": "와아, 감사합니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哇啊，謝謝老師！",
+        "MessageEN": "Yay! Thank you!"
     },
     {
         "MessageId": 130130311,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "えへへ、楽しみにしてますね",
         "MessageKR": "저, 내일이 정말 기대돼요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我真的很期待",
+        "MessageEN": "I can't wait!"
     },
     {
         "MessageId": 130130312,
@@ -303,7 +303,7 @@
         "ImagePath": "",
         "MessageJP": "おやすみなさい！",
         "MessageKR": "그러면 오늘은 안녕히 주무세요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼，祝你有個好夢！",
+        "MessageEN": "Sleep tight!"
     }
 ]

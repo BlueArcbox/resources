@@ -26,7 +26,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "森の野生動物たちが保護色で身を隠すように",
-        "MessageKR": "숲 속의 야생동물들이 보호색으로 몸을 숨기는 것처럼",
+        "MessageKR": "숲속의 야생동물들이 보호색으로 몸을 숨기는 것처럼",
         "MessageTW": "就像森林裡的野生動物用保護色來隱藏自己一樣",
         "MessageEN": "Animals in the forest hide themselves by blending into their surroundings."
     },
@@ -134,7 +134,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "私の場合、偽装しなくても人に気づかれないので……",
-        "MessageKR": "별 다른 위장을 하지 않아도 지나가는 사람 대부분이 관심을 주지 않아서요……",
+        "MessageKR": "별다른 위장을 하지 않아도 지나가는 사람 대부분이 관심을 주지 않아서요……",
         "MessageTW": "我就算沒有偽裝，也不太會被人發現……",
         "MessageEN": "most people don't notice me even if I'm not wearing camouflage..."
     },
@@ -266,7 +266,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "何事も思ったようにはいきませんね……",
-        "MessageKR": "정말 세상 일이란 모르는 거네요……",
+        "MessageKR": "정말 세상일이란 모르는 거네요……",
         "MessageTW": "果然無法事事如意呢……",
         "MessageEN": "What a mystery..."
     }

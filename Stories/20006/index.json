@@ -25,6 +25,8 @@
     ],
     "2000605": [
         "MessageJP",
-        "MessageKR"
+        "MessageKR",
+        "MessageTW",
+        "MessageEN"
     ]
 }

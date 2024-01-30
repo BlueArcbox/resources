@@ -27,7 +27,7 @@
         "ImagePath": "",
         "MessageJP": "修行部の活動で今度、お掃除のボランティアに行くことになりました。",
         "MessageKR": "이번에 수행부 활동의 일환으로 청소 봉사활동을 가게 되었어요.",
-        "MessageTW": "修行部這次的活動，決定去進行打掃的義工活動了",
+        "MessageTW": "作為修行部活動的一環，這次我決定去參加打掃的義工活動",
         "MessageEN": "I'm doing some volunteer work as part of my club activities."
     },
     {
@@ -39,7 +39,7 @@
         "ImagePath": "",
         "MessageJP": "ミモリはいつも色んなことに一生懸命だね",
         "MessageKR": "미모리는 늘 수행에 열심이네.",
-        "MessageTW": "三森總是在各種事情上盡全力呢",
+        "MessageTW": "三森總是很熱衷於修行呢",
         "MessageEN": "You're always putting your best foot forward, huh?"
     },
     {
@@ -51,7 +51,7 @@
         "ImagePath": "",
         "MessageJP": "ふふっ、ありがとうございます。料理の次は、お掃除。",
         "MessageKR": "네, 요리 다음엔 청소.",
-        "MessageTW": "呵呵，謝謝老師。料理的下一個是，打掃",
+        "MessageTW": "繼料理之後，是打掃",
         "MessageEN": "Of course. I'll cook first, and then clean!"
     },
     {
@@ -63,7 +63,7 @@
         "ImagePath": "",
         "MessageJP": "これらも立派な大和撫子に、そして素敵な花嫁になるための修行ですので。",
         "MessageKR": "이런 식으로 매일 같이 더욱더 멋진 요조숙녀가 되기 위해 정진하고 있답니다.",
-        "MessageTW": "這些也都是為了成為出色的大和撫子，還有優秀的新娘的修行",
+        "MessageTW": "像這樣一點一滴，為求成為更佳的大和撫子不斷精進自己",
         "MessageEN": "This is all part of my journey to become a proper lady."
     },
     {
@@ -75,7 +75,7 @@
         "ImagePath": "",
         "MessageJP": "そこでなのですが……。",
         "MessageKR": "그래서 말이지요. 선생님.",
-        "MessageTW": "所以說……",
+        "MessageTW": "所以……老師",
         "MessageEN": "Speaking of which..."
     },
     {
@@ -111,7 +111,7 @@
         "ImagePath": "",
         "MessageJP": "ありがとうございます、ではよろしくお願いしますね♪",
         "MessageKR": "네, 그럼 도움, 감사히 받들겠사옵니다♪",
-        "MessageTW": "謝謝老師，那就拜託你了哦♪",
+        "MessageTW": "謝謝老師，那就拜託您了♪",
         "MessageEN": "Great, that'd be really helpful!"
     },
     {

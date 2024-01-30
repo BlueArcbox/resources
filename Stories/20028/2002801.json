@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 200280020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "少し、お時間よろしいでしょうか？",
         "MessageKR": "혹시 시간 괜찮으실까요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請問能占用一些時間嗎？",
+        "MessageEN": "Have you got a moment?"
     },
     {
         "MessageId": 200280021,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "えっと、その……悩んでいる事がありまして……",
         "MessageKR": "무슨 일이 있는 건 아니고……. 다만 약간의 고민이…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "其實……我有一點小煩惱……",
+        "MessageEN": "I'm sure it's nothing, but... I'm concerned, you see..."
     },
     {
         "MessageId": 200280030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "そこまで深刻なわけではないのですが",
         "MessageKR": "그렇지만 절대 심각한 일은 아니에요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過真的不是很嚴重的事！",
+        "MessageEN": "Oh, but it's nothing serious!"
     },
     {
         "MessageId": 200280031,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "とても個人的なことで……",
         "MessageKR": "굉장히 사소하고 개인적인, 그런 거라서…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為非常瑣碎也很私人，所以……",
+        "MessageEN": "It's a small matter... A personal matter..."
     },
     {
         "MessageId": 200280040,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "分かった、すぐに向かうね",
         "MessageKR": "괜찮아. 무슨 일이야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒問題唷，怎麼了嗎？",
+        "MessageEN": "I'd be happy to help."
     },
     {
         "MessageId": 200280050,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "あ",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah!"
     },
     {
         "MessageId": 200280060,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとうございます",
         "MessageKR": "감사합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "非常感謝",
+        "MessageEN": "Thank you."
     },
     {
         "MessageId": 200280061,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "それでは、お待ちしております！",
         "MessageKR": "그럼 기다리고 있겠습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那我等著唷！",
+        "MessageEN": "I'll be waiting!"
     },
     {
         "MessageId": 200270077,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "先生……",
         "MessageKR": "선생님…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師……",
+        "MessageEN": "Sensei..."
     },
     {
         "MessageId": 200280080,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "申し訳ありませんでした……",
         "MessageKR": "죄송해요…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "對不起……",
+        "MessageEN": "I owe you an apology..."
     },
     {
         "MessageId": 200280081,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "私がお呼びしたのに、1人でお昼寝をしてしまうなんて……",
         "MessageKR": "고민 상담이라고 해 놓고, 바로 잠들어 버리다니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "明明是我說要諮詢煩惱，竟然自己睡著了……",
+        "MessageEN": "I can't believe I fell asleep after making you come out to see me."
     },
     {
         "MessageId": 200280090,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "本当に、なんと謝れば良いのか……",
         "MessageKR": "스스로 생각해도 너무 한심해서…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "連我自己都覺得太不像話了……",
+        "MessageEN": "I feel terribly pathetic..."
     },
     {
         "MessageId": 200280100,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "ヒナタが休めたなら良かったよ",
         "MessageKR": "고민이 해결된 거니 좋은 거지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "煩惱解決了也是件好事哦",
+        "MessageEN": "It's fine. I'm just happy I was able to help you."
     },
     {
         "MessageId": 200280100,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "実は私も、少し寝ちゃってたから",
         "MessageKR": "덕분에 나도 한숨 자서 좋았어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "託你的福，我也正好睡了一覺",
+        "MessageEN": "Honestly, I needed the nap too."
     },
     {
         "MessageId": 200280110,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "ほ、本当ですか……？",
         "MessageKR": "그, 그런 걸까요……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是，是這樣嗎……？",
+        "MessageEN": "Is that so...?"
     },
     {
         "MessageId": 200280120,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "えっと",
         "MessageKR": "음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個",
+        "MessageEN": "Hm..."
     },
     {
         "MessageId": 200280130,
@@ -243,7 +243,7 @@
         "ImagePath": "",
         "MessageJP": "ありがとうございます、先生",
         "MessageKR": "감사합니다. 그럼 그런 걸로…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝您，老師。就當成是這樣吧……",
+        "MessageEN": "In that case... Thank you."
     }
 ]

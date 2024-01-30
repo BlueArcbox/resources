@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "ここの水は、本当に気持ちが良いですね",
         "MessageKR": "여긴 정말 물이 시원하네요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這裡的水真的很舒服呢",
+        "MessageEN": "The water here is so refreshing."
     },
     {
         "MessageId": 100740150,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "こんなにも透き通っているなんて……",
         "MessageKR": "깨끗하기도 하고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "而且居然這麼乾淨……",
+        "MessageEN": "Really clean too."
     },
     {
         "MessageId": 100740160,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "もしかして海にいるの？",
         "MessageKR": "수영 중이야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "花子在游泳嗎？",
+        "MessageEN": "Are you swimming?"
     },
     {
         "MessageId": 100740170,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "いえ",
         "MessageKR": "아뇨",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不",
+        "MessageEN": "Nope"
     },
     {
         "MessageId": 100740171,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "海も好きなのですが、今は別のところに",
         "MessageKR": "바다도 좋지만, 저는 이쪽이 좀 더 취향이라서요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然大海也很棒，但這邊更符合我的喜好",
+        "MessageEN": "The beach is nice, sure, but this is more my style."
     },
     {
         "MessageId": 100740180,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "機会があれば、先生も見てみませんか？",
         "MessageKR": "선생님께도 보여드리고 싶은 곳이에요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "方便的話，老師要不要也來看看呀？",
+        "MessageEN": "Come by and I'll show you what I mean."
     },
     {
         "MessageId": 100730197,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "先生に置いていかれてしまって、残念です",
         "MessageKR": "선생님?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師？",
+        "MessageEN": "Sensei?"
     },
     {
         "MessageId": 100740200,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "服が乾くまで待ってから、一緒に帰りたかったのですが……",
         "MessageKR": "빨리 가셨네요. 이왕이면 같이 말린 뒤에 함께 돌아가고 싶었는데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "離開得真早呢。本來想等衣服乾了之後一起回去的說……",
+        "MessageEN": "You left so soon. I was hoping we'd dry off together, and then head back and..."
     },
     {
         "MessageId": 100740210,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "それは流石に……",
         "MessageKR": "그건 아무래도 역시 좀…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個再怎麼說都有點……",
+        "MessageEN": "That's a little..."
     },
     {
         "MessageId": 100740210,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと油断してたよ……",
         "MessageKR": "방심한 사이 당해버렸어…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "一不小心就中計了……",
+        "MessageEN": "You caught me off guard..."
     },
     {
         "MessageId": 100740220,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "うふふっ、冗談です",
         "MessageKR": "후후",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔呵呵",
+        "MessageEN": "Heehee."
     },
     {
         "MessageId": 100740230,
@@ -171,7 +171,7 @@
         "ImagePath": "",
         "MessageJP": "とっても楽しい時間でした。ありがとうございます、先生",
         "MessageKR": "덕분에 재밌었어요. 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "開玩笑的。我玩得很開心哦，謝謝你，老師",
+        "MessageEN": "I had a blast. Thanks, Sensei."
     }
 ]

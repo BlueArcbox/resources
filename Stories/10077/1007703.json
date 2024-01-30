@@ -27,7 +27,7 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
+        "MessageTW": "老師",
         "MessageEN": ""
     },
     {
@@ -39,7 +39,7 @@
         "ImagePath": "",
         "MessageJP": "今って時間あります？",
         "MessageKR": "지금 한가하시나요",
-        "MessageTW": "",
+        "MessageTW": "現在有空嗎？",
         "MessageEN": ""
     },
     {
@@ -51,7 +51,7 @@
         "ImagePath": "",
         "MessageJP": "うん？どうしたの？",
         "MessageKR": "그럭저럭? 무슨 일이야?",
-        "MessageTW": "",
+        "MessageTW": "馬馬虎虎？有什麼事嗎？",
         "MessageEN": ""
     },
     {
@@ -63,7 +63,7 @@
         "ImagePath": "",
         "MessageJP": "ちょうど暇してたところ",
         "MessageKR": "마침 빈둥거리고 있었어",
-        "MessageTW": "",
+        "MessageTW": "現在正好很閒",
         "MessageEN": ""
     },
     {
@@ -75,7 +75,7 @@
         "ImagePath": "",
         "MessageJP": "あーえっと",
         "MessageKR": "아",
-        "MessageTW": "",
+        "MessageTW": "啊",
         "MessageEN": ""
     },
     {
@@ -87,7 +87,7 @@
         "ImagePath": "",
         "MessageJP": "いや、なんとなく",
         "MessageKR": "아뇨 그냥",
-        "MessageTW": "",
+        "MessageTW": "沒有，我只是",
         "MessageEN": ""
     },
     {
@@ -99,7 +99,7 @@
         "ImagePath": "",
         "MessageJP": "ちょっと暇だなって……",
         "MessageKR": "진짜 그냥 심심해서",
-        "MessageTW": "",
+        "MessageTW": "因為有點閒",
         "MessageEN": ""
     },
     {
@@ -111,7 +111,7 @@
         "ImagePath": "",
         "MessageJP": "予定まで結構時間があるんですけど",
         "MessageKR": "사람들 기다리는 중이라 할 게 없네요",
-        "MessageTW": "",
+        "MessageTW": "在等人的時候沒事可做",
         "MessageEN": ""
     },
     {
@@ -123,7 +123,7 @@
         "ImagePath": "",
         "MessageJP": "思ったよりやることがないんですよね",
         "MessageKR": "ㅎㅎ",
-        "MessageTW": "",
+        "MessageTW": "嘻嘻",
         "MessageEN": ""
     },
     {

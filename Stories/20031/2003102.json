@@ -27,7 +27,7 @@
         "ImagePath": "",
         "MessageJP": "先生、地下水の水圧が変なんだ",
         "MessageKR": "확실히 지하수의 수압이 예전 같지가 않네",
-        "MessageTW": "",
+        "MessageTW": "地下水的水壓確實不如從前了",
         "MessageEN": ""
     },
     {
@@ -39,7 +39,7 @@
         "ImagePath": "",
         "MessageJP": "前に掃除してから何日も経ってるのに、湯船に水がほとんど溜まってなくて",
         "MessageKR": "저번에 청소를 한 뒤로 벌써 며칠이나 지났는데, 아직도 탕에 물이 거의 차지 않았어.",
-        "MessageTW": "",
+        "MessageTW": "上次打掃後已經過了幾天，但浴池的水卻幾乎積不起來",
         "MessageEN": ""
     },
     {
@@ -51,7 +51,7 @@
         "ImagePath": "",
         "MessageJP": "この調子だと、あと一週間はかかっちゃうなぁ……",
         "MessageKR": "목욕을 할 수 있으려면 앞으로 1주일은 물을 더 받아야 할 것 같은데……",
-        "MessageTW": "",
+        "MessageTW": "看這個情況，如果想洗澡可能還得要一個星期……",
         "MessageEN": ""
     },
     {
@@ -63,7 +63,7 @@
         "ImagePath": "",
         "MessageJP": "だったらお風呂はどうするの？",
         "MessageKR": "그동안 목욕이나 샤워는 어떻게 하려고?",
-        "MessageTW": "",
+        "MessageTW": "那這段期間該怎麼洗澡呢？",
         "MessageEN": ""
     },
     {
@@ -75,7 +75,7 @@
         "ImagePath": "",
         "MessageJP": "うーん、仕方ないけど……",
         "MessageKR": "뭐, 귀찮지만 하는 수 없지.",
-        "MessageTW": "",
+        "MessageTW": "唔嗯，雖然麻煩，但也沒辦法……",
         "MessageEN": ""
     },
     {
@@ -87,7 +87,7 @@
         "ImagePath": "",
         "MessageJP": "前みたいに川で水浴びするしか……",
         "MessageKR": "전처럼 얼어붙은 강에서 냉수 목욕을 하는 수밖에",
-        "MessageTW": "",
+        "MessageTW": "只能像之前一樣到結凍的河裡洗冷水澡了",
         "MessageEN": ""
     },
     {
@@ -99,7 +99,7 @@
         "ImagePath": "",
         "MessageJP": "でも、風邪引いちゃうよ？",
         "MessageKR": "하지만 냉수 목욕은 건강에 좋지 않을 텐데……",
-        "MessageTW": "",
+        "MessageTW": "可是冷水澡對健康不好……",
         "MessageEN": ""
     },
     {
@@ -111,7 +111,7 @@
         "ImagePath": "",
         "MessageJP": "別の場所へ入りにいったら？",
         "MessageKR": "대신 다른 곳에서 목욕을 하는 건 어때?",
-        "MessageTW": "",
+        "MessageTW": "到其他地方洗澡如何？",
         "MessageEN": ""
     },
     {
@@ -123,7 +123,7 @@
         "ImagePath": "",
         "MessageJP": "どうかな……",
         "MessageKR": "으음. 어떠려나……",
-        "MessageTW": "",
+        "MessageTW": "唔嗯，這個嘛……",
         "MessageEN": ""
     },
     {
@@ -135,7 +135,7 @@
         "ImagePath": "",
         "MessageJP": "いくら特別クラスの生徒でも",
         "MessageKR": "아무리 정학 처분을 받은 특별반의 학생이라 하더라도",
-        "MessageTW": "",
+        "MessageTW": "就算是受到停學處分的特別班學生……",
         "MessageEN": ""
     },
     {
@@ -147,7 +147,7 @@
         "ImagePath": "",
         "MessageJP": "広場にある噴水のお湯で入浴してたら大騒ぎになると思うけど……",
         "MessageKR": "광장에 설치된 온수 분수대에서 목욕을 하면 큰 소동이 벌어질 텐데……",
-        "MessageTW": "",
+        "MessageTW": "要是到廣場上的熱水噴泉洗澡也會引起大騷動的吧……",
         "MessageEN": ""
     },
     {
@@ -159,7 +159,7 @@
         "ImagePath": "",
         "MessageJP": "「他のお風呂に行ったら？」って意味だよ！",
         "MessageKR": "다른 목욕탕에 가자는 뜻이었다고!",
-        "MessageTW": "",
+        "MessageTW": "我的意思是去其他澡堂！",
         "MessageEN": ""
     },
     {

@@ -74,7 +74,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "来週の当番、日程を変更しても良いですか？",
-        "MessageKR": "다음주 당번 일정을 조금 변경하고자 합니다",
+        "MessageKR": "다음 주 당번 일정을 조금 변경하고자 합니다",
         "MessageTW": "下週值日生的安排，可以稍做更改嗎？",
         "MessageEN": "I'd like to reschedule for next week."
     },
@@ -86,7 +86,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "それくらい問題ないよ",
-        "MessageKR": "일정 변경은 문제 없지만……",
+        "MessageKR": "일정 변경은 문제없지만……",
         "MessageTW": "這種小事沒問題唷",
         "MessageEN": "That's not a problem."
     },
@@ -146,7 +146,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "緊急の要請が来たため、私も作戦に加わることになりまして",
-        "MessageKR": "경찰학교에 처리해야할 긴급한 문제가 생겨 외근을 해야 할 것 같습니다.",
+        "MessageKR": "경찰학교에 처리해야 할 긴급한 문제가 생겨 외근을 해야 할 것 같습니다.",
         "MessageTW": "因為傳來了緊急要求，我必須參加作戰",
         "MessageEN": "There's an urgent problem to deal with at the Police School, so I'll be on patrol duty."
     },

@@ -39,7 +39,7 @@
         "ImagePath": "",
         "MessageJP": "まさか、お忘れではありませんよね？",
         "MessageKR": "잊지 않으셨겠지요?",
-        "MessageTW": "應該，沒有忘記吧？",
+        "MessageTW": "您應該沒有忘記吧？",
         "MessageEN": "I hope you didn't forget!"
     },
     {
@@ -51,7 +51,7 @@
         "ImagePath": "",
         "MessageJP": "本日は、あなた様のお約束を頂戴した日……",
         "MessageKR": "오늘이 바로 당신께서 제게 약속해 주신 하루의 시간.",
-        "MessageTW": "今日是，收到閣下約定的日子……",
+        "MessageTW": "今天是與閣下約定的日子……",
         "MessageEN": "Today's finally the day! You promised to spend an entire day with me!"
     },
     {
@@ -63,7 +63,7 @@
         "ImagePath": "",
         "MessageJP": "この日を楽しみにしつつ、幾つの眠れない夜を明かしてきたことでしょう……",
         "MessageKR": "이날만을 기다리며 지난날 얼마나 되는 밤을 지새워왔는지…….",
-        "MessageTW": "我期待著這一天，不知迎來了多少夜未眠的清晨呢……",
+        "MessageTW": "我期盼著這一天，不知度過了多少難以入眠的夜晚……",
         "MessageEN": "You have no idea how many sleepless nights I've spent waiting for today..."
     },
     {
@@ -75,7 +75,7 @@
         "ImagePath": "",
         "MessageJP": "そんなときめきをどうにか抑えつつも、デートプランは完璧に立てておきました！",
         "MessageKR": "두근거리는 마음을 끌어안고 이미 데이트 플랜은 완벽하게 세워 두었답니다!",
-        "MessageTW": "即使想辦法壓抑著那份怦然心動，我依然制定了完美的約會計劃！",
+        "MessageTW": "在設法壓抑這股悸動的同時，我制定了完美的約會計劃！",
         "MessageEN": "I've planned the perfect date for us. I can barely contain my excitement!"
     },
     {
@@ -87,7 +87,7 @@
         "ImagePath": "",
         "MessageJP": "そ、そっか",
         "MessageKR": "그, 그래?",
-        "MessageTW": "是，是嗎",
+        "MessageTW": "是，是嗎？",
         "MessageEN": "Sure..."
     },
     {
@@ -99,7 +99,7 @@
         "ImagePath": "",
         "MessageJP": "では、約束の場所でお待ちしておりますね。ふふふっ……",
         "MessageKR": "그럼 약속 장소에서 기다리고 있겠습니다. 후후훗.",
-        "MessageTW": "那麼，我在約定的場所恭候您哦。哼哼哼……",
+        "MessageTW": "那麼，我會在約定的場所等候您的到來。呵呵呵",
         "MessageEN": "I'll be waiting for you at the meeting place. Heehee."
     },
     {

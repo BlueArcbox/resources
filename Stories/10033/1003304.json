@@ -27,7 +27,7 @@
         "ImagePath": "",
         "MessageJP": "先生、よろしければなのですが",
         "MessageKR": "선생님, 괜찮으시다면 오늘 하루.",
-        "MessageTW": "老師，假如您不介意",
+        "MessageTW": "老師，假如您願意的話",
         "MessageEN": "Sensei, if you have the time..."
     },
     {
@@ -39,7 +39,7 @@
         "ImagePath": "",
         "MessageJP": "今日一日、あなた様の貴重なお時間をいただけませんでしょうか？",
         "MessageKR": "당신의 귀중한 시간을 내어 주실 수 있을까요?",
-        "MessageTW": "請問，可以收下閣下今天一天貴重的時間嗎？",
+        "MessageTW": "是否能占用閣下寶貴的時間呢？",
         "MessageEN": "Do you think you could come see me today?"
     },
     {
@@ -63,7 +63,7 @@
         "ImagePath": "",
         "MessageJP": "左様でしたか……",
         "MessageKR": "아아…. 그러신가요. 아쉬워라…….",
-        "MessageTW": "這樣啊……",
+        "MessageTW": "這樣啊……實屬遺憾",
         "MessageEN": "Oh, really? That's too bad..."
     },
     {
@@ -75,7 +75,7 @@
         "ImagePath": "",
         "MessageJP": "残念ではありますが、仕方ありません",
         "MessageKR": "네에, 어쩔 수 없지요.",
-        "MessageTW": "雖然很遺憾，不過也沒辦法",
+        "MessageTW": "好的，我明白了",
         "MessageEN": "Okay, then."
     },
     {
@@ -99,7 +99,7 @@
         "ImagePath": "",
         "MessageJP": "残念ですが、本日はひとりで行ってまいります",
         "MessageKR": "아쉽지만 오늘 쇼핑은 저 혼자 가도록 해야겠군요.",
-        "MessageTW": "雖然很遺憾，今日就由我隻身前往",
+        "MessageTW": "雖然遺憾，今日的購物就由我隻身前往",
         "MessageEN": "I guess... I'll go shopping all alone today."
     },
     {
@@ -111,7 +111,7 @@
         "ImagePath": "",
         "MessageJP": "何か買い物とか？",
         "MessageKR": "응? 쇼핑? 뭘 사려고?",
-        "MessageTW": "要買什麼東西嗎？",
+        "MessageTW": "咦？購物？要買什麼東西嗎？",
         "MessageEN": "Shopping? What are you buying?"
     },
     {
@@ -135,7 +135,7 @@
         "ImagePath": "",
         "MessageJP": "ブラックマーケットに一人でかぁ……",
         "MessageKR": "블랙마켓에?! 그것도 와카모 혼자?!",
-        "MessageTW": "一個人去黑市啊……",
+        "MessageTW": "黑市！？而且還是若藻一個人去！？",
         "MessageEN": "You're going to the black market alone?!"
     },
     {
@@ -147,7 +147,7 @@
         "ImagePath": "",
         "MessageJP": "……すぐ終わらせるから一緒に行こう。ちょっと待っててもらえる？",
         "MessageKR": "쇼핑이라면 내가 도와줄게! 일 끝나면 바로 갈 테니까!",
-        "MessageTW": "……馬上就結束了一起去吧。可以等我一下嗎？",
+        "MessageTW": "要購物的話我也來幫忙吧！工作結束之後馬上過去！",
         "MessageEN": "I'll go with you! I'll be right there after I'm done working!"
     },
     {
@@ -171,7 +171,7 @@
         "ImagePath": "",
         "MessageJP": "ふふっ……では、お待ちしておりますね",
         "MessageKR": "우후후훗. 네에, 그럼 기다리고 있겠습니다.",
-        "MessageTW": "哼哼……那麼，恭候著您哦",
+        "MessageTW": "呵呵……那麼，我會恭候著您的到來",
         "MessageEN": "Heehee. Okay, I'll be waiting for you."
     },
     {
@@ -219,7 +219,7 @@
         "ImagePath": "",
         "MessageJP": "本当に、",
         "MessageKR": "정말로.",
-        "MessageTW": "真的是，",
+        "MessageTW": "真的",
         "MessageEN": "Very..."
     },
     {
@@ -231,7 +231,7 @@
         "ImagePath": "",
         "MessageJP": "本当に本当に本当に本当に本当に本当に本当に本当に本当に本当に本当に本当に本当に本当に本当に本当に",
         "MessageKR": "정말정말정말정말정말정말정말정말정말정말로-",
-        "MessageTW": "真的是真的是真的是真的是真的是真的是真的是真的是真的是真的是真的是真的是真的是真的是真的是真的是",
+        "MessageTW": "真的真的真的真的真的真的真的真的真的真的真的真的真的真的真的真的真的",
         "MessageEN": "Very very very very very very..."
     },
     {
@@ -243,7 +243,7 @@
         "ImagePath": "",
         "MessageJP": "本当に本当に本当に本当に本当に本当に本当に本当に本当に本当に本当に本当に本当に本当に本当に本当に\u200b",
         "MessageKR": "정말정말정말정말정말정말정말정말정말정말로-\u200b",
-        "MessageTW": "真的是真的是真的是真的是真的是真的是真的是真的是真的是真的是真的是真的是真的是真的是真的是真的是\u200b",
+        "MessageTW": "真的真的真的真的真的真的真的真的真的真的真的真的真的真的真的真的真的\u200b",
         "MessageEN": "Very very very very very very...\u200b"
     },
     {
@@ -255,7 +255,7 @@
         "ImagePath": "",
         "MessageJP": "あなた様と一緒にいられて、嬉しかったです♡",
         "MessageKR": "오늘 하루, 당신과 함께여서 기뻤답니다.",
-        "MessageTW": "能與閣下在一起，非常的開心♡",
+        "MessageTW": "很高興能與閣下在一起♡",
         "MessageEN": "Happy to spend time with you today."
     },
     {
@@ -267,7 +267,7 @@
         "ImagePath": "",
         "MessageJP": "うふふふっ……",
         "MessageKR": "우후후훗.",
-        "MessageTW": "唔哼哼哼……",
+        "MessageTW": "唔呵呵呵……",
         "MessageEN": "Heeheehee."
     },
     {
@@ -291,7 +291,7 @@
         "ImagePath": "",
         "MessageJP": "それではまた",
         "MessageKR": "그럼 또, 다음 기회에 찾아뵙겠습니다.",
-        "MessageTW": "那麼再見",
+        "MessageTW": "期待下回，能與您相見的機會",
         "MessageEN": "I'll see you again next time."
     },
     {
@@ -303,7 +303,7 @@
         "ImagePath": "",
         "MessageJP": "次にお会いできる日を楽しみにしておりますね",
         "MessageKR": "그때를 고대하며 이만.",
-        "MessageTW": "我很期待下次見面的日子哦",
+        "MessageTW": "那麼我就先告辭了",
         "MessageEN": "I'll be waiting for that day."
     },
     {
@@ -315,7 +315,7 @@
         "ImagePath": "",
         "MessageJP": "不一",
         "MessageKR": "총총.",
-        "MessageTW": "不悉",
+        "MessageTW": "呵呵",
         "MessageEN": "Bye-bye."
     }
 ]

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、海辺で遊ぶのは楽しいね～",
         "MessageKR": "선생님. 바닷가에서 노는 건 즐겁네\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，在海邊玩真開心呢～",
+        "MessageEN": "Sensei, it's so fun to play at the beach."
     },
     {
         "MessageId": 100470280,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "チセが楽しそうで何よりだよ",
         "MessageKR": "치세가 즐겁다니 다행이야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "知世覺得開心真是太好了",
+        "MessageEN": "I'm glad you're enjoying yourself."
     },
     {
         "MessageId": 100470290,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "うん、でも……",
         "MessageKR": "응. 하지만….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，可是……",
+        "MessageEN": "Yeah, but"
     },
     {
         "MessageId": 100470291,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "やっぱり、一人で楽しむのはもったいない～",
         "MessageKR": "역시 혼자만 즐거운 건 아까워\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只有我自己開心的話有點可惜～",
+        "MessageEN": "it's lonely having fun just by myself"
     },
     {
         "MessageId": 100470300,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "分かるかも、その気持ち",
         "MessageKR": "아, 알 거 같아. 그 기분.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，我好像明白那種心情",
+        "MessageEN": "I know the feeling."
     },
     {
         "MessageId": 100470300,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "誰かと一緒なら、もっと楽しいよね",
         "MessageKR": "다른 사람과 함께 놀면 더 즐거워지는 법이니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "獨樂樂不如眾樂樂嘛",
+        "MessageEN": "It's more fun when you have someone to play with."
     },
     {
         "MessageId": 100470310,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "あ、いいこと考えた",
         "MessageKR": "아, 좋은 생각이 났다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，我有個好主意",
+        "MessageEN": "Oh, I've got an idea."
     },
     {
         "MessageId": 100470320,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "みんなで海に来られないなら……",
         "MessageKR": "다들 바다에 올 수 없다면….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "既然大家沒辦法來海邊……",
+        "MessageEN": "For everyone who can't make it to the beach..."
     },
     {
         "MessageId": 100470330,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "来られないなら……？",
         "MessageKR": "없다면…?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒辦法來海邊……？",
+        "MessageEN": "Uh...yes?"
     },
     {
         "MessageId": 100470340,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "逆に、私が海を持っていけば良いんだ～",
         "MessageKR": "반대로 내가 바다를 가져가면 되겠네♪",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那就反過來把大海帶走就可以了♪",
+        "MessageEN": "I'll take the beach to them ♪"
     },
     {
         "MessageId": 100470341,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "よ～し、そうと決まればさっそく～",
         "MessageKR": "좋았어\\~ 가져가야지\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好～既然決定了就趕緊開始～",
+        "MessageEN": "Yeah, I'll just take it to them"
     },
     {
         "MessageId": 100470350,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "……ん？チセ？海を持っていくって……？",
         "MessageKR": "…응? 치세? 바다를? 가져가? 으응?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……嗯？知世？\n你說要把海帶走？嗯……？",
+        "MessageEN": "Um, Chise? How are you going to do that?"
     },
     {
         "MessageId": 100470360,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "すた～と～",
         "MessageKR": "그럼 시작\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "開～始～囉～",
+        "MessageEN": "Let's get started"
     },
     {
         "MessageId": 100470370,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "ちょ、ちょっと待って！すぐそっちに行くから！",
         "MessageKR": "자, 잠깐! 치세! 바로 갈 테니까! 조금만 기다려 줘!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "先，先等一下！知世！我馬上去找你！",
+        "MessageEN": "Hold on, Chise! I'll be there soon, so just wait a minute!"
     },
     {
         "MessageId": 100460377,

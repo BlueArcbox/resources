@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "ふふ……",
         "MessageKR": "후후…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵……",
+        "MessageEN": "Heehee..."
     },
     {
         "MessageId": 100730130,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "もう安心です",
         "MessageKR": "조금 마음이 놓이네요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可以放心了",
+        "MessageEN": "I feel much better now."
     },
     {
         "MessageId": 100730131,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "素敵な場所を、ようやく見つけました",
         "MessageKR": "꽤 괜찮은 장소를 찾았어요……. 훌륭합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總算找到了一個好地方",
+        "MessageEN": "I've found a nice spot... An excellent one, actually."
     },
     {
         "MessageId": 100730140,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "安心？",
         "MessageKR": "마음이 놓여?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "放心？",
+        "MessageEN": "I'm glad you're feeling better."
     },
     {
         "MessageId": 100730140,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "素敵な場所？",
         "MessageKR": "괜찮은 장소?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好地方？",
+        "MessageEN": "So what's this place?"
     },
     {
         "MessageId": 100730150,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "はい、これなら問題ないでしょう",
         "MessageKR": "네. 이 정도면 훌륭해요. 완벽은 아니지만.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是，這樣就沒問題了。雖然還不算完美",
+        "MessageEN": "It isn't perfect, per se, but like I said...excellent."
     },
     {
         "MessageId": 100730151,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "人は、常に生き抜く方法を見つけ出すもの",
         "MessageKR": "인간은 늘 방법을 찾아냅니다. 저 또한, 마찬가지죠.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "人類總是會找到生存之道",
+        "MessageEN": "People are adaptable. I suppose that's true for me, as well."
     },
     {
         "MessageId": 100730160,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "そうですね……",
         "MessageKR": "음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "Hmm..."
     },
     {
         "MessageId": 100730161,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "先生なら、大丈夫でしょう",
         "MessageKR": "뭐 다른 분도 아니고 선생님이라면……. 괜찮을지도…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果是老師，應該沒問題吧",
+        "MessageEN": "Perhaps it's all right... It is you, after all..."
     },
     {
         "MessageId": 100730170,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "一度、ご覧になりますか？",
         "MessageKR": "한 번 보시겠어요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要不要來看看？",
+        "MessageEN": "Would you like to see it?"
     },
     {
         "MessageId": 100720187,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "その",
         "MessageKR": "그",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個",
+        "MessageEN": "Um..."
     },
     {
         "MessageId": 100730190,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 100730191,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "すみません",
         "MessageKR": "정말로 죄송합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真的很抱歉",
+        "MessageEN": "I'm terribly sorry."
     },
     {
         "MessageId": 100730200,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "よく考えたら、あのカップは……",
         "MessageKR": "생각해 보니, 그 잔…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "仔細想想，那個杯子……",
+        "MessageEN": "I just realized...that cup..."
     },
     {
         "MessageId": 100730210,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "えっと……わ、私が口を……",
         "MessageKR": "그……. 제가 마시던 거라…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呃……是我喝過的……",
+        "MessageEN": "I...was drinking from that cup..."
     },
     {
         "MessageId": 100730220,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "その、ですね……",
         "MessageKR": "그게…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就是……",
+        "MessageEN": "You see..."
     },
     {
         "MessageId": 100730230,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "……カップ？",
         "MessageKR": "……잔?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……杯子？",
+        "MessageEN": "What cup?"
     },
     {
         "MessageId": 100730230,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "何の話？",
         "MessageKR": "응? 무슨 이야기야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "什麼意思？",
+        "MessageEN": "What are you talking about?"
     },
     {
         "MessageId": 100730240,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "……",
         "MessageKR": "…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……",
+        "MessageEN": "..."
     },
     {
         "MessageId": 100730250,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "い、いえ……",
         "MessageKR": "아닙니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒，沒事……",
+        "MessageEN": "It's nothing."
     },
     {
         "MessageId": 100730251,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "やっぱり、何でもありませんので",
         "MessageKR": "역시",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真的",
+        "MessageEN": "I knew it..."
     },
     {
         "MessageId": 100730260,
@@ -291,7 +291,7 @@
         "ImagePath": "",
         "MessageJP": "先生は気にしないでください",
         "MessageKR": "아무 생각 없으셨네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真的沒事",
+        "MessageEN": "It wasn't on your mind at all..."
     }
 ]

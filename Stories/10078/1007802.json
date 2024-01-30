@@ -27,7 +27,7 @@
         "ImagePath": "",
         "MessageJP": "先生～？",
         "MessageKR": "선생님\\~?",
-        "MessageTW": "",
+        "MessageTW": "老師～？",
         "MessageEN": ""
     },
     {
@@ -39,7 +39,7 @@
         "ImagePath": "",
         "MessageJP": "いま、時間は大丈夫だろうか？",
         "MessageKR": "혹시 지금 시간 괜찮을까?",
-        "MessageTW": "",
+        "MessageTW": "你現在有空嗎？",
         "MessageEN": ""
     },
     {
@@ -51,7 +51,7 @@
         "ImagePath": "",
         "MessageJP": "すごいことを思いついてね",
         "MessageKR": "엄청난 생각이 떠올라서 말이지.",
-        "MessageTW": "",
+        "MessageTW": "我想到了一個非常棒的想法",
         "MessageEN": ""
     },
     {
@@ -63,7 +63,7 @@
         "ImagePath": "",
         "MessageJP": "今！まさに今！",
         "MessageKR": "바로 지금!",
-        "MessageTW": "",
+        "MessageTW": "就是現在！",
         "MessageEN": ""
     },
     {
@@ -75,7 +75,7 @@
         "ImagePath": "",
         "MessageJP": "まさか、また爆破計画……？",
         "MessageKR": "설마 또 발파 계획?",
-        "MessageTW": "",
+        "MessageTW": "難道又是爆破計畫？",
         "MessageEN": ""
     },
     {
@@ -87,7 +87,7 @@
         "ImagePath": "",
         "MessageJP": "もしかして会議？",
         "MessageKR": "앗, 회의 시간인 거야?",
-        "MessageTW": "",
+        "MessageTW": "啊，是要開會嗎？",
         "MessageEN": ""
     },
     {
@@ -99,7 +99,7 @@
         "ImagePath": "",
         "MessageJP": "さすがは先生、以心伝心じゃないか？",
         "MessageKR": "역\\~시 선생님이야. 척하면 척이구만?",
-        "MessageTW": "",
+        "MessageTW": "真～不愧是老師。這就是所謂的心有靈犀一點通嗎？",
         "MessageEN": ""
     },
     {
@@ -111,7 +111,7 @@
         "ImagePath": "",
         "MessageJP": "その通り！",
         "MessageKR": "바로 그 말 대로지!",
-        "MessageTW": "",
+        "MessageTW": "正是如此！",
         "MessageEN": ""
     },
     {
@@ -123,7 +123,7 @@
         "ImagePath": "",
         "MessageJP": "だが……",
         "MessageKR": "그렇지만",
-        "MessageTW": "",
+        "MessageTW": "但是……",
         "MessageEN": ""
     },
     {
@@ -135,7 +135,7 @@
         "ImagePath": "",
         "MessageJP": "今日は前回とは違うぞ？",
         "MessageKR": "이번에는 전과 좀 다를 거라고?",
-        "MessageTW": "",
+        "MessageTW": "這次跟之前可不一樣哦？",
         "MessageEN": ""
     },
     {
@@ -147,7 +147,7 @@
         "ImagePath": "",
         "MessageJP": "……不屈の意志だね。",
         "MessageKR": "……불굴의 의지구나.",
-        "MessageTW": "",
+        "MessageTW": "……真是不屈不撓的意志啊",
         "MessageEN": ""
     },
     {
@@ -159,7 +159,7 @@
         "ImagePath": "",
         "MessageJP": "諦めないんだね。",
         "MessageKR": "포기하지 않는구나.",
-        "MessageTW": "",
+        "MessageTW": "看來是不會放棄啊",
         "MessageEN": ""
     },
     {
@@ -171,7 +171,7 @@
         "ImagePath": "",
         "MessageJP": "ハーハッハッハッハ！！",
         "MessageKR": "와핫핫핫핫!",
-        "MessageTW": "",
+        "MessageTW": "哈～哈哈哈哈！",
         "MessageEN": ""
     },
     {
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "そんなにおだてても何も出ないぞ！",
         "MessageKR": "그렇게 치켜세워 주지 않아도 괜찮으니까!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那樣抬舉我也不會有好處的哦！",
+        "MessageEN": "No need to praise me like that!"
     },
     {
         "MessageId": 100780230,
@@ -195,7 +195,7 @@
         "ImagePath": "",
         "MessageJP": "さあさあ、とりあえず来てくれ！場所は送っておく！",
         "MessageKR": "자, 자. 일단 찾아오라고. 장소를 보내 놓을 테니!",
-        "MessageTW": "",
+        "MessageTW": "來來來，總之先來找我吧！我把地點傳給你！",
         "MessageEN": ""
     },
     {
@@ -219,7 +219,7 @@
         "ImagePath": "",
         "MessageJP": "先生！",
         "MessageKR": "아, 선생님!",
-        "MessageTW": "",
+        "MessageTW": "啊，老師！",
         "MessageEN": ""
     },
     {
@@ -231,7 +231,7 @@
         "ImagePath": "",
         "MessageJP": "呼び出しておいて、先に寝てしまうとは",
         "MessageKR": "이런이런. 기껏 불러 놓고 먼저 자 버리다니",
-        "MessageTW": "",
+        "MessageTW": "哎呀哎呀，好不容易才把老師請來，結果我卻先睡著了",
         "MessageEN": ""
     },
     {
@@ -243,7 +243,7 @@
         "ImagePath": "",
         "MessageJP": "悪かったな、謝罪する",
         "MessageKR": "실례를 범했구만. 미안, 미안.",
-        "MessageTW": "",
+        "MessageTW": "真是失敬，抱歉抱歉",
         "MessageEN": ""
     },
     {
@@ -255,7 +255,7 @@
         "ImagePath": "",
         "MessageJP": "大丈夫、気にしないで",
         "MessageKR": "괜찮아. 신경 쓰지 마.",
-        "MessageTW": "",
+        "MessageTW": "沒關係，不用放在心上",
         "MessageEN": ""
     },
     {
@@ -267,7 +267,7 @@
         "ImagePath": "",
         "MessageJP": "ポイントはどうかな？",
         "MessageKR": "포인트는 마음에 들어?",
-        "MessageTW": "",
+        "MessageTW": "地點還喜歡嗎？",
         "MessageEN": ""
     },
     {
@@ -279,7 +279,7 @@
         "ImagePath": "",
         "MessageJP": "改めて思うが、本当に完璧なポイントだ！",
         "MessageKR": "음\\~!!",
-        "MessageTW": "",
+        "MessageTW": "嗯～！！",
         "MessageEN": ""
     },
     {
@@ -291,7 +291,7 @@
         "ImagePath": "",
         "MessageJP": "よ～～～し！",
         "MessageKR": "다시 봐도 정말 완벽한 포인트야.",
-        "MessageTW": "",
+        "MessageTW": "再看一次還是覺得真的很完美",
         "MessageEN": ""
     },
     {
@@ -303,7 +303,7 @@
         "ImagePath": "",
         "MessageJP": "さっそく全員集めなくては！！",
         "MessageKR": "말 나온 김에 지금 바로 전부 불러 모아야겠어!!",
-        "MessageTW": "",
+        "MessageTW": "既然如此，得馬上把所有人都叫來才行！！",
         "MessageEN": ""
     },
     {
@@ -315,7 +315,7 @@
         "ImagePath": "",
         "MessageJP": "今日はこれで失礼する！",
         "MessageKR": "그럼, 바빠질 것 같으니 다음에 다시!",
-        "MessageTW": "",
+        "MessageTW": "那麼，之後就要忙起來了，下次見囉！",
         "MessageEN": ""
     }
 ]

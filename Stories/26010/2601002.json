@@ -230,7 +230,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "あの小石たちは、ここで静かに自分の役割を果たしていたのだな、と……",
-        "MessageKR": "이 돌 들은 이곳에서 눈에 띄지 않게 자신의 역할을 다하고 있던 거니까요.",
+        "MessageKR": "이 돌들은 이곳에서 눈에 띄지 않게 자신의 역할을 다하고 있던 거니까요.",
         "MessageTW": "那些小石頭們，都在默默地完成自己的使命……",
         "MessageEN": "These rocks were fulfilling their roles here without anyone noticing."
     },
@@ -326,7 +326,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "今日の思い出を、こうして宝物に……",
-        "MessageKR": "이렇게 라도 오늘의 추억을 간직하려고요",
+        "MessageKR": "이렇게라도 오늘의 추억을 간직하려고요",
         "MessageTW": "將今天的回憶，以這樣的形式變為寶物",
         "MessageEN": "This way, I can keep the memory."
     },

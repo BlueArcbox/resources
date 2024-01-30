@@ -27,7 +27,7 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님.",
-        "MessageTW": "",
+        "MessageTW": "老師",
         "MessageEN": ""
     },
     {
@@ -39,7 +39,7 @@
         "ImagePath": "",
         "MessageJP": "この前、シャーレに新しく休憩室を作るから、畳が必要って言ってなかった？",
         "MessageKR": "전에 샬레의 휴게실을 보수하는 데 다다미가 필요하다고 하지 않았았어?",
-        "MessageTW": "",
+        "MessageTW": "你之前是不是有說過整修夏萊的休息室需要榻榻米？",
         "MessageEN": ""
     },
     {
@@ -51,7 +51,7 @@
         "ImagePath": "",
         "MessageJP": "うん、座敷の休憩室が欲しいって言われて……",
         "MessageKR": "응. 좌식 휴게실을 원하는 학생들이 몇 있어서……",
-        "MessageTW": "",
+        "MessageTW": "嗯，因為有幾個學生想要那種休息室……",
         "MessageEN": ""
     },
     {
@@ -63,7 +63,7 @@
         "ImagePath": "",
         "MessageJP": "でも、急にどうしたの？",
         "MessageKR": "그런 이야기를 한 것 같기는 한데…… 갑자기 왜?",
-        "MessageTW": "",
+        "MessageTW": "好像有說過……怎麼突然問這個？",
         "MessageEN": ""
     },
     {
@@ -75,7 +75,7 @@
         "ImagePath": "",
         "MessageJP": "じゃあ今度、旧校舎来たときに持っていっていいよ",
         "MessageKR": "그럼 다음에 구교사에 올 때 다다미 좀 가져가.",
-        "MessageTW": "",
+        "MessageTW": "那老師下次來舊校舍的時候可以拿一些榻榻米走哦",
         "MessageEN": ""
     },
     {
@@ -87,7 +87,7 @@
         "ImagePath": "",
         "MessageJP": "温泉郷の跡地を整理してたら、高級畳をたくさん見つけてさ",
         "MessageKR": "저번에 무너진 온천장을 정리하다가 창고에 쌓아 놨던 고급 다다미를 잔뜩 찾았거든.",
-        "MessageTW": "",
+        "MessageTW": "之前整理崩毀的溫泉浴場時，我找到很多積放在倉庫的高級榻榻米",
         "MessageEN": ""
     },
     {
@@ -99,7 +99,7 @@
         "ImagePath": "",
         "MessageJP": "特別クラスでは使わないの？",
         "MessageKR": "특별반에서 직접 쓰지 그래?",
-        "MessageTW": "",
+        "MessageTW": "特別班不留著用嗎？",
         "MessageEN": ""
     },
     {
@@ -111,7 +111,7 @@
         "ImagePath": "",
         "MessageJP": "うーん、畳って香りはいいんだけど……",
         "MessageKR": "음, 푹신하고 좋은 향이 나기는 하지만……",
-        "MessageTW": "",
+        "MessageTW": "唔嗯，雖然很鬆軟而且有香味……",
         "MessageEN": ""
     },
     {
@@ -123,7 +123,7 @@
         "ImagePath": "",
         "MessageJP": "腐りやすいから、旧校舎にはあまり向かない気がするんだよね",
         "MessageKR": "다다미 바닥은 썩기 쉬우니까. 구교사의 환경에는 그다지 적합하지 않은 것 같아서.",
-        "MessageTW": "",
+        "MessageTW": "但是榻榻米很容易壞，感覺不太適合舊校舍的環境",
         "MessageEN": ""
     },
     {
@@ -135,7 +135,7 @@
         "ImagePath": "",
         "MessageJP": "でも、このまま放置しておくのももったいないし……",
         "MessageKR": "하지만 이대로 방치해 두는 것도 아깝고……",
-        "MessageTW": "",
+        "MessageTW": "不過就這樣放著也很可惜……",
         "MessageEN": ""
     },
     {
@@ -147,7 +147,7 @@
         "ImagePath": "",
         "MessageJP": "必要な人がいるならあげたほうがいいかなって",
         "MessageKR": "이왕이면 필요한 곳에서 가져다 쓰는 편이 좋을 것 같아서.",
-        "MessageTW": "",
+        "MessageTW": "既然如此，我覺得給有需要的人使用比較好",
         "MessageEN": ""
     },
     {
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "それはありがたいけど……",
         "MessageKR": "하지만 구교사의 물건을 가져다 쓰려니 어쩐지 미안한걸.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "拿舊校舍的東西來用，總覺得有點不好意思……",
+        "MessageEN": "I feel a bit bad about using stuff from the former institute."
     },
     {
         "MessageId": 200310090,
@@ -171,7 +171,7 @@
         "ImagePath": "",
         "MessageJP": "旧校舎の修理に必要な素材は足りてる？",
         "MessageKR": "구교사의 보수에 필요한 재료는 부족하지 않아?",
-        "MessageTW": "",
+        "MessageTW": "整修舊校舍的材料不會不夠嗎？",
         "MessageEN": ""
     },
     {
@@ -183,7 +183,7 @@
         "ImagePath": "",
         "MessageJP": "うん。温泉郷跡から資材は十分手に入ったから",
         "MessageKR": "괜찮아. 무너진 폐허에서 필요한 자재는 충분히 구할 수 있었거든.",
-        "MessageTW": "",
+        "MessageTW": "沒關係。溫泉浴場留下的材料就已經很夠了",
         "MessageEN": ""
     },
     {
@@ -195,7 +195,7 @@
         "ImagePath": "",
         "MessageJP": "強いて言うなら……",
         "MessageKR": "그 밖에 아쉬운 점이라면……",
-        "MessageTW": "",
+        "MessageTW": "要說還缺了什麼的話……",
         "MessageEN": ""
     },
     {
@@ -207,7 +207,7 @@
         "ImagePath": "",
         "MessageJP": "甘いお菓子、とかかな？",
         "MessageKR": "역시 입을 달래 줄 만한 간식 정도려나.",
-        "MessageTW": "",
+        "MessageTW": "能解饞的零食，之類的吧？",
         "MessageEN": ""
     },
     {
@@ -219,7 +219,7 @@
         "ImagePath": "",
         "MessageJP": "他の食材はその辺でいくらでも手に入るけど、お菓子はそうもいかないからね",
         "MessageKR": "다른 식재료라면 야생에서도 얼마든지 구할 수 있는데, 달콤한 과자는 언제나 아쉽거든.",
-        "MessageTW": "",
+        "MessageTW": "其他食材在這附近也能取得，但香甜的點心總是很缺",
         "MessageEN": ""
     },
     {
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "じゃあ、畳はお菓子と交換しよう",
         "MessageKR": "그럼 다음에 기회가 되면 과자를 좀 사 갈게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那下次有機會的話，我會買一些點心過去",
+        "MessageEN": "I'll bring some cookies when I can next time."
     },
     {
         "MessageId": 200310130,
@@ -243,7 +243,7 @@
         "ImagePath": "",
         "MessageJP": "ふふっ、いいね。楽しみにしてる",
         "MessageKR": "후후, 기대하고 있겠어.",
-        "MessageTW": "",
+        "MessageTW": "呵呵，我會期待的",
         "MessageEN": ""
     },
     {
@@ -255,7 +255,7 @@
         "ImagePath": "",
         "MessageJP": "じゃあ、また今度ね、先生",
         "MessageKR": "그럼 다음에 보자, 선생님.",
-        "MessageTW": "",
+        "MessageTW": "那麼之後見囉，老師",
         "MessageEN": ""
     },
     {

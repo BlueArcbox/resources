@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師？",
+        "MessageEN": "Sensei?"
     },
     {
         "MessageId": 100740250,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今どちらにいらっしゃいますか？",
         "MessageKR": "지금 어디 계신가요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你現在在哪裡？",
+        "MessageEN": "Where are you right now?"
     },
     {
         "MessageId": 100740251,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "その、お話ししたいことが……",
         "MessageKR": "괜찮으시다면 이번에는, 제가 찾아뵈려고 하는데…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "方便的話，我有事想跟你說……",
+        "MessageEN": "If it's okay, I wanna come see you..."
     },
     {
         "MessageId": 100740260,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "どうしたの？",
         "MessageKR": "응? 무슨 일이야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯？怎麼了？",
+        "MessageEN": "Hm? What's going on?"
     },
     {
         "MessageId": 100740260,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "何か相談事？",
         "MessageKR": "하나코가 직접 온다고?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "花子要直接過來嗎？",
+        "MessageEN": "You're coming here, Hanako?"
     },
     {
         "MessageId": 100740270,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "はい",
         "MessageKR": "네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是的",
+        "MessageEN": "Okay."
     },
     {
         "MessageId": 100740271,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "場所を教えていただけたら",
         "MessageKR": "장소만 알려주시면…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只要告訴我地點……",
+        "MessageEN": "Tell me where you are, and..."
     },
     {
         "MessageId": 100740280,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "すぐそちらに向かいます♡",
         "MessageKR": "지금 바로 갈게요 ♡",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我馬上就過去♡",
+        "MessageEN": "I'll be there right away. ♡"
     },
     {
         "MessageId": 100730287,

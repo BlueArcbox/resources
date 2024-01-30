@@ -27,7 +27,7 @@
         "ImagePath": "",
         "MessageJP": "先生、こんにちは",
         "MessageKR": "이야기 들었습니다",
-        "MessageTW": "",
+        "MessageTW": "老師，我聽說了",
         "MessageEN": ""
     },
     {
@@ -39,7 +39,7 @@
         "ImagePath": "",
         "MessageJP": "今度、トリニティに来るって聞いたんですが",
         "MessageKR": "이번에 트리니티 오신다면서요?",
-        "MessageTW": "",
+        "MessageTW": "你這次要來三一對吧？",
         "MessageEN": ""
     },
     {
@@ -51,7 +51,7 @@
         "ImagePath": "",
         "MessageJP": "どういうわけか",
         "MessageKR": "하하",
-        "MessageTW": "",
+        "MessageTW": "哈哈",
         "MessageEN": ""
     },
     {
@@ -63,7 +63,7 @@
         "ImagePath": "",
         "MessageJP": "今回は私が先生を手伝うことになったみたいで",
         "MessageKR": "어쩌다 보니",
-        "MessageTW": "",
+        "MessageTW": "不知道什麼原因",
         "MessageEN": ""
     },
     {
@@ -75,7 +75,7 @@
         "ImagePath": "",
         "MessageJP": "そういうことなので、よろしくお願いします",
         "MessageKR": "이번에는 제가 옆에서 돕게 됐네요",
-        "MessageTW": "",
+        "MessageTW": "這次似乎是由我來協助老師",
         "MessageEN": ""
     },
     {
@@ -87,7 +87,7 @@
         "ImagePath": "",
         "MessageJP": "こんにちは、イチカ",
         "MessageKR": "오, 안녕. 이치카.",
-        "MessageTW": "",
+        "MessageTW": "你好呀，一花",
         "MessageEN": ""
     },
     {
@@ -99,7 +99,7 @@
         "ImagePath": "",
         "MessageJP": "よろしくね！",
         "MessageKR": "잘 부탁해!",
-        "MessageTW": "",
+        "MessageTW": "那就拜託你囉！",
         "MessageEN": ""
     },
     {
@@ -111,7 +111,7 @@
         "ImagePath": "",
         "MessageJP": "はい！",
         "MessageKR": "네\\~",
-        "MessageTW": "",
+        "MessageTW": "好～",
         "MessageEN": ""
     },
     {
@@ -123,7 +123,7 @@
         "ImagePath": "",
         "MessageJP": "では、また後ほど",
         "MessageKR": "그때 뵙겠습니다!",
-        "MessageTW": "",
+        "MessageTW": "待會見！",
         "MessageEN": ""
     },
     {
@@ -147,7 +147,7 @@
         "ImagePath": "",
         "MessageJP": "先生、着きました？",
         "MessageKR": "선생님\\~ 잘 들어가셨습니까",
-        "MessageTW": "",
+        "MessageTW": "老師～平安回去了嗎？",
         "MessageEN": ""
     },
     {
@@ -159,7 +159,7 @@
         "ImagePath": "",
         "MessageJP": "うん、おかげさまで",
         "MessageKR": "잘 들어왔어.",
-        "MessageTW": "",
+        "MessageTW": "順利回來囉",
         "MessageEN": ""
     },
     {
@@ -171,7 +171,7 @@
         "ImagePath": "",
         "MessageJP": "ありがとう、イチカ",
         "MessageKR": "덕분에 안전하게 왔네.",
-        "MessageTW": "",
+        "MessageTW": "託你的福，安全回來了",
         "MessageEN": ""
     },
     {
@@ -183,7 +183,7 @@
         "ImagePath": "",
         "MessageJP": "これくらいお安いご用です",
         "MessageKR": "뭐 이런 걸로 ㅎㅎ",
-        "MessageTW": "",
+        "MessageTW": "老師太客氣了啦，呵呵",
         "MessageEN": ""
     },
     {
@@ -195,7 +195,7 @@
         "ImagePath": "",
         "MessageJP": "それじゃ",
         "MessageKR": "그럼 무사히 들어가신 걸로 알고",
-        "MessageTW": "",
+        "MessageTW": "既然老師已經順利抵達",
         "MessageEN": ""
     },
     {
@@ -207,7 +207,7 @@
         "ImagePath": "",
         "MessageJP": "私もそろそろ寝るんで",
         "MessageKR": "저도 이만 자겠습니다",
-        "MessageTW": "",
+        "MessageTW": "那我也差不多該睡了",
         "MessageEN": ""
     },
     {
@@ -219,7 +219,7 @@
         "ImagePath": "",
         "MessageJP": "おやすみなさーい",
         "MessageKR": "좋은 밤\\~",
-        "MessageTW": "",
+        "MessageTW": "晚安～",
         "MessageEN": ""
     }
 ]

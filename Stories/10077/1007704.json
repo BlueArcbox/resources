@@ -27,7 +27,7 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
+        "MessageTW": "老師",
         "MessageEN": ""
     },
     {
@@ -39,7 +39,7 @@
         "ImagePath": "",
         "MessageJP": "今って何してます？",
         "MessageKR": "지금 시간 괜찮으십니까?",
-        "MessageTW": "",
+        "MessageTW": "現在有空嗎？",
         "MessageEN": ""
     },
     {
@@ -51,7 +51,7 @@
         "ImagePath": "",
         "MessageJP": "ああっと",
         "MessageKR": "아",
-        "MessageTW": "",
+        "MessageTW": "啊",
         "MessageEN": ""
     },
     {
@@ -63,7 +63,7 @@
         "ImagePath": "",
         "MessageJP": "別に何か用があるわけじゃないんですが……",
         "MessageKR": "무슨 일 있는 건 아닙니다만",
-        "MessageTW": "",
+        "MessageTW": "其實也沒什麼事",
         "MessageEN": ""
     },
     {
@@ -75,7 +75,7 @@
         "ImagePath": "",
         "MessageJP": "仕事が終わって休憩してるところだよ",
         "MessageKR": "마침 한가하네, 나갈게.",
-        "MessageTW": "",
+        "MessageTW": "正好沒事，打算出門走走",
         "MessageEN": ""
     },
     {
@@ -87,7 +87,7 @@
         "ImagePath": "",
         "MessageJP": "公園で会おっか",
         "MessageKR": "조금 있다 공원에서 볼까?",
-        "MessageTW": "",
+        "MessageTW": "待會要不要在公園碰面？",
         "MessageEN": ""
     },
     {
@@ -99,7 +99,7 @@
         "ImagePath": "",
         "MessageJP": "おっ",
         "MessageKR": "오",
-        "MessageTW": "",
+        "MessageTW": "哦～",
         "MessageEN": ""
     },
     {
@@ -111,7 +111,7 @@
         "ImagePath": "",
         "MessageJP": "いいですね",
         "MessageKR": "좋네요",
-        "MessageTW": "",
+        "MessageTW": "聽起來不錯",
         "MessageEN": ""
     },
     {
@@ -123,7 +123,7 @@
         "ImagePath": "",
         "MessageJP": "それじゃ、後ほど！",
         "MessageKR": "그럼 그때 뵙겠습니다",
-        "MessageTW": "",
+        "MessageTW": "那待會見！",
         "MessageEN": ""
     },
     {
@@ -147,7 +147,7 @@
         "ImagePath": "",
         "MessageJP": "ふぅ",
         "MessageKR": "음",
-        "MessageTW": "",
+        "MessageTW": "嗯……",
         "MessageEN": ""
     },
     {
@@ -159,7 +159,7 @@
         "ImagePath": "",
         "MessageJP": "今日は先生のおかげで楽しかったです",
         "MessageKR": "오늘은 덕분에 아주 좋았던 듯",
-        "MessageTW": "",
+        "MessageTW": "今天多虧有老師，真的很開心",
         "MessageEN": ""
     },
     {
@@ -171,7 +171,7 @@
         "ImagePath": "",
         "MessageJP": "ありがとうございました、先生",
         "MessageKR": "감사합니다, 선생님",
-        "MessageTW": "",
+        "MessageTW": "謝謝你，老師",
         "MessageEN": ""
     },
     {
@@ -183,7 +183,7 @@
         "ImagePath": "",
         "MessageJP": "また遊びに行きたいです！",
         "MessageKR": "다음에도 또 부탁드릴 거예요",
-        "MessageTW": "",
+        "MessageTW": "之後還想要一起玩！",
         "MessageEN": ""
     },
     {
@@ -195,7 +195,7 @@
         "ImagePath": "",
         "MessageJP": "先生がそうした方がいいって言ったんですからね！",
         "MessageKR": "선생님이 그러라고 한 거니까",
-        "MessageTW": "",
+        "MessageTW": "因為老師也是這麼說的！",
         "MessageEN": ""
     },
     {
@@ -207,7 +207,7 @@
         "ImagePath": "",
         "MessageJP": "もちろん、いつでも付き合うよ",
         "MessageKR": "좋지. 비슷한 느낌도 더 찾아봐.",
-        "MessageTW": "",
+        "MessageTW": "嗯，繼續尋找類似的感覺吧",
         "MessageEN": ""
     },
     {
@@ -219,7 +219,7 @@
         "ImagePath": "",
         "MessageJP": "夢中になれるものが見つかるといいね",
         "MessageKR": "앞으로도 그렇게 하는 거야.",
-        "MessageTW": "",
+        "MessageTW": "以後也要持續下去",
         "MessageEN": ""
     },
     {
@@ -231,7 +231,7 @@
         "ImagePath": "",
         "MessageJP": "はい！",
         "MessageKR": "네\\~",
-        "MessageTW": "",
+        "MessageTW": "好～",
         "MessageEN": ""
     },
     {
@@ -243,7 +243,7 @@
         "ImagePath": "",
         "MessageJP": "……ん～",
         "MessageKR": "음\u200b",
-        "MessageTW": "",
+        "MessageTW": "嗯……\u200b",
         "MessageEN": ""
     },
     {
@@ -255,7 +255,7 @@
         "ImagePath": "",
         "MessageJP": "でも……",
         "MessageKR": "그런데, 뭐",
-        "MessageTW": "",
+        "MessageTW": "但是",
         "MessageEN": ""
     },
     {
@@ -267,7 +267,7 @@
         "ImagePath": "",
         "MessageJP": "……",
         "MessageKR": "당분간은",
-        "MessageTW": "",
+        "MessageTW": "短時間之內",
         "MessageEN": ""
     },
     {
@@ -279,7 +279,7 @@
         "ImagePath": "",
         "MessageJP": "まだしばらくは",
         "MessageKR": "ㅎㅎ",
-        "MessageTW": "",
+        "MessageTW": "嘻嘻",
         "MessageEN": ""
     },
     {
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "今が最高なので大丈夫です！",
         "MessageKR": "이거보다 더 마음 가는 건,",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可能沒有比剛才那個",
+        "MessageEN": "I'm not sure I'll have anything else,"
     },
     {
         "MessageId": 100770441,
@@ -303,7 +303,7 @@
         "ImagePath": "",
         "MessageJP": "はは",
         "MessageKR": "없을지도 모르겠네요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "更讓我滿意的了",
+        "MessageEN": "that I want to do more."
     }
 ]

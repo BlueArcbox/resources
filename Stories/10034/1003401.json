@@ -39,7 +39,7 @@
         "ImagePath": "",
         "MessageJP": "先生が最近お仕事でとてもお忙しい、と。",
         "MessageKR": "최근 업무로 무척 바쁘시다면서요……?",
-        "MessageTW": "老師最近工作非常的忙碌",
+        "MessageTW": "老師最近工作非常忙碌",
         "MessageEN": "You're really busy with work lately."
     },
     {
@@ -51,7 +51,7 @@
         "ImagePath": "",
         "MessageJP": "きちんと睡眠が取れていなくって、昨日もシャーレに遅刻してしまうほどだと伺いましたが、",
         "MessageKR": "잠도 제대로 못 주무시는 바람에, 어제도 샬레에 지각하셨다고 들었는데.",
-        "MessageTW": "沒有確實取得睡眠，聽說到了昨天去夏萊也遲到的程度",
+        "MessageTW": "因為睡眠不足的關係，昨天去夏萊也遲到了",
         "MessageEN": "And that you were late yesterday because you overslept."
     },
     {
@@ -75,7 +75,7 @@
         "ImagePath": "",
         "MessageJP": "まあ、たまにはそういうことも……",
         "MessageKR": "가끔 그래, 가끔.",
-        "MessageTW": "嘛，偶爾也會有那種……",
+        "MessageTW": "偶爾會吧，偶爾……",
         "MessageEN": "Well, it happens."
     },
     {
@@ -171,7 +171,7 @@
         "ImagePath": "",
         "MessageJP": "あの後、きちんと間に合いましたか？",
         "MessageKR": "오늘은 지각하지 않고 출근 잘하셨나요?",
-        "MessageTW": "那之後，有確實趕上嗎？",
+        "MessageTW": "今天有準時上班嗎？",
         "MessageEN": "Did you make it to work on time this morning?"
     },
     {
@@ -183,7 +183,7 @@
         "ImagePath": "",
         "MessageJP": "今日はありがとう。でも、どうしてミモリが……？",
         "MessageKR": "오늘 고마웠어. 미모리. 하지만 어째서 오늘 미모리가 찾아온 거야……?",
-        "MessageTW": "今天謝謝妳。不過，為什麼三森會……？",
+        "MessageTW": "今天謝謝你。不過為什麼三森會……？",
         "MessageEN": "Yeah, but why did you come today?"
     },
     {
@@ -195,7 +195,7 @@
         "ImagePath": "",
         "MessageJP": "それはですね……",
         "MessageKR": "네?",
-        "MessageTW": "那是因為呢……",
+        "MessageTW": "嗯？",
         "MessageEN": "Huh?"
     },
     {
@@ -207,7 +207,7 @@
         "ImagePath": "",
         "MessageJP": "私が、大和撫子を目標として精進を重ねる、修行部の部員だからです。",
         "MessageKR": "그야 저 미모리. 요조숙녀를 목표로 정진하는 수행부 소속의 수행부원.",
-        "MessageTW": "我是，以大和撫子為目標持續精進的，修行部的部員",
+        "MessageTW": "我是以大和撫子為目標持續精進的，修行部的部員",
         "MessageEN": "Well, because I'm a member of the Inner Discipline Club. I'm working towards becoming a proper lady."
     },
     {
@@ -219,7 +219,7 @@
         "ImagePath": "",
         "MessageJP": "そしてその一環として、今日は先生を手伝いにお伺いしました。",
         "MessageKR": "당연히 오늘은 선생님을 돕기 위해 찾아온 거랍니다.",
-        "MessageTW": "然後作為那個一環，今天前去幫助老師了",
+        "MessageTW": "所以今天才會前去幫助老師",
         "MessageEN": "I'm here to help."
     },
     {
@@ -231,7 +231,7 @@
         "ImagePath": "",
         "MessageJP": "これからも困った時は、いつでもお申し付けください！",
         "MessageKR": "앞으로도 곤란하시면 언제든지 말씀만 해주세요!",
-        "MessageTW": "今後也有困擾的時候的話，請隨時告知我！",
+        "MessageTW": "今後如果遇到困擾的話，請隨時告訴我哦！",
         "MessageEN": "Let me know whenever you're in trouble!"
     },
     {
@@ -243,7 +243,7 @@
         "ImagePath": "",
         "MessageJP": "いつでも、何なりと。お呼びいただけたら、すぐに参りますので。",
         "MessageKR": "얼마든지 도와드릴 수 있으니까요.",
-        "MessageTW": "無論何時，不管什麼事。只要呼叫我的話，便會立刻前往",
+        "MessageTW": "無論任何事都會協助您的",
         "MessageEN": "I'll always be there."
     },
     {
@@ -255,7 +255,7 @@
         "ImagePath": "",
         "MessageJP": "理想の大和撫子になってみせますので……！",
         "MessageKR": "수행의 일환으로!",
-        "MessageTW": "我會成為理想的大和撫子的……！",
+        "MessageTW": "作為修行的一環！",
         "MessageEN": "It's all a part of my job!"
     },
     {
@@ -279,7 +279,7 @@
         "ImagePath": "",
         "MessageJP": "あっ、もし眠れないようでしたら、私が寝かしつけで添い寝に参りましょうか？",
         "MessageKR": "아, 혹시 밤에 잠을 못 주무시겠다면, 제가 재워드릴까요?",
-        "MessageTW": "啊，如果睡不著的話，要我前去陪睡讓老師入睡嗎？",
+        "MessageTW": "啊，如果睡不著的話，需要我前去陪睡嗎？",
         "MessageEN": "Oh! I can help if you're having trouble sleeping at night."
     },
     {
@@ -303,7 +303,7 @@
         "ImagePath": "",
         "MessageJP": "ぐっ……！え、遠慮、しておく……！",
         "MessageKR": "그것까진 해주지 않아도 괜찮아……!",
-        "MessageTW": "咕……！好，好意，我心領了……！",
+        "MessageTW": "你，你的好意我心領了……！",
         "MessageEN": "No, no, no that won't be necessary!"
     },
     {

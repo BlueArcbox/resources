@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "あの……",
         "MessageKR": "그러고 보니 선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個……",
+        "MessageEN": "Oh, Sensei. One more thing."
     },
     {
         "MessageId": 200280220,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "그",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "You see..."
     },
     {
         "MessageId": 200280221,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "もし、よろしければ……",
         "MessageKR": "만약에, 혹시 괜찮으시면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果，可以的話……",
+        "MessageEN": "If it's okay with you..."
     },
     {
         "MessageId": 200280230,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "ひとつ",
         "MessageKR": "저",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就是",
+        "MessageEN": "How do I put this?"
     },
     {
         "MessageId": 200280231,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "お願いがあるのですが……",
         "MessageKR": "해보고 싶은 게 하나 있는데요…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有件事我想嘗試看看……",
+        "MessageEN": "There's something I'd like to try..."
     },
     {
         "MessageId": 200280240,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "どうしたの？",
         "MessageKR": "음? 무슨 일이야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼了嗎？",
+        "MessageEN": "I'm all ears."
     },
     {
         "MessageId": 200280240,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "お願いって……？",
         "MessageKR": "히나타가 해보고 싶은 거……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "日向想嘗試的事情是……？",
+        "MessageEN": "What is it that you'd like to try, Hinata?"
     },
     {
         "MessageId": 200280250,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "えっと",
         "MessageKR": "그\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那",
+        "MessageEN": "Ah..."
     },
     {
         "MessageId": 200280251,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "その……",
         "MessageKR": "그게",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個……\u200b",
+        "MessageEN": "Th-The thing is..."
     },
     {
         "MessageId": 200280260,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "こうやって文章で説明するのは、少し恥ずかしいので……",
         "MessageKR": "여기서 설명 드리기에는 좀 부끄러워서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "用文字說明有點害羞……",
+        "MessageEN": "I'm a little embarrassed to tell you here."
     },
     {
         "MessageId": 200280261,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "2人だけで、お会いできませんか？",
         "MessageKR": "죄송해요 말로 해도 괜찮을까요……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不好意思，可以單獨見面後再告訴您嗎……？",
+        "MessageEN": "Might I tell you in person...?"
     },
     {
         "MessageId": 200270277,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "あの……\u200b",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師\u200b",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 200280280,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "先生\u200b",
         "MessageKR": "그\u200b\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個",
+        "MessageEN": "Um..."
     },
     {
         "MessageId": 200280281,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "今日は、本当に申し訳ありませんでした……",
         "MessageKR": "오늘 일은, 정말 죄송합니다…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天的事，真的非常抱歉……",
+        "MessageEN": "I'm really very sorry about today..."
     },
     {
         "MessageId": 200280290,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "大丈夫、少しずつ練習していこうか",
         "MessageKR": "괜찮아. 연습이니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒關係，慢慢練習吧",
+        "MessageEN": "It's fine. You're still practicing."
     },
     {
         "MessageId": 200280290,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "次は、きっとうまくいくよ！",
         "MessageKR": "하다 보면 익숙해질 거야!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下次一定會更熟練的！",
+        "MessageEN": "You'll get the hang of it in no time!"
     },
     {
         "MessageId": 200280300,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "はい……",
         "MessageKR": "그\u200b\u200b\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是……",
+        "MessageEN": "Um...\u200b"
     },
     {
         "MessageId": 200280301,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "そうだと良いのですが",
         "MessageKR": "그럴까요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是嗎？",
+        "MessageEN": "Do you truly think so?"
     },
     {
         "MessageId": 200280310,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "では、お言葉に甘えて……",
         "MessageKR": "그랬으면 좋겠어요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但願確實如此",
+        "MessageEN": "I hope you're right."
     },
     {
         "MessageId": 200280311,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "先生\u200b\u200b",
         "MessageKR": "그럼 염치 불고하고…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那就承蒙您的好意……",
+        "MessageEN": "In that case,"
     },
     {
         "MessageId": 200280320,
@@ -279,7 +279,7 @@
         "ImagePath": "",
         "MessageJP": "また次も、お願いしますね",
         "MessageKR": "다음에 또 부탁드리겠습니다, 선생님…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下次也拜託您了，老師……",
+        "MessageEN": "I shall ask for your help next time, as well."
     }
 ]

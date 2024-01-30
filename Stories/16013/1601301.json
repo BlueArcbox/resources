@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生！",
         "MessageKR": "선생님!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師！",
+        "MessageEN": "Sensei!"
     },
     {
         "MessageId": 160130020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "先生、どこ！？今どこいるの？",
         "MessageKR": "선생님, 어디야!? 지금 어디 있는 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，你在哪裡！？你現在在哪裡？",
+        "MessageEN": "Sensei, where are you? Where are you right now?"
     },
     {
         "MessageId": 160130021,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "早く返事して！先生！",
         "MessageKR": "대답해! 선생님!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "快回答我！老師！",
+        "MessageEN": "Answer me, Sensei!"
     },
     {
         "MessageId": 160130030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "もしかして事件！？",
         "MessageKR": "갑자기 다급한 부름!?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "難道發生事件了嗎！？",
+        "MessageEN": "What's the matter?!"
     },
     {
         "MessageId": 160130030,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "コハル、大丈夫！？",
         "MessageKR": "코하루? 무슨 일 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "小春？發生什麼事了嗎？",
+        "MessageEN": "Koharu? Is something wrong?"
     },
     {
         "MessageId": 160130040,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ち",
         "MessageKR": "윽",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不",
+        "MessageEN": "Ugh"
     },
     {
         "MessageId": 160130050,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "違う！私のことはいいの！",
         "MessageKR": "아냐! 내 이야기가 아니라고!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不是！重點不是我！",
+        "MessageEN": "No! This isn't about me!"
     },
     {
         "MessageId": 160130051,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "先生がどこにいるのか教えて！",
         "MessageKR": "선생님이 어디 있는지를 물었잖아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "告訴我老師在哪裡！",
+        "MessageEN": "I'm asking you where you are."
     },
     {
         "MessageId": 160130060,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "場所を、早く！",
         "MessageKR": "지금 어디야? 장소만 말해!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "地點！快告訴我！",
+        "MessageEN": "Where are you right now? Just tell me!"
     },
     {
         "MessageId": 160130061,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "すぐ行くから！",
         "MessageKR": "찾아갈 테니까!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我馬上過去！",
+        "MessageEN": "I'll come find you!"
     },
     {
         "MessageId": 160120077,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "せ",
         "MessageKR": "서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老",
+        "MessageEN": "Se"
     },
     {
         "MessageId": 160130080,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 160130081,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "帰りの記憶がないんだけど……一体何があったの！？",
         "MessageKR": "갑자기 기억이 없어! 무슨 일이 있었던 거지!?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我連怎麼回來的都忘記了！發生什麼事了！？",
+        "MessageEN": "I can't remember what happened! What happened?!"
     },
     {
         "MessageId": 160130090,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "よく眠れた？",
         "MessageKR": "아무 일도 없었다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "什麼事都沒發生哦",
+        "MessageEN": "Nothing happened."
     },
     {
         "MessageId": 160130090,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "可愛い寝顔だったよ",
         "MessageKR": "잘 자더라.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "睡臉很可愛哦",
+        "MessageEN": "You fell fast asleep."
     },
     {
         "MessageId": 160130100,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "むぅ……",
         "MessageKR": "윽\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔",
+        "MessageEN": "Ugh\u200b"
     },
     {
         "MessageId": 160130101,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "次はちゃんと最後まで見張るんだから",
         "MessageKR": "크윽! 두고 봐!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哼！等著瞧！",
+        "MessageEN": "Ugh! You just wait!"
     },
     {
         "MessageId": 160130110,
@@ -243,7 +243,7 @@
         "ImagePath": "",
         "MessageJP": "だ、騙されないんだからね！",
         "MessageKR": "다음에는 이런 식으로 당하지 않을 테니까!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下次絕不會再這樣束手無策地被欺負了！！",
+        "MessageEN": "You can't treat me like this!!"
     }
 ]

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "うぅ",
         "MessageKR": "으윽",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗚嗚",
+        "MessageEN": "Ack"
     },
     {
         "MessageId": 100730020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "はぁ……疲れました",
         "MessageKR": "하아……. 정말 힘드네요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唉……累死我了",
+        "MessageEN": "Hum... This is all terribly difficult for me."
     },
     {
         "MessageId": 100730021,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "この格好も、この場所も……",
         "MessageKR": "이런 복장. 이런 장소.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這副打扮，還有這種地方……",
+        "MessageEN": "This outfit. This place."
     },
     {
         "MessageId": 100730030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "ウイ……？",
         "MessageKR": "무슨 일 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼了嗎？",
+        "MessageEN": "What's the matter?"
     },
     {
         "MessageId": 100730030,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "どうしたの？",
         "MessageKR": "우이……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "憂……？",
+        "MessageEN": "Are you okay, Ui?"
     },
     {
         "MessageId": 100730040,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "あ、いえ……",
         "MessageKR": "아뇨",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，不",
+        "MessageEN": "No, no."
     },
     {
         "MessageId": 100730050,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "何か問題があるわけでは……",
         "MessageKR": "아무 일도 없어요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒什麼",
+        "MessageEN": "There's no problem."
     },
     {
         "MessageId": 100730051,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "というよりも、問題があるとしたら、それは私の方で",
         "MessageKR": "문제가 있다면 제 쪽이니까요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就算有問題也是我的問題",
+        "MessageEN": "If there's a problem, then its my problem to fret about."
     },
     {
         "MessageId": 100730060,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "はぁ",
         "MessageKR": "음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唉",
+        "MessageEN": "It's just..."
     },
     {
         "MessageId": 100730070,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "すみません。聞いていて、あまり気持ちの良い話ではないですね",
         "MessageKR": "죄송해요. 역시 계속해서 좋을 이야긴 아니네요. 이건 여기까지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不好意思。果然還是別繼續說下去比較好，先就此打住吧",
+        "MessageEN": "I'm sorry. I really shouldn't say any more."
     },
     {
         "MessageId": 100730080,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "その……念のため、お伝えしておきますが",
         "MessageKR": "아 물론 선생님 이야기는 아니에요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，我指的當然不是老師",
+        "MessageEN": "This really doesn't concern you. You needn't worry yourself."
     },
     {
         "MessageId": 100730081,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "先生のせいではありませんから、気にしないでください",
         "MessageKR": "혹시나 해서 말씀드립니다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "保險起見還是說明一下",
+        "MessageEN": "Please, take my word on this."
     },
     {
         "MessageId": 100720097,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "先生の話を聞いて、少し考えが変わりました",
         "MessageKR": "말씀을 듣고 나니, 조금은 이런저런 생각도 하게 됐어요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "聽完老師的話之後，我的想法稍微有所改變",
+        "MessageEN": "After our last talk, I did some thinking."
     },
     {
         "MessageId": 100730100,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "いつも前向きに、とはいかないかもしれませんが……",
         "MessageKR": "뭐 약속까지는 아니지만",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔，雖然不能算是承諾……",
+        "MessageEN": "I don't want to make any promises,"
     },
     {
         "MessageId": 100730101,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "なにか見つけたら",
         "MessageKR": "뭔가 찾거나 보게 되면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但如果有找到什麼的話",
+        "MessageEN": "but if I find or see anything,"
     },
     {
         "MessageId": 100730102,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "連絡しますね",
         "MessageKR": "말씀드릴게요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我會聯絡你的",
+        "MessageEN": "I'll let you know."
     },
     {
         "MessageId": 100730110,
@@ -231,7 +231,7 @@
         "ImagePath": "",
         "MessageJP": "せっかく、遠くに来たのですから",
         "MessageKR": "이왕 여기까지 왔으니까요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "畢竟都大老遠跑來這裡了",
+        "MessageEN": "I'm here anyway, after all."
     }
 ]

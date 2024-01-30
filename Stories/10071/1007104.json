@@ -38,7 +38,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "現在時刻は0600。負傷者0名、引き続き――",
-        "MessageKR": "현재 시각 0600 시. 사고 및 작전으로 인한 결원 없음—",
+        "MessageKR": "현재 시각 0600시. 사고 및 작전으로 인한 결원 없음—",
         "MessageTW": "現在時間0600。\n負傷人數為0，請繼續──",
         "MessageEN": "Current time is 0600 hours. All squad members are accounted for."
     },

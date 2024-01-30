@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、",
         "MessageKR": "선생님?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei?"
     },
     {
         "MessageId": 200290020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "海に出かける準備はお済みですか？",
         "MessageKR": "오늘 해변가로 나갈 준비, 다 되셨죠?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天去海邊的準備完成了嗎？",
+        "MessageEN": "Are you ready to head to the beach?"
     },
     {
         "MessageId": 200290030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "えっと、私は何を持っていけば……",
         "MessageKR": "음…… 그런데 난 뭘 준비해야 할지……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯……話說我該準備什麼才好呢……",
+        "MessageEN": "Hmm... What should I bring..."
     },
     {
         "MessageId": 200290040,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "ふふっ、大丈夫です",
         "MessageKR": "후훗. 괜찮답니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵。沒關係的",
+        "MessageEN": "Please, don't worry about it!"
     },
     {
         "MessageId": 200290041,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "持ち物は私が用意しましたので、先生は心の準備をしていらしてください",
         "MessageKR": "웬만한 것은 제가 준비해 둘 테니, 선생님께서는 몸만 오시면 돼요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "基本的東西我會準備好，老師只要人來就行了",
+        "MessageEN": "I'll bring everything we need, so you just bring yourself."
     },
     {
         "MessageId": 200290042,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "あ……それと、自分の水着もお持ちくださいね",
         "MessageKR": "아, 그래도…… 수영복은 직접 준비해 주세요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，不過……泳裝還是要請老師自己準備唷？",
+        "MessageEN": "Well, yourself and your own swimsuit."
     },
     {
         "MessageId": 200290050,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "さ、流石にそれくらいは……",
         "MessageKR": "그건 당연한 거잖아……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那不是當然的嗎……",
+        "MessageEN": "Of course..."
     },
     {
         "MessageId": 200290060,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "ふふっ。では、私の部屋の前でお会いしましょう",
         "MessageKR": "네. 그러면 제 방문 앞에서 뵈어요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵，那就在我的房間前碰面吧",
+        "MessageEN": "Okay, I'll see you in front of my room."
     },
     {
         "MessageId": 200290070,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "お待ちしております",
         "MessageKR": "기다리고 있겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我會等著您的",
+        "MessageEN": "I'll be waiting!"
     },
     {
         "MessageId": 200280087,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "日光浴はいかがでしたか、先生？",
         "MessageKR": "일광욕은 마음에 드셨나요, 선생님?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "對日光浴還滿意嗎，老師？",
+        "MessageEN": "Did you enjoy sunbathing, Sensei?"
     },
     {
         "MessageId": 200290090,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "生きてて良かった……",
         "MessageKR": "너무 마음에 들어서 문제였던 것 같아……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "問題是好像太滿意了……",
+        "MessageEN": "I think I enjoyed it too much..."
     },
     {
         "MessageId": 200290100,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "はい……？えっと、体調は大丈夫でしょうか？",
         "MessageKR": "네? 그건 무슨 말씀이신지……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？那是什麼意思……？",
+        "MessageEN": "Oh? What do you mean?"
     },
     {
         "MessageId": 200290101,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "お水、忘れずに飲んでから寝てくださいね",
         "MessageKR": "저…… 어쨌든 어딘가 아프다거나 하신 건 아니죠?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個……應該不是哪裡不舒服吧？",
+        "MessageEN": "Ah, you're not in pain, are you?"
     },
     {
         "MessageId": 200290110,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "ミモリのおかげで、もう元気だよ！",
         "MessageKR": "미모리 덕분에 완전 괜찮아! ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "託三森的福，完全沒問題！",
+        "MessageEN": "I'm doing great thanks to you, Mimori! "
     },
     {
         "MessageId": 200290120,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "ふふっ、それなら良かったです",
         "MessageKR": "네? 후훗. 그렇다면 다행이네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是嗎？呵呵，那真是太好了",
+        "MessageEN": "Really? Heehee! I'm glad to hear that."
     },
     {
         "MessageId": 200290130,
@@ -219,7 +219,7 @@
         "ImagePath": "",
         "MessageJP": "では、また後でお会いしましょう",
         "MessageKR": "그럼, 또 나중에.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼下次再見",
+        "MessageEN": "Let's chat again soon!"
     }
 ]

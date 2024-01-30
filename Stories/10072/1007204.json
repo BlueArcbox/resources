@@ -50,7 +50,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "いろいろ食べさせてもらったよ？",
-        "MessageKR": "진귀한 해산물 요리라면 충분히 먹었는 걸?",
+        "MessageKR": "진귀한 해산물 요리라면 충분히 먹었는걸?",
         "MessageTW": "我已經吃很多了唷？",
         "MessageEN": "I've had plenty of delicious seafood thanks to you!"
     },
@@ -110,7 +110,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "先生には、あれだけ付き合ってもらったのに……",
-        "MessageKR": "오히려 선생님이 어울려 준 시간을 생각하면 대단찮은 것 뿐이었는데……",
+        "MessageKR": "오히려 선생님이 어울려 준 시간을 생각하면 대단찮은 것뿐이었는데……",
         "MessageTW": "明明讓老師陪了我這麼久……",
         "MessageEN": "After all the time you wasted with me, you should have gotten something better..."
     },

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "せっかくの大運動会ですので",
         "MessageKR": "이런 시기이기도 하니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "畢竟是不可多得的大運動會",
+        "MessageEN": "You know, come to think of it"
     },
     {
         "MessageId": 200300220,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "私も競技に参加してみようと思います",
         "MessageKR": "저도 경기에 참가해 보려 합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我也想試著參加比賽",
+        "MessageEN": "maybe I should join in on the competition."
     },
     {
         "MessageId": 200300230,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ハルナが！？",
         "MessageKR": "하루나가?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "羽留奈嗎！？",
+        "MessageEN": "You want to join?"
     },
     {
         "MessageId": 200300240,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "ふふふ",
         "MessageKR": "후후후",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵呵",
+        "MessageEN": "Heeheehee."
     },
     {
         "MessageId": 200300250,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "先生が応援してくださったら",
         "MessageKR": "선생님께서 응원해 주신다면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果老師願意為我加油",
+        "MessageEN": "If you cheer me on, Sensei,"
     },
     {
         "MessageId": 200300251,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "この上なく頑張れそうですわ",
         "MessageKR": "더할 나위 없이 힘이 날 것 같네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "似乎就能發揮出無限的潛力呢",
+        "MessageEN": "I think I'll do great."
     },
     {
         "MessageId": 200300260,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "全力で応援するよ",
         "MessageKR": "꼭 응원할게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我一定會為你加油",
+        "MessageEN": "I'll be sure to cheer you on."
     },
     {
         "MessageId": 200300270,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとうございます。では、競技場でお会いしましょう",
         "MessageKR": "그러면, 경기장에서 뵙죠.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼，在競賽場上見吧",
+        "MessageEN": "In that case, I'll see you on the field."
     },
     {
         "MessageId": 200290287,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "久々に身体を動かせて、楽しかったですわ",
         "MessageKR": "간만에 몸을 움직이는 것은, 즐거운 경험이었습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "久違活動身體，真是相當愉快",
+        "MessageEN": "It was fun to finally get some exercise in."
     },
     {
         "MessageId": 200300290,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "お陰でいつもよりお腹が空いてしまいました",
         "MessageKR": "그 덕에 평소보다 조금 더, 식욕이 돌기도 했고요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "拜其所賜，食慾似乎也比平常更好",
+        "MessageEN": "I've actually worked up a bit of an appetite."
     },
     {
         "MessageId": 200300300,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "運動って大事だよね",
         "MessageKR": "운동은 중요하지. 음.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "運動是很重要的，嗯",
+        "MessageEN": "Exercise is important, isn't it?"
     },
     {
         "MessageId": 200300310,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "それでなのですが……",
         "MessageKR": "그래서 말인데요. 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以，老師",
+        "MessageEN": "Sensei, I was thinking..."
     },
     {
         "MessageId": 200300311,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "今夜、少々お時間をいただいてもよろしいでしょうか？",
         "MessageKR": "오늘 저녁, 저를 위해 시간을 내어 주실 수 있을까요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天傍晚，能占用您一些時間嗎？",
+        "MessageEN": "Do you think you can make some time for me tonight, for dinner?"
     },
     {
         "MessageId": 200300320,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "うん。もちろん",
         "MessageKR": "응. 그렇게 할게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，當然",
+        "MessageEN": "Sure, I can do that."
     },
     {
         "MessageId": 200300330,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "嬉しいですわ",
         "MessageKR": "다행이군요. 기쁘네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那真是令人高興",
+        "MessageEN": "I'm glad to hear it."
     },
     {
         "MessageId": 200300331,
@@ -219,7 +219,7 @@
         "ImagePath": "",
         "MessageJP": "美食の真髄、見せて差し上げますわね",
         "MessageKR": "미식연구회의 진수, 보여드리도록 하겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "美食研究會的精髓，就讓老師您見識見識吧",
+        "MessageEN": "I will show you what the Gourmet Research Society is capable of."
     }
 ]

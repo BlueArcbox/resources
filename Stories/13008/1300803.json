@@ -219,7 +219,7 @@
         "ImagePath": "",
         "MessageJP": "うああああああ？！なんでこんなのが撮れてるの！？",
         "MessageKR": "으아아아아아아?! 저게 왜 찍혔어?",
-        "MessageTW": "哇啊啊啊啊啊啊？！為什麼會拍到這個！？",
+        "MessageTW": "哇啊啊啊啊啊啊！？為什麼會拍到這個！？",
         "MessageEN": "Ahhhhh! How did you get that photo? "
     },
     {
@@ -231,7 +231,7 @@
         "ImagePath": "",
         "MessageJP": "み、見ないで！見るなぁ！",
         "MessageKR": "보, 보지 마! 보지마!",
-        "MessageTW": "別，別看！別看啊！",
+        "MessageTW": "別，別看！不准看！",
         "MessageEN": "D-Don't look! Don't look!"
     },
     {
@@ -267,7 +267,7 @@
         "ImagePath": "",
         "MessageJP": "ちゃんと消したかどうかあとで確認するからね！！",
         "MessageKR": "나중에 검사할 거야??",
-        "MessageTW": "我待會兒會確認有沒有好好刪除掉！！！",
+        "MessageTW": "我之後會檢查有沒有刪掉哦！！！",
         "MessageEN": "I'm gonna check it later!"
     },
     {

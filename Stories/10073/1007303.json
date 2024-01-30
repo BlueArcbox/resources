@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 100730280,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今から少し、よろしいでしょうか",
         "MessageKR": "혹시 시간 좀 괜찮으실까요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請問現在有空嗎？",
+        "MessageEN": "Are you free, by any chance?"
     },
     {
         "MessageId": 100730281,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "あ",
         "MessageKR": "꽤 늦은 시간이긴 하지만…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然時間已經很晚了",
+        "MessageEN": "I know it's a little late, but..."
     },
     {
         "MessageId": 100730290,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "す、すみません",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah..."
     },
     {
         "MessageId": 100730300,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "もうこんな時間だというのに……",
         "MessageKR": "역시 아니에요. 괜찮습니다…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不行的話真的沒關係……",
+        "MessageEN": "Never mind. It's fine."
     },
     {
         "MessageId": 100730310,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "大丈夫だよ、どこに行けばいい？",
         "MessageKR": "괜찮은데? 지금 어디?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有空哦，你現在在哪裡？",
+        "MessageEN": "I have time. Where are you?"
     },
     {
         "MessageId": 100730310,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ウイの頼みなら、いつでも駆けつけるよ",
         "MessageKR": "우이가 부르면 가야지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "憂有事找我的話，任何時候都會飛奔過去的",
+        "MessageEN": "If you need me, I'll be there."
     },
     {
         "MessageId": 100730320,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "ふふ……",
         "MessageKR": "흐",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗚",
+        "MessageEN": "Hmm."
     },
     {
         "MessageId": 100730330,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとうございます",
         "MessageKR": "뭔가 죄송하네요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真不好意思",
+        "MessageEN": "I feel bad."
     },
     {
         "MessageId": 100730331,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "では、その……",
         "MessageKR": "눈치 드리려던 게 아닌데…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我沒有想強迫老師的意思",
+        "MessageEN": "I don't want to take up your time, but..."
     },
     {
         "MessageId": 100730340,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "海にいるので、来ていただけると",
         "MessageKR": "아무튼 네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個，嗯",
+        "MessageEN": "Well, all right."
     },
     {
         "MessageId": 100730350,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "お待ちしています",
         "MessageKR": "기다리고 있겠습니다…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我在海邊等你",
+        "MessageEN": "I'll be waiting for you..."
     },
     {
         "MessageId": 100720367,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "その",
         "MessageKR": "음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個",
+        "MessageEN": "Hmm..."
     },
     {
         "MessageId": 100730370,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "先ほどは、おかしな発言を……",
         "MessageKR": "아까는 무슨 배짱으로 그런 소리들을 했나 싶은데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "剛才說了一些奇怪的話",
+        "MessageEN": "I don't know what possessed me to say those things earlier."
     },
     {
         "MessageId": 100730371,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "冷静になったら",
         "MessageKR": "돌아와서 생각해 보니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "冷靜之後回想起來",
+        "MessageEN": "Looking back on it,"
     },
     {
         "MessageId": 100730380,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "私は何を言っていたのかと……",
         "MessageKR": "제정신이 아니었던 것 같네요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "剛剛腦袋好像不太清醒……",
+        "MessageEN": "I'm not sure I was in my right mind."
     },
     {
         "MessageId": 100730381,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "忘れてください、本当に",
         "MessageKR": "잊어 주셨으면 해요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請忘記我剛才說的話吧",
+        "MessageEN": "Please forget what I said."
     },
     {
         "MessageId": 100730390,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "きっと、夏だからね",
         "MessageKR": "그럴 수도 있지, 여름밤인데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "畢竟是夏天的晚上啊",
+        "MessageEN": "Don't sweat it. That's part of the summer."
     },
     {
         "MessageId": 100730390,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "でも、そんなウイも可愛かったよ",
         "MessageKR": "그럴 땐 제정신이면 재미없는 법이야",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要是太清醒就沒意思了",
+        "MessageEN": "It's no fun to be in your right mind at times like these."
     },
     {
         "MessageId": 100730400,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "またそんなセリフを、よく恥ずかしげもなく……",
         "MessageKR": "그렇게 나오시는군요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "居然是這種反應啊",
+        "MessageEN": "That's not the answer I was expecting..."
     },
     {
         "MessageId": 100730410,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "やっぱり先生には",
         "MessageKR": "역시 선생님한테는",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "果然在面對老師的時候",
+        "MessageEN": "For you, Sensei,"
     },
     {
         "MessageId": 100730411,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "甘さ控えめくらいが、ちょうど良いですね",
         "MessageKR": "단맛을 좀 더 줄여도 될 거 같",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "稍微控制一下甜度比較適合",
+        "MessageEN": "I think I should reduce the sweetness."
     },
     {
         "MessageId": 100730420,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "それとも……",
         "MessageKR": "아니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還是說……",
+        "MessageEN": "Actually..."
     },
     {
         "MessageId": 100730430,
@@ -315,7 +315,7 @@
         "ImagePath": "",
         "MessageJP": "ノンシュガーをご希望ですか？",
         "MessageKR": "아예 무설탕으로 가야 할지도요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師比較喜歡無糖呢？",
+        "MessageEN": "Perhaps I should go completely sugar free."
     }
 ]

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "復～讐～だ～",
         "MessageKR": "복\\~ 수\\~ 다\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我～要～報～仇～",
+        "MessageEN": "REVENGE!!"
     },
     {
         "MessageId": 100750170,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "不穏なメッセージが……",
         "MessageKR": "위험한 메시지다……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "傳來了不詳的訊息……",
+        "MessageEN": "Scary..."
     },
     {
         "MessageId": 100750180,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "あの時の恨み",
         "MessageKR": "그때의 원한. ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當時的怨念",
+        "MessageEN": "I've got an axe to grind! "
     },
     {
         "MessageId": 100750181,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "はらさでおくべきか～～～",
         "MessageKR": "잊을 거라고 생각하였느냐\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "以為我會忘記嗎～",
+        "MessageEN": "You didn't think I'd forget, did you?"
     },
     {
         "MessageId": 100750190,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "メルって案外根に持つタイプだったんだね……",
         "MessageKR": "쳇. 조용히 넘어갈 수 있을 줄 알았는데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呿，還以為可以悄悄一筆帶過",
+        "MessageEN": "Heh. I kind of hoped you would."
     },
     {
         "MessageId": 100750200,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "なかった事になんてさせないんだから！",
         "MessageKR": "어림없지!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "想都別想！",
+        "MessageEN": "Not a chance!"
     },
     {
         "MessageId": 100750201,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "借りはすぐに返さないと気が済まない！それが私、姫木メル！",
         "MessageKR": "나 히메키 메루. 빚지고는 못 산다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我姬木愛瑠，絕對有借有還！",
+        "MessageEN": "I, Himeki Meru, always repay my debts!"
     },
     {
         "MessageId": 100750210,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "見てなさい……",
         "MessageKR": "두고 보라고, 선생.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "等著看吧，老師",
+        "MessageEN": "Just you watch, Sensei."
     },
     {
         "MessageId": 100750211,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "今日は私が先生を振り回してやるんだから！",
         "MessageKR": "오늘은 내가 선생을 마음대로 끌고 다닐 테니까!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天一定會隨心所欲地拉著老師到處跑！",
+        "MessageEN": "I'll drag you wherever I want today."
     },
     {
         "MessageId": 100740227,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "ふっかーつ！",
         "MessageKR": "부\\~ 활\\~ 했\\~ 도\\~ 다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "復～活～了！",
+        "MessageEN": "I LIVE!"
     },
     {
         "MessageId": 100750230,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "よかったよかった",
         "MessageKR": "다행이구만\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "太好了～",
+        "MessageEN": "Glad to hear it."
     },
     {
         "MessageId": 100750240,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "だから他人事みたいに言うんじゃない！",
         "MessageKR": "남의 일처럼 이야기하지 말라고……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不要說得好像別人的事一樣……",
+        "MessageEN": "Don't you give me that aloof attitude..."
     },
     {
         "MessageId": 100750241,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "今日のことは、先生にもちょっと責任があるんだけど……",
         "MessageKR": "오늘 일은 선생에게도 조금은 책임이 있으니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天的事，老師也要負一點責任",
+        "MessageEN": "You're partially to blame for what happened today."
     },
     {
         "MessageId": 100750250,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "どうして！？",
         "MessageKR": "내가 왜!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "為什麼！",
+        "MessageEN": "What did I do now?!"
     },
     {
         "MessageId": 100750260,
@@ -207,7 +207,7 @@
         "ImagePath": "",
         "MessageJP": "あるって言ったらあるの！",
         "MessageKR": "그렇다면 그런 줄 알아!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我說要就是要！",
+        "MessageEN": "Don't deny it!"
     }
 ]

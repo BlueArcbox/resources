@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 160130130,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今度はどこにいるの？",
         "MessageKR": "지금 어디야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你現在在哪裡？",
+        "MessageEN": "Where are you right now?"
     },
     {
         "MessageId": 160130131,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "あ、いや……それよりも",
         "MessageKR": "아니아니, 그건 중요하지 않지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，不對，比起這個……",
+        "MessageEN": "Wait, no. That's not important."
     },
     {
         "MessageId": 160130140,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "こっちに来て！",
         "MessageKR": "지금 이쪽으로 와 봐!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "來找我！",
+        "MessageEN": "Just come here! Right now!"
     },
     {
         "MessageId": 160130141,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "今すぐ！！",
         "MessageKR": "빨리!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在馬上！！",
+        "MessageEN": "Hurry!"
     },
     {
         "MessageId": 160130150,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "コハル？",
         "MessageKR": "코하루?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "小春？",
+        "MessageEN": "Koharu?"
     },
     {
         "MessageId": 160130150,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "どうしたの？",
         "MessageKR": "무슨 일이야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼了？",
+        "MessageEN": "What's up?"
     },
     {
         "MessageId": 160130160,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "説明はあと！",
         "MessageKR": "설명은 나중에",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "之後再跟你解釋！",
+        "MessageEN": "I'll explain later."
     },
     {
         "MessageId": 160130161,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "場所はいま送るから",
         "MessageKR": "장소는 내가 보내줄 테니까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我會把地點傳給你",
+        "MessageEN": "I'm sending you my location."
     },
     {
         "MessageId": 160130170,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "早く！",
         "MessageKR": "빨리",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "快點！",
+        "MessageEN": "Hurry"
     },
     {
         "MessageId": 160130171,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "急いで！！！",
         "MessageKR": "빨리!!!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "快點快點！！！！",
+        "MessageEN": "Hurry!!"
     },
     {
         "MessageId": 160120187,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "先生\u200b",
         "MessageKR": "선생님\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師\u200b",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 160130190,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "今日のことは誰にも言わないで",
         "MessageKR": "오늘 일은 아무한테도 이야기하지 마",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天的事別告訴任何人",
+        "MessageEN": "Don't tell anyone about what happened today."
     },
     {
         "MessageId": 160130200,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "特に、その……",
         "MessageKR": "특히 내가 그",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "尤其是",
+        "MessageEN": "Especially that..."
     },
     {
         "MessageId": 160130201,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "私が泣いちゃったのとか",
         "MessageKR": "울었다던가",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我哭了之類的事",
+        "MessageEN": "I cried."
     },
     {
         "MessageId": 160130210,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "絶対、絶対に言ったらダメだからね？",
         "MessageKR": "아무튼 절대 그런 이야기 하면 안 돼. 알았지!?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "絕對，絕對不能說出去知道嗎！？",
+        "MessageEN": "You can't tell anyone, got it?!"
     },
     {
         "MessageId": 160130211,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "分かった？もし言ったら死刑よ！",
         "MessageKR": "사형이야!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "說了就是死刑哦！",
+        "MessageEN": "You'll get the death penalty!"
     },
     {
         "MessageId": 160130220,
@@ -243,7 +243,7 @@
         "ImagePath": "",
         "MessageJP": "本当に死刑なんだから！！！",
         "MessageKR": "진짜 사형이니까!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真的死刑哦！！",
+        "MessageEN": "The real death penalty!!"
     }
 ]
