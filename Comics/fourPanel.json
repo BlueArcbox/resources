@@ -1433,5 +1433,26 @@
             }
         ],
         "pictures_count": 2
+    },
+    {
+        "dynamic_id": 893471218978521095,
+        "description": "【国际服资讯】【官方四格漫画第119话】\n▎「春」心荡漾\n过多联想的小春\n过度大方的花子\n\n过于相似的造型...\n\n#碧蓝档案漫画连载中# #第119话# \n#蔚蓝档案# #碧蓝档案# #BlueArchive#",
+        "pictures": [
+            {
+                "img_height": 1252,
+                "img_size": 541.9400024414062,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/3a62c4db87d731ce6afc113b77db476d37507923.jpg",
+                "img_tags": null,
+                "img_width": 800
+            },
+            {
+                "img_height": 680,
+                "img_size": 130.1499938964844,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/28263526da004dc70497810a0c2084c737507923.jpg",
+                "img_tags": null,
+                "img_width": 800
+            }
+        ],
+        "pictures_count": 2
     }
 ]
