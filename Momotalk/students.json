@@ -54,7 +54,7 @@
         "Id": 10004,
         "Avatar": [
             "https://static.wikia.nocookie.net/blue-archive/images/a/a0/Hina_Icon.png",
-            "https://static.wikia.nocookie.net/blue-archive/images/9/9e/Hina_Pajamas_Icon.png"
+            "https://static.wikia.nocookie.net/blue-archive/images/b/bf/Hina_Nightwear_Icon.png"
         ],
         "Bio": {
             "zh": "",
@@ -2036,7 +2036,10 @@
     },
     {
         "Id": 13013,
-        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/a/a9/Momiji_Icon.png"],
+        "Avatar": [
+            "https://static.wikia.nocookie.net/blue-archive/images/a/a9/Momiji_Icon.png",
+            "https://static.wikia.nocookie.net/blue-archive/images/d/d7/Momiji_Old_Icon.png"
+        ],
         "Bio": {
             "zh": "知识就是力量。我会好好保护它的！",
             "jp": "知識は力。ちゃんと守っていきます！",
@@ -2247,7 +2250,8 @@
         "Id": 16014,
         "Avatar": [
             "https://static.wikia.nocookie.net/blue-archive/images/3/36/Ibuki_Icon.png",
-            "https://static.wikia.nocookie.net/blue-archive/images/b/ba/Ibuki_Dress_Icon.png"
+            "https://static.wikia.nocookie.net/blue-archive/images/b/ba/Ibuki_Dress_Icon.png",
+            "https://static.wikia.nocookie.net/blue-archive/images/7/72/Ibuki_Old_Icon.png"
         ],
         "Bio": {
             "zh": "格赫娜学园的伊吹！",
