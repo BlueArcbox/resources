@@ -18,7 +18,7 @@
             "tw": "吃不下這麼多了……",
             "en": "I can't eat this much..."
         },
-        "Nickname": ["Arona", "阿罗娜", "彩奈"],
+        "Nickname": ["Arona", "阿罗娜", "彩奈", "蓝色恶魔"],
         "School": "ETC"
     },
     {
@@ -119,7 +119,7 @@
             "tw": "我的外賣到了，稍後再聯絡你！",
             "en": "My lunch delivery has arrived, so I'll contact you again!"
         },
-        "Nickname": ["Momoka", "明太子"],
+        "Nickname": ["Momoka", "明太子", "毛毛力"],
         "School": "ETC"
     },
     {
@@ -138,7 +138,7 @@
             "tw": "誰在乎規則，對吧！?",
             "en": "Who cares about the rules, am I right!?"
         },
-        "Nickname": ["Kaya", "卡娅"],
+        "Nickname": ["Kaya", "卡娅", "大花老师", "花小将"],
         "School": "ETC"
     },
     {
@@ -160,7 +160,7 @@
             "tw": "我希望能夠像老師一樣工作……",
             "en": "I want to be able to do work more like Sensei..."
         },
-        "Nickname": ["Ayumu"],
+        "Nickname": ["Ayumu", "20钻"],
         "School": "ETC"
     },
     {
@@ -228,7 +228,10 @@
             "tw": "夢",
             "en": "Yume"
         },
-        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/9/97/Hoshino_Past_2.png"],
+        "Avatar": [
+            "/api/Avatars/Yume_2.webp",
+            "https://static.wikia.nocookie.net/blue-archive/images/9/97/Hoshino_Past_2.png"
+        ],
         "Bio": {
             "zh": "…与你共度时光感觉像是一个奇迹",
             "jp": "…君と過ごす時間は奇跡",
@@ -257,7 +260,7 @@
             "tw": "正如預定的命運，基沃托斯將走向滅亡",
             "en": "As was planned, Kivotos shall reach its demise."
         },
-        "Nickname": ["Shiroko_Terror"],
+        "Nickname": ["Shiroko_Terror", "黑子", "大白子", "白子*恐怖"],
         "School": "Abydos"
     },
     {
@@ -295,15 +298,15 @@
     {
         "Id": 159,
         "Name": {
-            "zh": "绘梨香",
+            "zh": "绘里香",
             "jp": "エリカ",
-            "tw": "繪梨香",
+            "tw": "繪里香",
             "en": "Erika",
             "kr": "에리카"
         },
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/d/d3/Erika_Icon.png"],
         "Bio": {},
-        "Nickname": ["Erika", "艾丽卡"],
+        "Nickname": ["Erika", "艾丽卡", "绘梨香"],
         "School": "Gehenna"
     },
     {
@@ -336,7 +339,7 @@
             "tw": "我並不是在說喜歡或不喜歡...只是事實",
             "en": "I am not speaking of likes or dislikes... only facts"
         },
-        "Nickname": ["Rio", "理绪", "莉央"],
+        "Nickname": ["Rio", "理绪", "莉央", "毁灭菇"],
         "School": "Millennium"
     },
     {
@@ -374,15 +377,15 @@
     {
         "Id": 126,
         "Name": {
-            "zh": "妮娅",
+            "zh": "尼娅",
             "jp": "ニヤ",
-            "tw": "妮亞",
+            "tw": "尼亞",
             "en": "Nia",
             "kr": "니야"
         },
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/c/c5/Niya_Icon.png"],
         "Bio": {},
-        "Nickname": ["Niya", "尼娅"],
+        "Nickname": ["Niya", "妮娅"],
         "School": "Hyakkiyako"
     },
     {

@@ -110,6 +110,7 @@
     },
     {
         "Id": 10008,
+        "Name": "妮禄",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/0/0f/Neru_Icon.png"],
         "Bio": {
             "zh": "啊啊！？",
@@ -367,6 +368,7 @@
     },
     {
         "Id": 16002,
+        "Name": "小鸟",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/9/93/Kotori_Icon.png"],
         "Bio": {
             "zh": "赞叹微波吧！",
@@ -375,7 +377,7 @@
             "en": "Praise high frequency!",
             "kr": "초고주파를 찬양하라!"
         },
-        "Nickname": ["亚都梨", "小鸟", "琴里", "盾妹"]
+        "Nickname": ["亚都梨", "琴里", "盾妹"]
     },
     {
         "Id": 16003,
@@ -545,6 +547,7 @@
     },
     {
         "Id": 26002,
+        "Name": "朱莉",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/1/15/Juri_Icon.png"],
         "Bio": {
             "zh": "今天也要全力以赴进行料理的练习！",
@@ -553,7 +556,7 @@
             "en": "Practice makes perfect!",
             "kr": "오늘도 열심히 요리연습!"
         },
-        "Nickname": ["朱莉"]
+        "Nickname": ["朱莉", "茱莉", "毒锅"]
     },
     {
         "Id": 26003,
@@ -902,6 +905,7 @@
     },
     {
         "Id": 10026,
+        "Name": "妮禄（兔女郎）",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/1/1e/Neru_Bunny_Girl_Icon.png"],
         "Bio": {
             "zh": "看什么看",
@@ -1137,6 +1141,7 @@
     },
     {
         "Id": 10034,
+        "Name": "弥守",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/8/84/Mimori_Icon.png"],
         "Bio": {
             "zh": "每天踏实，一步一步",
@@ -1145,7 +1150,7 @@
             "en": "Take one step at a time.",
             "kr": "매일, 한 걸음씩만 더."
         },
-        "Nickname": ["大和抚子"]
+        "Nickname": ["大和抚子", "三森"]
     },
     {
         "Id": 10035,
@@ -1173,6 +1178,7 @@
     },
     {
         "Id": 10037,
+        "Name": "玛丽娜",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/b/b0/Marina_Icon.png"],
         "Bio": {
             "zh": "叛逆者通通肃清！",
@@ -1181,7 +1187,7 @@
             "en": "The impure must be purged!",
             "kr": "불순분자는 숙청이다!"
         },
-        "Nickname": ["玛丽娜", "保洁大妈", "保洁阿姨"]
+        "Nickname": ["玛利娜", "保洁大妈", "保洁阿姨"]
     },
     {
         "Id": 10038,
@@ -1863,6 +1869,7 @@
     },
     {
         "Id": 10069,
+        "Name": "留美",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/b/bc/Rumi_Icon.png"],
         "Bio": {
             "zh": "玄武商会，正在营业中",
@@ -1871,10 +1878,11 @@
             "en": "The Black Tortoise Promenade, open for business!",
             "kr": "현무상회, 영업 중입니다."
         },
-        "Nickname": ["厨子", "厨师", "大厨", "炒饭"]
+        "Nickname": ["厨子", "厨师", "大厨", "炒饭", "瑠美", "留美"]
     },
     {
         "Id": 10070,
+        "Name": "南",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/8/8f/Mina_Icon.png"],
         "Bio": {
             "zh": "能听到风声啊……",
@@ -1887,6 +1895,7 @@
     },
     {
         "Id": 20026,
+        "Name": "实梨",
         "Avatar": [
             "https://static.wikia.nocookie.net/blue-archive/images/4/43/Minori_Icon.png",
             "https://static.wikia.nocookie.net/blue-archive/images/e/e2/Minori_Old_Icon.png"
@@ -1898,7 +1907,7 @@
             "en": "We Deserve a 3 Day Work Week!",
             "kr": "총학생회는 주 3일 노동을 허가하라!"
         },
-        "Nickname": ["扩音器", "大喇叭", "游行", "工头", "美乃里", "实乃里", "实里"]
+        "Nickname": ["扩音器", "大喇叭", "游行", "工头", "美乃里", "实乃里", "实里", "实梨"]
     },
     {
         "Id": 10071,
@@ -2006,6 +2015,7 @@
     },
     {
         "Id": 20029,
+        "Name": "弥守（泳装）",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/2/2d/Mimori_Swimsuit_Icon.png"],
         "Bio": {
             "zh": "总觉得，会有什么好事发生",
@@ -2019,6 +2029,7 @@
     },
     {
         "Id": 10075,
+        "Name": "梅露",
         "Avatar": [
             "/api/Avatars/Meru_Hot_Spring.webp",
             "https://static.wikia.nocookie.net/blue-archive/images/2/2b/Meru_Icon.png",
@@ -2032,7 +2043,7 @@
             "en": "The hard part about drawing is that sometimes you have to say nonsense.",
             "kr": "그림이 힘든 것은, 주기적으로 헛소리를 해야 하기 때문"
         },
-        "Nickname": ["梅露", "爱瑠"]
+        "Nickname": ["芽瑠", "爱瑠", "梅露"]
     },
     {
         "Id": 13013,
@@ -2051,6 +2062,7 @@
     },
     {
         "Id": 10076,
+        "Name": "小鸟（应援团）",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/b/bb/Kotori_Cheerleader_Icon.png"],
         "Bio": {
             "zh": "健全的知识寓于健康的身体！",
@@ -2143,6 +2155,7 @@
     },
     {
         "Id": 10081,
+        "Name": "紫",
         "Avatar": [
             "/api/Avatars/Yukari.webp",
             "https://static.wikia.nocookie.net/blue-archive/images/3/3f/Yukari_Icon.png",
@@ -2154,7 +2167,7 @@
             "kr": "선생님! 소녀도 모모톡에 가입했사와요!"
         },
         "Nickname": [
-            "紫",
+            "紫草",
             "紫蓠",
             "紫璃",
             "缘里",
