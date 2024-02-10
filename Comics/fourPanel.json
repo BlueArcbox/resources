@@ -1454,5 +1454,26 @@
             }
         ],
         "pictures_count": 2
+    },
+    {
+        "dynamic_id": 896066014914019346,
+        "description": "【国际服资讯】【官方四格漫画第120话】 \n▎图书委员会的基本素养\n​\n偶而晒晒太阳补充维生素D\n也是很不错的!\n\n户外看书又可以进行光合作用，一举两得！\n\n#碧蓝档案漫画连载中##第120话##蔚蓝档案##碧蓝档案##BlueArchive#",
+        "pictures": [
+            {
+                "img_height": 1252,
+                "img_size": 231.0927734375,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/13564acf640266efee7d88582ae73ec637507923.jpg",
+                "img_tags": null,
+                "img_width": 800
+            },
+            {
+                "img_height": 553,
+                "img_size": 52.4892578125,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/b83f0a98552346a1b0f1d04151e8b27e37507923.jpg",
+                "img_tags": null,
+                "img_width": 800
+            }
+        ],
+        "pictures_count": 2
     }
 ]
