@@ -1475,5 +1475,26 @@
             }
         ],
         "pictures_count": 2
+    },
+    {
+        "dynamic_id": 898663585365884962,
+        "description": "【国际服资讯】【官方四格漫画第121话】 \n▎园艺训练\n​\n落实运动生活化\n就连种植花草\n菫也可以进行体能训练!\n\n咏叶你还是不要参加比较好...\n\n#碧蓝档案漫画连载中# #第121话# #蔚蓝档案# #碧蓝档案# #BlueArchive#",
+        "pictures": [
+            {
+                "img_height": 1249,
+                "img_size": 279.7001953125,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/d6af310431a470de7ec37574b6aa5ce337507923.jpg",
+                "img_tags": null,
+                "img_width": 800
+            },
+            {
+                "img_height": 533,
+                "img_size": 75.3154296875,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/622b7e552156a98038c58d051b6705bb37507923.jpg",
+                "img_tags": null,
+                "img_width": 800
+            }
+        ],
+        "pictures_count": 2
     }
 ]
