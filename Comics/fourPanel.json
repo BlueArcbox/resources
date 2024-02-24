@@ -1496,5 +1496,26 @@
             }
         ],
         "pictures_count": 2
+    },
+    {
+        "dynamic_id": 901260176570449941,
+        "description": "【国际服资讯】【官方四格漫画第122话】 \n▎这是...推理吧?\n​\n要成为出色的淑女\n这点观察细微又体贴的关心\n是必要的能力之一\n\n只要有行动就有结果，三森已经看穿一切了！\n\n#碧蓝档案漫画连载中# #第122话# #蔚蓝档案# #碧蓝档案# #BlueArchive#",
+        "pictures": [
+            {
+                "img_height": 1252,
+                "img_size": 476.0185546875,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/595f6c87764eaad10c62b3d2675addfa37507923.jpg",
+                "img_tags": null,
+                "img_width": 800
+            },
+            {
+                "img_height": 502,
+                "img_size": 125.58984375,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/125e335d7c8f68987ed6caa74ad5f1b337507923.jpg",
+                "img_tags": null,
+                "img_width": 800
+            }
+        ],
+        "pictures_count": 2
     }
 ]
