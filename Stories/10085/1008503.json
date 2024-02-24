@@ -86,7 +86,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "一体……？",
-        "MessageKR": "어떤 문제인지 새삼 궁금해지는 걸.",
+        "MessageKR": "어떤 문제인지 새삼 궁금해지는걸.",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -242,7 +242,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "まあ今回は、お詫びなんて無くても良かったけど",
-        "MessageKR": "솔직히 이번 만큼은 그렇게 손해 본 기분은 아니었어서",
+        "MessageKR": "솔직히 이번만큼은 그렇게 손해 본 기분은 아니었어서",
         "MessageTW": "",
         "MessageEN": ""
     },

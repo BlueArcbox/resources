@@ -134,7 +134,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "ああもう！",
-        "MessageKR": "아 열받네 진짜!! 생각해보니까",
+        "MessageKR": "아 열받네 진짜!! 생각해 보니까",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -182,7 +182,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "遅れないでください、これは戦争ですから！",
-        "MessageKR": "늦으면 안돼요! 이건 전쟁이니까!",
+        "MessageKR": "늦으면 안 돼요! 이건 전쟁이니까!",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -326,7 +326,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "先生に選んでいただいたものにしました。このドレスを扱っている店舗に連絡を入れてみたところ",
-        "MessageKR": "선생님이 골라주신 걸로 하기로 했어요.이 드레스를 취급하는 곳이 이곳 한군데 밖에 없어서 연락해봤는데",
+        "MessageKR": "선생님이 골라주신 걸로 하기로 했어요.이 드레스를 취급하는 곳이 이곳 한군데밖에 없어서 연락해 봤는데",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -374,7 +374,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "明日はドレスを受け取りに行くので、遅れないようにお願いしますね",
-        "MessageKR": "아, 맞아. 내일 드레스를 사러 가야하니까, 시간, 늦으시면 안돼요?",
+        "MessageKR": "아, 맞아. 내일 드레스를 사러 가야 하니까, 시간, 늦으시면 안 돼요?",
         "MessageTW": "",
         "MessageEN": ""
     },

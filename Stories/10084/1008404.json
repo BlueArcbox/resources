@@ -50,7 +50,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "もう一度、行く必要があります",
-        "MessageKR": "시간이 생길 때 다시 한 번 산에 다녀와야 할 것 같습니다……",
+        "MessageKR": "시간이 생길 때 다시 한번 산에 다녀와야 할 것 같습니다……",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -74,7 +74,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "いえ、そうではなく……",
-        "MessageKR": "아뇨, 그 쪽의 문제는 아닙니다.",
+        "MessageKR": "아뇨, 그쪽의 문제는 아닙니다.",
         "MessageTW": "",
         "MessageEN": ""
     },

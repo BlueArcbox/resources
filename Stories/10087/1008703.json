@@ -98,7 +98,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "僅かな隙もあってはなりませんから",
-        "MessageKR": "한치의 실수도 있어서는 안되니까요.",
+        "MessageKR": "한 치의 실수도 있어서는 안 되니까요.",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -230,7 +230,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "……大切にしますね",
-        "MessageKR": "선물해준 건…… 소중하게 간직할게요.",
+        "MessageKR": "선물해 준 건…… 소중하게 간직할게요.",
         "MessageTW": "",
         "MessageEN": ""
     },

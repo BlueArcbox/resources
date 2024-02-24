@@ -50,7 +50,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "そんな約束したっけ……",
-        "MessageKR": "그런 약속이 었었던가요…….",
+        "MessageKR": "그런 약속이 있었던가요…….",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -74,7 +74,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "つべこべ言わずに来てください、大人でしょう？",
-        "MessageKR": "잔말말고 따라오세요! 어른이잖아요!",
+        "MessageKR": "잔말 말고 따라오세요! 어른이잖아요!",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -266,7 +266,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "た、たしかに買ったのは私だけど……",
-        "MessageKR": "그건 말야. 아코. 네가 사준 건 맞는데",
+        "MessageKR": "그건 말야. 아코. 내가 사준 건 맞는데",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -338,7 +338,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "あり得ません！！",
-        "MessageKR": "무슨 말도 안되는…… 파렴치한 것도 정도가 있지, 이건 반품이에요! 반품!!",
+        "MessageKR": "무슨 말도 안 되는…… 파렴치한 것도 정도가 있지, 이건 반품이에요! 반품!!",
         "MessageTW": "",
         "MessageEN": ""
     },

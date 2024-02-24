@@ -38,7 +38,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "実は、健康診断の結果が出たの",
-        "MessageKR": "지난 달에 한 건강검사 결과가 나왔는데……",
+        "MessageKR": "지난달에 한 건강검사 결과가 나왔는데……",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -146,7 +146,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "でも下準備が必要だから",
-        "MessageKR": "이걸 실현하려면 여러가지 밑준비가 필요해서……",
+        "MessageKR": "이걸 실현하려면 여러 가지 밑 준비가 필요해서……",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -218,7 +218,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "詳しいことは、その時に",
-        "MessageKR": "자세한 건 그 때 설명할게.",
+        "MessageKR": "자세한 건 그때 설명할게.",
         "MessageTW": "",
         "MessageEN": ""
     },

@@ -26,7 +26,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "この間、雑誌で……",
-        "MessageKR": "얼마전 가십지에서 읽은 정보입니다만……",
+        "MessageKR": "얼마 전 가십지에서 읽은 정보입니다만……",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -38,7 +38,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "「運動不足気味なカップルにオススメ！ライトな運動10選」という特集で",
-        "MessageKR": "연인들이 함께 하기에 가장 좋은 운동으로",
+        "MessageKR": "연인들이 함께하기에 가장 좋은 운동으로",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -86,7 +86,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "練習や特別な準備の必要がないため始めやすく",
-        "MessageKR": "사람이 드문 산의 특성 상",
+        "MessageKR": "사람이 드문 산의 특성상",
         "MessageTW": "",
         "MessageEN": ""
     },

@@ -52,7 +52,7 @@
         "MessageJP": "我がレッドウィンター連邦学園からカムラッドに新たな勲章",
         "MessageKR": "우리 붉은겨울 연방학원에서 콤라드에게",
         "MessageTW": "我等赤冬聯邦學園將授予同志新的勳章",
-        "MessageEN": "the Red Winter Federal Academy has decided to award you..."
+        "MessageEN": "Red Winter Federal Academy has decided to award you..."
     },
     {
         "MessageId": 100170022,
@@ -75,7 +75,7 @@
         "ImagePath": "",
         "MessageJP": "あれ……特別友好章って、この前も貰わなかったっけ？",
         "MessageKR": "특별 학생 우호 훈장은 지난번에도 받지 않았어?",
-        "MessageTW": "啊咧……之前不就給過特別友好章了嗎？",
+        "MessageTW": "咦……特別友好章不是已經拿過了嗎？",
         "MessageEN": "Wait, didn't you get the Special Student Friendship Medal last time too?"
     },
     {
@@ -124,7 +124,7 @@
         "MessageJP": "レッドウィンターでは、学園の発展に大きく貢献した者を表彰するために、",
         "MessageKR": "붉은겨울 연방학원에서는 학원의 발전에 크게 기여한 학생들을 표창하기 위해",
         "MessageTW": "在赤冬，為了表揚對學園發展做出巨大貢獻的人",
-        "MessageEN": "The Red Winter Federal Academy has a total of 247 different medals to"
+        "MessageEN": "Red Winter Federal Academy has a total of 247 different medals to"
     },
     {
         "MessageId": 100170061,

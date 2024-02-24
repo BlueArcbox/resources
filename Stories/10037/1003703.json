@@ -52,7 +52,7 @@
         "MessageJP": "もしかして今は、旧校舎に？",
         "MessageKR": "구교사로 가게 된 거야?",
         "MessageTW": "現在該不會，在舊校舍？",
-        "MessageEN": "Are you going to the former institute?"
+        "MessageEN": "Are you going to the Former Institute?"
     },
     {
         "MessageId": 100370220,
@@ -76,7 +76,7 @@
         "MessageJP": "違う、旧校舎送りではない！！",
         "MessageKR": "아니, 구교사로 가게 된 게 아니거든?!",
         "MessageTW": "不是，才不是被流放至舊校舍！！",
-        "MessageEN": "No, I am not going to the former institute!"
+        "MessageEN": "No, I am not going to the Former Institute!"
     },
     {
         "MessageId": 100370240,

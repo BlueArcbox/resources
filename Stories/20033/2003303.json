@@ -38,7 +38,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "前に言っていたメーカーの取扱店舗を見つけたぞ、イロハ！",
-        "MessageKR": "저번에 말했던 메이커의 판매점을 찾는 데 성공해냈다! 이로하!",
+        "MessageKR": "저번에 말했던 메이커의 판매점을 찾는 데 성공해 냈다! 이로하!",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -158,7 +158,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "日常会話だが……？",
-        "MessageKR": "그냥 일상회화를 나눌 뿐이다만?",
+        "MessageKR": "그냥 일상 회화를 나눌 뿐이다만?",
         "MessageTW": "",
         "MessageEN": ""
     },

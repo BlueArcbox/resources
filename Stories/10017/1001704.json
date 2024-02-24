@@ -63,7 +63,7 @@
         "ImagePath": "",
         "MessageJP": "なにっ！？それなら、今すぐ我がレッドウィンター連邦学園に来い！",
         "MessageKR": "그럼 바로 붉은겨울 자치구로 오게나!",
-        "MessageTW": "什麼！那麼，現在就來我等赤冬聯邦學園！",
+        "MessageTW": "什麼！那現在就來赤冬聯邦學園吧！",
         "MessageEN": "Then come to the Red Winter district right away!"
     },
     {
@@ -75,7 +75,7 @@
         "ImagePath": "",
         "MessageJP": "ここに来れば雪だるまも雪ウサギも、好きなだけ作れるぞ！",
         "MessageKR": "이곳에 오면 눈사람도, 눈토끼도 원하는 만큼 만들 수 있다고!",
-        "MessageTW": "來這裡的話，雪人也好，雪兔也好，想做多少就做多少！",
+        "MessageTW": "在這裡不管是雪人還是雪兔，想做多少就做多少！",
         "MessageEN": "If you come here, you can make as many snowmen and snow bunnies as you want!"
     },
     {
@@ -99,7 +99,7 @@
         "ImagePath": "",
         "MessageJP": "ダメだ！いつ雪が止んでしまうかも分からないのに、そんな余裕はない！",
         "MessageKR": "안 돼! 눈이 언제 그치고 녹아버릴지도 모르는데, 여유를 부릴 틈은 없다고!",
-        "MessageTW": "不行！不知道雪什麼時候會停，可沒有那麼充裕的時間！",
+        "MessageTW": "不行！雪不知道什麼時候就會停了，時間可沒有那麼充裕！",
         "MessageEN": "No! You never know when the snow will stop! You have to come right now!"
     },
     {

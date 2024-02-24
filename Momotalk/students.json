@@ -1,7 +1,10 @@
 [
     {
         "Id": 10000,
-        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/d/de/Aru_Icon.png"],
+        "Avatar": [
+            "https://static.wikia.nocookie.net/blue-archive/images/d/de/Aru_Icon.png",
+            "https://schale.gg/images/student/lobby/10000.webp"
+        ],
         "Bio": {
             "zh": "什么都能解决哦！",
             "jp": "なんでも解決するわよ！",
@@ -68,6 +71,7 @@
     {
         "Id": 10005,
         "Avatar": [
+            "https://api.kivo.wiki/assets/images/students/小鸟游 星野/昔日/avatar.png",
             "/api/Avatars/Hoshino.webp",
             "https://static.wikia.nocookie.net/blue-archive/images/d/de/Hoshino_Icon.png",
             "https://static.wikia.nocookie.net/blue-archive/images/8/8e/Hoshino_Robber_Icon.png"
@@ -96,6 +100,7 @@
     {
         "Id": 10007,
         "Avatar": [
+            "https://api.kivo.wiki/assets/images/students/小涂 真纪/露营/avatar.png",
             "https://static.wikia.nocookie.net/blue-archive/images/e/e9/Maki_Icon.png",
             "https://static.wikia.nocookie.net/blue-archive/images/e/ec/Maki_Camp_Icon.png"
         ],
@@ -272,7 +277,13 @@
     },
     {
         "Id": 13006,
-        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/8/83/Mutsuki_Icon.png"],
+        "Avatar": [
+            "https://api.kivo.wiki/assets/images/students/浅黄 睦月/礼服/avatar.png",
+            "https://api.kivo.wiki/assets/images/students/浅黄 睦月/西装/avatar.png",
+            "https://static.wikia.nocookie.net/blue-archive/images/8/83/Mutsuki_Icon.png",
+            "https://static.wikia.nocookie.net/blue-archive/images/8/8a/Mutsuki_Dress_Icon.png",
+            "https://static.wikia.nocookie.net/blue-archive/images/5/5e/Mutsuki_Suit_Icon.png"
+        ],
         "Bio": {
             "zh": "没有什么有趣的事吗~",
             "jp": "何か面白いことないかな～",
@@ -341,7 +352,13 @@
     },
     {
         "Id": 16000,
-        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/b/bd/Haruka_Icon.png"],
+        "Avatar": [
+            "https://api.kivo.wiki/assets/images/students/伊草 遥香/礼服/avatar.png",
+            "https://api.kivo.wiki/assets/images/students/伊草 遥香/西装/avatar.png",
+            "https://static.wikia.nocookie.net/blue-archive/images/b/bd/Haruka_Icon.png",
+            "https://static.wikia.nocookie.net/blue-archive/images/a/a2/Haruka_Dress_Icon.png",
+            "https://static.wikia.nocookie.net/blue-archive/images/b/b0/Haruka_Suit_Icon.png"
+        ],
         "Bio": {
             "zh": "请多多指教",
             "jp": "よろしくお願いいたします",
@@ -1127,6 +1144,7 @@
     {
         "Id": 20013,
         "Avatar": [
+            "https://api.kivo.wiki/assets/images/students/各务 千寻/露营/avatar.png",
             "https://static.wikia.nocookie.net/blue-archive/images/a/aa/Chihiro_Icon.png",
             "https://static.wikia.nocookie.net/blue-archive/images/7/7c/Chihiro_Camp_Icon.png"
         ],
@@ -1425,9 +1443,11 @@
     {
         "Id": 10048,
         "Avatar": [
+            "https://api.kivo.wiki/assets/images/students/锭前 纱织/礼服/avatar.png",
             "https://static.wikia.nocookie.net/blue-archive/images/7/70/Saori_Icon.png",
             "https://static.wikia.nocookie.net/blue-archive/images/f/f1/Saori_Unmask_Icon.png",
-            "https://static.wikia.nocookie.net/blue-archive/images/3/34/Saori_Helmet_Icon.png"
+            "https://static.wikia.nocookie.net/blue-archive/images/3/34/Saori_Helmet_Icon.png",
+            "https://static.wikia.nocookie.net/blue-archive/images/4/44/Saori_Dress_Icon.png"
         ],
         "Bio": {
             "zh": "努力再努力",
@@ -2283,5 +2303,27 @@
         },
         "Nickname": ["礼服奈", "礼奈", "钢琴奈"],
         "related": [10004, "dress"]
+    },
+    {
+        "Id": 10088,
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/3/32/Kayoko_Dress_Icon.png"],
+        "Bio": {
+            "zh": "工作结束再回你",
+            "jp": "仕事が終わったら返事する",
+            "kr": "일 끝나면 답장합니다."
+        },
+        "Nickname": ["礼佳"],
+        "related": [13005, "dress"]
+    },
+    {
+        "Id": 10089,
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/1/1c/Aru_Dress_Icon.png"],
+        "Bio": {
+            "zh": "真是个重要的任务呢",
+            "jp": "大事な依頼ね",
+            "kr": "중요한 업무 중입니다."
+        },
+        "Nickname": ["礼露", "礼鲁"],
+        "related": [10000, "dress"]
     }
 ]

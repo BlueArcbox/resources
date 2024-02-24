@@ -62,7 +62,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "今日も遊びに行っていい？",
-        "MessageKR": "샬레에 놀러가도 돼?",
+        "MessageKR": "샬레에 놀러 가도 돼?",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -170,7 +170,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "あんなに遊んで疲れてない？",
-        "MessageKR": "하루종일 뛰어놀았는데 힘들지는 않아, 이부키?",
+        "MessageKR": "하루 종일 뛰어놀았는데 힘들지는 않아, 이부키?",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -218,7 +218,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "やったぁ！遊びに行くね！",
-        "MessageKR": "그럼 다음 번에 또 샬레 파크에 놀러갈게!",
+        "MessageKR": "그럼 다음번에 또 샬레 파크에 놀러 갈게!",
         "MessageTW": "",
         "MessageEN": ""
     },
