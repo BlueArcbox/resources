@@ -1517,5 +1517,26 @@
             }
         ],
         "pictures_count": 2
+    },
+    {
+        "dynamic_id": 903857175750770788,
+        "description": "【国际服资讯】【官方四格漫画第123话】 \n▎老哏\n独自创作的过程很痛苦\n有这样直言建议的好伙伴\n爱瑠x红叶果然是最棒的组合📖\n\n爱瑠：不要那么专业好不好.jpg\n\n#碧蓝档案漫画连载中# #第123话# #蔚蓝档案# #碧蓝档案# #BlueArchive#",
+        "pictures": [
+            {
+                "img_height": 1252,
+                "img_size": 605.1962890625,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/86d30e02fafda093bc5297084d26a35e37507923.jpg",
+                "img_tags": null,
+                "img_width": 800
+            },
+            {
+                "img_height": 502,
+                "img_size": 164.5810546875,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/6dacead8134ad388f81abb18cdf687bf37507923.jpg",
+                "img_tags": null,
+                "img_width": 800
+            }
+        ],
+        "pictures_count": 2
     }
 ]
