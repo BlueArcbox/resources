@@ -1538,5 +1538,26 @@
             }
         ],
         "pictures_count": 2
+    },
+    {
+        "dynamic_id": 906456730513178632,
+        "description": "【国际服资讯】【官方四格漫画第124话】 \n▎销售策略\n谁会因为Cosplayer很可爱就买阿!\n不要太小看消费者了\n\n唉呦唉呦唉呦~\n你说这什么同人志给我来10套!\n\n#碧蓝档案漫画连载中##第124话##蔚蓝档案##碧蓝档案##BlueArchive#",
+        "pictures": [
+            {
+                "img_height": 1280,
+                "img_size": 262.4267578125,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/ab776343980ee07c7ba3a3ab92d1ba2b37507923.jpg",
+                "img_tags": null,
+                "img_width": 800
+            },
+            {
+                "img_height": 550,
+                "img_size": 73.7197265625,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/83fa190b349bf7b1540b0374ec2a95e837507923.jpg",
+                "img_tags": null,
+                "img_width": 800
+            }
+        ],
+        "pictures_count": 2
     }
 ]

@@ -628,5 +628,19 @@
             }
         ],
         "pictures_count": 1
+    },
+    {
+        "dynamic_id": 906006862714896420,
+        "description": "【青春记录】第47話\n老师。比起眼前发生的事，现在更应该把注意力集中在年糕小豆汤上哦！\n🔷作:せるげい(@pattundo)老师  \n#碧蓝档案##蔚蓝档案#",
+        "pictures": [
+            {
+                "img_height": 1804,
+                "img_size": 2269.889892578125,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/a9cc64feead3ecdf93bc35ecb858eac7436037759.png",
+                "img_tags": null,
+                "img_width": 1280
+            }
+        ],
+        "pictures_count": 1
     }
 ]
