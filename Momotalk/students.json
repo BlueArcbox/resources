@@ -219,11 +219,7 @@
     },
     {
         "Id": 13002,
-        "Avatar": [
-            "/api/Avatars/Akari_New_Year.webp",
-            "https://static.wikia.nocookie.net/blue-archive/images/1/1b/Akari_Icon.png",
-            "https://static.wikia.nocookie.net/blue-archive/images/c/c3/Akari_New_Year_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/1/1b/Akari_Icon.png"],
         "Bio": {
             "zh": "请推荐自助餐厅",
             "jp": "おすすめの食べ放題を教えてください",
@@ -2325,5 +2321,16 @@
         },
         "Nickname": ["礼露", "礼鲁"],
         "related": [10000, "dress"]
+    },
+    {
+        "Id": 20034,
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/c/c3/Akari_New_Year_Icon.png"],
+        "Bio": {
+            "zh": "新年我们一起踏上美食之旅吧♣",
+            "jp": "新年には美食の旅に出ましょうか♣",
+            "kr": "새해에는 여행을 떠나 볼까요♣"
+        },
+        "Nickname": [],
+        "related": [13002, "newyear"]
     }
 ]

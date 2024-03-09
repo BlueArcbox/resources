@@ -1,0 +1,129 @@
+[
+    {
+        "CharacterId": 20034,
+        "MessageJP": "アカリ（正月）",
+        "MessageKR": "아카리(새해)",
+        "MessageTW": "",
+        "MessageEN": "Akari (New Year)"
+    },
+    {
+        "MessageId": 200330010,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 200340010,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 200340010,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200340020,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "今のシーズン、商店街では色々なイベントが開かれていますよね",
+        "MessageKR": "해마다 이 시즌이 되면, 상점가에서 여러 가지 이벤트를 개최하곤 하죠.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200340020,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200340030,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "アカリもそういうのに興味あるんだね",
+        "MessageKR": "아카리도 그런 이벤트에 흥미가 있구나.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200340030,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200340031,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "当たり前ですよ★",
+        "MessageKR": "물론이죠.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200340031,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200340040,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "こういうのって往々にして新たな美食に出会えるチャンスですから",
+        "MessageKR": "그것이 먹는 것과 관련된 일이라면, 특히요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200340040,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200340050,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "美食に……？",
+        "MessageKR": "상점가…… 이벤트…… 먹는 것……?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200340050,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200340051,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "フフ",
+        "MessageKR": "후후.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200340051,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200340052,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生、そう考えたらワクワクしませんか？",
+        "MessageKR": "기대되시나요?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200340052,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200330057,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "私はとってもワクワクしています！",
+        "MessageKR": "저는 기대되네요!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200330057,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "アカリ（正月）の絆イベントへ",
+        "MessageKR": "아카리(새해)의 인연스토리로",
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to Akari (New Year)'s Event"
+    }
+]
