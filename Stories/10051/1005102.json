@@ -51,7 +51,7 @@
         "ImagePath": "",
         "MessageJP": "ただの応援ロボットを製作するだけなら簡単だけど……",
         "MessageKR": "평범한 응원 도구를 만드는 것이라면 어렵지 않겠지만……",
-        "MessageTW": "如果只是製作應援機器人的話，是不難……",
+        "MessageTW": "如果只是製作應援機器人倒是不難……",
         "MessageEN": "Making some typical bots wouldn't be hard, but..."
     },
     {
@@ -99,7 +99,7 @@
         "ImagePath": "",
         "MessageJP": "エンジニア部として新しい発明品を開発してみせよう！",
         "MessageKR": "기성품을 구매하지 않고 굳이 우리에게 의뢰를 하는 고객이라면",
-        "MessageTW": "身為工程師部，就要開發新的發明！",
+        "MessageTW": "既然是工程師部的一員，就要開發新的發明！",
         "MessageEN": "If they wanted standard, they would have picked something off the shelf. Instead, they came to us."
     },
     {

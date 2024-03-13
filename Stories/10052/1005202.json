@@ -27,7 +27,7 @@
         "ImagePath": "",
         "MessageJP": "先生、昨日の当番の際に……",
         "MessageKR": "선생님, 혹시 어제의 당번 활동 때……",
-        "MessageTW": "老師，昨天值班的時候……",
+        "MessageTW": "老師，請問你昨天值班的時候……",
         "MessageEN": "Sensei, while on duty yesterday..."
     },
     {
@@ -39,7 +39,7 @@
         "ImagePath": "",
         "MessageJP": "おろしたての靴を履いてませんでしたか？",
         "MessageKR": "신발을 새로 구매하셨었나요?",
-        "MessageTW": "是穿了新鞋嗎？",
+        "MessageTW": "是不是穿了新鞋？",
         "MessageEN": "Were you wearing new shoes?"
     },
     {

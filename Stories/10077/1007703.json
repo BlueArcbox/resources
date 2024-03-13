@@ -28,7 +28,7 @@
         "MessageJP": "先生",
         "MessageKR": "선생님",
         "MessageTW": "老師",
-        "MessageEN": ""
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 100770240,
@@ -40,7 +40,7 @@
         "MessageJP": "今って時間あります？",
         "MessageKR": "지금 한가하시나요",
         "MessageTW": "現在有空嗎？",
-        "MessageEN": ""
+        "MessageEN": "Are you free at the moment?"
     },
     {
         "MessageId": 100770250,
@@ -52,7 +52,7 @@
         "MessageJP": "うん？どうしたの？",
         "MessageKR": "그럭저럭? 무슨 일이야?",
         "MessageTW": "馬馬虎虎？有什麼事嗎？",
-        "MessageEN": ""
+        "MessageEN": "More or less. What's going on?"
     },
     {
         "MessageId": 100770250,
@@ -64,7 +64,7 @@
         "MessageJP": "ちょうど暇してたところ",
         "MessageKR": "마침 빈둥거리고 있었어",
         "MessageTW": "現在正好很閒",
-        "MessageEN": ""
+        "MessageEN": "I was just relaxing."
     },
     {
         "MessageId": 100770260,
@@ -76,7 +76,7 @@
         "MessageJP": "あーえっと",
         "MessageKR": "아",
         "MessageTW": "啊",
-        "MessageEN": ""
+        "MessageEN": "Ah..."
     },
     {
         "MessageId": 100770270,
@@ -88,7 +88,7 @@
         "MessageJP": "いや、なんとなく",
         "MessageKR": "아뇨 그냥",
         "MessageTW": "沒有，我只是",
-        "MessageEN": ""
+        "MessageEN": "It's nothing."
     },
     {
         "MessageId": 100770280,
@@ -100,7 +100,7 @@
         "MessageJP": "ちょっと暇だなって……",
         "MessageKR": "진짜 그냥 심심해서",
         "MessageTW": "因為有點閒",
-        "MessageEN": ""
+        "MessageEN": "I'm just really bored."
     },
     {
         "MessageId": 100770281,
@@ -112,7 +112,7 @@
         "MessageJP": "予定まで結構時間があるんですけど",
         "MessageKR": "사람들 기다리는 중이라 할 게 없네요",
         "MessageTW": "在等人的時候沒事可做",
-        "MessageEN": ""
+        "MessageEN": "I'm waiting on some other people and have nothing to do."
     },
     {
         "MessageId": 100770290,
@@ -124,7 +124,7 @@
         "MessageJP": "思ったよりやることがないんですよね",
         "MessageKR": "ㅎㅎ",
         "MessageTW": "嘻嘻",
-        "MessageEN": ""
+        "MessageEN": "Haha."
     },
     {
         "MessageId": 100760297,

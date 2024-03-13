@@ -63,7 +63,7 @@
         "ImagePath": "",
         "MessageJP": "あっ、見つかりました",
         "MessageKR": "이런…… 미처 못 봤었네요.",
-        "MessageTW": "啊，找到了",
+        "MessageTW": "哎呀……是我漏看了",
         "MessageEN": "I... I did, indeed, completely miss that."
     },
     {
@@ -75,7 +75,7 @@
         "ImagePath": "",
         "MessageJP": "最近バタバタしていて……失礼しました",
         "MessageKR": "요새 정신이 없어서 놓친 모양이에요. 죄송합니다.",
-        "MessageTW": "最近總是手忙腳亂的……我失禮了",
+        "MessageTW": "最近總是手忙腳亂的……真不好意思",
         "MessageEN": "I've been a bit of a mess lately. Sorry about that."
     },
     {
@@ -87,7 +87,7 @@
         "ImagePath": "",
         "MessageJP": "最近、特に忙しそうだよね",
         "MessageKR": "요새 너무 바쁜 거 아냐?",
-        "MessageTW": "妳最近好像特別忙呢",
+        "MessageTW": "最近是不是太忙了？",
         "MessageEN": "Are you sure you're just not overworked?"
     },
     {
@@ -135,7 +135,7 @@
         "ImagePath": "",
         "MessageJP": "お疲れさま、ユウカ",
         "MessageKR": "유우카가 고생이 많네.",
-        "MessageTW": "辛苦妳了，優香",
+        "MessageTW": "辛苦你了，優香",
         "MessageEN": "Sounds like you're working hard, Yuuka."
     },
     {

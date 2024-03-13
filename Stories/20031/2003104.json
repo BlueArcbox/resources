@@ -28,7 +28,7 @@
         "MessageJP": "先生、旧校舎の湯船にお湯が溜まったよ",
         "MessageKR": "선생님, 지난번에 청소한 구교사의 탕에 물을 다시 모두 채웠어",
         "MessageTW": "老師，我把之前打掃的舊校舍浴池重新裝滿水囉",
-        "MessageEN": "Sensei, we've filled up the pool we cleaned last time."
+        "MessageEN": "Sensei, we finally managed to refill the bath."
     },
     {
         "MessageId": 200310400,
@@ -40,7 +40,7 @@
         "MessageJP": "ついでに周りの環境整備をして、新しい入浴剤も入れておいた",
         "MessageKR": "그사이에 겸사겸사 주변 환경도 정리하고 새 입욕제도 넣어두었으니",
         "MessageTW": "還順便整理了周遭環境，加了新的入浴劑",
-        "MessageEN": "I cleaned up the surrounding area and put in some new bath bombs too."
+        "MessageEN": "I've tidied up the whole place and put in some bath bombs too."
     },
     {
         "MessageId": 200310401,
@@ -52,7 +52,7 @@
         "MessageJP": "よかったら先生も入りに来て",
         "MessageKR": "나중에 괜찮다면 선생님도 한 번 목욕하러 와",
         "MessageTW": "之後老師有空的話也來洗澡吧",
-        "MessageEN": ""
+        "MessageEN": "I'd love it if you came and had a bath here."
     },
     {
         "MessageId": 200310410,
@@ -64,7 +64,7 @@
         "MessageJP": "復旧できてよかったけど……",
         "MessageKR": "탕이 복구되었다니 다행이지만……",
         "MessageTW": "能修復真是太好了……",
-        "MessageEN": ""
+        "MessageEN": "I'm glad to hear the bath is fixed..."
     },
     {
         "MessageId": 200310420,
@@ -76,7 +76,7 @@
         "MessageJP": "「ぶどうジュース」は入ってないよね……？",
         "MessageKR": "설마 또 와인을 넣은 건 아니겠지?",
         "MessageTW": "但你該不會又加了紅酒進去吧？",
-        "MessageEN": ""
+        "MessageEN": "You didn't use wine again, did you?"
     },
     {
         "MessageId": 200310430,
@@ -88,7 +88,7 @@
         "MessageJP": "ふふっ、どうかな",
         "MessageKR": "후후, 어떠려나",
         "MessageTW": "呵呵，誰知道呢",
-        "MessageEN": ""
+        "MessageEN": "Heehee... I wonder."
     },
     {
         "MessageId": 200310431,
@@ -100,7 +100,7 @@
         "MessageJP": "気になるなら、直接確認しに来たらどう？",
         "MessageKR": "의심스러우면 구교사에 한 번 직접 와보는 건 어때?",
         "MessageTW": "如果想知道的話，要不要親自來一趟舊校舍？",
-        "MessageEN": ""
+        "MessageEN": "If you're suspicious, come and see for yourself."
     },
     {
         "MessageId": 200310432,
@@ -112,7 +112,7 @@
         "MessageJP": "待ってるよ、先生",
         "MessageKR": "기다리고 있을게, 선생님.",
         "MessageTW": "我等你唷，老師",
-        "MessageEN": ""
+        "MessageEN": "I'll be waiting, Sensei."
     },
     {
         "MessageId": 200300437,

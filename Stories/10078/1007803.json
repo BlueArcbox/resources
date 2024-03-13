@@ -28,7 +28,7 @@
         "MessageJP": "んむ",
         "MessageKR": "음",
         "MessageTW": "嗯……",
-        "MessageEN": ""
+        "MessageEN": "Mm..."
     },
     {
         "MessageId": 100780310,
@@ -40,7 +40,7 @@
         "MessageJP": "先生、もし時間があれば",
         "MessageKR": "선생님, 혹시 괜찮다면",
         "MessageTW": "老師，如果不介意的話",
-        "MessageEN": ""
+        "MessageEN": "Sensei, if you don't mind..."
     },
     {
         "MessageId": 100780311,
@@ -52,7 +52,7 @@
         "MessageJP": "勉強できる場所を探してくれないか？",
         "MessageKR": "공부할 자리를 좀 찾아줄 수 있을까?",
         "MessageTW": "可以幫我找找能唸書的地方嗎？",
-        "MessageEN": ""
+        "MessageEN": "Can you help me find somewhere private to study?"
     },
     {
         "MessageId": 100780320,
@@ -64,7 +64,7 @@
         "MessageJP": "色々と理由があって",
         "MessageKR": "아무래도",
         "MessageTW": "因為某些原因",
-        "MessageEN": ""
+        "MessageEN": "It's just..."
     },
     {
         "MessageId": 100780321,
@@ -76,7 +76,7 @@
         "MessageJP": "カフェや図書館には足を運びづらくてな",
         "MessageKR": "공개적인 카페나 공공기관에는 못 가는 몸이라서 말이야",
         "MessageTW": "我沒辦法去公開的咖啡廳或公共場所",
-        "MessageEN": ""
+        "MessageEN": "I can't exactly hang out in public."
     },
     {
         "MessageId": 100780330,
@@ -88,7 +88,7 @@
         "MessageJP": "勉強……？",
         "MessageKR": "공부……? ",
         "MessageTW": "唸書……？",
-        "MessageEN": ""
+        "MessageEN": "You want to study...? "
     },
     {
         "MessageId": 100780330,
@@ -100,7 +100,7 @@
         "MessageJP": "いつもの「会議」じゃなくて？",
         "MessageKR": "평소 같은 '회의'가 아니고?",
         "MessageTW": "不是往常的「開會」？",
-        "MessageEN": ""
+        "MessageEN": "This isn't for one of our usual meetings?"
     },
     {
         "MessageId": 100780340,
@@ -112,7 +112,7 @@
         "MessageJP": "ああ、そうだ。",
         "MessageKR": "아아. 그렇지.",
         "MessageTW": "啊啊，沒錯",
-        "MessageEN": ""
+        "MessageEN": "Bingo."
     },
     {
         "MessageId": 100780341,
@@ -136,7 +136,7 @@
         "MessageJP": "だが",
         "MessageKR": "그런 의미에서,",
         "MessageTW": "所以……",
-        "MessageEN": ""
+        "MessageEN": "So if you think about it..."
     },
     {
         "MessageId": 100780360,
@@ -148,7 +148,7 @@
         "MessageJP": "生徒が「勉強」したいと言ってるのだ、手伝ってくれるだろう？",
         "MessageKR": "학생의 '공부'니까. 도와주겠지?",
         "MessageTW": "既然是學生說想「唸書」，你應該願意幫忙吧？",
-        "MessageEN": ""
+        "MessageEN": "Since it's a student's job to study, you've got to help me, right?"
     },
     {
         "MessageId": 100780361,
@@ -160,7 +160,7 @@
         "MessageJP": "先生なのだからな！",
         "MessageKR": "선생님이니까!",
         "MessageTW": "畢竟是老師嘛！",
-        "MessageEN": ""
+        "MessageEN": "You are my teacher, after all!"
     },
     {
         "MessageId": 100770377,
@@ -184,7 +184,7 @@
         "MessageJP": "有意義な時間だった、またな、先生",
         "MessageKR": "좋은 시간이었어. 또 보자고, 선생님.",
         "MessageTW": "真是一段愉快的時光。下次見囉，老師",
-        "MessageEN": ""
+        "MessageEN": "That was a good time. See you again, Sensei."
     },
     {
         "MessageId": 100780380,
@@ -196,7 +196,7 @@
         "MessageJP": "私も楽しかったよ",
         "MessageKR": "나도 꽤 신선한 경험이었어.",
         "MessageTW": "我也覺得是很新鮮的體驗",
-        "MessageEN": ""
+        "MessageEN": "I thought it was refreshing as well."
     },
     {
         "MessageId": 100780380,
@@ -208,7 +208,7 @@
         "MessageJP": "いつもああやって温泉を掘ってるんだね",
         "MessageKR": "뭔가 감으로 온천을 찾는 인상이었는데 말이지.",
         "MessageTW": "我以為你一直是憑感覺尋找溫泉的",
-        "MessageEN": ""
+        "MessageEN": "I can't help but feel like you were scouting out hot springs locations the whole time."
     },
     {
         "MessageId": 100780390,
@@ -220,7 +220,7 @@
         "MessageJP": "うん？",
         "MessageKR": "음?",
         "MessageTW": "嗯？",
-        "MessageEN": ""
+        "MessageEN": "Hm?"
     },
     {
         "MessageId": 100780400,
@@ -232,7 +232,7 @@
         "MessageJP": "ああ",
         "MessageKR": "아아",
         "MessageTW": "啊啊",
-        "MessageEN": ""
+        "MessageEN": "Ahhh..."
     },
     {
         "MessageId": 100780401,
@@ -244,7 +244,7 @@
         "MessageJP": "これまでの言動からすれば、そう見えるだろうな",
         "MessageKR": "혹시 예전에 보여준 그 언행들 때문이야?",
         "MessageTW": "是因為我之前的言行舉止嗎？",
-        "MessageEN": ""
+        "MessageEN": "I really can't shake my reputation, can I?"
     },
     {
         "MessageId": 100780410,
@@ -256,7 +256,7 @@
         "MessageJP": "まぁ",
         "MessageKR": "뭐어",
         "MessageTW": "嘛",
-        "MessageEN": ""
+        "MessageEN": "You see..."
     },
     {
         "MessageId": 100780411,
@@ -268,7 +268,7 @@
         "MessageJP": "ああいう風に何も考えてないように見せていれば、色々と動きやすいのだよ",
         "MessageKR": "이래저래 편하거든. 바보 같거나 미친 것처럼 굴면.",
         "MessageTW": "畢竟表現得像個笨蛋或瘋子，在各種意義上都比較輕鬆啊",
-        "MessageEN": ""
+        "MessageEN": "It's just more convenient this way. Acting stupid or crazy, I mean."
     },
     {
         "MessageId": 100780412,
@@ -280,7 +280,7 @@
         "MessageJP": "腹に一物がある者に見えないほうが、色々と話してくれるからな",
         "MessageKR": "더 따지지도 않고, 대화를 유도하기도 편하고.",
         "MessageTW": "既不必多說什麼，也方便引導對話",
-        "MessageEN": ""
+        "MessageEN": "Nobody argues with you. Everyone just lets you lead the conversation."
     },
     {
         "MessageId": 100780420,
@@ -292,7 +292,7 @@
         "MessageJP": "だからそうしてるだけなんだが……",
         "MessageKR": "그냥 그것뿐.",
         "MessageTW": "就只是這樣而已",
-        "MessageEN": ""
+        "MessageEN": "That's all."
     },
     {
         "MessageId": 100780430,
@@ -304,7 +304,7 @@
         "MessageJP": "そうだな……",
         "MessageKR": "그러니까",
         "MessageTW": "所以……\u200b",
-        "MessageEN": ""
+        "MessageEN": "But..."
     },
     {
         "MessageId": 100780431,
@@ -315,7 +315,7 @@
         "ImagePath": "",
         "MessageJP": "私と先生だけの秘密だぞ？",
         "MessageKR": "꼭 지켜달라고, 이 비밀은.",
-        "MessageTW": "這個秘密，還請一定要守住哦？",
-        "MessageEN": ""
+        "MessageTW": "這個祕密，還請一定要守住哦？",
+        "MessageEN": "Please don't tell anyone I said that."
     }
 ]

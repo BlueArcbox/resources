@@ -64,7 +64,7 @@
         "MessageJP": "あちこち歩き回ることになりそう",
         "MessageKR": "오전부터 여기저기를 돌아다녀야 할 것 같아.",
         "MessageTW": "好像從上午開始就得到處巡邏",
-        "MessageEN": "So I'll be running all over."
+        "MessageEN": "Busy. I'll be running around all over the place."
     },
     {
         "MessageId": 200300150,
@@ -99,7 +99,7 @@
         "ImagePath": "",
         "MessageJP": "ですが、会場にはいらっしゃるという事で安心しました",
         "MessageKR": "희미한 실망과 함께, 많은 기대를 품게 되는 대답이네요.",
-        "MessageTW": "讓人感到些許失望，又充滿期待的回答呢",
+        "MessageTW": "讓人感到些許失望，\n卻又充滿期待的回答呢",
         "MessageEN": "a little disappointing...but it also gives me some hope."
     },
     {
@@ -147,7 +147,7 @@
         "ImagePath": "",
         "MessageJP": "いつどこでパトロール中の先生と出会えるか……",
         "MessageKR": "도리어 언제 어디에서 무슨 일로 선생님과 만나게 될지.",
-        "MessageTW": "不知會在何時何地和老師相見……",
+        "MessageTW": "不知會在何時何地與老師相見……",
         "MessageEN": "I also have a sense of anticipation"
     },
     {

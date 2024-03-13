@@ -27,7 +27,7 @@
         "ImagePath": "",
         "MessageJP": "ミレニアム生の作った発明品を見ていると、驚くことが多いです",
         "MessageKR": "밀레니엄의 학생들이 만든 발명품을 보고 있노라면 깜짝 놀랄 때가 많아요.",
-        "MessageTW": "每次看到千年學生的發明，往往會大吃一驚",
+        "MessageTW": "當我看到千年學生的發明時，常常會感到驚訝",
         "MessageEN": "The ingenuity of Millennium's students never fails to impress me."
     },
     {
@@ -111,7 +111,7 @@
         "ImagePath": "",
         "MessageJP": "……機械の製作に必要な青図を、丸ごと覚えられること……ぐらいでしょうか",
         "MessageKR": "……기계의 제작에 필요한 청사진을 통째로 외울 수 있는 것 정도?",
-        "MessageTW": "……可能只有默背製作機械時需要的藍圖……就這樣而已吧",
+        "MessageTW": "……可能也只有完整記住製作機械時需要的藍圖……這種事而已吧",
         "MessageEN": "...Like being able to perfectly memorize an entire engineering blueprint by looking at it once."
     },
     {
@@ -171,7 +171,7 @@
         "ImagePath": "",
         "MessageJP": "無念にも、連邦生徒会の異議により差し戻しになったそうです",
         "MessageKR": "안타깝게도 총학생회의 이의제기로 인해 반려된 모양이에요.",
-        "MessageTW": "很遺憾，因為聯邦學生會反對，被駁回了",
+        "MessageTW": "很遺憾，由於聯邦學生會的反對而被駁回了",
         "MessageEN": "has sadly been rejected due to objections raised by the General Student Council."
     },
     {
@@ -207,7 +207,7 @@
         "ImagePath": "",
         "MessageJP": "ですが特許というものは、目的を変更し同じものを再度出願することも可能です。",
         "MessageKR": "하지만 특허라는 건 얼마든지 목적을 바꿔가며 같은 물건을 다시 출원할 수 있으니까요.",
-        "MessageTW": "但是，只要變更目的，就能重新申請專利",
+        "MessageTW": "但是專利這種東西，只要變更目的就能重新申請",
         "MessageEN": "We'll find out once they apply again after changing the patent objective."
     },
     {
@@ -219,7 +219,7 @@
         "ImagePath": "",
         "MessageJP": "様式を変えながら繰り返し特許を申請し続ければ……",
         "MessageKR": "계속해서 양식을 바꾸어 가며 특허를 신청하다 보면……",
-        "MessageTW": "如果我不斷變更樣式，不斷申請專利……",
+        "MessageTW": "只要不斷變更樣式，反覆進行申請……",
         "MessageEN": "If they keep changing that, they can keep applying..."
     },
     {
@@ -231,7 +231,7 @@
         "ImagePath": "",
         "MessageJP": "いつかは本当に、特許登録できるかも……？",
         "MessageKR": "언젠간 진짜 특허 등록이 될지도……?",
-        "MessageTW": "總有一天能註冊的吧……！",
+        "MessageTW": "或許總有一天會成功也說不定……？",
         "MessageEN": "And perhaps, on a better day, to a more open-minded council, the patent will be accepted?"
     },
     {
@@ -243,7 +243,7 @@
         "ImagePath": "",
         "MessageJP": "お願いだからもうやめて……！",
         "MessageKR": "제발 그만둬……!",
-        "MessageTW": "拜託你別鬧了……！",
+        "MessageTW": "拜託不要……！",
         "MessageEN": "A better day for who?!"
     }
 ]

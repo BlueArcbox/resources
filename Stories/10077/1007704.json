@@ -28,7 +28,7 @@
         "MessageJP": "先生",
         "MessageKR": "선생님",
         "MessageTW": "老師",
-        "MessageEN": ""
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 100770310,
@@ -40,7 +40,7 @@
         "MessageJP": "今って何してます？",
         "MessageKR": "지금 시간 괜찮으십니까?",
         "MessageTW": "現在有空嗎？",
-        "MessageEN": ""
+        "MessageEN": "Do you have some time now?"
     },
     {
         "MessageId": 100770320,
@@ -52,7 +52,7 @@
         "MessageJP": "ああっと",
         "MessageKR": "아",
         "MessageTW": "啊",
-        "MessageEN": ""
+        "MessageEN": "Oh..."
     },
     {
         "MessageId": 100770321,
@@ -64,7 +64,7 @@
         "MessageJP": "別に何か用があるわけじゃないんですが……",
         "MessageKR": "무슨 일 있는 건 아닙니다만",
         "MessageTW": "其實也沒什麼事",
-        "MessageEN": ""
+        "MessageEN": "Don't worry. There's nothing wrong."
     },
     {
         "MessageId": 100770330,
@@ -76,7 +76,7 @@
         "MessageJP": "仕事が終わって休憩してるところだよ",
         "MessageKR": "마침 한가하네, 나갈게.",
         "MessageTW": "正好沒事，打算出門走走",
-        "MessageEN": ""
+        "MessageEN": "I do have some time. I'll come see you."
     },
     {
         "MessageId": 100770330,
@@ -88,7 +88,7 @@
         "MessageJP": "公園で会おっか",
         "MessageKR": "조금 있다 공원에서 볼까?",
         "MessageTW": "待會要不要在公園碰面？",
-        "MessageEN": ""
+        "MessageEN": "Why don't we meet at the park?"
     },
     {
         "MessageId": 100770340,
@@ -100,7 +100,7 @@
         "MessageJP": "おっ",
         "MessageKR": "오",
         "MessageTW": "哦～",
-        "MessageEN": ""
+        "MessageEN": "Oh!"
     },
     {
         "MessageId": 100770341,
@@ -112,7 +112,7 @@
         "MessageJP": "いいですね",
         "MessageKR": "좋네요",
         "MessageTW": "聽起來不錯",
-        "MessageEN": ""
+        "MessageEN": "That would be great."
     },
     {
         "MessageId": 100770350,
@@ -124,7 +124,7 @@
         "MessageJP": "それじゃ、後ほど！",
         "MessageKR": "그럼 그때 뵙겠습니다",
         "MessageTW": "那待會見！",
-        "MessageEN": ""
+        "MessageEN": "I'll see you there."
     },
     {
         "MessageId": 100760367,
@@ -148,7 +148,7 @@
         "MessageJP": "ふぅ",
         "MessageKR": "음",
         "MessageTW": "嗯……",
-        "MessageEN": ""
+        "MessageEN": "Mm."
     },
     {
         "MessageId": 100770370,
@@ -160,7 +160,7 @@
         "MessageJP": "今日は先生のおかげで楽しかったです",
         "MessageKR": "오늘은 덕분에 아주 좋았던 듯",
         "MessageTW": "今天多虧有老師，真的很開心",
-        "MessageEN": ""
+        "MessageEN": "I had a great time today thanks to you."
     },
     {
         "MessageId": 100770380,
@@ -172,7 +172,7 @@
         "MessageJP": "ありがとうございました、先生",
         "MessageKR": "감사합니다, 선생님",
         "MessageTW": "謝謝你，老師",
-        "MessageEN": ""
+        "MessageEN": "Thank you, Sensei."
     },
     {
         "MessageId": 100770390,
@@ -184,7 +184,7 @@
         "MessageJP": "また遊びに行きたいです！",
         "MessageKR": "다음에도 또 부탁드릴 거예요",
         "MessageTW": "之後還想要一起玩！",
-        "MessageEN": ""
+        "MessageEN": "I'll be sure to reach out whenever I need help."
     },
     {
         "MessageId": 100770391,
@@ -196,7 +196,7 @@
         "MessageJP": "先生がそうした方がいいって言ったんですからね！",
         "MessageKR": "선생님이 그러라고 한 거니까",
         "MessageTW": "因為老師也是這麼說的！",
-        "MessageEN": ""
+        "MessageEN": "You did ask me to, after all."
     },
     {
         "MessageId": 100770400,
@@ -208,7 +208,7 @@
         "MessageJP": "もちろん、いつでも付き合うよ",
         "MessageKR": "좋지. 비슷한 느낌도 더 찾아봐.",
         "MessageTW": "嗯，繼續尋找類似的感覺吧",
-        "MessageEN": ""
+        "MessageEN": "Sounds good. And remember to trust your heart."
     },
     {
         "MessageId": 100770400,
@@ -220,7 +220,7 @@
         "MessageJP": "夢中になれるものが見つかるといいね",
         "MessageKR": "앞으로도 그렇게 하는 거야.",
         "MessageTW": "以後也要持續下去",
-        "MessageEN": ""
+        "MessageEN": "That's all you've got to do, okay?"
     },
     {
         "MessageId": 100770410,
@@ -232,7 +232,7 @@
         "MessageJP": "はい！",
         "MessageKR": "네\\~",
         "MessageTW": "好～",
-        "MessageEN": ""
+        "MessageEN": "Yes!"
     },
     {
         "MessageId": 100770420,
@@ -244,7 +244,7 @@
         "MessageJP": "……ん～",
         "MessageKR": "음\u200b",
         "MessageTW": "嗯……\u200b",
-        "MessageEN": ""
+        "MessageEN": "Mm..."
     },
     {
         "MessageId": 100770430,
@@ -256,7 +256,7 @@
         "MessageJP": "でも……",
         "MessageKR": "그런데, 뭐",
         "MessageTW": "但是",
-        "MessageEN": ""
+        "MessageEN": "Although..."
     },
     {
         "MessageId": 100770431,
@@ -268,7 +268,7 @@
         "MessageJP": "……",
         "MessageKR": "당분간은",
         "MessageTW": "短時間之內",
-        "MessageEN": ""
+        "MessageEN": "For the time being..."
     },
     {
         "MessageId": 100770432,
@@ -280,7 +280,7 @@
         "MessageJP": "まだしばらくは",
         "MessageKR": "ㅎㅎ",
         "MessageTW": "嘻嘻",
-        "MessageEN": ""
+        "MessageEN": "Haha."
     },
     {
         "MessageId": 100770440,
@@ -292,7 +292,7 @@
         "MessageJP": "今が最高なので大丈夫です！",
         "MessageKR": "이거보다 더 마음 가는 건,",
         "MessageTW": "可能沒有比剛才那個",
-        "MessageEN": "I'm not sure I'll have anything else,"
+        "MessageEN": "I'm not sure I'll find anything"
     },
     {
         "MessageId": 100770441,
@@ -304,6 +304,6 @@
         "MessageJP": "はは",
         "MessageKR": "없을지도 모르겠네요",
         "MessageTW": "更讓我滿意的了",
-        "MessageEN": "that I want to do more."
+        "MessageEN": "that speaks to me more than this."
     }
 ]

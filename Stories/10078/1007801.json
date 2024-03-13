@@ -28,7 +28,7 @@
         "MessageJP": "んむ！",
         "MessageKR": "음!",
         "MessageTW": "嗯！",
-        "MessageEN": ""
+        "MessageEN": "Mm!"
     },
     {
         "MessageId": 100780020,
@@ -40,7 +40,7 @@
         "MessageJP": "んむむっ！！",
         "MessageKR": "으음!!",
         "MessageTW": "嗯嗯！！",
-        "MessageEN": ""
+        "MessageEN": "Mmmm!"
     },
     {
         "MessageId": 100780021,
@@ -52,7 +52,7 @@
         "MessageJP": "むむむむむ～っ！！",
         "MessageKR": "으으으으음\\~!!",
         "MessageTW": "嗯嗯嗯嗯嗯～！！",
-        "MessageEN": ""
+        "MessageEN": "Mmmmmm!!"
     },
     {
         "MessageId": 100780030,
@@ -64,7 +64,7 @@
         "MessageJP": "……カスミ？",
         "MessageKR": "……카스미?",
         "MessageTW": "……佳澄？",
-        "MessageEN": ""
+        "MessageEN": "Kasumi?"
     },
     {
         "MessageId": 100780030,
@@ -76,7 +76,7 @@
         "MessageJP": "どうしたの？",
         "MessageKR": "뭔가 고민이라도 있어?",
         "MessageTW": "有什麼煩惱嗎？",
-        "MessageEN": ""
+        "MessageEN": "Thinking hard about a problem?"
     },
     {
         "MessageId": 100780040,
@@ -88,7 +88,7 @@
         "MessageJP": "おお、先生！",
         "MessageKR": "아! 선생님!",
         "MessageTW": "啊！老師！",
-        "MessageEN": ""
+        "MessageEN": "Ah! Sensei!"
     },
     {
         "MessageId": 100780041,
@@ -100,7 +100,7 @@
         "MessageJP": "すぐに返事をくれると信じていたぞ！",
         "MessageKR": "역시 있었어! 대답할 거라 믿고 있었거든.",
         "MessageTW": "問得真好！我一直相信你會這樣回答！",
-        "MessageEN": ""
+        "MessageEN": "I knew it! I knew you would answer!"
     },
     {
         "MessageId": 100780050,
@@ -112,7 +112,7 @@
         "MessageJP": "少し悩んでいる事があってな！",
         "MessageKR": "고민이 있어",
         "MessageTW": "我有個煩惱",
-        "MessageEN": ""
+        "MessageEN": "I do have a problem."
     },
     {
         "MessageId": 100780051,
@@ -124,7 +124,7 @@
         "MessageJP": "それも簡単に解決できるようなものではなくてな……",
         "MessageKR": "아주 큰 고민이지",
         "MessageTW": "而且是相當大的煩惱",
-        "MessageEN": ""
+        "MessageEN": "A very big problem."
     },
     {
         "MessageId": 100780060,
@@ -136,7 +136,7 @@
         "MessageJP": "先生、もしよかったら力になってくれないか？",
         "MessageKR": "선생님이 도와줄 수 있을까?",
         "MessageTW": "老師願意幫助我嗎？",
-        "MessageEN": ""
+        "MessageEN": "You'll help me, won't you, Sensei?"
     },
     {
         "MessageId": 100770077,
@@ -160,7 +160,7 @@
         "MessageJP": "先生！",
         "MessageKR": "선생님!",
         "MessageTW": "老師！",
-        "MessageEN": ""
+        "MessageEN": "Sensei!"
     },
     {
         "MessageId": 100780080,
@@ -172,7 +172,7 @@
         "MessageJP": "非常に残念なお知らせだ",
         "MessageKR": "참으로 유감스럽게 됐어.",
         "MessageTW": "真是太遺憾了",
-        "MessageEN": ""
+        "MessageEN": "What a shame!"
     },
     {
         "MessageId": 100780081,
@@ -184,7 +184,7 @@
         "MessageJP": "タイミング悪く風紀委員がパトロールしていてな",
         "MessageKR": "하필 그 타이밍에 그곳을 선도부가 순찰하고 있었지 뭐야?",
         "MessageTW": "風紀委員會怎麼偏偏那個時間點在那裡巡邏呢？",
-        "MessageEN": ""
+        "MessageEN": "What rotten timing for the Prefect Team to just be passing by."
     },
     {
         "MessageId": 100780090,
@@ -196,7 +196,7 @@
         "MessageJP": "半分は逃げられたんだが……もう半分は捕まってしまった",
         "MessageKR": "한 절반 정도 체포되고, 절반 정도 도망치는 데에 성공했군.",
         "MessageTW": "大約有一半人被逮捕，另一半成功逃走了",
-        "MessageEN": ""
+        "MessageEN": "Half of my people got away, but the other half was arrested!"
     },
     {
         "MessageId": 100780100,
@@ -208,7 +208,7 @@
         "MessageJP": "あ～！残念だ！爆薬を仕込むところまで進んでいたというのに！",
         "MessageKR": "아\\~! 안타깝다! 폭약까지 다 심었는데 말이지!",
         "MessageTW": "啊～！真可惜！我連炸藥都埋好了說！",
-        "MessageEN": ""
+        "MessageEN": "It's a crying shame! The explosives were already primed and ready to go!"
     },
     {
         "MessageId": 100780110,
@@ -220,7 +220,7 @@
         "MessageJP": "そ、そうなんだ。残念だったね",
         "MessageKR": "그, 그렇구나. 힘내.",
         "MessageTW": "這，這樣啊。加油",
-        "MessageEN": "[s] \"I-I see...\""
+        "MessageEN": "I see... Cheer up?"
     },
     {
         "MessageId": 100780120,
@@ -232,7 +232,7 @@
         "MessageJP": "ハーハッハッハッハ！！",
         "MessageKR": "와핫핫핫핫!!",
         "MessageTW": "哈～哈哈哈哈！！",
-        "MessageEN": ""
+        "MessageEN": "Wahahaha!"
     },
     {
         "MessageId": 100780121,
@@ -244,7 +244,7 @@
         "MessageJP": "気にするな！",
         "MessageKR": "신경 쓸 거 없어!",
         "MessageTW": "不必在意！",
-        "MessageEN": ""
+        "MessageEN": "No need to worry!"
     },
     {
         "MessageId": 100780122,
@@ -256,7 +256,7 @@
         "MessageJP": "これくらい、日常茶飯事だ",
         "MessageKR": "이런 건 늘상 있은 일이니까.",
         "MessageTW": "這種小事只是家常便飯而已",
-        "MessageEN": "I'm used to this."
+        "MessageEN": "This sort of things happens all the time."
     },
     {
         "MessageId": 100780130,
@@ -268,7 +268,7 @@
         "MessageJP": "むしろ、こうでなくては面白くない！",
         "MessageKR": "오히려 이쯤 해 줘야 시도할 가치가 있다고 볼 수 있지!",
         "MessageTW": "況且不做到這種程度就沒有嘗試的價值了！",
-        "MessageEN": ""
+        "MessageEN": "It'd be dull if there wasn't a little risk involved!"
     },
     {
         "MessageId": 100780140,
@@ -280,7 +280,7 @@
         "MessageJP": "では！",
         "MessageKR": "그럼!",
         "MessageTW": "那麼！",
-        "MessageEN": ""
+        "MessageEN": "Okay, bye!"
     },
     {
         "MessageId": 100780141,
@@ -292,6 +292,6 @@
         "MessageJP": "また会おう、先生！",
         "MessageKR": "다음에 또 보자고, 선생님!",
         "MessageTW": "下次見囉，老師！",
-        "MessageEN": ""
+        "MessageEN": "See you later, Sensei!"
     }
 ]

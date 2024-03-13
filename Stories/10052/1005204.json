@@ -39,7 +39,7 @@
         "ImagePath": "",
         "MessageJP": "モノレール点検中、突然のにわか雨でレールの一部が損傷してしまったようで……",
         "MessageKR": "모노레일 점검 중에 갑작스러운 소나기가 내리는 바람에 레일이 일부 손상된 모양이에요.",
-        "MessageTW": "因為在維護單軌列車時，突然下起雷陣雨，部分的軌道好像受損了",
+        "MessageTW": "因為在維護單軌列車時突然下起雷陣雨的關係，似乎造成了部分軌道的受損",
         "MessageEN": "Apparently, a sudden rain shower during monorail maintenance caused some damage."
     },
     {
@@ -51,7 +51,7 @@
         "ImagePath": "",
         "MessageJP": "そのため、一部メンバーたちが学園に足止めをされているとのことです",
         "MessageKR": "그때문에 일부 임원들이 아직도 학원에 발이 묶여 있다고 합니다.",
-        "MessageTW": "部分的成員也因此被困在學園裡",
+        "MessageTW": "有些成員也因此被困在學園裡",
         "MessageEN": "As a result, many are stuck at the academy."
     },
     {
@@ -63,7 +63,7 @@
         "ImagePath": "",
         "MessageJP": "無駄足になっては申し訳ないので、事前連絡とさせていただきました",
         "MessageKR": "관련하여 미리 연락 드리니, 혹시라도 헛걸음하는 일 없으시길 바라겠습니다.",
-        "MessageTW": "擔心讓老師白跑一趟，所以提前與您聯繫",
+        "MessageTW": "為了避免老師白跑一趟，在此先通知老師",
         "MessageEN": "I'm letting you know in advance so you don't end up coming needlessly."
     },
     {

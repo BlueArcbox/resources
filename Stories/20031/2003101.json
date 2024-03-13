@@ -28,7 +28,7 @@
         "MessageJP": "先生",
         "MessageKR": "선생님.",
         "MessageTW": "老師",
-        "MessageEN": ""
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 200310020,
@@ -40,7 +40,7 @@
         "MessageJP": "この前、シャーレに新しく休憩室を作るから、畳が必要って言ってなかった？",
         "MessageKR": "전에 샬레의 휴게실을 보수하는 데 다다미가 필요하다고 하지 않았았어?",
         "MessageTW": "你之前是不是有說過整修夏萊的休息室需要榻榻米？",
-        "MessageEN": ""
+        "MessageEN": "Didn't you say that you needed some tatami mats for Schale's lounge?"
     },
     {
         "MessageId": 200310030,
@@ -52,7 +52,7 @@
         "MessageJP": "うん、座敷の休憩室が欲しいって言われて……",
         "MessageKR": "응. 좌식 휴게실을 원하는 학생들이 몇 있어서……",
         "MessageTW": "嗯，因為有幾個學生想要那種休息室……",
-        "MessageEN": ""
+        "MessageEN": "Yup. A few of the students would like to be able to sit comfortably on the floor."
     },
     {
         "MessageId": 200310030,
@@ -64,7 +64,7 @@
         "MessageJP": "でも、急にどうしたの？",
         "MessageKR": "그런 이야기를 한 것 같기는 한데…… 갑자기 왜?",
         "MessageTW": "好像有說過……怎麼突然問這個？",
-        "MessageEN": ""
+        "MessageEN": "I think I mentioned it, but... Why do you ask?"
     },
     {
         "MessageId": 200310040,
@@ -76,7 +76,7 @@
         "MessageJP": "じゃあ今度、旧校舎来たときに持っていっていいよ",
         "MessageKR": "그럼 다음에 구교사에 올 때 다다미 좀 가져가.",
         "MessageTW": "那老師下次來舊校舍的時候可以拿一些榻榻米走哦",
-        "MessageEN": ""
+        "MessageEN": "Next time you visit the Former Institute, I'll have some tatami mats for you."
     },
     {
         "MessageId": 200310050,
@@ -88,7 +88,7 @@
         "MessageJP": "温泉郷の跡地を整理してたら、高級畳をたくさん見つけてさ",
         "MessageKR": "저번에 무너진 온천장을 정리하다가 창고에 쌓아 놨던 고급 다다미를 잔뜩 찾았거든.",
         "MessageTW": "之前整理崩毀的溫泉浴場時，我找到很多積放在倉庫的高級榻榻米",
-        "MessageEN": ""
+        "MessageEN": "I found a whole bunch of fine tatami in storage when we were cleaning up after the hot spring resort."
     },
     {
         "MessageId": 200310060,
@@ -100,7 +100,7 @@
         "MessageJP": "特別クラスでは使わないの？",
         "MessageKR": "특별반에서 직접 쓰지 그래?",
         "MessageTW": "特別班不留著用嗎？",
-        "MessageEN": ""
+        "MessageEN": "The Spec Ops students don't want them?"
     },
     {
         "MessageId": 200310070,
@@ -112,7 +112,7 @@
         "MessageJP": "うーん、畳って香りはいいんだけど……",
         "MessageKR": "음, 푹신하고 좋은 향이 나기는 하지만……",
         "MessageTW": "唔嗯，雖然很鬆軟而且有香味……",
-        "MessageEN": ""
+        "MessageEN": "Well... They are pretty soft, and they smell nice, but..."
     },
     {
         "MessageId": 200310071,
@@ -124,7 +124,7 @@
         "MessageJP": "腐りやすいから、旧校舎にはあまり向かない気がするんだよね",
         "MessageKR": "다다미 바닥은 썩기 쉬우니까. 구교사의 환경에는 그다지 적합하지 않은 것 같아서.",
         "MessageTW": "但是榻榻米很容易壞，感覺不太適合舊校舍的環境",
-        "MessageEN": ""
+        "MessageEN": "Tatami floors rot too easily. I don't think the Former Institute is a good place for them."
     },
     {
         "MessageId": 200310072,
@@ -136,7 +136,7 @@
         "MessageJP": "でも、このまま放置しておくのももったいないし……",
         "MessageKR": "하지만 이대로 방치해 두는 것도 아깝고……",
         "MessageTW": "不過就這樣放著也很可惜……",
-        "MessageEN": ""
+        "MessageEN": "And just leaving them in storage is a waste..."
     },
     {
         "MessageId": 200310080,
@@ -148,7 +148,7 @@
         "MessageJP": "必要な人がいるならあげたほうがいいかなって",
         "MessageKR": "이왕이면 필요한 곳에서 가져다 쓰는 편이 좋을 것 같아서.",
         "MessageTW": "既然如此，我覺得給有需要的人使用比較好",
-        "MessageEN": ""
+        "MessageEN": "I think it'd be better to give them to someone who'll actually use them."
     },
     {
         "MessageId": 200310090,
@@ -160,7 +160,7 @@
         "MessageJP": "それはありがたいけど……",
         "MessageKR": "하지만 구교사의 물건을 가져다 쓰려니 어쩐지 미안한걸.",
         "MessageTW": "拿舊校舍的東西來用，總覺得有點不好意思……",
-        "MessageEN": "I feel a bit bad about using stuff from the Former Institute."
+        "MessageEN": "I feel bad taking anything from the Former Institute."
     },
     {
         "MessageId": 200310090,
@@ -172,7 +172,7 @@
         "MessageJP": "旧校舎の修理に必要な素材は足りてる？",
         "MessageKR": "구교사의 보수에 필요한 재료는 부족하지 않아?",
         "MessageTW": "整修舊校舍的材料不會不夠嗎？",
-        "MessageEN": ""
+        "MessageEN": "Don't you need materials for your renovations and repairs?"
     },
     {
         "MessageId": 200310100,
@@ -184,7 +184,7 @@
         "MessageJP": "うん。温泉郷跡から資材は十分手に入ったから",
         "MessageKR": "괜찮아. 무너진 폐허에서 필요한 자재는 충분히 구할 수 있었거든.",
         "MessageTW": "沒關係。溫泉浴場留下的材料就已經很夠了",
-        "MessageEN": ""
+        "MessageEN": "It's all right. We can find plenty of materials scavenging around the nearby ruins."
     },
     {
         "MessageId": 200310101,
@@ -196,7 +196,7 @@
         "MessageJP": "強いて言うなら……",
         "MessageKR": "그 밖에 아쉬운 점이라면……",
         "MessageTW": "要說還缺了什麼的話……",
-        "MessageEN": ""
+        "MessageEN": "If there's anything we don't have enough of..."
     },
     {
         "MessageId": 200310102,
@@ -208,7 +208,7 @@
         "MessageJP": "甘いお菓子、とかかな？",
         "MessageKR": "역시 입을 달래 줄 만한 간식 정도려나.",
         "MessageTW": "能解饞的零食，之類的吧？",
-        "MessageEN": ""
+        "MessageEN": "It's snacks. Good ones to keep our mouths entertained."
     },
     {
         "MessageId": 200310110,
@@ -220,7 +220,7 @@
         "MessageJP": "他の食材はその辺でいくらでも手に入るけど、お菓子はそうもいかないからね",
         "MessageKR": "다른 식재료라면 야생에서도 얼마든지 구할 수 있는데, 달콤한 과자는 언제나 아쉽거든.",
         "MessageTW": "其他食材在這附近也能取得，但香甜的點心總是很缺",
-        "MessageEN": ""
+        "MessageEN": "There's more than enough food if we forage in the wild, but sweets are always in short supply."
     },
     {
         "MessageId": 200310120,
@@ -232,7 +232,7 @@
         "MessageJP": "じゃあ、畳はお菓子と交換しよう",
         "MessageKR": "그럼 다음에 기회가 되면 과자를 좀 사 갈게.",
         "MessageTW": "那下次有機會的話，我會買一些點心過去",
-        "MessageEN": "I'll bring some cookies when I can next time."
+        "MessageEN": "I'll bring some cookies next time I swing by."
     },
     {
         "MessageId": 200310130,
@@ -244,7 +244,7 @@
         "MessageJP": "ふふっ、いいね。楽しみにしてる",
         "MessageKR": "후후, 기대하고 있겠어.",
         "MessageTW": "呵呵，我會期待的",
-        "MessageEN": ""
+        "MessageEN": "Heehee. I'm looking forward to it."
     },
     {
         "MessageId": 200310131,
@@ -256,7 +256,7 @@
         "MessageJP": "じゃあ、また今度ね、先生",
         "MessageKR": "그럼 다음에 보자, 선생님.",
         "MessageTW": "那麼之後見囉，老師",
-        "MessageEN": ""
+        "MessageEN": "See you later, Sensei."
     },
     {
         "MessageId": 200300137,

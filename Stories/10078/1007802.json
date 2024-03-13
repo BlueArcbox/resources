@@ -28,7 +28,7 @@
         "MessageJP": "先生～？",
         "MessageKR": "선생님\\~?",
         "MessageTW": "老師～？",
-        "MessageEN": ""
+        "MessageEN": "Sensei!"
     },
     {
         "MessageId": 100780160,
@@ -40,7 +40,7 @@
         "MessageJP": "いま、時間は大丈夫だろうか？",
         "MessageKR": "혹시 지금 시간 괜찮을까?",
         "MessageTW": "你現在有空嗎？",
-        "MessageEN": ""
+        "MessageEN": "Is now a good time to meet?"
     },
     {
         "MessageId": 100780161,
@@ -52,7 +52,7 @@
         "MessageJP": "すごいことを思いついてね",
         "MessageKR": "엄청난 생각이 떠올라서 말이지.",
         "MessageTW": "我想到了一個非常棒的想法",
-        "MessageEN": ""
+        "MessageEN": "I had the most amazing idea."
     },
     {
         "MessageId": 100780170,
@@ -64,7 +64,7 @@
         "MessageJP": "今！まさに今！",
         "MessageKR": "바로 지금!",
         "MessageTW": "就是現在！",
-        "MessageEN": ""
+        "MessageEN": "Right now!"
     },
     {
         "MessageId": 100780180,
@@ -76,7 +76,7 @@
         "MessageJP": "まさか、また爆破計画……？",
         "MessageKR": "설마 또 발파 계획?",
         "MessageTW": "難道又是爆破計畫？",
-        "MessageEN": ""
+        "MessageEN": "Planning another detonation?"
     },
     {
         "MessageId": 100780180,
@@ -88,7 +88,7 @@
         "MessageJP": "もしかして会議？",
         "MessageKR": "앗, 회의 시간인 거야?",
         "MessageTW": "啊，是要開會嗎？",
-        "MessageEN": ""
+        "MessageEN": "Is it time for a meeting already?"
     },
     {
         "MessageId": 100780190,
@@ -100,7 +100,7 @@
         "MessageJP": "さすがは先生、以心伝心じゃないか？",
         "MessageKR": "역\\~시 선생님이야. 척하면 척이구만?",
         "MessageTW": "真～不愧是老師。這就是所謂的心有靈犀一點通嗎？",
-        "MessageEN": ""
+        "MessageEN": "You don't disappoint, Sensei! You got it right away."
     },
     {
         "MessageId": 100780191,
@@ -112,7 +112,7 @@
         "MessageJP": "その通り！",
         "MessageKR": "바로 그 말 대로지!",
         "MessageTW": "正是如此！",
-        "MessageEN": ""
+        "MessageEN": "It's exactly what it sounds like!"
     },
     {
         "MessageId": 100780200,
@@ -124,7 +124,7 @@
         "MessageJP": "だが……",
         "MessageKR": "그렇지만",
         "MessageTW": "但是……",
-        "MessageEN": ""
+        "MessageEN": "But..."
     },
     {
         "MessageId": 100780201,
@@ -136,7 +136,7 @@
         "MessageJP": "今日は前回とは違うぞ？",
         "MessageKR": "이번에는 전과 좀 다를 거라고?",
         "MessageTW": "這次跟之前可不一樣哦？",
-        "MessageEN": ""
+        "MessageEN": "This time will be different from last time, you know?"
     },
     {
         "MessageId": 100780210,
@@ -148,7 +148,7 @@
         "MessageJP": "……不屈の意志だね。",
         "MessageKR": "……불굴의 의지구나.",
         "MessageTW": "……真是不屈不撓的意志啊",
-        "MessageEN": ""
+        "MessageEN": "Such unbreakable willpower."
     },
     {
         "MessageId": 100780210,
@@ -160,7 +160,7 @@
         "MessageJP": "諦めないんだね。",
         "MessageKR": "포기하지 않는구나.",
         "MessageTW": "看來是不會放棄啊",
-        "MessageEN": ""
+        "MessageEN": "You don't give up."
     },
     {
         "MessageId": 100780220,
@@ -172,7 +172,7 @@
         "MessageJP": "ハーハッハッハッハ！！",
         "MessageKR": "와핫핫핫핫!",
         "MessageTW": "哈～哈哈哈哈！",
-        "MessageEN": ""
+        "MessageEN": "Wahahaha!!"
     },
     {
         "MessageId": 100780221,
@@ -184,7 +184,7 @@
         "MessageJP": "そんなにおだてても何も出ないぞ！",
         "MessageKR": "그렇게 치켜세워 주지 않아도 괜찮으니까!",
         "MessageTW": "那樣抬舉我也不會有好處的哦！",
-        "MessageEN": "No need to praise me like that!"
+        "MessageEN": "You're gonna make me blush!"
     },
     {
         "MessageId": 100780230,
@@ -196,7 +196,7 @@
         "MessageJP": "さあさあ、とりあえず来てくれ！場所は送っておく！",
         "MessageKR": "자, 자. 일단 찾아오라고. 장소를 보내 놓을 테니!",
         "MessageTW": "來來來，總之先來找我吧！我把地點傳給你！",
-        "MessageEN": ""
+        "MessageEN": "Come along now. I'll send you the location!"
     },
     {
         "MessageId": 100770247,
@@ -220,7 +220,7 @@
         "MessageJP": "先生！",
         "MessageKR": "아, 선생님!",
         "MessageTW": "啊，老師！",
-        "MessageEN": ""
+        "MessageEN": "Ah! Sensei!"
     },
     {
         "MessageId": 100780250,
@@ -232,7 +232,7 @@
         "MessageJP": "呼び出しておいて、先に寝てしまうとは",
         "MessageKR": "이런이런. 기껏 불러 놓고 먼저 자 버리다니",
         "MessageTW": "哎呀哎呀，好不容易才把老師請來，結果我卻先睡著了",
-        "MessageEN": ""
+        "MessageEN": "Good grief. To call you here and then fall asleep..."
     },
     {
         "MessageId": 100780251,
@@ -244,7 +244,7 @@
         "MessageJP": "悪かったな、謝罪する",
         "MessageKR": "실례를 범했구만. 미안, 미안.",
         "MessageTW": "真是失敬，抱歉抱歉",
-        "MessageEN": ""
+        "MessageEN": "What an embarrassment. Sorry 'bout that."
     },
     {
         "MessageId": 100780260,
@@ -256,7 +256,7 @@
         "MessageJP": "大丈夫、気にしないで",
         "MessageKR": "괜찮아. 신경 쓰지 마.",
         "MessageTW": "沒關係，不用放在心上",
-        "MessageEN": ""
+        "MessageEN": "It's all right. Don't worry about it."
     },
     {
         "MessageId": 100780260,
@@ -268,7 +268,7 @@
         "MessageJP": "ポイントはどうかな？",
         "MessageKR": "포인트는 마음에 들어?",
         "MessageTW": "地點還喜歡嗎？",
-        "MessageEN": ""
+        "MessageEN": "Are you happy with the spot we picked?"
     },
     {
         "MessageId": 100780270,
@@ -280,7 +280,7 @@
         "MessageJP": "改めて思うが、本当に完璧なポイントだ！",
         "MessageKR": "음\\~!!",
         "MessageTW": "嗯～！！",
-        "MessageEN": ""
+        "MessageEN": "Mmm!!"
     },
     {
         "MessageId": 100780280,
@@ -292,7 +292,7 @@
         "MessageJP": "よ～～～し！",
         "MessageKR": "다시 봐도 정말 완벽한 포인트야.",
         "MessageTW": "再看一次還是覺得真的很完美",
-        "MessageEN": ""
+        "MessageEN": "It's really the perfect place, no matter how close I look at it."
     },
     {
         "MessageId": 100780281,
@@ -304,7 +304,7 @@
         "MessageJP": "さっそく全員集めなくては！！",
         "MessageKR": "말 나온 김에 지금 바로 전부 불러 모아야겠어!!",
         "MessageTW": "既然如此，得馬上把所有人都叫來才行！！",
-        "MessageEN": ""
+        "MessageEN": "Speaking of which, I'm going to get everyone together!"
     },
     {
         "MessageId": 100780290,
@@ -316,6 +316,6 @@
         "MessageJP": "今日はこれで失礼する！",
         "MessageKR": "그럼, 바빠질 것 같으니 다음에 다시!",
         "MessageTW": "那麼，之後就要忙起來了，下次見囉！",
-        "MessageEN": ""
+        "MessageEN": "It looks like I'm going to pretty be busy, so I'll see you later!"
     }
 ]

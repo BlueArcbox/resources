@@ -28,7 +28,7 @@
         "MessageJP": "この前フルーツ牛乳を作ってから、ずっと試してたんだけど",
         "MessageKR": "지난번에 후르츠 밀크를 만든 뒤로 계속 시험해 봤는데",
         "MessageTW": "上次做了水果牛奶之後，我一直在做實驗",
-        "MessageEN": ""
+        "MessageEN": "I've been experimenting with my fruit milk recipes."
     },
     {
         "MessageId": 200310230,
@@ -40,7 +40,7 @@
         "MessageJP": "フルーツ牛乳は混ぜたばかりのものが一番おいしいと思うんだよね",
         "MessageKR": "다른 음료수와는 달리 후르츠 밀크는 갓 섞은 게 제일 맛있는 것 같더라고",
         "MessageTW": "水果牛奶和其他飲料不同，在剛混合好的時候感覺是最好喝的",
-        "MessageEN": ""
+        "MessageEN": "The thing about fruit milk is that it's always most delicious right after it's mixed."
     },
     {
         "MessageId": 200310240,
@@ -52,7 +52,7 @@
         "MessageJP": "果物は香りや食感が変わりやすいから",
         "MessageKR": "우유에 섞인 과일은 향이나 식감이 변질되기 쉬우니까",
         "MessageTW": "因為混入牛奶中的水果香味和口感很容易變質",
-        "MessageEN": ""
+        "MessageEN": "If you leave it sitting too long, you start getting changes in the smell and texture."
     },
     {
         "MessageId": 200310250,
@@ -64,7 +64,7 @@
         "MessageJP": "そうだね",
         "MessageKR": "그렇긴 하지……",
         "MessageTW": "是沒錯啦……",
-        "MessageEN": ""
+        "MessageEN": "I suppose so."
     },
     {
         "MessageId": 200310250,
@@ -76,7 +76,7 @@
         "MessageJP": "それに牛乳も鮮度が落ちやすいから",
         "MessageKR": "게다가 우유는 상하기도 쉬우니까.",
         "MessageTW": "而且牛奶也很容易壞",
-        "MessageEN": ""
+        "MessageEN": "And of course, there's also the danger of the milk spoiling."
     },
     {
         "MessageId": 200310260,
@@ -88,7 +88,7 @@
         "MessageJP": "でも普通の温泉では、あらかじめ作ってあるフルーツ牛乳を売ってるんだよね？",
         "MessageKR": "그런데 보통의 온천장에서는 미리 만들어 둔 후르츠 밀크를 팔잖아?",
         "MessageTW": "不過溫泉浴場賣的，一般不都是事先做好的水果牛奶嗎？",
-        "MessageEN": ""
+        "MessageEN": "But most hot spring resorts and bathhouses just sell drinks they got from a store, right?"
     },
     {
         "MessageId": 200310261,
@@ -100,7 +100,7 @@
         "MessageJP": "だから、一つ考えてみたんだけど……",
         "MessageKR": "그래서 개선 아이디어를 하나 생각해 봤는데……",
         "MessageTW": "所以我想了一個改善方法……",
-        "MessageEN": ""
+        "MessageEN": "So I had an idea..."
     },
     {
         "MessageId": 200310270,
@@ -112,7 +112,7 @@
         "MessageJP": "休憩室にフルーツ牛乳バーを置くのはどうかな。バーテンダーがいて、お客さんがお風呂から上がったらすぐにフルーツ牛乳をブレンディングしてくれるんだよ",
         "MessageKR": "휴게실 카운터에 바텐더가 상주하고 있다가 손님이 목욕을 하고 나오면 바로 후르츠 밀크를 블렌딩해 주는 거야.",
         "MessageTW": "那就是讓調酒師常駐休息室的吧檯，當客人洗完澡出來就馬上幫客人調製水果牛奶",
-        "MessageEN": ""
+        "MessageEN": "What if there was a bartender in the lounge area, and whenever a customer finished their bath, the bartender mixed them up a fresh fruit milk on the spot?"
     },
     {
         "MessageId": 200310271,
@@ -124,7 +124,7 @@
         "MessageJP": "そうすればフルーツ牛乳を美味しいうちに飲んでもらえるし、お客さんの好みに合わせたブレンディングもできるでしょ？一度試してみる価値はあると思う",
         "MessageKR": "그럼 후르츠 밀크의 맛도 살릴 수 있고, 손님의 취향에 맞는 맞춤 서비스도 제공할 수 있겠지?",
         "MessageTW": "這麼一來不但可以保持水果牛奶的風味，也能提供適合客人愛好的客製化服務對吧？",
-        "MessageEN": ""
+        "MessageEN": "That way, not only does the customer get the best fruit milk possible, but it's also tailor-made for their taste!"
     },
     {
         "MessageId": 200310280,
@@ -136,7 +136,7 @@
         "MessageJP": "面白いアイデアだけど……",
         "MessageKR": "재미있는 생각이기는 하지만……",
         "MessageTW": "這想法確實很有意思……",
-        "MessageEN": ""
+        "MessageEN": "It's an interesting idea, but..."
     },
     {
         "MessageId": 200310290,
@@ -148,7 +148,7 @@
         "MessageJP": "温泉施設はフルーツ牛乳のためにそこまでするかな……？",
         "MessageKR": "우유 하나 때문에 일부러 종업원을 고용하는 온천장이 있을까?",
         "MessageTW": "但會有溫泉浴場只為了水果牛奶而特地雇用服務員嗎？",
-        "MessageEN": ""
+        "MessageEN": "Are there any hot spring resorts that would hire someone just for that?"
     },
     {
         "MessageId": 200310300,
@@ -160,7 +160,7 @@
         "MessageJP": "あ、それについては大丈夫",
         "MessageKR": "그래서 목욕탕 사장님께 소개받은 다른 온천장에서",
         "MessageTW": "所以我決定在澡堂老闆介紹的其他溫泉浴場……",
-        "MessageEN": ""
+        "MessageEN": "The only way to know for sure is to try it out. So I'm doing an experiment."
     },
     {
         "MessageId": 200310301,
@@ -172,7 +172,7 @@
         "MessageJP": "あの銭湯に紹介してもらった温泉で、数日働かせてもらうことになったから",
         "MessageKR": "시험 삼아 며칠간 일해보기로 했어.",
         "MessageTW": "工作幾天試試看",
-        "MessageEN": ""
+        "MessageEN": "The owner of the bathhouse in town set me up with a temporary job at another hot spring resort."
     },
     {
         "MessageId": 200310310,
@@ -184,7 +184,7 @@
         "MessageJP": "…………え？",
         "MessageKR": "……갑자기?",
         "MessageTW": "……這麼突然？",
-        "MessageEN": ""
+        "MessageEN": "...Well that's pretty sudden."
     },
     {
         "MessageId": 200300327,
@@ -208,7 +208,7 @@
         "MessageJP": "先生、結局風邪ひいたんだって？",
         "MessageKR": "……선생님. 결국 감기에 걸렸다며?",
         "MessageTW": "……老師，結果你感冒了？",
-        "MessageEN": ""
+        "MessageEN": "Sensei. I hear you caught a cold."
     },
     {
         "MessageId": 200310330,
@@ -220,7 +220,7 @@
         "MessageJP": "さっきシャーレに用事があったから",
         "MessageKR": "아까 돌아가는 길에 잠깐 샬레에 들를 일이 있어서",
         "MessageTW": "剛才回去的路上有事路過了夏萊",
-        "MessageEN": ""
+        "MessageEN": "I had to stop by near Schale on my way home."
     },
     {
         "MessageId": 200310331,
@@ -232,7 +232,7 @@
         "MessageJP": "休憩室に生姜を入れたミルクティーを置いてきたよ",
         "MessageKR": "휴게실에 생강과 홍차를 섞은 우유를 두고 왔어.",
         "MessageTW": "我在休息室放了加入生薑和紅茶的奶茶哦",
-        "MessageEN": ""
+        "MessageEN": "I left some ginger and milk tea for you in the lounge."
     },
     {
         "MessageId": 200310340,
@@ -244,7 +244,7 @@
         "MessageJP": "寒気がする時に温めて飲んでね",
         "MessageKR": "몸이 으슬으슬 할 때마다 조금씩 데워서 마시도록 해",
         "MessageTW": "身體發冷的時候就熱一些來喝吧",
-        "MessageEN": ""
+        "MessageEN": "Please help yourself if you're feeling chilly."
     },
     {
         "MessageId": 200310350,
@@ -256,7 +256,7 @@
         "MessageJP": "今の私にぴったりなブレンドだね……",
         "MessageKR": "지금의 나에게 딱 맞는 우유 블렌딩이네……",
         "MessageTW": "這個牛奶特調正適合現在的我呢……",
-        "MessageEN": ""
+        "MessageEN": "You've picked out just the milk blend I need..."
     },
     {
         "MessageId": 200310350,
@@ -268,7 +268,7 @@
         "MessageJP": "わざわざ気を遣ってくれてありがとう",
         "MessageKR": "일부러 챙겨줘서 고마워.",
         "MessageTW": "謝謝你這麼為我著想",
-        "MessageEN": ""
+        "MessageEN": "Thank you for taking care of me."
     },
     {
         "MessageId": 200310360,
@@ -280,7 +280,7 @@
         "MessageJP": "だから私と一緒のお布団で寝ればいいって言ったのに",
         "MessageKR": "그러니까 처음부터 나랑 같이 이불을 덮고 잤으면 좋았을 텐데.",
         "MessageTW": "所以我才說要跟我一起蓋被子睡嘛",
-        "MessageEN": ""
+        "MessageEN": "You should have just shared a futon with me like I asked."
     },
     {
         "MessageId": 200310361,
@@ -292,7 +292,7 @@
         "MessageJP": "今日はあったかいお布団でぐっすり寝てね",
         "MessageKR": "오늘은 꼭 두꺼운 이불을 덮고 푹 자도록 해.",
         "MessageTW": "今天一定要蓋上暖暖的棉被好好睡一覺哦",
-        "MessageEN": ""
+        "MessageEN": "Make sure to use extra thick blankets tonight."
     },
     {
         "MessageId": 200310370,
@@ -304,7 +304,7 @@
         "MessageJP": "……「発酵」に頼らずに",
         "MessageKR": "……술에는 의존하지 말고.",
         "MessageTW": "……可別依賴酒哦",
-        "MessageEN": ""
+        "MessageEN": "Alcohol is not enough to keep you warm."
     },
     {
         "MessageId": 200310380,
@@ -316,6 +316,6 @@
         "MessageJP": "……肝に銘じます",
         "MessageKR": "……명심하겠습니다.",
         "MessageTW": "……我會銘記在心",
-        "MessageEN": ""
+        "MessageEN": "I'll keep that in mind..."
     }
 ]

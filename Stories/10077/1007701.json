@@ -28,7 +28,7 @@
         "MessageJP": "先生、こんにちは",
         "MessageKR": "이야기 들었습니다",
         "MessageTW": "老師，我聽說了",
-        "MessageEN": ""
+        "MessageEN": "Rumor has it"
     },
     {
         "MessageId": 100770020,
@@ -40,7 +40,7 @@
         "MessageJP": "今度、トリニティに来るって聞いたんですが",
         "MessageKR": "이번에 트리니티 오신다면서요?",
         "MessageTW": "你這次要來三一對吧？",
-        "MessageEN": ""
+        "MessageEN": "that you're coming to Trinity today."
     },
     {
         "MessageId": 100770030,
@@ -52,7 +52,7 @@
         "MessageJP": "どういうわけか",
         "MessageKR": "하하",
         "MessageTW": "哈哈",
-        "MessageEN": ""
+        "MessageEN": "Haha"
     },
     {
         "MessageId": 100770031,
@@ -64,7 +64,7 @@
         "MessageJP": "今回は私が先生を手伝うことになったみたいで",
         "MessageKR": "어쩌다 보니",
         "MessageTW": "不知道什麼原因",
-        "MessageEN": ""
+        "MessageEN": "Believe it or not,"
     },
     {
         "MessageId": 100770032,
@@ -76,7 +76,7 @@
         "MessageJP": "そういうことなので、よろしくお願いします",
         "MessageKR": "이번에는 제가 옆에서 돕게 됐네요",
         "MessageTW": "這次似乎是由我來協助老師",
-        "MessageEN": ""
+        "MessageEN": "I've been assigned to help you out this time."
     },
     {
         "MessageId": 100770040,
@@ -88,7 +88,7 @@
         "MessageJP": "こんにちは、イチカ",
         "MessageKR": "오, 안녕. 이치카.",
         "MessageTW": "你好呀，一花",
-        "MessageEN": ""
+        "MessageEN": "Hello, Ichika."
     },
     {
         "MessageId": 100770040,
@@ -100,7 +100,7 @@
         "MessageJP": "よろしくね！",
         "MessageKR": "잘 부탁해!",
         "MessageTW": "那就拜託你囉！",
-        "MessageEN": ""
+        "MessageEN": "Let's do our best!"
     },
     {
         "MessageId": 100770050,
@@ -112,7 +112,7 @@
         "MessageJP": "はい！",
         "MessageKR": "네\\~",
         "MessageTW": "好～",
-        "MessageEN": ""
+        "MessageEN": "Yes!"
     },
     {
         "MessageId": 100770051,
@@ -124,7 +124,7 @@
         "MessageJP": "では、また後ほど",
         "MessageKR": "그때 뵙겠습니다!",
         "MessageTW": "待會見！",
-        "MessageEN": ""
+        "MessageEN": "I'll see you there!"
     },
     {
         "MessageId": 100760067,
@@ -148,7 +148,7 @@
         "MessageJP": "先生、着きました？",
         "MessageKR": "선생님\\~ 잘 들어가셨습니까",
         "MessageTW": "老師～平安回去了嗎？",
-        "MessageEN": ""
+        "MessageEN": "Sensei! Did you make it back all right?"
     },
     {
         "MessageId": 100770070,
@@ -160,7 +160,7 @@
         "MessageJP": "うん、おかげさまで",
         "MessageKR": "잘 들어왔어.",
         "MessageTW": "順利回來囉",
-        "MessageEN": ""
+        "MessageEN": "I did."
     },
     {
         "MessageId": 100770070,
@@ -172,7 +172,7 @@
         "MessageJP": "ありがとう、イチカ",
         "MessageKR": "덕분에 안전하게 왔네.",
         "MessageTW": "託你的福，安全回來了",
-        "MessageEN": ""
+        "MessageEN": "Thanks to you."
     },
     {
         "MessageId": 100770080,
@@ -184,7 +184,7 @@
         "MessageJP": "これくらいお安いご用です",
         "MessageKR": "뭐 이런 걸로 ㅎㅎ",
         "MessageTW": "老師太客氣了啦，呵呵",
-        "MessageEN": ""
+        "MessageEN": "It was nothing. Haha."
     },
     {
         "MessageId": 100770090,
@@ -196,7 +196,7 @@
         "MessageJP": "それじゃ",
         "MessageKR": "그럼 무사히 들어가신 걸로 알고",
         "MessageTW": "既然老師已經順利抵達",
-        "MessageEN": ""
+        "MessageEN": "Now that I've confirmed your safe return,"
     },
     {
         "MessageId": 100770091,
@@ -208,7 +208,7 @@
         "MessageJP": "私もそろそろ寝るんで",
         "MessageKR": "저도 이만 자겠습니다",
         "MessageTW": "那我也差不多該睡了",
-        "MessageEN": ""
+        "MessageEN": "I shall go to bed as well."
     },
     {
         "MessageId": 100770092,
@@ -220,6 +220,6 @@
         "MessageJP": "おやすみなさーい",
         "MessageKR": "좋은 밤\\~",
         "MessageTW": "晚安～",
-        "MessageEN": ""
+        "MessageEN": "Good night!"
     }
 ]

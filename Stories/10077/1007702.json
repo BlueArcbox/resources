@@ -28,7 +28,7 @@
         "MessageJP": "んー",
         "MessageKR": "아",
         "MessageTW": "啊",
-        "MessageEN": ""
+        "MessageEN": "Ah..."
     },
     {
         "MessageId": 100770110,
@@ -40,7 +40,7 @@
         "MessageJP": "どうしたもんかなぁ",
         "MessageKR": "뭐하지",
         "MessageTW": "該怎麼說呢",
-        "MessageEN": ""
+        "MessageEN": "What to do?"
     },
     {
         "MessageId": 100770120,
@@ -52,7 +52,7 @@
         "MessageJP": "先生って ",
         "MessageKR": "선생님은 ",
         "MessageTW": "老師你",
-        "MessageEN": ""
+        "MessageEN": "Sensei... "
     },
     {
         "MessageId": 100770121,
@@ -64,7 +64,7 @@
         "MessageJP": "仕事がないときは何してるんですか？",
         "MessageKR": "일 없을 때 뭐 하시나요",
         "MessageTW": "工作之餘都在做什麼？",
-        "MessageEN": "What do you do when you have no work?"
+        "MessageEN": "What do you do when you don't have any work?"
     },
     {
         "MessageId": 100770130,
@@ -76,7 +76,7 @@
         "MessageJP": "死んだように寝てるかな……",
         "MessageKR": "죽은 듯이 자는 편이지",
         "MessageTW": "睡得像死人一樣",
-        "MessageEN": ""
+        "MessageEN": "I sleep like a log."
     },
     {
         "MessageId": 100770130,
@@ -88,7 +88,7 @@
         "MessageJP": "漫画を読んだりゲームをしてるよ",
         "MessageKR": "게임이나…… 취미? 그런데 왜?",
         "MessageTW": "遊戲或……興趣吧？怎麼了嗎？",
-        "MessageEN": ""
+        "MessageEN": "Or play games... Or work on another hobby. Why do you ask?"
     },
     {
         "MessageId": 100770140,
@@ -100,7 +100,7 @@
         "MessageJP": "あー",
         "MessageKR": "음",
         "MessageTW": "嗯……",
-        "MessageEN": ""
+        "MessageEN": "Mm."
     },
     {
         "MessageId": 100770141,
@@ -112,7 +112,7 @@
         "MessageJP": "なるほど",
         "MessageKR": "그렇군요",
         "MessageTW": "原來如此",
-        "MessageEN": ""
+        "MessageEN": "I see."
     },
     {
         "MessageId": 100770150,
@@ -124,7 +124,7 @@
         "MessageJP": "そんな感じなんですね",
         "MessageKR": "네ㅎ",
         "MessageTW": "這樣啊，呵呵",
-        "MessageEN": ""
+        "MessageEN": "Yes. Haha..."
     },
     {
         "MessageId": 100760167,
@@ -148,7 +148,7 @@
         "MessageJP": "やー、楽しかった",
         "MessageKR": "이야\\~ 즐거웠습니다.",
         "MessageTW": "哎呀～真開心",
-        "MessageEN": ""
+        "MessageEN": "Wow, that was fun."
     },
     {
         "MessageId": 100770170,
@@ -160,7 +160,7 @@
         "MessageJP": "今日はすっごい充実しましたね",
         "MessageKR": "저로서는 완전 이득 본 날이네요. 여러모로.",
         "MessageTW": "對我來說，今天真是在各方面都賺到了",
-        "MessageEN": "Today was a really good day of benefits for me. In a lot of ways."
+        "MessageEN": "I got a lot out of today. In many ways."
     },
     {
         "MessageId": 100770180,
@@ -172,7 +172,7 @@
         "MessageJP": "ギターはまだ弾いてるの？",
         "MessageKR": "기타는 계속 치고 있어?",
         "MessageTW": "還在彈吉他嗎？",
-        "MessageEN": ""
+        "MessageEN": "Are you going to keep up the guitar?"
     },
     {
         "MessageId": 100770180,
@@ -184,7 +184,7 @@
         "MessageJP": "演奏に興味は出てきた？",
         "MessageKR": "연주에는 흥미가 좀 붙었어?",
         "MessageTW": "對演奏產生興趣了嗎？",
-        "MessageEN": ""
+        "MessageEN": "Playing was fun, right?"
     },
     {
         "MessageId": 100770190,
@@ -196,7 +196,7 @@
         "MessageJP": "へ？",
         "MessageKR": "네?",
         "MessageTW": "咦？",
-        "MessageEN": ""
+        "MessageEN": "Huh?"
     },
     {
         "MessageId": 100770200,
@@ -208,7 +208,7 @@
         "MessageJP": "あーいや",
         "MessageKR": "아아",
         "MessageTW": "這個……",
-        "MessageEN": ""
+        "MessageEN": "Ahhh..."
     },
     {
         "MessageId": 100770210,
@@ -220,7 +220,7 @@
         "MessageJP": "家でも何回かやってみたけど",
         "MessageKR": "아뇨",
         "MessageTW": "不……",
-        "MessageEN": ""
+        "MessageEN": "No."
     },
     {
         "MessageId": 100770211,
@@ -232,7 +232,7 @@
         "MessageJP": "あんまり気が乗らなくて",
         "MessageKR": "집에서 혼자 몇 번 더 쳐 보긴 했는데, 역시 흥미가 안 붙어서",
         "MessageTW": "我在家裡又彈了幾次，但還是沒什麼興趣",
-        "MessageEN": ""
+        "MessageEN": "I tried playing a few times at home, but I just can't get into it."
     },
     {
         "MessageId": 100770212,
@@ -244,7 +244,7 @@
         "MessageJP": "押し入れに入れちゃったんすよね",
         "MessageKR": "방 한쪽에 놔뒀습니다",
         "MessageTW": "所以就放在房間的角落了",
-        "MessageEN": ""
+        "MessageEN": "Now my guitar sits in the corner of my room."
     },
     {
         "MessageId": 100770220,
@@ -256,6 +256,6 @@
         "MessageJP": "あはは",
         "MessageKR": "하하",
         "MessageTW": "啊哈哈",
-        "MessageEN": ""
+        "MessageEN": "Haha."
     }
 ]
