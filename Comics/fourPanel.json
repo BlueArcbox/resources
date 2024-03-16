@@ -1559,5 +1559,26 @@
             }
         ],
         "pictures_count": 2
+    },
+    {
+        "dynamic_id": 909054756191731744,
+        "description": "【国际服资讯】【官方四格漫画第125话】 \n▎另类应援!?\n​\n无论如何都要全力以赴\n不能辜负在场上努力的伙伴阿!\n\n阿...这...\n\n#碧蓝档案漫画连载中# #第125话# #蔚蓝档案# #碧蓝档案# #BlueArchive#",
+        "pictures": [
+            {
+                "img_height": 1280,
+                "img_size": 256.3800048828125,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/370b69dc7f299f3175411cd7e38e76fd37507923.jpg",
+                "img_tags": null,
+                "img_width": 800
+            },
+            {
+                "img_height": 568,
+                "img_size": 59.52999877929688,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/d0d7f7a6e105db77fafcb6d5ba28479b37507923.jpg",
+                "img_tags": null,
+                "img_width": 800
+            }
+        ],
+        "pictures_count": 2
     }
 ]

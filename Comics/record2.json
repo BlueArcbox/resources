@@ -684,5 +684,19 @@
             }
         ],
         "pictures_count": 1
+    },
+    {
+        "dynamic_id": 908613199196061713,
+        "description": "【青春record】官方漫画第48话\n老师，枫香同学和朱莉同学好像在用餐呢♪\n\n🔷作:せるげい(@pattundo)老师\n\n#碧蓝档案##蔚蓝档案#",
+        "pictures": [
+            {
+                "img_height": 1522,
+                "img_size": 920.7999877929688,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/563df38efde4d133d105f6555f90b73437507923.jpg",
+                "img_tags": null,
+                "img_width": 1080
+            }
+        ],
+        "pictures_count": 1
     }
 ]
