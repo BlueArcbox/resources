@@ -1580,5 +1580,26 @@
             }
         ],
         "pictures_count": 2
+    },
+    {
+        "dynamic_id": 911650600066744359,
+        "description": "【国际服资讯】【官方四格漫画第126话】 \n▎中头奖!?\n美食当前任何大奖都不重要!\n​\n或许今年的Pizza机有改良...\n\n#碧蓝档案漫画连载中# #第126话# #蔚蓝档案# #碧蓝档案# #BlueArchive#",
+        "pictures": [
+            {
+                "img_height": 1280,
+                "img_size": 238.279296875,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/cccb32a1b8bb725d26680238672e14f537507923.jpg",
+                "img_tags": null,
+                "img_width": 800
+            },
+            {
+                "img_height": 587,
+                "img_size": 71.6669921875,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/716bff599487e106ebb96f99143302e837507923.jpg",
+                "img_tags": null,
+                "img_width": 800
+            }
+        ],
+        "pictures_count": 2
     }
 ]

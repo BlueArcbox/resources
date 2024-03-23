@@ -698,5 +698,19 @@
             }
         ],
         "pictures_count": 1
+    },
+    {
+        "dynamic_id": 911200693680865284,
+        "description": "【青春record】官方漫画第49话\n老师！忧同学还是一如既往地容易害羞呢！\n\n🔷作:せるげい(@pattundo)老师\n\n#碧蓝档案##蔚蓝档案#",
+        "pictures": [
+            {
+                "img_height": 1729,
+                "img_size": 743.469970703125,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/12f29c5bc46898aea4b1065175698b2a37507923.jpg",
+                "img_tags": null,
+                "img_width": 1228
+            }
+        ],
+        "pictures_count": 1
     }
 ]
