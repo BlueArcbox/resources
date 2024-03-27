@@ -3,7 +3,7 @@
         "CharacterId": 16014,
         "MessageJP": "イブキ",
         "MessageKR": "이부키",
-        "MessageTW": "イブキ",
+        "MessageTW": "伊吹",
         "MessageEN": "Ibuki"
     },
     {
@@ -183,7 +183,7 @@
         "ImagePath": "",
         "MessageJP": "イブキの絆イベントへ",
         "MessageKR": "이부키의 인연스토리로",
-        "MessageTW": "前往イブキ的羈絆劇情",
+        "MessageTW": "前往伊吹的羈絆劇情",
         "MessageEN": "Go to Ibuki's Event"
     }
 ]

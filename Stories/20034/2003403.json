@@ -3,7 +3,7 @@
         "CharacterId": 20034,
         "MessageJP": "アカリ（正月）",
         "MessageKR": "아카리(새해)",
-        "MessageTW": "",
+        "MessageTW": "亞伽里（正月）",
         "MessageEN": "Akari (New Year)"
     },
     {
@@ -146,7 +146,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "きっと先生も、気になると思いますよ！",
-        "MessageKR": "선생님께서도 들어 보시면 흥미가 생기실 걸요?",
+        "MessageKR": "선생님께서도 들어 보시면 흥미가 생기실걸요?",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -159,7 +159,7 @@
         "ImagePath": "",
         "MessageJP": "アカリ（正月）の絆イベントへ",
         "MessageKR": "아카리(새해)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
+        "MessageTW": "前往亞伽里（正月）的羈絆劇情",
         "MessageEN": "Go to Akari (New Year)'s Event"
     }
 ]

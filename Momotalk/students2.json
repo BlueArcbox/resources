@@ -408,20 +408,6 @@
         "School": "Hyakkiyako"
     },
     {
-        "Id": 127,
-        "Name": {
-            "zh": "海夏",
-            "jp": "ウミカ",
-            "tw": "海夏",
-            "en": "Umika",
-            "kr": "우미카"
-        },
-        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/2/2d/Umika_Icon.png"],
-        "Bio": {},
-        "Nickname": ["Umika", "海香"],
-        "School": "Hyakkiyako"
-    },
-    {
         "Id": 174,
         "Name": {
             "zh": "葛叶",

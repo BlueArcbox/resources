@@ -406,7 +406,10 @@
     },
     {
         "Id": 16004,
-        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/8/8e/Pina_Icon.png"],
+        "Avatar": [
+            "https://static.wikia.nocookie.net/blue-archive/images/8/8e/Pina_Icon.png",
+            "https://api.kivo.wiki/assets/images/students/朝比奈 菲娜/导游/avatar.png"
+        ],
         "Bio": {
             "zh": "CHUCIJIANMIAN！",
             "jp": "ハジメマシテ！",
@@ -1247,7 +1250,10 @@
     },
     {
         "Id": 20015,
-        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/c/c1/Kaede_Icon.png"],
+        "Avatar": [
+            "https://static.wikia.nocookie.net/blue-archive/images/c/c1/Kaede_Icon.png",
+            "https://api.kivo.wiki/assets/images/students/勇美 枫/导游/avatar.png"
+        ],
         "Bio": {
             "zh": "今天要玩什么呢！？",
             "jp": "今日は何して遊ぶ！？",
@@ -2332,5 +2338,26 @@
         },
         "Nickname": [],
         "related": [13002, "newyear"]
+    },
+    {
+        "Id": 10090,
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/2/2d/Umika_Icon.png"],
+        "Bio": {
+            "zh": "如果有关于节日的通知，请告诉我！",
+            "jp": "お祭りに関するお知らせがあれば、教えてくださいね！",
+            "kr": "축제 소식이 있다면 알려 주세요!"
+        },
+        "Nickname": ["海香", "海花", "海夏", "狗炮"]
+    },
+    {
+        "Id": 20035,
+        "Avatar": [],
+        "Bio": {
+            "zh": "有些困，但……还得继续当导游……",
+            "jp": "眠いけど……ガイドを……",
+            "kr": "졸리지만…… 안내……"
+        },
+        "Nickname": ["狗导", "导狗"],
+        "related": [13009, "guide"]
     }
 ]

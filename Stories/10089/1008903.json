@@ -3,7 +3,7 @@
         "CharacterId": 10089,
         "MessageJP": "アル（ドレス）",
         "MessageKR": "아루(드레스)",
-        "MessageTW": "アル（ドレス）",
+        "MessageTW": "亞瑠（禮服）",
         "MessageEN": "Aru (Dress)"
     },
     {
@@ -110,7 +110,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "時間と場所を決めたら、また連絡するわ",
-        "MessageKR": "그러면 약속장소와 시간을 보내 놓을게.",
+        "MessageKR": "그러면 약속 장소와 시간을 보내 놓을게.",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -123,7 +123,7 @@
         "ImagePath": "",
         "MessageJP": "アル（ドレス）の絆イベントへ",
         "MessageKR": "아루(드레스)의 인연스토리로",
-        "MessageTW": "前往アル（ドレス）的羈絆劇情",
+        "MessageTW": "前往亞瑠（禮服）的羈絆劇情",
         "MessageEN": "Go to Aru (Dress)'s Event"
     },
     {

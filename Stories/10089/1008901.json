@@ -3,7 +3,7 @@
         "CharacterId": 10089,
         "MessageJP": "アル（ドレス）",
         "MessageKR": "아루(드레스)",
-        "MessageTW": "アル（ドレス）",
+        "MessageTW": "亞瑠（禮服）",
         "MessageEN": "Aru (Dress)"
     },
     {
@@ -134,7 +134,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "機会があれば話すわ",
-        "MessageKR": "나중에 기회가 되면 이야기 할게.",
+        "MessageKR": "나중에 기회가 되면 이야기할게.",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -147,7 +147,7 @@
         "ImagePath": "",
         "MessageJP": "アル（ドレス）の絆イベントへ",
         "MessageKR": "아루(드레스)의 인연스토리로",
-        "MessageTW": "前往アル（ドレス）的羈絆劇情",
+        "MessageTW": "前往亞瑠（禮服）的羈絆劇情",
         "MessageEN": "Go to Aru (Dress)'s Event"
     },
     {
@@ -182,7 +182,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "また近いうち、相談させてもらえるかしら？",
-        "MessageKR": "자세한 건 다음에 이야기하도록 할 게.",
+        "MessageKR": "자세한 건 다음에 이야기하도록할게.",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -218,7 +218,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "それじゃあまた会いましょう、先生",
-        "MessageKR": "그럼 그 때 봐, 선생님.",
+        "MessageKR": "그럼 그때 봐, 선생님.",
         "MessageTW": "",
         "MessageEN": ""
     }
