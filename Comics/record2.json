@@ -712,5 +712,19 @@
             }
         ],
         "pictures_count": 1
+    },
+    {
+        "dynamic_id": 913867314303074307,
+        "description": "【青春record】官方漫画第50话\n\n老师！一起守护努力的海夏同学吧！！\n\n🔷作:せるげい(@pattundo)老师\n\n#碧蓝档案##蔚蓝档案#",
+        "pictures": [
+            {
+                "img_height": 1746,
+                "img_size": 1018.169982910156,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/9665d4bfcf46661a59bd4ed5c91c74eb37507923.jpg",
+                "img_tags": null,
+                "img_width": 1240
+            }
+        ],
+        "pictures_count": 1
     }
 ]

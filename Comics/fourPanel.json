@@ -1601,5 +1601,26 @@
             }
         ],
         "pictures_count": 2
+    },
+    {
+        "dynamic_id": 914249776857350150,
+        "description": "【国际服资讯】【官方四格漫画第127话】 \n▎惺惺相惜\n不用多说了...\n减肥的困难我都懂!\n​\n(　ﾟ∀ﾟ) ﾉ🎤大家一起大声说！！！\n天灵灵地灵灵...\n\n#碧蓝档案漫画连载中# #第127话# #蔚蓝档案# #碧蓝档案# #BlueArchive#",
+        "pictures": [
+            {
+                "img_height": 1280,
+                "img_size": 243.083984375,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/bdeef92780966902be8932af41cef8a037507923.jpg",
+                "img_tags": null,
+                "img_width": 800
+            },
+            {
+                "img_height": 560,
+                "img_size": 72.2802734375,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/418f73ac6af713a9d29af580fca87eaf37507923.jpg",
+                "img_tags": null,
+                "img_width": 800
+            }
+        ],
+        "pictures_count": 2
     }
 ]
