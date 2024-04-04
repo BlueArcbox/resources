@@ -26,7 +26,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "大変！",
-        "MessageKR": "큰 일이야, 주인님! 큰 일!",
+        "MessageKR": "큰일이야, 주인님! 큰일!",
         "MessageTW": "糟了！",
         "MessageEN": "We have a problem, Master! A big problem!"
     },
@@ -62,7 +62,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "ど、どうしたの……？",
-        "MessageKR": "어쩐지 최근 별 일 없다 싶었더니, 또……",
+        "MessageKR": "어쩐지 최근 별일 없다 싶었더니, 또……",
         "MessageTW": "怎，怎麼了……？",
         "MessageEN": "I guess peace is its own problem..."
     },
@@ -170,7 +170,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "今回は本当だよ、本当に助けが",
-        "MessageKR": "이번에는 진짜인 걸. 진짜라고, 진짜! 진짜 도움이",
+        "MessageKR": "이번에는 진짜인걸. 진짜라고, 진짜! 진짜 도움이",
         "MessageTW": "這次是真的，真的需要",
         "MessageEN": "For real this time, like really real, I really need help!"
     },

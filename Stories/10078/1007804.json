@@ -64,7 +64,7 @@
         "MessageJP": "大丈夫だけど……何かあったの？",
         "MessageKR": "괜찮지만……. 무슨 일 있어?",
         "MessageTW": "有是有……發生什麼事了嗎？",
-        "MessageEN": "It's all right, but... What's going on?"
+        "MessageEN": "Of course... But what's going on?"
     },
     {
         "MessageId": 100780470,
@@ -87,7 +87,7 @@
         "ImagePath": "",
         "MessageJP": "ああ",
         "MessageKR": "아아.",
-        "MessageTW": "啊啊",
+        "MessageTW": "是啊",
         "MessageEN": "Ahh."
     },
     {
@@ -123,7 +123,7 @@
         "ImagePath": "",
         "MessageJP": "それと少し足を捻ったせいで、歩けそうにないんだ",
         "MessageKR": "조금 삐었는지, 이대로는 못 걷게 됐거든.",
-        "MessageTW": "還有可能有點扭傷，所以走不太動",
+        "MessageTW": "而且可能有點扭傷，所以走不太動",
         "MessageEN": "And I must have hurt my ankle, 'cause I'm having trouble walking."
     },
     {

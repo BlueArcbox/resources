@@ -3,7 +3,7 @@
         "CharacterId": 20035,
         "MessageJP": "ツバキ（ガイド）",
         "MessageKR": "츠바키(가이드)",
-        "MessageTW": "ツバキ（ガイド）",
+        "MessageTW": "椿（導游）",
         "MessageEN": "Tsubaki (Guide)"
     },
     {
@@ -159,7 +159,7 @@
         "ImagePath": "",
         "MessageJP": "ツバキ（ガイド）の絆イベントへ",
         "MessageKR": "츠바키(가이드)의 인연스토리로",
-        "MessageTW": "前往ツバキ（ガイド）的羈絆劇情",
+        "MessageTW": "前往椿（導游）的羈絆劇情",
         "MessageEN": "Go to Tsubaki (Guide)'s Event"
     }
 ]

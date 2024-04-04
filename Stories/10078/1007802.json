@@ -51,7 +51,7 @@
         "ImagePath": "",
         "MessageJP": "すごいことを思いついてね",
         "MessageKR": "엄청난 생각이 떠올라서 말이지.",
-        "MessageTW": "我想到了一個非常棒的想法",
+        "MessageTW": "我想到了一個非常棒的點子",
         "MessageEN": "I had the most amazing idea."
     },
     {
@@ -231,7 +231,7 @@
         "ImagePath": "",
         "MessageJP": "呼び出しておいて、先に寝てしまうとは",
         "MessageKR": "이런이런. 기껏 불러 놓고 먼저 자 버리다니",
-        "MessageTW": "哎呀哎呀，好不容易才把老師請來，結果我卻先睡著了",
+        "MessageTW": "哎呀哎呀，明明是我把老師請來，結果卻先睡著了",
         "MessageEN": "Good grief. To call you here and then fall asleep..."
     },
     {
@@ -315,7 +315,7 @@
         "ImagePath": "",
         "MessageJP": "今日はこれで失礼する！",
         "MessageKR": "그럼, 바빠질 것 같으니 다음에 다시!",
-        "MessageTW": "那麼，之後就要忙起來了，下次見囉！",
-        "MessageEN": "It looks like I'm going to pretty be busy, so I'll see you later!"
+        "MessageTW": "那我就先去忙了，下次見囉！",
+        "MessageEN": "It looks like I'm going to be pretty busy, so I'll see you later!"
     }
 ]

@@ -39,7 +39,7 @@
         "ImagePath": "",
         "MessageJP": "本当にやってられませんね……",
         "MessageKR": "못 해 먹겠네.",
-        "MessageTW": "真的是做不下去啊……",
+        "MessageTW": "真的是做不下去了……",
         "MessageEN": "I can't put up with this."
     },
     {
@@ -99,7 +99,7 @@
         "ImagePath": "",
         "MessageJP": "それも急ぎの用なので、すぐに来ていただけませんか？",
         "MessageKR": "아무튼 급한 일이니까 지금 당장 와 주셔야 해요.",
-        "MessageTW": "也是件急事，能請你馬上過來嗎？",
+        "MessageTW": "而且是件急事，能請您馬上過來嗎？",
         "MessageEN": "Anyway, it's urgent, so you have to come right away."
     },
     {
@@ -111,7 +111,7 @@
         "ImagePath": "",
         "MessageJP": "まさかすっぽかしたりしませんよね？",
         "MessageKR": "도망칠 생각은 하지 마세요?",
-        "MessageTW": "你不會棄我不顧吧？",
+        "MessageTW": "您不會棄我不顧吧？",
         "MessageEN": "Don't think of running away."
     },
     {
@@ -171,7 +171,7 @@
         "ImagePath": "",
         "MessageJP": "それではまた、よろしくお願いいたしますね",
         "MessageKR": "그럼 다음에 또 신세 지도록 하겠습니다.",
-        "MessageTW": "那麼，之後也拜託你了唷",
+        "MessageTW": "那麼之後也拜託您了唷",
         "MessageEN": "I'll be relying on you again next time."
     },
     {
@@ -183,7 +183,7 @@
         "ImagePath": "",
         "MessageJP": "またあるのがもう確定してるんだね……",
         "MessageKR": "아니, 사양할게…….",
-        "MessageTW": "已經確定之後還會有了呢……",
+        "MessageTW": "已經確定還有下一次了啊……",
         "MessageEN": "No, I decline..."
     }
 ]

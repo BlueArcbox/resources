@@ -39,7 +39,7 @@
         "ImagePath": "",
         "MessageJP": "実はですね",
         "MessageKR": "다름이 아니라……",
-        "MessageTW": "其實啊",
+        "MessageTW": "今天找您不為別的……",
         "MessageEN": "It's nothing serious, but..."
     },
     {
@@ -51,7 +51,7 @@
         "ImagePath": "",
         "MessageJP": "……",
         "MessageKR": "바빠요.",
-        "MessageTW": "……",
+        "MessageTW": "今天很忙",
         "MessageEN": "I'm busy."
     },
     {
@@ -63,7 +63,7 @@
         "ImagePath": "",
         "MessageJP": "ちょっ",
         "MessageKR": "네?",
-        "MessageTW": "喂喂",
+        "MessageTW": "咦？",
         "MessageEN": "Huh?"
     },
     {
@@ -87,7 +87,7 @@
         "ImagePath": "",
         "MessageJP": "買わないよ？",
         "MessageKR": "안 사요. 안 사.",
-        "MessageTW": "我不買唷",
+        "MessageTW": "先說我不買哦",
         "MessageEN": "Not interested. Not interested."
     },
     {
@@ -99,7 +99,7 @@
         "ImagePath": "",
         "MessageJP": "押し売りの人扱いされている……！",
         "MessageKR": "잡상인 취급 받고 있어……!",
-        "MessageTW": "被當做是強行推銷的人了……！",
+        "MessageTW": "被當成強迫推銷的人了……！",
         "MessageEN": "I'm getting treated like a door-to-door salesperson!"
     },
     {
@@ -111,7 +111,7 @@
         "ImagePath": "",
         "MessageJP": "な、何なんですかもう！",
         "MessageKR": "뭐, 뭔가요, 진짜!",
-        "MessageTW": "什麼呀，真是的！",
+        "MessageTW": "什麼嘛，真是的！",
         "MessageEN": "Wh-What is this?!"
     },
     {
@@ -171,7 +171,7 @@
         "ImagePath": "",
         "MessageJP": "まあ",
         "MessageKR": "아…….",
-        "MessageTW": "嘛",
+        "MessageTW": "唉……",
         "MessageEN": "Ah!"
     },
     {
@@ -183,7 +183,7 @@
         "ImagePath": "",
         "MessageJP": "そう、ですね",
         "MessageKR": "……네. 그러게요.",
-        "MessageTW": "是，是啊",
+        "MessageTW": "這麼說也沒錯",
         "MessageEN": "...Yeah, exactly."
     },
     {
@@ -195,7 +195,7 @@
         "ImagePath": "",
         "MessageJP": "特に大きなことではないのですが",
         "MessageKR": "딱히 무슨 일이 있었던 건 아니에요.",
-        "MessageTW": "也不是什麼大事",
+        "MessageTW": "雖然也不是什麼大事",
         "MessageEN": "It's not that something happened."
     },
     {

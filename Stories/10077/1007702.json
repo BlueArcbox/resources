@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "漫画を読んだりゲームをしてるよ",
         "MessageKR": "게임이나…… 취미? 그런데 왜?",
-        "MessageTW": "遊戲或……興趣吧？怎麼了嗎？",
-        "MessageEN": "Or play games... Or work on another hobby. Why do you ask?"
+        "MessageTW": "玩遊戲……或是做有興趣的事吧？怎麼了嗎？",
+        "MessageEN": "I play games... Or work on other hobbies. Why do you ask?"
     },
     {
         "MessageId": 100770140,
@@ -219,7 +219,7 @@
         "ImagePath": "",
         "MessageJP": "家でも何回かやってみたけど",
         "MessageKR": "아뇨",
-        "MessageTW": "不……",
+        "MessageTW": "……",
         "MessageEN": "No."
     },
     {

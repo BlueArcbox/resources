@@ -3,7 +3,7 @@
         "CharacterId": 10090,
         "MessageJP": "ウミカ",
         "MessageKR": "우미카",
-        "MessageTW": "ウミカ",
+        "MessageTW": "海花",
         "MessageEN": "Umika"
     },
     {
@@ -183,7 +183,7 @@
         "ImagePath": "",
         "MessageJP": "ウミカの絆イベントへ",
         "MessageKR": "우미카의 인연스토리로",
-        "MessageTW": "前往ウミカ的羈絆劇情",
+        "MessageTW": "前往海花的羈絆劇情",
         "MessageEN": "Go to Umika's Event"
     }
 ]

@@ -39,7 +39,7 @@
         "ImagePath": "",
         "MessageJP": "ちょっと……アクシデントがあって",
         "MessageKR": "조금…… 사소한 문제가 생겼어.",
-        "MessageTW": "發生了點……意外",
+        "MessageTW": "發生了一點……意外",
         "MessageEN": "There's...a bit of a problem."
     },
     {
@@ -51,7 +51,7 @@
         "ImagePath": "",
         "MessageJP": "アクシデントって、どんな？",
         "MessageKR": "무슨 문제인데?",
-        "MessageTW": "意外，哪樣的？",
+        "MessageTW": "意外，什麼意外？",
         "MessageEN": "What's the matter?"
     },
     {
@@ -111,7 +111,7 @@
         "ImagePath": "",
         "MessageJP": "さっき送られてきてたこの写真、何でまだ持ってるんだ！！",
         "MessageKR": "방금 메일로 보낸 이 사진은 뭐야?!",
-        "MessageTW": "剛才發來的照片，為什麼還留著！！",
+        "MessageTW": "剛才發來的照片為什麼還留著！！",
         "MessageEN": "What's with the photo you just sent to my email?!"
     },
     {

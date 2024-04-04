@@ -39,7 +39,7 @@
         "ImagePath": "",
         "MessageJP": "このところ、ゲヘナ学園に関する仕事が多くって",
         "MessageKR": "최근 게헨나 학원과 관련된 업무가 많아져서.",
-        "MessageTW": "最近有很多關於格黑娜學園的工作",
+        "MessageTW": "最近有很多格黑娜學園的工作",
         "MessageEN": "Well, I've had a lot of work to do at Gehenna lately."
     },
     {
@@ -51,7 +51,7 @@
         "ImagePath": "",
         "MessageJP": "イオリちゃんに会いたくって、つい……",
         "MessageKR": "이오리 쨩을 자주 보고 싶은 마음에 그만…….",
-        "MessageTW": "想和伊織醬見面，忍不住就……",
+        "MessageTW": "因為想和伊織醬見面，忍不住就……",
         "MessageEN": "I can't help wanting to see you."
     },
     {
@@ -63,7 +63,7 @@
         "ImagePath": "",
         "MessageJP": "……そうなんだ。お疲れ様",
         "MessageKR": "그렇구나……. 수고가 많네.",
-        "MessageTW": "……原來如此。辛苦了",
+        "MessageTW": "原來如此……辛苦你了",
         "MessageEN": "I see... You're working hard."
     },
     {
@@ -75,7 +75,7 @@
         "ImagePath": "",
         "MessageJP": "……は？何を言ってるんだ？",
         "MessageKR": "……하아? 무슨 소리를 하는 거야?",
-        "MessageTW": "……哈？說什麼呢？",
+        "MessageTW": "……啥？你在說什麼？",
         "MessageEN": "\\*sigh\\* What are you talking about?"
     },
     {
@@ -99,7 +99,7 @@
         "ImagePath": "",
         "MessageJP": "出張に来る時は、どこにいるんだ？",
         "MessageKR": "출장을 오면 주로 어디서 시간을 보내는 거야?",
-        "MessageTW": "來出差的時候，都去哪裡啊？",
+        "MessageTW": "老師來出差的時候都待在哪裡？",
         "MessageEN": "Where do you spend most of your time when you come here?"
     },
     {
@@ -123,7 +123,7 @@
         "ImagePath": "",
         "MessageJP": "……校庭？何のために？",
         "MessageKR": "……교정? 거기에 뭐가 있는데?",
-        "MessageTW": "……中庭？為了什麼？",
+        "MessageTW": "……中庭？為什麼？",
         "MessageEN": "The campus? What's at the campus?"
     },
     {
@@ -147,7 +147,7 @@
         "ImagePath": "",
         "MessageJP": "なんか、怪しいな……",
         "MessageKR": "어쩐지 수상한데…….",
-        "MessageTW": "總覺得很可疑啊……",
+        "MessageTW": "總覺得很可疑……",
         "MessageEN": "That's strange..."
     },
     {

@@ -183,7 +183,7 @@
         "ImagePath": "",
         "MessageJP": "タイミング悪く風紀委員がパトロールしていてな",
         "MessageKR": "하필 그 타이밍에 그곳을 선도부가 순찰하고 있었지 뭐야?",
-        "MessageTW": "風紀委員會怎麼偏偏那個時間點在那裡巡邏呢？",
+        "MessageTW": "風紀委員會那時候怎麼會偏偏挑那裡巡邏呢？",
         "MessageEN": "What rotten timing for the Prefect Team to just be passing by."
     },
     {
@@ -195,7 +195,7 @@
         "ImagePath": "",
         "MessageJP": "半分は逃げられたんだが……もう半分は捕まってしまった",
         "MessageKR": "한 절반 정도 체포되고, 절반 정도 도망치는 데에 성공했군.",
-        "MessageTW": "大約有一半人被逮捕，另一半成功逃走了",
+        "MessageTW": "大約有一半的人被逮捕，另一半成功逃走了",
         "MessageEN": "Half of my people got away, but the other half was arrested!"
     },
     {
@@ -254,9 +254,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "これくらい、日常茶飯事だ",
-        "MessageKR": "이런 건 늘상 있은 일이니까.",
+        "MessageKR": "이런 건 늘상 있는 일이니까.",
         "MessageTW": "這種小事只是家常便飯而已",
-        "MessageEN": "This sort of things happens all the time."
+        "MessageEN": "This sort of thing happens all the time."
     },
     {
         "MessageId": 100780130,
