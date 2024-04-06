@@ -1622,5 +1622,26 @@
             }
         ],
         "pictures_count": 2
+    },
+    {
+        "dynamic_id": 916847231323078662,
+        "description": "【国际服资讯】【官方四格漫画第128话】 \n▎身为前辈\n就算发现了也不会讲出去的\n无论是偷吃甜点还是偷看小本本d(d＇∀＇)\n\n​一花前辈肯定...发现了\n\n#碧蓝档案漫画连载中# #第128话# #蔚蓝档案# #碧蓝档案# #BlueArchive#",
+        "pictures": [
+            {
+                "img_height": 1280,
+                "img_size": 212.3800048828125,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/e7240d853c3bedbd006427e0d55cd65c37507923.jpg",
+                "img_tags": null,
+                "img_width": 800
+            },
+            {
+                "img_height": 600,
+                "img_size": 57.2400016784668,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/782a0c8c13e3a76b0bd5d93917723aca37507923.jpg",
+                "img_tags": null,
+                "img_width": 800
+            }
+        ],
+        "pictures_count": 2
     }
 ]
