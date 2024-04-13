@@ -1643,5 +1643,26 @@
             }
         ],
         "pictures_count": 2
+    },
+    {
+        "dynamic_id": 919450243521576995,
+        "description": "【国际服资讯】【官方四格漫画第129话】 \n▎温泉蛋\n在格黑娜什么事情都有可能发生\n挖出整座温泉也是\n\n​往好处想至少食材没有动起来、也没有爆炸...\n\n#碧蓝档案漫画连载中# #第129话# #蔚蓝档案# #碧蓝档案# #BlueArchive#",
+        "pictures": [
+            {
+                "img_height": 1280,
+                "img_size": 241.6499938964844,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/c9ebd5f798f2176bb8208eb7b8460ed537507923.jpg",
+                "img_tags": null,
+                "img_width": 800
+            },
+            {
+                "img_height": 600,
+                "img_size": 56.06000137329102,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/8183fbf0d3bfe7075585182497cf1ae837507923.jpg",
+                "img_tags": null,
+                "img_width": 800
+            }
+        ],
+        "pictures_count": 2
     }
 ]
