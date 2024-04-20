@@ -1664,5 +1664,26 @@
             }
         ],
         "pictures_count": 2
+    },
+    {
+        "dynamic_id": 922039855397994496,
+        "description": "\n【国际服资讯】【官方四格漫画第130话】 \n▎超细纤维枕头\n ​\n 工作忙了一天\n 最需要温暖的床铺\n 与柔软又毛茸茸的娃娃了??\n\n超好睡!值得拥有!\n\n#碧蓝档案漫画连载中# #第130话# #蔚蓝档案# #碧蓝档案# #BlueArchive#",
+        "pictures": [
+            {
+                "img_height": 1280,
+                "img_size": 221.6300048828125,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/9ae91009fb6ede5fbe0bb14628df7ba537507923.jpg",
+                "img_tags": null,
+                "img_width": 800
+            },
+            {
+                "img_height": 502,
+                "img_size": 48.45999908447266,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/208709d7e32fe06a8b14629c2676ef0737507923.jpg",
+                "img_tags": null,
+                "img_width": 800
+            }
+        ],
+        "pictures_count": 2
     }
 ]

@@ -754,5 +754,19 @@
             }
         ],
         "pictures_count": 1
+    },
+    {
+        "dynamic_id": 921599908987797544,
+        "description": "【青春record】官方漫画第53话\n\n老师，渚同学好像邀请日富美同学去开茶会了哦！\n\n🔷作:せるげい（@pattundo）老师\n\n#碧蓝档案##蔚蓝档案#",
+        "pictures": [
+            {
+                "img_height": 1521,
+                "img_size": 826.5599975585938,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/e308837fb3371c6fea75aedd3418f46437507923.jpg",
+                "img_tags": null,
+                "img_width": 1080
+            }
+        ],
+        "pictures_count": 1
     }
 ]
