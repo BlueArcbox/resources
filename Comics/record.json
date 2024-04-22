@@ -684,5 +684,47 @@
             }
         ],
         "pictures_count": 1
+    },
+    {
+        "dynamic_id": 916412743853015040,
+        "description": "【青春记录】第51話\n老师，看来三森正在犒劳努力做好向导工作的修行部二人呢♪\n🔷作:せるげい(@pattundo)老师  \n#碧蓝档案##蔚蓝档案#",
+        "pictures": [
+            {
+                "img_height": 3544,
+                "img_size": 2847.02001953125,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/25cff66bd8d703816a20d02d10d7bb0e436037759.jpg",
+                "img_tags": null,
+                "img_width": 2514
+            }
+        ],
+        "pictures_count": 1
+    },
+    {
+        "dynamic_id": 918992554611965955,
+        "description": "【青春记录】第52話\n老师，白子好像骑车外出了呢♪\n她会拍什么样的照片回来呢？\n🔷作:せるげい(@pattundo)老师  \n#碧蓝档案##蔚蓝档案#",
+        "pictures": [
+            {
+                "img_height": 3240,
+                "img_size": 6409.02978515625,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/521d924a5ec95244350066587d1b02c9436037759.png",
+                "img_tags": null,
+                "img_width": 2300
+            }
+        ],
+        "pictures_count": 1
+    },
+    {
+        "dynamic_id": 921590515916341253,
+        "description": "【青春记录】第52話\n老师，日富美好像被招待到渚主持的茶会去了哦！\n🔷作:せるげい(@pattundo)老师  \n#碧蓝档案##蔚蓝档案#",
+        "pictures": [
+            {
+                "img_height": 3548,
+                "img_size": 6236.85009765625,
+                "img_src": "https://i0.hdslb.com/bfs/new_dyn/b421942ee7fa3f9274abcb41964e2202436037759.png",
+                "img_tags": null,
+                "img_width": 2518
+            }
+        ],
+        "pictures_count": 1
     }
 ]
