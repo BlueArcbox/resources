@@ -27,7 +27,7 @@
         "ImagePath": "",
         "MessageJP": "今日もみなさんに、平和と安寧がありますように！",
         "MessageKR": "평화와 안녕이 함께하시기를!",
-        "MessageTW": "願各位依然有個和平安寧的一天！",
+        "MessageTW": "願各位能度過和平安寧的一天！",
         "MessageEN": "May peace and happiness find you today!"
     },
     {
@@ -39,7 +39,7 @@
         "ImagePath": "",
         "MessageJP": "トリニティの聖堂に立ち寄ることがありましたら、何でも手伝いますのでお申し付けください",
         "MessageKR": "트리니티의 성당에 들르실 일이 있으시면 뭐든 말씀만 주세요. 제가 도와드리겠습니다.",
-        "MessageTW": "如果有事要來三一的教堂，任何事都可以告訴我，我都願意幫忙",
+        "MessageTW": "如果來到三一的教堂，有任何事都可以請我幫忙",
         "MessageEN": "Let me know whenever you have business at the Trinity Cathedral. I'll help you with anything."
     },
     {
@@ -87,7 +87,7 @@
         "ImagePath": "",
         "MessageJP": "ただ、その",
         "MessageKR": "그",
-        "MessageTW": "不過那也要",
+        "MessageTW": "那個",
         "MessageEN": "Um..."
     },
     {
@@ -99,7 +99,7 @@
         "ImagePath": "",
         "MessageJP": "私にできる範囲で、になりますが……",
         "MessageKR": "성당 안이나 그 근처에서만……이긴 해요.",
-        "MessageTW": "在我能力所及的範圍內……",
+        "MessageTW": "還是要在我能力所及的範圍內……",
         "MessageEN": "Actually, I can only help if it's around the cathedral."
     },
     {
@@ -123,7 +123,7 @@
         "ImagePath": "",
         "MessageJP": "それ以外でしたら、ぜひいつでも！",
         "MessageKR": "그럼, 만나 뵐 날을 기다리고 있겠습니다!",
-        "MessageTW": "除此之外，都請別客氣！",
+        "MessageTW": "除此之外，都請儘管說！",
         "MessageEN": "I look forward to seeing you!"
     },
     {

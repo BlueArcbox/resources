@@ -99,7 +99,7 @@
         "ImagePath": "",
         "MessageJP": "もしかして私、頼りないのでしょうか？",
         "MessageKR": "혹시 다들 제가 미덥지 못한 걸까요?",
-        "MessageTW": "是否因為我這個人不可靠呢？",
+        "MessageTW": "是不是因為我這個人很不可靠呢？",
         "MessageEN": "Is it because I'm doing a good job?"
     },
     {
@@ -111,7 +111,7 @@
         "ImagePath": "",
         "MessageJP": "ずっと無理してるから、とか？",
         "MessageKR": "혹시 무리하고 있는 거 아냐?",
-        "MessageTW": "可能是你太勉強自己了呀",
+        "MessageTW": "會不會是你太勉強自己了？",
         "MessageEN": "Have you been overworking?"
     },
     {
@@ -135,7 +135,7 @@
         "ImagePath": "",
         "MessageJP": "無理とかは、してないはずなのですが……",
         "MessageKR": "정말로 아닙니다. 절대 그렇지 않아요",
-        "MessageTW": "可是我應該沒有勉強自己啊……",
+        "MessageTW": "可是我應該沒有勉強自己才對……",
         "MessageEN": "Not at all. Really."
     },
     {
@@ -219,7 +219,7 @@
         "ImagePath": "",
         "MessageJP": "今日、先生からあのように言っていただけて",
         "MessageKR": "오늘 일…….",
-        "MessageTW": "今天光是聽了老師那麼說",
+        "MessageTW": "今天光是聽老師那麼說……",
         "MessageEN": "About today..."
     },
     {
@@ -243,7 +243,7 @@
         "ImagePath": "",
         "MessageJP": "すごく、救われた気分です",
         "MessageKR": "그",
-        "MessageTW": "有受到很大的救贖",
+        "MessageTW": "心裡相當欣慰",
         "MessageEN": "So um..."
     },
     {

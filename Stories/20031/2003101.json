@@ -38,7 +38,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "この前、シャーレに新しく休憩室を作るから、畳が必要って言ってなかった？",
-        "MessageKR": "전에 샬레의 휴게실을 보수하는 데 다다미가 필요하다고 하지 않았았어?",
+        "MessageKR": "전에 샬레의 휴게실을 보수하는 데 다다미가 필요하다고 하지 않았었어?",
         "MessageTW": "你之前是不是有說過整修夏萊的休息室需要榻榻米？",
         "MessageEN": "Didn't you say that you needed some tatami mats for Schale's lounge?"
     },
@@ -207,7 +207,7 @@
         "ImagePath": "",
         "MessageJP": "甘いお菓子、とかかな？",
         "MessageKR": "역시 입을 달래 줄 만한 간식 정도려나.",
-        "MessageTW": "能解饞的零食，之類的吧？",
+        "MessageTW": "像是是能解饞的零食，之類的吧？",
         "MessageEN": "It's snacks. Good ones to keep our mouths entertained."
     },
     {

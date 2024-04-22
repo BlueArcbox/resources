@@ -87,7 +87,7 @@
         "ImagePath": "",
         "MessageJP": "これも、先生のおかげです",
         "MessageKR": "선생님 덕분이에요.",
-        "MessageTW": "這都是多虧了老師",
+        "MessageTW": "這都多虧了老師",
         "MessageEN": "And it's all thanks to you."
     },
     {
@@ -99,7 +99,7 @@
         "ImagePath": "",
         "MessageJP": "大したことはしてないよ。また今度会いに行くね",
         "MessageKR": "즐거워 보여서 다행이야.",
-        "MessageTW": "沒什麼大不了的，之後有空再去找你",
+        "MessageTW": "這沒什麼，之後有空再去找你",
         "MessageEN": "Glad to hear it."
     },
     {
@@ -111,7 +111,7 @@
         "ImagePath": "",
         "MessageJP": "せっかくだし、私も遊びに行こうかな？",
         "MessageKR": "좋아. 그럼 확인차 놀러 한번 갈까?",
-        "MessageTW": "或是既然都聯絡了，我也去公園玩一下吧？",
+        "MessageTW": "難得有機會，我也去公園玩一下吧？",
         "MessageEN": "I could stop by to check on you."
     },
     {
@@ -123,7 +123,7 @@
         "ImagePath": "",
         "MessageJP": "もちろんです、それはもうぜひ！",
         "MessageKR": "!!",
-        "MessageTW": "當然可以，很歡迎老師來賞臉！",
+        "MessageTW": "當然可以，非常歡迎老師！",
         "MessageEN": "...!"
     },
     {
@@ -267,7 +267,7 @@
         "ImagePath": "",
         "MessageJP": "「何を」と言われましても、何のことだか分からず……",
         "MessageKR": "……그 '뭔가'라는 게 뭘까요? 다들 대답을 안 해 주시는데…….",
-        "MessageTW": "但我實在沒有頭緒，她們到底是指什麼……",
+        "MessageTW": "他們所謂的「什麼」，指的究竟是……",
         "MessageEN": "What could they mean by \"weird things\"? No one will tell me."
     },
     {

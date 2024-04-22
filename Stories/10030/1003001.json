@@ -39,7 +39,7 @@
         "ImagePath": "",
         "MessageJP": "昨日、当番を終えて帰る時にもまだシャーレの電気が点いていましたが……",
         "MessageKR": "어제 당번 활동을 마치고 돌아가는 길에 보니 밤늦게까지 샬레 사무실의 불이 켜져 있더군요.",
-        "MessageTW": "昨天值班結束回家的時候，夏萊的燈還亮著……",
+        "MessageTW": "昨天值班結束回家的時候，我發現夏萊的燈還亮著……",
         "MessageEN": "Yesterday, on my way home after duty, I noticed that the Schale office lights were on until late."
     },
     {
@@ -51,7 +51,7 @@
         "ImagePath": "",
         "MessageJP": "先週末も夜遅くまで残業していたとお聞きしましたし……",
         "MessageKR": "지난주 주말에도 샬레의 일 때문에 과로를 하셨다고 들었는데……",
-        "MessageTW": "聽說上週末也加班到很晚……",
+        "MessageTW": "聽說您上週末也加班到很晚……",
         "MessageEN": "I heard that you overworked yourself last weekend as well."
     },
     {
@@ -63,7 +63,7 @@
         "ImagePath": "",
         "MessageJP": "お休みは、きちんと取られていますか？",
         "MessageKR": "휴식은 제대로 취하고 계시나요?",
-        "MessageTW": "您有好好休息嗎？",
+        "MessageTW": "最近有好好休息嗎？",
         "MessageEN": "Are you getting enough rest?"
     },
     {
@@ -75,7 +75,7 @@
         "ImagePath": "",
         "MessageJP": "最近はなかなか……",
         "MessageKR": "일이 너무 많아서 어쩔 수가 없어.",
-        "MessageTW": "最近沒什麼……",
+        "MessageTW": "工作實在太多了……",
         "MessageEN": "I have too much work, so there's nothing I can do."
     },
     {
@@ -87,7 +87,7 @@
         "ImagePath": "",
         "MessageJP": "良くありませんよ、休息もれっきとした任務の一部です",
         "MessageKR": "안 됩니다. 휴식도 엄연한 업무의 일부니까요.",
-        "MessageTW": "這可不好唷，休息也是正式任務的一部份",
+        "MessageTW": "這可不行唷，休息也是正式任務的一部份",
         "MessageEN": "That won't do. Resting is also a part of work."
     },
     {
@@ -111,7 +111,7 @@
         "ImagePath": "",
         "MessageJP": "最近、お体で気になるところはございませんか？",
         "MessageKR": "최근 특별히 몸에 불편하신 점은 없으신가요?",
-        "MessageTW": "最近，身體有什麼不舒服的地方嗎？",
+        "MessageTW": "最近身體有什麼不舒服的地方嗎？",
         "MessageEN": "Have you felt any particular discomfort recently?"
     },
     {
@@ -171,7 +171,7 @@
         "ImagePath": "",
         "MessageJP": "お時間がある時にでも、ゲヘナの温泉をご利用されてはいかがでしょうか？",
         "MessageKR": "시간이 되실 때 게헨나 학원을 방문하셔서 온천을 즐겨보시는 건 어떠신가요?",
-        "MessageTW": "有空的時候，去泡一下格黑娜的溫泉如何？",
+        "MessageTW": "有空的時候，不妨來泡一下格黑娜的溫泉哦？",
         "MessageEN": "How about visiting Gehenna Academy and enjoying the hot springs when you have time?"
     },
     {

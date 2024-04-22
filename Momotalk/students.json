@@ -74,7 +74,8 @@
             "https://api.kivo.wiki/assets/images/students/小鸟游 星野/昔日/avatar.png",
             "/api/Avatars/Hoshino.webp",
             "https://static.wikia.nocookie.net/blue-archive/images/d/de/Hoshino_Icon.png",
-            "https://static.wikia.nocookie.net/blue-archive/images/8/8e/Hoshino_Robber_Icon.png"
+            "https://static.wikia.nocookie.net/blue-archive/images/8/8e/Hoshino_Robber_Icon.png",
+            "https://cdnimg.gamekee.com/wiki2.0/images/w_557/h_562/829/43637/2024/3/11/147007.png"
         ],
         "Bio": {
             "zh": "午睡中 别吵醒我",
@@ -245,7 +246,8 @@
         "Id": 13004,
         "Avatar": [
             "https://static.wikia.nocookie.net/blue-archive/images/7/7b/Nonomi_Icon.png",
-            "https://static.wikia.nocookie.net/blue-archive/images/6/6b/Nonomi_Robber_Icon.png"
+            "https://static.wikia.nocookie.net/blue-archive/images/6/6b/Nonomi_Robber_Icon.png",
+            "https://cdnimg.gamekee.com/wiki2.0/images/w_619/h_607/829/43637/2024/3/11/469920.png"
         ],
         "Bio": {
             "zh": "希望会是快乐的一天",
@@ -460,7 +462,10 @@
     },
     {
         "Id": 23000,
-        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/2/23/Airi_Icon.png"],
+        "Avatar": [
+            "https://static.wikia.nocookie.net/blue-archive/images/2/23/Airi_Icon.png",
+            "https://api.kivo.wiki/assets/images/students/栗村 爱莉/乐队/avatar.png"
+        ],
         "Bio": {
             "zh": "薄荷巧克力最棒了！",
             "jp": "チョコミントは最高！",
@@ -603,7 +608,10 @@
     },
     {
         "Id": 26005,
-        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/8/84/Yoshimi_Icon.png"],
+        "Avatar": [
+            "https://static.wikia.nocookie.net/blue-archive/images/8/84/Yoshimi_Icon.png",
+            "https://api.kivo.wiki/assets/images/students/伊原木 好美/乐队/avatar.png"
+        ],
         "Bio": {
             "zh": "#还在成长期",
             "jp": "#まだ成長期",
@@ -1449,7 +1457,8 @@
             "https://static.wikia.nocookie.net/blue-archive/images/7/70/Saori_Icon.png",
             "https://static.wikia.nocookie.net/blue-archive/images/f/f1/Saori_Unmask_Icon.png",
             "https://static.wikia.nocookie.net/blue-archive/images/3/34/Saori_Helmet_Icon.png",
-            "https://static.wikia.nocookie.net/blue-archive/images/4/44/Saori_Dress_Icon.png"
+            "https://static.wikia.nocookie.net/blue-archive/images/4/44/Saori_Dress_Icon.png",
+            "https://cdnimg.gamekee.com/wiki2.0/images/w_252/h_204/829/43637/2024/1/21/378377.png"
         ],
         "Bio": {
             "zh": "努力再努力",
@@ -1480,7 +1489,8 @@
         "Id": 10049,
         "Avatar": [
             "https://static.wikia.nocookie.net/blue-archive/images/c/cb/Kazusa_Icon.png",
-            "https://static.wikia.nocookie.net/blue-archive/images/5/54/Kazusa_Old_Icon.png"
+            "https://static.wikia.nocookie.net/blue-archive/images/5/54/Kazusa_Old_Icon.png",
+            "https://api.kivo.wiki/assets/images/students/杏山 和纱/乐队/avatar.png"
         ],
         "Bio": {
             "zh": "放学后的甜点部成员",
@@ -2351,7 +2361,7 @@
     },
     {
         "Id": 20035,
-        "Avatar": [],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/6/6a/Tsubaki_Guide_Icon.png"],
         "Bio": {
             "zh": "有些困，但……还得继续当导游……",
             "jp": "眠いけど……ガイドを……",

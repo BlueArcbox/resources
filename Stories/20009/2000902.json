@@ -27,7 +27,7 @@
         "ImagePath": "",
         "MessageJP": "カムラッドは、「温泉卵」を食べたことがあるか？",
         "MessageKR": "혹시 콤라드는 온천 계란을 먹어본 적이 있는가?",
-        "MessageTW": "同志，吃過「溫泉蛋」嗎？",
+        "MessageTW": "同志，你吃過「溫泉蛋」嗎？",
         "MessageEN": "Have you ever tried a hot spring boiled egg, Comrade?"
     },
     {
@@ -39,7 +39,7 @@
         "ImagePath": "",
         "MessageJP": "普通の卵と温泉水だけで生み出される珍味と聞いたが……",
         "MessageKR": "평범한 계란과 온천수만으로 진미를 만든다니…….",
-        "MessageTW": "聽說光用普通的雞蛋和溫泉水就能創造出美味……",
+        "MessageTW": "聽說是用普通的雞蛋和溫泉水就能創造出的美味……",
         "MessageEN": "I can't believe such a delicacy is made with just plain eggs and hot spring water..."
     },
     {
@@ -147,7 +147,7 @@
         "ImagePath": "",
         "MessageJP": "今すぐ温泉卵を作りに行くぞ！",
         "MessageKR": "지금 바로 온천 계란을 만들러 가는 거다!",
-        "MessageTW": "現在馬上去做溫泉蛋！",
+        "MessageTW": "馬上去做溫泉蛋！",
         "MessageEN": "Let's go make hot spring boiled eggs right now!"
     },
     {

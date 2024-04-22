@@ -27,7 +27,7 @@
         "ImagePath": "",
         "MessageJP": "カムラッド、こんな話を知っているか？",
         "MessageKR": "콤라드, 혹시 이런 이야기를 알고 있는가?",
-        "MessageTW": "同志，你聽過這樣的話嗎？",
+        "MessageTW": "同志，你聽過這件事嗎？",
         "MessageEN": "Comrade, did you know?"
     },
     {
@@ -39,7 +39,7 @@
         "ImagePath": "",
         "MessageJP": "優雅に泳ぐ白鳥も、水面下では沈まないように一生懸命バタ足をしている……",
         "MessageKR": "고상한 모습으로 유유히 헤엄치는 백조도 수면 아래에서는 가라앉지 않기 위해 열심히 물장구를 치고 있다는 사실을.",
-        "MessageTW": "優雅游泳的天鵝為了不沉入水中，也拼了命地拍打著腳……",
+        "MessageTW": "優雅游泳的天鵝為了不沉入水中，必須拚命地拍打雙腳……",
         "MessageEN": "A swan, swimming serenely around in its elegance, is actually working very hard below the surface of the water in order to stay afloat."
     },
     {
@@ -63,7 +63,7 @@
         "ImagePath": "",
         "MessageJP": "学園の生徒たちもそういった心構えで、休日にも働いてくれれば良いのだが",
         "MessageKR": "붉은겨울의 학생들도 이런 백조의 모습을 본받아 쉬는 시간에도 열심히 일해주었으면 좋으련만…….",
-        "MessageTW": "希望學園的學生們也抱持這樣的心態，休息日也工作就好了",
+        "MessageTW": "要是學園的學生們也抱持這樣的心態，在休息日也努力工作就好了",
         "MessageEN": "I wish the students of Red Winter would take after swans and work hard even during breaks..."
     },
     {
@@ -87,7 +87,7 @@
         "ImagePath": "",
         "MessageJP": "ん？どうしたカムラッド、何か言いたいことでも？",
         "MessageKR": "응? 무언가, 콤라드.",
-        "MessageTW": "嗯？怎麼了，同志，有什麼想說的嗎？",
+        "MessageTW": "嗯？怎麼了同志，有什麼想說的嗎？",
         "MessageEN": "Yeah? What is it, Comrade?"
     },
     {
@@ -99,7 +99,7 @@
         "ImagePath": "",
         "MessageJP": "この間知ったんだけど、実際の白鳥が水に沈まないのって",
         "MessageKR": "백조가 물에 가라앉지 않는 이유는",
-        "MessageTW": "前陣子才得知，天鵝之所以不會沉入水中",
+        "MessageTW": "我前陣子才知道，天鵝之所以不會沉入水中",
         "MessageEN": "The reason swans are able to float on water"
     },
     {

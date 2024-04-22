@@ -63,7 +63,7 @@
         "ImagePath": "",
         "MessageJP": "そうだね",
         "MessageKR": "그렇긴 하지……",
-        "MessageTW": "是沒錯啦……",
+        "MessageTW": "這倒是真的……",
         "MessageEN": "I suppose so."
     },
     {
@@ -303,7 +303,7 @@
         "ImagePath": "",
         "MessageJP": "……「発酵」に頼らずに",
         "MessageKR": "……술에는 의존하지 말고.",
-        "MessageTW": "……可別依賴酒哦",
+        "MessageTW": "……還有別依賴酒精",
         "MessageEN": "Alcohol is not enough to keep you warm."
     },
     {

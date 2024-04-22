@@ -99,7 +99,7 @@
         "ImagePath": "",
         "MessageJP": "それがトモエ曰く、油が染み込み過ぎていて新しい物を買った方が良いと",
         "MessageKR": "아니. 깨끗이 씻어보려 했지만, 토모에의 말로는 수염에 기름때가 깊이 스며들어 새것을 사는 게 좋을 정도라는군.",
-        "MessageTW": "智惠說那個油滲得太深，最好是買新的",
+        "MessageTW": "智惠說油滲得太深，最好還是買新的",
         "MessageEN": "No, I tried to wash it clean, but according to Tomoe, the grease seeped so deeply into the mustache it's better to just buy a new one."
     },
     {
@@ -171,7 +171,7 @@
         "ImagePath": "",
         "MessageJP": "お風呂から上がったら、フルーツ牛乳買ってあげる",
         "MessageKR": "목욕이 끝나면 후르츠 밀크를 사줄게.",
-        "MessageTW": "洗完澡就買水果牛奶給妳",
+        "MessageTW": "洗完澡就買水果牛奶給你",
         "MessageEN": "I'll buy you fruit milk after the bath."
     },
     {
@@ -183,7 +183,7 @@
         "ImagePath": "",
         "MessageJP": "よし、すぐに行くぞカムラッド",
         "MessageKR": "바로 탕으로 가겠네, 콤라드.",
-        "MessageTW": "好，馬上過去，同志",
+        "MessageTW": "咱馬上過去，同志",
         "MessageEN": "I'll be there in a jiffy, Comrade."
     },
     {

@@ -27,7 +27,7 @@
         "ImagePath": "",
         "MessageJP": "この前の修行は完全に失敗でした",
         "MessageKR": "으으…… 지난번의 수행은 완전히 실패였어요.",
-        "MessageTW": "之前的學習完全失敗了",
+        "MessageTW": "之前的修行完全失敗了",
         "MessageEN": "Ugh... The training I did last time was a complete failure."
     },
     {
@@ -39,7 +39,7 @@
         "ImagePath": "",
         "MessageJP": "まさか会席料理というものが、あそこまでのものだったとは……",
         "MessageKR": "설마 가이세키 요리라는 게 그렇게나 다채로운 것일 줄이야……",
-        "MessageTW": "沒想到會席料理這種東西，竟然是那麼厲害的東西……",
+        "MessageTW": "沒想到會席料理竟然是那麼厲害的東西……",
         "MessageEN": "I had no clue that kaiseki cuisine was so elaborate and diverse..."
     },
     {
@@ -51,7 +51,7 @@
         "ImagePath": "",
         "MessageJP": "ほぼ毎日配給品だけを食べてきた私としては、あまりにも未知の世界で……",
         "MessageKR": "매일 배급 식품만 먹어왔던 저로서는 상상도 하지 못할 세계였어요.",
-        "MessageTW": "對於幾乎每天只吃配給品的我來說，是個太過於未知的世界……",
+        "MessageTW": "對於每天幾乎只吃配給品的我來說，是個過於未知的世界……",
         "MessageEN": "As someone who ate rationed food everyday, it was a whole new unimaginable world."
     },
     {

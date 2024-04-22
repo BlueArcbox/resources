@@ -230,7 +230,8 @@
         },
         "Avatar": [
             "/api/Avatars/Yume_2.webp",
-            "https://static.wikia.nocookie.net/blue-archive/images/9/97/Hoshino_Past_2.png"
+            "https://static.wikia.nocookie.net/blue-archive/images/9/97/Hoshino_Past_2.png",
+            "https://static.wikia.nocookie.net/blue-archive/images/a/a5/Yume_Icon.png"
         ],
         "Bio": {
             "zh": "…与你共度时光感觉像是一个奇迹",
@@ -271,7 +272,7 @@
             "tw": "千秋",
             "en": "Chiaki"
         },
-        "Avatar": [],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/a/af/Chiaki_Icon.png"],
         "Bio": {
             "zh": "这个得记录一下呢~",
             "jp": "これは記録しておかなければならないね~",
@@ -1182,6 +1183,51 @@
         "School": "ETC"
     },
     {
+        "Id": 365,
+        "Name": {
+            "zh": "光",
+            "tw": "光",
+            "jp": "ヒカリ",
+            "en": "Hikari"
+        },
+        "Avatar": [
+            "https://static.wikia.nocookie.net/blue-archive/images/a/a8/Hikari_Icon.png",
+            "https://cdnimg.gamekee.com/wiki2.0/images/w_550/h_550/829/43637/2024/3/11/529345.png"
+        ],
+        "Bio": {},
+        "Nickname": ["Hikari", "蜜瓜雪糕", "光明"],
+        "School": "ETC"
+    },
+    {
+        "Id": 366,
+        "Name": {
+            "zh": "望",
+            "tw": "望",
+            "jp": "ノゾミ",
+            "en": "Nozomi"
+        },
+        "Avatar": [
+            "https://static.wikia.nocookie.net/blue-archive/images/b/b3/Nozomi_Icon.png",
+            "https://cdnimg.gamekee.com/wiki2.0/images/w_550/h_550/829/43637/2024/3/11/736958.png"
+        ],
+        "Bio": {},
+        "Nickname": ["Nozomi", "蜜瓜雪糕", "希望"],
+        "School": "ETC"
+    },
+    {
+        "Id": 367,
+        "Name": {
+            "zh": "周防",
+            "tw": "",
+            "jp": "スオウ",
+            "en": ""
+        },
+        "Avatar": ["https://cdnimg.gamekee.com/wiki2.0/images/w_589/h_585/829/43637/2024/3/11/475757.png"],
+        "Bio": {},
+        "Nickname": ["suou"],
+        "School": "ETC"
+    },
+    {
         "Id": 221,
         "Name": {
             "zh": "格赫娜学生",
@@ -1366,6 +1412,19 @@
         ],
         "Bio": {},
         "Nickname": ["Hyakkiyako4"],
+        "School": "Hyakkiyako"
+    },
+    {
+        "Id": 363,
+        "Name": {
+            "zh": "人力车学生",
+            "tw": "人力車學生",
+            "jp": "人力車の生徒",
+            "en": "Rickshaw Students"
+        },
+        "Avatar": [],
+        "Bio": {},
+        "Nickname": ["Hyakkiyako6"],
         "School": "Hyakkiyako"
     },
     {
