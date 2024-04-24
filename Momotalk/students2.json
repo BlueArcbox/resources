@@ -675,6 +675,64 @@
         "School": "ETC"
     },
     {
+        "Id": 365,
+        "Name": {
+            "zh": "光",
+            "tw": "光",
+            "jp": "ヒカリ",
+            "en": "Hikari"
+        },
+        "Avatar": [
+            "https://static.wikia.nocookie.net/blue-archive/images/a/a8/Hikari_Icon.png",
+            "https://cdnimg.gamekee.com/wiki2.0/images/w_550/h_550/829/43637/2024/3/11/529345.png"
+        ],
+        "Bio": {},
+        "Nickname": ["Hikari", "蜜瓜雪糕", "光明"],
+        "School": "ETC"
+    },
+    {
+        "Id": 366,
+        "Name": {
+            "zh": "望",
+            "tw": "望",
+            "jp": "ノゾミ",
+            "en": "Nozomi"
+        },
+        "Avatar": [
+            "https://static.wikia.nocookie.net/blue-archive/images/b/b3/Nozomi_Icon.png",
+            "https://cdnimg.gamekee.com/wiki2.0/images/w_550/h_550/829/43637/2024/3/11/736958.png"
+        ],
+        "Bio": {},
+        "Nickname": ["Nozomi", "蜜瓜雪糕", "希望"],
+        "School": "ETC"
+    },
+    {
+        "Id": 367,
+        "Name": {
+            "zh": "周防",
+            "tw": "周防",
+            "jp": "スオウ",
+            "en": "Suou"
+        },
+        "Avatar": ["https://cdnimg.gamekee.com/wiki2.0/images/w_589/h_585/829/43637/2024/3/11/475757.png"],
+        "Bio": {},
+        "Nickname": ["suou"],
+        "School": "ETC"
+    },
+    {
+        "Id": 372,
+        "Name": {
+            "zh": "䌷",
+            "tw": "紬",
+            "jp": "ツムギ",
+            "en": "Sumugi"
+        },
+        "Avatar": [],
+        "Bio": {},
+        "Nickname": ["Sumugi"],
+        "School": "ETC"
+    },
+    {
         "Id": 170,
         "Name": {
             "zh": "贝阿朵莉切",
@@ -1180,51 +1238,6 @@
         ],
         "Bio": {},
         "Nickname": ["Schale1"],
-        "School": "ETC"
-    },
-    {
-        "Id": 365,
-        "Name": {
-            "zh": "光",
-            "tw": "光",
-            "jp": "ヒカリ",
-            "en": "Hikari"
-        },
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/a/a8/Hikari_Icon.png",
-            "https://cdnimg.gamekee.com/wiki2.0/images/w_550/h_550/829/43637/2024/3/11/529345.png"
-        ],
-        "Bio": {},
-        "Nickname": ["Hikari", "蜜瓜雪糕", "光明"],
-        "School": "ETC"
-    },
-    {
-        "Id": 366,
-        "Name": {
-            "zh": "望",
-            "tw": "望",
-            "jp": "ノゾミ",
-            "en": "Nozomi"
-        },
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/b/b3/Nozomi_Icon.png",
-            "https://cdnimg.gamekee.com/wiki2.0/images/w_550/h_550/829/43637/2024/3/11/736958.png"
-        ],
-        "Bio": {},
-        "Nickname": ["Nozomi", "蜜瓜雪糕", "希望"],
-        "School": "ETC"
-    },
-    {
-        "Id": 367,
-        "Name": {
-            "zh": "周防",
-            "tw": "",
-            "jp": "スオウ",
-            "en": ""
-        },
-        "Avatar": ["https://cdnimg.gamekee.com/wiki2.0/images/w_589/h_585/829/43637/2024/3/11/475757.png"],
-        "Bio": {},
-        "Nickname": ["suou"],
         "School": "ETC"
     },
     {

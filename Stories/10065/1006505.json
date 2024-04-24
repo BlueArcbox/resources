@@ -1,0 +1,141 @@
+[
+    {
+        "CharacterId": 10065,
+        "MessageJP": "カホ",
+        "MessageKR": "카호",
+        "MessageTW": "佳穗",
+        "MessageEN": "Kaho"
+    },
+    {
+        "MessageId": 100640390,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 100650390,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 100650390,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100650400,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生、こんにちは。カホです",
+        "MessageKR": "선생님, 안녕하십니까. 카호입니다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100650400,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 100650410,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "明日、仕事で陰陽部にいらっしゃると伺い、メッセージいたしました",
+        "MessageKR": "내일 업무차 음양부에 들르신다는 소식을 들었습니다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100650410,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 100650420,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "うん、明日はよろしくね",
+        "MessageKR": "응, 맞아. 그렇게 됐네.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100650420,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100650421,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "はい、お会いできるのを楽しみにしておりますね",
+        "MessageKR": "후훗, 또 뵐 수 있게 되어 즐겁네요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100650421,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100650430,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "それとよろしければ、業務の後にお茶でもいかがでしょうか？",
+        "MessageKR": "업무가 끝나면 휴게실에서 차라도 한잔하고 가시는 건 어떠신가요?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100650430,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 100650440,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "休憩は大事ですから",
+        "MessageKR": "청결하고 정돈된 분위기에서 휴식을 취하면 이후 업무의 능률도 오를 테니까요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100650440,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 100650450,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ありがとう。それじゃあ、頂こうかな",
+        "MessageKR": "물론, 사양할 이유가 없지.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100650450,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100650451,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "はい、心を込めて用意いたしますね",
+        "MessageKR": "감사합니다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100650451,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100640457,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "それではお待ちしております",
+        "MessageKR": "그럼 기다리고 있겠습니다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100640457,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "カホの絆イベントへ",
+        "MessageKR": "카호의 인연스토리로",
+        "MessageTW": "前往佳穗的羈絆劇情",
+        "MessageEN": "Go to Kaho's Event"
+    }
+]

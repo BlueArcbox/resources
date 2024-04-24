@@ -462,10 +462,7 @@
     },
     {
         "Id": 23000,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/2/23/Airi_Icon.png",
-            "https://api.kivo.wiki/assets/images/students/栗村 爱莉/乐队/avatar.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/2/23/Airi_Icon.png"],
         "Bio": {
             "zh": "薄荷巧克力最棒了！",
             "jp": "チョコミントは最高！",
@@ -608,10 +605,7 @@
     },
     {
         "Id": 26005,
-        "Avatar": [
-            "https://static.wikia.nocookie.net/blue-archive/images/8/84/Yoshimi_Icon.png",
-            "https://api.kivo.wiki/assets/images/students/伊原木 好美/乐队/avatar.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/8/84/Yoshimi_Icon.png"],
         "Bio": {
             "zh": "#还在成长期",
             "jp": "#まだ成長期",
@@ -969,7 +963,10 @@
     },
     {
         "Id": 10029,
-        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/5/5b/Natsu_Icon.png"],
+        "Avatar": [
+            "https://static.wikia.nocookie.net/blue-archive/images/5/5b/Natsu_Icon.png",
+            "https://api.kivo.wiki/assets/images/students/柚鸟 夏/乐队/avatar.png"
+        ],
         "Bio": {
             "zh": "人生是巧克力蝴蝶饼",
             "jp": "人生はチョコレートプレッツェル",
@@ -1489,8 +1486,7 @@
         "Id": 10049,
         "Avatar": [
             "https://static.wikia.nocookie.net/blue-archive/images/c/cb/Kazusa_Icon.png",
-            "https://static.wikia.nocookie.net/blue-archive/images/5/54/Kazusa_Old_Icon.png",
-            "https://api.kivo.wiki/assets/images/students/杏山 和纱/乐队/avatar.png"
+            "https://static.wikia.nocookie.net/blue-archive/images/5/54/Kazusa_Old_Icon.png"
         ],
         "Bio": {
             "zh": "放学后的甜点部成员",
@@ -2369,5 +2365,38 @@
         },
         "Nickname": ["狗导", "导狗"],
         "related": [13009, "guide"]
+    },
+    {
+        "Id": 10091,
+        "Avatar": [],
+        "Bio": {
+            "zh": "Sugar Rush的主唱兼职贝斯",
+            "jp": "シュガーラッシュのメインボーカル兼ベース",
+            "kr": "슈가 러시의 메인 보컬 겸 베이스입니다"
+        },
+        "Nickname": ["乐队纱", "贝斯猫", "乐队猫", "纱乐"],
+        "related": [10049, "band"]
+    },
+    {
+        "Id": 10092,
+        "Avatar": [],
+        "Bio": {
+            "zh": "#猛特训中",
+            "jp": "#猛特訓中",
+            "kr": "#맹연습중"
+        },
+        "Nickname": ["吉美", "乐美", "乐队美"],
+        "related": [26005, "band"]
+    },
+    {
+        "Id": 16015,
+        "Avatar": [],
+        "Bio": {
+            "zh": "已经没问题了！",
+            "jp": "もう大丈夫！",
+            "kr": "이젠 괜찮아."
+        },
+        "Nickname": ["乐队冰", "乐冰"],
+        "related": [23000, "band"]
     }
 ]
