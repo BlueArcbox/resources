@@ -1555,5 +1555,24 @@
             }
         ],
         "pictures_count": 2
+    },
+    {
+        "dynamic_id": 927237109412003856,
+        "description": "【国际服资讯】【官方四格漫画第132话】 \n▎老歌魂\n 原来不是只有阳葵也懂老歌的美好🤭\n\n 心心相惜...\n\n#碧蓝档案漫画连载中# #第132话# #蔚蓝档案# #碧蓝档案# #BlueArchive#",
+        "pictures": [
+            {
+                "img_height": 1274,
+                "img_width": 800,
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/9cf5baa051341de9a0eee2345dc02f6037507923.jpg",
+                "img_size": 186.77000427246094
+            },
+            {
+                "img_height": 568,
+                "img_width": 800,
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/c49fb19efa17276e4bc496394da7b5d037507923.jpg",
+                "img_size": 50.56999969482422
+            }
+        ],
+        "pictures_count": 2
     }
 ]
