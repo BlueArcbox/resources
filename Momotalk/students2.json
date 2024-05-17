@@ -311,20 +311,6 @@
         "School": "Gehenna"
     },
     {
-        "Id": 163,
-        "Name": {
-            "zh": "绮良",
-            "jp": "キララ",
-            "tw": "綺良",
-            "en": "Kirara",
-            "kr": "키라라"
-        },
-        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/b/b6/Kirara_Icon.png"],
-        "Bio": {},
-        "Nickname": ["Kirara", "琪拉拉"],
-        "School": "Gehenna"
-    },
-    {
         "Id": 133,
         "Name": {
             "zh": "莉音",

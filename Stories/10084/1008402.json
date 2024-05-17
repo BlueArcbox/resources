@@ -3,8 +3,8 @@
         "CharacterId": 10084,
         "MessageJP": "コタマ（キャンプ）",
         "MessageKR": "코타마(캠핑)",
-        "MessageTW": "小玉（露營）",
-        "MessageEN": "Kotama (Camping)"
+        "MessageTW": "小玉(露營)",
+        "MessageEN": "Kotama (Camp)"
     },
     {
         "MessageId": 100830090,
@@ -135,7 +135,7 @@
         "ImagePath": "",
         "MessageJP": "コタマ（キャンプ）の絆イベントへ",
         "MessageKR": "코타마(캠핑)의 인연스토리로",
-        "MessageTW": "前往小玉（露營）的羈絆劇情",
-        "MessageEN": "Go to Kotama (Camping)'s Event"
+        "MessageTW": "前往小玉(露營)的羈絆劇情",
+        "MessageEN": "Go to Kotama (Camp)'s Event"
     }
 ]

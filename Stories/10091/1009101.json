@@ -3,7 +3,7 @@
         "CharacterId": 10091,
         "MessageJP": "カズサ（バンド）",
         "MessageKR": "카즈사(밴드)",
-        "MessageTW": "カズサ（バンド）",
+        "MessageTW": "千紗（樂隊）",
         "MessageEN": "Kazusa (Band)"
     },
     {
@@ -183,7 +183,7 @@
         "ImagePath": "",
         "MessageJP": "カズサ（バンド）の絆イベントへ",
         "MessageKR": "카즈사(밴드)의 인연스토리로",
-        "MessageTW": "前往カズサ（バンド）的羈絆劇情",
+        "MessageTW": "前往千紗（樂隊）的羈絆劇情",
         "MessageEN": "Go to Kazusa (Band)'s Event"
     },
     {
@@ -314,7 +314,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "また付き合ってよね、絶対",
-        "MessageKR": "나중에 딴 소리 말라고, 선생님.",
+        "MessageKR": "나중에 딴소리 말라고, 선생님.",
         "MessageTW": "",
         "MessageEN": ""
     }

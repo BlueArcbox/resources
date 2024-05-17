@@ -3,8 +3,8 @@
         "CharacterId": 10085,
         "MessageJP": "ハレ（キャンプ）",
         "MessageKR": "하레(캠핑)",
-        "MessageTW": "晴（露營）",
-        "MessageEN": "Hare (Camping)"
+        "MessageTW": "晴(露營)",
+        "MessageEN": "Hare (Camp)"
     },
     {
         "MessageId": 100840120,
@@ -171,7 +171,7 @@
         "ImagePath": "",
         "MessageJP": "ハレ（キャンプ）の絆イベントへ",
         "MessageKR": "하레(캠핑)의 인연스토리로",
-        "MessageTW": "前往晴（露營）的羈絆劇情",
-        "MessageEN": "Go to Hare (Camping)'s Event"
+        "MessageTW": "前往晴(露營)的羈絆劇情",
+        "MessageEN": "Go to Hare (Camp)'s Event"
     }
 ]

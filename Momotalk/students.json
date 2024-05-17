@@ -71,7 +71,7 @@
     {
         "Id": 10005,
         "Avatar": [
-            "https://api.kivo.wiki/assets/images/students/小鸟游 星野/昔日/avatar.png",
+            "https://static.kivo.wiki/images/students/小鸟游 星野/昔日/avatar.png",
             "/api/Avatars/Hoshino.webp",
             "https://static.wikia.nocookie.net/blue-archive/images/d/de/Hoshino_Icon.png",
             "https://static.wikia.nocookie.net/blue-archive/images/8/8e/Hoshino_Robber_Icon.png",
@@ -101,7 +101,7 @@
     {
         "Id": 10007,
         "Avatar": [
-            "https://api.kivo.wiki/assets/images/students/小涂 真纪/露营/avatar.png",
+            "https://static.kivo.wiki/images/students/小涂 真纪/露营/avatar.png",
             "https://static.wikia.nocookie.net/blue-archive/images/e/e9/Maki_Icon.png",
             "https://static.wikia.nocookie.net/blue-archive/images/e/ec/Maki_Camp_Icon.png"
         ],
@@ -276,8 +276,8 @@
     {
         "Id": 13006,
         "Avatar": [
-            "https://api.kivo.wiki/assets/images/students/浅黄 睦月/礼服/avatar.png",
-            "https://api.kivo.wiki/assets/images/students/浅黄 睦月/西装/avatar.png",
+            "https://static.kivo.wiki/images/students/浅黄 睦月/礼服/avatar.png",
+            "https://static.kivo.wiki/images/students/浅黄 睦月/西装/avatar.png",
             "https://static.wikia.nocookie.net/blue-archive/images/8/83/Mutsuki_Icon.png",
             "https://static.wikia.nocookie.net/blue-archive/images/8/8a/Mutsuki_Dress_Icon.png",
             "https://static.wikia.nocookie.net/blue-archive/images/5/5e/Mutsuki_Suit_Icon.png"
@@ -351,8 +351,8 @@
     {
         "Id": 16000,
         "Avatar": [
-            "https://api.kivo.wiki/assets/images/students/伊草 遥香/礼服/avatar.png",
-            "https://api.kivo.wiki/assets/images/students/伊草 遥香/西装/avatar.png",
+            "https://static.kivo.wiki/images/students/伊草 遥香/礼服/avatar.png",
+            "https://static.kivo.wiki/images/students/伊草 遥香/西装/avatar.png",
             "https://static.wikia.nocookie.net/blue-archive/images/b/bd/Haruka_Icon.png",
             "https://static.wikia.nocookie.net/blue-archive/images/a/a2/Haruka_Dress_Icon.png",
             "https://static.wikia.nocookie.net/blue-archive/images/b/b0/Haruka_Suit_Icon.png"
@@ -410,7 +410,7 @@
         "Id": 16004,
         "Avatar": [
             "https://static.wikia.nocookie.net/blue-archive/images/8/8e/Pina_Icon.png",
-            "https://api.kivo.wiki/assets/images/students/朝比奈 菲娜/导游/avatar.png"
+            "https://static.kivo.wiki/images/students/朝比奈 菲娜/导游/avatar.png"
         ],
         "Bio": {
             "zh": "CHUCIJIANMIAN！",
@@ -965,7 +965,7 @@
         "Id": 10029,
         "Avatar": [
             "https://static.wikia.nocookie.net/blue-archive/images/5/5b/Natsu_Icon.png",
-            "https://api.kivo.wiki/assets/images/students/柚鸟 夏/乐队/avatar.png"
+            "https://static.wikia.nocookie.net/blue-archive/images/9/9b/Natsu_Band_Icon.png"
         ],
         "Bio": {
             "zh": "人生是巧克力蝴蝶饼",
@@ -974,7 +974,7 @@
             "en": "Life = Chocolate Pretzels",
             "kr": "인생=초콜릿 프레첼"
         },
-        "Nickname": ["康娜", "拉菲", "小夏"]
+        "Nickname": ["康娜", "拉菲", "小夏", "夏老师"]
     },
     {
         "Id": 23008,
@@ -1148,7 +1148,7 @@
     {
         "Id": 20013,
         "Avatar": [
-            "https://api.kivo.wiki/assets/images/students/各务 千寻/露营/avatar.png",
+            "https://static.kivo.wiki/images/students/各务 千寻/露营/avatar.png",
             "https://static.wikia.nocookie.net/blue-archive/images/a/aa/Chihiro_Icon.png",
             "https://static.wikia.nocookie.net/blue-archive/images/7/7c/Chihiro_Camp_Icon.png"
         ],
@@ -1257,7 +1257,7 @@
         "Id": 20015,
         "Avatar": [
             "https://static.wikia.nocookie.net/blue-archive/images/c/c1/Kaede_Icon.png",
-            "https://api.kivo.wiki/assets/images/students/勇美 枫/导游/avatar.png"
+            "https://static.kivo.wiki/images/students/勇美 枫/导游/avatar.png"
         ],
         "Bio": {
             "zh": "今天要玩什么呢！？",
@@ -1450,7 +1450,7 @@
     {
         "Id": 10048,
         "Avatar": [
-            "https://api.kivo.wiki/assets/images/students/锭前 纱织/礼服/avatar.png",
+            "https://static.kivo.wiki/images/students/锭前 纱织/礼服/avatar.png",
             "https://static.wikia.nocookie.net/blue-archive/images/7/70/Saori_Icon.png",
             "https://static.wikia.nocookie.net/blue-archive/images/f/f1/Saori_Unmask_Icon.png",
             "https://static.wikia.nocookie.net/blue-archive/images/3/34/Saori_Helmet_Icon.png",
@@ -2122,7 +2122,8 @@
             "zh": "无论何时都是大家的伙伴，正义实现委员会！",
             "jp": "いつも皆さんの味方、正義実現委員会っす！",
             "tw": "始終親切的實現正義部！",
-            "kr": "언제나 친절한 정의실현부입니다!"
+            "kr": "언제나 친절한 정의실현부입니다!",
+            "en": "The Justice Task Force's door is always open!"
         },
         "Nickname": ["大杂鱼"]
     },
@@ -2142,10 +2143,11 @@
         "Id": 20031,
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/9/91/Shigure_Hot_Spring_Icon.png"],
         "Bio": {
-            "zh": "倘若乡愁也能一饮而尽",
+            "zh": "若連思念都能一飲而盡",
             "jp": "郷愁さえも飲み干せるのなら",
             "tw": "若連思念都能一飲而盡",
-            "kr": "그리움도 마셔서 없앨 수 있다면"
+            "kr": "그리움도 마셔서 없앨 수 있다면",
+            "en": "If only we could drink away our nostalgia"
         },
         "Nickname": ["温时雨"],
         "related": [10055, "hotspring"]
@@ -2368,7 +2370,7 @@
     },
     {
         "Id": 10091,
-        "Avatar": [],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/7/7f/Kazusa_Band_Icon.png"],
         "Bio": {
             "zh": "Sugar Rush的主唱兼职贝斯",
             "jp": "シュガーラッシュのメインボーカル兼ベース",
@@ -2379,7 +2381,7 @@
     },
     {
         "Id": 10092,
-        "Avatar": [],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/d/d0/Yoshimi_Band_Icon.png"],
         "Bio": {
             "zh": "#猛特训中",
             "jp": "#猛特訓中",
@@ -2390,7 +2392,7 @@
     },
     {
         "Id": 16015,
-        "Avatar": [],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/a/a2/Airi_Band_Icon.png"],
         "Bio": {
             "zh": "已经没问题了！",
             "jp": "もう大丈夫！",
@@ -2398,5 +2400,16 @@
         },
         "Nickname": ["乐队冰", "乐冰"],
         "related": [23000, "band"]
+    },
+    {
+        "Id": 10093,
+        "Name": "绮良",
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/b/b6/Kirara_Icon.png"],
+        "Bio": {
+            "zh": "#闪闪发光#永远_Happy",
+            "jp": "#キラキラ#いつも_ハッピー",
+            "kr": "#반짝반짝 #언제나_즐겁게"
+        },
+        "Nickname": ["绮罗罗", "琪拉拉", "闪亮亮", "绮良良"]
     }
 ]

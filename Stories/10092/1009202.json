@@ -3,7 +3,7 @@
         "CharacterId": 10092,
         "MessageJP": "ヨシミ（バンド）",
         "MessageKR": "요시미(밴드)",
-        "MessageTW": "ヨシミ（バンド）",
+        "MessageTW": "喜美（樂隊）",
         "MessageEN": "Yoshimi (Band)"
     },
     {
@@ -86,7 +86,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "ちょっと描いてみたんだけど",
-        "MessageKR": "미리 좀 그려 보고 있는데 잘 안 돼서",
+        "MessageKR": "미리 좀 그려 보고 있는데 잘 안돼서",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -147,7 +147,7 @@
         "ImagePath": "",
         "MessageJP": "ヨシミ（バンド）の絆イベントへ",
         "MessageKR": "요시미(밴드)의 인연스토리로",
-        "MessageTW": "前往ヨシミ（バンド）的羈絆劇情",
+        "MessageTW": "前往喜美（樂隊）的羈絆劇情",
         "MessageEN": "Go to Yoshimi (Band)'s Event"
     },
     {

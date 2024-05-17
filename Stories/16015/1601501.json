@@ -3,7 +3,7 @@
         "CharacterId": 16015,
         "MessageJP": "アイリ（バンド）",
         "MessageKR": "아이리(밴드)",
-        "MessageTW": "アイリ（バンド）",
+        "MessageTW": "愛莉（樂隊）",
         "MessageEN": "Airi (Band)"
     },
     {
@@ -146,7 +146,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "本当に、ちょっとだけで良いので……！よろしくお願いします！",
-        "MessageKR": "꼭이에요!! ",
+        "MessageKR": "꼭이에요!!",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -159,7 +159,7 @@
         "ImagePath": "",
         "MessageJP": "アイリ（バンド）の絆イベントへ",
         "MessageKR": "아이리(밴드)의 인연스토리로",
-        "MessageTW": "前往アイリ（バンド）的羈絆劇情",
+        "MessageTW": "前往愛莉（樂隊）的羈絆劇情",
         "MessageEN": "Go to Airi (Band)'s Event"
     },
     {
@@ -182,7 +182,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "それとあらためて、スイーツどうでした？",
-        "MessageKR": "드신 건 입에 맞으셨을 지 모르겠네요.",
+        "MessageKR": "드신 건 입에 맞으셨을지 모르겠네요.",
         "MessageTW": "",
         "MessageEN": ""
     },
