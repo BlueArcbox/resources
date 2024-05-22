@@ -25,7 +25,7 @@
         "NextId": 200350100,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "ねえ、先生",
+        "MessageJP": "ねえねえ、先生",
         "MessageKR": "있잖아. 선생님.",
         "MessageTW": "",
         "MessageEN": ""
@@ -37,7 +37,7 @@
         "NextId": 200350110,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "今からシャーレに行くけど、いい？",
+        "MessageJP": "今からシャーレに行ってもいいかな？",
         "MessageKR": "지금부터 샬레로 갈 생각인데, 괜찮지?",
         "MessageTW": "",
         "MessageEN": ""
@@ -49,7 +49,7 @@
         "NextId": 200350120,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "もちろん、いいけど",
+        "MessageJP": "もちろん、いいよ",
         "MessageKR": "물론 괜찮지만.",
         "MessageTW": "",
         "MessageEN": ""
@@ -61,7 +61,7 @@
         "NextId": 200350120,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "ツバキがわざわざ来るだなんて、珍しいね",
+        "MessageJP": "ツバキが来るなんて、めずらしいね",
         "MessageKR": "츠바키가 여기까지 찾아오다니, 드문 일이네.",
         "MessageTW": "",
         "MessageEN": ""
@@ -73,7 +73,7 @@
         "NextId": 200350121,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "当然だよ",
+        "MessageJP": "ありがと～先生。\nこれもガイドの修行なんだ",
         "MessageKR": "당연한 거야.",
         "MessageTW": "",
         "MessageEN": ""
@@ -85,7 +85,7 @@
         "NextId": 200350130,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "今の私は、睡眠ガイドの春日ツバキだから",
+        "MessageJP": "今日の私は睡眠ガイドの春日ツバキ……",
         "MessageKR": "지금의 나는, 수면 가이드 카스가 츠바키니까.",
         "MessageTW": "",
         "MessageEN": ""
@@ -97,7 +97,7 @@
         "NextId": 200350131,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "この前は先生に睡眠のガイドをちゃんとしてあげられなかったし……",
+        "MessageJP": "この前は先生に、睡眠のガイドをちゃんとしてあげられなかったでしょ……？",
         "MessageKR": "예전에 선생님에게 수면 가이드를 제대로 해 주지 못했으니까…….",
         "MessageTW": "",
         "MessageEN": ""
@@ -109,7 +109,7 @@
         "NextId": 200350140,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "今日はその分、徹底的にガイドしてあげるね",
+        "MessageJP": "だから今日はこの前のぶんまで、しっかりガイドしてあげるね",
         "MessageKR": "오늘은 그 분량만큼 철저하게 가이드를 해 줄게.",
         "MessageTW": "",
         "MessageEN": ""
@@ -121,7 +121,7 @@
         "NextId": 200350150,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "結局シャーレで寝るってことなんだね……",
+        "MessageJP": "シャーレには眠りに来るんだね……",
         "MessageKR": "결국 샬레에서 자겠다는 소리구나…….",
         "MessageTW": "",
         "MessageEN": ""
@@ -133,7 +133,7 @@
         "NextId": 200350151,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "そうかな",
+        "MessageJP": "そういうことになるのかな……？",
         "MessageKR": "그건 완전한 진실이 아니야.",
         "MessageTW": "",
         "MessageEN": ""
@@ -145,7 +145,7 @@
         "NextId": 200340157,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "でも、先生も一緒に寝るんだよ",
+        "MessageJP": "でも、今日は先生も一緒に寝るんだよ",
         "MessageKR": "왜냐하면 선생님도 같이 자야 하니까.",
         "MessageTW": "",
         "MessageEN": ""

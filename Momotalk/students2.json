@@ -292,7 +292,12 @@
             "kr": "사츠키"
         },
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/4/4e/Satsuki_Icon.png"],
-        "Bio": {},
+        "Bio": {
+            "en": "Cooperate? No, I was just passing by and give you a morale boost.",
+            "zh": "合作?和你们?不，我只是路过，想给你們打气",
+            "tw": "合作?和你們?不，我只是路過，想給你們打氣",
+            "jp": "協力？いいえ、私は応援するために通りかかっただけです。"
+        },
         "Nickname": ["Satsuki"],
         "School": "Gehenna"
     },
@@ -448,7 +453,12 @@
             "en": "Shuro"
         },
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/c/ca/Shuro_Icon.png"],
-        "Bio": {},
+        "Bio": {
+            "en": "Excellent! That expression... it truly is irresistible.",
+            "zh": "太棒了！这个表达... 真让人难以抗拒",
+            "tw": "太棒了！這個表達... 真讓人難以抗拒",
+            "jp": "素晴らしい！この表現が……たまりません"
+        },
         "Nickname": ["Shuro", "修罗"],
         "School": "Hyakkiyako"
     },
@@ -481,7 +491,12 @@
             "kr": "레이죠"
         },
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/a/ad/Reijo_Icon.png"],
-        "Bio": {},
+        "Bio": {
+            "zh": "电影里，让对手失去平衡是功夫的基本",
+            "tw": "電影裡，讓對手失去平衡是功夫的基本",
+            "en": "Keeping your foe off balance is a fundamental skill in kung fu.",
+            "jp": "相手のバランスを崩すことがカンフーの基本です"
+        },
         "Nickname": ["Reijo"],
         "School": "Shanhaijing"
     },
@@ -514,7 +529,12 @@
             "kr": "타카네"
         },
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/b/b8/Takane_Icon.png"],
-        "Bio": {},
+        "Bio": {
+            "en": "I'm not bragging, but... I'm also one of the critics,...",
+            "zh": "...我也是一个评论家...",
+            "jp": "……私も評論家です……",
+            "tw": "...我也是一个評論家..."
+        },
         "Nickname": ["Takane"],
         "School": "RedWinter"
     },
@@ -656,7 +676,12 @@
             "kr": "아키라"
         },
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/8/8e/Akira_Icon.png"],
-        "Bio": {},
+        "Bio": {
+            "en": "Hidden myself behind a mask...",
+            "zh": "藏于面具之后...",
+            "tw": "藏於面具之後...",
+            "jp": "マスクの奥に隠れて..."
+        },
         "Nickname": ["Akira"],
         "School": "ETC"
     },
@@ -672,7 +697,12 @@
             "https://static.wikia.nocookie.net/blue-archive/images/a/a8/Hikari_Icon.png",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_550/h_550/829/43637/2024/3/11/529345.png"
         ],
-        "Bio": {},
+        "Bio": {
+            "en": "Construction is smooth, but administration is... Meh",
+            "zh": "施工顺利，不过管理嘛...哼",
+            "tw": "施工順利，不過管理嘛...哼",
+            "jp": "工事はうまくいきましたが、管理が……ですね"
+        },
         "Nickname": ["Hikari", "蜜瓜雪糕", "光明"],
         "School": "ETC"
     },
@@ -688,7 +718,12 @@
             "https://static.wikia.nocookie.net/blue-archive/images/b/b3/Nozomi_Icon.png",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_550/h_550/829/43637/2024/3/11/736958.png"
         ],
-        "Bio": {},
+        "Bio": {
+            "en": "Pyahaha~ Don't mind don't mind. ",
+            "jp": "ぴゃはは~ 気にしない、気にしない",
+            "zh": "哈哈~ 别在意别在意",
+            "tw": "哈哈~ 別在意別在意"
+        },
         "Nickname": ["Nozomi", "蜜瓜雪糕", "希望"],
         "School": "ETC"
     },

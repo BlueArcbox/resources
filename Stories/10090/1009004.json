@@ -25,7 +25,7 @@
         "NextId": 100900240,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "この前は大変失礼いたしました……",
+        "MessageJP": "先生、この前は失礼いたしました……",
         "MessageKR": "예전에는 실례가 많았습니다…….",
         "MessageTW": "",
         "MessageEN": ""
@@ -37,7 +37,7 @@
         "NextId": 100900250,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "ウミカ、もう大丈夫？",
+        "MessageJP": "ウミカのほうは、もう落ち着いたかな？",
         "MessageKR": "우미카는 이제 좀 괜찮아?",
         "MessageTW": "",
         "MessageEN": ""
@@ -61,7 +61,7 @@
         "NextId": 100900261,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "あの、先生",
+        "MessageJP": "あの、先生にご相談したいことがあるんです",
         "MessageKR": "저, 선생님.",
         "MessageTW": "",
         "MessageEN": ""
@@ -73,7 +73,7 @@
         "NextId": 100900270,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "今日もそのことでご相談が……",
+        "MessageJP": "この前の件と、すこし関係するのですが……",
         "MessageKR": "그 일과도 약간은, 관련이 있는 일이긴 한데요…….",
         "MessageTW": "",
         "MessageEN": ""
@@ -85,7 +85,7 @@
         "NextId": 100900271,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "もしよろしければ",
+        "MessageJP": "もしご都合がよろしければ……",
         "MessageKR": "오늘도, 괜찮으시다면.",
         "MessageTW": "",
         "MessageEN": ""
@@ -97,7 +97,7 @@
         "NextId": 100900280,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "百夜堂まで来て、いただけますか……？",
+        "MessageJP": "百夜堂まで来ていただけないでしょうか……？",
         "MessageKR": "백야당에 와 주셨으면, 하는데요……?",
         "MessageTW": "",
         "MessageEN": ""
@@ -109,7 +109,7 @@
         "NextId": 100900290,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "ついに今日は行けるんだね！",
+        "MessageJP": "今日は行ってもいいんだね！",
         "MessageKR": "드디어 오늘은 괜찮은 거구나!",
         "MessageTW": "",
         "MessageEN": ""
@@ -121,7 +121,7 @@
         "NextId": 100900300,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "そ、そうです。今日は……！",
+        "MessageJP": "え、は……はい！",
         "MessageKR": "마, 맞아요. 오늘은……!",
         "MessageTW": "",
         "MessageEN": ""
@@ -133,7 +133,7 @@
         "NextId": 100900310,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "じゃなくて",
+        "MessageJP": "む、むしろですね……",
         "MessageKR": "이 아니라.",
         "MessageTW": "",
         "MessageEN": ""
@@ -145,7 +145,7 @@
         "NextId": 100900311,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "今日来ていただかないと",
+        "MessageJP": "今日は是非来ていただきたいんです……",
         "MessageKR": "오늘 와 주시지 않으면, 저기, 약간이지만.",
         "MessageTW": "",
         "MessageEN": ""
@@ -157,7 +157,7 @@
         "NextId": 100900320,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "少し困る、と言いますか……",
+        "MessageJP": "だから、お待ちしてますね",
         "MessageKR": "제가 조금 곤란하다고 할까, 그래서요…….",
         "MessageTW": "",
         "MessageEN": ""

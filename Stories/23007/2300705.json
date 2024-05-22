@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "ふふっ、先生",
         "MessageKR": "아, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，老師",
+        "MessageEN": "Oh, Sensei."
     },
     {
         "MessageId": 230070420,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "お話は伺いました",
         "MessageKR": "이야기는 들었어요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我聽說了",
+        "MessageEN": "I've heard some whispers in the rumor mill."
     },
     {
         "MessageId": 230070430,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "トリニティに用事があるそうですね？",
         "MessageKR": "트리니티에 오실 일이 있으시다고요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你有事要來三一一趟？",
+        "MessageEN": "Is it true you'll be visiting Trinity soon?"
     },
     {
         "MessageId": 230070440,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "まあそうだけど……",
         "MessageKR": "일단 그렇긴 한데…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "的確是這樣沒錯……",
+        "MessageEN": "Yes I am, but..."
     },
     {
         "MessageId": 230070440,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "……どこで聞いたの？",
         "MessageKR": "……어디서 들은 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……不過你是從哪裡聽說的？",
+        "MessageEN": "Who did you hear that from?"
     },
     {
         "MessageId": 230070450,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ふふっ、どこでしょう♡",
         "MessageKR": "후후♡",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵♡",
+        "MessageEN": "Heehee."
     },
     {
         "MessageId": 230070460,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ともかく、運がよければ",
         "MessageKR": "운이 좋다면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "運氣好的話",
+        "MessageEN": "If I'm lucky,"
     },
     {
         "MessageId": 230070461,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "お会いできるといいですね",
         "MessageKR": "오신 김에 한 번 뵐 수 있었으면 좋겠네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "希望能在來的時候見上一面呢",
+        "MessageEN": "I'll get to see you during your visit."
     },
     {
         "MessageId": 230070470,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "あ、これは約束ではありませんよ？",
         "MessageKR": "아, 억지로 보자는 이야기는 아니었어요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，我這不是在強迫唷",
+        "MessageEN": "Oh, I'm not going to force it or anything."
     },
     {
         "MessageId": 230070480,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "偶然",
         "MessageKR": "우연히",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是指",
+        "MessageEN": "But with a little serendipity..."
     },
     {
         "MessageId": 230070481,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "機会があればお会いしたいという話ですから",
         "MessageKR": "기회가 닿는다면의 이야기니까요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有機會偶遇的話",
+        "MessageEN": "Our paths will cross, hopefully."
     },
     {
         "MessageId": 230060497,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "先生、無事に帰れましたか？",
         "MessageKR": "선생님, 잘 들어가셨나요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，您平安到家了嗎？",
+        "MessageEN": "Sensei, did you get back okay?"
     },
     {
         "MessageId": 230070500,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "次回お越しになる時は",
         "MessageKR": "다음번 오실 때에는",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "希望您下次來的時候",
+        "MessageEN": "I hope we can have more time together"
     },
     {
         "MessageId": 230070501,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "もう少し時間的に余裕があったらいいですね",
         "MessageKR": "좀 더 시간적 여유가 있으셨으면 좋겠네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "能有更充裕的時間",
+        "MessageEN": "the next time you visit."
     },
     {
         "MessageId": 230070510,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "その時は……",
         "MessageKR": "그러면 그때",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如此一來",
+        "MessageEN": "So"
     },
     {
         "MessageId": 230070511,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "いつものような感じで",
         "MessageKR": "늘 그렇듯 재미있게",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就能和往常一樣",
+        "MessageEN": "as always..."
     },
     {
         "MessageId": 230070520,
@@ -231,7 +231,7 @@
         "ImagePath": "",
         "MessageJP": "よろしくお願いします♡",
         "MessageKR": "부탁드리겠습니다♡",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "一起度過有趣的時光♡",
+        "MessageEN": "I'll look forward to it."
     }
 ]

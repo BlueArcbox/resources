@@ -27,7 +27,7 @@
         "ImagePath": "",
         "MessageJP": "先生……えへへ、こんにちは",
         "MessageKR": "선생님…… 헤헤.",
-        "MessageTW": "老師……欸嘿嘿，你好",
+        "MessageTW": "老師……耶嘿嘿，你好",
         "MessageEN": "Sensei... Heehee. "
     },
     {
@@ -123,7 +123,7 @@
         "ImagePath": "",
         "MessageJP": "画像が送られてない……？あれ、どうして？",
         "MessageKR": "왜 또 이러죠? 선생님?? 전송되지 않았습니다? 라니 무슨 소리인가요?",
-        "MessageTW": "圖片沒有在傳送……？啊咧，為什麼？",
+        "MessageTW": "圖片傳不出去？怎麼會？為什麼？",
         "MessageEN": "What's going on this time? It says, \"Failed to send.\" What does that mean?"
     },
     {
@@ -159,7 +159,7 @@
         "ImagePath": "",
         "MessageJP": "……待って、会って話そうか",
         "MessageKR": "……기다려. 만나서 얘기하자.",
-        "MessageTW": "……等等，見面再聊吧",
+        "MessageTW": "……等等見面再聊吧",
         "MessageEN": "Wait. Let's chat in person."
     },
     {

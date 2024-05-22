@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、急なご連絡で申し訳ありませんが……",
         "MessageKR": "선생님. 다소… 염치가 없지만.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，雖然多少有些厚顏無恥……",
+        "MessageEN": "Sensei, I know it's a lot to ask, but..."
     },
     {
         "MessageId": 100810220,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今日もまた！",
         "MessageKR": "지난번에 이어 오늘도!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但繼上次之後……！",
+        "MessageEN": "let's keep up the momentum!"
     },
     {
         "MessageId": 100810221,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "先生に新しいことを教えていただきたいのです！",
         "MessageKR": "저 유카리. 많은 것들을 선생님에게 배우고 싶사와요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天我勘解由小路紫，也想向老師學習各種事物！",
+        "MessageEN": "I want to learn even more from you, Sensei!"
     },
     {
         "MessageId": 100810230,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "もちろん！それじゃあ、シャーレで待ってるね",
         "MessageKR": "좋아. 그럼 나도 샬레에서 기다리고 있을게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，那我會在夏萊等你",
+        "MessageEN": "I'm at Schale whenever you need me."
     },
     {
         "MessageId": 100810240,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "はい！すぐに向かいますの！",
         "MessageKR": "네! 바로 가겠사와요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是！我立刻過去！",
+        "MessageEN": "Okie dokie! I'll be right there!"
     },
     {
         "MessageId": 100800247,

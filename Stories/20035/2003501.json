@@ -25,7 +25,7 @@
         "NextId": 200350020,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "おはよう、先生",
+        "MessageJP": "おはよ～先生",
         "MessageKR": "안녕, 선생님.",
         "MessageTW": "",
         "MessageEN": ""
@@ -37,7 +37,7 @@
         "NextId": 200350030,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "お、ツバキ",
+        "MessageJP": "あ、ツバキだ",
         "MessageKR": "오. 츠바키네.",
         "MessageTW": "",
         "MessageEN": ""
@@ -49,7 +49,7 @@
         "NextId": 200350030,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "今日も修行中？",
+        "MessageJP": "今日も修行してたの？",
         "MessageKR": "오늘도 수행 중이야?",
         "MessageTW": "",
         "MessageEN": ""
@@ -61,7 +61,7 @@
         "NextId": 200350040,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "そうだよ",
+        "MessageJP": "うん、私だよ～\n修行終わったところ……ふわぁ",
         "MessageKR": "맞아.",
         "MessageTW": "",
         "MessageEN": ""
@@ -73,7 +73,7 @@
         "NextId": 200350050,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "今回は特別に",
+        "MessageJP": "今回は普通の修行じゃないの……",
         "MessageKR": "이번엔 특별히",
         "MessageTW": "",
         "MessageEN": ""
@@ -85,7 +85,7 @@
         "NextId": 200350051,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "修行のために……もっと心機一転して",
+        "MessageJP": "だから、いつもより気合を入れようと思って",
         "MessageKR": "수행을 위해…… 더욱 심기일전해서",
         "MessageTW": "",
         "MessageEN": ""
@@ -97,7 +97,7 @@
         "NextId": 200350060,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "服まで着替えたから",
+        "MessageJP": "服を着替えたんだ～",
         "MessageKR": "옷까지 바꿔 입었으니까.",
         "MessageTW": "",
         "MessageEN": ""
@@ -109,7 +109,7 @@
         "NextId": 200350070,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "服を着替えたの？",
+        "MessageJP": "今日はいつもの服じゃないの？",
         "MessageKR": "옷을 바꿔 입었다고?",
         "MessageTW": "",
         "MessageEN": ""
@@ -133,7 +133,7 @@
         "NextId": 200350081,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "百鬼夜行に来れば",
+        "MessageJP": "百鬼夜行に来てくれたら",
         "MessageKR": "백귀야행에 오게 되면",
         "MessageTW": "",
         "MessageEN": ""

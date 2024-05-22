@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "思ったより長いわねぇ",
         "MessageKR": "생각보다 오래가네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒想到會在這裡待這麼久",
+        "MessageEN": "This is stretching out longer than I expected."
     },
     {
         "MessageId": 100800090,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "そろそろ対策を立てないといけないかしらぁ",
         "MessageKR": "뭔가 대책을 세워야 하는 것이려나?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是不是該擬定一下對策了呢？",
+        "MessageEN": "Perhaps it's not enough to let it pass on its own..."
     },
     {
         "MessageId": 100800100,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "長いって、ここに来てからのこと？",
         "MessageKR": "오래 가다니?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "待這麼久？",
+        "MessageEN": "What's stretching out?"
     },
     {
         "MessageId": 100800100,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "何かあったの？",
         "MessageKR": "무슨 일 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有什麼事嗎？",
+        "MessageEN": "Is there problem?"
     },
     {
         "MessageId": 100800110,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "何かあったわけではないんだけどぉ",
         "MessageKR": "대단한 일은 아니고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "其實也沒什麼",
+        "MessageEN": "It's not a terrible problem."
     },
     {
         "MessageId": 100800111,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "こっちに来てから、どうにもねぇ……",
         "MessageKR": "그저 이곳에 온 뒤로 쭉 있는 문제",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只是自從來到這裡就一直存在的問題",
+        "MessageEN": "Ever since we got here,"
     },
     {
         "MessageId": 100800120,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "集中できないというか、息苦しいというかぁ",
         "MessageKR": "조금 답답하달까 집중이 안 된달까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "該說是有點煩悶，還是說有點難集中精神呢",
+        "MessageEN": "I feel like I can't concentrate."
     },
     {
         "MessageId": 100800130,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "それは大変だね",
         "MessageKR": "과연, 이해했어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原來如此，我明白了",
+        "MessageEN": "Ah, I see."
     },
     {
         "MessageId": 100800130,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "それなら良い方法があるよ",
         "MessageKR": "좋은 방법이 있지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我有個好方法",
+        "MessageEN": "I think I know of a way to help."
     },
     {
         "MessageId": 100800140,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "そう？",
         "MessageKR": "……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……？",
+        "MessageEN": "...?"
     },
     {
         "MessageId": 100800141,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "聞かせてもらえるかしら？",
         "MessageKR": "선생님?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師？",
+        "MessageEN": "Sensei?"
     },
     {
         "MessageId": 100790147,

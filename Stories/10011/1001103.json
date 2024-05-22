@@ -27,7 +27,7 @@
         "ImagePath": "",
         "MessageJP": "すみません、体調が悪くて……梅花園には寄らず、このまま失礼します",
         "MessageKR": "오늘은 컨디션이 나빠서…… 매화원에 들르지 않고 먼저 들어가 보겠습니다.",
-        "MessageTW": "不好意思，我身體不太舒服……去不了梅花園，就這樣先失禮了",
+        "MessageTW": "不好意思，我身體不太舒服……今天就先不去梅花園了",
         "MessageEN": "I'm not feeling well today... I'll have to skip the Plum Blossom Garden and head straight home."
     },
     {
@@ -51,7 +51,7 @@
         "ImagePath": "",
         "MessageJP": "ちょっと具合が悪いだけですので……ご心配をおかけしてしまいすみません",
         "MessageKR": "아뇨, 단순한 컨디션 난조라…… 걱정하지 않으셔도 괜찮아요.",
-        "MessageTW": "只是有點不舒服……讓你擔心了，對不起",
+        "MessageTW": "只是有點不舒服……讓你擔心了，真不好意思",
         "MessageEN": "No, I just feel under the weather... You don't have to worry."
     },
     {

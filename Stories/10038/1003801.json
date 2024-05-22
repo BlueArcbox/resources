@@ -27,7 +27,7 @@
         "ImagePath": "",
         "MessageJP": "こちらRABBIT1、着陸の許可を要請します",
         "MessageKR": "<SYSTEM> 여기는 RABBIT 1. 착륙 허가를 요청합니다.",
-        "MessageTW": "這裡是RABBIT1，請求著陸",
+        "MessageTW": "<SYSTEM>這裡是RABBIT1，請求著陸",
         "MessageEN": "<SYSTEM> This is RABBIT 1. Requesting permission to land."
     },
     {
@@ -51,7 +51,7 @@
         "ImagePath": "",
         "MessageJP": "高度2000フィートまで下降、準備完了です",
         "MessageKR": "<SYSTEM> 고도 2000 피트까지 하강. 강하 준비 완료했습니다.",
-        "MessageTW": "高度下降至2000英尺，準備完成",
+        "MessageTW": "<SYSTEM>高度下降至2000ft，準備完成",
         "MessageEN": "<SYSTEM> Descending to an altitude of 2,000 feet. Ready to descend."
     },
     {
@@ -75,7 +75,7 @@
         "ImagePath": "",
         "MessageJP": "目標まで約1.5マイル――まもなく突入します",
         "MessageKR": "<SYSTEM> 목표까지 약 1.5 마일— 곧 돌입합니다.",
-        "MessageTW": "距離目標1.5英里──即將突入",
+        "MessageTW": "<SYSTEM>距離目標1.5mi──即將突入",
         "MessageEN": "<SYSTEM> About 1.5 miles to target. Entering soon."
     },
     {

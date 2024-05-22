@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "やっぱり",
         "MessageKR": "역시",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "果然",
+        "MessageEN": "It figures."
     },
     {
         "MessageId": 260110310,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "思ったようにはいかないですね",
         "MessageKR": "생각만큼 잘되지는 않네요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "事情不像我想得那麼簡單",
+        "MessageEN": "I hoped I'd have a knack for this..."
     },
     {
         "MessageId": 260110320,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "でもまあ",
         "MessageKR": "뭐어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過算了",
+        "MessageEN": "Then again..."
     },
     {
         "MessageId": 260110321,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "予想はしてましたけど！",
         "MessageKR": "솔직히 예상은 했지만요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "反正早就預料到了！",
+        "MessageEN": "I kind of knew this would happen!"
     },
     {
         "MessageId": 260110330,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "何かあったの？",
         "MessageKR": "응? 무슨 일 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯？發生什麼事了嗎？",
+        "MessageEN": "Huh? Is something wrong?"
     },
     {
         "MessageId": 260110330,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "……佐天？",
         "MessageKR": "……사텐?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……佐天？",
+        "MessageEN": "...Saten?"
     },
     {
         "MessageId": 260110340,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "あ～",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah..."
     },
     {
         "MessageId": 260110341,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "えっと……",
         "MessageKR": "그냥",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只是……",
+        "MessageEN": "I just..."
     },
     {
         "MessageId": 260110342,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "やっぱり\u200b",
         "MessageKR": "음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "Um..."
     },
     {
         "MessageId": 260110350,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "大したことじゃないです！",
         "MessageKR": "별 건 아니고요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "其實也沒什麼！",
+        "MessageEN": "It's no big deal!"
     },
     {
         "MessageId": 260100367,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "ふ～っ！",
         "MessageKR": "음!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯～！",
+        "MessageEN": "Mm!"
     },
     {
         "MessageId": 260110361,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "楽しかったぁ～！",
         "MessageKR": "개운하네요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真痛快！",
+        "MessageEN": "Not bad!"
     },
     {
         "MessageId": 260110370,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "あたし、最初より上達したと思いませんか？",
         "MessageKR": "그래도 저, 전보다는 꽤 능숙해지지 않았던가요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師不覺得我現在用起槍來熟練許多嗎？",
+        "MessageEN": "Haven't I gotten better since last time?"
     },
     {
         "MessageId": 260110380,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "後半は集弾率も良くなりましたし、手応えを掴みました！",
         "MessageKR": "나중에 쏜 것들은 꽤 깔끔했다고 생각하는데?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我自己覺得後半的命中率還挺高的哦？",
+        "MessageEN": "Those last few shots were pretty clean, right?"
     },
     {
         "MessageId": 260110390,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "バッティングも、きっと努力したんだろうね",
         "MessageKR": "생각해 보면 배팅도 잘했었고 말이지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "仔細想想，你也挺擅長打擊的呢",
+        "MessageEN": "Come to think of it, it's a lot like batting."
     },
     {
         "MessageId": 260110390,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "継続も才能のひとつだよ",
         "MessageKR": "사실 재능이라는 건 그런 마음가짐이니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所謂的才能指的或許就是這種心態吧",
+        "MessageEN": "They say talent is all in your attitude."
     },
     {
         "MessageId": 260110400,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "またまた～",
         "MessageKR": "또",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "又",
+        "MessageEN": "Again!"
     },
     {
         "MessageId": 260110401,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "先生みたいなことを",
         "MessageKR": "또 그렇게 선생님 같은 말을",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "又說這種像是老師會說的話",
+        "MessageEN": "You sound like such a teacher."
     },
     {
         "MessageId": 260110410,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "って",
         "MessageKR": "앗",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊\u200b",
+        "MessageEN": "Oh..."
     },
     {
         "MessageId": 260110411,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "そういえば、先生でしたね！",
         "MessageKR": "생각해 보니 선생님이셨죠?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這麼說來你確實是老師呢！",
+        "MessageEN": "You are a teacher."
     },
     {
         "MessageId": 260110412,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "あははっ",
         "MessageKR": "하하",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哈哈",
+        "MessageEN": "Haha!"
     },
     {
         "MessageId": 260110420,
@@ -291,7 +291,7 @@
         "ImagePath": "",
         "MessageJP": "ありがとうございます、先生！！",
         "MessageKR": "감사합니다, 선생님!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝你，老師！！",
+        "MessageEN": "Thank you, Sensei!!"
     }
 ]

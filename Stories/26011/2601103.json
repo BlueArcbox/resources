@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "뭔가",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我突然覺得",
+        "MessageEN": "Maybe I did."
     },
     {
         "MessageId": 260110200,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "息抜きをしようと思ってたら",
         "MessageKR": "조금은 쉬는 것도 좋겠다는 생각이 드네요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "稍微放鬆一下好像也不賴",
+        "MessageEN": "I think I'm due for a good rest."
     },
     {
         "MessageId": 260110210,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ちょうど良い場所を見つけたんです",
         "MessageKR": "마침 적당한 곳을 찾은 것 같은데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "正好我找到了一個不錯的地方",
+        "MessageEN": "I've found the perfect spot."
     },
     {
         "MessageId": 260110211,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "よかったら、一緒にどうですか？",
         "MessageKR": "선생님만 괜찮으시다면, 한 번 와 주시겠어요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "假如老師沒事的話，要不要來找我？",
+        "MessageEN": "If it's okay, would you meet me there, Sensei?"
     },
     {
         "MessageId": 260110220,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "もちろんだよ",
         "MessageKR": "나야 좋지만, 어딘데?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可以是可以，不過你在哪裡？",
+        "MessageEN": "Sure thing. Where is it?"
     },
     {
         "MessageId": 260110220,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "何か面白いものでも見つかった？",
         "MessageKR": "뭔가 재밌는 거라도 찾았어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "找到了什麼有趣的東西嗎？",
+        "MessageEN": "Did you find someplace fun?"
     },
     {
         "MessageId": 260110230,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ふふっ",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah..."
     },
     {
         "MessageId": 260110231,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "それがですね……",
         "MessageKR": "그게 말이죠",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "關於這點……",
+        "MessageEN": "Well, actually..."
     },
     {
         "MessageId": 260100247,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "ふう！",
         "MessageKR": "후우-!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呼～！",
+        "MessageEN": "Phew!"
     },
     {
         "MessageId": 260110241,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "スッキリしました！",
         "MessageKR": "시원하네요! 역시 해보길 잘했달까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真痛快！果然勇於嘗試是對的",
+        "MessageEN": "How refreshing! I'm glad I tried it!"
     },
     {
         "MessageId": 260110250,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "あたし、何事もやってみないと気が済まないんですよね",
         "MessageKR": "저, 뭔가 찝찝한 건 그냥 넘어가지 못하는 버릇이 있거든요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "其實我只要在意起一件事，就沒辦法安心去做別的事",
+        "MessageEN": "I can't get these things out of my mind unless I try them for myself."
     },
     {
         "MessageId": 260110260,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "正直、驚いたよ",
         "MessageKR": "솔직하게 놀랐어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老實說我真的吃了一驚",
+        "MessageEN": "I was honestly surprised."
     },
     {
         "MessageId": 260110260,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "もしかして、野球の選手だったの？",
         "MessageKR": "굉장했어. 혹시 선수 출신이야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "太厲害了，你以前該不會當過職業選手吧？",
+        "MessageEN": "Amazing. Are you an athlete?"
     },
     {
         "MessageId": 260110270,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "えーと",
         "MessageKR": "헤헤",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嘿嘿",
+        "MessageEN": "Heehee!"
     },
     {
         "MessageId": 260110271,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "そうじゃないんですけど……",
         "MessageKR": "뭐, 그런 건 아니고요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這倒是沒有",
+        "MessageEN": "It's nothing like that."
     },
     {
         "MessageId": 260110280,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "うーん、説明すると長くなりそうだなぁ",
         "MessageKR": "뭔가 설명하기에는 말이 너무 길어질 것 같기도…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過這件事可能要說明很久……",
+        "MessageEN": "It's a long story, actually..."
     },
     {
         "MessageId": 260110290,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "そうだ……",
         "MessageKR": "음.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯……",
+        "MessageEN": "Hmm."
     },
     {
         "MessageId": 260110291,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "へへっ",
         "MessageKR": "역시, 그냥 조금",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "果然還是簡單說一下",
+        "MessageEN": "I guess you could say"
     },
     {
         "MessageId": 260110292,
@@ -255,7 +255,7 @@
         "ImagePath": "",
         "MessageJP": "バットと仲良し、みたいな感じです！",
         "MessageKR": "휘두를 일이 많았다……! 정도로!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "很常有揮棒的機會……可以這麼說吧！",
+        "MessageEN": "I had plenty of chances to practice my swing! Yes, let's say that!"
     }
 ]

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 260110020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "先生！",
         "MessageKR": "선생님!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師！",
+        "MessageEN": "Sensei!"
     },
     {
         "MessageId": 260110021,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ここって本当にすごいですね！",
         "MessageKR": "굉장해, 여긴 정말 굉장하네요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "太酷了，這裡真的是太酷了！",
+        "MessageEN": "Amazing! This place is amazing!"
     },
     {
         "MessageId": 260110030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "佐天？",
         "MessageKR": "사텐?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "佐天？",
+        "MessageEN": "Saten?"
     },
     {
         "MessageId": 260110030,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "何か見つけたの？",
         "MessageKR": "응? 무슨 이야기야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯？你指的是什麼？",
+        "MessageEN": "What do you mean?"
     },
     {
         "MessageId": 260110040,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "あ",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah..."
     },
     {
         "MessageId": 260110041,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "急にすみません！",
         "MessageKR": "두서가 없었네요. 죄송합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這樣有點沒頭沒尾的對吧，不好意思",
+        "MessageEN": "Sorry! I guess I came on a little strong there."
     },
     {
         "MessageId": 260110050,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "とりあえず、こっちに来てもらってもいいですか？",
         "MessageKR": "일단 오시면 말씀드릴게요!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "等老師來了之後，我會跟你解釋的！！",
+        "MessageEN": "I'll tell you what I mean when you get here!"
     },
     {
         "MessageId": 260100067,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "うーん",
         "MessageKR": "으음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔嗯",
+        "MessageEN": "Hm..."
     },
     {
         "MessageId": 260110061,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "おかしいですね",
         "MessageKR": "이상하네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真奇怪",
+        "MessageEN": "How weird."
     },
     {
         "MessageId": 260110062,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "あれだけ探し回ったのに……",
         "MessageKR": "역시 접근법이 잘못됐던 걸까요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "難道我們用錯方法了嗎？",
+        "MessageEN": "Maybe we need to change our strategy."
     },
     {
         "MessageId": 260110070,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "諦めるのは、まだ早いんじゃなかった？",
         "MessageKR": "포기하기엔 이르지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在放棄還太早囉",
+        "MessageEN": "It's too soon to give up."
     },
     {
         "MessageId": 260110070,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "簡単に見つかるようなら「伝説」じゃないからね",
         "MessageKR": "쉽게 찾아지면 전설이 아니잖아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果這麼好找的話，就不會被稱為傳說了",
+        "MessageEN": "If they were easy to find, they wouldn't be legends."
     },
     {
         "MessageId": 260110080,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "たしかに……",
         "MessageKR": "음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "說的也是",
+        "MessageEN": "Well..."
     },
     {
         "MessageId": 260110081,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "こんなところで諦めるわけにはいきません！",
         "MessageKR": "과연! 그럴듯한 이야기예요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "果然沒錯！我就知道是這樣！",
+        "MessageEN": "Yeah! That makes sense!"
     },
     {
         "MessageId": 260110090,
@@ -219,7 +219,7 @@
         "ImagePath": "",
         "MessageJP": "じゃあ、何か見つかったらまた連絡しますね！",
         "MessageKR": "그럼, 뭔가 찾으면 다시 연락드리겠습니다!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼，等我找到新的線索之後會再聯絡的！！",
+        "MessageEN": "Okay then! I'll contact you again if I find anything!!"
     }
 ]

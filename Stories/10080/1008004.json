@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "ん～",
         "MessageKR": "음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯～",
+        "MessageEN": "Hm..."
     },
     {
         "MessageId": 100800260,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "적당한 곳이 없을까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有沒有什麼適合的地方呢",
+        "MessageEN": "I wonder what would be good."
     },
     {
         "MessageId": 100800261,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "どこかいいお店を知らないかしらぁ？",
         "MessageKR": "선생님, 어딘가 알고 있는 데 있을까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，你有沒有什麼好的建議？",
+        "MessageEN": "Do you have a place you like?"
     },
     {
         "MessageId": 100800270,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "……いいお店？",
         "MessageKR": "적당한 곳?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "適合的地方？",
+        "MessageEN": "What kind of place?"
     },
     {
         "MessageId": 100800270,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "どんなお店を探してるの？",
         "MessageKR": "뭘 찾는 중이야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "在找什麼嗎？",
+        "MessageEN": "What are you looking for?"
     },
     {
         "MessageId": 100800280,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "それが",
         "MessageKR": "응",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "Well..."
     },
     {
         "MessageId": 100800281,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "小腹が空いちゃってねぇ",
         "MessageKR": "조금 배가 고파서, 먹을 곳을 찾고 있는데…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我肚子有點餓，所以在找適合的餐廳……",
+        "MessageEN": "I'm a bit hungry and I'm looking for a place to eat."
     },
     {
         "MessageId": 100800290,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "でも、ちょ～っと事情があるというかぁ……",
         "MessageKR": "약간",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只不過",
+        "MessageEN": "Of course..."
     },
     {
         "MessageId": 100800291,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "いろいろ大変なのよぉ",
         "MessageKR": "조건이 좀 있어서 말이야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我的標準有點高",
+        "MessageEN": "I have exacting standards."
     },
     {
         "MessageId": 100790307,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "やるわね先生、見直しちゃったわぁ",
         "MessageKR": "굉장하잖아, 선생님. 다시 봤어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "太厲害了，老師。之前是我低估你了",
+        "MessageEN": "Amazing, Sensei. I'm seeing you in a new light."
     },
     {
         "MessageId": 100800310,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "それでなんだけどぉ……",
         "MessageKR": "그래서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還有……",
+        "MessageEN": "So..."
     },
     {
         "MessageId": 100800311,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "あのお店を教えてくれたのは、先生の知り合いなのよねぇ？",
         "MessageKR": "보아하니, 선생님을 대신해 그 '검증'이라는 걸 해준 사람들이 있는 거 같은데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "看來似乎有人能替老師進行「驗證」呢",
+        "MessageEN": "You put your trust completely in someone else's recommendation."
     },
     {
         "MessageId": 100800320,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "よければ会わせてもらえないかしらぁ？",
         "MessageKR": "괜찮다면 좀 만나볼 수 있을까? 나도 흥미가 좀 생기는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果方便的話，能不能向我介紹一下呢？我也對他們有點興趣",
+        "MessageEN": "Could I meet them? My curiosity has been piqued."
     },
     {
         "MessageId": 100800330,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "ごめんね……",
         "MessageKR": "그건……. 추천하기 어렵네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這……我並不推薦",
+        "MessageEN": "That may be...difficult to arrange."
     },
     {
         "MessageId": 100800330,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "それは色々と問題が……",
         "MessageKR": "미안. 모두를 위해서 그건 무리",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "抱歉。為了大家，我沒辦法這麼做",
+        "MessageEN": "I'm sorry, but that may be too tall of an order. For both parties."
     },
     {
         "MessageId": 100800340,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "えっ？",
         "MessageKR": "……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……",
+        "MessageEN": "..."
     },
     {
         "MessageId": 100800341,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "なんでよぉ",
         "MessageKR": "?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "？",
+        "MessageEN": "?"
     },
     {
         "MessageId": 100800342,
@@ -243,7 +243,7 @@
         "ImagePath": "",
         "MessageJP": "ねぇ、会うくらい構わないわよねぇ？",
         "MessageKR": "??????",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "？？？？？？",
+        "MessageEN": "??????"
     }
 ]

@@ -27,7 +27,7 @@
         "ImagePath": "",
         "MessageJP": "こんにちは、先生",
         "MessageKR": "선생님. 하나코입니다.",
-        "MessageTW": "你好，老師",
+        "MessageTW": "您好，老師",
         "MessageEN": "Sensei. It's Hanako."
     },
     {
@@ -75,7 +75,7 @@
         "ImagePath": "",
         "MessageJP": "補習授業をお願いしたいと言いますか、質問がありまして",
         "MessageKR": "여쭤보고 싶은 게 있는데,",
-        "MessageTW": "我有件事想問你",
+        "MessageTW": "我有件事想請教",
         "MessageEN": "I have something to ask you. "
     },
     {
@@ -87,7 +87,7 @@
         "ImagePath": "",
         "MessageJP": "お時間頂いてもよろしいでしょうか？",
         "MessageKR": "혹시 괜찮을까요?",
-        "MessageTW": "能占用你一點時間嗎？",
+        "MessageTW": "能占用您一點時間嗎？",
         "MessageEN": "Do you have a moment?"
     },
     {
@@ -159,7 +159,7 @@
         "ImagePath": "",
         "MessageJP": "それは……お会いした時に、お話します",
         "MessageKR": "그건…… 오시면 말씀드릴게요.",
-        "MessageTW": "這部分……等見面的時候再告訴你",
+        "MessageTW": "這部分……等見面之後再跟您說明",
         "MessageEN": "Um... I'll ask you when you get here."
     },
     {

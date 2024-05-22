@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "あぁ、もう",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Argh!"
     },
     {
         "MessageId": 100790350,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "なによ",
         "MessageKR": "뭐야 이게",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "搞什麼啊",
+        "MessageEN": "What is this?"
     },
     {
         "MessageId": 100790351,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "こっちでもやられるなんて！",
         "MessageKR": "여기서까지 이러기야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "為什麼都到了這裡還是一樣啊！",
+        "MessageEN": "I've really still got to put up with this?"
     },
     {
         "MessageId": 100790360,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "こっちでも、って……？",
         "MessageKR": "응? 여기서까지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯？都到了這裡？",
+        "MessageEN": "Hm? Even in another world?"
     },
     {
         "MessageId": 100790360,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "何があったの？",
         "MessageKR": "무슨 일 생겼어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "發生什麼事了嗎？",
+        "MessageEN": "What happened?"
     },
     {
         "MessageId": 100790370,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "크윽",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咳哼",
+        "MessageEN": "Ugh..."
     },
     {
         "MessageId": 100790371,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "今すぐ来られそう？",
         "MessageKR": "선생님, 잠깐 좀 와줄 수 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，可以請你馬上過來一下嗎？",
+        "MessageEN": "Sensei, could you come see me?"
     },
     {
         "MessageId": 100790372,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと手伝ってもらいたくて……",
         "MessageKR": "아무래도 또 도움이 필요할 거 같은데…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我好像又需要你的幫助了……",
+        "MessageEN": "I need your help again..."
     },
     {
         "MessageId": 100780387,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "そうだ",
         "MessageKR": "그러고 보니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "話說回來",
+        "MessageEN": "Now that I think about it..."
     },
     {
         "MessageId": 100790381,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "念のため言っておくけど",
         "MessageKR": "혹시나 해서 하는 말이지만",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "希望你別誤會",
+        "MessageEN": "And I'm mentioning this just in case..."
     },
     {
         "MessageId": 100790382,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "別に私、普段からそんなに暴力的なわけじゃないからね",
         "MessageKR": "딱히 그렇게 막 폭력적인 사람은 아니니까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我平時其實不會這麼暴力",
+        "MessageEN": "I'm not a violent person,"
     },
     {
         "MessageId": 100790390,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "勘違いしないでよ？",
         "MessageKR": "알겠지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "懂我的意思吧？",
+        "MessageEN": "you know?"
     },
     {
         "MessageId": 100790400,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "そんな風には思ってなかったけど……",
         "MessageKR": "그렇게 말한 적은 없는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我也沒這麼說吧……",
+        "MessageEN": "I never said you were."
     },
     {
         "MessageId": 100790400,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "もしかして、自覚があるとか？",
         "MessageKR": "혹시 뭔가 찔리시는 게…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "該不會是被我戳到痛處了……？",
+        "MessageEN": "If there's something you want to get off your chest..."
     },
     {
         "MessageId": 100790410,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "ち",
         "MessageKR": "아\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "才",
+        "MessageEN": "Ah..."
     },
     {
         "MessageId": 100790411,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "違う",
         "MessageKR": "아냐",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "才不是",
+        "MessageEN": "No."
     },
     {
         "MessageId": 100790412,
@@ -231,7 +231,7 @@
         "ImagePath": "",
         "MessageJP": "違うわよ、もうっ！",
         "MessageKR": "아니라면 아닌 줄 알아 좀!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我說沒有就沒有啦！",
+        "MessageEN": "And I mean it!"
     }
 ]

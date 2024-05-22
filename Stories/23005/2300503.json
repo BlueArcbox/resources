@@ -159,7 +159,7 @@
         "ImagePath": "",
         "MessageJP": "それでは、お言葉に甘えて。ありがとうございます、先生",
         "MessageKR": "그러면 기꺼이 신세를 지겠습니다, 선생님.",
-        "MessageTW": "那就恭敬不如從命了。非常謝謝，老師",
+        "MessageTW": "那就恭敬不如從命了。非常感謝，老師",
         "MessageEN": "That would be amazing, Sensei!"
     },
     {
@@ -195,7 +195,7 @@
         "ImagePath": "",
         "MessageJP": "おかげさまで、無事に修理を終えることができました",
         "MessageKR": "다행히 별일 없이 학교 수리를 끝마칠 수 있었어요.",
-        "MessageTW": "託你的福，順利完成了修理",
+        "MessageTW": "託您的福，順利完成了修理",
         "MessageEN": "Everything at the school is fixed now."
     },
     {
@@ -279,7 +279,7 @@
         "ImagePath": "",
         "MessageJP": "また……お呼びしてもいいですか？その……",
         "MessageKR": "다음에 또…… 불러도 되죠? 그러니까…….",
-        "MessageTW": "還能再……叫你出來嗎？那個……",
+        "MessageTW": "還能再……請您出來嗎？那個……",
         "MessageEN": "Um... Can I call you again next time?"
     },
     {

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "細かいことは置いといて～",
         "MessageKR": "여러 가지 사정과 상황을 생략하고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "先省略情況和原因",
+        "MessageEN": "We can leave behind all our worries"
     },
     {
         "MessageId": 160060330,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "海に行こう、先生！！",
         "MessageKR": "바다로 나가자, 선생님!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我們去海邊吧，老師！",
+        "MessageEN": "and go out to sea, Sensei!"
     },
     {
         "MessageId": 160060340,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ついに説明を省略することまで学んで……",
         "MessageKR": "이젠 생략하는 법도 배운 건가…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在連省略都學會了嗎……",
+        "MessageEN": "Leave behind our worries..."
     },
     {
         "MessageId": 160060340,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "ふぅ……これ以上教えることは何もない",
         "MessageKR": "후우, 강해졌군. 이즈미. 더 이상 가르칠 것이 없어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呼，變強了呢。泉。我已經沒有東西可以教你了",
+        "MessageEN": "You've graduated, Izumi. I have nothing left to teach you."
     },
     {
         "MessageId": 160060350,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "えーっと……？",
         "MessageKR": "……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……？",
+        "MessageEN": "...?"
     },
     {
         "MessageId": 160060351,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "よくわからないけど、とにかく今日は特別暑いんだって！",
         "MessageKR": "잘 모르겠지만, 오늘은 특히 덥대!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然不知道在說什麼，但聽說今天特別熱！",
+        "MessageEN": "I heard it's going to be super hot today!"
     },
     {
         "MessageId": 160060360,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "だから、暑さを忘れるために……",
         "MessageKR": "그러니까, 더위를 잊기 위해서…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以說，為了忘記炎熱……",
+        "MessageEN": "So, to beat the heat..."
     },
     {
         "MessageId": 160060361,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "さらに楽しく！珍味を巡る旅に出るんだよ！",
         "MessageKR": "한층 더 신나게! 별미 여행을 떠나는 거야!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要更HIGH才行！來一趟美食之旅吧！",
+        "MessageEN": "we should go on a foodie adventure!"
     },
     {
         "MessageId": 160050367,

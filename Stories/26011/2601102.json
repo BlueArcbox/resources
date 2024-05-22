@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯～",
+        "MessageEN": "Hm..."
     },
     {
         "MessageId": 260110110,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "聞いてください！",
         "MessageKR": "그렇군요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原來如此",
+        "MessageEN": "Okay."
     },
     {
         "MessageId": 260110111,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ひとつ分かったことがあるんです！",
         "MessageKR": "한가지 또 알아냈습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "又明白了一件事",
+        "MessageEN": "This is too weird."
     },
     {
         "MessageId": 260110120,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "佐天……？",
         "MessageKR": "알아냈다니? 뭘?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "明白了一件事？",
+        "MessageEN": "What might that be?"
     },
     {
         "MessageId": 260110120,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "何が分かったの？",
         "MessageKR": "사텐?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "佐天？",
+        "MessageEN": "Saten?"
     },
     {
         "MessageId": 260110130,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "もしよければ",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei..."
     },
     {
         "MessageId": 260110131,
@@ -98,9 +98,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "今から会えませんか？",
-        "MessageKR": "괜찮으시다면, 지금 좀 괜찮으실까요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "지금 좀 괜찮으실까요?",
+        "MessageTW": "如果方便的話，現在能見個面嗎？",
+        "MessageEN": "Is now a good time to meet?"
     },
     {
         "MessageId": 260100147,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "ん～",
         "MessageKR": "음\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯～\u200b",
+        "MessageEN": "Hm...\u200b"
     },
     {
         "MessageId": 260110141,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "やっぱり、もう少し打ちたかったです",
         "MessageKR": "역시 조금 마음에 걸리는 걸요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我果然還是很在意",
+        "MessageEN": "It's bugging me."
     },
     {
         "MessageId": 260110150,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと物足りません……",
         "MessageKR": "승부를 마저 내지 못한 게…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒有跟他們分出勝負的事……",
+        "MessageEN": "All I can think about is finishing that game..."
     },
     {
         "MessageId": 260110160,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "夢中になってたもんね",
         "MessageKR": "당초의 목적을 잊어버렸어…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "結果忘記原本的目的了……",
+        "MessageEN": "You forgot your original goal..."
     },
     {
         "MessageId": 260110160,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "すでに勝負はついてたと思うよ……",
         "MessageKR": "어떤 의미로는 승부가 났다고 생각하는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我覺得從某方面來看，已經分出勝負了",
+        "MessageEN": "From where I'm sitting, you won that game."
     },
     {
         "MessageId": 260110170,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "あれ",
         "MessageKR": "어라",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦……",
+        "MessageEN": "Huh..."
     },
     {
         "MessageId": 260110171,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "そうですか？",
         "MessageKR": "그런가요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是這樣嗎？",
+        "MessageEN": "Did I?"
     },
     {
         "MessageId": 260110180,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "うーん……",
         "MessageKR": "흠…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯……",
+        "MessageEN": "Hmm..."
     },
     {
         "MessageId": 260110181,
@@ -219,7 +219,7 @@
         "ImagePath": "",
         "MessageJP": "だったら、まあ……良しとしますか",
         "MessageKR": "듣고 보니 그런 것 같기도…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "聽老師這麼一說，好像也沒錯……",
+        "MessageEN": "Now that I think about it, I guess..."
     }
 ]

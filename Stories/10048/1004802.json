@@ -27,7 +27,7 @@
         "ImagePath": "",
         "MessageJP": "……今日は、天気が良いな",
         "MessageKR": "그… 선생. 오늘은, 날씨가 좋군.",
-        "MessageTW": "……今天，天氣真好啊",
+        "MessageTW": "那個……老師，今天天氣真好啊",
         "MessageEN": "Um, Sensei, it's a nice day."
     },
     {
@@ -39,7 +39,7 @@
         "ImagePath": "",
         "MessageJP": "！？",
         "MessageKR": "어…?!",
-        "MessageTW": "！？",
+        "MessageTW": "咦……！？",
         "MessageEN": "Huh...?!"
     },
     {
@@ -51,7 +51,7 @@
         "ImagePath": "",
         "MessageJP": "どうした、先生",
         "MessageKR": "…왜 그러지. 선생?",
-        "MessageTW": "怎麼了，老師",
+        "MessageTW": "……怎麼了嗎，老師？",
         "MessageEN": "What's wrong, Sensei?"
     },
     {
@@ -63,7 +63,7 @@
         "ImagePath": "",
         "MessageJP": "サオリが、天気の話を……",
         "MessageKR": "아니, 사오리한테서 날씨 이야기라니.",
-        "MessageTW": "沙織居然聊天氣……",
+        "MessageTW": "沒有，只是沙織居然會聊天氣……",
         "MessageEN": "I can't believe you just talked about the weather."
     },
     {
@@ -75,7 +75,7 @@
         "ImagePath": "",
         "MessageJP": "びっくりした！",
         "MessageKR": "완전 깜짝 놀라버렸어!",
-        "MessageTW": "嚇了一跳！",
+        "MessageTW": "嚇了我一跳！",
         "MessageEN": "I'm so surprised!"
     },
     {
@@ -87,7 +87,7 @@
         "ImagePath": "",
         "MessageJP": "……私だって、世間話をしようと思うことはある",
         "MessageKR": "아니, 나라도 이 정도 안부 인사는…….",
-        "MessageTW": "……就算是我，也有想閒聊的時候",
+        "MessageTW": "……就算是我，也會有想閒聊的時候",
         "MessageEN": "I mean, it's not a big deal..."
     },
     {
@@ -99,7 +99,7 @@
         "ImagePath": "",
         "MessageJP": "先日は、おかげで口座も作ることができた",
         "MessageKR": "지난번엔 선생 도움 덕에 통장도 개설했고.",
-        "MessageTW": "前幾天，多虧了你，我才能順利開設帳戶",
+        "MessageTW": "前幾天多虧了老師，我才能順利開設帳戶",
         "MessageEN": "I opened an account thanks to your help earlier."
     },
     {
@@ -111,7 +111,7 @@
         "ImagePath": "",
         "MessageJP": "色々と依頼も受けるようになり、近況くらいは伝えようかと思っただけだ",
         "MessageKR": "덕분에 일도 시작해서, 조금은 근황을 전해둘까. 했을 뿐이다.",
-        "MessageTW": "也開始收到了各種委託，所以只是想轉達一下近況",
+        "MessageTW": "近期也開始收到各種委託，所以想傳達一下近況",
         "MessageEN": "I started working too, so I just wanted to give you a little update."
     },
     {
@@ -123,7 +123,7 @@
         "ImagePath": "",
         "MessageJP": "気に障ることだったら、今後は控えよう",
         "MessageKR": "뭐, 괜한 짓이었다면 그만두겠지만.",
-        "MessageTW": "如果冒犯了你，之後會避免這樣做",
+        "MessageTW": "如果不需要的話，之後我會避免",
         "MessageEN": "I'll stop if you don't care."
     },
     {
@@ -135,7 +135,7 @@
         "ImagePath": "",
         "MessageJP": "そんなこと無いよ、サオリの近況知りたい！最近はどんなことがあったの！？",
         "MessageKR": "아니아니, 전달해줘! 사오리의 근황! 최근엔 무슨 일이 있었어?!",
-        "MessageTW": "沒有那樣的事，我想知道沙織的近況！最近有發生什麼事嗎！？",
+        "MessageTW": "不不不，我也想知道沙織的近況！最近有發生什麼事嗎！？",
         "MessageEN": "No, yes! I want to hear the update! What's new?!"
     },
     {
@@ -147,7 +147,7 @@
         "ImagePath": "",
         "MessageJP": "大げさだな……近頃は、ブラックマーケットで紹介された依頼をこなしている",
         "MessageKR": "호들갑은……. 아, 음. 최근엔 블랙마켓을 통해 소개받은 일을 하고 있다.",
-        "MessageTW": "太浮誇了……最近，在處理黑市介紹的委託",
+        "MessageTW": "太浮誇了……我最近在處理黑市介紹的委託",
         "MessageEN": "You're way too eager... Uh, I've been working a job I got from the Black Market."
     },
     {
@@ -183,7 +183,7 @@
         "ImagePath": "",
         "MessageJP": "まあ、そうだな。良いことなのかもしれない",
         "MessageKR": "아니, 아니다. 그래. 잘된 거겠지.",
-        "MessageTW": "嘛，也是呢。算是好事吧",
+        "MessageTW": "嗯，應該算是好事吧",
         "MessageEN": "Well, I guess it's good."
     },
     {

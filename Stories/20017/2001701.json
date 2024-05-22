@@ -27,7 +27,7 @@
         "ImagePath": "",
         "MessageJP": "先生、こんにちは。えへへ……",
         "MessageKR": "안녕하세요, 선생님. 헤헤…….",
-        "MessageTW": "老師，你好。欸嘿嘿……",
+        "MessageTW": "老師，你好。耶嘿嘿……",
         "MessageEN": "Greetings, Sensei. Heehee..."
     },
     {
@@ -63,7 +63,7 @@
         "ImagePath": "",
         "MessageJP": "えヘヘ……はい。ええと、いま無",
         "MessageKR": "헤헤헤…… 네. 선생님 지금 무",
-        "MessageTW": "欸嘿嘿……是的。那個，我找到了免",
+        "MessageTW": "耶嘿嘿……是的。那個，我找到了免",
         "MessageEN": "Heeheehee... Yes, Sensei I just found"
     },
     {
@@ -111,7 +111,7 @@
         "ImagePath": "",
         "MessageJP": "料のwifiを見つけたんです……えへへ",
         "MessageKR": "료 와이파이를 찾았거든요…… 헤헤.",
-        "MessageTW": "費的wifi……欸嘿嘿",
+        "MessageTW": "費的Wi-Fi……耶嘿嘿",
         "MessageEN": "free Wi-Fi... Heehee... "
     },
     {
@@ -159,7 +159,7 @@
         "ImagePath": "",
         "MessageJP": "あれ、どうして答えてくれないのですか？",
         "MessageKR": "선생님? 어째서 답을 해주지 않는 거죠?",
-        "MessageTW": "啊咧，為什麼沒有回覆呢？",
+        "MessageTW": "老師？為什麼沒有回覆？",
         "MessageEN": "Sensei? Why aren't you answering?"
     },
     {
@@ -171,7 +171,7 @@
         "ImagePath": "",
         "MessageJP": "……とうとう、私は先生にもみはなされてしまったんですか",
         "MessageKR": "드디어 저는 선생님에게도 버림받은 건가요?",
-        "MessageTW": "……終於，我也被老師拋棄了嗎",
+        "MessageTW": "……我終於被老師拋棄了嗎？",
         "MessageEN": "Are you abandoning me, just like everyone else?"
     },
     {
@@ -195,7 +195,7 @@
         "ImagePath": "",
         "MessageJP": "ヒヨリ落ち着いて、通信状態を確認してみよう",
         "MessageKR": "진정해, 히요리. 통신상태를 확인해.",
-        "MessageTW": "日和妳冷靜點，確認一下通訊狀態吧",
+        "MessageTW": "日和你冷靜點，先確認一下通訊狀態吧",
         "MessageEN": "Calm down, Hiyori. Look at your connection status."
     },
     {
@@ -207,7 +207,7 @@
         "ImagePath": "",
         "MessageJP": "無料のWi-Fiだとメッセージの受信に時間がかかってるのかも",
         "MessageKR": "무료 와이파이라서 메시지 수신에 시간이 걸리는 걸지도 모르니까.",
-        "MessageTW": "如果是免費wifi的話，要收到訊息可能要花點時間",
+        "MessageTW": "如果是免費Wi-Fi的話，要收到訊息可能要花點時間",
         "MessageEN": "You aren't receiving my messages because you're on public Wi-Fi!"
     },
     {

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei..."
     },
     {
         "MessageId": 100790120,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "あのさ",
         "MessageKR": "그",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個",
+        "MessageEN": "Um..."
     },
     {
         "MessageId": 100790121,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "悪いんだけど、ちょっとトラブっちゃって",
         "MessageKR": "미안한데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "抱歉",
+        "MessageEN": "Sorry, but"
     },
     {
         "MessageId": 100790130,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "今って大丈夫？",
         "MessageKR": "혹시 지금 괜찮을까? 약간 사람들이랑 문제가 생겨서…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你現在有空嗎？我跟別人發生了一點糾紛……",
+        "MessageEN": "is now a good time? I'm having a bit of trouble with some people..."
     },
     {
         "MessageId": 100790140,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "トラブル！？",
         "MessageKR": "사람들이랑 문제!?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "跟別人發生了糾紛！？",
+        "MessageEN": "Trouble with people?!"
     },
     {
         "MessageId": 100790140,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "えっ！？どうしたの？今どこ！？",
         "MessageKR": "뭐!? 지금 어디야!?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "什麼！？你現在在哪裡！？",
+        "MessageEN": "What's wrong? Who's troubling you?!"
     },
     {
         "MessageId": 100790150,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "えっと……",
         "MessageKR": "그러니까…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個……",
+        "MessageEN": "Well the trouble is..."
     },
     {
         "MessageId": 100780167,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "はぁ",
         "MessageKR": "으으",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唉",
+        "MessageEN": "Ugh..."
     },
     {
         "MessageId": 100790161,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "疲れたわね",
         "MessageKR": "피곤하다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真累人",
+        "MessageEN": "I'm tired."
     },
     {
         "MessageId": 100790170,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "というか、こっちに来ても、お姉様って呼ばれるなんて……",
         "MessageKR": "여기까지 와서도 누님이니 언니니 하며 들러붙는 걸 볼 줄이야",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒想到居然連這裡也有那種老愛叫別人「姊姊大人」的人",
+        "MessageEN": "Even here they're clinging to me and calling me Sissy."
     },
     {
         "MessageId": 100790180,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "それって……",
         "MessageKR": "여기까지 와서도?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "連這裡也有？",
+        "MessageEN": "Even here?"
     },
     {
         "MessageId": 100790180,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "いつも呼ばれてたってこと？",
         "MessageKR": "또 아는 사람이 있나 보네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還有其他人會那樣稱呼你嗎？",
+        "MessageEN": "You have friends like that back home?"
     },
     {
         "MessageId": 100790190,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "ご、誤解よ！",
         "MessageKR": "그\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個\u200b",
+        "MessageEN": "Um...\u200b"
     },
     {
         "MessageId": 100790200,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "うーん……",
         "MessageKR": "음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "Well..."
     },
     {
         "MessageId": 100790210,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "ややこしくなるから、この話は終わりましょう",
         "MessageKR": "아니야, 말하면 또 길어질 테니 여기까지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過說明起來很花時間，今天就先不提了",
+        "MessageEN": "It's a long story, so I'll cut it short here."
     },
     {
         "MessageId": 100790220,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "……その、助かったわ、先生",
         "MessageKR": "그래도 마지막엔 잘 말해줘서 고마웠어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總之，謝謝你最後替我解除了誤會",
+        "MessageEN": "But thanks for looking out for me."
     },
     {
         "MessageId": 100790221,
@@ -231,7 +231,7 @@
         "ImagePath": "",
         "MessageJP": "じゃ、また連絡するから",
         "MessageKR": "또 봐, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下次見囉，老師",
+        "MessageEN": "See you around, Sensei."
     }
 ]

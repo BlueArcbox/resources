@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生！ごきげんようですの！",
         "MessageKR": "안녕하시어요! 선생님!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "您好！老師！",
+        "MessageEN": "Sensei! Hi, hi!"
     },
     {
         "MessageId": 100810020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "おはよう、今日も元気だね",
         "MessageKR": "안녕, 유카리. 오늘도 기운차네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你好呀，紫。今天也一樣充滿活力呢",
+        "MessageEN": "Hi, Yukari. You're energetic, as usual."
     },
     {
         "MessageId": 100810030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ええ！心身共に健康であることが身共の誇れるところですの。ふふん！",
         "MessageKR": "네! 언제나 기운이 넘치는 것이 저 유카리의 무수히 많은 장점 중 하나이기에!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是！隨時充滿活力是我勘解由小路紫無數的優點之一！",
+        "MessageEN": "Yup! I consider my boundless energy one of my best qualities!"
     },
     {
         "MessageId": 100810031,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "ですが最近は……先生の前でしか、このようにはしゃぐことはできなくなってきて……",
         "MessageKR": "다만… 이런 모습도 최근엔 선생님 앞에서만 보여드린다고나 할지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過……最近也只有在老師面前才會展現出這一面",
+        "MessageEN": "But... I can only really be like this around you."
     },
     {
         "MessageId": 100810040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "何かあったの？",
         "MessageKR": "무슨 일 있는 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "發生什麼事了？",
+        "MessageEN": "Why is that?"
     },
     {
         "MessageId": 100810050,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "その……家の言いつけが厳しくなりまして……",
         "MessageKR": "그게… 최근 들어 특히나 집안 분위기가 엄격해진 듯해서….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個……最近家裡好像變得特別嚴格……",
+        "MessageEN": "It's just...it's been pretty tense at home lately."
     },
     {
         "MessageId": 100810051,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "勘解由小路家の者として相応しい教養や勉学の指導を受ける日々で……",
         "MessageKR": "카데노코지로서 갖춰야 할 소양을 늘릴 때라고, 공부할 거리가 더 늘어났사와요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "說是時候精進勘解由小路家應有的素養，所以要學的東西也變多了……",
+        "MessageEN": "I have to live up to the Kadenokoji name and study harder."
     },
     {
         "MessageId": 100810060,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "こうも毎日毎日、勉強ばかりでは…… ",
         "MessageKR": "매일 이렇게 공부만 하다간…… ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要是每天都這樣埋頭苦學…… ",
+        "MessageEN": "But I don't know how much harder I can try... "
     },
     {
         "MessageId": 100810061,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "将来は左手で算盤を弾き、右手で電卓を叩く計算の鬼になってしまいますの！",
         "MessageKR": "저, 미래엔 왼손으로 주판을 튕기며, 오른손으로는 계산기를 두드리는 공부 귀신이 될 것이 분명하여요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我將來一定會變成左手打算盤、右手按計算機的學習之鬼的！",
+        "MessageEN": "At this rate, I might die and be resurrected as an academic ghost who has to carry an abacus and a calculator around for eternity!"
     },
     {
         "MessageId": 100810070,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "そんな鬼、聞いたことないよ！？",
         "MessageKR": "그 이미지의 출처가 궁금하지만! ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然很好奇哪裡會有這種鬼……！",
+        "MessageEN": "How did you even come up with that?! "
     },
     {
         "MessageId": 100810080,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "たまには一息つくのも大事だよ",
         "MessageKR": "그래도 역시 한숨 돌리는 건 필요하다고 생각해.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過我認為偶爾也需要喘口氣",
+        "MessageEN": "Anyway, it's important to take a breather every once in a while."
     },
     {
         "MessageId": 100810090,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "一息、つく？",
         "MessageKR": "한숨을, 돌린다?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "喘口氣？",
+        "MessageEN": "Take a breather?"
     },
     {
         "MessageId": 100810091,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "休める場所で一息を、つく……なるほど、ふむ",
         "MessageKR": "한숨을…… 돌리는 행위…… 과연, 흠흠.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "喘口氣……喘口氣……是嗎，唔唔",
+        "MessageEN": "Take...a breather... Hm, indeed."
     },
     {
         "MessageId": 100810100,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "身共、理解しました！",
         "MessageKR": "저, 유카리 이해한 것이어요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "紫明白了！",
+        "MessageEN": "I understand now!"
     },
     {
         "MessageId": 100810101,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "それでは早速、先生のお言葉に甘えて……今からお邪魔しますの！",
         "MessageKR": "그럼 선생님의 말씀을 받들어… 지금 찾아뵙겠사와요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼我就接受老師的建議……現在馬上去拜訪老師！",
+        "MessageEN": "I'll take your advice! I'm on my way over!"
     },
     {
         "MessageId": 100810110,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "え？今から……？",
         "MessageKR": "어? 지금 바로……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯？現在馬上……？",
+        "MessageEN": "Huh? R-Right now?"
     },
     {
         "MessageId": 100810120,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "ええ、今から！",
         "MessageKR": "네!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是！",
+        "MessageEN": "Yes!"
     },
     {
         "MessageId": 100800127,

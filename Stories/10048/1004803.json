@@ -27,7 +27,7 @@
         "ImagePath": "",
         "MessageJP": "この間のことを反省した",
         "MessageKR": "선생, 저번의 실수를 말미암아.",
-        "MessageTW": "反省了前幾天的事情",
+        "MessageTW": "老師，有鑑於上次的失敗",
         "MessageEN": "Sensei, I learned from my previous mistake."
     },
     {
@@ -39,7 +39,7 @@
         "ImagePath": "",
         "MessageJP": "今回の依頼については",
         "MessageKR": "이번에 블랙마켓 은행으로부터 소개받은 일에선",
-        "MessageTW": "關於這次的委託",
+        "MessageTW": "這次黑市的委託",
         "MessageEN": "For the job I got at the Black Market,"
     },
     {
@@ -51,7 +51,7 @@
         "ImagePath": "",
         "MessageJP": "すでにきちんと契約書を書いている",
         "MessageKR": "확실히 계약서도 제대로 썼어.",
-        "MessageTW": "有寫好合約了",
+        "MessageTW": "我有確實寫好合約",
         "MessageEN": "I made sure to sign a contract."
     },
     {
@@ -63,7 +63,7 @@
         "ImagePath": "",
         "MessageJP": "それは良かった！",
         "MessageKR": "그래? 잘됐네!",
-        "MessageTW": "那真是太好了！",
+        "MessageTW": "是嗎？那真是太好了！",
         "MessageEN": "Yeah? Great!"
     },
     {
@@ -75,7 +75,7 @@
         "ImagePath": "",
         "MessageJP": "それで、今回はどんな依頼？",
         "MessageKR": "그래서 어떤 일을 구했는데?",
-        "MessageTW": "那麼，這次是什麼委託？",
+        "MessageTW": "話說這次是什麼委託呢？",
         "MessageEN": "So, what kind of a job is it?"
     },
     {
@@ -87,7 +87,7 @@
         "ImagePath": "",
         "MessageJP": "思いのほか簡単な任務だった",
         "MessageKR": "제법 간단한 미션이더군.",
-        "MessageTW": "比想像中還簡單的任務",
+        "MessageTW": "是個挺簡單的任務",
         "MessageEN": "It's a pretty simple mission."
     },
     {
@@ -99,7 +99,7 @@
         "ImagePath": "",
         "MessageJP": "ブラックマーケットの抗争を終わらせるだけだ",
         "MessageKR": "블랙마켓의 항쟁을 마무리하는 일이지.",
-        "MessageTW": "只需要結束黑市的紛爭罷了",
+        "MessageTW": "只需要結束黑市的紛爭而已",
         "MessageEN": "It's a job for ending something the Black Market's been struggling with."
     },
     {
@@ -111,7 +111,7 @@
         "ImagePath": "",
         "MessageJP": "！？",
         "MessageKR": "사, 사, 사오리?!",
-        "MessageTW": "！？",
+        "MessageTW": "沙，沙，沙織！？",
         "MessageEN": "S-S-Saori?!"
     },
     {

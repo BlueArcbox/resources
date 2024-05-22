@@ -27,7 +27,7 @@
         "ImagePath": "",
         "MessageJP": "こちらRABBIT1。離陸の許可を要請します……",
         "MessageKR": "<SYSTEM> 여기는 RABBIT 1. 이륙 허가를 요청합니다……",
-        "MessageTW": "這裡是RABBIT1，請求起飛……",
+        "MessageTW": "<SYSTEM>這裡是RABBIT1，請求起飛……",
         "MessageEN": "<SYSTEM> This is RABBIT 1. Requesting permission to land."
     },
     {

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "トレーナー、シャーレの近くに新しくできた公園にはもう行かれましたか？",
         "MessageKR": "트레이너, 혹시 샬레 근처에 새로 생긴 공원에 가보신 적 있으신가요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "指導員，你有去過夏萊附近的新公園嗎？",
+        "MessageEN": "Have you visited the new park next to Schale, Trainer?"
     },
     {
         "MessageId": 100120270,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "まだないよ",
         "MessageKR": "아직 안 가 봤어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還沒去過",
+        "MessageEN": "No, not yet."
     },
     {
         "MessageId": 100120280,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "そうでしたか",
         "MessageKR": "그러시군요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這樣啊",
+        "MessageEN": "Oh, I see."
     },
     {
         "MessageId": 100120281,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "私はこの前、当番の帰りに寄ってみたのですが",
         "MessageKR": "지난번 당번 활동이 끝나고 돌아가는 길에 잠깐 둘러봤는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "上次值日結束後，我在回去的路上稍微逛了一下",
+        "MessageEN": "I had errands in the area, so I paid it a visit."
     },
     {
         "MessageId": 100120290,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "トラックも整備されていて、朝のジョギングによさそうでした",
         "MessageKR": "조깅용 트랙이 깨끗하게 정비되어 있어서 아침 조깅을 하기에 적합해 보이더군요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "步道維護得很乾淨，看起來很適合晨跑",
+        "MessageEN": "It'd be a good place for a morning jog. The track was very well-maintained."
     },
     {
         "MessageId": 100120300,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ですので、もしよろしければ、ですが",
         "MessageKR": "혹시 괜찮으시다면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可以的話",
+        "MessageEN": "If you'd like"
     },
     {
         "MessageId": 100120301,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "明日の朝、その公園で軽くジョギングをしませんか？",
         "MessageKR": "내일 아침에 그 공원에서 가볍게 조깅이라도 하지 않으시겠습니까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "明天早上要不要去那個公園輕鬆慢跑一下？",
+        "MessageEN": "we could go for a jog there tomorrow morning?"
     },
     {
         "MessageId": 100120310,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "軽いジョギングなら……",
         "MessageKR": "가벼운 조깅이라면 괜찮겠지……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果只是輕鬆慢跑的話……",
+        "MessageEN": "As long as it's a LIGHT jog..."
     },
     {
         "MessageId": 100120320,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとうございます",
         "MessageKR": "감사합니다, 트레이너.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝你，指導員",
+        "MessageEN": "I promise, Trainer."
     },
     {
         "MessageId": 100120330,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "では、明日の朝お会いしましょう！",
         "MessageKR": "그럼, 내일 아침에 뵙겠습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼，明早見！",
+        "MessageEN": "In that case, I will see you tomorrow."
     },
     {
         "MessageId": 100110337,

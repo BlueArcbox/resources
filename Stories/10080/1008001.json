@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "なるほど",
         "MessageKR": "음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "So."
     },
     {
         "MessageId": 100800020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "こうかしらぁ？",
         "MessageKR": "과연, 이렇게 되는 거네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "結果還是變成這樣了嗎？",
+        "MessageEN": "This is how it works."
     },
     {
         "MessageId": 100800030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "食蜂？",
         "MessageKR": "쇼쿠호?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "食蜂？",
+        "MessageEN": "Shokuhou?"
     },
     {
         "MessageId": 100800030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "どうしたの？",
         "MessageKR": "무슨 일이야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "發生什麼事了？",
+        "MessageEN": "What is it?"
     },
     {
         "MessageId": 100800040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ん～",
         "MessageKR": "아, 별로",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，沒什麼",
+        "MessageEN": "Oh, it's nothing."
     },
     {
         "MessageId": 100800041,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ここでも似たような機能があるのねぇと思って……",
         "MessageKR": "그냥 여기서도 메시지가 되는구나 하고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只是沒想到來到這裡也能收發簡訊",
+        "MessageEN": "I was wondering if this device could send messages."
     },
     {
         "MessageId": 100800042,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "試しに送ってみただけだゾ☆",
         "MessageKR": "신기해서 테스트 차 보내봤달까☆",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "覺得太驚訝了，所以才想測試看看☆",
+        "MessageEN": "So I sent one out as a test. ☆"
     },
     {
         "MessageId": 100790057,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "どうかしらぁ？",
         "MessageKR": "어때",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼樣？",
+        "MessageEN": "How is it?"
     },
     {
         "MessageId": 100800051,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "眠気、覚めたでしょう？",
         "MessageKR": "주스는 괜찮아? 잠은 좀 깨? ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "果汁好喝嗎？有稍微清醒一點了嗎？",
+        "MessageEN": "Is the juice all right? Do you feel more awake? "
     },
     {
         "MessageId": 100800060,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "苦味が結構あるんだね",
         "MessageKR": "너무 써",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為太苦",
+        "MessageEN": "It's too bitter."
     },
     {
         "MessageId": 100800060,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "おかげで眠気が覚めたよ",
         "MessageKR": "확실히 잠은 깨네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我整個人都清醒了",
+        "MessageEN": "I guess it did wake me up."
     },
     {
         "MessageId": 100800070,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "それなら良かったわぁ",
         "MessageKR": "그렇지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "對吧？",
+        "MessageEN": "Right?"
     },
     {
         "MessageId": 100800071,
@@ -183,7 +183,7 @@
         "ImagePath": "",
         "MessageJP": "今度から眠くなったら、それを飲むんだゾ☆",
         "MessageKR": "그럼 이걸로 한 건 해결☆",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那真是太好了，事情解決☆",
+        "MessageEN": "That makes one problem solved! ☆"
     }
 ]

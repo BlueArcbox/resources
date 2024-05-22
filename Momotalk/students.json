@@ -668,11 +668,7 @@
     },
     {
         "Id": 10016,
-        "Avatar": [
-            "/api/Avatars/Midori_Maid.webp",
-            "https://static.wikia.nocookie.net/blue-archive/images/a/ae/Midori_Icon.png",
-            "https://static.wikia.nocookie.net/blue-archive/images/f/fc/Midori_Maid_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/a/ae/Midori_Icon.png"],
         "Bio": {
             "zh": "请向我推荐游戏",
             "jp": "おすすめのゲーム教えてください",
@@ -684,11 +680,7 @@
     },
     {
         "Id": 13011,
-        "Avatar": [
-            "/api/Avatars/Momoi_Maid.webp",
-            "https://static.wikia.nocookie.net/blue-archive/images/7/72/Momoi_Icon.png",
-            "https://static.wikia.nocookie.net/blue-archive/images/7/7a/Momoi_Maid_Icon.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/7/72/Momoi_Icon.png"],
         "Bio": {
             "zh": "致力于游戏！",
             "jp": "ゲーム一筋！",
@@ -2411,5 +2403,27 @@
             "kr": "#반짝반짝 #언제나_즐겁게"
         },
         "Nickname": ["绮罗罗", "琪拉拉", "闪亮亮", "绮良良"]
+    },
+    {
+        "Id": 10094,
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/7/7a/Momoi_Maid_Icon.png"],
+        "Bio": {
+            "zh": "致力于成为……女仆GAMER?",
+            "jp": "メイドゲーマー……一筋？",
+            "kr": "메이드 게이머 외길… 인생?"
+        },
+        "Nickname": [],
+        "related": [13011, "maid"]
+    },
+    {
+        "Id": 10095,
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/f/fc/Midori_Maid_Icon.png"],
+        "Bio": {
+            "zh": "今天也要精进技术。",
+            "jp": "今日も精進します。",
+            "kr": "오늘도 정진하겠습니다."
+        },
+        "Nickname": [],
+        "related": [10016, "maid"]
     }
 ]

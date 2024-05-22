@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、びっぐにゅーすですの！",
         "MessageKR": "선생님, 비익-뉴스여요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，有個大～新聞！",
+        "MessageEN": "Sensei, I have BIG news!"
     },
     {
         "MessageId": 100810260,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今日、百鬼夜行第七商店街で「抽選会」が行われると聞きまして！",
         "MessageKR": "오늘 백귀야행 제7번 상점가에서 <추첨식>이라는 특별한 이벤트를 한다고 들었사와요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "聽說今天百鬼夜行第七商店街會舉辦叫做「抽獎儀式」的特別活動！",
+        "MessageEN": "I heard there's a special event called a raffle happening at Hyakkiyako Shopping District No. 7 today!"
     },
     {
         "MessageId": 100810270,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "商店街でよくやってるやつだね",
         "MessageKR": "아, 상점가에서 자주 하는 그거 말이구나.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，是商店街常辦的活動啊",
+        "MessageEN": "Oh, they do hold raffles there a lot."
     },
     {
         "MessageId": 100810280,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "商品の中には、おでゅっせいあ海洋高等学校のりぞーとに行ける招待券もあるみたいですのよ",
         "MessageKR": "상품 중에는 오디세이아 해양학교의 휴양지로 떠날 수 있는 초대권도 있다는 모양이어요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "聽說商品之中，好像還有奧德賽海洋高級中學渡假勝地的招待券",
+        "MessageEN": "And they're raffling away an invitation to the Odyssey Maritime School resort!"
     },
     {
         "MessageId": 100810290,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "そんなに豪華な景品もあるんだ",
         "MessageKR": "꽤 호화스럽네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "獎品還真豪華呢",
+        "MessageEN": "That's a really nice prize."
     },
     {
         "MessageId": 100810300,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ええ！",
         "MessageKR": "아, 그럼 이럴 게 아니라.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒錯，那麼無須多言……",
+        "MessageEN": "Then what are we waiting for?!"
     },
     {
         "MessageId": 100810301,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "それで、その……",
         "MessageKR": "선생님!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師！",
+        "MessageEN": "Sensei!"
     },
     {
         "MessageId": 100810310,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "うん、一緒に行こうか",
         "MessageKR": "응. 가볼까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，走吧",
+        "MessageEN": "Would you like to go?"
     },
     {
         "MessageId": 100810320,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "はい！いつもの場所でお待ちしておりますの！",
         "MessageKR": "네! 그럼 평소처럼 그곳에서!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是！我會在平時的地方等候著您！",
+        "MessageEN": "Yes! I'll meet you at the usual spot!"
     },
     {
         "MessageId": 100800327,

@@ -39,7 +39,7 @@
         "ImagePath": "",
         "MessageJP": "少し困った状況になってしまいまして、助けていただきたく……",
         "MessageKR": "지금 조금 곤란한 상황에 처해 있어서, 괜찮으시다면 도움을 좀 받고 싶은데요.",
-        "MessageTW": "我遇到了有點麻煩的狀況，想請你幫幫我……",
+        "MessageTW": "我遇到了有點麻煩的狀況，想請您幫幫我……",
         "MessageEN": "I'm in a bit of a pickle and was wondering if you could help me."
     },
     {
@@ -51,7 +51,7 @@
         "ImagePath": "",
         "MessageJP": "困った状況？",
         "MessageKR": "곤란한 상황?",
-        "MessageTW": "麻煩狀況？",
+        "MessageTW": "麻煩的狀況？",
         "MessageEN": "What's wrong?"
     },
     {
@@ -111,7 +111,7 @@
         "ImagePath": "",
         "MessageJP": "お願いできますでしょうか……？",
         "MessageKR": "괜찮으실까요?",
-        "MessageTW": "可以拜託你嗎……？",
+        "MessageTW": "可以拜託您嗎……？",
         "MessageEN": "Would that be okay?"
     },
     {
@@ -159,7 +159,7 @@
         "ImagePath": "",
         "MessageJP": "ありがとうございます、お待ちしておりますね",
         "MessageKR": "네. 감사합니다. 그럼 기다리고 있을게요.",
-        "MessageTW": "非常感謝，我等你",
+        "MessageTW": "非常感謝，那麼我在這等您",
         "MessageEN": "Thanks. I'll be waiting for you."
     },
     {
@@ -195,7 +195,7 @@
         "ImagePath": "",
         "MessageJP": "あの後、どこまで行かれてしまったんですか……？",
         "MessageKR": "어디까지 가신 건가요? 선생님.",
-        "MessageTW": "在那之後，你跑去哪裡了呢……？",
+        "MessageTW": "在那之後，老師跑去哪裡了呢……？",
         "MessageEN": "Where are you, Sensei?"
     },
     {

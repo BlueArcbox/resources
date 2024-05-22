@@ -27,7 +27,7 @@
         "ImagePath": "",
         "MessageJP": "こんにちは、先生。アヤネです",
         "MessageKR": "안녕하세요, 선생님. 아야네입니다.",
-        "MessageTW": "你好，老師。我是綾音",
+        "MessageTW": "您好，老師。我是綾音",
         "MessageEN": "Hello, Sensei. This is Ayane."
     },
     {
@@ -39,7 +39,7 @@
         "ImagePath": "",
         "MessageJP": "少し、お時間よろしいでしょうか？",
         "MessageKR": "혹시 잠깐 시간 괜찮으세요?",
-        "MessageTW": "可以占用你一點時間嗎？",
+        "MessageTW": "可以占用一點時間嗎？",
         "MessageEN": "Do you happen to be free right now?"
     },
     {

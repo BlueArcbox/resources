@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "たしかに、ここはちょっと不思議な場所だけどぉ……",
         "MessageKR": "조금 신기한 곳이기는 해도",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這裡不僅很有趣",
+        "MessageEN": "This really is an interesting place."
     },
     {
         "MessageId": 100800160,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "私の居たところと、そこまで大きくは変わらないかしらぁ",
         "MessageKR": "어떤 의미로는 크게 다르지 않네, 여기도",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "而且從某個角度來看，其實這裡跟我們的世界也沒什麼不同",
+        "MessageEN": "In one sense, it's not all that different from my world."
     },
     {
         "MessageId": 100800170,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "そうなんだ？",
         "MessageKR": "뭐, 그렇지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒錯",
+        "MessageEN": "Well, I suppose..."
     },
     {
         "MessageId": 100800170,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "馴染めてるなら良かった",
         "MessageKR": "적응이 잘 되면 좋은 거지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你們能適應的話就太好了",
+        "MessageEN": "The important thing is to keep an open mind."
     },
     {
         "MessageId": 100800180,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "なんか先生って、いつも反応力が弱いというかぁ",
         "MessageKR": "뭔가 선생님은 항상 반응력이 약하단 말이지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "感覺老師的應變能力一直都不是很好呢",
+        "MessageEN": "Your answers are always a touch dull, Sensei."
     },
     {
         "MessageId": 100800181,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "いやまあ、今さらかもしれないけどぉ",
         "MessageKR": "그것도 일종의 습관이려나",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那會不會也是一種習慣呢",
+        "MessageEN": "Maybe it's just your habit."
     },
     {
         "MessageId": 100800190,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "んー",
         "MessageKR": "흠",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯……",
+        "MessageEN": "Hm..."
     },
     {
         "MessageId": 100800191,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "ま、いいわ",
         "MessageKR": "뭐, 좋아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這樣也好",
+        "MessageEN": "Well, all right."
     },
     {
         "MessageId": 100800200,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "それも一つの方法よね",
         "MessageKR": "그것도 하나의 방법이겠지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我也有個好辦法",
+        "MessageEN": "I suppose there's some truth to that."
     },
     {
         "MessageId": 100790217,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "ん？",
         "MessageKR": "음?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯？",
+        "MessageEN": "Well?"
     },
     {
         "MessageId": 100800211,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "何か用かしら？",
         "MessageKR": "불렀어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "找我有事嗎？",
+        "MessageEN": "Did you call?"
     },
     {
         "MessageId": 100800220,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "えっと、食蜂……",
         "MessageKR": "쇼쿠호, 그…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "食蜂，那個……",
+        "MessageEN": "Shokuhou, I..."
     },
     {
         "MessageId": 100800220,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "さっきのことなんだけど……",
         "MessageKR": "역시 아까 전에 일은……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "剛才的事……",
+        "MessageEN": "What happened earlier...?"
     },
     {
         "MessageId": 100800230,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "さっきのこと？",
         "MessageKR": "아까 전의 일?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "剛才的事？",
+        "MessageEN": "What happened?"
     },
     {
         "MessageId": 100800231,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "私は何も知らないゾ☆",
         "MessageKR": "나는 아무 기억도 나지 않는걸?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我什麼都想不起來耶？",
+        "MessageEN": "I don't remember anything!"
     },
     {
         "MessageId": 100800232,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "何も見ていなかったし、何も起きてなかった",
         "MessageKR": "이런 경우에는 좋은 게 좋은 걸로 넘어갔으면 하는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這種時候就讓過去的事情過去比較好吧",
+        "MessageEN": "Oh, do let's change to a more interesting topic."
     },
     {
         "MessageId": 100800240,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "そうでしょお、先生？",
         "MessageKR": "그렇지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "對吧？",
+        "MessageEN": "Wouldn't that be nice?"
     },
     {
         "MessageId": 100800241,
@@ -243,7 +243,7 @@
         "ImagePath": "",
         "MessageJP": "じゃ、また連絡するわねぇ",
         "MessageKR": "그럼 또 봐, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下次見囉，老師",
+        "MessageEN": "Until next time, Sensei."
     }
 ]

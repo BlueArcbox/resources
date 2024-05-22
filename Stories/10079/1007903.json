@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei..."
     },
     {
         "MessageId": 100790240,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "いま忙しい？",
         "MessageKR": "선생님 지금 바빠?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在在忙嗎？",
+        "MessageEN": "Sensei, are you busy?"
     },
     {
         "MessageId": 100790250,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "どうしたの？",
         "MessageKR": "응? 무슨 일이야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯？有什麼事嗎？",
+        "MessageEN": "Hm? What is it?"
     },
     {
         "MessageId": 100790250,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "急用だったり？",
         "MessageKR": "뭔가 다급해 보이는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "感覺好像很著急",
+        "MessageEN": "Is it urgent?"
     },
     {
         "MessageId": 100790260,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ううん",
         "MessageKR": "아니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不",
+        "MessageEN": "Well..."
     },
     {
         "MessageId": 100790261,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "そんな急ぎってわけじゃないんだけど……",
         "MessageKR": "다급한 것까진 아니지만",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是沒有到著急的程度啦",
+        "MessageEN": "I wouldn't call it urgent, but..."
     },
     {
         "MessageId": 100790270,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "忙しいなら大丈夫",
         "MessageKR": "아무튼 지금 바빠?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總之先告訴我現在忙不忙吧",
+        "MessageEN": "Anyway, are you busy?"
     },
     {
         "MessageId": 100790271,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと聞きたいことがあるだけだから",
         "MessageKR": "뭐 좀 물어볼 게 있는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我有點事想問你",
+        "MessageEN": "There's something I want to ask you."
     },
     {
         "MessageId": 100780287,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "先生に買ってもらったペロロなんだけど",
         "MessageKR": "선생님 이거",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，你看這個",
+        "MessageEN": "Sensei, this...!"
     },
     {
         "MessageId": 100790281,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "これ、ただのペロロじゃないみたいなの",
         "MessageKR": "그냥 페로로가 아니라는 거 같은데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這好像不是普通的佩洛洛",
+        "MessageEN": "I don't think this is any ordinary Peroro!"
     },
     {
         "MessageId": 100790282,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "「ペロロ博士」って言うらしいわ",
         "MessageKR": "정확한 이름은 '페로로 박사님'이라는 것 같아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "記得它正確的名稱應該是叫「佩洛洛博士」",
+        "MessageEN": "This must be a Dr. Peroro, I think."
     },
     {
         "MessageId": 100790290,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "どっちも同じなんじゃ……？",
         "MessageKR": "그게 그거 같긴 하지만…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不是都一樣嗎……",
+        "MessageEN": "That sounds the same to me..."
     },
     {
         "MessageId": 100790290,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "ペロロには変わりないんじゃないの？",
         "MessageKR": "결국 페로로인 거 아냐?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "反正就是佩洛洛的一種不是嗎？",
+        "MessageEN": "Isn't it all just Peroro in the end?"
     },
     {
         "MessageId": 100790300,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "？？？？？",
         "MessageKR": "?????",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "？？？？？",
+        "MessageEN": "?????"
     },
     {
         "MessageId": 100790310,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "いや",
         "MessageKR": "아니\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不對",
+        "MessageEN": "No."
     },
     {
         "MessageId": 100790311,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "いやいや、全然違うわよ",
         "MessageKR": "아니지 아냐 절대 아니지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不對不對，完全不一樣",
+        "MessageEN": "Absolutely not."
     },
     {
         "MessageId": 100790312,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "どう見ても違うじゃない！",
         "MessageKR": "이런 건 중요한 차이라고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "它們之間存在非常重要的差異",
+        "MessageEN": "They are totally distinct."
     },
     {
         "MessageId": 100790320,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "ふぅ……",
         "MessageKR": "후",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呼",
+        "MessageEN": "Hm..."
     },
     {
         "MessageId": 100790321,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "もっと詳しくなって、先生にいろいろ教えてあげるわね",
         "MessageKR": "나중에 좀 더 공부해서 제대로 설명해 줄게",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "等我仔細研究過後，再好好解釋一遍給你聽",
+        "MessageEN": "I'll explain it all to you properly sometime."
     },
     {
         "MessageId": 100790330,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "今日はありがと！",
         "MessageKR": "아무튼 오늘 고마웠어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總之今天很謝謝你",
+        "MessageEN": "Anyway, thanks for today."
     },
     {
         "MessageId": 100790331,
@@ -279,7 +279,7 @@
         "ImagePath": "",
         "MessageJP": "またね、先生！",
         "MessageKR": "또 봐, 선생님!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下次見囉，老師！！",
+        "MessageEN": "See you again soon, Sensei!!"
     }
 ]

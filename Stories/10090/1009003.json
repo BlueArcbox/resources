@@ -25,7 +25,7 @@
         "NextId": 100900180,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "先生",
+        "MessageJP": "先生……",
         "MessageKR": "선생님.",
         "MessageTW": "",
         "MessageEN": ""
@@ -37,7 +37,7 @@
         "NextId": 100900190,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "そ、その、先生さえ宜しければ、えっと……",
+        "MessageJP": "その、今日はお忙しいでしょうか……？もしよろしければ、あの……",
         "MessageKR": "그, 저기. 선생님께서 괜찮으시다면, 이지만…….",
         "MessageTW": "",
         "MessageEN": ""
@@ -49,7 +49,7 @@
         "NextId": 100900200,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "百夜堂に寄っていこうか？",
+        "MessageJP": "百夜堂に行こうか？",
         "MessageKR": "백야당에 들르면 돼?",
         "MessageTW": "",
         "MessageEN": ""
@@ -61,7 +61,7 @@
         "NextId": 100900210,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "えへへ",
+        "MessageJP": "えへへっ。……はい！",
         "MessageKR": "에헤헤.",
         "MessageTW": "",
         "MessageEN": ""
@@ -73,7 +73,7 @@
         "NextId": 100900220,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "そうです",
+        "MessageJP": "ありがとうございます、先生～",
         "MessageKR": "맞아요.",
         "MessageTW": "",
         "MessageEN": ""
@@ -85,7 +85,7 @@
         "NextId": 100890227,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "お待ちしておりますね！",
+        "MessageJP": "それでは、百夜堂でお待ちしてますね！",
         "MessageKR": "기다리고 있겠습니다!",
         "MessageTW": "",
         "MessageEN": ""

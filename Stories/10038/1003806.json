@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "SRT特殊学園で生活していた時は知りませんでしたが",
         "MessageKR": "SRT 특수학원의 건물 내에서 생활할 때는 미처 몰랐었는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還在SRT特殊學園的校舍生活時完全沒想到",
+        "MessageEN": "This isn't something I had to think about while living at SRT,"
     },
     {
         "MessageId": 100380390,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "長期間キャンプをする場合、冬より夏の方が大変なのですね",
         "MessageKR": "장기간 야영을 하는 건 겨울보다 여름이 더 힘든 것 같네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "對長期露營來說，夏天居然比冬天還辛苦",
+        "MessageEN": "but extended camping is actually harder in the summer than the winter."
     },
     {
         "MessageId": 100380400,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "何かあったの？",
         "MessageKR": "무슨 어려움이라도 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "遇到什麼困難了嗎？",
+        "MessageEN": "Why's that?"
     },
     {
         "MessageId": 100380410,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "ええ。最近、梅雨に入ったので",
         "MessageKR": "얼마 전부터 여름 장마가 시작되었잖아요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不久前不是進入梅雨季了嗎？",
+        "MessageEN": "The rainy seasons during the summer are more intense."
     },
     {
         "MessageId": 100380411,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "装備が錆びたり、食べ物の日持ちも悪くなってしまって",
         "MessageKR": "그 때문에 장비에도 자주 녹이 슬고, 음식도 쉽게 상해서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不只裝備經常生鏽，食物也很容易變質",
+        "MessageEN": "The constant downpour makes the equipment rust and food spoil so fast."
     },
     {
         "MessageId": 100380412,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "色々と困っているのです",
         "MessageKR": "여러모로 애로사항이 많네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "各方面都困難重重",
+        "MessageEN": "There's been a lot of different challenges..."
     },
     {
         "MessageId": 100380420,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "何より、雨のせいで洗濯物がなかなか乾かず……",
         "MessageKR": "다른 것보다 빨래가 좀처럼 마르지 않아서……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "其中最棘手的，是洗好的衣服晾不乾……",
+        "MessageEN": "Especially trying to figure out how to dry our clothes..."
     },
     {
         "MessageId": 100380421,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "どうすればいいかみんなで悩んでいたところでした",
         "MessageKR": "밀린 빨랫감을 어디서 말려야 좋을지 소대원들과 고민하던 중이었어요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我和小隊員們正在苦惱要去哪裡曬堆積的衣物",
+        "MessageEN": "Me and the other squad members are out of ideas. Our laundry's really piling up."
     },
     {
         "MessageId": 100380430,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "なら、シャーレで洗濯する？",
         "MessageKR": "빨랫감을 샬레로 가져오는 건 어때?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "把要洗的衣服拿到夏萊如何？",
+        "MessageEN": "Why don't you just bring it to Schale?"
     },
     {
         "MessageId": 100380440,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "シャーレで、ですか？",
         "MessageKR": "샬레요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "夏萊？",
+        "MessageEN": "To Schale...?"
     },
     {
         "MessageId": 100380450,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "シャーレの休憩室には乾燥機もあるから",
         "MessageKR": "샬레 휴게실에는 세탁기도 건조기도 있으니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "夏萊的休息室裡有洗衣機和烘衣機",
+        "MessageEN": "We have a washing machine and dryer in the Schale lounge."
     },
     {
         "MessageId": 100380460,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "半日もあれば乾くと思うよ",
         "MessageKR": "한나절이면 금방 마를 거야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我想只要半天就會乾了",
+        "MessageEN": "It'd only take around half a day."
     },
     {
         "MessageId": 100380470,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "いえ、いくら先生が仰ってくれたからといって",
         "MessageKR": "아뇨. 선생님의 호의라지만",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不。雖然很感謝老師的一片好意",
+        "MessageEN": "Oh... I appreciate the offer, but..."
     },
     {
         "MessageId": 100380471,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "それに甘えるわけには",
         "MessageKR": "그럴 수는",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但我不能這麼做",
+        "MessageEN": "I mean..."
     },
     {
         "MessageId": 100380480,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "今回だけ……",
         "MessageKR": "이번 한 번만……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過僅限這次的話……",
+        "MessageEN": "Well, I guess...just this once..."
     },
     {
         "MessageId": 100380481,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "お願いします……",
         "MessageKR": "부탁드리겠습니다……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就拜託老師了……",
+        "MessageEN": "Okay. I'll be there soon."
     },
     {
         "MessageId": 100370487,

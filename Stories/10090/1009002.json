@@ -37,7 +37,7 @@
         "NextId": 100900110,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "よろしければ、今日のご予定を伺ってもいいですか……？",
+        "MessageJP": "えっと、今日のご予定を伺ってもよいでしょうか……？",
         "MessageKR": "혹시, 오늘의 일정을 여쭤보아도 될까요……?",
         "MessageTW": "",
         "MessageEN": ""
@@ -49,7 +49,7 @@
         "NextId": 100900120,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "特に予定はないけど",
+        "MessageJP": "特に急ぎの予定はないかな",
         "MessageKR": "큰 일정은 없었지만.",
         "MessageTW": "",
         "MessageEN": ""
@@ -61,7 +61,7 @@
         "NextId": 100900120,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "なんだか、急に百夜堂に行きたくなったな",
+        "MessageJP": "なんだか、百夜堂に行きたい気分かも……",
         "MessageKR": "왠지, 갑자기 백야당에 가 보고 싶어졌어.",
         "MessageTW": "",
         "MessageEN": ""
@@ -73,7 +73,7 @@
         "NextId": 100900130,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "本当ですか！？",
+        "MessageJP": "本当ですか！",
         "MessageKR": "정말이세요?!",
         "MessageTW": "",
         "MessageEN": ""
@@ -85,7 +85,7 @@
         "NextId": 100900131,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "では……ちょうど私も百夜堂で仕事がありますから",
+        "MessageJP": "私、今日は百夜堂でお仕事なので……、先生が来てくれたらとても嬉しいです！",
         "MessageKR": "그러면…… 마침 저도 백야당에서 일해야 하니까.",
         "MessageTW": "",
         "MessageEN": ""
@@ -97,7 +97,7 @@
         "NextId": 100900140,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "いつお越しになるかだけ、教えていただけますと……",
+        "MessageJP": "いつごろお越しになれそうですか……？",
         "MessageKR": "언제 오시는지만 알려 주시면…….",
         "MessageTW": "",
         "MessageEN": ""
@@ -109,7 +109,7 @@
         "NextId": 100900150,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "午後ぐらいでいい？",
+        "MessageJP": "午後になりそうかな？",
         "MessageKR": "오후쯤에 만날까?",
         "MessageTW": "",
         "MessageEN": ""
@@ -121,7 +121,7 @@
         "NextId": 100900160,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "え？",
+        "MessageJP": "わかりました！",
         "MessageKR": "네?",
         "MessageTW": "",
         "MessageEN": ""
@@ -133,7 +133,7 @@
         "NextId": 100900161,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "は、はい！",
+        "MessageJP": "それなら、百夜堂でお会いできそうですね",
         "MessageKR": "네, 네!",
         "MessageTW": "",
         "MessageEN": ""
@@ -145,7 +145,7 @@
         "NextId": 100890167,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "交代してでも、その時間に合わせますね！",
+        "MessageJP": "お待ちしてます！",
         "MessageKR": "교대를 해서라도, 그 시간에 맞추도록 할게요!",
         "MessageTW": "",
         "MessageEN": ""
