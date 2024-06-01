@@ -762,5 +762,18 @@
             }
         ],
         "pictures_count": 1
+    },
+    {
+        "dynamic_id": 937203044160897032,
+        "description": "【青春record】官方漫画第58话\n\n老师！女仆们来了哦！\n\n🔷作:せるげい(@pattundo)老师\n\n#碧蓝档案##蔚蓝档案#",
+        "pictures": [
+            {
+                "img_height": 1521,
+                "img_width": 1080,
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/1aa70a94c86e984c1bf9c4e225ac2d7c37507923.jpg",
+                "img_size": 999.02001953125
+            }
+        ],
+        "pictures_count": 1
     }
 ]
