@@ -788,5 +788,18 @@
             }
         ],
         "pictures_count": 1
+    },
+    {
+        "dynamic_id": 942385489144447016,
+        "description": "【青春record】官方漫画第60话\n\n老师，和若藻同学一起去海边吧！\n\n🔷作:せるげい(@pattundo)老师\n\n#碧蓝档案##蔚蓝档案#",
+        "pictures": [
+            {
+                "img_height": 1521,
+                "img_width": 1080,
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/a0ec3dde15b460747648e2fd4e366f6037507923.jpg",
+                "img_size": 1029.4200439453125
+            }
+        ],
+        "pictures_count": 1
     }
 ]
