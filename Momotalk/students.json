@@ -309,8 +309,7 @@
             "/api/Avatars/Serika_Swimsuit.webp",
             "https://static.wikia.nocookie.net/blue-archive/images/5/5f/Serika_Icon.png",
             "https://static.wikia.nocookie.net/blue-archive/images/6/60/Serika_Shibaseki_Icon.png",
-            "https://static.wikia.nocookie.net/blue-archive/images/c/c4/Serika_Robber_Icon.png",
-            "https://static.wikia.nocookie.net/blue-archive/images/2/25/Serika_Swimsuit_Icon.png"
+            "https://static.wikia.nocookie.net/blue-archive/images/c/c4/Serika_Robber_Icon.png"
         ],
         "Bio": {
             "zh": "对策委员会黑见芹香",
@@ -2150,7 +2149,9 @@
         "Bio": {
             "zh": "寻找周边中",
             "jp": "グッズ探し中",
-            "kr": "굿즈 찾는 중"
+            "kr": "굿즈 찾는 중",
+            "tw": "尋找周邊商品中",
+            "en": "On the hunt for merch"
         },
         "Nickname": ["炮姐", "超电磁炮"]
     },
@@ -2160,7 +2161,9 @@
         "Bio": {
             "zh": "我会联系你的",
             "jp": "連絡はこちらからするわ",
-            "kr": "연락은 이쪽에서 먼저 할테니까"
+            "kr": "연락은 이쪽에서 먼저 할테니까",
+            "en": "Don't call me, I'll call you",
+            "tw": "連絡會由我先進行"
         },
         "Nickname": ["女王"]
     },
@@ -2170,7 +2173,9 @@
         "Bio": {
             "zh": "要是看到了不可思议的东西，请联系我！",
             "jp": "不思議なものが見つかったら、ご連絡ください！",
-            "kr": "신기한 거 찾으시면 말씀 좀!"
+            "kr": "신기한 거 찾으시면 말씀 좀!",
+            "en": "Let me know if you find anything interesting!",
+            "tw": "如果找到了神奇的東西請聯絡我！"
         },
         "Nickname": ["上升气流", "泪爷"],
         "School": "ETC"
@@ -2186,7 +2191,9 @@
         "Bio": {
             "zh": "小女子现在也，开始用Momotalk啦！",
             "jp": "身共も、ももとーくを始めましたの！",
-            "kr": "선생님! 소녀도 모모톡에 가입했사와요!"
+            "kr": "선생님! 소녀도 모모톡에 가입했사와요!",
+            "tw": "老師！小女子也加入MomoTalk了唷！",
+            "en": "Sensei! I signed up for MomoTalk!"
         },
         "Nickname": [
             "紫草",
@@ -2210,7 +2217,9 @@
         "Bio": {
             "zh": "此刻正值青春之盛时！",
             "jp": "今が青春真っ盛り！",
-            "kr": "지금이 바로 청춘이야!"
+            "kr": "지금이 바로 청춘이야!",
+            "en": "Take hold of your youth!",
+            "tw": "現在就是青春！"
         },
         "Nickname": []
     },
@@ -2220,7 +2229,9 @@
         "Bio": {
             "zh": "教学相长",
             "jp": "教学相長ず",
-            "kr": "교학상장"
+            "kr": "교학상장",
+            "en": "Experience is the best teacher.",
+            "tw": "教學相長"
         },
         "Nickname": ["黑猫"]
     },
@@ -2230,7 +2241,9 @@
         "Bio": {
             "zh": "不在",
             "jp": "不在",
-            "kr": "부재중"
+            "kr": "부재중",
+            "en": "Unavailable",
+            "tw": "OOO"
         },
         "Nickname": [],
         "related": [10001, "swimsuit"]
@@ -2241,7 +2254,9 @@
         "Bio": {
             "zh": "我倾听着你的声音",
             "jp": "あなたの音に耳を澄ませています",
-            "kr": "당신에게 귀를 기울이고 있습니다."
+            "kr": "당신에게 귀를 기울이고 있습니다.",
+            "en": "I'm listening to your every noise.",
+            "tw": "我正傾聽你的聲音"
         },
         "Nickname": ["山芋", "山玉", "营玉", "金玉", "キャンタマ"],
         "related": [26001, "camping"]
@@ -2250,9 +2265,11 @@
         "Id": 10085,
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/6/64/Hare_Camp_Icon.png"],
         "Bio": {
-            "zh": "雅典娜3号调整中。注意垃圾邮件",
+            "zh": "雅典娜3号调整中。注意垃圾讯息",
             "jp": "アテナ3号調整中。スパムメッセージには注意",
-            "kr": "아테나 3호 조정중. 스팸 메시지 주의."
+            "kr": "아테나 3호 조정중. 스팸 메시지 주의.",
+            "en": "Athena-3 maintenance underway. Beware of spam.",
+            "tw": "雅典娜3號調整中。注意垃圾訊息"
         },
         "Nickname": ["小红薯", "山钩", "小红书"],
         "related": [23003, "camping"]
@@ -2408,7 +2425,7 @@
         "Id": 10094,
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/7/7a/Momoi_Maid_Icon.png"],
         "Bio": {
-            "zh": "致力于成为……女仆GAMER?",
+            "zh": "女仆玩家……专精？",
             "jp": "メイドゲーマー……一筋？",
             "kr": "메이드 게이머 외길… 인생?"
         },
@@ -2425,5 +2442,16 @@
         },
         "Nickname": [],
         "related": [10016, "maid"]
+    },
+    {
+        "Id": 20036,
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/2/25/Serika_Swimsuit_Icon.png"],
+        "Bio": {
+            "zh": "度假中！！！！！！！",
+            "jp": "休暇中！！！！！！！",
+            "kr": "휴가 중!!!!!!!"
+        },
+        "Nickname": [],
+        "related": [13008, "swimsuit"]
     }
 ]

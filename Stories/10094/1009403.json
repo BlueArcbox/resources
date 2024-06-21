@@ -194,7 +194,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "人って休まないと壊れちゃうじゃん？",
-        "MessageKR": "원래 사람은 쉬지 않으면 고장나는 법이라고?",
+        "MessageKR": "원래 사람은 쉬지 않으면 고장 나는 법이라고?",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -230,7 +230,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "うん、適度な休息は大事だね",
-        "MessageKR": "앞 뒤 사정 빼고, 휴식에는 나도 찬성.",
+        "MessageKR": "앞뒤 사정 빼고, 휴식에는 나도 찬성.",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -374,7 +374,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "もっと、スーパーウルトラ画期的かつ効率的でっ！",
-        "MessageKR": "좀 더 슈퍼– 하고, 울트라– 한데다.",
+        "MessageKR": "좀 더 슈퍼–하고, 울트라–한데다.",
         "MessageTW": "",
         "MessageEN": ""
     },
