@@ -766,5 +766,18 @@
             }
         ],
         "pictures_count": 1
+    },
+    {
+        "dynamic_id": 944969255593443377,
+        "description": "【青春记录】 第61话\n老师，忍术研究部的各位好像在讨论些什么的样子！\n🔷作:せるげい(@pattundo)老师  \n#碧蓝档案##蔚蓝档案#",
+        "pictures": [
+            {
+                "img_height": 3304,
+                "img_width": 2344,
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/fa498db4ffcdd883a73d1b74e029aa69436037759.png",
+                "img_size": 6745.419921875
+            }
+        ],
+        "pictures_count": 1
     }
 ]
