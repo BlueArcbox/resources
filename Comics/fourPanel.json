@@ -1766,5 +1766,24 @@
             }
         ],
         "pictures_count": 2
+    },
+    {
+        "dynamic_id": 945419273888595974,
+        "description": "【国际服资讯】【官方四格漫画第139话】 \n▎儿童禁止\n 虽然是C&C的大学姐\n​但身形却是最娇小可爱的🐇\n\n好像有什么动静...(｡A｡)\n ​\n#碧蓝档案漫画连载中# #第139话# #蔚蓝档案# #碧蓝档案# #BlueArchive#",
+        "pictures": [
+            {
+                "img_height": 1280,
+                "img_width": 800,
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/aa63eead2081d3021f00996865b7777337507923.jpg",
+                "img_size": 193.07000732421875
+            },
+            {
+                "img_height": 501,
+                "img_width": 800,
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/0d1dc108b18dc2a16bbcf9c870cdd7c637507923.jpg",
+                "img_size": 43.06999969482422
+            }
+        ],
+        "pictures_count": 2
     }
 ]
