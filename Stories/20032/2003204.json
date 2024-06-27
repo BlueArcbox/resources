@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、ここはパラダイスかもしれない",
         "MessageKR": "선생님, 이곳은 파라다이스일지도 몰라. ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，這裡可能是個樂園",
+        "MessageEN": "I believe this is paradise, Sensei. "
     },
     {
         "MessageId": 200320310,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "パラダイス？",
         "MessageKR": "파라다이스?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "樂園？",
+        "MessageEN": "Paradise?"
     },
     {
         "MessageId": 200320320,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "うん……いい場所を見つけた",
         "MessageKR": "응… 좋은 장소를 찾았거든.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯……我找到了一個好地方",
+        "MessageEN": "Yes. It is very excellent."
     },
     {
         "MessageId": 200320321,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "先生も来る？",
         "MessageKR": "선생님도 올래?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師也要來嗎？",
+        "MessageEN": "Would you like to visit paradise?"
     },
     {
         "MessageId": 200320330,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "温泉でも見つけたとか？",
         "MessageKR": "온천이라도 있는 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "發現溫泉了嗎？",
+        "MessageEN": "Oh! I hope it's a hot spring!"
     },
     {
         "MessageId": 200320340,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ん……似てるかな……",
         "MessageKR": "음… 비슷하려나…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯……類似吧……",
+        "MessageEN": "Um... It is of the same genre..."
     },
     {
         "MessageId": 200310357,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "水風呂は諦めるよ",
         "MessageKR": "역시 냉수 욕조를 만드는 건 포기하기로 했어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我決定放棄冷水浴了",
+        "MessageEN": "I have decided my cold tub endeavors were unrealistic."
     },
     {
         "MessageId": 200320360,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "よかった！",
         "MessageKR": "잘 생각했어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "多麼明智的決定",
+        "MessageEN": "I'm relieved to hear that."
     },
     {
         "MessageId": 200320370,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "でも、どうして諦めたの？",
         "MessageKR": "그렇지만 그렇게나 의욕적이었는데?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過你本來不是還挺興奮的嗎？",
+        "MessageEN": "You were pretty excited about the project though."
     },
     {
         "MessageId": 200320380,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "冷水浴は気持ちよかったけど……",
         "MessageKR": "음… 물론 그 정도의 온도는 아무렇지도 않은 기분 좋은 수준이지만…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯……那種溫度確實挺舒服的沒錯……",
+        "MessageEN": "I will miss the relaxing temperature of the water..."
     },
     {
         "MessageId": 200320390,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "毎回先生がお茶を淹れてくれるわけじゃないし……",
         "MessageKR": "선생님이 항상 차를 끓여줄 수 있는 것도 아니고.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但老師又不是每次都能幫我泡茶……",
+        "MessageEN": "However, you will not always be available to brew tea."
     },
     {
         "MessageId": 200320400,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "もし私が風邪を引いたら、先生が心配するから",
         "MessageKR": "혹시라도 감기에 걸리면 선생님이 걱정하니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "而且萬一感冒會讓老師擔心",
+        "MessageEN": "I cannot catch a cold and worry Sensei."
     },
     {
         "MessageId": 200320401,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "……",
         "MessageKR": "…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……",
+        "MessageEN": "..."
     },
     {
         "MessageId": 200320410,
@@ -195,7 +195,7 @@
         "ImagePath": "",
         "MessageJP": "いつもありがとう、先生",
         "MessageKR": "언제나 신경 써줘서 고마워, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝你一直這麼關心我，老師",
+        "MessageEN": "Thank you for your care, Sensei."
     }
 ]

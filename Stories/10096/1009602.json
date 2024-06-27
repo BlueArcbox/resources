@@ -1,0 +1,129 @@
+[
+    {
+        "CharacterId": 10096,
+        "MessageJP": "カンナ（水着）",
+        "MessageKR": "칸나(수영복)",
+        "MessageTW": "環奈（泳裝）",
+        "MessageEN": "Kanna (Swimsuit)"
+    },
+    {
+        "MessageId": 100950180,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 100960180,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 100960180,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100960190,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "こんにちは、先生",
+        "MessageKR": "안녕하십니까, 선생님.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100960190,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 100960200,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "パークは楽しめていますか？",
+        "MessageKR": "파크는 잘 즐기고 계신지 모르겠군요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100960200,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 100960210,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "うん、楽しんでるよ",
+        "MessageKR": "응, 들어오자마자 물놀이 중이야.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100960210,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100960211,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ライフセーバーとして、嬉しい限りです",
+        "MessageKR": "즐겨 주시는 것 같아 라이프가드로서 기쁘군요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100960211,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100960220,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "あの、もしお時間があれば、ひとつお願いをしても良いでしょうか？",
+        "MessageKR": "저, 혹시 실례가 되지 않는다면, 한 가지 부탁을 드리고 싶습니다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100960220,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 100960230,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "どんなお願い？",
+        "MessageKR": "무슨 부탁인데?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100960230,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100960231,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "屋外施設の「メガスライド」まで来てもらえませんか？",
+        "MessageKR": "실외 시설에 있는 ‘메가 슬라이드’로 와 주시겠습니까?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100960231,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100950237,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "試運転に付き合っていただきたいのです",
+        "MessageKR": "운행 시작 전에 시험 운행을 부탁드리고 싶습니다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100950237,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "カンナ（水着）の絆イベントへ",
+        "MessageKR": "칸나(수영복)의 인연스토리로",
+        "MessageTW": "前往環奈（泳裝）的羈絆劇情",
+        "MessageEN": "Go to Kanna (Swimsuit)'s Event"
+    }
+]

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 200320190,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "次の作戦について話があるんだけど、時間ある？",
         "MessageKR": "다음 작전에 대해 특무부실에서 잠깐 이야기를 하고 싶은데 시간 괜찮아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我想在特異現象搜查部跟你討論下一次的作戰，你有空嗎？",
+        "MessageEN": "Are you busy? Please meet me in the Special Operations Room to discuss our next mission."
     },
     {
         "MessageId": 200320200,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "今日は手が離せなくて……",
         "MessageKR": "음… 오늘은 바빠서 조금 어려우려나…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯……今天很忙，可能有點困難……",
+        "MessageEN": "My schedule's a little packed right now."
     },
     {
         "MessageId": 200320210,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "それなら仕方ないか",
         "MessageKR": "그래? 그럼 어쩔 수 없지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是嗎？那就沒辦法了",
+        "MessageEN": "I see. Understood."
     },
     {
         "MessageId": 200320211,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "また連絡するね",
         "MessageKR": "다음에 다시 연락할게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我會再聯絡你",
+        "MessageEN": "I will contact you at a later time."
     },
     {
         "MessageId": 200310227,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "先生……風邪、大丈夫？",
         "MessageKR": "선생님, 컨디션은 좀 괜찮아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，身體狀況有好一點嗎？",
+        "MessageEN": "Are you feeling better, Sensei?"
     },
     {
         "MessageId": 200320230,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "うん、暖かくしてたら良くなったよ",
         "MessageKR": "응, 따듯하게 있으니까 많이 나아졌어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，我穿暖一點之後就好多了",
+        "MessageEN": "I've warmed up now! Thank you!"
     },
     {
         "MessageId": 200320240,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "なら良かった",
         "MessageKR": "다행이야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那就好",
+        "MessageEN": "I am relieved."
     },
     {
         "MessageId": 200320241,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "今日もありがとう、先生",
         "MessageKR": "오늘도 많은 도움이 되었어 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天也謝謝你，老師",
+        "MessageEN": "Thank you for your assistance today, Sensei."
     },
     {
         "MessageId": 200320242,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "服に組み合わせがあったなんて、知らなかった",
         "MessageKR": "이 옷에 그런 뜻이 담겨 있었다니.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒想到這件衣服還有那種含義",
+        "MessageEN": "I was unaware of the implications of my outfit."
     },
     {
         "MessageId": 200320250,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "そうだ、今度から下着の代わりに水着を着ようかな",
         "MessageKR": "그러고 보니 속옷 대신에 수영복을 입는 것도 좋은 것 같아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "看來用泳裝代替內衣好像也不錯",
+        "MessageEN": "Replacing my swimsuit with underwear was an inspired idea."
     },
     {
         "MessageId": 200320251,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "さっきジャケットの中でたくさん汗をかいたけど、水着だから濡れても気にならなかったの",
         "MessageKR": "재킷 안에 땀이 많이 났지만 수영복이라 젖어도 괜찮은 거 있지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就算夾克裡出了很多汗，反正是泳裝，濕了也沒關係",
+        "MessageEN": "The absorbent material of the swimsuit serves well to soak up any sweat from the jacket."
     },
     {
         "MessageId": 200320260,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "機能美って言うんだっけ……？",
         "MessageKR": "이런 걸 뭐라고 하더라? 기능미?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "該怎麼形容？機能美？",
+        "MessageEN": "I believe there is a term for this. Functionality?"
     },
     {
         "MessageId": 200320270,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "えっと、うん……間違ってはないかな",
         "MessageKR": "아, 응…… 맞아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，嗯……你說的對",
+        "MessageEN": "You could call it that!"
     },
     {
         "MessageId": 200320280,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "さすが先生",
         "MessageKR": "역시 선생님이야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不愧是老師",
+        "MessageEN": "You are very wise, Sensei."
     },
     {
         "MessageId": 200320281,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "ファッションって奥深いね",
         "MessageKR": "패션이란 여러 가지를 고려해야 하는 거구나.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原來時尚要考慮這麼多因素啊",
+        "MessageEN": "Fashion is a complicated and convoluted industry."
     },
     {
         "MessageId": 200320290,
@@ -231,7 +231,7 @@
         "ImagePath": "",
         "MessageJP": "また今度、色々教えて",
         "MessageKR": "앞으로도 많은 가르침 부탁할게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "之後請再多教我一些",
+        "MessageEN": "I look forward to learning more about it from you."
     }
 ]

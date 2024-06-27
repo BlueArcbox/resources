@@ -1,0 +1,153 @@
+[
+    {
+        "CharacterId": 10096,
+        "MessageJP": "カンナ（水着）",
+        "MessageKR": "칸나(수영복)",
+        "MessageTW": "環奈（泳裝）",
+        "MessageEN": "Kanna (Swimsuit)"
+    },
+    {
+        "MessageId": 100950240,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 100960240,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 100960240,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100960250,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "今日はウォーターパークの定休日です",
+        "MessageKR": "오늘은 워터파크가 운영하지 않는 날입니다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100960250,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 100960260,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "間違えないよう、お気をつけてください",
+        "MessageKR": "혹시나 요일을 혼동하여 방문하지 않도록 주의해 주시기 바랍니다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100960260,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 100960270,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "じゃあカンナも休みなの？",
+        "MessageKR": "그럼 칸나도 쉬는 거야?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100960270,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100960271,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "いえ、私は仕事です",
+        "MessageKR": "그렇지는 않습니다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100960271,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100960280,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "施設の清掃や補修がありますから",
+        "MessageKR": "라이프가드들은 시설의 관리보수와 청소를 해야 하니까요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100960280,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 100960290,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "利用客の皆さんが、安全に楽しく遊べるようにしなくてはいけませんので",
+        "MessageKR": "이용객 여러분이 안전하고 즐겁게 시설을 이용할 수 있도록 최선을 다할 생각입니다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100960290,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 100960300,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "定休日なのに大変だね……",
+        "MessageKR": "휴일이 휴일이 아니구나…….",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100960290,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 100960300,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "少し頑張りすぎじゃない？",
+        "MessageKR": "너무 열심히 하는 거 아냐?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100960300,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100960310,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "利用客の安全がかかっておりますし、これくらい当然です",
+        "MessageKR": "이용객의 안전을 책임지는 라이프가드로서 당연한 일입니다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100960310,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 100950317,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "もちろん、そこには先生も含まれていますから",
+        "MessageKR": "또한, 그 이용객에는 선생님도 포함되어 있으니까요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100950317,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "カンナ（水着）の絆イベントへ",
+        "MessageKR": "칸나(수영복)의 인연스토리로",
+        "MessageTW": "前往環奈（泳裝）的羈絆劇情",
+        "MessageEN": "Go to Kanna (Swimsuit)'s Event"
+    }
+]

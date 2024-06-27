@@ -1,0 +1,141 @@
+[
+    {
+        "CharacterId": 20037,
+        "MessageJP": "フブキ（水着）",
+        "MessageKR": "후부키(수영복)",
+        "MessageTW": "吹雪（泳裝）",
+        "MessageEN": "Fubuki (Swimsuit)"
+    },
+    {
+        "MessageId": 200360180,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 200370180,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 200370180,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200370190,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "私だけのパラダイスを見つけたよ",
+        "MessageKR": "드디어 내 파라다이스를 찾았어.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200370190,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200370191,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "誰にも邪魔されない、安息の地……",
+        "MessageKR": "누구에게도 방해받지 않는 안식의 땅…….",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200370191,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200370200,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "これで、ようやく気ままに過ごせるね",
+        "MessageKR": "이곳이라면 누구의 눈치도 받지 않고 쉴 수 있어……!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200370200,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200370210,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "隠れ家でも作ったの？",
+        "MessageKR": "숨어 있을 곳이라도 찾은 거야?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200370200,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200370210,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "サボり場所を見つけたんだね",
+        "MessageKR": "농땡이 피울 곳을 찾은 모양이네.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200370210,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200370211,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生も見にくる？",
+        "MessageKR": "선생님도 구경 올래?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200370211,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200370220,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "あっ、でもプールには入らないでね",
+        "MessageKR": "대신 물에 들어가면 안 돼.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200370220,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200370230,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "監視対象が増えるとめんどくさいからさ",
+        "MessageKR": "내가 감시해야 할 이용객이 느는 건 사양이니까.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200370230,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200360237,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ウォーターパークなのに……？",
+        "MessageKR": "워터파크에서 물에 들어가지 말라니…….",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200360237,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "フブキ（水着）の絆イベントへ",
+        "MessageKR": "후부키(수영복)의 인연스토리로",
+        "MessageTW": "前往吹雪（泳裝）的羈絆劇情",
+        "MessageEN": "Go to Fubuki (Swimsuit)'s Event"
+    }
+]

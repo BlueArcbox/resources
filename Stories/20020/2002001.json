@@ -99,7 +99,7 @@
         "ImagePath": "",
         "MessageJP": "なっ、まさかとは思いますが、私の連絡先を登録していないのですか……？",
         "MessageKR": "네…? 선생님. 설마라고는 생각하지만, 제 연락처를 등록조차 하지 않으셨다는…?",
-        "MessageTW": "什麼？該不會，沒有把我加入聯絡人……？",
+        "MessageTW": "咦？難道老師您沒有把我加入聯絡人……？",
         "MessageEN": "...Seriously? Sensei, did you really not even save my contact information...?"
     },
     {
@@ -231,7 +231,7 @@
         "ImagePath": "",
         "MessageJP": "ハッキングって言っちゃったよ……",
         "MessageKR": "자연스럽게 해킹이라고 했어….",
-        "MessageTW": "說出駭入了唷……",
+        "MessageTW": "你把駭入說出來了……",
         "MessageEN": "Hold up, what exactly did you hack?"
     },
     {

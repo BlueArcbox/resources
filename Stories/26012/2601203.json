@@ -1,0 +1,129 @@
+[
+    {
+        "CharacterId": 26012,
+        "MessageJP": "キリノ（水着）",
+        "MessageKR": "키리노(수영복)",
+        "MessageTW": "桐乃（泳裝）",
+        "MessageEN": "Kirino (Swimsuit)"
+    },
+    {
+        "MessageId": 260110200,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 260120200,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 260120200,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 260120210,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生！こんにちは、キリノです！",
+        "MessageKR": "선생님! 안녕하십니까! 키리노입니다!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 260120210,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 260120220,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生のおかげで、ライフセーバーの訓練が終了しました！",
+        "MessageKR": "선생님의 도움 덕에 라이프가드 임무를 위한 훈련을 마치고, 이제 마지막 점검을 하려 합니다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 260120220,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 260120230,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "おめでとう、キリノ",
+        "MessageKR": "축하해, 키리노.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 260120230,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 260120231,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "これも先生が協力してくださったおかげです！",
+        "MessageKR": "선생님께서 물심양면으로 도와주신 덕분입니다!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 260120231,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 260120240,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "最後に訓練の復習をしようと思っているのですが、また付き合っていただけないでしょうか？",
+        "MessageKR": "그런 뜻에서 훈련의 마무리에 참관을 요청드릴까 하는데, 혹시 괜찮으신가요?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 260120240,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 260120250,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "もちろん行くよ",
+        "MessageKR": "물론이지. 꼭 갈게.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 260120250,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 260120251,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ありがとうございます！",
+        "MessageKR": "감사합니다!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 260120251,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 260110257,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "今度こそ、成長した姿をお見せしましょう！",
+        "MessageKR": "마침내 유종의 미를 거둘 수 있겠네요!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 260110257,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "キリノ（水着）の絆イベントへ",
+        "MessageKR": "키리노(수영복)의 인연스토리로",
+        "MessageTW": "前往桐乃（泳裝）的羈絆劇情",
+        "MessageEN": "Go to Kirino (Swimsuit)'s Event"
+    }
+]

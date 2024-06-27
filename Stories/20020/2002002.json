@@ -39,7 +39,7 @@
         "ImagePath": "",
         "MessageJP": "うん、そうだよ",
         "MessageKR": "아, 응. 그렇게 됐는데.",
-        "MessageTW": "嗯，對唷",
+        "MessageTW": "嗯，是這樣沒錯",
         "MessageEN": "So it seems."
     },
     {
@@ -51,7 +51,7 @@
         "ImagePath": "",
         "MessageJP": "では、用事が終わりましたら……そうですね、15時頃でどうでしょう？",
         "MessageKR": "그럼 볼일이 끝나시면, 오후 3시쯤 해서 잠깐 저를 찾아와 주실 수 있겠나요?",
-        "MessageTW": "那麼，辦完事情之後……嗯，下午3點左右如何呢？",
+        "MessageTW": "那麼可以麻煩您在辦完事情之後……大約下午3點過來一趟嗎？",
         "MessageEN": "In that case, could you come by to see me at three in the afternoon once you're done?"
     },
     {
@@ -63,7 +63,7 @@
         "ImagePath": "",
         "MessageJP": "……お願いしたいことがありまして",
         "MessageKR": "부탁드리고 싶은 것이 조금 있어서…….",
-        "MessageTW": "……有件事想拜託老師",
+        "MessageTW": "我有件事想請您幫忙……",
         "MessageEN": "There's something I need to ask of you..."
     },
     {

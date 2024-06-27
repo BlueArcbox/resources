@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "ようやく百花繚乱が元に戻ってきたから",
         "MessageKR": "슬슬 백화요란의 업무가 정상 궤도에 오르고 있어. ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "百花繚亂的工作慢慢步入正軌了",
+        "MessageEN": "The Hyakkaryouran slowly meanders back to normalcy. "
     },
     {
         "MessageId": 100830020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今後の業務提携について話しておきたいんだけど",
         "MessageKR": "그러니 더 늦기 전에 샬레와 백화요란 간의 업무 협력에 대해 논하고 싶은데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以我想趁早對夏萊和百花繚亂之間的業務合作進行討論",
+        "MessageEN": "It seems timely to discuss the manner of the Hyakkaryouran's and Schale's relationship."
     },
     {
         "MessageId": 100830021,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "これから時間もらえる？",
         "MessageKR": "시간 괜찮을까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在有時間嗎？",
+        "MessageEN": "If you are free."
     },
     {
         "MessageId": 100830030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "もちろん大丈夫だよ",
         "MessageKR": "아, 시간이라면 괜찮아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，我剛好有空",
+        "MessageEN": "Nothing on my schedule!"
     },
     {
         "MessageId": 100830040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "そう",
         "MessageKR": "그래.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是嗎",
+        "MessageEN": "Good."
     },
     {
         "MessageId": 100830041,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "じゃ、調停室で待ってるから",
         "MessageKR": "그렇다면 백화요란의 조정실에서 이야기를 나눴으면 해.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那就在百花繚亂的調停室討論吧",
+        "MessageEN": "I will receive you at the Hyakkaryouran regulatory office."
     },
     {
         "MessageId": 100830050,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "よろしく",
         "MessageKR": "기다리고 있을게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我等你",
+        "MessageEN": "I await your arrival."
     },
     {
         "MessageId": 100820057,

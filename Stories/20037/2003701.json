@@ -1,0 +1,129 @@
+[
+    {
+        "CharacterId": 20037,
+        "MessageJP": "フブキ（水着）",
+        "MessageKR": "후부키(수영복)",
+        "MessageTW": "吹雪（泳裝）",
+        "MessageEN": "Fubuki (Swimsuit)"
+    },
+    {
+        "MessageId": 200360010,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 200370010,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 200370010,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200370020,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "監察官！",
+        "MessageKR": "감찰관! 감찰관!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200370020,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200370030,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "今どこ？忙しい？",
+        "MessageKR": "지금 어디 있어? 바쁜 일이라도 있어?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200370030,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200370040,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "監察官……？",
+        "MessageKR": "감찰관……?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200370030,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200370050,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "のんびりしてるよ",
+        "MessageKR": "아니, 한가하게 돌아다니고 있는데.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200370040,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200370050,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "細かいことは良いの！",
+        "MessageKR": "자, 자, 사소한 건 됐고!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200370050,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200370051,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "至急、パーク内のフードコートに来て",
+        "MessageKR": "지금 바로 파크 내의 푸드코트로 와 줘.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200370051,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200370060,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "市民の安全に関わることだから！急いでね！",
+        "MessageKR": "사람들의 안전과 관련된 급한 공무니까! 얼른 와 줘야 돼!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200370060,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200360067,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "……？",
+        "MessageKR": "……?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200360067,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "フブキ（水着）の絆イベントへ",
+        "MessageKR": "후부키(수영복)의 인연스토리로",
+        "MessageTW": "前往吹雪（泳裝）的羈絆劇情",
+        "MessageEN": "Go to Fubuki (Swimsuit)'s Event"
+    }
+]

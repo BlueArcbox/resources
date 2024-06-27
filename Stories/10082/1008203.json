@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "うーん、青春の定番といえば",
         "MessageKR": "으음. 청춘에 있어 관계성의 정석이라고 하면 ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔嗯，說到青春關係的精髓……",
+        "MessageEN": "Hm... Every youth relationship "
     },
     {
         "MessageId": 100820300,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "やっぱり「アレ」は欠かせないなぁ",
         "MessageKR": "역시 '그걸' 빼놓을 수 없겠지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還是不能少了「那個」吧",
+        "MessageEN": "ABSOLUTELY needs to have \"that\" kind of friendship..."
     },
     {
         "MessageId": 100820301,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "どうして今まで忘れてたんだ……",
         "MessageKR": "응. 맞아, 왜 지금까지 그걸 잊고 있었담.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒錯，為什麼一直忘了那個呢",
+        "MessageEN": "How could I have forgotten all this time?"
     },
     {
         "MessageId": 100820310,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "「アレ」……？",
         "MessageKR": "그거…… 라고 해도 말이야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個……是指什麼？",
+        "MessageEN": "We have to do it! Even if it is...well, \"that.\""
     },
     {
         "MessageId": 100820310,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "それは一体どういう……？",
         "MessageKR": "그게 무슨 관계성인데?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你指的是……？",
+        "MessageEN": "The mysterious pronoun game you're playing is scaring me..."
     },
     {
         "MessageId": 100820320,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "それはだな",
         "MessageKR": "아, 그게 말이지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，那個啊",
+        "MessageEN": "Well, you see..."
     },
     {
         "MessageId": 100820330,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "……",
         "MessageKR": "음….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯……",
+        "MessageEN": "Hm."
     },
     {
         "MessageId": 100820340,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "うーん……",
         "MessageKR": "으음….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔嗯……",
+        "MessageEN": "HMMM..."
     },
     {
         "MessageId": 100820350,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "いや、先に言っちゃうと面白くない！",
         "MessageKR": "아냐, 미리 밝히게 되면 재미가 없을지도!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不，先說出來就沒意思了！",
+        "MessageEN": "I think I'll have you wait a little, Sensei. It's more exciting this way!"
     },
     {
         "MessageId": 100820360,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "よし、次の「青春活動」はこれに決めた！",
         "MessageKR": "좋아. 다음 <청춘 활동> 내용은 정했어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好，我決定下一個「青春活動」的內容了！",
+        "MessageEN": "Our next youth activity is prepared and ready to launch!"
     },
     {
         "MessageId": 100820361,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "明日シャーレに行ってからのお楽しみだ！",
         "MessageKR": "그러니 내일 샬레로 찾아갈게! 선생님!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以明天我會去一趟夏萊！老師！",
+        "MessageEN": "I'm coming to Schale tomorrow, all right?"
     },
     {
         "MessageId": 100820370,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "分かった。それじゃあ、また明日ね",
         "MessageKR": "아, 으응. 알겠어. 그럼 내일 보자. 렌게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，我知道了。那我們明天見，蓮華",
+        "MessageEN": "Okay! Whatever you say, Renge!"
     },
     {
         "MessageId": 100820380,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "うん！",
         "MessageKR": "응!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯！",
+        "MessageEN": "I'll see you then!"
     },
     {
         "MessageId": 100810397,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "き、今日のイベントは取り消しだ！",
         "MessageKR": "오, 오늘 있었던 일은 취소!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今，今天發生的事不算！",
+        "MessageEN": "HEY! Forget everything that happened today, okay?!"
     },
     {
         "MessageId": 100820400,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "そう、取り消し！",
         "MessageKR": "없던 걸로!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當作沒發生吧！",
+        "MessageEN": "As far as we're concerned... Nothing happened at all!"
     },
     {
         "MessageId": 100820410,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "アタシたちに幼馴染は、ハードルが高すぎた！",
         "MessageKR": "응! 소꿉친구는 아직 우리 사이에 허들이 너무 높으니까!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯！就我們的關係來說，青梅竹馬的門檻還太高了！",
+        "MessageEN": "Just erase it forever! The relationship between childhood friends is clearly not something we can recreate!"
     },
     {
         "MessageId": 100820420,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "そ、そうかな？",
         "MessageKR": "그, 그래?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是，是嗎？",
+        "MessageEN": "Really? I thought it went pretty well!"
     },
     {
         "MessageId": 100820430,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "そう、絶対に！",
         "MessageKR": "맞아! 그런 거야!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒錯！就是那樣！",
+        "MessageEN": "Gyah! I said to forget it!"
     },
     {
         "MessageId": 100820431,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "だから次は、違う関係性を考えてくる！",
         "MessageKR": "그러니 다음엔, 다, 다른 관계성으로 찾아갈 테니까!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以下次我會去找其他關係！",
+        "MessageEN": "We're going to try a different kind of relationship!"
     },
     {
         "MessageId": 100820440,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "覚悟しててくれ！師匠！",
         "MessageKR": "각오하라고! 스승님!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "做好覺悟吧！師父！",
+        "MessageEN": "Just you wait, Mentor!"
     },
     {
         "MessageId": 100820450,
@@ -279,7 +279,7 @@
         "ImagePath": "",
         "MessageJP": "は、はい……",
         "MessageKR": "넵…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呃，好……",
+        "MessageEN": "Yes, ma'am."
     }
 ]

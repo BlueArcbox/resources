@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "面白い本があったから",
         "MessageKR": "얼마 전에 읽었던 책이, 제법 재미있었어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我不久前看了一本有趣的書",
+        "MessageEN": "I read a book that was rather stimulating."
     },
     {
         "MessageId": 100830280,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "先生にもオススメしようと思ったんだけど",
         "MessageKR": "괜찮다면 선생님에게도 추천해줄까 해.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可以的話也想推薦給老師",
+        "MessageEN": "I'd like to show it to you, Sensei."
     },
     {
         "MessageId": 100830290,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "え……？",
         "MessageKR": "어…?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦……？",
+        "MessageEN": "...Kikyou?"
     },
     {
         "MessageId": 100830300,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "なに、その反応",
         "MessageKR": "뭐야? 왜 그런 미적지근한 반응이야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "為什麼反應這麼冷淡？",
+        "MessageEN": "I was expecting a rather more enthused reaction."
     },
     {
         "MessageId": 100830310,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "キキョウから初めてプライベートな連絡が来たから……",
         "MessageKR": "아니, 키쿄가 업무 연락 외의 문자를 보내는 게 처음이라.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呃，因為桔梗是第一次發工作以外的訊息……",
+        "MessageEN": "It's just that this is the first time you've texted me for something outside of work."
     },
     {
         "MessageId": 100830310,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "少し驚いたというか、なんというか",
         "MessageKR": "살짝 놀랐다고 할까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我有點驚訝",
+        "MessageEN": "It was a surprise."
     },
     {
         "MessageId": 100830320,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "いいでしょう、別に",
         "MessageKR": "그런 건 아무래도 좋잖아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這沒什麼吧",
+        "MessageEN": "A pleasant one, no?"
     },
     {
         "MessageId": 100830321,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "私だってこういう連絡くらいするよ",
         "MessageKR": "나라도 이 정도의 이야기는 해.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我也是會傳這種訊息的",
+        "MessageEN": "Even I am capable of casual conversation."
     },
     {
         "MessageId": 100830330,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "……やっぱ、やめとくんだった",
         "MessageKR": "…역시 평소 하지 않던 일은 하는 게 아니었어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……果然不該做平時不會做的事",
+        "MessageEN": "Although I feel a strong feeling of regret blossoming."
     },
     {
         "MessageId": 100830331,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "全部あんたのせいだから",
         "MessageKR": "이것도 전부 당신 때문이니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這全部都是你造成的",
+        "MessageEN": "Which is your fault, Sensei."
     },
     {
         "MessageId": 100830340,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "うん、そっか",
         "MessageKR": "그렇다면 영광인데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那真是我的榮幸",
+        "MessageEN": "I never said I wasn't happy about it!"
     },
     {
         "MessageId": 100830350,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "それで？",
         "MessageKR": "됐고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "算了",
+        "MessageEN": "Well, curb your happiness."
     },
     {
         "MessageId": 100830351,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "嫌じゃないなら、調停室まで来て",
         "MessageKR": "괜찮다면 오늘, 백화요란의 조정실을 방문해 줘.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "想來的話就來一趟百花繚亂調停室吧",
+        "MessageEN": "Instead, you may show your gratitude by visiting the regulatory office today."
     },
     {
         "MessageId": 100830360,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "本、貸してあげるから",
         "MessageKR": "책, 빌려줄 테니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我借本書給你",
+        "MessageEN": "I will lend you the book."
     },
     {
         "MessageId": 100830370,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "うん、すぐ行くね",
         "MessageKR": "응, 바로 갈게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，那我現在過去",
+        "MessageEN": "On my way!"
     },
     {
         "MessageId": 100820377,

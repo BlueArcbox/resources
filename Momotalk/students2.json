@@ -629,6 +629,25 @@
         "School": "SRT"
     },
     {
+        "Id": 378,
+        "Name": {
+            "zh": "木乃香",
+            "jp": "コノカ",
+            "tw": "木乃香",
+            "en": "Konoka",
+            "kr": ""
+        },
+        "Avatar": [],
+        "Bio": {
+            "zh": "",
+            "jp": "",
+            "tw": "",
+            "en": ""
+        },
+        "Nickname": ["Konoka"],
+        "School": "Valkyrie"
+    },
+    {
         "Id": 165,
         "Name": {
             "zh": "舞",
@@ -889,7 +908,10 @@
             "en": "Rabu",
             "kr": "라브"
         },
-        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/1/1a/Rabu_Icon.png"],
+        "Avatar": [
+            "https://static.wikia.nocookie.net/blue-archive/images/1/1a/Rabu_Icon.png",
+            "https://static.wikia.nocookie.net/blue-archive/images/a/a9/Rabu_Swimsuit_Icon.png"
+        ],
         "Bio": {
             "zh": "毕竟我是兰舞，钢盔团的领队！",
             "jp": "ヘルメット団のリーダーだからね！",

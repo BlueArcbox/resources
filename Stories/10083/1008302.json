@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 100830070,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "どこ？",
         "MessageKR": "지금 위치는?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你現在在哪裡？",
+        "MessageEN": "Please report your current status."
     },
     {
         "MessageId": 100830080,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "何かあったの？",
         "MessageKR": "응? 키쿄? 갑자기 그런 건 왜…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯？桔梗？為什麼突然問這個……",
+        "MessageEN": "My current... Huh? Kikyou?"
     },
     {
         "MessageId": 100830090,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "私の把握している予定が変わっていなければ",
         "MessageKR": "내가 알고 있는 일정이 바뀌지 않았다면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果我所知道的日程沒有變動",
+        "MessageEN": "If you are adhering to your schedule,"
     },
     {
         "MessageId": 100830091,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "今はシャーレの執務室にいるはずだけど",
         "MessageKR": "지금쯤 샬레 집무실에 있을 것으로 알고 있는데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你現在應該會在夏萊辦公室",
+        "MessageEN": "your current location should be the Schale Executive Office."
     },
     {
         "MessageId": 100830100,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "間違ってた？",
         "MessageKR": "이 정보에 변동은 없을까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這情報有變動嗎？",
+        "MessageEN": "Please confirm."
     },
     {
         "MessageId": 100830110,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "い、いや……いるけど……",
         "MessageKR": "일단 샬레에 있긴 한데요….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我確實是在夏萊沒錯……",
+        "MessageEN": "How do you know where I am...?"
     },
     {
         "MessageId": 100830120,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "そう",
         "MessageKR": "그래. 확인 고마워. ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，感謝",
+        "MessageEN": "Thank you for the confirmation. "
     },
     {
         "MessageId": 100830121,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "じゃあ、すぐ行くから",
         "MessageKR": "그럼 지금 찾아갈게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那我現在過去",
+        "MessageEN": "I will arrive shortly."
     },
     {
         "MessageId": 100830130,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "え？い、今から……？",
         "MessageKR": "어? 지금……? 바로?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？現在……？",
+        "MessageEN": "Shortly? As in, right now?!"
     },
     {
         "MessageId": 100830140,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "……キキョウさん？",
         "MessageKR": "저기. 키쿄 양? 저기요?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "桔梗同學……？",
+        "MessageEN": "Hellooo? Kikyou! Respond to me!"
     },
     {
         "MessageId": 100820157,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "今日は先生に言いくるめられたけど",
         "MessageKR": "오늘은 그렇게 선생님의 말에 넘어갔지만.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然今天讓老師得逞了",
+        "MessageEN": "I allowed you a pass today, Sensei."
     },
     {
         "MessageId": 100830160,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "二度は無いからね",
         "MessageKR": "두 번은 없을 거야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但不會再有第二次",
+        "MessageEN": "Please rest assured there will not be a second time."
     },
     {
         "MessageId": 100830161,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "また連絡する",
         "MessageKR": "다음에 또다시 연락하겠어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我會再聯絡你",
+        "MessageEN": "I will contact you again."
     },
     {
         "MessageId": 100830170,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "うん、楽しみにしてるよ",
         "MessageKR": "응. 기대하고 있을게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，我很期待哦",
+        "MessageEN": "I'll be waiting for your MomoTalk."
     },
     {
         "MessageId": 100830180,
@@ -219,7 +219,7 @@
         "ImagePath": "",
         "MessageJP": "……そう",
         "MessageKR": "…그래.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……是嗎",
+        "MessageEN": "...Okay."
     }
 ]

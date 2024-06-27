@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "大人って、結構服にこだわるよね",
         "MessageKR": "어른들은 옷에 꽤나 신경 쓰는 편이지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "大人對穿著都挺講究的吧？",
+        "MessageEN": "Are adults particular about their clothing?"
     },
     {
         "MessageId": 200320020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "たしかに、そうかもしれない",
         "MessageKR": "그런 편이지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "算是吧",
+        "MessageEN": "I guess it depends."
     },
     {
         "MessageId": 200320020,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "私はあまり詳しくないけど……",
         "MessageKR": "대충 입는 편인데…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我都穿的很隨興……",
+        "MessageEN": "It's not really my priority..."
     },
     {
         "MessageId": 200320030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと時間ができたし、買い物に行こうと思って",
         "MessageKR": "잠시 여유가 생긴 김에 쇼핑을 하려는데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在正好有空，我想趁這個機會去買點東西",
+        "MessageEN": "I have free time. I wanted to use it to go shopping."
     },
     {
         "MessageId": 200320031,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "あんまりファションに詳しくないから、後で先生に意見を聞きたくて",
         "MessageKR": "나는 패션에 대해서 잘 모르니까 선생님과 함께 훈련을 해 보려고.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但我不太瞭解時尚，所以想和老師一起訓練",
+        "MessageEN": "But fashion is foreign to me. You're a teacher, so please educate me."
     },
     {
         "MessageId": 200320040,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "とりあえず、色々持ってくね",
         "MessageKR": "일단 필요한 걸 챙겨서 갈게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我會把需要的東西帶去",
+        "MessageEN": "I will come meet you after gathering supplies."
     },
     {
         "MessageId": 200320050,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "？？？",
         "MessageKR": "???",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "？？？",
+        "MessageEN": "???"
     },
     {
         "MessageId": 200310067,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "先生、今日はありがとう",
         "MessageKR": "선생님. 오늘 어울려줘서 고마워.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，今天謝謝你陪我",
+        "MessageEN": "Thank you for the training today, Sensei."
     },
     {
         "MessageId": 200320070,
@@ -135,7 +135,7 @@
         "ImagePath": "",
         "MessageJP": "また連絡するね",
         "MessageKR": "조만간 연락할게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我會再聯絡你",
+        "MessageEN": "I will contact you soon."
     }
 ]

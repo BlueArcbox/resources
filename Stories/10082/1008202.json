@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生……",
         "MessageKR": "선생님….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師……",
+        "MessageEN": "Sensei..."
     },
     {
         "MessageId": 100820130,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "いや、師匠！",
         "MessageKR": "아니, 청춘의 스승님!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不，青春師父！",
+        "MessageEN": "No, Mentor!"
     },
     {
         "MessageId": 100820140,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "師匠って呼ばれると、ちょっとむず痒いね……",
         "MessageKR": "그 호칭, 아직 좀 낯설고 부끄러운 걸….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我還不是很習慣那個稱號，有點不好意思耶……",
+        "MessageEN": "I still don't know how I feel about that title..."
     },
     {
         "MessageId": 100820150,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "まだ慣れてないのか？",
         "MessageKR": "에이, 뭘 빼고 그래. ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哎呀，何必呢",
+        "MessageEN": "Don't worry about it so much! "
     },
     {
         "MessageId": 100820151,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "もうアタシたちは師弟だろ！",
         "MessageKR": "전에 말했던 것처럼 선생님은 내 청춘의 스승님이니까!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就像之前說的一樣，老師是我的青春師父！",
+        "MessageEN": "You're the one guiding me in my search for my youth!"
     },
     {
         "MessageId": 100820160,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "胸を張っていこう！",
         "MessageKR": "좀 더 가슴과 어깨를 펴도 좋다구!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "挺起胸膛吧！",
+        "MessageEN": "That thought alone should make you stand a little taller!"
     },
     {
         "MessageId": 100820170,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "はい……",
         "MessageKR": "으응….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯……",
+        "MessageEN": "If you say so..."
     },
     {
         "MessageId": 100820180,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "よし、こうしちゃいられない。さっそく青春活動を始めよう",
         "MessageKR": "자자, 이럴 게 아니라. 본격적으로 청춘 활동, 시작해 보자구.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "很好，現在不是說這個的時候，我們正式開始青春活動吧",
+        "MessageEN": "Okay, perfect! Now we've got some youth activities to get to!"
     },
     {
         "MessageId": 100820190,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "今日から直接、師匠の教えを受けるわけだ",
         "MessageKR": "오늘부터 나도 스승님의 가르침을 충실히 따르는….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天我也要當個忠實遵循師父教誨……",
+        "MessageEN": "Beginning today, I'm going to be"
     },
     {
         "MessageId": 100820191,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "立派な青春を送ってみせる！",
         "MessageKR": "한 명의 가련하고 뿌듯한 학생이 될 테니까!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "惹人憐愛、令人欣慰的好學生！",
+        "MessageEN": "a great pursuer of youth that follows your teachings faithfully!"
     },
     {
         "MessageId": 100820200,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "一点の曇りもない、力強い宣言……！",
         "MessageKR": "그야말로 한 점 흐림 없는 당찬 선언…!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這沒有一絲含糊，充滿雄心的宣言……！",
+        "MessageEN": "Said with confidence and pride!"
     },
     {
         "MessageId": 100820200,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "その調子だよ、レンゲ！",
         "MessageKR": "엄청 렌게 다운 걸!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真像蓮華的作風！",
+        "MessageEN": "That's just like you Renge!"
     },
     {
         "MessageId": 100820210,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "よっし！調停室に集合だ、師匠！",
         "MessageKR": "자아, 그럼 오늘도 백화요란의 조정실에서 집합이야! 스승님!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好，那今天也在百花繚亂的調停室集合吧！師父！",
+        "MessageEN": "Haha, yes! Meet me at the Hyakkaryouran's regulatory office, Mentor!"
     },
     {
         "MessageId": 100810227,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "先生、家でじっくり考えたんだけど",
         "MessageKR": "선생님. 집에 돌아와서 곰곰이 생각해 본 건데 말이야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，我回到家裡仔細想了一下",
+        "MessageEN": "I was thinking about this on my way home, but..."
     },
     {
         "MessageId": 100820230,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "やっぱり先生は先生だから",
         "MessageKR": "역시 선생님은 선생님이니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "果然老師就是老師",
+        "MessageEN": "You know, since Sensei is a teacher..."
     },
     {
         "MessageId": 100820231,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "転校生役は無理があったような……",
         "MessageKR": "전학생은 무리였지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "轉學生還是有點強人所難了吧？",
+        "MessageEN": "The whole transfer student thing was a bit much, wasn't it?"
     },
     {
         "MessageId": 100820240,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "今さら……？",
         "MessageKR": "그걸 이제 와서 말하기야……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼現在才說這些……？",
+        "MessageEN": "This is just occurring to you now...?"
     },
     {
         "MessageId": 100820250,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "ま、まぁ、関係性は転校生だけじゃないし！",
         "MessageKR": "뭐, 관계성은 전학생만 있는 건 아니니까!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，不過我所說的關係也不是只有轉學生！",
+        "MessageEN": "Well, relationships aren't exclusive to transfer students!"
     },
     {
         "MessageId": 100820251,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "次は新しい関係性を試してみよう！",
         "MessageKR": "다음엔 새로운 관계성을 생각해 볼게!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "之後我會想想新的關係！",
+        "MessageEN": "I'll think of something better next time!"
     },
     {
         "MessageId": 100820260,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "うん、いつでも呼んでね",
         "MessageKR": "뭐, 렌게가 그렇게 말한다면야. ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，既然蓮華都這麼說了……",
+        "MessageEN": "I believe in you, Renge! "
     },
     {
         "MessageId": 100820270,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "また次も楽しみにしてるよ",
         "MessageKR": "그럼, 다음에 또 하자. <청춘 활동>",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我們下次再進行「青春活動」吧",
+        "MessageEN": "We'll find more youth activities next time!"
     },
     {
         "MessageId": 100820280,
@@ -291,7 +291,7 @@
         "ImagePath": "",
         "MessageJP": "ありがとう、先生！",
         "MessageKR": "응! 다음에 또!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯！沒問題！",
+        "MessageEN": "Yes! Next time!"
     }
 ]

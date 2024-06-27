@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、気づけば「青春活動」を始めてから……",
         "MessageKR": "선생님. 어느덧 우리들이 <청춘 활동>을 시작한 지도….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，不知不覺間，從我們開始「青春活動」……",
+        "MessageEN": "We've been participating in youth activities"
     },
     {
         "MessageId": 100820470,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "随分と経ったもんだな",
         "MessageKR": "제법 오랜 시간이 지났네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "已經過了一段時間了啊",
+        "MessageEN": "for a while now, Sensei."
     },
     {
         "MessageId": 100820480,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "そうだね",
         "MessageKR": "그러게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就是說啊",
+        "MessageEN": "Yes, we have."
     },
     {
         "MessageId": 100820480,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "もうそんなに経ったっけ？",
         "MessageKR": "벌써 그렇게 됐나?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "已經過那麼久了嗎？",
+        "MessageEN": "It's gone by in a flash!"
     },
     {
         "MessageId": 100820490,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "失敗もあったけど……",
         "MessageKR": "좌충우돌하고 제대로 감을 잡지 못할 때도 있었지만.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然也有過橫衝直撞，抓不到感覺的時候……",
+        "MessageEN": "I've been forging a path in terrain I've never treaded before."
     },
     {
         "MessageId": 100820491,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "それでも、一歩ずつ着実に進んでるはずだ",
         "MessageKR": "음음, 그래도 한 걸음씩 착실히 전진하고 있단 느낌이 들어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，不過還是有一步一腳印、踏實前進的感覺",
+        "MessageEN": "As difficult as it's been, I've overcome obstacles and made slow and steady progress!"
     },
     {
         "MessageId": 100820500,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "というわけで、今日も青春活動の時間がやってきた！",
         "MessageKR": "그런 의미에서 오늘도 청춘 활동을 위한 집합이야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以今天也為了青春活動集合吧",
+        "MessageEN": "We need to keep the momentum going, Sensei!"
     },
     {
         "MessageId": 100820510,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "シャーレにお邪魔するね！",
         "MessageKR": "바로 샬레로 갈 테니까!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我馬上過去夏萊！",
+        "MessageEN": "I'm coming to Schale right now!"
     },
     {
         "MessageId": 100820520,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "うん、待ってるよ",
         "MessageKR": "응. 기다리고 있을게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，我等你",
+        "MessageEN": "It's a good thing I didn't have plans today..."
     },
     {
         "MessageId": 100820530,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "じゃあ、また後で！",
         "MessageKR": "그럼 있다가 봐!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼待會見！",
+        "MessageEN": "I'll see you soon!"
     },
     {
         "MessageId": 100810547,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "先生、色々迷惑をかけたけど……",
         "MessageKR": "여러 가지로 폐를 끼쳐버렸지만 말이야. 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然造成很多麻煩，但是老師……",
+        "MessageEN": "I've been a real nuisance, haven't I, Sensei?"
     },
     {
         "MessageId": 100820550,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "その……",
         "MessageKR": "그게….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個……",
+        "MessageEN": "I'm sorry..."
     },
     {
         "MessageId": 100820560,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "これからも「青春活動」、頑張ろうね",
         "MessageKR": "앞으로도 <청춘 활동> 열심히 하자. 렌게. ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "以後也認真進行「青春活動」吧，蓮華",
+        "MessageEN": "I want to experience more youth activities with you, Renge. "
     },
     {
         "MessageId": 100820560,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "心配してくれてありがとう",
         "MessageKR": "걱정해줘서 고마워.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝你為我擔心",
+        "MessageEN": "There's nothing to apologize for."
     },
     {
         "MessageId": 100820570,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "う……うん",
         "MessageKR": "아, 응.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，嗯",
+        "MessageEN": "Oh... Really?"
     },
     {
         "MessageId": 100820580,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "分かってるじゃないか！せんせ……いや、師匠！",
         "MessageKR": "잘 알고 있네! 선생… 아니 스승님!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你很清楚嘛！老師……不，師父！",
+        "MessageEN": "Thank you, Sen"
     },
     {
         "MessageId": 100820581,
@@ -231,7 +231,7 @@
         "ImagePath": "",
         "MessageJP": "また一緒に「青春活動」、しようね！",
         "MessageKR": "그럼 다음에 또 같이 활동하자! ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "之後再一起活動吧！",
+        "MessageEN": "I mean... Mentor! We'll talk again soon! "
     }
 ]

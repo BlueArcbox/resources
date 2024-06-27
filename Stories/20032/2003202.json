@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "約束の日だよ",
         "MessageKR": "선생님 그날이 왔어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，那天到了",
+        "MessageEN": "The day has come, Sensei."
     },
     {
         "MessageId": 200320090,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "約束……？",
         "MessageKR": "그날?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哪天？",
+        "MessageEN": "What day?"
     },
     {
         "MessageId": 200320100,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "一緒に服を選んでくれるんだよね？",
         "MessageKR": "저번에 옷 고르는 것을 도와주기로 했잖아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "上次不是說好要幫我挑衣服嗎？",
+        "MessageEN": "You previously agreed to help me shop for clothes."
     },
     {
         "MessageId": 200320101,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "前に約束したでしょ",
         "MessageKR": "오늘이 그날이야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天就是那個日子",
+        "MessageEN": "Today is the day you will make good on your promise."
     },
     {
         "MessageId": 200320110,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "今から送る場所に来て",
         "MessageKR": "지금 보내는 위치로 와 줘.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "快到我傳給你的地點來",
+        "MessageEN": "I'm sending you the location now. Please come immediately."
     },
     {
         "MessageId": 200320120,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "わ、分かった……！",
         "MessageKR": "엄청난 박력…!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好強的魄力……！",
+        "MessageEN": "You're so unintentionally assertive..."
     },
     {
         "MessageId": 200310137,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "今日はありがとう、先生",
         "MessageKR": "오늘은 정말 고마워. 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天真的很謝謝你，老師",
+        "MessageEN": "I'm very grateful for your assistance today. Sensei."
     },
     {
         "MessageId": 200320140,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "プレゼントまでもらって……",
         "MessageKR": "옷을 골라준 것뿐만 아니라 선물까지…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不但幫我挑衣服還送我禮物……",
+        "MessageEN": "You fulfilled your original directive and purchased me a gift."
     },
     {
         "MessageId": 200320150,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "気にしないで",
         "MessageKR": "신경 쓰지 마.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不用客氣",
+        "MessageEN": "I was happy to do it."
     },
     {
         "MessageId": 200320160,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "氷海に行くときは、絶対に防寒着で来てね！？",
         "MessageKR": "빙해에 갈 때는 수영복만 입지 말고 꼭 그 차림으로 가는 거야!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "去冰海的時候不能只穿泳裝，那件衣服也一定要穿著哦！",
+        "MessageEN": "PLEASE don't wear just a swimsuit if you're going to the Glacial Sea."
     },
     {
         "MessageId": 200320170,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "うん。これ、すごく気に入ったから",
         "MessageKR": "응. 이거 정말 마음에 들어서.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，我真的很喜歡這件衣服",
+        "MessageEN": "Yes. I like this."
     },
     {
         "MessageId": 200320171,
@@ -171,7 +171,7 @@
         "ImagePath": "",
         "MessageJP": "毎日着るね",
         "MessageKR": "되도록 매일 입고 다니도록 할게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我會盡可能每天都穿的",
+        "MessageEN": "I will wear it as often as possible."
     }
 ]

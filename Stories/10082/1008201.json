@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、聞いてくれ",
         "MessageKR": "선생님. 놀라지 말고 들어….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師你聽我說，可別嚇到了……",
+        "MessageEN": "Sensei. Don't be alarmed!"
     },
     {
         "MessageId": 100820020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "不破レンゲ、なんと人生最大の危機に陥っているんだ！",
         "MessageKR": "그야말로 나 후와 렌게, 일생일대 최대의 위기야!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我不破蓮華碰到了這輩子最大的危機！",
+        "MessageEN": "But this is the greatest obstacle I've ever had to face!"
     },
     {
         "MessageId": 100820030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "急に何のことやら……",
         "MessageKR": "너무 갑작스러운 이야기라 따라가기 힘들지만….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這話說得太突然了，我跟不上……",
+        "MessageEN": "It's a pretty convoluted problem, but..."
     },
     {
         "MessageId": 100820030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "レンゲ、どうかしたの？",
         "MessageKR": "렌게, 무슨 일이야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "蓮華，發生什麼事了？",
+        "MessageEN": "Is everything okay, Renge?"
     },
     {
         "MessageId": 100820040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ここ数日、ずっと考えていたんだけど",
         "MessageKR": "요사이에 계속해서 고민하고 고민하고 생각한 끝에",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "最近我一直在思考一件事",
+        "MessageEN": "I've been thinking really hard about some things recently,"
     },
     {
         "MessageId": 100820041,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "アタシ、気づいてしまったんだ",
         "MessageKR": "난 마침내 깨달았어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "然後我終於想通了",
+        "MessageEN": "and I think I've finally figured out the root of the problem!"
     },
     {
         "MessageId": 100820050,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "このままじゃ、何もかも終わりかもしれなくて！",
         "MessageKR": "이대로 있으면 이거고 저거고 전부 끝장일지도 모른다는 걸!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "再這樣下去，一切可能會通通完蛋！",
+        "MessageEN": "At this rate, it might be the end of everything! No matter what I do!"
     },
     {
         "MessageId": 100820060,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "ごめん、どういう事！？",
         "MessageKR": "미안, 렌게. 역시 이야기를 따라가기가 힘든데?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "抱歉，蓮華，我還是跟不太上！",
+        "MessageEN": "I'm sorry, Renge. I have no idea what you're saying!"
     },
     {
         "MessageId": 100820070,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "ええっと……やっぱりモモトークじゃ説明が難しいな……",
         "MessageKR": "으으윽! 그런가… 역시 모모톡만으로 전하는 건 무리일지도….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呃……在MomoTalk上好像很難說清楚……",
+        "MessageEN": "Huh?! Really? Uh... Maybe it's too complicated to explain over MomoTalk."
     },
     {
         "MessageId": 100820071,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "こういうのは直接話さないとだよね！",
         "MessageKR": "하긴 진심이란 얼굴을 맞대고 부딪칠 때야말로 비로소 전해지는 법이니까!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "也對，要傳達真心果然還是得面對面吧！",
+        "MessageEN": "After all, you can't feel my burning passion over text!"
     },
     {
         "MessageId": 100820080,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "それは構わないけど……",
         "MessageKR": "어?! 그쪽의 이야기로 가는 거야?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯！？怎麼扯到那邊去了！？",
+        "MessageEN": "Oh? You must feel really strongly about this!"
     },
     {
         "MessageId": 100820090,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "先生、それでなんだけど……",
         "MessageKR": "으음! 그럼 선생님 이러고 있을 게 아니라…",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，現在不是說這個的時候……",
+        "MessageEN": "You bet! Which is why we can't waste another moment, Sensei!"
     },
     {
         "MessageId": 100820091,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "頼む、相談に乗って！",
         "MessageKR": "부탁이야! 상담 좀 해주라!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "拜託！讓我諮詢一下吧！",
+        "MessageEN": "Please! I need your advice!"
     },
     {
         "MessageId": 100820100,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "もちろんだよ",
         "MessageKR": "뭐, 상담이라면야 얼마든지 괜찮지만….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，這倒是沒問題……",
+        "MessageEN": "I'm always here to talk, but..."
     },
     {
         "MessageId": 100820110,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "本当！？",
         "MessageKR": "진짜?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真的嗎！？",
+        "MessageEN": "Really?!"
     },
     {
         "MessageId": 100820111,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "じゃあ待ってるから！",
         "MessageKR": "알았어! 그럼 기다리고 있을게!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好！那我等你喔！",
+        "MessageEN": "Great! Then I'll be waiting!"
     },
     {
         "MessageId": 100810117,
