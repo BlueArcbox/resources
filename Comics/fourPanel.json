@@ -1785,5 +1785,24 @@
             }
         ],
         "pictures_count": 2
+    },
+    {
+        "dynamic_id": 948047243907170320,
+        "description": "【国际服资讯】【官方四格漫画第140话】 \n▎紧急状况\n我的钻石!!200颗钻石!!\n\n差一点点阿!!! 比上课签到还认真欸!!!\n ​\n#碧蓝档案漫画连载中# #第140话# #蔚蓝档案# #碧蓝档案# #BlueArchive#",
+        "pictures": [
+            {
+                "img_height": 1280,
+                "img_width": 800,
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/5aaa39c450ec477f3cdfe4f135a911b837507923.jpg",
+                "img_size": 190.88999938964844
+            },
+            {
+                "img_height": 580,
+                "img_width": 800,
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/8f29716f6e5471fb75c676301fc79eef37507923.jpg",
+                "img_size": 39.439998626708984
+            }
+        ],
+        "pictures_count": 2
     }
 ]

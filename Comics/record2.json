@@ -814,5 +814,18 @@
             }
         ],
         "pictures_count": 1
+    },
+    {
+        "dynamic_id": 947580402407571474,
+        "description": "【青春record】官方漫画第62话\n老师，即使是休息时间，桐乃同学也在全力以赴！\n\n🔷作:せるげい(@pattundo)老师\n\n#碧蓝档案##蔚蓝档案#",
+        "pictures": [
+            {
+                "img_height": 1280,
+                "img_width": 908,
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/924a13c921f55e8cafd958c6c3977f1437507923.jpg",
+                "img_size": 881.030029296875
+            }
+        ],
+        "pictures_count": 1
     }
 ]
