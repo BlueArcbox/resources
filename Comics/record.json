@@ -818,5 +818,18 @@
             }
         ],
         "pictures_count": 1
+    },
+    {
+        "dynamic_id": 955360735694684194,
+        "description": "【青春记录】 第65话\n老师，请看看风纪委员会工作的样子吧！\n🔷作:せるげい(@pattundo)老师  \n#碧蓝档案##蔚蓝档案#",
+        "pictures": [
+            {
+                "img_height": 1900,
+                "img_width": 1348,
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/02f7f0abe3091bc58e2d4004ef703c56436037759.jpg",
+                "img_size": 1116.1400146484375
+            }
+        ],
+        "pictures_count": 1
     }
 ]

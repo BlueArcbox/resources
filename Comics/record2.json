@@ -853,5 +853,37 @@
             }
         ],
         "pictures_count": 1
+    },
+    {
+        "dynamic_id": 954635706533150729,
+        "description": "【日服资讯】【Pick Up招募・预告】\n复刻Pick Up招募「積み重ねる誓いの翼」&「積み上げる尽力の翼」即将开启！\n\n\n#碧蓝档案##蔚蓝档案#",
+        "pictures": [
+            {
+                "img_height": 655,
+                "img_width": 1165,
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/7d53eb6b9d4c108d346507547b284cfd37507923.jpg",
+                "img_size": 215.38999938964844
+            },
+            {
+                "img_height": 655,
+                "img_width": 1164,
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/f709c6be02b441ee4489bb70f72e479137507923.jpg",
+                "img_size": 258.1700134277344
+            }
+        ],
+        "pictures_count": 2
+    },
+    {
+        "dynamic_id": 955372031413583892,
+        "description": "【青春record】官方漫画第65话\n请看风纪委员会正在工作的情景，老师！\n\n🔷作者：せるげい（@pattundo）老师\n\n#碧蓝档案##蔚蓝档案#",
+        "pictures": [
+            {
+                "img_height": 1057,
+                "img_width": 750,
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/2d9c3af9f32100e0730b3a2936003ec737507923.jpg",
+                "img_size": 143.02999877929688
+            }
+        ],
+        "pictures_count": 1
     }
 ]
