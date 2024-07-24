@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "前回の山で録音した音源を確認していたのですが……",
         "MessageKR": "저번 산행 때 녹음한 사운드를 정리하던 중인데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我在整理上次爬山錄下的聲音時……",
+        "MessageEN": "I was editing my sound bytes from our last hike"
     },
     {
         "MessageId": 100840230,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "どうやら一部ノイズが入っていたようで……",
         "MessageKR": "아무래도 일부 사운드에 잡음이 섞여 들어간 것 같아서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "發現有一部分混入了雜音……",
+        "MessageEN": "and some weird sounds got mixed into my recordings."
     },
     {
         "MessageId": 100840231,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "もう一度、行く必要があります",
         "MessageKR": "시간이 생길 때 다시 한번 산에 다녀와야 할 것 같습니다……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以之後必須再找時間上山一趟……",
+        "MessageEN": "I think I need to go back to the mountains to try again."
     },
     {
         "MessageId": 100840240,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "私の声が入っちゃってたとか……？",
         "MessageKR": "혹시 내 목소리가 섞여 들어간 거야……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "難道是錄到我的聲音了嗎……？",
+        "MessageEN": "Did my voice end up getting picked up?"
     },
     {
         "MessageId": 100840250,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "いえ、そうではなく……",
         "MessageKR": "아뇨, 그쪽의 문제는 아닙니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不，不是這樣的",
+        "MessageEN": "No, no."
     },
     {
         "MessageId": 100840251,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "むしろ先生の声が入っていたら、色々と使い道が……",
         "MessageKR": "오히려 선생님의 목소리가 섞였다면 더 좋은 용도가",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果錄到了老師的聲音，反而會有其他更好的用途",
+        "MessageEN": "I would've kept the recordings forever if Sensei's voice was in them..."
     },
     {
         "MessageId": 100840260,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "あ",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah."
     },
     {
         "MessageId": 100840270,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "コタマは相変わらずだね……",
         "MessageKR": "코타마는 여전하구나……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "小玉還是那個小玉呢……",
+        "MessageEN": "You never change, Kotama."
     },
     {
         "MessageId": 100840280,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "また用があるなら一緒に行こうか",
         "MessageKR": "그나저나 다시 산에 간다면 나도 같이 데려가 주지 않을래?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "對了，如果要上山的話可以帶我一起去嗎？",
+        "MessageEN": "Take me with you the next time you go to the mountains!"
     },
     {
         "MessageId": 100840290,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "はい？",
         "MessageKR": "네?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？",
+        "MessageEN": "Huh?"
     },
     {
         "MessageId": 100840291,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "先生も何か山に用事があるのですか？",
         "MessageKR": "선생님께서도 산에 뭔가 볼일이 있으신가요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師到山上有什麼事嗎？",
+        "MessageEN": "Do you have work to do for Schale out in the wilderness?"
     },
     {
         "MessageId": 100840300,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "いつも中腹で戻ってたから……",
         "MessageKR": "그동안 매번 산 중턱에서 돌아왔었으니까……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為我們都只爬到半山腰就回來了……",
+        "MessageEN": "Well, we always end up giving up halfway through the hike."
     },
     {
         "MessageId": 100840310,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "今度は一緒に山頂まで登ってみようかなって",
         "MessageKR": "이번에는 같이 산 정상까지 올라가 보자.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這次就一起爬到山頂吧",
+        "MessageEN": "Let's reach the top of the mountain together!"
     },
     {
         "MessageId": 100840320,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "はい",
         "MessageKR": "네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "Okay."
     },
     {
         "MessageId": 100840330,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "……はい？",
         "MessageKR": "……네?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……嗯？",
+        "MessageEN": "...Okay?"
     },
     {
         "MessageId": 100830337,

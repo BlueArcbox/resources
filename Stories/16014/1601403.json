@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "せんせい",
         "MessageKR": "선ㅅ앵님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "SensEi"
     },
     {
         "MessageId": 160140220,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師\u200b",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 160140230,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "聞きたいことがあるの！",
         "MessageKR": "궁금한 게 생겼어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我有個問題！",
+        "MessageEN": "I'm curious!"
     },
     {
         "MessageId": 160140240,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "どうしたの？",
         "MessageKR": "뭐가 궁금하니, 이부키?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "什麼問題呢，伊吹？",
+        "MessageEN": "What is it, Ibuki?"
     },
     {
         "MessageId": 160140250,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "先生はいつも忙しそうだけど",
         "MessageKR": "샬레에 갈 때마다 선생님은 일을 하고 있잖아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我每次去夏萊的時候，老師不是都在工作嗎？",
+        "MessageEN": "You're always working whenever I visit Schale, right?"
     },
     {
         "MessageId": 160140260,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "お仕事って楽しいの？",
         "MessageKR": "일이 그렇게 재미있는 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "工作那麼有趣嗎？",
+        "MessageEN": "Is work really that much fun?"
     },
     {
         "MessageId": 160140270,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "そ、そうだね……",
         "MessageKR": "그, 그렇게 생각할 수도 있겠네…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要，要這麼想也不是不行……",
+        "MessageEN": "I-I suppose it looks that way..."
     },
     {
         "MessageId": 160140270,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "た、楽しいよ……うん……",
         "MessageKR": "재미……있죠……그럼요…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然……有趣……最有趣了……",
+        "MessageEN": "It's...fun... Most days..."
     },
     {
         "MessageId": 160140280,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "それで急にどうしたの？",
         "MessageKR": "근데 갑자기 그건 왜 궁금해진 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過為什麼突然好奇這種事呢？",
+        "MessageEN": "But what about my work made you so curious?"
     },
     {
         "MessageId": 160140290,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "うーん",
         "MessageKR": "응, 그게",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，那個",
+        "MessageEN": "Well..."
     },
     {
         "MessageId": 160140300,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "イブキ、文字だと時間かかるから",
         "MessageKR": "이부키는 손가락이 느리니까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "伊吹打字很慢",
+        "MessageEN": "I'm not great at typing,"
     },
     {
         "MessageId": 160140310,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "会って話すね！",
         "MessageKR": "직접 가서 말해줄게!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我直接去跟你說！",
+        "MessageEN": "so I'll tell you in person!"
     },
     {
         "MessageId": 160130317,

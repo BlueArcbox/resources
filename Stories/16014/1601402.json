@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "せんせい！",
         "MessageKR": "선생님선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師老師",
+        "MessageEN": "SenseiSensei"
     },
     {
         "MessageId": 160140090,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "イブキたよ！",
         "MessageKR": "이부키ㅇ빕니다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我是伊吹",
+        "MessageEN": "It's Ibukii"
     },
     {
         "MessageId": 160140091,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "イブキだよ！",
         "MessageKR": "이부키입니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是伊吹唷！",
+        "MessageEN": "It's Ibuki!"
     },
     {
         "MessageId": 160140100,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "今日も遊びに行っていい？",
         "MessageKR": "샬레에 놀러 가도 돼?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我可以去夏萊玩嗎？",
+        "MessageEN": "Can I come hang out at Schale?"
     },
     {
         "MessageId": 160140110,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "イブキ、先生と遊びたい！",
         "MessageKR": "오늘 당번은 아니지만 선생님이랑 놀고 싶어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然今天不是值日生，但我想跟老師玩！",
+        "MessageEN": "I'm not the Student Rep today, but I want to play games again!"
     },
     {
         "MessageId": 160140120,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "もちろん、待ってるね",
         "MessageKR": "물론이지. 기다리고 있을게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然，我會等你",
+        "MessageEN": "Sure. I'll be waiting."
     },
     {
         "MessageId": 160140120,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "気をつけておいでね",
         "MessageKR": "뛰지 말고 조심해서 와야 한다?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "來的路上要小心，不可以蹦蹦跳跳的知道嗎？",
+        "MessageEN": "No running in the halls to get here, okay?"
     },
     {
         "MessageId": 160140130,
@@ -110,9 +110,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "ありがとう！すぐ行くね、せんせい！",
-        "MessageKR": "응! 고마워! 조금 있다가 만ㄴ나요 선ㅅ생님!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "응! 고마워! 이따가 만ㄴ나요 선ㅅ생님!",
+        "MessageTW": "嗯！謝謝！待會見囉，老師！",
+        "MessageEN": "Yup! Thanks! I'll see you soon, SenSei!"
     },
     {
         "MessageId": 160130147,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 160140141,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "今日すっごく楽しかった！",
         "MessageKR": "오늘 너무 재밌었어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天太有趣了！",
+        "MessageEN": "Today was so fun!"
     },
     {
         "MessageId": 160140150,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "先生とゲームして、鬼ごっこして、かくれんぼして……",
         "MessageKR": "선생님이랑 게임도 하고, 술래잡기도 하고, 숨바꼭질도 하고…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不但和老師玩遊戲，還玩了捉迷藏和躲貓貓……",
+        "MessageEN": "I got to play tag and hIDe and seek with Sensei at Schale Park..."
     },
     {
         "MessageId": 160140160,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "あんなに遊んで疲れてない？",
         "MessageKR": "하루 종일 뛰어놀았는데 힘들지는 않아, 이부키?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "伊吹，整天蹦蹦跳跳的不會累嗎？",
+        "MessageEN": "Aren't you tired from all that running, Ibuki?"
     },
     {
         "MessageId": 160140170,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "全然疲れてないよ！",
         "MessageKR": "아니, 하나도 안 힘들어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "才不會，一點都不累！",
+        "MessageEN": "Nope, not a bit!"
     },
     {
         "MessageId": 160140171,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "イブキ、明日も遊びたい！",
         "MessageKR": "선생님도 그렇지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師也是吧？",
+        "MessageEN": "Why? Are you, Sensei?"
     },
     {
         "MessageId": 160140180,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "も、もちろん私も遊びたいよ",
         "MessageKR": "무, 물론이지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那，那當然",
+        "MessageEN": "O-Of course not."
     },
     {
         "MessageId": 160140190,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "やったぁ！遊びに行くね！",
         "MessageKR": "그럼 다음번에 또 샬레 파크에 놀러 갈게!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那我下次還要再去夏萊遊樂園玩！",
+        "MessageEN": "Then I can't wait to play at Schale Park again!"
     },
     {
         "MessageId": 160140200,
@@ -231,7 +231,7 @@
         "ImagePath": "",
         "MessageJP": "じゃあまたね、先生！",
         "MessageKR": "또 같이 놀자, 선생님!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "之後再一起玩吧，老師！",
+        "MessageEN": "Let's play again soon, Sensei!"
     }
 ]

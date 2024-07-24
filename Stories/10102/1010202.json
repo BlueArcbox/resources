@@ -1,0 +1,141 @@
+[
+    {
+        "CharacterId": 10102,
+        "MessageJP": "ヒヨリ（水着）",
+        "MessageKR": "히요리(수영복)",
+        "MessageTW": "日和（泳装）",
+        "MessageEN": "Hiyori (Swimsuit)"
+    },
+    {
+        "MessageId": 101010170,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 101020170,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 101020170,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101020180,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "おかしいですね……",
+        "MessageKR": "이상하네요…….",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101020180,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101020190,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "どうして日光に当たると肌が痛くなるんでしょう……？",
+        "MessageKR": "왜 햇빛 아래에서는 피부가 아플까요……?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101020190,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101020191,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "やっぱり、ビーチを楽しむのもつらいですね",
+        "MessageKR": "역시 해변을 즐기는 것도 고통인 거네요",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101020191,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101020200,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "私には夏を楽しむことさえ許されないんです……",
+        "MessageKR": "저한테 여유와 낭만은 허락되지 않는 거네요",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101020200,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101020210,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "日焼け止めは塗った？",
+        "MessageKR": "자외선 차단제는 발랐어?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101020210,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101020211,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ええと",
+        "MessageKR": "네",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101020211,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101020212,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "一応、代わりのものは塗っていますけど",
+        "MessageKR": "일단 없어서 대체품을 바르긴 했는데요",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101020212,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101020220,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "どんどん肌が痒く……",
+        "MessageKR": "갈수록 피부가 따갑네요",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101020220,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101010227,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "代わりのもの……？",
+        "MessageKR": "대체품……?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101010227,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ヒヨリ（水着）の絆イベントへ",
+        "MessageKR": "히요리(수영복)의 인연스토리로",
+        "MessageTW": "前往日和（泳装）的羈絆劇情",
+        "MessageEN": "Go to Hiyori (Swimsuit)'s Event"
+    }
+]

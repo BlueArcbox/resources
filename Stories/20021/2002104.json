@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "あの、先生……",
         "MessageKR": "저, 선생님?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個，老師？",
+        "MessageEN": "Um, Sensei?"
     },
     {
         "MessageId": 200210270,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと大事な用があって",
         "MessageKR": "조금, 일이 생겼어요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "發生了一點事",
+        "MessageEN": "I think I might have an itsy, bitsy, little problem."
     },
     {
         "MessageId": 200210271,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "先生に助けていただきたいんですが",
         "MessageKR": "그런데 이걸 선생님께 말씀드려도 되는지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可是我不知道",
+        "MessageEN": "I'm not even sure if I should tell you about it..."
     },
     {
         "MessageId": 200210272,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "今って大丈夫ですか……？",
         "MessageKR": "그걸 잘 모르겠네요…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "該不該把這件事告訴老師……",
+        "MessageEN": "It's probably nothing, right?"
     },
     {
         "MessageId": 200210280,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "もちろんだよ、どうしたの？",
         "MessageKR": "하나에? 괜찮은 거지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "花繪？你沒事吧？",
+        "MessageEN": "Are you okay, Hanae?"
     },
     {
         "MessageId": 200210290,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "それが……",
         "MessageKR": "네? 네. 물론이죠. 전 괜찮아요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？是，當然。我沒事",
+        "MessageEN": "Huh? Yeah. Of course. I'm all right."
     },
     {
         "MessageId": 200210291,
@@ -98,9 +98,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "うーん、メッセージだとうまく伝えられるか自信が無くって",
-        "MessageKR": "끄덕없어요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "끄떡없어요!",
+        "MessageTW": "完全沒問題！",
+        "MessageEN": "I'm totally fine!"
     },
     {
         "MessageId": 200210300,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "でも……",
         "MessageKR": "하지만…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但是……",
+        "MessageEN": "But..."
     },
     {
         "MessageId": 200210310,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "大事な用なんだよね？",
         "MessageKR": "그건 하나에에게 중요한 일이야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那是對花繪重要的事吧？",
+        "MessageEN": "Is this really bothering you, Hanae?"
     },
     {
         "MessageId": 200210320,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "はい……",
         "MessageKR": "네?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯？",
+        "MessageEN": "Hm?"
     },
     {
         "MessageId": 200210330,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "とっても大事な用です",
         "MessageKR": "네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "Yes."
     },
     {
         "MessageId": 200210331,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "ただ、大事ではあるんですが……",
         "MessageKR": "저에게는 확실히 중요한 일이에요. 그렇지만…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "對我來說確實很重要。可是……",
+        "MessageEN": "I know it's important to me, but..."
     },
     {
         "MessageId": 200210340,
@@ -170,9 +170,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "それじゃあ、会って話そうか",
-        "MessageKR": "그래. 그러면 만나서 이야기하자. ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "그래. 그러면 만나서 이야기하자.",
+        "MessageTW": "我知道了，那我們見面再說吧",
+        "MessageEN": "Okay. Let's meet up and talk. "
     },
     {
         "MessageId": 200200347,

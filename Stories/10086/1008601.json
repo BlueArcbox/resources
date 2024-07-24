@@ -3,7 +3,7 @@
         "CharacterId": 10086,
         "MessageJP": "ヒナ（ドレス）",
         "MessageKR": "히나(드레스)",
-        "MessageTW": "陽奈（禮服）",
+        "MessageTW": "陽奈(禮服)",
         "MessageEN": "Hina (Dress)"
     },
     {
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、少し相談があるのだけど",
         "MessageKR": "선생님. 조금 업무 관련으로 상담하고 싶은 게 있는데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，我想諮詢一下工作的事",
+        "MessageEN": "Sensei. I have something work-related I wanted your input on."
     },
     {
         "MessageId": 100860020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "よし、今すぐ出動だ！",
         "MessageKR": "좋아, 샬레 출동이다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好，夏萊出動！",
+        "MessageEN": "All right. Schale, let's roll out."
     },
     {
         "MessageId": 100860030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "う、うん？出動……？",
         "MessageKR": "으, 응? 출동…?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呃，嗯？出動……？",
+        "MessageEN": "Wh-What? Roll out?"
     },
     {
         "MessageId": 100860040,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "どこに行けばいい？",
         "MessageKR": "어디서 만날까? 히나.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要在哪裡碰面？陽奈",
+        "MessageEN": "Where shall we meet, Hina?"
     },
     {
         "MessageId": 100860050,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "出動って、会いに来てくれるって意味だったの？",
         "MessageKR": "아, 응. 출동이란 게, 바로 만나자는 의미였구나.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，嗯。原來出動是馬上碰面的意思啊",
+        "MessageEN": "Ah, I see. By \"roll out,\" you meant you wanted to meet right away."
     },
     {
         "MessageId": 100860060,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ふふっ、先生らしいね",
         "MessageKR": "…후훗. 선생님답네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……呵呵。很有老師的風格",
+        "MessageEN": "Heehee. As expected of you, Sensei."
     },
     {
         "MessageId": 100860070,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "今日は私がシャーレに行くわ",
         "MessageKR": "오늘은 내가 샬레로 찾아갈게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天我會去夏萊找你",
+        "MessageEN": "I'll head over to Schale today."
     },
     {
         "MessageId": 100860071,
@@ -110,9 +110,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "じゃあ後でね、先生",
-        "MessageKR": "그럼 조금 이따가 보자. 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "그럼 이따가 보자. 선생님.",
+        "MessageTW": "待會見囉，老師",
+        "MessageEN": "I'll see you soon. Sensei."
     },
     {
         "MessageId": 100850077,
@@ -123,7 +123,7 @@
         "ImagePath": "",
         "MessageJP": "ヒナ（ドレス）の絆イベントへ",
         "MessageKR": "히나(드레스)의 인연스토리로",
-        "MessageTW": "前往陽奈（禮服）的羈絆劇情",
+        "MessageTW": "前往陽奈(禮服)的羈絆劇情",
         "MessageEN": "Go to Hina (Dress)'s Event"
     }
 ]

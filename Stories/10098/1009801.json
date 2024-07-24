@@ -1,0 +1,141 @@
+[
+    {
+        "CharacterId": 10098,
+        "MessageJP": "ホシノ（臨戦）",
+        "MessageKR": "호시노(무장)",
+        "MessageTW": "ホシノ（臨戦）",
+        "MessageEN": "Hoshino (Battle)"
+    },
+    {
+        "MessageId": 100970010,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 100980010,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 100980010,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100980020,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生",
+        "MessageKR": "선생",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100980020,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 100980030,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "今って忙しい？",
+        "MessageKR": "혹시 바빠?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100980030,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 100980040,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "そこまで忙しくないよ",
+        "MessageKR": "평소대로인걸.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100980040,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100980041,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "良かった",
+        "MessageKR": "그게",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100980041,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100980050,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "実は困ったことがあってね",
+        "MessageKR": "곤란한 일이 생겼는데 말이지",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100980050,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 100980060,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ちょっと手伝ってほしいんだ",
+        "MessageKR": "선생이 조금 도와줬으면 한달까.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100980060,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 100980070,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "うん、良いよ",
+        "MessageKR": "물론 도와줘야지.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100980070,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100980071,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "本当に良いの？",
+        "MessageKR": "응?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100980071,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100970077,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "まだ内容も言ってないのに……",
+        "MessageKR": "아직 무슨 일인지 말 안 했는데?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100970077,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ホシノ（臨戦）の絆イベントへ",
+        "MessageKR": "호시노(무장)의 인연스토리로",
+        "MessageTW": "前往ホシノ（臨戦）的羈絆劇情",
+        "MessageEN": "Go to Hoshino (Battle)'s Event"
+    }
+]

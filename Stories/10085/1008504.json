@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "으음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔",
+        "MessageEN": "Hm..."
     },
     {
         "MessageId": 100850340,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "実は、健康診断の結果が出たの",
         "MessageKR": "지난달에 한 건강검사 결과가 나왔는데……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "上個月的健康檢查結果出來了……",
+        "MessageEN": "I went to my doctor last month"
     },
     {
         "MessageId": 100850341,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "胃があんまり良くない状態なんだって",
         "MessageKR": "위장 기능이 크게 나빠진 것 같아서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "腸胃功能好像變得很差",
+        "MessageEN": "and I guess they're a little worried about my gut health."
     },
     {
         "MessageId": 100850342,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "だから、カフェインを減らす必要があるらしくて……",
         "MessageKR": "의사로부터 카페인 섭취를 줄이라는 권고를 받았어……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "醫生勸我減少攝取咖啡因……",
+        "MessageEN": "They told me I should start drinking less caffeine?"
     },
     {
         "MessageId": 100850350,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "……良い機会かも？",
         "MessageKR": "이 기회에 좀 줄이도록 해.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "趁這個機會試著減少一點吧",
+        "MessageEN": "That's probably a good idea."
     },
     {
         "MessageId": 100850350,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "まあ、悪化してからじゃ遅いから……",
         "MessageKR": "건강은 미리 챙기는 게 중요하니까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "提前注意健康是很重要的",
+        "MessageEN": "The best kind of medical care is preventative."
     },
     {
         "MessageId": 100850360,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "頭では理解してるんだけど",
         "MessageKR": "뭐, 나도 머리로는 알고 있지만……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，我也很清楚……",
+        "MessageEN": "Hey, easier said than done."
     },
     {
         "MessageId": 100850361,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "いざ仕事に集中すると、自然に手が伸びて……",
         "MessageKR": "막상 끊으려고 해도 일에 집중하다 보면 무의식적으로 에너지 드링크에 손이 가고 있어서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但就算真的想戒掉，只要一專心工作就會下意識地想喝能量飲料",
+        "MessageEN": "I HAVE tried to quit before, but it's like I can't work unless I have an energy drink on my desk."
     },
     {
         "MessageId": 100850370,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "習慣はそうそう変わらないもんね",
         "MessageKR": "역시 생활 습관을 단번에 바꾸는 건 어렵지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "生活習慣果然很難一次改變",
+        "MessageEN": "It's really hard to break a habit!"
     },
     {
         "MessageId": 100850380,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "そこで、カフェインを減らす良い方法を思いついたの",
         "MessageKR": "사실 카페인을 줄일 수 있는 좋은 방법이 하나 떠오르긴 했는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我想到一個能減少咖啡因的好方法",
+        "MessageEN": "Wait. I have an idea."
     },
     {
         "MessageId": 100850381,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "でも下準備が必要だから",
         "MessageKR": "이걸 실현하려면 여러 가지 밑 준비가 필요해서……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但如果想實踐就需要做各種準備……",
+        "MessageEN": "There's gonna be a lot of planning involved though."
     },
     {
         "MessageId": 100850390,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "先生、手伝ってくれる？",
         "MessageKR": "혹시 선생님이 도와줄 수 있을까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師能幫忙嗎？",
+        "MessageEN": "Do you mind giving me a hand, Sensei?"
     },
     {
         "MessageId": 100850400,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "それはもちろん",
         "MessageKR": "물론이야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然",
+        "MessageEN": "You can have both!"
     },
     {
         "MessageId": 100850400,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "何か必要な物とかある？",
         "MessageKR": "내가 무얼 도와주면 될까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我該怎麼幫忙？",
+        "MessageEN": "How can I help?"
     },
     {
         "MessageId": 100850410,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとう",
         "MessageKR": "고마워, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝你，老師",
+        "MessageEN": "Thank you, Sensei."
     },
     {
         "MessageId": 100850411,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "じゃあ今週末、ミレニアムのキャンプ場まで来てくれる？",
         "MessageKR": "그럼 이번 주 주말에 학원 근처의 야영장으로 나와줄 수 있을까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這週末能請老師來千年附近的露營場嗎？",
+        "MessageEN": "How about this weekend? Can you come meet me at the campgrounds near the school?"
     },
     {
         "MessageId": 100850420,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "詳しいことは、その時に",
         "MessageKR": "자세한 건 그때 설명할게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "詳情我到時候會說明",
+        "MessageEN": "I'll tell you the plan there!"
     },
     {
         "MessageId": 100840427,

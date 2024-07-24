@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "この間、雑誌で……",
         "MessageKR": "얼마 전 가십지에서 읽은 정보입니다만……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "根據我不久前在八卦雜誌上看到的情報……",
+        "MessageEN": "I was reading this gossip article,"
     },
     {
         "MessageId": 100840020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "「運動不足気味なカップルにオススメ！ライトな運動10選」という特集で",
         "MessageKR": "연인들이 함께하기에 가장 좋은 운동으로",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "據說爬山被選為",
+        "MessageEN": "and it said the number one form of couples exercise"
     },
     {
         "MessageId": 100840021,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "登山が1位になっていました",
         "MessageKR": "등산이 꼽혔다고 하는군요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "最適合情侶一起做的運動",
+        "MessageEN": "is hiking."
     },
     {
         "MessageId": 100840030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "……登山？",
         "MessageKR": "등산? 어째서……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "爬山？為什麼……？",
+        "MessageEN": "Why hiking?"
     },
     {
         "MessageId": 100840040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "登山は他のスポーツと比べて",
         "MessageKR": "등산은 장비나 준비물이 많이 필요하지 않기 때문에 입문하기가 쉽고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為登山不需要很多裝備或備品，入門相對容易",
+        "MessageEN": "It's an activity with an overall low barrier to entry."
     },
     {
         "MessageId": 100840041,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "練習や特別な準備の必要がないため始めやすく",
         "MessageKR": "사람이 드문 산의 특성상",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "再加上人少的特性",
+        "MessageEN": "Also, since mountains are inherently less populated,"
     },
     {
         "MessageId": 100840042,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "2人きりで会話する時間が多く取れるからだそうです",
         "MessageKR": "단둘이 이야기를 나눌 기회가 많기 때문인 것 같습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "似乎很適合兩人單獨交談",
+        "MessageEN": "couples have more opportunity to have deep conversations."
     },
     {
         "MessageId": 100840050,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "なるほど……",
         "MessageKR": "과연……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原來如此……",
+        "MessageEN": "I see..."
     },
     {
         "MessageId": 100840050,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "言われてみればそうかも",
         "MessageKR": "확실히 그건 장점이겠네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那確實是優點",
+        "MessageEN": "I can see the advantages."
     },
     {
         "MessageId": 100840060,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "はい、ですので……",
         "MessageKR": "그래서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以",
+        "MessageEN": "Which is why"
     },
     {
         "MessageId": 100840061,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "次の週末が楽しみです",
         "MessageKR": "이번 주말이 더욱 기대가 됩니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這週末就更令人期待了",
+        "MessageEN": "I'm looking forward to this weekend a lot."
     },
     {
         "MessageId": 100840070,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "次の週末……？",
         "MessageKR": "어째서……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "為什麼……？",
+        "MessageEN": "Why...?"
     },
     {
         "MessageId": 100840080,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "……えっと、コタマさん？",
         "MessageKR": "……저기, 코타마 씨……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……那個，小玉同學？",
+        "MessageEN": "Hello? Kotama?"
     },
     {
         "MessageId": 100830087,

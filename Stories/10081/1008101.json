@@ -110,7 +110,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "こうも毎日毎日、勉強ばかりでは…… ",
-        "MessageKR": "매일 이렇게 공부만 하다간…… ",
+        "MessageKR": "매일 이렇게 공부만 하다간……",
         "MessageTW": "要是每天都這樣埋頭苦學…… ",
         "MessageEN": "But I don't know how much harder I can try... "
     },
@@ -134,7 +134,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "そんな鬼、聞いたことないよ！？",
-        "MessageKR": "그 이미지의 출처가 궁금하지만! ",
+        "MessageKR": "그 이미지의 출처가 궁금하지만!",
         "MessageTW": "雖然很好奇哪裡會有這種鬼……！",
         "MessageEN": "How did you even come up with that?! "
     },

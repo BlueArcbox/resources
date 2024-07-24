@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 100410240,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "シャーレで放置されてるカバンを見なかった？",
         "MessageKR": "혹시 샬레 건물 근처에서 주인 없는 가방 봤어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你有在夏萊附近看到被丟在那的背包嗎？",
+        "MessageEN": "Did you see a lost bag near the Schale building?"
     },
     {
         "MessageId": 100410250,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "見てないよ？",
         "MessageKR": "아니, 없는데……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔，沒看到耶……？",
+        "MessageEN": "No...?"
     },
     {
         "MessageId": 100410260,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "ならいい",
         "MessageKR": "그럼 됐어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那就算了",
+        "MessageEN": "Oh, okay."
     },
     {
         "MessageId": 100410270,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ミサキ、何かあったの？",
         "MessageKR": "무슨 일이야, 미사키?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼了嗎，美咲？",
+        "MessageEN": "What's going on, Misaki?"
     },
     {
         "MessageId": 100410270,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "どんなカバン？",
         "MessageKR": "무슨 가방인데?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那是什麼背包？",
+        "MessageEN": "What kind of bag was it?"
     },
     {
         "MessageId": 100400277,

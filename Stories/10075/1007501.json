@@ -26,7 +26,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "せ～ん～せ～",
-        "MessageKR": "도\\~와\\~줘\\~ ",
+        "MessageKR": "도\\~와\\~줘\\~",
         "MessageTW": "幫～幫～我～ ",
         "MessageEN": "HELP!! "
     },
@@ -74,7 +74,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "先生の助けを求めてる生徒がここにいるっていうのに……",
-        "MessageKR": "선생님은 자기의 도움을 이렇게까지 필요로 하는 학생이 있는데, ",
+        "MessageKR": "선생님은 자기의 도움을 이렇게까지 필요로 하는 학생이 있는데,",
         "MessageTW": "需要老師幫助的學生就在這裡……",
         "MessageEN": "Sensei, when you hear your student's desperate pleas, "
     },

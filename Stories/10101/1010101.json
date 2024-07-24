@@ -1,0 +1,117 @@
+[
+    {
+        "CharacterId": 10101,
+        "MessageJP": "サオリ（水着）",
+        "MessageKR": "사오리(수영복)",
+        "MessageTW": "纱织（泳装）",
+        "MessageEN": "Saori (Swimsuit)"
+    },
+    {
+        "MessageId": 101000010,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 101010010,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 101010010,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101010020,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生",
+        "MessageKR": "선생.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101010020,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101010030,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "お祭りは楽しんでいるか",
+        "MessageKR": "축제는 즐기고 있는지 모르겠군.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101010030,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101010040,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "もちろんだよ、サオリ",
+        "MessageKR": "앗, 사오리.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101010030,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101010040,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "楽しめてるよ",
+        "MessageKR": "물론, 즐기고 있지.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101010040,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101010041,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "それは良かった",
+        "MessageKR": "다행이군.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101010041,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101010050,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "私は海辺の食堂でアルバイトを始めたところだ",
+        "MessageKR": "나는 해변 구역의 식당에서 업무를 시작한 참이다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101010050,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101000057,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "お腹が空いたら、ぜひ先生も来てくれ",
+        "MessageKR": "선생도 배가 고프면 와도 괜찮다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101000057,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "サオリ（水着）の絆イベントへ",
+        "MessageKR": "사오리(수영복)의 인연스토리로",
+        "MessageTW": "前往纱织（泳装）的羈絆劇情",
+        "MessageEN": "Go to Saori (Swimsuit)'s Event"
+    }
+]

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "キキキッ、キシシシシ！流石は私だ！！",
         "MessageKR": "크크큭. 키싯. 키키키킷!! 역시 이 몸이로군!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嘻嘻，嘰嘻嘻嘻嘻！！我果然厲害！",
+        "MessageEN": "Kihehe. Heh heh heh! As expected of the great Makoto!"
     },
     {
         "MessageId": 200330210,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "前に言っていたメーカーの取扱店舗を見つけたぞ、イロハ！",
         "MessageKR": "저번에 말했던 메이커의 판매점을 찾는 데 성공해 냈다! 이로하!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我成功找到上次說的製造商的販售店了！伊呂波！",
+        "MessageEN": "I succeeded in finding that retailer I mentioned last time, Iroha!"
     },
     {
         "MessageId": 200330211,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "マコト様の辞書に不可能の文字は存在しないと、また証明されてしまったな！",
         "MessageKR": "역시 이 마코토 님에게 불가능 따윈 없단 것이 또 한 번 증명되고야 말았군!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "果然，這再次證明我真琴大人沒有辦不到的事！",
+        "MessageEN": "Once again, I, the Great Makoto, have shown that nothing is impossible for me!"
     },
     {
         "MessageId": 200330220,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "さあ！この偉大なマコト様にひれ伏すがいい！",
         "MessageKR": "자! 이 몸의 위대함에 넙죽 엎드려라! 요 녀석!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "來！向偉大的我叩拜吧你這傢伙！",
+        "MessageEN": "Bow, you rascal! Prostrate yourself before my greatness!"
     },
     {
         "MessageId": 200330230,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "……えっと、急にどうしたの？",
         "MessageKR": "…어, 미안. 마코토. 갑자기 무슨 이야기인지 모르겠는데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……抱歉，真琴。我不知道你突然在說什麼",
+        "MessageEN": "Uh, sorry, Makoto. I have no clue what you're talking about."
     },
     {
         "MessageId": 200330240,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ん？",
         "MessageKR": "으으음?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯？",
+        "MessageEN": "Hmm?"
     },
     {
         "MessageId": 200330241,
@@ -98,9 +98,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "おっと",
-        "MessageKR": "아. 이런. ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "아. 이런.",
+        "MessageTW": "啊，哎呀",
+        "MessageEN": "Oh. You did not see anything you just read. "
     },
     {
         "MessageId": 200330242,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "通知を見て何かと思ったが……",
         "MessageKR": "예상과 다른 평범한 반응에 나도 모르게 깜짝 놀랐다만.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這意料淡定的反應也讓我有點驚訝",
+        "MessageEN": "My machinations are incomprehensible to even the sharpest minds."
     },
     {
         "MessageId": 200330250,
@@ -122,9 +122,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "なるほど",
-        "MessageKR": "과연… 선생이었나. ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "과연… 선생이었나.",
+        "MessageTW": "果然……是老師啊",
+        "MessageEN": "That includes you, Sensei. "
     },
     {
         "MessageId": 200330260,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "イロハと間違えて先生に送ってしまったようだ",
         "MessageKR": "이로하에게 보낼 모모톡을 잘못 보냈군.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "本來要傳給伊呂波的MomoTalk傳錯人了",
+        "MessageEN": "Only the likes of Iroha can handle such a message. So don't read it."
     },
     {
         "MessageId": 200330270,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "……あの、二人は普段どういう会話をしているの？",
         "MessageKR": "…저기 평소에 둘이서 대체 무슨 모모톡을 주고받는 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你們平常到底在傳什麼訊息……？",
+        "MessageEN": "Is that what you two usually talk about on MomoTalk?"
     },
     {
         "MessageId": 200330280,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "日常会話だが……？",
         "MessageKR": "그냥 일상 회화를 나눌 뿐이다만?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只是閒話家常而已",
+        "MessageEN": "Um, small talk?"
     },
     {
         "MessageId": 200330281,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "ともかく、ミスは謝ろう",
         "MessageKR": "어쨌거나 실수한 건 내 사과하지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過是我不對，我道歉",
+        "MessageEN": "Anyway, forget what you saw."
     },
     {
         "MessageId": 200330290,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "そういえば、先生も今週末は休みだったな？",
         "MessageKR": "그러고 보니 선생도 이번 주말은 휴일이었던가.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "對了，老師這週末也放假嗎？",
+        "MessageEN": "Come to think of it, you were supposed to be off this weekend too."
     },
     {
         "MessageId": 200330291,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "キキキッ、お互い楽しい週末にしよう",
         "MessageKR": "크큭. 그럼 좋은 주말 보내도록.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嘻嘻，祝老師週末愉快",
+        "MessageEN": "Heh. Have a great weekend, then."
     },
     {
         "MessageId": 200330300,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "あ、うん。マコトも楽しんでね……？",
         "MessageKR": "어, 응. 마코토도, 좋은 주말 보내….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呃，嗯。也祝真琴有個美好的週末……",
+        "MessageEN": "Uh, sure. You have a great weekend too, Makoto."
     },
     {
         "MessageId": 200320307,

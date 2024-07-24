@@ -243,25 +243,17 @@
         "School": "Abydos"
     },
     {
-        "Id": 135,
+        "Id": 380,
         "Name": {
-            "zh": "白子（色彩）",
-            "jp": "シロコ＊テラー",
-            "tw": "白子（色彩）",
-            "en": "Shiroko(Terror)",
-            "kr": "아누비스"
+            "zh": "星野*恐怖",
+            "jp": "ホシノ＊テラー",
+            "tw": "星野*恐怖",
+            "en": "Hoshino(Terror)",
+            "kr": "호시노"
         },
-        "Avatar": [
-            "https://schale.gg/images/raid/icon/Icon_EN0002.png",
-            "https://static.wikia.nocookie.net/blue-archive/images/2/2d/Shiroko_Terror_Icon.png"
-        ],
-        "Bio": {
-            "zh": "正如预定的命运，基沃托斯将走向灭亡",
-            "jp": "キヴォトスはその終焉に至るだろう",
-            "tw": "正如預定的命運，基沃托斯將走向滅亡",
-            "en": "As was planned, Kivotos shall reach its demise."
-        },
-        "Nickname": ["Shiroko_Terror", "黑子", "大白子", "白子*恐怖"],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/9/98/Hoshino_Terror_Icon.png"],
+        "Bio": {},
+        "Nickname": ["Hoshino_Terror"],
         "School": "Abydos"
     },
     {
@@ -372,12 +364,25 @@
             "zh": "尼娅",
             "jp": "ニヤ",
             "tw": "尼亞",
-            "en": "Nia",
+            "en": "Niya",
             "kr": "니야"
         },
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/c/c5/Niya_Icon.png"],
         "Bio": {},
         "Nickname": ["Niya", "妮娅"],
+        "School": "Hyakkiyako"
+    },
+    {
+        "Id": 386,
+        "Name": {
+            "zh": "笑面教授",
+            "jp": "ニヤニヤ教授",
+            "tw": "笑面教授",
+            "en": "Dr. Niyaniya"
+        },
+        "Avatar": ["https://cdnimg-v2.gamekee.com/wiki2.0/images/w_550/h_550/829/399789/2024/6/23/195633.png"],
+        "Bio": {},
+        "Nickname": ["Niyaniya", "眯眯眼教授"],
         "School": "Hyakkiyako"
     },
     {
@@ -702,6 +707,19 @@
             "jp": "マスクの奥に隠れて..."
         },
         "Nickname": ["Akira"],
+        "School": "ETC"
+    },
+    {
+        "Id": 385,
+        "Name": {
+            "zh": "明美",
+            "jp": "アケミ",
+            "tw": "明美",
+            "en": "Akemi"
+        },
+        "Avatar": ["https://cdnimg-v2.gamekee.com/wiki2.0/images/w_550/h_550/829/399789/2024/6/23/431433.png"],
+        "Bio": {},
+        "Nickname": ["Akami"],
         "School": "ETC"
     },
     {

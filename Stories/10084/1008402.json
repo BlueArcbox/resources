@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "たしかに副部長の言う通り……",
         "MessageKR": "확실히 부부장의 말처럼",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "確實如副部長所說",
+        "MessageEN": "Maybe the vice president was right."
     },
     {
         "MessageId": 100840100,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "もう少し体力があった方が良いかもしれません",
         "MessageKR": "올해는 좀 더 체력을 키워 두는 편이 좋을지도 모르겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "或許今年應該增強一下體力比較好",
+        "MessageEN": "Maybe being a little more active this year would be a good thing."
     },
     {
         "MessageId": 100840110,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "それは良い考えだけど……",
         "MessageKR": "좋은 생각이긴 한데……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這確實是個不錯的想法……",
+        "MessageEN": "I agree, but I'm surprised!"
     },
     {
         "MessageId": 100840120,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "……急にどうしたの？",
         "MessageKR": "……어째서 갑자기 그런 생각을?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……為什麼突然這麼想？",
+        "MessageEN": "What makes you say that?"
     },
     {
         "MessageId": 100840130,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ハッカーとして活動するためには、ある程度の体力も必要ですからね",
         "MessageKR": "해커로서 활동하기 위해서는 어느 정도의 체력도 필요하니까요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為駭客活動也需要一定的體力",
+        "MessageEN": "I realized hackers need to be physically fit too."
     },
     {
         "MessageId": 100840131,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "前回の登山で思い知らされたんです……",
         "MessageKR": "지난번의 산행을 통해 뼈저리게 느꼈습니다……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "藉由上次的登山，我深切地感受到……",
+        "MessageEN": "That hike was a harsh reality check..."
     },
     {
         "MessageId": 100840140,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "チヒロ副部長のように、急な崖も軽々と登れるような体力を身に付けられたら……",
         "MessageKR": "치히로 부부장처럼 험지도 쉽게 오를 수 있는 체력을 갖추게 된다면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果能像千尋副部長一樣，具備能輕鬆攀爬險地的體力……",
+        "MessageEN": "And if I could climb up hills like Vice President Chihiro does"
     },
     {
         "MessageId": 100840141,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "盗聴の待機場所にも幅が出るはずです",
         "MessageKR": "접근하기 어려운 지점에서의 도청도 쉽게 할 수 있을 겁니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就能在難以靠近的地方進行竊聽了",
+        "MessageEN": "I could eavesdrop from wherever I wanted."
     },
     {
         "MessageId": 100840150,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "……なんて返したらいいんだろうね",
         "MessageKR": "이유가 불손해……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這到底是什麼理由……",
+        "MessageEN": "I don't know how I feel about that reasoning."
     },
     {
         "MessageId": 100830157,

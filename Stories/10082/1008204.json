@@ -134,7 +134,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "じゃあ、また後で！",
-        "MessageKR": "그럼 있다가 봐!",
+        "MessageKR": "그럼 이따가 봐!",
         "MessageTW": "那麼待會見！",
         "MessageEN": "I'll see you soon!"
     },
@@ -182,7 +182,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "これからも「青春活動」、頑張ろうね",
-        "MessageKR": "앞으로도 <청춘 활동> 열심히 하자. 렌게. ",
+        "MessageKR": "앞으로도 <청춘 활동> 열심히 하자. 렌게.",
         "MessageTW": "以後也認真進行「青春活動」吧，蓮華",
         "MessageEN": "I want to experience more youth activities with you, Renge. "
     },
@@ -230,7 +230,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "また一緒に「青春活動」、しようね！",
-        "MessageKR": "그럼 다음에 또 같이 활동하자! ",
+        "MessageKR": "그럼 다음에 또 같이 활동하자!",
         "MessageTW": "之後再一起活動吧！",
         "MessageEN": "I mean... Mentor! We'll talk again soon! "
     }

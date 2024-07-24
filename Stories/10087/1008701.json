@@ -3,7 +3,7 @@
         "CharacterId": 10087,
         "MessageJP": "アコ（ドレス）",
         "MessageKR": "아코(드레스)",
-        "MessageTW": "亞子（禮服）",
+        "MessageTW": "亞子(禮服)",
         "MessageEN": "Ako (Dress)"
     },
     {
@@ -26,9 +26,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "先生",
-        "MessageKR": "선생님. 아마우 아코입니다. ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "선생님. 아마우 아코입니다.",
+        "MessageTW": "老師。我是天雨亞子",
+        "MessageEN": "Sensei. It's Amau Ako. "
     },
     {
         "MessageId": 100870020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "これは戦争です！",
         "MessageKR": "그러니까, 이건 전쟁이에요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這是場戰爭！",
+        "MessageEN": "The war has begun!"
     },
     {
         "MessageId": 100870030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "また物騒な……",
         "MessageKR": "……아코?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……亞子？",
+        "MessageEN": "Ako, are you okay?"
     },
     {
         "MessageId": 100870040,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "ここまで堂々と喧嘩を仕掛けてくるなら……",
         "MessageKR": "네. 건방지달까, 용서할 수 없달까…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒錯，不知該說囂張還是無法原諒……",
+        "MessageEN": "Yes! I don't care what those gremlins' reasons were."
     },
     {
         "MessageId": 100870041,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "受けて立ちます、風紀委員会の行政官として！",
         "MessageKR": "이렇게까지 싸움을 걸어온다면 선도부의 행정관으로서 피할 수 없겠죠.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果要挑起事端，身為風紀委員會的行政官當然不能逃避",
+        "MessageEN": "If it's a fight they want, I, the Senior Administrator of the Prefect Team, shall oblige them!"
     },
     {
         "MessageId": 100870050,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "むしろ好都合ですね。この際、徹底的に叩き潰してやれば……",
         "MessageKR": "아니, 오히려 잘됐네요. 이번 기회에 잘근잘근 밟아버릴 수 있을 테니까!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不，這樣反而正好，就趁這個機會擊潰他們！",
+        "MessageEN": "Maybe this is a blessing in disguise? An opportunity to stomp them into their place!"
     },
     {
         "MessageId": 100870060,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "……何があったの？",
         "MessageKR": "……아, 아코?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……亞，亞子？",
+        "MessageEN": "A-Ako?"
     },
     {
         "MessageId": 100870070,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "地べたに這いつくばらせて、身の程を知ってもらいましょう",
         "MessageKR": "바닥에서 저를 올려다보면서 자신들의 위치를 다시금 되새길 기회니까, 그 녀석들에게도 좋은 약이 될 거예요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這是讓他們從底層望向高高在上的我，重新審視自己位置的機會。對那些傢伙來說也會是一劑良藥吧",
+        "MessageEN": "It'll be a good lesson for them. They'll gaze upon me from the floor and finally understand the way things should be!"
     },
     {
         "MessageId": 100870080,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "……",
         "MessageKR": "…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……",
+        "MessageEN": "..."
     },
     {
         "MessageId": 100870090,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "ああもう！",
         "MessageKR": "아 열받네 진짜!! 생각해 보니까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，真是氣死人了！！",
+        "MessageEN": "Uh, this is so frustrating! Just the thought of it"
     },
     {
         "MessageId": 100870091,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "いつもいつも！",
         "MessageKR": "성질 뻗쳐서 정말!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有夠讓人生氣！",
+        "MessageEN": "is maddening!"
     },
     {
         "MessageId": 100870100,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "一体どうしたの……？",
         "MessageKR": "아코…… 대체…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "亞子……到底……",
+        "MessageEN": "Ako, what is going on?"
     },
     {
         "MessageId": 100870110,
@@ -170,9 +170,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "では先生、また後ほど！",
-        "MessageKR": "그러니까 선생님, 조금 있다가 봐요!! ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "그러니까 선생님, 이따가 봐요!!",
+        "MessageTW": "所以老師，待會見！！",
+        "MessageEN": "I'll see you in a bit, Sensei!!"
     },
     {
         "MessageId": 100870111,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "遅れないでください、これは戦争ですから！",
         "MessageKR": "늦으면 안 돼요! 이건 전쟁이니까!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不能遲到哦！這可是戰爭！",
+        "MessageEN": "Don't be late! This is a war after all!"
     },
     {
         "MessageId": 100870120,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "……ええっと、アコ？",
         "MessageKR": "……여보세요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……？",
+        "MessageEN": "Hello?"
     },
     {
         "MessageId": 100860137,
@@ -207,7 +207,7 @@
         "ImagePath": "",
         "MessageJP": "アコ（ドレス）の絆イベントへ",
         "MessageKR": "아코(드레스)의 인연스토리로",
-        "MessageTW": "前往亞子（禮服）的羈絆劇情",
+        "MessageTW": "前往亞子(禮服)的羈絆劇情",
         "MessageEN": "Go to Ako (Dress)'s Event"
     },
     {
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "先生、そろそろシャーレに戻った頃でしょうか？",
         "MessageKR": "선생님. 잘 돌아가셨나요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，您平安到家了嗎？",
+        "MessageEN": "Sensei. Did you make it back okay?"
     },
     {
         "MessageId": 100870140,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "今日はお付き合いいただき、ありがとうございました",
         "MessageKR": "오늘은 어울려주셔서 감사했습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝您今天陪我",
+        "MessageEN": "Thanks for hanging out with me today."
     },
     {
         "MessageId": 100870150,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "落ち着いた？",
         "MessageKR": "좀 진정했어……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "稍微冷靜下來了嗎……？",
+        "MessageEN": "Have you calmed down from earlier?"
     },
     {
         "MessageId": 100870160,
@@ -254,9 +254,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "はい？",
-        "MessageKR": "네? ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "네?",
+        "MessageTW": "咦？",
+        "MessageEN": "Hm? "
     },
     {
         "MessageId": 100870161,
@@ -266,9 +266,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "何ですか、それは",
-        "MessageKR": "뭔가요, 그 말은. ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "뭔가요, 그 말은.",
+        "MessageTW": "那是什麼意思？",
+        "MessageEN": "What does that mean? "
     },
     {
         "MessageId": 100870170,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "私が平常心を失っていたとでも？",
         "MessageKR": "그렇게 말하면 어쩐지 지금까지 진정하지 못했던 것처럼 들리는데요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好像我之前都不冷靜一樣？",
+        "MessageEN": "When you put it like that, it sounds like I haven't been calm."
     },
     {
         "MessageId": 100870171,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "いつも通りでしたが",
         "MessageKR": "전혀 아니거든요? 완전 평정심 그 자체였거든요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "才沒有，我超冷靜的好嗎？",
+        "MessageEN": "That's not the case at all! I've been completely calm this whole time!"
     },
     {
         "MessageId": 100870180,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "それはそうと、ドレスを決めました",
         "MessageKR": "그건 그렇고…… 무슨 드레스로 할지 정했어요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "先不說這個了……我決定要選哪件禮服了",
+        "MessageEN": "Anyway... I've decided on which dress I'd like."
     },
     {
         "MessageId": 100870190,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "どれにしたの？",
         "MessageKR": "오오. 어떤 걸로 골랐어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哦哦，你選了哪一件？",
+        "MessageEN": "Oho. Which one did you pick?"
     },
     {
         "MessageId": 100870200,
@@ -326,9 +326,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "先生に選んでいただいたものにしました。このドレスを扱っている店舗に連絡を入れてみたところ",
-        "MessageKR": "선생님이 골라주신 걸로 하기로 했어요.이 드레스를 취급하는 곳이 이곳 한군데밖에 없어서 연락해 봤는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "선생님이 골라주신 걸로 하기로 했어요. 이 드레스를 취급하는 곳이 이곳 한군데밖에 없어서 연락해 봤는데",
+        "MessageTW": "我決定挑老師幫我選的那件。因為賣這件禮服的地方只有這裡，所以才聯絡老師",
+        "MessageEN": "I went with the one you suggested. There's only one place that sells it though, so I contacted them."
     },
     {
         "MessageId": 100870210,
@@ -338,9 +338,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "えっと、それって……",
-        "MessageKR": "저기…… 아코 씨. 그건……. ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "저기…… 아코 씨. 그건…….",
+        "MessageTW": "咦……亞子，所以……",
+        "MessageEN": "Wait... Ako. That's... "
     },
     {
         "MessageId": 100870220,
@@ -351,8 +351,8 @@
         "ImagePath": "",
         "MessageJP": "幸い、取り置きが可能のようでした",
         "MessageKR": "다행히 아직 주문 제작이 가능하다고 하더라고요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "幸好對方表示現在還能訂做",
+        "MessageEN": "Luckily, they're still taking custom orders."
     },
     {
         "MessageId": 100870221,
@@ -362,9 +362,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "気に入った物が見つかって、本当に良かったです",
-        "MessageKR": "그래도 다행히 제 마음에 드는 걸 찾을 수 있었던 거 같아요. ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "그래도 다행히 제 마음에 드는 걸 찾을 수 있었던 거 같아요.",
+        "MessageTW": "能找到喜歡的款式真是太好了",
+        "MessageEN": "I'm so glad I found one I really liked. "
     },
     {
         "MessageId": 100870230,
@@ -375,8 +375,8 @@
         "ImagePath": "",
         "MessageJP": "明日はドレスを受け取りに行くので、遅れないようにお願いしますね",
         "MessageKR": "아, 맞아. 내일 드레스를 사러 가야 하니까, 시간, 늦으시면 안 돼요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，對了。明天要去領禮服，老師可不能遲到，知道嗎？",
+        "MessageEN": "Oh, that's right. We HAVE to buy the dress tomorrow. So don't be late!"
     },
     {
         "MessageId": 100870240,
@@ -387,7 +387,7 @@
         "ImagePath": "",
         "MessageJP": "えっ……？",
         "MessageKR": "저기요……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦……？",
+        "MessageEN": "Pardon?"
     }
 ]

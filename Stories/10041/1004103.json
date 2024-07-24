@@ -75,7 +75,7 @@
         "ImagePath": "",
         "MessageJP": "場所は、この後送る……",
         "MessageKR": "지금 어디냐면…….",
-        "MessageTW": "地點，之後傳給你……",
+        "MessageTW": "地點之後傳給你……",
         "MessageEN": "Right now, I'm at..."
     },
     {
@@ -195,7 +195,7 @@
         "ImagePath": "",
         "MessageJP": "じゃ、また明日",
         "MessageKR": "그럼 또 봐.",
-        "MessageTW": "那麼，再見",
+        "MessageTW": "下次見",
         "MessageEN": "See you later."
     }
 ]

@@ -62,7 +62,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "まだ慣れてないのか？",
-        "MessageKR": "에이, 뭘 빼고 그래. ",
+        "MessageKR": "에이, 뭘 빼고 그래.",
         "MessageTW": "哎呀，何必呢",
         "MessageEN": "Don't worry about it so much! "
     },
@@ -266,7 +266,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "うん、いつでも呼んでね",
-        "MessageKR": "뭐, 렌게가 그렇게 말한다면야. ",
+        "MessageKR": "뭐, 렌게가 그렇게 말한다면야.",
         "MessageTW": "嗯，既然蓮華都這麼說了……",
         "MessageEN": "I believe in you, Renge! "
     },

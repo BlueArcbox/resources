@@ -27,7 +27,7 @@
         "ImagePath": "",
         "MessageJP": "……これ、誰？",
         "MessageKR": "누구냐, 넌?",
-        "MessageTW": "……你是，誰？",
+        "MessageTW": "……你是哪位？",
         "MessageEN": "Who are you?"
     },
     {
@@ -99,7 +99,7 @@
         "ImagePath": "",
         "MessageJP": "それじゃ、失礼しました ",
         "MessageKR": "그럼 실례했어.",
-        "MessageTW": "那麼，不好意思打擾了",
+        "MessageTW": "抱歉打擾了",
         "MessageEN": "Excuse me. "
     },
     {

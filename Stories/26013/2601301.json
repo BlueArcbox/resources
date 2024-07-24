@@ -1,0 +1,141 @@
+[
+    {
+        "CharacterId": 26013,
+        "MessageJP": "アツコ（水着）",
+        "MessageKR": "아츠코(수영복)",
+        "MessageTW": "アツコ（水着）",
+        "MessageEN": "Atsuko (Swimsuit)"
+    },
+    {
+        "MessageId": 260120010,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 260130010,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 260130010,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 260130020,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "こんにちは、先生",
+        "MessageKR": "선생님, 안녕.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 260130020,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 260130030,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "こんにちは、アツコ",
+        "MessageKR": "안녕, 아츠코.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 260130030,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 260130031,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "海、思っていた以上にきれいで",
+        "MessageKR": "바다에 오는 거, 기대한 보람이 있었어.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 260130031,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 260130040,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "目が離せないの",
+        "MessageKR": "어디든 눈을 뗄 수가 없는 걸.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 260130040,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 260130050,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "お祭りも、初めて見るものばかり",
+        "MessageKR": "바다도, 축제도, 처음 보는 것 투성이라서.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 260130050,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 260130060,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "楽しめてるみたいで良かった！",
+        "MessageKR": "즐기고 있는 것 같아 다행이네.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 260130060,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 260130061,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "せっかくだから、写真を残したい",
+        "MessageKR": "응, 모처럼이니 사진으로도 남기려고 해.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 260130061,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 260130070,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ちょっと出かけてくる",
+        "MessageKR": "해변가에서 사진 찍을 만한 포인트를 찾아다닐 생각인데",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 260130070,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 260120077,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生も一緒に、どう？",
+        "MessageKR": "선생님도 같이 어때?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 260120077,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "アツコ（水着）の絆イベントへ",
+        "MessageKR": "아츠코(수영복)의 인연스토리로",
+        "MessageTW": "前往アツコ（水着）的羈絆劇情",
+        "MessageEN": "Go to Atsuko (Swimsuit)'s Event"
+    }
+]

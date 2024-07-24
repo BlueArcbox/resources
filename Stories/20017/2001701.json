@@ -58,25 +58,13 @@
         "MessageId": 200170040,
         "Flag": 2,
         "Type": 0,
-        "NextId": 200170041,
+        "NextId": 200170050,
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "えヘヘ……はい。ええと、いま無",
         "MessageKR": "헤헤헤…… 네. 선생님 지금 무",
         "MessageTW": "耶嘿嘿……是的。那個，我找到了免",
         "MessageEN": "Heeheehee... Yes, Sensei I just found"
-    },
-    {
-        "MessageId": 200170041,
-        "Flag": 2,
-        "Type": 0,
-        "NextId": 200170050,
-        "MessageType": "Text",
-        "ImagePath": "",
-        "MessageJP": " ",
-        "MessageKR": " ",
-        "MessageTW": "",
-        "MessageEN": ""
     },
     {
         "MessageId": 200170050,

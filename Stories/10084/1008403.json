@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、今週末は空いてますか？",
         "MessageKR": "선생님, 혹시 이번 주말에 시간 괜찮으신가요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，這週末你有時間嗎？",
+        "MessageEN": "Are you free this weekend, Sensei?"
     },
     {
         "MessageId": 100840170,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "特に予定は無いけど……",
         "MessageKR": "특별한 일정은 없는데……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "目前沒有行程……",
+        "MessageEN": "I don't have any particular plans..."
     },
     {
         "MessageId": 100840180,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "それなら、二人で山に行きませんか？",
         "MessageKR": "그럼 이번 주말에 같이 산에 가지 않으시겠습니까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那這週末要不要一起去爬山？",
+        "MessageEN": "Then come to the mountains with me."
     },
     {
         "MessageId": 100840181,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "……前回のリベンジをしたいのです",
         "MessageKR": "……지난번의 리벤지를 하고 싶습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……我想為上次雪恥",
+        "MessageEN": "I need revenge."
     },
     {
         "MessageId": 100840190,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "私は構わないけど……",
         "MessageKR": "나야 큰 상관은 없지만……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我是可以配合啦……",
+        "MessageEN": "I can do that, but..."
     },
     {
         "MessageId": 100840200,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "一応マッチ持っていこうか？",
         "MessageKR": "혹시 이번에도 성냥 챙겨갈까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這次也要帶火柴去嗎？",
+        "MessageEN": "Do you want me to bring some matches this time?"
     },
     {
         "MessageId": 100840210,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "いえ、大丈夫です",
         "MessageKR": "아뇨, 괜찮습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不，這次不用帶沒關係",
+        "MessageEN": "No. Not this time."
     },
     {
         "MessageId": 100840211,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "今度こそ人為的な要素を全て排除した……",
         "MessageKR": "이번에는 인위적인 요소를 모두 배제한",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為我打算排除所有人為因素……",
+        "MessageEN": "No artificial-ness this time."
     },
     {
         "MessageId": 100840212,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "自然そのものを録音する予定ですから",
         "MessageKR": "진짜 자연의 소리를 녹음할 예정이니까요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "錄下真正屬於自然的聲音",
+        "MessageEN": "I want to record the essence of nature."
     },
     {
         "MessageId": 100830217,

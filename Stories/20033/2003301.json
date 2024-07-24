@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "時が来た",
         "MessageKR": "드디어 때가 무르익은 듯하군. 샬레의 선생.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "時機似乎終於成熟了，夏萊的老師",
+        "MessageEN": "The time has come, Sensei of Schale."
     },
     {
         "MessageId": 200330020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "……？",
         "MessageKR": "……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……？",
+        "MessageEN": "?"
     },
     {
         "MessageId": 200330030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "キキキッ、そう狼狽える必要は無い",
         "MessageKR": "크크큭. 당황할 거 없다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嘻嘻嘻，不必慌張",
+        "MessageEN": "Kihehe. Don't be scared."
     },
     {
         "MessageId": 200330031,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "私の完璧な計画が整ったという知らせだ",
         "MessageKR": "그저 내 완벽한 계획을 위한 모든 준비가 끝났다는 뜻이니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只是代表我的完美計畫已經準備就緒而已",
+        "MessageEN": "The preparations of my master plan are complete."
     },
     {
         "MessageId": 200330040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "いよいよ、この羽沼マコト様の……",
         "MessageKR": "오늘을 기점으로 마침내 나 하누마 마코토 님의…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "以今天為起點，我羽沼真琴大人終於……",
+        "MessageEN": "As of today, I, the Great Makoto..."
     },
     {
         "MessageId": 200330050,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "いや、我々の偉大な物語が始まるのだ！",
         "MessageKR": "아니, 우리들이 함께하는 위대한 첫걸음이 시작되는 거다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不，我們將一起踏出偉大的第一步",
+        "MessageEN": "No. WE shall take this first, great step together!"
     },
     {
         "MessageId": 200330060,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "…………？",
         "MessageKR": "…………?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "…………？",
+        "MessageEN": "??"
     },
     {
         "MessageId": 200330070,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "さあ、シャーレの先生よ",
         "MessageKR": "자아, 샬레의 선생이여.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "來吧，夏萊的老師",
+        "MessageEN": "Now then, Sensei of Schale."
     },
     {
         "MessageId": 200330071,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "万魔殿で待っているぞ、キキキッ",
         "MessageKR": "그럼 오늘 만마전에서 기다리고 있겠다. 키키킥.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我今天會在萬魔殿等你，嘻嘻嘻",
+        "MessageEN": "I shall be waiting for you at the Pandemonium Society. Kihehe."
     },
     {
         "MessageId": 200330080,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "えっと……万魔殿に来てほしい、って意味だよね……？",
         "MessageKR": "으음, 만마전을 방문해달라는 이야기지……? 알았어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔嗯，是要我到萬魔殿的意思吧……？我知道了",
+        "MessageEN": "Hm. So you want me to visit the Pandemonium Society? All right."
     },
     {
         "MessageId": 200320087,

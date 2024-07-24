@@ -3,7 +3,7 @@
         "CharacterId": 10087,
         "MessageJP": "アコ（ドレス）",
         "MessageKR": "아코(드레스)",
-        "MessageTW": "亞子（禮服）",
+        "MessageTW": "亞子(禮服)",
         "MessageEN": "Ako (Dress)"
     },
     {
@@ -26,9 +26,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "約束、忘れてませんよね？",
-        "MessageKR": "선생님. 약속 잊으신 거 아니죠? ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "선생님. 약속 잊으신 거 아니죠?",
+        "MessageTW": "老師，您該不會忘記了吧？",
+        "MessageEN": "Sensei, you promised. "
     },
     {
         "MessageId": 100870260,
@@ -38,9 +38,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "ドレスを受け取りに行きましょう",
-        "MessageKR": "드레스 보러 가는 날이에요. ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "드레스 보러 가는 날이에요.",
+        "MessageTW": "今天是要去領禮服的日子",
+        "MessageEN": "It's dress shopping day. "
     },
     {
         "MessageId": 100870270,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "そんな約束したっけ……",
         "MessageKR": "그런 약속이 있었던가요…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有那種事嗎……",
+        "MessageEN": "I don't remember making that promise."
     },
     {
         "MessageId": 100870280,
@@ -62,9 +62,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "まったく……",
-        "MessageKR": "정말이지…… ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "정말이지……",
+        "MessageTW": "真是的……",
+        "MessageEN": "Really... "
     },
     {
         "MessageId": 100870281,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "つべこべ言わずに来てください、大人でしょう？",
         "MessageKR": "잔말 말고 따라오세요! 어른이잖아요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "別拖拖拉拉的了，快過來！您不是大人嗎！",
+        "MessageEN": "Aren't you a grown-up?! Quit complaining and come on."
     },
     {
         "MessageId": 100870290,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "えぇ……",
         "MessageKR": "열받네…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真氣人……",
+        "MessageEN": "This is a nightmare..."
     },
     {
         "MessageId": 100870300,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "はい？",
         "MessageKR": "네?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊？",
+        "MessageEN": "Hm?"
     },
     {
         "MessageId": 100870310,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "い、急いで向かいます……",
         "MessageKR": "아, 아닙니다…… 늦지 않게 갈게요…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒，沒什麼……我會準時到的……",
+        "MessageEN": "N-Nothing. I'll be there."
     },
     {
         "MessageId": 100870320,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "お待ちしています",
         "MessageKR": "네. 선생님. 기다리고 있을게요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是，老師。我會等您",
+        "MessageEN": "Very good, Sensei. I'll be waiting."
     },
     {
         "MessageId": 100860337,
@@ -135,7 +135,7 @@
         "ImagePath": "",
         "MessageJP": "アコ（ドレス）の絆イベントへ",
         "MessageKR": "아코(드레스)의 인연스토리로",
-        "MessageTW": "前往亞子（禮服）的羈絆劇情",
+        "MessageTW": "前往亞子(禮服)的羈絆劇情",
         "MessageEN": "Go to Ako (Dress)'s Event"
     },
     {
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "先生……ドレス、届けてくださったんですね",
         "MessageKR": "선생님…… 드레스는 잘 받았어요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師……我收到禮服了",
+        "MessageEN": "Sensei, I've received my dress."
     },
     {
         "MessageId": 100870340,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "自分で受け取るべきところを、お手数おかけしました",
         "MessageKR": "죄송해요. 제가 직접 찾아가도 되었는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真不好意思，我明明該自己去的",
+        "MessageEN": "I'm sorry. I could have just gone there myself."
     },
     {
         "MessageId": 100870341,
@@ -170,9 +170,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "ありがとうございます",
-        "MessageKR": "괜한 수고를 끼쳐드렸네요. ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "괜한 수고를 끼쳐드렸네요.",
+        "MessageTW": "真是勞煩您了",
+        "MessageEN": "I didn't mean to bother you. "
     },
     {
         "MessageId": 100870342,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "今度きちんとお礼をさせてください",
         "MessageKR": "이 신세는 다음에",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下次會好好答謝您的",
+        "MessageEN": "All this debt..."
     },
     {
         "MessageId": 100870350,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "……あの",
         "MessageKR": "응?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯？",
+        "MessageEN": "Hm?\u200b"
     },
     {
         "MessageId": 100870351,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "何ですか、これは",
         "MessageKR": "이건 뭐죠?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這是什麼？",
+        "MessageEN": "What's this?"
     },
     {
         "MessageId": 100870352,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "紐、みたいな物が入っているのですが……",
         "MessageKR": "이 끈……? 리본…… 비슷한 건…… 뭔가요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "繩子……？這類似……蝴蝶結的東西……是什麼？",
+        "MessageEN": "What is this string? Is this a ribbon?"
     },
     {
         "MessageId": 100870360,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "あ、アコ、それには理由があって",
         "MessageKR": "아 그건 말이지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，那個啊",
+        "MessageEN": "Oh that's..."
     },
     {
         "MessageId": 100870370,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "下着……？いえ、どう見ても紐ですね",
         "MessageKR": "이건 속옷……? 아, 아니. 그렇게 주장하고 있을 뿐인 끈이잖아요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這是內衣……？不，這只是您再三強調是內衣的繩子而已吧？",
+        "MessageEN": "Is this what I think it is?"
     },
     {
         "MessageId": 100870371,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "先生が買ったんですか？",
         "MessageKR": "이걸 선생님이……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這是老師買的……？",
+        "MessageEN": "Sensei, did you buy this?"
     },
     {
         "MessageId": 100870380,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "た、たしかに買ったのは私だけど……",
         "MessageKR": "그건 말야. 아코. 내가 사준 건 맞는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒錯，亞子。那是我買給你的",
+        "MessageEN": "Y-Yes. What did the clerk say? It would be easier to move? More elegant? Then they threw it in."
     },
     {
         "MessageId": 100870390,
@@ -278,9 +278,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "こんな恥ずかしい物を着ろと？",
-        "MessageKR": "즉, 이런 야한 속옷을 입으라는 건가요? ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "즉, 이런 야한 속옷을 입으라는 건가요?",
+        "MessageTW": "也就是說，老師要我穿這麼色的內衣嗎？",
+        "MessageEN": "What are you even talking about, Sensei? "
     },
     {
         "MessageId": 100870391,
@@ -290,9 +290,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "私が生意気な態度を取ったからって",
-        "MessageKR": "평상시에 건방지니까 이런 걸 입혀서 벌주려는 건가요? ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "평상시에 건방지니까 이런 걸 입혀서 벌주려는 건가요?",
+        "MessageTW": "因為我平常太囂張，所以想罰我穿這個嗎？",
+        "MessageEN": "Are you trying to get back at me for being cheeky? "
     },
     {
         "MessageId": 100870400,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "生徒にこんな格好をさせるんですか？",
         "MessageKR": "그런 속셈인 거예요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這就是您的居心嗎？",
+        "MessageEN": "Sensei, I can't believe this..."
     },
     {
         "MessageId": 100870410,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "そんなつもりじゃないからね！？",
         "MessageKR": "아니 그건…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不是這樣的……",
+        "MessageEN": "No! Ako, the store clerk—!"
     },
     {
         "MessageId": 100870420,
@@ -326,9 +326,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "それで私が、はい分かりましたなんて言うとでも！？",
-        "MessageKR": "그런 걸 제가 순순히 따를 거라고 생각했어요?! ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "그런 걸 제가 순순히 따를 거라고 생각했어요?!",
+        "MessageTW": "以為我會乖乖聽話嗎！？",
+        "MessageEN": "I'm just supposed to believe a random sales clerk?! "
     },
     {
         "MessageId": 100870421,
@@ -339,8 +339,8 @@
         "ImagePath": "",
         "MessageJP": "あり得ません！！",
         "MessageKR": "무슨 말도 안 되는…… 파렴치한 것도 정도가 있지, 이건 반품이에요! 반품!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真是太誇張了……脫序也要有個限度，我要退貨！退貨！！",
+        "MessageEN": "What nonsense... There are lines in the sand, Sensei! I'm returning this!"
     },
     {
         "MessageId": 100870430,
@@ -350,9 +350,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "これは返品しますから！返品です！返品！！",
-        "MessageKR": "그렇게 알고 계세요! 네? 반품해버릴 거니까요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "그렇게 알고 계세요! 네? 반품해 버릴 거니까요!",
+        "MessageTW": "知道了嗎！我要退貨！",
+        "MessageEN": "You hear me?! I said I'm returning it!"
     },
     {
         "MessageId": 100870440,
@@ -363,7 +363,7 @@
         "ImagePath": "",
         "MessageJP": "は、はい……",
         "MessageKR": "하아…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唉……",
+        "MessageEN": "\\*sigh\\*"
     }
 ]

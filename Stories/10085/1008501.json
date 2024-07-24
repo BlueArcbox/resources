@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 100850020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "ノマドワーカーって言葉、聞いたことある？",
         "MessageKR": "혹시 디지털 노마드라는 말 들어봤어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你聽說過數位遊牧民嗎？",
+        "MessageEN": "Have you heard of the phrase \"digital nomad\"?"
     },
     {
         "MessageId": 100850030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "前にネットで見たような……",
         "MessageKR": "인터넷에서 한 번 들어본 것 같은데……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有在網路上看到過……",
+        "MessageEN": "I might've seen it in an article once..."
     },
     {
         "MessageId": 100850040,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "ノマドワーカーっていうのは、働く場所に囚われず、パソコンを使って仕事する人を指すんだけど",
         "MessageKR": "디지털 노마드는 말 그대로 디지털 기기를 갖춘 유목민이라는 뜻으로 디지털 기기를 사용하여 공간의 제약 없이 자유롭게 살아가는 사람들을 의미해.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "數位遊牧民就如字面上的意思，指的是擁有數位設備的遊牧民族。也就是能不受空間限制，利用數位設備自由生活的人",
+        "MessageEN": "It's what it sounds like. People who travel around with their technology. They're not tied down to one home and go anywhere they want."
     },
     {
         "MessageId": 100850050,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "最近のデジタル機器は小型化も進んでいるし……",
         "MessageKR": "최근에는 디지털 기기들도 꽤 소형화되었으니까……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "最近數位設備都趨向小型化……",
+        "MessageEN": "Devices have gotten really portable over the years."
     },
     {
         "MessageId": 100850051,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ノートパソコンを持ち歩いて、外でコーディングを進めるプログラマーも多いんだって",
         "MessageKR": "노트북 하나만 들고 야외에 나가서 코딩을 하는 프로그래머들도 많은가 봐.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好像有很多程式設計師會帶著一台小筆電到野外編寫程式",
+        "MessageEN": "I even know some programmers who just chill outside, coding on their laptops."
     },
     {
         "MessageId": 100850060,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "なんかカッコいいね",
         "MessageKR": "뭔가 멋져 보이네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "聽起來很帥氣呢",
+        "MessageEN": "That sounds fascinating."
     },
     {
         "MessageId": 100850070,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "うん。フォーラムでもノマド先で撮った写真が紹介されてたんだけど、景色を楽しみながら作業ができるの、いいなって",
         "MessageKR": "응. 해커 포럼에 올라온 사진을 보았는데, 운치가 있어서 좋아 보이더라고.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，我看過駭客論壇上的照片，看起來挺有趣的",
+        "MessageEN": "Right? I was reading about it on a forum. It sounded pretty cool."
     },
     {
         "MessageId": 100850071,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "今度、私も外で作業してみようかな……？",
         "MessageKR": "다음에는 나도 한 번 야외에서 작업을 해볼까……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下次我要不要也到野外工作看看呢……？",
+        "MessageEN": "I think I'll try my hand at it."
     },
     {
         "MessageId": 100850080,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "あれ、外苦手じゃないっけ？",
         "MessageKR": "하지만 하레는 야외에 나가는 걸 꺼리지 않았었어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可是晴不是不喜歡到野外嗎？",
+        "MessageEN": "The outdoors isn't really your thing though..."
     },
     {
         "MessageId": 100850090,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "……",
         "MessageKR": ";;",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "QAQ",
+        "MessageEN": "..."
     },
     {
         "MessageId": 100850091,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと違うよ、先生",
         "MessageKR": "그건 편견이야, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那是偏見，老師",
+        "MessageEN": "You're stereotyping me, Sensei."
     },
     {
         "MessageId": 100850100,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "私は寒暖差が激しくて、ネットが繋がらない環境が嫌いなだけ",
         "MessageKR": "나는 인터넷이 되지 않는 춥고 더운 환경을 싫어할 뿐이지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我只是不喜歡沒有網路、溫差又大的環境而已",
+        "MessageEN": "I just don't like areas with extreme weather conditions and no internet."
     },
     {
         "MessageId": 100850101,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "むしろ、きれいな景色は好きな方",
         "MessageKR": "아름다운 경관 자체는 좋아한다고.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "漂亮的景色我還是很喜歡的",
+        "MessageEN": "I love a nice view as much as the next student."
     },
     {
         "MessageId": 100850110,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "せっかくだし……先生も一緒にノマドワーク、やってみない？",
         "MessageKR": "말이 나온 김에…… 이번 주말에 직접 한 번 디지털 노마드를 체험해 볼까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "既然說到這個……這週末要不要親身體驗數位遊牧民的生活？",
+        "MessageEN": "So now that you're caught up... Will you try out the digital nomad lifestyle with me next weekend?"
     },
     {
         "MessageId": 100840117,

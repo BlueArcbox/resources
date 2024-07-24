@@ -3,7 +3,7 @@
         "CharacterId": 10086,
         "MessageJP": "ヒナ（ドレス）",
         "MessageKR": "히나(드레스)",
-        "MessageTW": "陽奈（禮服）",
+        "MessageTW": "陽奈(禮服)",
         "MessageEN": "Hina (Dress)"
     },
     {
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、明日は空いてる？",
         "MessageKR": "선생님. 내일 시간이 있을까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，請問明天有時間嗎？",
+        "MessageEN": "Sensei. Are you available tomorrow?"
     },
     {
         "MessageId": 100860170,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "ゲヘナのパーティーが終わったから、少し余裕ができて",
         "MessageKR": "이번 게헨나 파티에서 연주가 끝난 만큼, 조금 일정에 여유가 생긴 참에…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為這次在格黑娜派對上的演奏結束了，行程稍微有點空檔……",
+        "MessageEN": "Now that I'm done with my performance for the Gehenna Party, I've got a little more time on my hands..."
     },
     {
         "MessageId": 100860180,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "良かったら、先生に会いたいのだけど……",
         "MessageKR": "괜찮다면 내일 선생님과 만나고 싶은데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可以的話，明天我想跟老師見一面",
+        "MessageEN": "If you don't mind, I'd like to meet with you."
     },
     {
         "MessageId": 100860190,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "ヒナの予定が空くなんて珍しいね！",
         "MessageKR": "히나의 일정에 여유가 생기다니. 엄청 드문 일이네!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "陽奈的行程居然有空檔，真是太難得了！",
+        "MessageEN": "YOU have free time? This is a once in a blue moon event!"
     },
     {
         "MessageId": 100860190,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "絶対、会いに行くよ！",
         "MessageKR": "그 귀중한 기회를 놓칠 수 없지! 바로 갈게!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不能錯過這寶貴的機會！我馬上過去！",
+        "MessageEN": "I can't let this opportunity pass me by! I'm heading over right now!"
     },
     {
         "MessageId": 100860200,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ふふ、大げさね",
         "MessageKR": "후후, 또 선생님답게 야단이라니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵，真像老師你的回答",
+        "MessageEN": "Oh, Sensei. You're always making a fuss. Heehee."
     },
     {
         "MessageId": 100860210,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "じゃあ、パーティー会場で待ってるわ",
         "MessageKR": "그럼 내일, 파티 홀에서 기다리고 있을게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那我明天在派對大廳等你",
+        "MessageEN": "I'll see you tomorrow. I'll be waiting in the party hall."
     },
     {
         "MessageId": 100850217,
@@ -111,7 +111,7 @@
         "ImagePath": "",
         "MessageJP": "ヒナ（ドレス）の絆イベントへ",
         "MessageKR": "히나(드레스)의 인연스토리로",
-        "MessageTW": "前往陽奈（禮服）的羈絆劇情",
+        "MessageTW": "前往陽奈(禮服)的羈絆劇情",
         "MessageEN": "Go to Hina (Dress)'s Event"
     }
 ]

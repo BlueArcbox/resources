@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "最近ね",
         "MessageKR": "최근 사람들 사이에서는",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "聽說最近",
+        "MessageEN": "I saw this trend online."
     },
     {
         "MessageId": 100850130,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "生徒の間で「グランピング」が流行っているらしいの",
         "MessageKR": "글램핑이라는 게 유행하고 있는 모양이야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好像很流行「Glamping」哦",
+        "MessageEN": "It's called glamping."
     },
     {
         "MessageId": 100850140,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "グランピング？",
         "MessageKR": "글램핑?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "Glamping？",
+        "MessageEN": "What's that?"
     },
     {
         "MessageId": 100850150,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "うん。豪華なキャンプって意味の造語で、キャンプ場に準備されてる道具を使って気軽に楽しめるんだって",
         "MessageKR": "응. 화려한 캠핑이라는 뜻의 신조어인데, 캠프장에서 텐트나 가구, 조리 기구를 미리 준비해 주기 때문에 무거운 짐을 들고 가지 않아도 캠핑을 할 수 있대.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，這是新的名詞，意思是豪華露營。聽說露營場會事先準備好帳篷、傢俱和烹飪器具，所以就算不帶沉重的行李也能露營",
+        "MessageEN": "It's short for \"glamorous camping.\" The campgrounds provide tents, sleeping arrangements, cooking equipment, and other necessities. You just have to show up."
     },
     {
         "MessageId": 100850151,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "しかも、テレビやエアコンまで完備されてるところもあるって聞いたよ",
         "MessageKR": "어떤 곳은 텐트 안에 TV나 에어컨, 간단한 조리 시설까지 있는 경우도 있다고 하더라고.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我還聽說有些地方的帳篷裡會有電視、空調，甚至有簡單的烹飪設備",
+        "MessageEN": "Sometimes they even have TV, air conditioning, and basic kitchens!"
     },
     {
         "MessageId": 100850160,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "それは楽しそうだね……",
         "MessageKR": "그건 꽤나 편리하겠네……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那一定很方便……",
+        "MessageEN": "That sounds convenient!"
     },
     {
         "MessageId": 100850160,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "一度くらい行ってみたいな……",
         "MessageKR": "그런 캠핑장이 있다면 한번 가보고 싶을지도……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果有那種露營場，我可能會想去看看……",
+        "MessageEN": "I want to try that out..."
     },
     {
         "MessageId": 100850170,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "サーバーも欲しいね",
         "MessageKR": "음. 나는 거기에 더해서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，而且我希望",
+        "MessageEN": "All of that is great,"
     },
     {
         "MessageId": 100850171,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "せっかくなら、自由にインターネットを使いたいし",
         "MessageKR": "원활한 인터넷 접속이 가능하도록 서버 컴퓨터도 설치되어 있으면 좋겠어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "他們有安裝伺服器以便連上網路",
+        "MessageEN": "but it's more important to me that I have really good internet access."
     },
     {
         "MessageId": 100850180,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "それと24時間営業のコンビニも近くにあってほしい……",
         "MessageKR": "그리고 24시간 영업 중인 편의점도 근처에 있어야 하고……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "附近最好也要有24小時營業的便利商店……",
+        "MessageEN": "Oh and a 24-hour convenience store for energy drinks."
     },
     {
         "MessageId": 100850181,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "いっそ、学校の敷地にテントを張ればいいような気がしてきた",
         "MessageKR": "아니, 아예 멀리 이동하지 않아도 괜찮도록 텐트가 학교 부지 내에 있는 것도 좋겠네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不，乾脆把帳篷搭在校內吧。這樣就不用大老遠跑到其他地方了",
+        "MessageEN": "It'd be nice if the campgrounds was near the clubroom too. Then I wouldn't have to go too far."
     },
     {
         "MessageId": 100850190,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "それはもう、グランピングじゃないよね……？",
         "MessageKR": "그 정도면 캠핑이 아니지 않나……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這樣就不叫露營了吧……？",
+        "MessageEN": "I think we're missing the point of camping here..."
     },
     {
         "MessageId": 100840197,

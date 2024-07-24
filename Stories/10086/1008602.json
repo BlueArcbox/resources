@@ -3,7 +3,7 @@
         "CharacterId": 10086,
         "MessageJP": "ヒナ（ドレス）",
         "MessageKR": "히나(드레스)",
-        "MessageTW": "陽奈（禮服）",
+        "MessageTW": "陽奈(禮服)",
         "MessageEN": "Hina (Dress)"
     },
     {
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、この間の約束だけど……",
         "MessageKR": "선생님, 저번에 이야기했던 약속 말인데….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，有關之前說的約定……",
+        "MessageEN": "Sensei, about that promise you made me..."
     },
     {
         "MessageId": 100860090,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "うん、ドレスを買いに行くんだよね！",
         "MessageKR": "응, 이번 휴일에 히나의 드레스를 사러 가기로 했었지!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，這次放假要去買陽奈的禮服！",
+        "MessageEN": "Yes, we were supposed to go dress shopping the next time we had a day off."
     },
     {
         "MessageId": 100860090,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ショッピング、楽しみだね！",
         "MessageKR": "히나와 쇼핑할 날만 기다리고 있었으니까!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我一直盼望能和陽奈去購物的這天！",
+        "MessageEN": "I've been waiting for my chance to go shopping with Hina!"
     },
     {
         "MessageId": 100860100,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "ふふ……そんなに張り切ってもらえるなんて、嬉しい",
         "MessageKR": "후후… 그렇게까지 의욕을 내서 말해주다니, 고마워.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵……謝謝老師說得這麼熱情",
+        "MessageEN": "Heehee. What passion. I appreciate it."
     },
     {
         "MessageId": 100860110,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "それで、ドレスを買う場所なのだけど",
         "MessageKR": "그래서 그 드레스를 사러 가는 장소와 관련해서.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "話說關於購買禮服的地點",
+        "MessageEN": "So, regarding where we're going dress shopping."
     },
     {
         "MessageId": 100860111,
@@ -86,9 +86,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "ゲヘナには、風紀委員をあまり良く思っていない人たちも多いでしょう",
-        "MessageKR": "아무래도 우리 선도부는 만마전이나 여러 문제아들처럼. 악감정을 가진 학생들이 많거든.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "아무래도 우리 선도부는 만마전이나 여러 문제아처럼. 악감정을 가진 학생들이 많거든.",
+        "MessageTW": "因為萬魔殿和許多問題學生都對我們風紀委員懷恨在心",
+        "MessageEN": "Gehenna leadership has a lot of troublemakers like the Pandemonium Society. Or even just outright delinquents."
     },
     {
         "MessageId": 100860120,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "こっちのショッピングモールだと、落ち着いて買い物できないかもしれなくて……",
         "MessageKR": "때문에 게헨나의 쇼핑몰을 방문하면 여러모로 문제가 생길지도 몰라.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果去格黑娜的購物中心，可能會遇到很多問題",
+        "MessageEN": "Visiting a Gehenna shopping mall could cause trouble. In more ways than one."
     },
     {
         "MessageId": 100860130,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "だから……",
         "MessageKR": "그러니….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以……",
+        "MessageEN": "So..."
     },
     {
         "MessageId": 100860140,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "なら、ゲヘナの外で見よっか？",
         "MessageKR": "게헨나 자치구 외곽에서 보자는 거지? 알았어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要在格黑娜自治區的外圍碰面對吧？我知道了",
+        "MessageEN": "You want to meet outside of the Gehenna district? Understood."
     },
     {
         "MessageId": 100860150,
@@ -134,9 +134,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "うん、待ち合わせ場所は送っておくわ",
-        "MessageKR": "응. 그럼 장소의 주소를 보내줄게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "응. 그럼, 장소의 주소를 보내줄게.",
+        "MessageTW": "嗯，我把地址傳給你",
+        "MessageEN": "I'll send you the address."
     },
     {
         "MessageId": 100860151,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "待ってるね、先生",
         "MessageKR": "그곳에서 보자. 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "在那裡見吧。老師",
+        "MessageEN": "See you there, Sensei."
     },
     {
         "MessageId": 100850157,
@@ -159,7 +159,7 @@
         "ImagePath": "",
         "MessageJP": "ヒナ（ドレス）の絆イベントへ",
         "MessageKR": "히나(드레스)의 인연스토리로",
-        "MessageTW": "前往陽奈（禮服）的羈絆劇情",
+        "MessageTW": "前往陽奈(禮服)的羈絆劇情",
         "MessageEN": "Go to Hina (Dress)'s Event"
     }
 ]

@@ -26,7 +26,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "おはようございます、先生",
-        "MessageKR": "안녕하세요. 선생님. ",
+        "MessageKR": "안녕하세요. 선생님.",
         "MessageTW": "您好，老師",
         "MessageEN": "Hello, Sensei. "
     },
@@ -62,7 +62,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "はい、本当に良いお天気ですね",
-        "MessageKR": "앗, 네. 그러게요. ",
+        "MessageKR": "앗, 네. 그러게요.",
         "MessageTW": "啊，是的，就是說啊",
         "MessageEN": "Yes, it's wonderful. "
     },

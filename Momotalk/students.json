@@ -1299,7 +1299,8 @@
         "Id": 10041,
         "Avatar": [
             "https://static.wikia.nocookie.net/blue-archive/images/7/78/Misaki_Unmask_Icon.png",
-            "https://static.wikia.nocookie.net/blue-archive/images/8/8f/Misaki_Icon.png"
+            "https://static.wikia.nocookie.net/blue-archive/images/8/8f/Misaki_Icon.png",
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_550/h_550/829/191981/2024/6/22/834803.png"
         ],
         "Bio": {
             "zh": "希望可以下点雨……",
@@ -1459,11 +1460,7 @@
     },
     {
         "Id": 20018,
-        "Avatar": [
-            "/api/Avatars/Moe_Swimsuit.webp",
-            "https://static.wikia.nocookie.net/blue-archive/images/0/06/Moe_Icon.png",
-            "https://cdnimg.gamekee.com/wiki2.0/images/w_200/h_200/829/43637/2023/5/27/712489.png"
-        ],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/0/06/Moe_Icon.png"],
         "Bio": {
             "zh": "正在积极收购没在用的导弹、炮弹！",
             "jp": "使わないミサイルや砲 弾、積極的に買い取り中！",
@@ -2456,7 +2453,7 @@
     },
     {
         "Id": 10096,
-        "Avatar": [],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/a/a7/Kanna_Swimsuit_Icon.png"],
         "Bio": {
             "zh": "奉献、倾听、诚实",
             "jp": "奉仕、傾聴、誠実",
@@ -2467,7 +2464,7 @@
     },
     {
         "Id": 20037,
-        "Avatar": [],
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/6/60/Fubuki_Swimsuit_Icon.png"],
         "Bio": {
             "zh": "我的休假……在哪……",
             "jp": "私のバカンス……どこ……",
@@ -2477,14 +2474,83 @@
         "related": [16008, "swimsuit"]
     },
     {
-        "Id": 26012,
-        "Avatar": [],
+        "Id": 10097,
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/2/20/Moe_Swimsuit_Icon.png"],
         "Bio": {
-            "zh": "正在执行救生员的任务！",
-            "jp": "ライフセーバーの任務中です！",
-            "kr": "라이프가드 임무 중입니다!"
+            "zh": "导弹……更大的导弹……",
+            "jp": "ミサイル……もっと大きなミサイル……",
+            "kr": "미사일이 필요해… 엄청나게 큰 미사일이…"
         },
         "Nickname": [],
-        "related": [13012, "swimsuit"]
+        "related": [20018, "swimsuit"]
+    },
+    {
+        "Id": 10098,
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/e/e2/Hoshino_Armed_Icon.png"],
+        "Bio": {
+            "zh": "午睡中。急事请打电话~",
+            "jp": "お昼寝中。急ぎのときは電話して～",
+            "kr": "낮잠 중~ 긴급상황은 전화로 부탁!"
+        },
+        "Nickname": ["百叔", "星战", "盾大叔"],
+        "related": [10005, "armed"]
+    },
+    {
+        "Id": 10099,
+        "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/e/e2/Hoshino_Armed_Icon.png"],
+        "Bio": {
+            "zh": "午睡中。急事请打电话~",
+            "jp": "お昼寝中。急ぎのときは電話して～",
+            "kr": "낮잠 중~ 긴급상황은 전화로 부탁!"
+        },
+        "Nickname": ["百叔", "星战", "枪大叔"],
+        "related": [10005, "armed"]
+    },
+    {
+        "Id": 10100,
+        "Avatar": [
+            "https://static.wikia.nocookie.net/blue-archive/images/2/2d/Shiroko_Terror_Icon.png",
+            "https://static.wikia.nocookie.net/blue-archive/images/8/8a/Shiroko_Terror_2_Icon.png"
+        ],
+        "Bio": {
+            "zh": "自行车伙伴招募中…… (2/5)",
+            "jp": "ライディング仲間募集中……（２/５）",
+            "kr": "사이클링 파티 모집 중… (2/5)"
+        },
+        "Nickname": ["黑子", "大白子"],
+        "related": [10010, "terror"]
+    },
+    {
+        "Id": 10101,
+        "Avatar": [],
+        "Bio": {
+            "zh": "随时接受求助者咨询",
+            "jp": "助っ人のお問い合わせは常時受けつけています",
+            "kr": "구인 문의는 언제나 받고 있습니다."
+        },
+        "Nickname": [],
+        "related": [10048, "swimsuit"]
+    },
+    {
+        "Id": 10102,
+        "Avatar": [],
+        "Bio": {
+            "zh": "夏天......大海......难道这是梦！？",
+            "jp": "夏……海……もしかして夢！？",
+            "kr": "여름…… 바다…… 혹시 꿈?"
+        },
+        "Nickname": [],
+        "related": [20017, "swimsuit"]
+    },
+    {
+        "Id": 26013,
+        "Avatar": [],
+        "Bio": {
+            "zh": "正在练习拍摄人物照片",
+            "jp": "人物写真を撮る練習してる",
+            "kr": "인물 사진 연습 중"
+        },
+        "Nickname": [],
+        "related": [10042, "swimsuit"]
     }
 ]

@@ -1,0 +1,105 @@
+[
+    {
+        "CharacterId": 26013,
+        "MessageJP": "アツコ（水着）",
+        "MessageKR": "아츠코(수영복)",
+        "MessageTW": "アツコ（水着）",
+        "MessageEN": "Atsuko (Swimsuit)"
+    },
+    {
+        "MessageId": 260120130,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 260130130,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 260130130,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 260130140,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生",
+        "MessageKR": "선생님",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 260130140,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 260130150,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "悪いお知らせだよ",
+        "MessageKR": "안 좋은 소식이 있어.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 260130150,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 260130160,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "どうしたの？",
+        "MessageKR": "무슨 일이야?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 260130160,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 260130161,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "カメラのバッテリーが、あと少ししかなくて",
+        "MessageKR": "디지털카메라의 배터리가 얼마 남지 않았어.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 260130161,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 260130170,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "もう何枚も撮れないの",
+        "MessageKR": "아직 작동은 하지만, 아껴 써야 해.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 260130170,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 260120177,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "だから、何を撮るか慎重に決めないと",
+        "MessageKR": "이제부터는 뭘 찍을지 신중하게 정해서 찍을 생각이야.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 260120177,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "アツコ（水着）の絆イベントへ",
+        "MessageKR": "아츠코(수영복)의 인연스토리로",
+        "MessageTW": "前往アツコ（水着）的羈絆劇情",
+        "MessageEN": "Go to Atsuko (Swimsuit)'s Event"
+    }
+]

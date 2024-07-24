@@ -1,0 +1,153 @@
+[
+    {
+        "CharacterId": 10097,
+        "MessageJP": "モエ（水着）",
+        "MessageKR": "모에(수영복)",
+        "MessageTW": "萌（泳裝）",
+        "MessageEN": "Moe (Swimsuit)"
+    },
+    {
+        "MessageId": 100960080,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 100970080,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 100970080,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100970090,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生",
+        "MessageKR": "선생님",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100970090,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 100970100,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "とんでもない物があるよ！",
+        "MessageKR": "여기 엄청난 게 있어!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100970100,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 100970110,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "いきなりどうしたの？",
+        "MessageKR": "갑자기 무슨 일이야, 모에?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100970100,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 100970110,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "もしかして、また暇なの……？",
+        "MessageKR": "설마 저번처럼 심심한 것뿐이라면……",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100970110,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100970111,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "爆発が",
+        "MessageKR": "폭발이",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100970111,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100970112,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "爆発が止まらない",
+        "MessageKR": "폭발이 멈추지 않아",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100970112,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100970120,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "めっちゃ爆発してる！",
+        "MessageKR": "쉴 새 없이 마구 폭발하고 있어!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100970120,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 100970130,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "え！？",
+        "MessageKR": "뭐?!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100970120,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 100970130,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "何が爆発してるの！？",
+        "MessageKR": "뭐가 폭발하는 건데?!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100970130,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 100960137,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "待ってて！すぐ助けに行くから！",
+        "MessageKR": "아니, 조금만 기다려! 금방 도와주러 갈 테니까!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100960137,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "モエ（水着）の絆イベントへ",
+        "MessageKR": "모에(수영복)의 인연스토리로",
+        "MessageTW": "前往萌（泳裝）的羈絆劇情",
+        "MessageEN": "Go to Moe (Swimsuit)'s Event"
+    }
+]

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "時が来た",
         "MessageKR": "드디어 때가 무르익은 듯하군. 선생이여.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "時機似乎終於成熟了，老師",
+        "MessageEN": "The time has come, Sensei."
     },
     {
         "MessageId": 200330320,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "デジャブのような……",
         "MessageKR": "혹시 이건… 데자뷔…?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這難道是……既視感？",
+        "MessageEN": "Is this déjà vu?"
     },
     {
         "MessageId": 200330320,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "前にも同じメッセージをもらったような……",
         "MessageKR": "저번에도 같은 말을 본 적이 있는 듯한….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總覺得之前也看過一樣的訊息……",
+        "MessageEN": "I feel like I've seen this exact message before."
     },
     {
         "MessageId": 200330330,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "キシシッ、そうだったか？",
         "MessageKR": "키시싯. 당황할 거 없다. 선생.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嘻嘻嘻，不必慌張",
+        "MessageEN": "Kihehe. No need to panic, Sensei."
     },
     {
         "MessageId": 200330340,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "前に、このマコト様が進めているビジネスを紹介しただろう",
         "MessageKR": "저번엔 단순히 이 몸이 막 시작했던 사업을 소개하는 자리였다면.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果說上次只是單純介紹我剛起步的事業",
+        "MessageEN": "Last time, I was introducing you to my new enterprise."
     },
     {
         "MessageId": 200330350,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "いよいよ、お披露目の準備が整ったぞ",
         "MessageKR": "오늘은 바로 그 사업의 완성이 코앞에 다가온 기념으로",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼今天就是為了紀念事業即將大功告成",
+        "MessageEN": "Today marks the near-completion of that particular project"
     },
     {
         "MessageId": 200330351,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "それで連絡したのだ",
         "MessageKR": "새롭게 선생에게 그것을 보여주고자 연락한 것이니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "為了讓老師見證那一刻才聯絡你",
+        "MessageEN": "and you shall be my witness, Sensei."
     },
     {
         "MessageId": 200330360,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "思っていたよりも早くて驚いたよ",
         "MessageKR": "벌써 시간이 그렇게 된 거구나.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原來已經到了這個時候了啊",
+        "MessageEN": "I can't believe it's already been that long."
     },
     {
         "MessageId": 200330370,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "早速だが、今日は空いているか？",
         "MessageKR": "그래서 말이다만, 오늘 시간은 비어있나?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以今天有空嗎？",
+        "MessageEN": "When are you available?"
     },
     {
         "MessageId": 200330380,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "もちろん、時間ならあるけど……",
         "MessageKR": "물론 시간이라면 있지만…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有是有啦……",
+        "MessageEN": "I have some time, but..."
     },
     {
         "MessageId": 200330390,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "キキキッ。よし！では、すぐ迎えに行こう！",
         "MessageKR": "키히히힛. 좋다. 그럼 바로 데리러 가도록 하지!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嘻嘻嘻。好，那我馬上去接你！",
+        "MessageEN": "Kihehe. Good. Then I'll head on over to pick you up!"
     },
     {
         "MessageId": 200320397,

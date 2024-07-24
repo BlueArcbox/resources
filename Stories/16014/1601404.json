@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生！！",
         "MessageKR": "선생님!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師！！",
+        "MessageEN": "Sensei!!"
     },
     {
         "MessageId": 160140330,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "忙しい？",
         "MessageKR": "지금 바빠?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在忙嗎？",
+        "MessageEN": "Are you busy right now?"
     },
     {
         "MessageId": 160140340,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "全然！",
         "MessageKR": "아니, 한가해.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不會，我剛好沒事唷",
+        "MessageEN": "No, not at the moment."
     },
     {
         "MessageId": 160140340,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "ちょうど今、時間ができたところだよ！",
         "MessageKR": "방금 안 바빠졌어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "正好忙完哦",
+        "MessageEN": "My schedule just opened up."
     },
     {
         "MessageId": 160140350,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "良かった！",
         "MessageKR": "다행이다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好耶！",
+        "MessageEN": "That's great!"
     },
     {
         "MessageId": 160140360,
@@ -86,9 +86,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "あれからたくさん考えてみたの",
-        "MessageKR": "이부키, 지난번에 선생님이랑 여러 곳을 다닌 다음에 생각해봤어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "이부키, 지난번에 선생님이랑 여러 곳을 다닌 다음에 생각해 봤어.",
+        "MessageTW": "上次和老師去很多地方之後想了一下",
+        "MessageEN": "I can't stop thinking about all the jobs we tried, Sensei."
     },
     {
         "MessageId": 160140370,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "イブキには何ができるのか",
         "MessageKR": "이부키가 무엇을 하고 싶은지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "自己想做什麼",
+        "MessageEN": "What I want to do..."
     },
     {
         "MessageId": 160140380,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "一番好きなことは何なのか！",
         "MessageKR": "이부키가 가장 좋아하는 것이 무엇인지!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "自己最喜歡的是什麼！",
+        "MessageEN": "What I like the most..."
     },
     {
         "MessageId": 160140381,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "それでね",
         "MessageKR": "그래서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以",
+        "MessageEN": "So,"
     },
     {
         "MessageId": 160140390,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "先生を招待しようと思って！",
         "MessageKR": "선생님을 초대하기로 했어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我決定邀請老師！",
+        "MessageEN": "I've decided to give you an invitation!"
     },
     {
         "MessageId": 160140400,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "招待？",
         "MessageKR": "초대?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "邀請？",
+        "MessageEN": "Invitation?"
     },
     {
         "MessageId": 160140410,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "うん！",
         "MessageKR": "응!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯！",
+        "MessageEN": "Yup!"
     },
     {
         "MessageId": 160140411,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "今からイブキのところ来てくれる？",
         "MessageKR": "선생님, 지금 만마전 휴게실로 와 줘!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，可以現在來萬魔殿的休息室嗎？",
+        "MessageEN": "Come to the Pandemonium Society break room right now!"
     },
     {
         "MessageId": 160130417,
