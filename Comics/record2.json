@@ -885,5 +885,18 @@
             }
         ],
         "pictures_count": 1
+    },
+    {
+        "dynamic_id": 957970053088673814,
+        "description": "【青春record】官方漫画第66话\n老师，星野同学好像在一个人做着什么的样子…\n\n🔷作:せるげい(@pattundo)老师\n\n#碧蓝档案##蔚蓝档案#",
+        "pictures": [
+            {
+                "img_height": 1864,
+                "img_width": 1323,
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/db7878cab2174b7fa70227cd7eeaf23537507923.png",
+                "img_size": 2234.030029296875
+            }
+        ],
+        "pictures_count": 1
     }
 ]
