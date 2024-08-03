@@ -1880,5 +1880,24 @@
             }
         ],
         "pictures_count": 2
+    },
+    {
+        "dynamic_id": 961011417983483905,
+        "description": "【国际服资讯】【官方四格漫画第145话】\n▎紧急状况！\n为了不让万魔殿得逞\n一定全力以赴的练习!\n\n不擅长不代表完全不会～\n\n#碧蓝档案漫画连载中# #第145话# \n#蔚蓝档案# #碧蓝档案# #BlueArchive#",
+        "pictures": [
+            {
+                "img_height": 1280,
+                "img_width": 800,
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/8017ba44b6b1a7c542b5ac5e2b3353bf37507923.jpg",
+                "img_size": 190.95703125
+            },
+            {
+                "img_height": 691,
+                "img_width": 800,
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/c477ccf46ab0dae618170382a20eece037507923.jpg",
+                "img_size": 48.544921875
+            }
+        ],
+        "pictures_count": 2
     }
 ]
