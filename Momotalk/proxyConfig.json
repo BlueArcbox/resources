@@ -1,0 +1,15 @@
+{
+    "domainReplacements": {
+        "/api": "https://BlueArcbox.github.io/resources",
+        "/kivo": "https://static.kivo.fun/images",
+        "/fandom": "https://static.wikia.nocookie.net/blue-archive/images",
+        "/gamekee": "https://cdnimg.gamekee.com/wiki2.0/images",
+        "/schale": "https://schale.gg/images"
+    },
+    "proxyDomains": {
+        "nocookie": "https://wsrv.nl/?url=",
+        "kivo.wiki": "https://wsrv.nl/?url=",
+        "kivo.fun": "https://img.vxs.nl/?url="
+    },
+    "proxyParams": "&output=webp"
+}
