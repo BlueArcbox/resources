@@ -7,9 +7,10 @@
         "/schale": "https://schale.gg/images"
     },
     "proxyDomains": {
-        "nocookie": "https://wsrv.nl/?url=",
         "kivo.wiki": "https://wsrv.nl/?url=",
-        "kivo.fun": "https://img.vxs.nl/?url="
+        "kivo.fun": "https://img.vxs.nl/?url=",
+        "nocookie": "https://wsrv.nl/?url=",
+        "gamekee.com": "https://wsrv.nl/?url="
     },
     "proxyParams": "&output=webp"
 }
