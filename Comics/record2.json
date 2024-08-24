@@ -2045,5 +2045,31 @@
             }
         ],
         "pictures_count": 1
+    },
+    {
+        "dynamic_id": 965757855294554130,
+        "description": "【青春record】官方漫画第69话\n真想再泡一次温泉呢，老师！\n\n🔷作:せるげい(@pattundo)老师\n\n#碧蓝档案##蔚蓝档案#",
+        "pictures": [
+            {
+                "img_height": 1521,
+                "img_width": 1080,
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/db9738bfd91da38ebbe41e154d393d1a37507923.jpg",
+                "img_size": 936.5800170898438
+            }
+        ],
+        "pictures_count": 1
+    },
+    {
+        "dynamic_id": 968361369785073685,
+        "description": "【青春record】官方漫画第70话\n老师，玛丽娜同学她们好像去看熊猫了哦！！\n\n🔷作者：せるげい（@pattundo）老师\n\n#碧蓝档案##蔚蓝档案#",
+        "pictures": [
+            {
+                "img_height": 1521,
+                "img_width": 1080,
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/c68e86adca9206b42771aac9f8ac032237507923.jpg",
+                "img_size": 971.27001953125
+            }
+        ],
+        "pictures_count": 1
     }
 ]
