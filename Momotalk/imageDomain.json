@@ -9,9 +9,9 @@
         "/schale": "https://schaledb.com/images"
     },
     "proxy": {
-        "kivo.wiki": ["https://wsrv.nl/?url=", "&output=webp"],
-        "kivo.fun": ["https://img.vxs.nl/?url=", "&output=webp"],
-        "nocookie": ["https://wsrv.nl/?url=", "&output=webp"],
-        "gamekee.com": ["https://wsrv.nl/?url=", "&output=webp"]
+        "kivo.wiki": { "domain": "https://wsrv.nl/?url=", "param": "&output=webp" },
+        "kivo.fun": { "domain": "https://img.vxs.nl/?url=", "param": "&output=webp" },
+        "nocookie": { "domain": "https://wsrv.nl/?url=", "param": "&output=webp" },
+        "gamekee.com": { "domain": "https://wsrv.nl/?url=", "param": "&output=webp" }
     }
 }
