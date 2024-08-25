@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "何というか",
         "MessageKR": "뭐랄까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "該怎麼說呢",
+        "MessageEN": "Well..."
     },
     {
         "MessageId": 100880020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "予想してたことだけど……この人混みはちょっと疲れるかも",
         "MessageKR": "예상은 했지만 사람 많은 곳은 피곤하네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然有所預期，但人多的地方還真是讓人感到疲憊",
+        "MessageEN": "I knew crowds were exhausting. And I was right."
     },
     {
         "MessageId": 100880021,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "当面の仕事は終わっているし",
         "MessageKR": "일단 해야 할 일은 다 했고…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "該做的事姑且都做完了……",
+        "MessageEN": "I'm done for the day."
     },
     {
         "MessageId": 100880030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと休もうかな",
         "MessageKR": "잠시 쉬어야겠어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我想先休息一下",
+        "MessageEN": "I need a break."
     },
     {
         "MessageId": 100880040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "カヨコも休憩するの？",
         "MessageKR": "카요코? 쉰다고?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "佳世子？你要休息？",
+        "MessageEN": "Catching your breath?"
     },
     {
         "MessageId": 100880040,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "どこか良さげな場所でもある？",
         "MessageKR": "어디 좋은 장소라도 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有什麼適合的地方嗎？",
+        "MessageEN": "Where are you thinking of relaxing?"
     },
     {
         "MessageId": 100880050,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ふふ",
         "MessageKR": "후후",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵",
+        "MessageEN": "Heehee."
     },
     {
         "MessageId": 100880051,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "先生も疲れたんだ",
         "MessageKR": "선생도 지친 모양이네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "看來老師也累了呢",
+        "MessageEN": "Even someone like you gets tired too."
     },
     {
         "MessageId": 100880060,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "……そうだね",
         "MessageKR": "뭐",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "Well...\u200b"
     },
     {
         "MessageId": 100880061,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "ちょうどいい場所あるよ",
         "MessageKR": "마침 잘 됐나.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那正好",
+        "MessageEN": "Maybe it's for the best."
     },
     {
         "MessageId": 100870077,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 100880080,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "一応、いっておくけど……",
         "MessageKR": "혹시나 해서 하는 말인데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還是跟你說一聲",
+        "MessageEN": "Maybe I don't need to say it but..."
     },
     {
         "MessageId": 100880090,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "また必要になったら、いつでも呼んで",
         "MessageKR": "필요하면 또 말해",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果需要的話再跟我說",
+        "MessageEN": "If you need anything else, let me know."
     },
     {
         "MessageId": 100880090,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "大丈夫、みんなには内緒にするから",
         "MessageKR": "누구한테 말할 생각 없으니 걱정 마",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我沒打算告訴其他人，不用擔心",
+        "MessageEN": "Don't worry. I'll carry this to my grave."
     },
     {
         "MessageId": 100880100,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "うん",
         "MessageKR": "응",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯\u200b",
+        "MessageEN": "Great,"
     },
     {
         "MessageId": 100880101,
@@ -219,7 +219,7 @@
         "ImagePath": "",
         "MessageJP": "ありがとう",
         "MessageKR": "고마워.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝",
+        "MessageEN": "thanks."
     }
 ]

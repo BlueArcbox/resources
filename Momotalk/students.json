@@ -1240,7 +1240,7 @@
         "Avatar": [
             "/fandom/7/78/Misaki_Unmask_Icon.png",
             "/fandom/8/8f/Misaki_Icon.png",
-            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_550/h_550/829/191981/2024/6/22/834803.png"
+            "/gamekv2/w_550/h_550/829/191981/2024/6/22/834803.png"
         ],
         "Bio": {
             "zh": "希望可以下点雨……",
@@ -2388,7 +2388,7 @@
     },
     {
         "Id": 26012,
-        "Avatar": [],
+        "Avatar": ["/fandom/b/b2/Kirino_Swimsuit_Icon.png"],
         "Bio": {
             "zh": "正在担当救生员！",
             "jp": "ライフセーバーの任務中です！",
@@ -2443,7 +2443,7 @@
     },
     {
         "Id": 10101,
-        "Avatar": [],
+        "Avatar": ["/fandom/7/75/Saori_Swimsuit_Icon.png"],
         "Bio": {
             "zh": "随时接受求助者咨询",
             "jp": "助っ人のお問い合わせは常時受けつけています",
@@ -2454,7 +2454,7 @@
     },
     {
         "Id": 10102,
-        "Avatar": [],
+        "Avatar": ["/fandom/5/5b/Hiyori_Swimsuit_Icon.png"],
         "Bio": {
             "zh": "夏天......大海......难道这是梦！？",
             "jp": "夏……海……もしかして夢！？",
@@ -2465,7 +2465,7 @@
     },
     {
         "Id": 26013,
-        "Avatar": [],
+        "Avatar": ["/fandom/d/d3/Atsuko_Swimsuit_Icon.png"],
         "Bio": {
             "zh": "正在练习拍摄人物照片",
             "jp": "人物写真を撮る練習してる",
@@ -2473,5 +2473,27 @@
         },
         "Nickname": [],
         "related": [10042, "swimsuit"]
+    },
+    {
+        "Id": 10103,
+        "Avatar": ["/fandom/c/c0/Marina_Qipao_Icon.png"],
+        "Bio": {
+            "zh": "这件衣服……是不是有点太暴露了……",
+            "jp": "この服は……少し露出が……",
+            "kr": "이케쿠라 마리나"
+        },
+        "Nickname": ["71", "旗姨"],
+        "related": [10037, "qipao"]
+    },
+    {
+        "Id": 20038,
+        "Avatar": ["/fandom/b/bf/Tomoe_Qipao_Icon.png"],
+        "Bio": {
+            "zh": "我正在散步，顺便休息一下",
+            "jp": "休憩もかねてお散歩しています",
+            "kr": "사시로 토모에"
+        },
+        "Nickname": ["旗袍惠", "旗8"],
+        "related": [16007, "qipao"]
     }
 ]

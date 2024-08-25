@@ -3,7 +3,7 @@
         "CharacterId": 10100,
         "MessageJP": "シロコ＊テラー",
         "MessageKR": "시로코*테러",
-        "MessageTW": "シロコ＊テラー",
+        "MessageTW": "白子＊恐怖",
         "MessageEN": "Shiroko Terror"
     },
     {
@@ -291,7 +291,7 @@
         "ImagePath": "",
         "MessageJP": "シロコ＊テラーの絆イベントへ",
         "MessageKR": "시로코\\*테러의 인연스토리로",
-        "MessageTW": "前往シロコ＊テラー的羈絆劇情",
+        "MessageTW": "前往白子＊恐怖的羈絆劇情",
         "MessageEN": "Go to Shiroko Terror's Event"
     }
 ]

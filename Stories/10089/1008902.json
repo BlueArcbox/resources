@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Hey Sensei,"
     },
     {
         "MessageId": 100890130,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "この間、先生に言われた言葉の意味が",
         "MessageKR": "저번에 선생님이 해 주었던 말",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "上次老師所說的話",
+        "MessageEN": "that advice you gave me last time..."
     },
     {
         "MessageId": 100890131,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "やっと分かったわ",
         "MessageKR": "드디어 알게 됐어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我終於懂了",
+        "MessageEN": "I think I finally get it."
     },
     {
         "MessageId": 100890140,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "私が言った言葉？",
         "MessageKR": "전에 했던 말?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我之前說過的話？",
+        "MessageEN": "The advice I gave you?"
     },
     {
         "MessageId": 100890140,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ドレスのこと？",
         "MessageKR": "드레스 이야기?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是指禮服的事嗎？",
+        "MessageEN": "About the dress?"
     },
     {
         "MessageId": 100890150,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ふふっ",
         "MessageKR": "후훗.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵",
+        "MessageEN": "Heehee!"
     },
     {
         "MessageId": 100890151,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "それで、良ければ少し時間をもらいたいのだけど……",
         "MessageKR": "그런 의미에서, 괜찮다면 약속을 좀 잡을까 하는데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果可以的話，要不要見個面呢？",
+        "MessageEN": "I'd like to schedule a meeting with you, if you're free."
     },
     {
         "MessageId": 100890160,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "時間と場所が決まったら、また連絡してもいいかしら",
         "MessageKR": "시간과 장소는 이쪽에서 먼저 알려주도록 할게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "至於時間跟地點，之後會再告訴你",
+        "MessageEN": "I'll forward you the time and place."
     },
     {
         "MessageId": 100890170,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "それじゃまた後でね、先生",
         "MessageKR": "그럼, 그때 봐. 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "到時候見囉，老師",
+        "MessageEN": "See you then, Sensei."
     },
     {
         "MessageId": 100880187,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "先生\u200b",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師\u200b",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 100890181,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "その……",
         "MessageKR": "그",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個",
+        "MessageEN": "So..."
     },
     {
         "MessageId": 100890190,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "ごめんなさい",
         "MessageKR": "미안",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "抱歉",
+        "MessageEN": "I'm sorry."
     },
     {
         "MessageId": 100890200,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "ずっと私ばかり話してしまったわね",
         "MessageKR": "생각보다 말을 너무 많이 했던 것 같아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好像不小心說太多話了",
+        "MessageEN": "I feel like I said way too much."
     },
     {
         "MessageId": 100890210,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "大丈夫だよ、アル",
         "MessageKR": "괜찮아. 원래 그런 거야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒關係，這樣很正常",
+        "MessageEN": "It's all right. That's just how it goes sometimes."
     },
     {
         "MessageId": 100890210,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "楽しい「打ち上げ」だったね",
         "MessageKR": "아주 훌륭한 사업 설명회의 '뒤풀이'였어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是場非常出色的「慶功宴」哦",
+        "MessageEN": "It was an excellent after-party following a major business presentation."
     },
     {
         "MessageId": 100890220,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "ふふっ\u200b",
         "MessageKR": "음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "Hmm"
     },
     {
         "MessageId": 100890221,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "先生なら、そう言うだろうと思っていたわ",
         "MessageKR": "역시 그렇게 말해주는구나.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師果然會這麼說",
+        "MessageEN": "of course that's how you'd see it."
     },
     {
         "MessageId": 100890230,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "でも、本当にありがとう",
         "MessageKR": "그것까지도 정말 고마워, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "包含這件事在內，我很感謝你哦，老師",
+        "MessageEN": "Well, thank you for an excellent after-party, Sensei."
     },
     {
         "MessageId": 100890240,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "それと……",
         "MessageKR": "그리고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "另外……",
+        "MessageEN": "And..."
     },
     {
         "MessageId": 100890241,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "私も楽しかったわ",
         "MessageKR": "정말 좋았어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "慶功宴真的很棒",
+        "MessageEN": "It really was great."
     },
     {
         "MessageId": 100890250,
@@ -279,7 +279,7 @@
         "ImagePath": "",
         "MessageJP": "また機会があれば、打ち上げしましょう",
         "MessageKR": "가끔은 또 부탁할게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "之後有機會的話，我會再邀請你的",
+        "MessageEN": "I may have to ask for your help again in the future."
     }
 ]

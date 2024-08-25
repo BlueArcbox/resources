@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 100880120,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今日、事務所に来るって言ってたよね",
         "MessageKR": "사무실에 들를 일이 있다고 들었는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "聽說你有事要來事務所一趟",
+        "MessageEN": "Are you headed to your office?"
     },
     {
         "MessageId": 100880130,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "うん。何か急な仕事でも入った？",
         "MessageKR": "응. 무슨 일 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，有什麼事嗎？",
+        "MessageEN": "Yeah. Is something wrong?"
     },
     {
         "MessageId": 100880140,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "いや",
         "MessageKR": "아니.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不",
+        "MessageEN": "No."
     },
     {
         "MessageId": 100880141,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ただ、その時間帯だとまだ誰もいないと思うから",
         "MessageKR": "그냥 그 시간대에는 사무실에 사람이 딱히 없을 거라",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只是因為那段時間，事務所可能沒什麼人",
+        "MessageEN": "I figured the office would be empty by now."
     },
     {
         "MessageId": 100880150,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "私が事務所開けておくね",
         "MessageKR": "아마 내가 맞이하게 될 거 같아서.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "應該會由我來接待",
+        "MessageEN": "Looks like I'm the welcome wagon."
     },
     {
         "MessageId": 100880151,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "じゃあ、待っているね",
         "MessageKR": "그럼 그때 봐, 선생.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那就到時候見吧，老師",
+        "MessageEN": "See you soon, Sensei."
     },
     {
         "MessageId": 100870157,

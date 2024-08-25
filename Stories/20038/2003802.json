@@ -1,0 +1,153 @@
+[
+    {
+        "CharacterId": 20038,
+        "MessageJP": "トモエ（チーパオ）",
+        "MessageKR": "토모에(치파오)",
+        "MessageTW": "智惠（旗袍）",
+        "MessageEN": "Tomoe (Qipao)"
+    },
+    {
+        "MessageId": 200370070,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 200380070,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 200380070,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200380080,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "あらためて感じたのですが",
+        "MessageKR": "확실히 다른 학원에 오게 되어서 느끼는 것입니다만.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200380080,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200380090,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "山海経とレッドウィンターは、本当に色々なところが違いますね",
+        "MessageKR": "산해경과 붉은겨울 사이에는 참 많은 차이가 있군요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200380090,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200380100,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "具体的にはどこが違った？",
+        "MessageKR": "어떤 부분이 특히 그래?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200380100,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200380110,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "一番は暑さです",
+        "MessageKR": "더워요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200380110,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200380111,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ジッとしていても汗をかくだなんて",
+        "MessageKR": "가만히 있어도 땀이 나는 경험이란……",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200380111,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200380120,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "初めての経験で",
+        "MessageKR": "솔직히, 처음 겪는 것이네요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200380120,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200380130,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "たしかに、そうだよね",
+        "MessageKR": "아, 확실히 붉은겨울에 비하면…….",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200380130,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200380131,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "もちろん",
+        "MessageKR": "물론 붉은겨울에 비해서 ",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200380131,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200380140,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "レッドウィンターより涼しいところのほうが少ないと思いますが",
+        "MessageKR": "더 '시원한' 곳이 얼마나 있을까, 하는 생각이 들기도 하지만.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200380140,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200370147,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "これは予想以上でした",
+        "MessageKR": "그렇다고는 해도, 이건 확실히 쉽지 않군요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200370147,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "トモエ（チーパオ）の絆イベントへ",
+        "MessageKR": "토모에(치파오)의 인연스토리로",
+        "MessageTW": "前往智惠（旗袍）的羈絆劇情",
+        "MessageEN": "Go to Tomoe (Qipao)'s Event"
+    }
+]
