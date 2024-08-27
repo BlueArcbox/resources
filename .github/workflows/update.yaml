@@ -1,16 +1,15 @@
-
-name: download-comics
+name: update
 on:
-  workflow_dispatch: 
-  schedule:
-  # 定时任务在周六的8点执行
-    - cron:  0 0 * * 6 
+  workflow_run:
+    workflows: ["trigger"]
+    types: [completed]
+
+  workflow_dispatch:
 
 jobs:
-  build:
-
+  check:
     runs-on: ubuntu-latest
-
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
     steps:
     - name: Checkout actions
       uses: actions/checkout@v4
@@ -21,10 +20,11 @@ jobs:
         python-version: '3.10'
     - run: pip install requests
 
-    - name: Download comics
-      run: python ./scripts/comics.py
+    - name: Update stickers
+      run: python ./scripts/stickers.py
 
     - name: Commit & Push changes
       uses: Andro999b/push@v1.3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
+
