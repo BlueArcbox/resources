@@ -20,6 +20,9 @@ jobs:
         python-version: '3.10'
     - run: pip install requests
 
+    - name: Update Student List
+      run: python ./scripts/momotalk.py
+
     - name: Update stickers
       run: python ./scripts/stickers.py
 

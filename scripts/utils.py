@@ -9,7 +9,7 @@ def process_student_info(file_path, character_info):
         with open(f"{file_path}/students.min.json", "r", encoding="utf-8") as f:
             data = json.loads(f.read())
     except:
-        print(error_msg)
+        print(error_msg, end='')
     finally:
         data = [character_data_test[file_path]]
 
