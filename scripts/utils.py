@@ -1,0 +1,863 @@
+import base64
+import json
+
+
+def process_student_info(file_path, character_info):
+    data = []
+    try:
+        # 读取数据
+        with open(f"{file_path}/students.min.json", "r", encoding="utf-8") as f:
+            data = json.loads(f.read())
+    except:
+        print(error_msg)
+    finally:
+        data = [character_data_test[file_path]]
+
+    processed_data = []
+    student_name = sum(ord(c) for c in character_info["name"]) % 256
+
+    for item in data:
+        if "Illustrator" in item and "FavorItemTags" in item:
+            first_part = [
+                item["Illustrator"],
+                item["FavorItemTags"],
+                item.get("FavorItemUniqueTags", ""),
+                item.get("FavorAlts", ""),
+                item.get("DodgePoint", ""),
+            ]
+            second_part = "".join(filter(None, first_part))
+        try:
+            group_id = base64.b64decode(second_part)
+            group_id = bytes([b ^ student_name for b in group_id])
+            related_path = group_id.decode("utf-8")
+            item["LocalImagePath"] = related_path
+        except:
+            # 如果处理失败，跳过该项
+            print(data)
+            pass
+
+        if "DefaultOrder" in item:
+            item["ProcessedId"] = item["DefaultOrder"] * 2 + 10000
+
+        processed_data.append(item)
+
+    return processed_data
+
+
+error_msg = ""
+character_data_test = {
+    "10000": {
+        "Id": 10000,
+        "IsReleased": [True, True, True],
+        "DefaultOrder": 0,
+        "PathName": "aru",
+        "DevName": "Aru",
+        "Name": "阿露",
+        "Icon": "enemyinfo_aru_sr",
+        "SearchTags": [],
+        "School": "Gehenna",
+        "Club": "Kohshinjo68",
+        "StarGrade": 3,
+        "SquadType": "Main",
+        "TacticRole": "DamageDealer",
+        "Summons": [],
+        "Position": "Back",
+        "BulletType": "Explosion",
+        "ArmorType": "LightArmor",
+        "StreetBattleAdaptation": 4,
+        "OutdoorBattleAdaptation": 2,
+        "IndoorBattleAdaptation": 0,
+        "WeaponType": "SR",
+        "WeaponImg": "weapon_icon_10000",
+        "Cover": True,
+        "Size": "Medium",
+        "Equipment": ["Hat", "Hairpin", "Watch"],
+        "CollectionBG": "BG_Gehenna_Collection",
+        "FamilyName": "陆八魔",
+        "PersonalName": "阿露",
+        "SchoolYear": "2年级",
+        "CharacterAge": "16岁",
+        "Birthday": "3月12日",
+        "CharacterSSRNew": "呼呼呼，明智的选择\n老师",
+        "ProfileIntroduction": "格黑娜学园所属，「便利屋68」的自称社长。\n\n在格黑娜学园的社团便利屋68中，随心所欲进行不法事业的少女。\n她本人想表现得像一个很酷的恶徒，但由于过于缺心眼，每次都很快露馅。",
+        "Hobby": "学习经营",
+        "CharacterVoice": "近藤玲奈",
+        "BirthDay": "3/12",
+        "Illustrator": "QFxcWFsSBwdaSV8G",
+        "Designer": "DoReMi",
+        "CharHeightMetric": "160cm",
+        "CharHeightImperial": "5'2\"",
+        "StabilityPoint": 1988,
+        "AttackPower1": 369,
+        "AttackPower100": 3690,
+        "MaxHP1": 2236,
+        "MaxHP100": 19390,
+        "DefensePower1": 19,
+        "DefensePower100": 119,
+        "HealPower1": 1408,
+        "HealPower100": 4225,
+        "DodgePoint": "SQVMSVxJGBgYGA==",
+        "AccuracyPoint": 905,
+        "CriticalPoint": 201,
+        "CriticalDamageRate": 20000,
+        "AmmoCount": 5,
+        "AmmoCost": 1,
+        "Range": 750,
+        "RegenCost": 700,
+        "Skills": {
+            "Normal": {
+                "Effects": [
+                    {
+                        "Type": "Damage",
+                        "Hits": [10000],
+                        "Scale": [10000],
+                        "Frames": {
+                            "AttackEnterDuration": 45,
+                            "AttackStartDuration": 15,
+                            "AttackEndDuration": 16,
+                            "AttackBurstRoundOverDelay": 50,
+                            "AttackIngDuration": 42,
+                            "AttackReloadDuration": 70,
+                        },
+                        "Block": 1,
+                        "CriticalCheck": "Check",
+                    }
+                ]
+            },
+            "Ex": {
+                "Name": "冷硬派射击",
+                "Desc": "对1名敌方单位造成攻击力<?1>的伤害；\n对以该目标为中心的圆形范围内的目标造成攻击力<?2>的伤害.",
+                "Parameters": [
+                    ["274%", "315%", "397%", "438%", "521%"],
+                    ["292%", "335%", "423%", "467%", "554%"],
+                ],
+                "Cost": [4, 4, 4, 4, 4],
+                "Duration": 132,
+                "Range": 950,
+                "Radius": [{"Type": "Circle", "Radius": 200}],
+                "Icon": "COMMON_SKILLICON_CIRCLE",
+                "Effects": [
+                    {
+                        "Type": "Damage",
+                        "Block": 1,
+                        "CriticalCheck": "Check",
+                        "Hits": [10000],
+                        "DescParamId": 1,
+                        "Scale": [27438, 31554, 39781, 43898, 52125],
+                    },
+                    {
+                        "Type": "Damage",
+                        "Block": 0,
+                        "CriticalCheck": "Check",
+                        "Hits": [10000],
+                        "DescParamId": 2,
+                        "Scale": [29207, 33584, 42344, 46727, 55487],
+                    },
+                ],
+            },
+            "Public": {
+                "Name": "暗黑射击",
+                "Desc": "每25秒，对1名敌方单位造成攻击力<?1>的伤害；\n50%概率对以该目标为中心的圆形范围内的目标造成攻击力<?2>的伤害.",
+                "Parameters": [
+                    [
+                        "152%",
+                        "160%",
+                        "168%",
+                        "198%",
+                        "206%",
+                        "213%",
+                        "244%",
+                        "251%",
+                        "259%",
+                        "290%",
+                    ],
+                    [
+                        "251%",
+                        "263%",
+                        "276%",
+                        "326%",
+                        "338%",
+                        "351%",
+                        "401%",
+                        "414%",
+                        "426%",
+                        "476%",
+                    ],
+                ],
+                "Duration": 100,
+                "Range": 950,
+                "Radius": [{"Type": "Circle", "Radius": 100}],
+                "Icon": "COMMON_SKILLICON_TARGET",
+                "Effects": [
+                    {
+                        "Type": "Damage",
+                        "Block": 1,
+                        "CriticalCheck": "Check",
+                        "Hits": [10000],
+                        "DescParamId": 1,
+                        "Scale": [
+                            15270,
+                            16035,
+                            16801,
+                            19851,
+                            20617,
+                            21376,
+                            24433,
+                            25198,
+                            25958,
+                            29014,
+                        ],
+                    },
+                    {
+                        "Type": "Damage",
+                        "Block": 0,
+                        "CriticalCheck": "Check",
+                        "Hits": [10000],
+                        "DescParamId": 2,
+                        "Scale": [
+                            25102,
+                            26355,
+                            27608,
+                            32631,
+                            33884,
+                            35137,
+                            40155,
+                            41414,
+                            42667,
+                            47685,
+                        ],
+                    },
+                ],
+            },
+            "GearPublic": {
+                "Name": "暗黑射击＋",
+                "Desc": "每25秒，对1名敌方单位造成攻击力<?1>的伤害；\n对以该目标为中心的圆形范围内的目标造成攻击力<?2>的伤害.",
+                "Parameters": [
+                    [
+                        "156%",
+                        "163%",
+                        "171%",
+                        "203%",
+                        "210%",
+                        "218%",
+                        "249%",
+                        "257%",
+                        "265%",
+                        "296%",
+                    ],
+                    [
+                        "256%",
+                        "269%",
+                        "282%",
+                        "333%",
+                        "346%",
+                        "359%",
+                        "410%",
+                        "423%",
+                        "436%",
+                        "487%",
+                    ],
+                ],
+                "Duration": 100,
+                "Range": 950,
+                "Radius": [{"Type": "Circle", "Radius": 100}],
+                "Icon": "COMMON_SKILLICON_TARGET",
+                "Effects": [
+                    {
+                        "Type": "Damage",
+                        "Block": 1,
+                        "CriticalCheck": "Check",
+                        "Hits": [10000],
+                        "DescParamId": 1,
+                        "Scale": [
+                            15616,
+                            16398,
+                            17181,
+                            20305,
+                            21082,
+                            21864,
+                            24988,
+                            25771,
+                            26547,
+                            29672,
+                        ],
+                    },
+                    {
+                        "Type": "Damage",
+                        "Block": 0,
+                        "CriticalCheck": "Check",
+                        "Hits": [10000],
+                        "DescParamId": 2,
+                        "Scale": [
+                            25669,
+                            26956,
+                            28237,
+                            33368,
+                            34656,
+                            35937,
+                            41068,
+                            42355,
+                            43637,
+                            48768,
+                        ],
+                    },
+                ],
+            },
+            "Passive": {
+                "Name": "社长的威严",
+                "Desc": "<b:CriticalDamage>增加<?1>.",
+                "Parameters": [
+                    [
+                        "14%",
+                        "14.7%",
+                        "15.4%",
+                        "18.2%",
+                        "18.9%",
+                        "19.6%",
+                        "22.4%",
+                        "23.1%",
+                        "23.8%",
+                        "26.6%",
+                    ]
+                ],
+                "Icon": "COMMON_SKILLICON_WEAPONBUFF",
+                "Effects": [
+                    {
+                        "Type": "Buff",
+                        "Target": ["Self"],
+                        "Stat": "CriticalDamageRate_Coefficient",
+                        "Channel": 11,
+                        "Value": [
+                            [1400, 1470, 1540, 1820, 1890, 1960, 2240, 2310, 2380, 2660]
+                        ],
+                    }
+                ],
+            },
+            "WeaponPassive": {
+                "Name": "社长的威严＋",
+                "Desc": "<b:CriticalDamage>增加<?1>；\n<b:CriticalDamage>增加<?2>.",
+                "Parameters": [
+                    [
+                        "2000",
+                        "2100",
+                        "2200",
+                        "2600",
+                        "2700",
+                        "2800",
+                        "3200",
+                        "3300",
+                        "3400",
+                        "3800",
+                    ],
+                    [
+                        "14%",
+                        "14.7%",
+                        "15.4%",
+                        "18.2%",
+                        "18.9%",
+                        "19.6%",
+                        "22.4%",
+                        "23.1%",
+                        "23.8%",
+                        "26.6%",
+                    ],
+                ],
+                "Icon": "COMMON_SKILLICON_WEAPONBUFF",
+                "Effects": [
+                    {
+                        "Type": "Buff",
+                        "Target": ["Self"],
+                        "Stat": "CriticalDamageRate_Base",
+                        "Channel": 1711,
+                        "Value": [
+                            [2000, 2100, 2200, 2600, 2700, 2800, 3200, 3300, 3400, 3800]
+                        ],
+                    }
+                ],
+            },
+            "ExtraPassive": {
+                "Name": "暴徒的做派",
+                "Desc": "自身使用EX技能期间，令自身<b:CriticalChance>增加<?1>.",
+                "Parameters": [
+                    [
+                        "20.1%",
+                        "21.1%",
+                        "22.1%",
+                        "26.2%",
+                        "27.2%",
+                        "28.2%",
+                        "32.2%",
+                        "33.2%",
+                        "34.2%",
+                        "38.3%",
+                    ]
+                ],
+                "Icon": "COMMON_SKILLICON_WEAPONBUFF",
+                "Effects": [
+                    {
+                        "Type": "Buff",
+                        "Target": ["Self"],
+                        "Value": [
+                            [2016, 2117, 2218, 2621, 2722, 2823, 3226, 3327, 3428, 3831]
+                        ],
+                        "Stat": "CriticalPoint_Coefficient",
+                        "Channel": 9,
+                    }
+                ],
+            },
+        },
+        "FavorStatType": ["AttackPower", "MaxHP"],
+        "FavorStatValue": [[4, 0], [6, 0], [7, 48], [9, 58], [2, 10], [4, 15], [6, 25]],
+        "FavorAlts": "TUtcWkFLT0dJXAdK",
+        "MemoryLobby": [6, 6, 6],
+        "MemoryLobbyBGM": 38,
+        "FurnitureInteraction": [[], [], []],
+        "FavorItemTags": "T0FcQF1KXVtNWktH",
+        "FavorItemUniqueTags": "RlxNRlwGS0dFB01E",
+        "IsLimited": 0,
+        "Weapon": {
+            "Name": "酒红仰慕",
+            "Desc": "阿露平日里非常珍视的古风设计的狙击步枪。\n只要拿着就能提升冷硬派的程度……似乎是这样。",
+            "AdaptationType": "Street",
+            "AdaptationValue": 1,
+            "AttackPower1": 162,
+            "AttackPower100": 1621,
+            "MaxHP1": 561,
+            "MaxHP100": 5607,
+            "HealPower1": 0,
+            "HealPower100": 0,
+            "StatLevelUpType": "Standard",
+        },
+        "Gear": {
+            "Released": [True, True, True],
+            "StatType": ["AccuracyPoint_Base"],
+            "StatValue": [[150, 150]],
+            "Name": "阿露非常贵重的钱包",
+            "Desc": "阿露爱用的高级钱包。\n使用优质素材制成的高极品，但因长期使用，已经出现了掉色和磨损。这是便利屋成立之初，遥香、佳代子、睦月一起凑钱买给她的礼物，对她来说是无可替代的重要物品。",
+            "TierUpMaterial": [[5017, 150, 151]],
+            "TierUpMaterialAmount": [[4, 80, 25]],
+        },
+        "SkillExMaterial": [
+            [3030, 150],
+            [3031, 3030, 151, 150],
+            [3032, 3031, 152, 151],
+            [3033, 3032, 153, 152],
+        ],
+        "SkillExMaterialAmount": [
+            [12, 17],
+            [12, 18, 14, 28],
+            [12, 18, 12, 24],
+            [8, 18, 9, 18],
+        ],
+        "SkillMaterial": [
+            [4030],
+            [4030],
+            [4031, 4030, 150],
+            [4031, 151, 150],
+            [4032, 4031, 151, 150],
+            [4032, 152, 151],
+            [4033, 4032, 153, 152],
+            [4033, 153, 152],
+        ],
+        "SkillMaterialAmount": [
+            [5],
+            [8],
+            [5, 12, 6],
+            [8, 4, 14],
+            [5, 12, 10, 16],
+            [8, 4, 18],
+            [8, 12, 4, 7],
+            [12, 9, 16],
+        ],
+        "PotentialMaterial": 150,
+    },
+    "10001": {
+        "Id": 10001,
+        "IsReleased": [True, True, True],
+        "DefaultOrder": 1,
+        "PathName": "eimi",
+        "DevName": "Eimi",
+        "Name": "艾米",
+        "Icon": "enemyinfo_eimi_sg",
+        "SearchTags": [],
+        "School": "Millennium",
+        "Club": "SPTF",
+        "StarGrade": 3,
+        "SquadType": "Main",
+        "TacticRole": "Tanker",
+        "Summons": [],
+        "Position": "Front",
+        "BulletType": "Explosion",
+        "ArmorType": "LightArmor",
+        "StreetBattleAdaptation": 4,
+        "OutdoorBattleAdaptation": 2,
+        "IndoorBattleAdaptation": 0,
+        "WeaponType": "SG",
+        "WeaponImg": "weapon_icon_10001",
+        "Cover": False,
+        "Size": "Medium",
+        "Equipment": ["Shoes", "Bag", "Charm"],
+        "CollectionBG": "BG_Millennium_Collection",
+        "FamilyName": "和泉元",
+        "PersonalName": "艾米",
+        "SchoolYear": "1年级",
+        "CharacterAge": "15岁",
+        "Birthday": "5月1日",
+        "CharacterSSRNew": "有没有更高效的战斗方法呢……？",
+        "ProfileIntroduction": "千年科学学园所属，「特异现象调查部」的成员。\n\n话少，难以理解想法的少女。\n经常无缘由站着发呆。\n但接受来自研讨会的委托执行任务时，她能比任何人都更高效地行动，迅速达成目标。",
+        "Hobby": "发呆、音乐鉴赏",
+        "CharacterVoice": "松永茜",
+        "BirthDay": "5/1",
+        "Illustrator": "amls",
+        "Designer": "ポップキュン",
+        "CharHeightMetric": "167cm",
+        "CharHeightImperial": "5'5\"",
+        "StabilityPoint": 2044,
+        "AttackPower1": 113,
+        "AttackPower100": 1133,
+        "MaxHP1": 3066,
+        "MaxHP100": 51240,
+        "DefensePower1": 183,
+        "DefensePower100": 1103,
+        "HealPower1": 1369,
+        "HealPower100": 4107,
+        "DodgePoint": "fXpk",
+        "AccuracyPoint": 586,
+        "CriticalPoint": 195,
+        "CriticalDamageRate": 20000,
+        "AmmoCount": 8,
+        "AmmoCost": 1,
+        "Range": 350,
+        "RegenCost": 700,
+        "Skills": {
+            "Normal": {
+                "Effects": [
+                    {
+                        "Type": "Damage",
+                        "Hits": [3334, 3333, 3333],
+                        "Scale": [10000],
+                        "Frames": {
+                            "AttackEnterDuration": 34,
+                            "AttackStartDuration": 11,
+                            "AttackEndDuration": 15,
+                            "AttackBurstRoundOverDelay": 30,
+                            "AttackIngDuration": 22,
+                            "AttackReloadDuration": 60,
+                        },
+                        "Block": 1,
+                        "CriticalCheck": "Check",
+                    }
+                ]
+            },
+            "Ex": {
+                "Name": "不屈意志",
+                "Desc": "赋予自身治愈力<?1>＋已损生命值3.4%的<b:DotHeal>状态(持续20秒).",
+                "Parameters": [["8.6%", "9.9%", "12.5%", "13.8%", "16.4%"]],
+                "Cost": [4, 4, 4, 4, 4],
+                "Duration": 95,
+                "Icon": "COMMON_SKILLICON_DOTHEAL",
+                "Effects": [
+                    {
+                        "Type": "Regen",
+                        "Target": "Self",
+                        "Duration": 20000,
+                        "Period": 1000,
+                        "ExtraStatSource": "TargetLostHP",
+                        "ApplyFrame": 58,
+                        "Scale": [864, 994, 1253, 1383, 1642],
+                        "ExtraStatRate": [346, 346, 346, 346, 346],
+                    }
+                ],
+            },
+            "Public": {
+                "Name": "执念猛击",
+                "Desc": "每15秒，对扇形范围内的敌方单位造成攻击力<?1>的伤害.",
+                "Parameters": [
+                    [
+                        "297%",
+                        "312%",
+                        "327%",
+                        "386%",
+                        "401%",
+                        "416%",
+                        "475%",
+                        "490%",
+                        "505%",
+                        "564%",
+                    ]
+                ],
+                "Duration": 64,
+                "Range": 350,
+                "Radius": [{"Type": "Fan", "Radius": 400, "Degree": 45}],
+                "Icon": "COMMON_SKILLICON_FAN",
+                "Effects": [
+                    {
+                        "Type": "Damage",
+                        "Block": 1,
+                        "CriticalCheck": "Check",
+                        "Hits": [10000],
+                        "DescParamId": 1,
+                        "Scale": [
+                            29741,
+                            31232,
+                            32713,
+                            38657,
+                            40148,
+                            41639,
+                            47583,
+                            49064,
+                            50555,
+                            56499,
+                        ],
+                    }
+                ],
+            },
+            "GearPublic": {
+                "Name": "执念猛击＋",
+                "Desc": "每15秒，对扇形范围内的敌方单位造成攻击力<?1>的伤害；\n回复自身治愈力<?2>的生命值.",
+                "Parameters": [
+                    [
+                        "405%",
+                        "425%",
+                        "446%",
+                        "527%",
+                        "547%",
+                        "567%",
+                        "648%",
+                        "669%",
+                        "689%",
+                        "770%",
+                    ],
+                    [
+                        "42.7%",
+                        "44.8%",
+                        "46.9%",
+                        "55.5%",
+                        "57.6%",
+                        "59.7%",
+                        "68.3%",
+                        "70.4%",
+                        "72.5%",
+                        "81.1%",
+                    ],
+                ],
+                "Duration": 64,
+                "Range": 350,
+                "Radius": [{"Type": "Fan", "Radius": 400, "Degree": 45}],
+                "Icon": "COMMON_SKILLICON_FAN",
+                "Effects": [
+                    {
+                        "Type": "Damage",
+                        "Block": 1,
+                        "CriticalCheck": "Check",
+                        "Hits": [10000],
+                        "DescParamId": 1,
+                        "Scale": [
+                            40556,
+                            42583,
+                            44611,
+                            52722,
+                            54750,
+                            56778,
+                            64879,
+                            66907,
+                            68934,
+                            77045,
+                        ],
+                    },
+                    {
+                        "Type": "Heal",
+                        "Target": "Self",
+                        "ApplyFrame": 39,
+                        "Scale": [
+                            4270,
+                            4483,
+                            4698,
+                            5550,
+                            5763,
+                            5978,
+                            6830,
+                            7045,
+                            7258,
+                            8110,
+                        ],
+                    },
+                ],
+            },
+            "Passive": {
+                "Name": "专家的休憩",
+                "Desc": "<b:HealEffectiveness>增加<?1>.",
+                "Parameters": [
+                    [
+                        "14%",
+                        "14.7%",
+                        "15.4%",
+                        "18.2%",
+                        "18.9%",
+                        "19.6%",
+                        "22.4%",
+                        "23.1%",
+                        "23.8%",
+                        "26.6%",
+                    ]
+                ],
+                "Icon": "COMMON_SKILLICON_STATBUFF",
+                "Effects": [
+                    {
+                        "Type": "Buff",
+                        "Target": ["Self"],
+                        "Stat": "HealEffectivenessRate_Coefficient",
+                        "Channel": 21,
+                        "Value": [
+                            [1400, 1470, 1540, 1820, 1890, 1960, 2240, 2310, 2380, 2660]
+                        ],
+                    }
+                ],
+            },
+            "WeaponPassive": {
+                "Name": "专家的休憩＋",
+                "Desc": "<b:HealEffectiveness>增加<?1>；\n<b:HealEffectiveness>增加<?2>.",
+                "Parameters": [
+                    [
+                        "1000",
+                        "1050",
+                        "1100",
+                        "1300",
+                        "1350",
+                        "1400",
+                        "1600",
+                        "1650",
+                        "1700",
+                        "1900",
+                    ],
+                    [
+                        "14%",
+                        "14.7%",
+                        "15.4%",
+                        "18.2%",
+                        "18.9%",
+                        "19.6%",
+                        "22.4%",
+                        "23.1%",
+                        "23.8%",
+                        "26.6%",
+                    ],
+                ],
+                "Icon": "COMMON_SKILLICON_STATBUFF",
+                "Effects": [
+                    {
+                        "Type": "Buff",
+                        "Target": ["Self"],
+                        "Stat": "HealEffectivenessRate_Base",
+                        "Channel": 1721,
+                        "Value": [
+                            [1000, 1050, 1100, 1300, 1350, 1400, 1600, 1650, 1700, 1900]
+                        ],
+                    }
+                ],
+            },
+            "ExtraPassive": {
+                "Name": "百折不挠",
+                "Desc": "自身生命值低于50%时，令自身<b:OppressionResist>增加<?1>.",
+                "Parameters": [
+                    [
+                        "20.1%",
+                        "21.1%",
+                        "22.1%",
+                        "26.2%",
+                        "27.2%",
+                        "28.2%",
+                        "32.2%",
+                        "33.2%",
+                        "34.2%",
+                        "38.3%",
+                    ]
+                ],
+                "Icon": "COMMON_SKILLICON_STATBUFF",
+                "Effects": [
+                    {
+                        "Type": "Buff",
+                        "Target": ["Self"],
+                        "Value": [
+                            [2016, 2117, 2218, 2621, 2722, 2823, 3226, 3327, 3428, 3831]
+                        ],
+                        "Stat": "OppressionResist_Coefficient",
+                        "Channel": 29,
+                    }
+                ],
+            },
+        },
+        "FavorStatType": ["DefensePower", "MaxHP"],
+        "FavorStatValue": [
+            [1, 0],
+            [2, 0],
+            [2, 128],
+            [3, 153],
+            [1, 27],
+            [1, 40],
+            [2, 67],
+        ],
+        "FavorAlts": "e213",
+        "MemoryLobby": [6, 6, 6],
+        "MemoryLobbyBGM": 36,
+        "FurnitureInteraction": [[], [], []],
+        "FavorItemTags": "aXxp",
+        "FavorItemUniqueTags": "d2pp",
+        "IsLimited": 0,
+        "Weapon": {
+            "Name": "多维战术",
+            "Desc": "艾米爱用的霰弹枪。\n正如其名，被设计成从强行突破到前往应对超常现象，可应对各种状况的枪。",
+            "AdaptationType": "Street",
+            "AdaptationValue": 1,
+            "AttackPower1": 50,
+            "AttackPower100": 498,
+            "MaxHP1": 1452,
+            "MaxHP100": 14520,
+            "HealPower1": 161,
+            "HealPower100": 1609,
+            "StatLevelUpType": "Standard",
+        },
+        "Gear": {
+            "Released": [True, True, True],
+            "StatType": ["MaxHP_Base"],
+            "StatValue": [[10000, 10000]],
+            "Name": "超冷却电风扇",
+            "Desc": "艾米为在炎热地点或地区活动而准备的秘密武器。\n与它可爱的外观相反，产生出的风极其强力。与其强大的输出功率相比，吹风的范围很小，因此多人一起吹风时必须挤在一块。",
+            "TierUpMaterial": [[5030, 130, 131]],
+            "TierUpMaterialAmount": [[4, 80, 25]],
+        },
+        "SkillExMaterial": [
+            [3050, 130],
+            [3051, 3050, 131, 180],
+            [3052, 3051, 132, 181],
+            [3053, 3052, 133, 182],
+        ],
+        "SkillExMaterialAmount": [
+            [12, 14],
+            [12, 18, 15, 31],
+            [12, 18, 8, 23],
+            [8, 18, 7, 22],
+        ],
+        "SkillMaterial": [
+            [4050],
+            [4050],
+            [4051, 4050, 130],
+            [4051, 131, 180],
+            [4052, 4051, 131, 180],
+            [4052, 132, 181],
+            [4053, 4052, 133, 182],
+            [4053, 133, 182],
+        ],
+        "SkillMaterialAmount": [
+            [5],
+            [8],
+            [5, 12, 4],
+            [8, 4, 12],
+            [5, 12, 9, 19],
+            [8, 3, 18],
+            [8, 12, 4, 7],
+            [12, 7, 15],
+        ],
+        "PotentialMaterial": 130,
+    },
+}

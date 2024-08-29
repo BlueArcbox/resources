@@ -23,6 +23,9 @@ jobs:
     - name: Update stickers
       run: python ./scripts/stickers.py
 
+    - name: Update Bond Stories
+      run: python ./scripts/bondstory.py
+
     - name: Commit & Push changes
       uses: Andro999b/push@v1.3
       with:
