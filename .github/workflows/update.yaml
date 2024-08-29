@@ -21,13 +21,13 @@ jobs:
     - run: pip install requests
 
     - name: Update Student List
-      run: python ./scripts/momotalk.py
+      run: python scripts/momotalk.py
 
     - name: Update stickers
-      run: python ./scripts/stickers.py
+      run: python scripts/stickers.py
 
     - name: Update Bond Stories
-      run: python ./scripts/bondstory.py
+      run: python scripts/bondstory.py
 
     - name: Commit & Push changes
       uses: Andro999b/push@v1.3
