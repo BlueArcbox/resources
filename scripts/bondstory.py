@@ -151,7 +151,7 @@ def get_item_bond_story(item, student_name):
     item_copy["MessageKR"] = f"{student_name['kr']}의 인연스토리로"
     item_copy["MessageJP"] = f"{student_name['jp']}の絆イベントへ"
     item_copy["MessageTW"] = f"前往{student_name['cn']}的羈絆劇情"
-    item_copy["MessageEN"] = f"Go to {student_name['en']}'s Event"
+    item_copy["MessageEN"] = f"Go to {student_name['en']}'s Bond Story"
     return item_copy
 
 

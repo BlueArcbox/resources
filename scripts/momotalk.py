@@ -72,9 +72,9 @@ def download_momotalk_status():
             "id": student["CharacterId"],
             "name": student["FullNameJp"],
             "data": {
-                "zh": "",
-                "kr": student["StatusMessageKr"],
+                "zh": student["StatusMessageJp"],
                 "jp": student["StatusMessageJp"],
+                "kr": student["StatusMessageKr"],
             },
         }
         for student in student_info
@@ -152,5 +152,5 @@ if __name__ == "__main__":
             logger.info(f"✍️  Insert {item['name']}")
 
     with open(file_path / "students.json", "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=4)
+        json.dump(data, f, ensure_ascii=False)
     logger.success("Update local data done")

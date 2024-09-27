@@ -332,9 +332,7 @@ class Gamekee(SiteTool):
     @staticmethod
     def _replace_domain(result):
         result = [
-            item.replace(
-                "https://cdnimg-v2.gamekee.com/wiki2.0/images", "/gamekv2"
-            ).replace("https://cdnimg.gamekee.com/wiki2.0/images", "/gamekee")
+            item.replace("https://cdnimg-v2.gamekee.com/wiki2.0/images", "/gamekee")
             for item in result
         ]
         return result
