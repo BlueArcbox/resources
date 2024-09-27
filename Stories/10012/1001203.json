@@ -168,7 +168,7 @@
         "Type": 0,
         "NextId": 100120193,
         "MessageType": "Image",
-        "ImagePath": "/api/Stickers/Mo_Sumire_01.webp",
+        "ImagePath": "https://bluearcbox.github.io/resources/Stickers/Mo_Sumire_01.webp",
         "MessageJP": "",
         "MessageKR": "",
         "MessageTW": "",

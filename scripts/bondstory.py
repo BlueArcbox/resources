@@ -292,7 +292,7 @@ def process_student_story(chat_list: list, student: dict):
     for item in story_data:
         re_res = re.findall(r"UIs/03_Scenario/04_ScenarioImage/(.*)", item["ImagePath"])
         if re_res:
-            item["ImagePath"] = f"/api/Stickers/{re_res[0]}.webp"
+            item["ImagePath"] = f"https://bluearcbox.github.io/resources/Stickers/{re_res[0]}.webp"
 
     # Add story info at the beginning
     story_info = {

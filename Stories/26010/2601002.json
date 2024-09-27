@@ -276,7 +276,7 @@
         "Type": 0,
         "NextId": 260100320,
         "MessageType": "Image",
-        "ImagePath": "/api/Stickers/Mo_CH0218_01.webp",
+        "ImagePath": "https://bluearcbox.github.io/resources/Stickers/Mo_CH0218_01.webp",
         "MessageJP": "",
         "MessageKR": "",
         "MessageTW": "",

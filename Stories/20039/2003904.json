@@ -480,7 +480,7 @@
         "Type": 0,
         "NextId": 200390830,
         "MessageType": "Image",
-        "ImagePath": "/api/Stickers/Mo_CH0139_01.webp",
+        "ImagePath": "https://bluearcbox.github.io/resources/Stickers/Mo_CH0139_01.webp",
         "MessageJP": "",
         "MessageKR": "",
         "MessageTW": "",

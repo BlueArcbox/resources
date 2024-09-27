@@ -180,7 +180,7 @@
         "Type": 0,
         "NextId": 100490250,
         "MessageType": "Image",
-        "ImagePath": "/api/Stickers/Mo_kazusa_01.webp",
+        "ImagePath": "https://bluearcbox.github.io/resources/Stickers/Mo_kazusa_01.webp",
         "MessageJP": "",
         "MessageKR": "",
         "MessageTW": "",
