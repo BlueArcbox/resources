@@ -1,0 +1,129 @@
+[
+    {
+        "CharacterId": 23006,
+        "MessageJP": "シズコ",
+        "MessageKR": "시즈코",
+        "MessageTW": "靜子",
+        "MessageEN": "Shizuko"
+    },
+    {
+        "MessageId": 2300590400,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 2300600400,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 2300600400,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 2300600410,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生！先生！",
+        "MessageKR": "선생님! 선생님!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 2300600410,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 2300600411,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "今日から百夜堂の期間限定イベントが始まりますよ！",
+        "MessageKR": "오늘부터 백야당 특별 시즌 이벤트가 시작돼요!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 2300600411,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 2300600420,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "今回は「林檎フェス」！！",
+        "MessageKR": "바로바로, [사과 페어]!!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 2300600420,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 2300600430,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "爽やかなアップルティーに、林檎を使った各種デザートをたくさんご用意しております！",
+        "MessageKR": "산뜻한 사과 향 차와 각종 상큼달달한 디저트의 향연이라구요!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 2300600430,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 2300600440,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "これは行かなくちゃだね！",
+        "MessageKR": "이거 안 갈 수가 없겠군!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 2300600440,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 2300600441,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ふふふ",
+        "MessageKR": "후후후후후",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 2300600441,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 2300600450,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "お待ちしております！",
+        "MessageKR": "한번 놀러 오세요!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 2300600450,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 2300590457,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "最高のおもてなしをお約束します！！",
+        "MessageKR": "항상 그랬던 것처럼, 최고의 접대를 선사해 드릴 테니!!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 2300590457,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "シズコの絆イベントへ",
+        "MessageKR": "시즈코의 인연스토리로",
+        "MessageTW": "前往靜子的羈絆劇情",
+        "MessageEN": "Go to Shizuko's Bond Story"
+    }
+]

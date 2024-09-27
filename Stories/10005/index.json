@@ -1,4 +1,26 @@
 {
+    "1000505": [
+        "MessageJP",
+        "MessageKR",
+        "MessageTW",
+        "MessageEN"
+    ],
+    "1000507": [
+        "MessageJP",
+        "MessageKR"
+    ],
+    "1000504": [
+        "MessageJP",
+        "MessageKR",
+        "MessageTW",
+        "MessageEN"
+    ],
+    "1000506": [
+        "MessageJP",
+        "MessageKR",
+        "MessageTW",
+        "MessageEN"
+    ],
     "1000501": [
         "MessageJP",
         "MessageKR",
@@ -16,27 +38,5 @@
         "MessageKR",
         "MessageTW",
         "MessageEN"
-    ],
-    "1000504": [
-        "MessageJP",
-        "MessageKR",
-        "MessageTW",
-        "MessageEN"
-    ],
-    "1000505": [
-        "MessageJP",
-        "MessageKR",
-        "MessageTW",
-        "MessageEN"
-    ],
-    "1000506": [
-        "MessageJP",
-        "MessageKR",
-        "MessageTW",
-        "MessageEN"
-    ],
-    "1000507": [
-        "MessageJP",
-        "MessageKR"
     ]
 }

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "おはよ～先生",
         "MessageKR": "안녕, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你好，老師",
+        "MessageEN": "Hi, Sensei."
     },
     {
         "MessageId": 200350020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "あ、ツバキだ",
         "MessageKR": "오. 츠바키네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哦，是椿呀",
+        "MessageEN": "Oh, Tsubaki!"
     },
     {
         "MessageId": 200350020,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "今日も修行してたの？",
         "MessageKR": "오늘도 수행 중이야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天也在修行嗎？",
+        "MessageEN": "Are you training today too?"
     },
     {
         "MessageId": 200350030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "うん、私だよ～\n修行終わったところ……ふわぁ",
         "MessageKR": "맞아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒錯",
+        "MessageEN": "Yep."
     },
     {
         "MessageId": 200350040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "今回は普通の修行じゃないの……",
         "MessageKR": "이번엔 특별히",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這次我特別",
+        "MessageEN": "But today"
     },
     {
         "MessageId": 200350050,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "だから、いつもより気合を入れようと思って",
         "MessageKR": "수행을 위해…… 더욱 심기일전해서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "為了讓修行……更加煥然一新",
+        "MessageEN": "I'm feeling especially motivated."
     },
     {
         "MessageId": 200350051,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "服を着替えたんだ～",
         "MessageKR": "옷까지 바꿔 입었으니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "連衣服都換了",
+        "MessageEN": "I even went the extra mile to change clothes before training."
     },
     {
         "MessageId": 200350060,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "今日はいつもの服じゃないの？",
         "MessageKR": "옷을 바꿔 입었다고?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "換了衣服？",
+        "MessageEN": "You changed clothes?"
     },
     {
         "MessageId": 200350070,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "うん",
         "MessageKR": "응.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "Yeah."
     },
     {
         "MessageId": 200350080,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "百鬼夜行に来てくれたら",
         "MessageKR": "백귀야행에 오게 되면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果老師要來百鬼夜行",
+        "MessageEN": "When you come to Hyakkiyako,"
     },
     {
         "MessageId": 200350081,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "見せてあげるね",
         "MessageKR": "보여 줄게?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就給你看看吧？",
+        "MessageEN": "I can show you my outfit."
     },
     {
         "MessageId": 200340087,
@@ -160,6 +160,6 @@
         "MessageJP": "ツバキ（ガイド）の絆イベントへ",
         "MessageKR": "츠바키(가이드)의 인연스토리로",
         "MessageTW": "前往椿(導覽員)的羈絆劇情",
-        "MessageEN": "Go to Tsubaki (Guide)'s Event"
+        "MessageEN": "Go to Tsubaki (Guide)'s Bond Story"
     }
 ]

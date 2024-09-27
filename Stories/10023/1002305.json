@@ -1,0 +1,105 @@
+[
+    {
+        "CharacterId": 10023,
+        "MessageJP": "イオリ（水着）",
+        "MessageKR": "이오리(수영복)",
+        "MessageTW": "伊織(泳裝)",
+        "MessageEN": "Iori (Swimsuit)"
+    },
+    {
+        "MessageId": 100220310,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 100230310,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 100230310,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100230320,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生、緊急事態だ",
+        "MessageKR": "선생님, 긴급 상황이야.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100230320,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 100230330,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "どうしたの？",
+        "MessageKR": "응? 무슨 일이야?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100230330,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100230331,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "浜辺の食堂で不良生徒が暴れてて……",
+        "MessageKR": "해변가의 식당에서 불량배들이 난동을 부리고 있다고 해.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100230331,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100230340,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "一度取り締まったのに……はぁ……",
+        "MessageKR": "분명 저번에 싹 쓸었을 텐데, 또 어디선가 나타나서……",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100230340,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 100230350,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ちょっと手が足りないから、先生に指揮をお願いしたいんだ",
+        "MessageKR": "아무튼, 선생님이 지휘해 줬으면 좋겠어.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100230350,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 100220357,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "分かった、どこに向かえばいいかな？",
+        "MessageKR": "알겠어. 어디로 가면 될까?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100220357,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "イオリ（水着）の絆イベントへ",
+        "MessageKR": "이오리(수영복)의 인연스토리로",
+        "MessageTW": "前往伊織(泳裝)的羈絆劇情",
+        "MessageEN": "Go to Iori (Swimsuit)'s Bond Story"
+    }
+]

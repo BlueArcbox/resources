@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "お雑煮って美味しいですよね",
         "MessageKR": "오조니는 맛있는 음식이죠.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "年糕湯是道很好吃的料理",
+        "MessageEN": "Ozoni is so delicious."
     },
     {
         "MessageId": 200340070,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "それ故に、些細な問題があるともいえます",
         "MessageKR": "그 덕분에 사소한 문제가 생겨 버렸지만요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過也因此出了一點小問題",
+        "MessageEN": "So delicious it might've led to a little trouble..."
     },
     {
         "MessageId": 200340080,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "アカリが言うと",
         "MessageKR": "아카리가 사소하다고 말하니까…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "亞伽里說的小問題……",
+        "MessageEN": "When you say a \"little\" trouble..."
     },
     {
         "MessageId": 200340080,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "ちっとも些細じゃなさそう……",
         "MessageKR": "왠지 그렇게 들리지가 않아…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總感覺不只是小問題……",
+        "MessageEN": "I don't know if you're really being honest..."
     },
     {
         "MessageId": 200340090,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "あら",
         "MessageKR": "어머나.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哎呀",
+        "MessageEN": "Oh, Sensei."
     },
     {
         "MessageId": 200340091,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "今回は本当に些細ですよ？",
         "MessageKR": "이번엔 정말로 사소한 일이에요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這次真的是件小事哦",
+        "MessageEN": "It really is only a little bit of trouble. Promise."
     },
     {
         "MessageId": 200340100,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "美味しさのあまり家のお餅を全部",
         "MessageKR": "오조니용으로 떡을 너무 많이 넣는 바람에,",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只是因為放了太多年糕",
+        "MessageEN": "I put too much mochi in the ozoni,"
     },
     {
         "MessageId": 200340101,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "お雑煮用に使い切ってしまったんです",
         "MessageKR": "집에 있는 떡을 전부 사용해 버렸다는 문제거든요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以家裡的年糕全都用光了而已",
+        "MessageEN": "and wound up using all the mochi I had left at home."
     },
     {
         "MessageId": 200340110,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "過ぎたるは猶及ばざるが如し……",
         "MessageKR": "적당함이야말로 미덕인 것이었을텐데…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "明明適當才是美德……",
+        "MessageEN": "Moderation in all things..."
     },
     {
         "MessageId": 200340120,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "だって、お餅をたくさん食べたかったんですもの",
         "MessageKR": "하지만 저는 떡을 더 많이 먹고 싶은걸요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可是我就是想多吃一點年糕呀",
+        "MessageEN": "But I want more mochi."
     },
     {
         "MessageId": 200340130,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "それで",
         "MessageKR": "바로 그래서.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為這個原因",
+        "MessageEN": "Which is exactly why"
     },
     {
         "MessageId": 200340131,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "解決策を思いついたんです",
         "MessageKR": "제가 준비한 것이 있답니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我做了一些準備",
+        "MessageEN": "I've got a little something prepared."
     },
     {
         "MessageId": 200330137,
@@ -172,6 +172,6 @@
         "MessageJP": "アカリ（正月）の絆イベントへ",
         "MessageKR": "아카리(새해)의 인연스토리로",
         "MessageTW": "前往亞伽里(正月)的羈絆劇情",
-        "MessageEN": "Go to Akari (New Year)'s Event"
+        "MessageEN": "Go to Akari (New Year)'s Bond Story"
     }
 ]

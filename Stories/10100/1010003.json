@@ -98,7 +98,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "分かった、すぐ向かうね！",
-        "MessageKR": "그런 거라면 알겠어! ",
+        "MessageKR": "그런 거라면 알겠어!",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -124,7 +124,7 @@
         "MessageJP": "シロコ＊テラーの絆イベントへ",
         "MessageKR": "시로코\\*테러의 인연스토리로",
         "MessageTW": "前往白子＊恐怖的羈絆劇情",
-        "MessageEN": "Go to Shiroko Terror's Event"
+        "MessageEN": "Go to Shiroko Terror's Bond Story"
     },
     {
         "MessageId": 101000320,
@@ -170,7 +170,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "その場の成り行きで",
-        "MessageKR": "응. 어쩌다보니까 ",
+        "MessageKR": "응. 어쩌다 보니까",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -182,7 +182,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "サイクルレースをすることになった",
-        "MessageKR": "로드 레이싱 승부로 이어져버려서…….",
+        "MessageKR": "로드 레이싱 승부로 이어져 버려서…….",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -218,7 +218,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "ん……",
-        "MessageKR": "승부 결과는…… ",
+        "MessageKR": "승부 결과는……",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -266,7 +266,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "でも、今回は仕方ない",
-        "MessageKR": "하지만 괜찮아. ",
+        "MessageKR": "하지만 괜찮아.",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -314,7 +314,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "その時は見に来てね、先生",
-        "MessageKR": "그땐 꼭 참관해줘, 선생님.",
+        "MessageKR": "그땐 꼭 참관해 줘, 선생님.",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -338,7 +338,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "先生は、どっちを応援する？",
-        "MessageKR": "그땐 누구를 응원할 거야? ",
+        "MessageKR": "그땐 누구를 응원할 거야?",
         "MessageTW": "",
         "MessageEN": ""
     },

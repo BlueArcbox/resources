@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "今のシーズン、商店街では色々なイベントが開かれていますよね",
         "MessageKR": "해마다 이 시즌이 되면, 상점가에서 여러 가지 이벤트를 개최하곤 하죠.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "每年一到這個時期，商店街就會舉辦很多活動",
+        "MessageEN": "Around this time each year, lots of events are held in the shopping district."
     },
     {
         "MessageId": 200340020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "アカリもそういうのに興味あるんだね",
         "MessageKR": "아카리도 그런 이벤트에 흥미가 있구나.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原來亞伽里也對那種活動有興趣啊",
+        "MessageEN": "I take it that those events have caught your eye?"
     },
     {
         "MessageId": 200340030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "当たり前ですよ★",
         "MessageKR": "물론이죠.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然囉",
+        "MessageEN": "Of course."
     },
     {
         "MessageId": 200340031,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "こういうのって往々にして新たな美食に出会えるチャンスですから",
         "MessageKR": "그것이 먹는 것과 관련된 일이라면, 특히요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "尤其……是跟食物有關的活動",
+        "MessageEN": "Especially the ones with food."
     },
     {
         "MessageId": 200340040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "美食に……？",
         "MessageKR": "상점가…… 이벤트…… 먹는 것……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "商店街……活動……食物……？",
+        "MessageEN": "Wait... Shopping district... Events... Food?"
     },
     {
         "MessageId": 200340050,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "フフ",
         "MessageKR": "후후.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵",
+        "MessageEN": "Heehee."
     },
     {
         "MessageId": 200340051,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "先生、そう考えたらワクワクしませんか？",
         "MessageKR": "기대되시나요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師期待嗎？",
+        "MessageEN": "Are you excited?"
     },
     {
         "MessageId": 200340052,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "私はとってもワクワクしています！",
         "MessageKR": "저는 기대되네요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我很期待！",
+        "MessageEN": "I can't wait!"
     },
     {
         "MessageId": 200330057,
@@ -124,6 +124,6 @@
         "MessageJP": "アカリ（正月）の絆イベントへ",
         "MessageKR": "아카리(새해)의 인연스토리로",
         "MessageTW": "前往亞伽里(正月)的羈絆劇情",
-        "MessageEN": "Go to Akari (New Year)'s Event"
+        "MessageEN": "Go to Akari (New Year)'s Bond Story"
     }
 ]

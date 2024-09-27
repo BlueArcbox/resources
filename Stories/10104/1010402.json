@@ -1,0 +1,153 @@
+[
+    {
+        "CharacterId": 10104,
+        "MessageJP": "レイジョ",
+        "MessageKR": "레이죠",
+        "MessageTW": "レイジョ",
+        "MessageEN": "Reijo"
+    },
+    {
+        "MessageId": 101030110,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 101040110,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 101040110,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101040120,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "今日は商会に来てくださるんですよね",
+        "MessageKR": "오늘 저희 상회를 찾아 주신다고 하셨죠?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101040120,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101040130,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "うん、楽しみにしてるよ",
+        "MessageKR": "응. 엄청나게 기대 중이야!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101040130,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101040131,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "そう言っていただけると嬉しいのですが",
+        "MessageKR": "그 말씀은 확실히 기쁩니다만",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101040131,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101040140,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "少し緊張しますね",
+        "MessageKR": "약간 부담이 되는 면도 어느 정도 있기는 하네요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101040140,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101040150,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ご、ごめん……",
+        "MessageKR": "……안 돼?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101040150,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101040160,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "いえ、謝ってほしいわけでは",
+        "MessageKR": "그럴 리가요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101040160,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101040161,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "期待されないより良いですから",
+        "MessageKR": "기대받는 편이, 그렇지 못한 것보다 낫습니다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101040161,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101040170,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "料理を出す立場からすれば、なおのこと",
+        "MessageKR": "요식업을 하는 입장이라면 특히나요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101040170,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101040180,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "それでは先生",
+        "MessageKR": "그러면 선생님.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101040180,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101030187,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "後ほどお会いしましょう",
+        "MessageKR": "식사 시간에 뵙겠습니다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101030187,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "レイジョの絆イベントへ",
+        "MessageKR": "레이죠의 인연스토리로",
+        "MessageTW": "前往レイジョ的羈絆劇情",
+        "MessageEN": "Go to Reijo's Bond Story"
+    }
+]

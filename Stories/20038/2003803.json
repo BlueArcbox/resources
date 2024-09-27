@@ -62,7 +62,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "よろしければ、お昼をご一緒したいと思いまして",
-        "MessageKR": "괜찮으시다면, 점심이라도 함께 하시면 어떨까 해서요.",
+        "MessageKR": "괜찮으시다면, 점심이라도 함께하시면 어떨까 해서요.",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -86,7 +86,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "じゃあ、有名な中華料理屋さんを紹介するね！",
-        "MessageKR": "좋았어! 맛있는 중화 요리 가게를 소개해 줄게!",
+        "MessageKR": "좋았어! 맛있는 중화요리 가게를 소개해 줄게!",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -98,7 +98,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "と思ったけど、トモエならもう知ってるような気も",
-        "MessageKR": "그런데 생각해 보니까…… 중화 요리는 제법 많이 맛보지 않았어?",
+        "MessageKR": "그런데 생각해 보니까…… 중화요리는 제법 많이 맛보지 않았어?",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -158,7 +158,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "断言できます",
-        "MessageKR": "그럴 일은 없을 거라고 ",
+        "MessageKR": "그럴 일은 없을 거라고",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -196,6 +196,6 @@
         "MessageJP": "トモエ（チーパオ）の絆イベントへ",
         "MessageKR": "토모에(치파오)의 인연스토리로",
         "MessageTW": "前往智惠（旗袍）的羈絆劇情",
-        "MessageEN": "Go to Tomoe (Qipao)'s Event"
+        "MessageEN": "Go to Tomoe (Qipao)'s Bond Story"
     }
 ]

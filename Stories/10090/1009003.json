@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生……",
         "MessageKR": "선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Hey Sensei,"
     },
     {
         "MessageId": 100900180,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "その、今日はお忙しいでしょうか……？もしよろしければ、あの……",
         "MessageKR": "그, 저기. 선생님께서 괜찮으시다면, 이지만…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那，那個，如果老師方便的話，就是……",
+        "MessageEN": "Um...if you don't mind..."
     },
     {
         "MessageId": 100900190,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "百夜堂に行こうか？",
         "MessageKR": "백야당에 들르면 돼?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "到百夜堂就行了嗎？",
+        "MessageEN": "Want me to swing by Momoyodou?"
     },
     {
         "MessageId": 100900200,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "えへへっ。……はい！",
         "MessageKR": "에헤헤.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "耶嘿嘿",
+        "MessageEN": "Heeheehee."
     },
     {
         "MessageId": 100900210,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとうございます、先生～",
         "MessageKR": "맞아요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒錯",
+        "MessageEN": "Yes."
     },
     {
         "MessageId": 100900220,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "それでは、百夜堂でお待ちしてますね！",
         "MessageKR": "기다리고 있겠습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我會等你的！",
+        "MessageEN": "I'll be waiting!"
     },
     {
         "MessageId": 100890227,
@@ -100,6 +100,6 @@
         "MessageJP": "ウミカの絆イベントへ",
         "MessageKR": "우미카의 인연스토리로",
         "MessageTW": "前往海花的羈絆劇情",
-        "MessageEN": "Go to Umika's Event"
+        "MessageEN": "Go to Umika's Bond Story"
     }
 ]

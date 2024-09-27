@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生！お祭りですよ～！",
         "MessageKR": "선생님! 축제에요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師！有慶典唷！",
+        "MessageEN": "It's a festival, Sensei!"
     },
     {
         "MessageId": 100900020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "ん……？どこかでお祭りがあるの？",
         "MessageKR": "어…… 갑자기?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哦……這麼突然？",
+        "MessageEN": "So suddenly?"
     },
     {
         "MessageId": 100900030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "あ、そうでした。先生はご存知ないか……",
         "MessageKR": "아, 참. 선생님은 모르시겠네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，對了，老師可能還不知道",
+        "MessageEN": "Oh, right. I guess you wouldn't know."
     },
     {
         "MessageId": 100900040,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "あの……先生、今日は百鬼夜行に用事があると仰ってましたよね？",
         "MessageKR": "오늘 백귀야행에 올 일이 있다고 하셨죠?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師說過今天有事要來百鬼夜行對吧？",
+        "MessageEN": "You mentioned you had work at Hyakkiyako today, right?"
     },
     {
         "MessageId": 100900050,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ちょうど百鬼夜行で、夕方からお祭りが開催される予定なんです",
         "MessageKR": "마침 백귀야행에서 저녁부터 축제가 열릴 예정인데…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "正好今天傍晚會舉辦慶典……",
+        "MessageEN": "Coincidentally, there's a festival happening this evening..."
     },
     {
         "MessageId": 100900051,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ご都合が合えば、ぜひいらしてください！",
         "MessageKR": "선생님만 괜찮으시다면, 꼭 와주셨으면 해요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果方便的話，希望老師可以過來！",
+        "MessageEN": "If you're free, I'd love for you to join us!"
     },
     {
         "MessageId": 100900060,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "いいね。お祭りにはあまり縁がなかったけど……",
         "MessageKR": "그건 좋은데, 난 축제에 대해서는 잘 몰라…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可以是可以，但是我不太了解慶典……",
+        "MessageEN": "That sounds great, but I wouldn't even know what we're celebrating..."
     },
     {
         "MessageId": 100900070,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "心配はいりません！",
         "MessageKR": "괜찮아요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒關係！",
+        "MessageEN": "That's okay!"
     },
     {
         "MessageId": 100900071,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "私がお祭りを100％楽しめるようにご案内しますから！",
         "MessageKR": "제가 모두 안내해 드릴게요. 저만 믿으세요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我會為你說明一切，請相信我吧！",
+        "MessageEN": "I'll be your guide. Just trust me, okay?"
     },
     {
         "MessageId": 100900080,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "それでは、夕方にお会いしましょう！",
         "MessageKR": "그러면 저녁에 뵙는 것으로 알고 있어도 되겠죠?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那我就當老師傍晚會過來囉？",
+        "MessageEN": "Can I count on you to come by this evening?"
     },
     {
         "MessageId": 100900081,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "会場でお待ちしてますね！",
         "MessageKR": "기다릴게요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我會等著你的！",
+        "MessageEN": "I'll be waiting!"
     },
     {
         "MessageId": 100890087,
@@ -160,6 +160,6 @@
         "MessageJP": "ウミカの絆イベントへ",
         "MessageKR": "우미카의 인연스토리로",
         "MessageTW": "前往海花的羈絆劇情",
-        "MessageEN": "Go to Umika's Event"
+        "MessageEN": "Go to Umika's Bond Story"
     }
 ]

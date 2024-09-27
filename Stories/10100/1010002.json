@@ -86,7 +86,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "……ん",
-        "MessageKR": "그러니까…… ",
+        "MessageKR": "그러니까……",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -112,7 +112,7 @@
         "MessageJP": "シロコ＊テラーの絆イベントへ",
         "MessageKR": "시로코\\*테러의 인연스토리로",
         "MessageTW": "前往白子＊恐怖的羈絆劇情",
-        "MessageEN": "Go to Shiroko Terror's Event"
+        "MessageEN": "Go to Shiroko Terror's Bond Story"
     },
     {
         "MessageId": 101000200,
@@ -122,7 +122,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "先生、大変",
-        "MessageKR": "선생님 큰일났어…….",
+        "MessageKR": "선생님 큰일 났어…….",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -158,7 +158,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "まさか……！？",
-        "MessageKR": "저런……?! ",
+        "MessageKR": "저런……?!",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -182,7 +182,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "念のため言っておくけど",
-        "MessageKR": "오해할까봐 말해두겠는데 ",
+        "MessageKR": "오해할까 봐 말해두겠는데",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -230,7 +230,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "おやすみ、先生",
-        "MessageKR": "잘 자. 선생님. ",
+        "MessageKR": "잘 자. 선생님.",
         "MessageTW": "",
         "MessageEN": ""
     }

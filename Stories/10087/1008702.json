@@ -136,7 +136,7 @@
         "MessageJP": "アコ（ドレス）の絆イベントへ",
         "MessageKR": "아코(드레스)의 인연스토리로",
         "MessageTW": "前往亞子(禮服)的羈絆劇情",
-        "MessageEN": "Go to Ako (Dress)'s Event"
+        "MessageEN": "Go to Ako (Dress)'s Bond Story"
     },
     {
         "MessageId": 100870330,
@@ -244,7 +244,7 @@
         "MessageJP": "下着……？いえ、どう見ても紐ですね",
         "MessageKR": "이건 속옷……? 아, 아니. 그렇게 주장하고 있을 뿐인 끈이잖아요?",
         "MessageTW": "這是內衣……？不，這只是您再三強調是內衣的繩子而已吧？",
-        "MessageEN": "Is this what I think it is?"
+        "MessageEN": "Is this what I think it is? U-Undies?"
     },
     {
         "MessageId": 100870371,
@@ -268,7 +268,7 @@
         "MessageJP": "た、たしかに買ったのは私だけど……",
         "MessageKR": "그건 말야. 아코. 내가 사준 건 맞는데",
         "MessageTW": "沒錯，亞子。那是我買給你的",
-        "MessageEN": "Y-Yes. What did the clerk say? It would be easier to move? More elegant? Then they threw it in."
+        "MessageEN": "Y-Yes. Technically, I did...!"
     },
     {
         "MessageId": 100870390,
@@ -280,7 +280,7 @@
         "MessageJP": "こんな恥ずかしい物を着ろと？",
         "MessageKR": "즉, 이런 야한 속옷을 입으라는 건가요?",
         "MessageTW": "也就是說，老師要我穿這麼色的內衣嗎？",
-        "MessageEN": "What are you even talking about, Sensei? "
+        "MessageEN": "Are you telling me to wear this, Sensei?"
     },
     {
         "MessageId": 100870391,
@@ -292,7 +292,7 @@
         "MessageJP": "私が生意気な態度を取ったからって",
         "MessageKR": "평상시에 건방지니까 이런 걸 입혀서 벌주려는 건가요?",
         "MessageTW": "因為我平常太囂張，所以想罰我穿這個嗎？",
-        "MessageEN": "Are you trying to get back at me for being cheeky? "
+        "MessageEN": "Are you trying to get back at me for being cheeky?"
     },
     {
         "MessageId": 100870400,
@@ -328,7 +328,7 @@
         "MessageJP": "それで私が、はい分かりましたなんて言うとでも！？",
         "MessageKR": "그런 걸 제가 순순히 따를 거라고 생각했어요?!",
         "MessageTW": "以為我會乖乖聽話嗎！？",
-        "MessageEN": "I'm just supposed to believe a random sales clerk?! "
+        "MessageEN": "I'm just supposed to believe a random sales clerk?!"
     },
     {
         "MessageId": 100870421,

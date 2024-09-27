@@ -1,0 +1,105 @@
+[
+    {
+        "CharacterId": 20000,
+        "MessageJP": "ヒビキ",
+        "MessageKR": "히비키",
+        "MessageTW": "響",
+        "MessageEN": "Hibiki"
+    },
+    {
+        "MessageId": 199990510,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 200000510,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 200000510,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200000520,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生、頼まれた自転車の修理、終わったよ",
+        "MessageKR": "선생님. 저번에 맡겨둔 자전거 수리 완료했어.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200000520,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200000530,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "後で取りに来て",
+        "MessageKR": "별일 없으면 찾으러 와.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200000530,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200000540,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "もう？さすがだね",
+        "MessageKR": "벌써? 역시 빠르네.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200000530,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200000540,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "今から行くよ",
+        "MessageKR": "그럼 지금 갈게.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200000540,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200000541,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "私は他の作業してるから",
+        "MessageKR": "응. 나는 다른 작업을 하고 있을 테니",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200000541,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 199990547,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "着いたら教えて",
+        "MessageKR": "오면 말해줘.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 199990547,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ヒビキの絆イベントへ",
+        "MessageKR": "히비키의 인연스토리로",
+        "MessageTW": "前往響的羈絆劇情",
+        "MessageEN": "Go to Hibiki's Bond Story"
+    }
+]

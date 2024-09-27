@@ -40,7 +40,7 @@
         "MessageJP": "メイドは、好きですか？",
         "MessageKR": "선생님은 메이드복, 좋아하시나요?",
         "MessageTW": "你喜歡女僕嗎？",
-        "MessageEN": "Sensei, do you like maid outfits?"
+        "MessageEN": "Sensei, do you like maid uniforms?"
     },
     {
         "MessageId": 260090030,
@@ -124,7 +124,7 @@
         "MessageJP": "メイドは一定の人気がありますから",
         "MessageKR": "다만, 메이드복은 인기도 많지만 프릴처럼 표현하기 어려운 장식도 많아서……",
         "MessageTW": "畢竟女僕具有一定的人氣",
-        "MessageEN": "But maid outfits have so many little details, and so many variations... It's tricky."
+        "MessageEN": "But maid uniforms have so many little details, and so many variations... It's tricky."
     },
     {
         "MessageId": 260090070,
@@ -196,6 +196,6 @@
         "MessageJP": "ユズ（メイド）の絆イベントへ",
         "MessageKR": "유즈(메이드)의 인연스토리로",
         "MessageTW": "前往柚子(女僕)的羈絆劇情",
-        "MessageEN": "Go to Yuzu (Maid)'s Event"
+        "MessageEN": "Go to Yuzu (Maid)'s Bond Story"
     }
 ]

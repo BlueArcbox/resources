@@ -5,6 +5,12 @@
         "MessageTW",
         "MessageEN"
     ],
+    "2003104": [
+        "MessageJP",
+        "MessageKR",
+        "MessageTW",
+        "MessageEN"
+    ],
     "2003102": [
         "MessageJP",
         "MessageKR",
@@ -12,12 +18,6 @@
         "MessageEN"
     ],
     "2003103": [
-        "MessageJP",
-        "MessageKR",
-        "MessageTW",
-        "MessageEN"
-    ],
-    "2003104": [
         "MessageJP",
         "MessageKR",
         "MessageTW",
