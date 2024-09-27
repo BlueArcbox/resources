@@ -152,5 +152,5 @@ if __name__ == "__main__":
             logger.info(f"✍️  Insert {item['name']}")
 
     with open(file_path / "students.json", "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False)
+        json.dump(data, f, ensure_ascii=False, indent=4)
     logger.success("Update local data done")

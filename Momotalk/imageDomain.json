@@ -2,7 +2,7 @@
     "schale": "https://schaledb.com",
     "domain": {
         "/api": "https://BlueArcbox.github.io/resources",
-        "/kivo": "https://static.kivo.fun/images",
+        "/kivo": "https://static.kivo.wiki/images",
         "/fandom": "https://static.wikia.nocookie.net/blue-archive/images",
         "/gamekee": "https://cdnimg-v2.gamekee.com/wiki2.0/images",
         "/schale": "https://schaledb.com/images"

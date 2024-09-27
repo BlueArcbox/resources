@@ -152,10 +152,13 @@ class BlueRequest:
         return response.text
 
     def request_kivo_data(self, id):
-        url = f"https://api.kivo.fun/api/v1/data/students/{id}"
+        url = f"https://api.kivo.wiki/api/v1/data/students/{id}"
         response = requests.get(url)
         if response.status_code != 200:
-            raise Exception("Fail to request data")
+            url = f"https://api.kivo.fun/api/v1/data/students/{id}"
+            response = requests.get(url)
+            if response.status_code != 200:
+                raise Exception("Fail to request data")
         data = response.json()
         if data["code"] != 2000:
             raise Exception(f"Fail to response, codename {data['codename']}")
@@ -267,7 +270,9 @@ class Kivo(SiteTool):
     @staticmethod
     def _replace_domain(result):
         result = [
-            item.replace("https://static.kivo.fun/images", "/kivo") for item in result
+            item.replace("https://static.kivo.fun/images", "/kivo")
+            .replace("https://static.kivo.wiki/images", "/kivo")
+            for item in result
         ]
         return result
 
@@ -306,7 +311,9 @@ class Kivo(SiteTool):
         data = self.ba.request_kivo_data(id)
         result = []
         for sticker_list in data["gallery"]:
-            result += [unquote("https:" + i) for i in sticker_list["images"]]
+            # if sticker_list["title"] not in ["相关图像", "角色图像", "资料图像", "图像资料"]
+            if "图像" not in sticker_list["title"]:
+                result += [unquote("https:" + i) for i in sticker_list["images"]]
         logger.info(
             f"✅ Successfully fetched stickers for kivo_id[{id}], total stickers: {len(result)}"
         )

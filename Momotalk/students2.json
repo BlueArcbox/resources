@@ -8,14 +8,22 @@
             "en": "Arona",
             "kr": "아로나"
         },
-        "Avatar": ["/gamekee/w_252/h_204/829/43637/2022/6/2/909433.png", "/fandom/e/e0/Arona_Icon.png"],
+        "Avatar": [
+            "/gamekee/w_252/h_204/829/43637/2022/6/2/909433.png",
+            "/fandom/e/e0/Arona_Icon.png"
+        ],
         "Bio": {
             "zh": "吃不下这么多了……",
             "jp": "そんなに食べられません…",
             "tw": "吃不下這麼多了……",
             "en": "I can't eat this much..."
         },
-        "Nickname": ["Arona", "阿罗娜", "彩奈", "蓝色恶魔"],
+        "Nickname": [
+            "Arona",
+            "阿罗娜",
+            "彩奈",
+            "蓝色恶魔"
+        ],
         "School": "ETC"
     },
     {
@@ -27,14 +35,21 @@
             "en": "Purana",
             "kr": "A.R.O.N.A"
         },
-        "Avatar": ["/fandom/2/24/A.R.O.N.A_Icon.png"],
+        "Avatar": [
+            "/fandom/2/24/A.R.O.N.A_Icon.png"
+        ],
         "Bio": {
             "zh": "前辈，该起床了",
             "jp": "先輩、そろそろ起きないと",
             "tw": "前輩，該起床了",
             "en": "Senpai, it's time to wake up"
         },
-        "Nickname": ["Purana", "A.R.O.N.A", "普拉娜", "星奈"],
+        "Nickname": [
+            "Purana",
+            "A.R.O.N.A",
+            "普拉娜",
+            "星奈"
+        ],
         "School": "ETC"
     },
     {
@@ -46,14 +61,21 @@
             "en": "Sora",
             "kr": "소라"
         },
-        "Avatar": ["/fandom/b/b4/Sora_Icon.png"],
+        "Avatar": [
+            "/fandom/b/b4/Sora_Icon.png"
+        ],
         "Bio": {
             "zh": "欢、欢迎光临！",
             "jp": "い、い、いっらしゃいませ！",
             "tw": "歡、歡迎光臨！",
             "en": "W-welcome!"
         },
-        "Nickname": ["Sora", "额头", "天使24", "便利店"],
+        "Nickname": [
+            "Sora",
+            "额头",
+            "天使24",
+            "便利店"
+        ],
         "School": "ETC"
     },
     {
@@ -65,14 +87,19 @@
             "en": "President",
             "kr": "총학생회장"
         },
-        "Avatar": ["/fandom/f/f9/GSC_President_Icon.png"],
+        "Avatar": [
+            "/fandom/f/f9/GSC_President_Icon.png"
+        ],
         "Bio": {
             "zh": "找到引导我们走向新现实的选择",
             "jp": "新しい現実に導く選択を見つける",
             "tw": "找到引領我們走向新現實的選擇",
             "en": "Find the choices that lead us to a new reality"
         },
-        "Nickname": ["President", "联邦学生会长"],
+        "Nickname": [
+            "President",
+            "联邦学生会长"
+        ],
         "School": "ETC"
     },
     {
@@ -84,14 +111,20 @@
             "en": "Rin",
             "kr": "린"
         },
-        "Avatar": ["/fandom/4/43/Rin_Icon.png", "/fandom/0/09/Rin_Ark_Uniform_Icon.png"],
+        "Avatar": [
+            "/fandom/4/43/Rin_Icon.png",
+            "/fandom/0/09/Rin_Ark_Uniform_Icon.png"
+        ],
         "Bio": {
             "zh": "从现在开始，全靠您了，老师",
             "jp": "今からは、あなたにかかっています、先生",
             "tw": "從現在開始，全靠您了，老師",
             "en": "It's all up to you now, teacher"
         },
-        "Nickname": ["Rin", "琳"],
+        "Nickname": [
+            "Rin",
+            "琳"
+        ],
         "School": "ETC"
     },
     {
@@ -103,14 +136,21 @@
             "en": "Momoka",
             "kr": "모모카"
         },
-        "Avatar": ["/fandom/3/3c/Momoka_Icon.png", "/fandom/5/5f/Momoka_Ark_Uniform_Icon.png"],
+        "Avatar": [
+            "/fandom/3/3c/Momoka_Icon.png",
+            "/fandom/5/5f/Momoka_Ark_Uniform_Icon.png"
+        ],
         "Bio": {
             "zh": "我的外卖到了，一会儿再联系你！",
             "jp": "デリバリーが届きました、後で連絡します！",
             "tw": "我的外賣到了，稍後再聯絡你！",
             "en": "My lunch delivery has arrived, so I'll contact you again!"
         },
-        "Nickname": ["Momoka", "明太子", "毛毛力"],
+        "Nickname": [
+            "Momoka",
+            "明太子",
+            "毛毛力"
+        ],
         "School": "ETC"
     },
     {
@@ -122,14 +162,21 @@
             "en": "Kaya",
             "kr": "카야"
         },
-        "Avatar": ["/fandom/b/bd/Kaya_Icon.png"],
+        "Avatar": [
+            "/fandom/b/bd/Kaya_Icon.png"
+        ],
         "Bio": {
             "zh": "谁在乎规则，对吧！?",
             "jp": "ルールなんて気にしないよ",
             "tw": "誰在乎規則，對吧！?",
             "en": "Who cares about the rules, am I right!?"
         },
-        "Nickname": ["Kaya", "卡娅", "大花老师", "花小将"],
+        "Nickname": [
+            "Kaya",
+            "卡娅",
+            "大花老师",
+            "花小将"
+        ],
         "School": "ETC"
     },
     {
@@ -141,14 +188,20 @@
             "en": "Ayumu",
             "kr": "아유무"
         },
-        "Avatar": ["/fandom/b/b2/Ayumu_Icon.png", "/fandom/3/32/Ayumu_Ark_Uniform_Icon.png"],
+        "Avatar": [
+            "/fandom/b/b2/Ayumu_Icon.png",
+            "/fandom/3/32/Ayumu_Ark_Uniform_Icon.png"
+        ],
         "Bio": {
             "zh": "我希望能够像老师一样工作……",
             "jp": "私も先生のように仕事ができる…",
             "tw": "我希望能夠像老師一樣工作……",
             "en": "I want to be able to do work more like Sensei..."
         },
-        "Nickname": ["Ayumu", "20钻"],
+        "Nickname": [
+            "Ayumu",
+            "20钻"
+        ],
         "School": "ETC"
     },
     {
@@ -160,14 +213,18 @@
             "en": "Aoi",
             "kr": "아오이"
         },
-        "Avatar": ["/fandom/5/56/Aoi_Icon.png"],
+        "Avatar": [
+            "/fandom/5/56/Aoi_Icon.png"
+        ],
         "Bio": {
             "zh": "但你不是她，凛。永远不是",
             "jp": "君は彼女じゃない、リン。永遠に",
             "tw": "但你不是她，琳。永遠不是",
             "en": "But you're not her, Rin. Never will be."
         },
-        "Nickname": ["Aoi"],
+        "Nickname": [
+            "Aoi"
+        ],
         "School": "ETC"
     },
     {
@@ -179,14 +236,19 @@
             "en": "Haine",
             "kr": "하이네"
         },
-        "Avatar": ["/fandom/b/b7/Haine_Icon.png"],
+        "Avatar": [
+            "/fandom/b/b7/Haine_Icon.png"
+        ],
         "Bio": {
             "zh": "那只狐狸真是冷酷无情！",
             "jp": "あのキツネは容赦がなかった！",
             "tw": "那隻狐狸真是冷酷無情！",
             "en": "That fox was absolutely ruthless!"
         },
-        "Nickname": ["Haine", "海因"],
+        "Nickname": [
+            "Haine",
+            "海因"
+        ],
         "School": "ETC"
     },
     {
@@ -198,14 +260,18 @@
             "en": "Sumomo",
             "kr": "스모모"
         },
-        "Avatar": ["/fandom/4/4a/Sumomo_Icon.png"],
+        "Avatar": [
+            "/fandom/4/4a/Sumomo_Icon.png"
+        ],
         "Bio": {
             "zh": "哈啊~… 我困得吃不下饭团了~",
             "jp": "ふわぁ〜…おにぎり食べるのも眠すぎる〜",
             "tw": "哈啊~… 我困得吃不下飯糰了~",
             "en": "Fwahh~... I'm too sleepy to eat onigiri~"
         },
-        "Nickname": ["Sumomo"],
+        "Nickname": [
+            "Sumomo"
+        ],
         "School": "ETC"
     },
     {
@@ -227,7 +293,9 @@
             "tw": "…與你共度時光感覺像是一個奇蹟",
             "en": "...Spending time with you feels like a miracle"
         },
-        "Nickname": ["Yume"],
+        "Nickname": [
+            "Yume"
+        ],
         "School": "Abydos"
     },
     {
@@ -239,9 +307,13 @@
             "en": "Hoshino(Terror)",
             "kr": "호시노"
         },
-        "Avatar": ["/fandom/9/98/Hoshino_Terror_Icon.png"],
+        "Avatar": [
+            "/fandom/9/98/Hoshino_Terror_Icon.png"
+        ],
         "Bio": {},
-        "Nickname": ["Hoshino_Terror"],
+        "Nickname": [
+            "Hoshino_Terror"
+        ],
         "School": "Abydos"
     },
     {
@@ -252,14 +324,18 @@
             "tw": "千秋",
             "en": "Chiaki"
         },
-        "Avatar": ["/fandom/a/af/Chiaki_Icon.png"],
+        "Avatar": [
+            "/fandom/a/af/Chiaki_Icon.png"
+        ],
         "Bio": {
             "zh": "这个得记录一下呢~",
             "jp": "これは記録しておかなければならないね~",
             "tw": "這個得記錄一下呢~",
             "en": "I should make a shot of this~"
         },
-        "Nickname": ["Chiaki"],
+        "Nickname": [
+            "Chiaki"
+        ],
         "School": "Gehenna"
     },
     {
@@ -271,14 +347,18 @@
             "en": "Satsuki",
             "kr": "사츠키"
         },
-        "Avatar": ["/fandom/4/4e/Satsuki_Icon.png"],
+        "Avatar": [
+            "/fandom/4/4e/Satsuki_Icon.png"
+        ],
         "Bio": {
             "en": "Cooperate? No, I was just passing by and give you a morale boost.",
             "zh": "合作?和你们?不，我只是路过，想给你們打气",
             "tw": "合作?和你們?不，我只是路過，想給你們打氣",
             "jp": "協力？いいえ、私は応援するために通りかかっただけです。"
         },
-        "Nickname": ["Satsuki"],
+        "Nickname": [
+            "Satsuki"
+        ],
         "School": "Gehenna"
     },
     {
@@ -290,9 +370,15 @@
             "en": "Erika",
             "kr": "에리카"
         },
-        "Avatar": ["/fandom/d/d3/Erika_Icon.png"],
+        "Avatar": [
+            "/fandom/d/d3/Erika_Icon.png"
+        ],
         "Bio": {},
-        "Nickname": ["Erika", "艾丽卡", "绘梨香"],
+        "Nickname": [
+            "Erika",
+            "艾丽卡",
+            "绘梨香"
+        ],
         "School": "Gehenna"
     },
     {
@@ -304,14 +390,21 @@
             "en": "Rio",
             "kr": "리오"
         },
-        "Avatar": ["/fandom/c/ca/Rio_Icon.png"],
+        "Avatar": [
+            "/fandom/c/ca/Rio_Icon.png"
+        ],
         "Bio": {
             "zh": "我不是在说喜欢或不喜欢…只是事实",
             "jp": "好き嫌いではない…事実だけ",
             "tw": "我並不是在說喜歡或不喜歡...只是事實",
             "en": "I am not speaking of likes or dislikes... only facts"
         },
-        "Nickname": ["Rio", "理绪", "莉央", "毁灭菇"],
+        "Nickname": [
+            "Rio",
+            "理绪",
+            "莉央",
+            "毁灭菇"
+        ],
         "School": "Millennium"
     },
     {
@@ -322,9 +415,14 @@
             "tw": "萊依",
             "en": "Rei"
         },
-        "Avatar": ["/gamekee/w_500/h_500/829/43637/2023/11/28/827199.png"],
+        "Avatar": [
+            "/gamekee/w_500/h_500/829/43637/2023/11/28/827199.png"
+        ],
         "Bio": {},
-        "Nickname": ["Rei", "丽"],
+        "Nickname": [
+            "Rei",
+            "丽"
+        ],
         "School": "Millennium"
     },
     {
@@ -336,14 +434,18 @@
             "en": "Seia",
             "kr": "세이아"
         },
-        "Avatar": ["/fandom/1/10/Seia_Icon.png"],
+        "Avatar": [
+            "/fandom/1/10/Seia_Icon.png"
+        ],
         "Bio": {
             "zh": "选择前方的道路",
             "jp": "進む道を選んで",
             "tw": "選擇前方的道路",
             "en": "Choose the path ahead"
         },
-        "Nickname": ["Seia"],
+        "Nickname": [
+            "Seia"
+        ],
         "School": "Trinity"
     },
     {
@@ -355,9 +457,14 @@
             "en": "Niya",
             "kr": "니야"
         },
-        "Avatar": ["/fandom/c/c5/Niya_Icon.png"],
+        "Avatar": [
+            "/fandom/c/c5/Niya_Icon.png"
+        ],
         "Bio": {},
-        "Nickname": ["Niya", "妮娅"],
+        "Nickname": [
+            "Niya",
+            "妮娅"
+        ],
         "School": "Hyakkiyako"
     },
     {
@@ -372,7 +479,10 @@
             "/gamekv2/w_550/h_550/829/399789/2024/6/23/195633.png"
         ],
         "Bio": {},
-        "Nickname": ["Niyaniya", "眯眯眼教授"],
+        "Nickname": [
+            "Niyaniya",
+            "眯眯眼教授"
+        ],
         "School": "Hyakkiyako"
     },
     {
@@ -384,14 +494,18 @@
             "en": "Nagusa",
             "kr": "나구사"
         },
-        "Avatar": ["/fandom/c/ce/Nagusa_Icon.png"],
+        "Avatar": [
+            "/fandom/c/ce/Nagusa_Icon.png"
+        ],
         "Bio": {
             "zh": "cosplayer、为镜头到天涯海角",
             "jp": "完璧なショットのために",
             "tw": "Cosplayer，鏡頭下走遍天涯海角",
             "en": "Cosplayer, go to the ends of the earth for the perfect shot"
         },
-        "Nickname": ["Nagusa"],
+        "Nickname": [
+            "Nagusa"
+        ],
         "School": "Hyakkiyako"
     },
     {
@@ -403,14 +517,18 @@
             "en": "Kuzunoha",
             "kr": "쿠즈노하"
         },
-        "Avatar": ["/fandom/5/57/Kuzunoha_Icon.png"],
+        "Avatar": [
+            "/fandom/5/57/Kuzunoha_Icon.png"
+        ],
         "Bio": {
             "zh": "但你的运气绝非寻常。因为你遇见了我",
             "jp": "君は私に出会ったからだね",
             "tw": "但你的運氣可真不一般，因為你遇見了我",
             "en": "But your luck is far from ordinary. Because you've met me"
         },
-        "Nickname": ["Kuzunoha"],
+        "Nickname": [
+            "Kuzunoha"
+        ],
         "School": "Hyakkiyako"
     },
     {
@@ -421,9 +539,13 @@
             "tw": "虞美人",
             "en": "Kokuriko"
         },
-        "Avatar": ["/fandom/8/8a/Kokuriko_Icon.png"],
+        "Avatar": [
+            "/fandom/8/8a/Kokuriko_Icon.png"
+        ],
         "Bio": {},
-        "Nickname": ["Kokuriko"],
+        "Nickname": [
+            "Kokuriko"
+        ],
         "School": "Hyakkiyako"
     },
     {
@@ -434,9 +556,13 @@
             "tw": "新",
             "en": "Arata"
         },
-        "Avatar": ["/fandom/f/f2/Arata_Icon.png"],
+        "Avatar": [
+            "/fandom/f/f2/Arata_Icon.png"
+        ],
         "Bio": {},
-        "Nickname": ["Arata"],
+        "Nickname": [
+            "Arata"
+        ],
         "School": "Hyakkiyako"
     },
     {
@@ -447,14 +573,19 @@
             "tw": "棕櫚",
             "en": "Shuro"
         },
-        "Avatar": ["/fandom/c/ca/Shuro_Icon.png"],
+        "Avatar": [
+            "/fandom/c/ca/Shuro_Icon.png"
+        ],
         "Bio": {
             "en": "Excellent! That expression... it truly is irresistible.",
             "zh": "太棒了！这个表达... 真让人难以抗拒",
             "tw": "太棒了！這個表達... 真讓人難以抗拒",
             "jp": "素晴らしい！この表現が……たまりません"
         },
-        "Nickname": ["Shuro", "修罗"],
+        "Nickname": [
+            "Shuro",
+            "修罗"
+        ],
         "School": "Hyakkiyako"
     },
     {
@@ -466,14 +597,19 @@
             "en": "Kisaki",
             "kr": "키사키"
         },
-        "Avatar": ["/fandom/d/da/Kisaki_Icon.png"],
+        "Avatar": [
+            "/fandom/d/da/Kisaki_Icon.png"
+        ],
         "Bio": {
             "zh": "如果说不高兴见到你，那是骗人的……",
             "jp": "君に会えて嬉しくないと言うのは嘘だ…",
             "tw": "如果說不高興見到你，那是在騙人的……",
             "en": "If I say I'm not happy to see you, that's a lie..."
         },
-        "Nickname": ["Kisaki", "ksk"],
+        "Nickname": [
+            "Kisaki",
+            "ksk"
+        ],
         "School": "Shanhaijing"
     },
     {
@@ -485,14 +621,18 @@
             "en": "Reijo",
             "kr": "레이죠"
         },
-        "Avatar": ["/fandom/a/ad/Reijo_Icon.png"],
+        "Avatar": [
+            "/fandom/a/ad/Reijo_Icon.png"
+        ],
         "Bio": {
             "zh": "电影里，让对手失去平衡是功夫的基本",
             "tw": "電影裡，讓對手失去平衡是功夫的基本",
             "en": "Keeping your foe off balance is a fundamental skill in kung fu.",
             "jp": "相手のバランスを崩すことがカンフーの基本です"
         },
-        "Nickname": ["Reijo"],
+        "Nickname": [
+            "Reijo"
+        ],
         "School": "Shanhaijing"
     },
     {
@@ -504,14 +644,19 @@
             "en": "Kai",
             "kr": "카이"
         },
-        "Avatar": ["/fandom/7/79/Kai_Icon.png"],
+        "Avatar": [
+            "/fandom/7/79/Kai_Icon.png"
+        ],
         "Bio": {
             "zh": "期待我们相遇会发生怎样的化学反应",
             "jp": "どのような化学反応が起こるのか、出会った時に",
             "tw": "期待我們相遇會發生怎樣的化學反應",
             "en": "What kind of chemical reaction will form when we meet"
         },
-        "Nickname": ["Kai", "廻"],
+        "Nickname": [
+            "Kai",
+            "廻"
+        ],
         "School": "Shanhaijing"
     },
     {
@@ -523,14 +668,18 @@
             "en": "Takane",
             "kr": "타카네"
         },
-        "Avatar": ["/fandom/b/b8/Takane_Icon.png"],
+        "Avatar": [
+            "/fandom/b/b8/Takane_Icon.png"
+        ],
         "Bio": {
             "en": "I'm not bragging, but... I'm also one of the critics,...",
             "zh": "...我也是一个评论家...",
             "jp": "……私も評論家です……",
             "tw": "...我也是一个評論家..."
         },
-        "Nickname": ["Takane"],
+        "Nickname": [
+            "Takane"
+        ],
         "School": "RedWinter"
     },
     {
@@ -542,9 +691,13 @@
             "en": "Yakumo",
             "kr": "야쿠모"
         },
-        "Avatar": ["/fandom/7/75/Yakumo_Icon.png"],
+        "Avatar": [
+            "/fandom/7/75/Yakumo_Icon.png"
+        ],
         "Bio": {},
-        "Nickname": ["Yakumo"],
+        "Nickname": [
+            "Yakumo"
+        ],
         "School": "RedWinter"
     },
     {
@@ -556,14 +709,18 @@
             "en": "Yukino",
             "kr": "유키노"
         },
-        "Avatar": ["/fandom/1/1c/Yukino_Icon.png"],
+        "Avatar": [
+            "/fandom/1/1c/Yukino_Icon.png"
+        ],
         "Bio": {
             "zh": "武器不能决定对错",
             "jp": "武器は正しさを決めない",
             "tw": "武器不能決定對錯",
             "en": "Weapons do not decide what's right or wrong"
         },
-        "Nickname": ["Yukino"],
+        "Nickname": [
+            "Yukino"
+        ],
         "School": "SRT"
     },
     {
@@ -575,14 +732,19 @@
             "en": "Niko",
             "kr": "니코"
         },
-        "Avatar": ["/fandom/c/cd/Niko_Icon.png"],
+        "Avatar": [
+            "/fandom/c/cd/Niko_Icon.png"
+        ],
         "Bio": {
             "zh": "有好吃的稻荷寿司哦，这里~",
             "jp": "おいしい稲荷寿司がありますよ、こちら～",
             "tw": "有好吃的稻荷壽司哦，這里~",
             "en": "Come get delicious, delicious Oinari-san, right here~"
         },
-        "Nickname": ["Niko", "仁子"],
+        "Nickname": [
+            "Niko",
+            "仁子"
+        ],
         "School": "SRT"
     },
     {
@@ -594,14 +756,18 @@
             "en": "Kurumi",
             "kr": "쿠루미"
         },
-        "Avatar": ["/fandom/5/51/Kurumi_Icon.png"],
+        "Avatar": [
+            "/fandom/5/51/Kurumi_Icon.png"
+        ],
         "Bio": {
             "zh": "不要稻荷寿司！要鲑鱼子寿司！",
             "jp": "稲荷寿司はいらない！イクラの方がいい！",
             "tw": "不要稻荷壽司！要鮭魚子壽司！",
             "en": "I don't want your egg inarizushi! Salmon roe is better!"
         },
-        "Nickname": ["Kurumi"],
+        "Nickname": [
+            "Kurumi"
+        ],
         "School": "SRT"
     },
     {
@@ -613,14 +779,18 @@
             "en": "Otogi",
             "kr": "오토기"
         },
-        "Avatar": ["/fandom/6/66/Otogi_Icon.png"],
+        "Avatar": [
+            "/fandom/6/66/Otogi_Icon.png"
+        ],
         "Bio": {
             "zh": "这就像可爱的狙击手因为敌人太多而犯的错",
             "jp": "可愛いスナイパーが敵が多すぎてミスするような…",
             "tw": "這就像可愛的狙擊手因為敵人太多而犯的錯",
             "en": "It's like the cute sniper makes a mistake because of too many enemies..."
         },
-        "Nickname": ["Otogi"],
+        "Nickname": [
+            "Otogi"
+        ],
         "School": "SRT"
     },
     {
@@ -639,7 +809,9 @@
             "tw": "",
             "en": ""
         },
-        "Nickname": ["Konoka"],
+        "Nickname": [
+            "Konoka"
+        ],
         "School": "Valkyrie"
     },
     {
@@ -651,14 +823,19 @@
             "en": "Mai",
             "kr": "마이"
         },
-        "Avatar": ["/fandom/1/17/Mai_Icon.png"],
+        "Avatar": [
+            "/fandom/1/17/Mai_Icon.png"
+        ],
         "Bio": {
             "zh": "鸡窝托斯月刊只坚持事实！",
             "jp": "事実だけを追求します！",
             "tw": "基沃托斯月刊只堅持事實！",
             "en": "Kivotos Monthly only sticks to the facts!"
         },
-        "Nickname": ["Mai", "麦"],
+        "Nickname": [
+            "Mai",
+            "麦"
+        ],
         "School": "ETC"
     },
     {
@@ -670,14 +847,19 @@
             "en": "Shinon",
             "kr": "시논"
         },
-        "Avatar": ["/fandom/6/66/Shinon_Icon.png"],
+        "Avatar": [
+            "/fandom/6/66/Shinon_Icon.png"
+        ],
         "Bio": {
             "zh": "克罗诺斯学园新闻部的偶像记者，诗乃！",
             "jp": "クロノス学園のアイドル記者、シノンです！",
             "tw": "克羅諾斯學園新聞部的偶像記者，詩乃！",
             "en": "Idol reporter of Kronos School's News Club, Kawaru Shinon!"
         },
-        "Nickname": ["Shinon", "志乃"],
+        "Nickname": [
+            "Shinon",
+            "志乃"
+        ],
         "School": "ETC"
     },
     {
@@ -689,14 +871,18 @@
             "en": "Akira",
             "kr": "아키라"
         },
-        "Avatar": ["/fandom/8/8e/Akira_Icon.png"],
+        "Avatar": [
+            "/fandom/8/8e/Akira_Icon.png"
+        ],
         "Bio": {
             "en": "Hidden myself behind a mask...",
             "zh": "藏于面具之后...",
             "tw": "藏於面具之後...",
             "jp": "マスクの奥に隠れて..."
         },
-        "Nickname": ["Akira"],
+        "Nickname": [
+            "Akira"
+        ],
         "School": "ETC"
     },
     {
@@ -711,7 +897,9 @@
             "/gamekv2/w_550/h_550/829/399789/2024/6/23/431433.png"
         ],
         "Bio": {},
-        "Nickname": ["Akemi"],
+        "Nickname": [
+            "Akemi"
+        ],
         "School": "ETC"
     },
     {
@@ -722,14 +910,21 @@
             "jp": "ヒカリ",
             "en": "Hikari"
         },
-        "Avatar": ["/fandom/a/a8/Hikari_Icon.png", "/gamekee/w_550/h_550/829/43637/2024/3/11/529345.png"],
+        "Avatar": [
+            "/fandom/a/a8/Hikari_Icon.png",
+            "/gamekee/w_550/h_550/829/43637/2024/3/11/529345.png"
+        ],
         "Bio": {
             "en": "Construction is smooth, but administration is... Meh",
             "zh": "施工顺利，不过管理嘛...哼",
             "tw": "施工順利，不過管理嘛...哼",
             "jp": "工事はうまくいきましたが、管理が……ですね"
         },
-        "Nickname": ["Hikari", "蜜瓜雪糕", "光明"],
+        "Nickname": [
+            "Hikari",
+            "蜜瓜雪糕",
+            "光明"
+        ],
         "School": "ETC"
     },
     {
@@ -740,14 +935,21 @@
             "jp": "ノゾミ",
             "en": "Nozomi"
         },
-        "Avatar": ["/fandom/b/b3/Nozomi_Icon.png", "/gamekee/w_550/h_550/829/43637/2024/3/11/736958.png"],
+        "Avatar": [
+            "/fandom/b/b3/Nozomi_Icon.png",
+            "/gamekee/w_550/h_550/829/43637/2024/3/11/736958.png"
+        ],
         "Bio": {
             "en": "Pyahaha~ Don't mind don't mind. ",
             "jp": "ぴゃはは~ 気にしない、気にしない",
             "zh": "哈哈~ 别在意别在意",
             "tw": "哈哈~ 別在意別在意"
         },
-        "Nickname": ["Nozomi", "蜜瓜雪糕", "希望"],
+        "Nickname": [
+            "Nozomi",
+            "蜜瓜雪糕",
+            "希望"
+        ],
         "School": "ETC"
     },
     {
@@ -758,9 +960,13 @@
             "jp": "スオウ",
             "en": "Suou"
         },
-        "Avatar": ["/gamekee/w_589/h_585/829/43637/2024/3/11/475757.png"],
+        "Avatar": [
+            "/gamekee/w_589/h_585/829/43637/2024/3/11/475757.png"
+        ],
         "Bio": {},
-        "Nickname": ["suou"],
+        "Nickname": [
+            "suou"
+        ],
         "School": "ETC"
     },
     {
@@ -773,7 +979,9 @@
         },
         "Avatar": [],
         "Bio": {},
-        "Nickname": ["Sumugi"],
+        "Nickname": [
+            "Sumugi"
+        ],
         "School": "ETC"
     },
     {
@@ -784,14 +992,19 @@
             "tw": "貝阿朵莉切",
             "en": "Beatrice"
         },
-        "Avatar": ["/fandom/7/7a/Beatrice_Icon.png", "/fandom/8/8c/Beatrice_Ascended_Icon.png"],
+        "Avatar": [
+            "/fandom/7/7a/Beatrice_Icon.png",
+            "/fandom/8/8c/Beatrice_Ascended_Icon.png"
+        ],
         "Bio": {
             "zh": "贝阿朵莉切，所有朝圣者的幻影",
             "jp": "ベアトリス、巡礼者の幻影",
             "tw": "貝阿朵莉切，所有朝聖者的幻影",
             "en": "Beatrice, phantasm of all pilgrims"
         },
-        "Nickname": ["Beatrice"]
+        "Nickname": [
+            "Beatrice"
+        ]
     },
     {
         "Id": 125,
@@ -801,14 +1014,20 @@
             "tw": "黑服",
             "en": "Kurofuku"
         },
-        "Avatar": ["/fandom/3/39/Black_Suit_Icon.png", "/fandom/2/2b/Black_Suit_Icon_2.png"],
+        "Avatar": [
+            "/fandom/3/39/Black_Suit_Icon.png",
+            "/fandom/2/2b/Black_Suit_Icon_2.png"
+        ],
         "Bio": {
             "zh": "观察者·探索者·研究者",
             "jp": "観察者·探求者·研究者",
             "tw": "觀察者·探索者·研究者",
             "en": "Observer, explorer, researcher"
         },
-        "Nickname": ["Kurofuku", "Black Suit"]
+        "Nickname": [
+            "Kurofuku",
+            "Black Suit"
+        ]
     },
     {
         "Id": 919,
@@ -818,14 +1037,19 @@
             "tw": "戈爾孔達&印花釉法",
             "en": "Golconde&Decalcomanie"
         },
-        "Avatar": ["/fandom/a/a1/Golconde_Icon.png", "/fandom/f/f0/Decalcomanie_Icon.png"],
+        "Avatar": [
+            "/fandom/a/a1/Golconde_Icon.png",
+            "/fandom/f/f0/Decalcomanie_Icon.png"
+        ],
         "Bio": {
             "zh": "我很期待看到你会从中读出什么",
             "jp": "楽しみにしています",
             "tw": "我很期待看到你會從中讀出什麼",
             "en": "Looking forward to seeing what kind of text you will read"
         },
-        "Nickname": ["Golconde&Decalcomanie"]
+        "Nickname": [
+            "Golconde&Decalcomanie"
+        ]
     },
     {
         "Id": 205,
@@ -835,9 +1059,13 @@
             "tw": "弗朗西斯",
             "en": "Francis"
         },
-        "Avatar": ["/fandom/9/94/Francis_Icon.png"],
+        "Avatar": [
+            "/fandom/9/94/Francis_Icon.png"
+        ],
         "Bio": {},
-        "Nickname": ["Francis"]
+        "Nickname": [
+            "Francis"
+        ]
     },
     {
         "Id": 164,
@@ -847,14 +1075,19 @@
             "tw": "巨匠",
             "en": "Maestro"
         },
-        "Avatar": ["/fandom/2/2a/Maestro_Icon.png", "/fandom/8/80/Maestro_Icon_2.png"],
+        "Avatar": [
+            "/fandom/2/2a/Maestro_Icon.png",
+            "/fandom/8/80/Maestro_Icon_2.png"
+        ],
         "Bio": {
             "zh": "现在，老师。请准备鼓掌",
             "jp": "そは先生，拍手を準備してください",
             "tw": "現在，老師。 請準備鼓掌",
             "en": "Now then, Sensei. Please prepare to applaud."
         },
-        "Nickname": ["Maestro"]
+        "Nickname": [
+            "Maestro"
+        ]
     },
     {
         "Id": 272,
@@ -865,14 +1098,18 @@
             "en": "Phrenapates",
             "kr": "프레나파테스"
         },
-        "Avatar": ["/fandom/0/08/Phrenapates_Icon.png"],
+        "Avatar": [
+            "/fandom/0/08/Phrenapates_Icon.png"
+        ],
         "Bio": {
             "zh": "请…照顾好学生",
             "jp": "どうか...生徒たちをお願いします",
             "tw": "請... 照顧好學生",
             "en": "Please... take care of the students."
         },
-        "Nickname": ["Phrenapates"]
+        "Nickname": [
+            "Phrenapates"
+        ]
     },
     {
         "Id": 247,
@@ -882,14 +1119,18 @@
             "tw": "無名的祭司",
             "en": "Nameless Priests"
         },
-        "Avatar": ["/gamekee/w_184/h_184/829/43637/2023/2/17/264731.png"],
+        "Avatar": [
+            "/gamekee/w_184/h_184/829/43637/2023/2/17/264731.png"
+        ],
         "Bio": {
             "zh": "「无名神」的追随者们",
             "jp": "「名もなき神」の信奉者達",
             "tw": "「無名神」的追隨者們",
             "en": "Followers of the \"Nameless God\""
         },
-        "Nickname": ["Nameless_Priests"]
+        "Nickname": [
+            "Nameless_Priests"
+        ]
     },
     {
         "Id": 134,
@@ -900,14 +1141,19 @@
             "en": "Rabu",
             "kr": "라브"
         },
-        "Avatar": ["/fandom/1/1a/Rabu_Icon.png", "/fandom/a/a9/Rabu_Swimsuit_Icon.png"],
+        "Avatar": [
+            "/fandom/1/1a/Rabu_Icon.png",
+            "/fandom/a/a9/Rabu_Swimsuit_Icon.png"
+        ],
         "Bio": {
             "zh": "毕竟我是兰舞，钢盔团的领队！",
             "jp": "ヘルメット団のリーダーだからね！",
             "tw": "畢竟我是蘭舞，鋼盔團的領隊！",
             "en": "After all, I am Rabu, the Helmet Gangster officer!"
         },
-        "Nickname": ["Rabu"],
+        "Nickname": [
+            "Rabu"
+        ],
         "School": "ETC"
     },
     {
@@ -925,7 +1171,9 @@
             "/gamekee/w_252/h_204/829/43637/2022/6/2/101340.png"
         ],
         "Bio": {},
-        "Nickname": ["Helmet"],
+        "Nickname": [
+            "Helmet"
+        ],
         "School": "ETC"
     },
     {
@@ -954,7 +1202,9 @@
             "tw": "不斷迴圈的軌道最終會通向正義的未來！",
             "en": "The ever-looping track will eventually lead to a just future!"
         },
-        "Nickname": ["Kaitenger"],
+        "Nickname": [
+            "Kaitenger"
+        ],
         "School": "ETC"
     },
     {
@@ -977,7 +1227,10 @@
             "/gamekee/w_252/h_204/829/43637/2022/6/2/285541.png"
         ],
         "Bio": {},
-        "Nickname": ["Sukeban", "不良"],
+        "Nickname": [
+            "Sukeban",
+            "不良"
+        ],
         "School": "ETC"
     },
     {
@@ -1002,7 +1255,13 @@
             "/gamekee/w_200/h_200/829/43637/2023/10/9/20331.png"
         ],
         "Bio": {},
-        "Nickname": ["Student3", "奥德赛的兔女郎", "黑市组织成员", "兼职佣兵学生", "列车乘务员"],
+        "Nickname": [
+            "Student3",
+            "奥德赛的兔女郎",
+            "黑市组织成员",
+            "兼职佣兵学生",
+            "列车乘务员"
+        ],
         "School": "ETC"
     },
     {
@@ -1034,7 +1293,9 @@
             "/gamekee/w_252/h_204/829/43637/2023/7/8/296416.png"
         ],
         "Bio": {},
-        "Nickname": ["Citizen"]
+        "Nickname": [
+            "Citizen"
+        ]
     },
     {
         "Id": 936,
@@ -1052,7 +1313,9 @@
             "/gamekee/w_252/h_204/829/43637/2023/7/9/438385.png"
         ],
         "Bio": {},
-        "Nickname": ["Robot"]
+        "Nickname": [
+            "Robot"
+        ]
     },
     {
         "Id": 201,
@@ -1069,7 +1332,9 @@
             "/fandom/d/de/Kaiser_PMC_President_Icon.png"
         ],
         "Bio": {},
-        "Nickname": ["Kaiser_PMC"]
+        "Nickname": [
+            "Kaiser_PMC"
+        ]
     },
     {
         "Id": 335,
@@ -1079,9 +1344,14 @@
             "tw": "艾茵",
             "en": "Ein"
         },
-        "Avatar": ["/fandom/e/ee/Ein_Icon.png"],
+        "Avatar": [
+            "/fandom/e/ee/Ein_Icon.png"
+        ],
         "Bio": {},
-        "Nickname": ["Ein", "无"]
+        "Nickname": [
+            "Ein",
+            "无"
+        ]
     },
     {
         "Id": 336,
@@ -1091,9 +1361,14 @@
             "tw": "奧茹",
             "en": "Ohr"
         },
-        "Avatar": ["/fandom/9/90/Ohr_Icon.png"],
+        "Avatar": [
+            "/fandom/9/90/Ohr_Icon.png"
+        ],
         "Bio": {},
-        "Nickname": ["Ohr", "光"]
+        "Nickname": [
+            "Ohr",
+            "光"
+        ]
     },
     {
         "Id": 337,
@@ -1103,9 +1378,14 @@
             "tw": "索芙",
             "en": "Sof"
         },
-        "Avatar": ["/fandom/b/b8/Sof_Icon.png"],
+        "Avatar": [
+            "/fandom/b/b8/Sof_Icon.png"
+        ],
         "Bio": {},
-        "Nickname": ["Sof", "限"]
+        "Nickname": [
+            "Sof",
+            "限"
+        ]
     },
     {
         "Id": 295,
@@ -1116,9 +1396,15 @@
             "en": "Binah",
             "kr": "비나"
         },
-        "Avatar": ["/schale/raid/icon/Icon_Binah.png", "/schale/raid/icon/Icon_Binah_Colour.png"],
+        "Avatar": [
+            "/schale/raid/icon/Icon_Binah.png",
+            "/schale/raid/icon/Icon_Binah_Colour.png"
+        ],
         "Bio": {},
-        "Nickname": ["Binah", "大蛇"]
+        "Nickname": [
+            "Binah",
+            "大蛇"
+        ]
     },
     {
         "Id": 296,
@@ -1129,9 +1415,15 @@
             "en": "Chesed",
             "kr": "헤세드"
         },
-        "Avatar": ["/schale/raid/icon/Icon_Chesed.png", "/schale/raid/icon/Icon_Chesed_Colour.png"],
+        "Avatar": [
+            "/schale/raid/icon/Icon_Chesed.png",
+            "/schale/raid/icon/Icon_Chesed_Colour.png"
+        ],
         "Bio": {},
-        "Nickname": ["Chesed", "球"]
+        "Nickname": [
+            "Chesed",
+            "球"
+        ]
     },
     {
         "Id": 306,
@@ -1142,9 +1434,15 @@
             "en": "Shirokuro",
             "kr": "시로 & 쿠로"
         },
-        "Avatar": ["/schale/raid/icon/Icon_Shirokuro.png", "/schale/raid/icon/Icon_ShiroKuro_Colour.png"],
+        "Avatar": [
+            "/schale/raid/icon/Icon_Shirokuro.png",
+            "/schale/raid/icon/Icon_ShiroKuro_Colour.png"
+        ],
         "Bio": {},
-        "Nickname": ["Shirokuro", "黑白"]
+        "Nickname": [
+            "Shirokuro",
+            "黑白"
+        ]
     },
     {
         "Id": 328,
@@ -1155,9 +1453,16 @@
             "en": "Hieronymus",
             "kr": "예로니무스"
         },
-        "Avatar": ["/schale/raid/icon/Icon_Hieronymus.png", "/schale/raid/icon/Icon_Hieronymus_Colour.png"],
+        "Avatar": [
+            "/schale/raid/icon/Icon_Hieronymus.png",
+            "/schale/raid/icon/Icon_Hieronymus_Colour.png"
+        ],
         "Bio": {},
-        "Nickname": ["Hieronymus", "主教", "教皇"]
+        "Nickname": [
+            "Hieronymus",
+            "主教",
+            "教皇"
+        ]
     },
     {
         "Id": 305,
@@ -1168,9 +1473,14 @@
             "en": "KAITEN FX MK.0",
             "kr": "KAITEN FX Mk.0"
         },
-        "Avatar": ["/schale/raid/icon/Icon_KaitenFxMk0.png"],
+        "Avatar": [
+            "/schale/raid/icon/Icon_KaitenFxMk0.png"
+        ],
         "Bio": {},
-        "Nickname": ["KaitenFxMk0", "寿司人"]
+        "Nickname": [
+            "KaitenFxMk0",
+            "寿司人"
+        ]
     },
     {
         "Id": 307,
@@ -1181,9 +1491,15 @@
             "en": "Perorozilla",
             "kr": "페로로지라"
         },
-        "Avatar": ["/schale/raid/icon/Icon_Perorozilla.png", "/schale/raid/icon/Icon_Perorozilla_Colour.png"],
+        "Avatar": [
+            "/schale/raid/icon/Icon_Perorozilla.png",
+            "/schale/raid/icon/Icon_Perorozilla_Colour.png"
+        ],
         "Bio": {},
-        "Nickname": ["Perorozilla", "鸡斯拉"]
+        "Nickname": [
+            "Perorozilla",
+            "鸡斯拉"
+        ]
     },
     {
         "Id": 297,
@@ -1194,9 +1510,14 @@
             "en": "HOD",
             "kr": "호드"
         },
-        "Avatar": ["/schale/raid/icon/Icon_HOD.png", "/schale/raid/icon/Icon_HOD_Colour.png"],
+        "Avatar": [
+            "/schale/raid/icon/Icon_HOD.png",
+            "/schale/raid/icon/Icon_HOD_Colour.png"
+        ],
         "Bio": {},
-        "Nickname": ["HOD"]
+        "Nickname": [
+            "HOD"
+        ]
     },
     {
         "Id": 329,
@@ -1207,9 +1528,13 @@
             "en": "Goz",
             "kr": "고즈"
         },
-        "Avatar": ["/schale/raid/icon/Icon_Goz.png"],
+        "Avatar": [
+            "/schale/raid/icon/Icon_Goz.png"
+        ],
         "Bio": {},
-        "Nickname": ["Goz"]
+        "Nickname": [
+            "Goz"
+        ]
     },
     {
         "Id": 330,
@@ -1220,9 +1545,13 @@
             "en": "Gregorius",
             "kr": "그레고리오"
         },
-        "Avatar": ["/schale/raid/icon/Icon_EN0005.png"],
+        "Avatar": [
+            "/schale/raid/icon/Icon_EN0005.png"
+        ],
         "Bio": {},
-        "Nickname": ["Gregorius"]
+        "Nickname": [
+            "Gregorius"
+        ]
     },
     {
         "Id": 333,
@@ -1233,9 +1562,13 @@
             "en": "Kurokage",
             "kr": "쿠로카게"
         },
-        "Avatar": ["/schale/raid/icon/Icon_EN0006.png"],
+        "Avatar": [
+            "/schale/raid/icon/Icon_EN0006.png"
+        ],
         "Bio": {},
-        "Nickname": ["Kurokage"]
+        "Nickname": [
+            "Kurokage"
+        ]
     },
     {
         "Id": 209,
@@ -1251,7 +1584,9 @@
             "/gamekee/w_200/h_200/829/43637/2023/7/8/448379.png"
         ],
         "Bio": {},
-        "Nickname": ["Schale1"],
+        "Nickname": [
+            "Schale1"
+        ],
         "School": "ETC"
     },
     {
@@ -1263,9 +1598,13 @@
             "en": "Gehenna Student",
             "kr": "게헨나 학생"
         },
-        "Avatar": ["/gamekee/w_252/h_204/829/43637/2023/7/8/602110.png"],
+        "Avatar": [
+            "/gamekee/w_252/h_204/829/43637/2023/7/8/602110.png"
+        ],
         "Bio": {},
-        "Nickname": ["Gehenna4"],
+        "Nickname": [
+            "Gehenna4"
+        ],
         "School": "Gehenna"
     },
     {
@@ -1276,9 +1615,13 @@
             "jp": "万魔殿のメンバー",
             "en": "Pandemonium Society Member"
         },
-        "Avatar": ["/gamekee/w_252/h_204/829/43637/2023/7/8/856242.png"],
+        "Avatar": [
+            "/gamekee/w_252/h_204/829/43637/2023/7/8/856242.png"
+        ],
         "Bio": {},
-        "Nickname": ["Gehenna2"],
+        "Nickname": [
+            "Gehenna2"
+        ],
         "School": "Gehenna"
     },
     {
@@ -1289,9 +1632,13 @@
             "jp": "風紀委員",
             "en": "Prefect Team Member"
         },
-        "Avatar": ["/gamekee/w_252/h_204/829/43637/2023/7/8/6851.png"],
+        "Avatar": [
+            "/gamekee/w_252/h_204/829/43637/2023/7/8/6851.png"
+        ],
         "Bio": {},
-        "Nickname": ["Gehenna1"],
+        "Nickname": [
+            "Gehenna1"
+        ],
         "School": "Gehenna"
     },
     {
@@ -1302,9 +1649,13 @@
             "jp": "温泉部の部員",
             "en": "Hot Springs Department Member"
         },
-        "Avatar": ["/gamekee/w_252/h_204/829/43637/2023/7/8/923176.png"],
+        "Avatar": [
+            "/gamekee/w_252/h_204/829/43637/2023/7/8/923176.png"
+        ],
         "Bio": {},
-        "Nickname": ["Gehenna5"],
+        "Nickname": [
+            "Gehenna5"
+        ],
         "School": "Gehenna"
     },
     {
@@ -1314,9 +1665,13 @@
             "tw": "救急醫學部部員",
             "en": "Medical Emergency Club Member"
         },
-        "Avatar": ["/gamekee/w_252/h_204/829/43637/2023/7/8/374292.png"],
+        "Avatar": [
+            "/gamekee/w_252/h_204/829/43637/2023/7/8/374292.png"
+        ],
         "Bio": {},
-        "Nickname": ["Gehenna3"],
+        "Nickname": [
+            "Gehenna3"
+        ],
         "School": "Gehenna"
     },
     {
@@ -1334,7 +1689,10 @@
             "/gamekee/w_252/h_204/829/43637/2023/7/8/52322.png"
         ],
         "Bio": {},
-        "Nickname": ["Millennium1", "千禧学生"],
+        "Nickname": [
+            "Millennium1",
+            "千禧学生"
+        ],
         "School": "Millennium"
     },
     {
@@ -1346,9 +1704,17 @@
             "en": "Trinity Student",
             "kr": "트리니티 학생"
         },
-        "Avatar": ["/gamekee/w_252/h_204/829/43637/2023/7/8/961729.png"],
+        "Avatar": [
+            "/gamekee/w_252/h_204/829/43637/2023/7/8/961729.png"
+        ],
         "Bio": {},
-        "Nickname": ["Trinity2", "正义实现委员会部员", "修女会成员", "圣三一学生", "茶话会成员"],
+        "Nickname": [
+            "Trinity2",
+            "正义实现委员会部员",
+            "修女会成员",
+            "圣三一学生",
+            "茶话会成员"
+        ],
         "School": "Trinity"
     },
     {
@@ -1364,7 +1730,9 @@
             "/gamekee/w_252/h_204/829/43637/2023/7/8/936072.png"
         ],
         "Bio": {},
-        "Nickname": ["Trinity4"],
+        "Nickname": [
+            "Trinity4"
+        ],
         "School": "Trinity"
     },
     {
@@ -1374,9 +1742,13 @@
             "tw": "修女會成員",
             "en": "The Sisterhood Member"
         },
-        "Avatar": ["/gamekee/w_252/h_204/829/43637/2023/7/8/694927.png"],
+        "Avatar": [
+            "/gamekee/w_252/h_204/829/43637/2023/7/8/694927.png"
+        ],
         "Bio": {},
-        "Nickname": ["Trinity3"],
+        "Nickname": [
+            "Trinity3"
+        ],
         "School": "Trinity"
     },
     {
@@ -1387,9 +1759,14 @@
             "jp": "正義実現委員会部員",
             "en": "Justice Task Force Member"
         },
-        "Avatar": ["/gamekee/w_200/h_200/829/43637/2023/7/8/642465.png"],
+        "Avatar": [
+            "/gamekee/w_200/h_200/829/43637/2023/7/8/642465.png"
+        ],
         "Bio": {},
-        "Nickname": ["Trinity1", "杂鱼酱"],
+        "Nickname": [
+            "Trinity1",
+            "杂鱼酱"
+        ],
         "School": "Trinity"
     },
     {
@@ -1401,7 +1778,9 @@
         },
         "Avatar": [],
         "Bio": {},
-        "Nickname": ["Student2"],
+        "Nickname": [
+            "Student2"
+        ],
         "School": "Arius"
     },
     {
@@ -1421,7 +1800,9 @@
             "/gamekee/w_550/h_550/829/43637/2023/10/9/497085.png"
         ],
         "Bio": {},
-        "Nickname": ["Hyakkiyako1"],
+        "Nickname": [
+            "Hyakkiyako1"
+        ],
         "School": "Hyakkiyako"
     },
     {
@@ -1438,7 +1819,9 @@
             "/gamekee/w_252/h_204/829/43637/2023/7/8/539444.png"
         ],
         "Bio": {},
-        "Nickname": ["Hyakkiyako4"],
+        "Nickname": [
+            "Hyakkiyako4"
+        ],
         "School": "Hyakkiyako"
     },
     {
@@ -1451,7 +1834,9 @@
         },
         "Avatar": [],
         "Bio": {},
-        "Nickname": ["Hyakkiyako6"],
+        "Nickname": [
+            "Hyakkiyako6"
+        ],
         "School": "Hyakkiyako"
     },
     {
@@ -1469,7 +1854,9 @@
             "/gamekee/w_550/h_550/829/43637/2023/10/9/430199.png"
         ],
         "Bio": {},
-        "Nickname": ["Shanhaijing1"],
+        "Nickname": [
+            "Shanhaijing1"
+        ],
         "School": "Shanhaijing"
     },
     {
@@ -1479,9 +1866,13 @@
             "tw": "玄龍門成員",
             "en": "Genryumon Member"
         },
-        "Avatar": ["/gamekee/w_252/h_204/829/43637/2023/7/8/540339.png"],
+        "Avatar": [
+            "/gamekee/w_252/h_204/829/43637/2023/7/8/540339.png"
+        ],
         "Bio": {},
-        "Nickname": ["Shanhaijing4"],
+        "Nickname": [
+            "Shanhaijing4"
+        ],
         "School": "Shanhaijing"
     },
     {
@@ -1491,9 +1882,13 @@
             "tw": "玄武商會成員",
             "en": "Black Tortoise Promenade Member"
         },
-        "Avatar": ["/gamekee/w_200/h_200/829/43637/2023/7/8/924732.png"],
+        "Avatar": [
+            "/gamekee/w_200/h_200/829/43637/2023/7/8/924732.png"
+        ],
         "Bio": {},
-        "Nickname": ["Shanhaijing3"],
+        "Nickname": [
+            "Shanhaijing3"
+        ],
         "School": "Shanhaijing"
     },
     {
@@ -1504,9 +1899,13 @@
             "jp": "工務部の部員",
             "en": "Labor Party Member"
         },
-        "Avatar": ["/gamekee/w_252/h_204/829/43637/2023/7/9/88211.png"],
+        "Avatar": [
+            "/gamekee/w_252/h_204/829/43637/2023/7/9/88211.png"
+        ],
         "Bio": {},
-        "Nickname": ["RedWinter1"],
+        "Nickname": [
+            "RedWinter1"
+        ],
         "School": "RedWinter"
     },
     {
@@ -1517,9 +1916,13 @@
             "jp": "レッドウィンターの親衛隊",
             "en": "State Guard"
         },
-        "Avatar": ["/gamekee/w_252/h_204/829/43637/2023/7/9/409008.png"],
+        "Avatar": [
+            "/gamekee/w_252/h_204/829/43637/2023/7/9/409008.png"
+        ],
         "Bio": {},
-        "Nickname": ["RedWinter2"],
+        "Nickname": [
+            "RedWinter2"
+        ],
         "School": "RedWinter"
     },
     {
@@ -1530,9 +1933,13 @@
             "jp": "ヴァルキューレの生徒",
             "en": "Valkyrie Student"
         },
-        "Avatar": ["/gamekee/w_252/h_204/829/43637/2023/7/8/496653.png"],
+        "Avatar": [
+            "/gamekee/w_252/h_204/829/43637/2023/7/8/496653.png"
+        ],
         "Bio": {},
-        "Nickname": ["Student"],
+        "Nickname": [
+            "Student"
+        ],
         "School": "Valkyrie"
     }
 ]
