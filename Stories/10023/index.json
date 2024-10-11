@@ -1,5 +1,5 @@
 {
-    "1002303": [
+    "1002302": [
         "MessageJP",
         "MessageKR",
         "MessageTW",
@@ -11,9 +11,11 @@
         "MessageTW",
         "MessageEN"
     ],
-    "1002305": [
+    "1002303": [
         "MessageJP",
-        "MessageKR"
+        "MessageKR",
+        "MessageTW",
+        "MessageEN"
     ],
     "1002301": [
         "MessageJP",
@@ -21,10 +23,8 @@
         "MessageTW",
         "MessageEN"
     ],
-    "1002302": [
+    "1002305": [
         "MessageJP",
-        "MessageKR",
-        "MessageTW",
-        "MessageEN"
+        "MessageKR"
     ]
 }
