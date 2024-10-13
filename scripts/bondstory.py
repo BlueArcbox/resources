@@ -325,7 +325,9 @@ def generate_story_index(story_directory):
     """Generate a story index file for each character"""
 
     list1 = {}
-    for file in story_directory.iterdir():
+    files = sorted(story_directory.iterdir(), key=lambda x: x.name)
+    
+    for file in files:
         if file.name in ["index.json", "Stickers.json"]:
             continue
         with open(story_directory / file.name, "r", encoding="utf-8") as f:

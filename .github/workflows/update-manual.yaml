@@ -1,4 +1,4 @@
-name: update
+name: update_manual
 on:
   # workflow_run:
   #   workflows: ["trigger"]
