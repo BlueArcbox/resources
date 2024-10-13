@@ -1,21 +1,5 @@
 {
-    "1003904": [
-        "MessageJP",
-        "MessageKR",
-        "MessageTW",
-        "MessageEN"
-    ],
     "1003901": [
-        "MessageJP",
-        "MessageKR",
-        "MessageTW",
-        "MessageEN"
-    ],
-    "1003905": [
-        "MessageJP",
-        "MessageKR"
-    ],
-    "1003903": [
         "MessageJP",
         "MessageKR",
         "MessageTW",
@@ -26,5 +10,21 @@
         "MessageKR",
         "MessageTW",
         "MessageEN"
+    ],
+    "1003903": [
+        "MessageJP",
+        "MessageKR",
+        "MessageTW",
+        "MessageEN"
+    ],
+    "1003904": [
+        "MessageJP",
+        "MessageKR",
+        "MessageTW",
+        "MessageEN"
+    ],
+    "1003905": [
+        "MessageJP",
+        "MessageKR"
     ]
 }

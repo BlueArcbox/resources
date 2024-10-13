@@ -1,11 +1,5 @@
 {
-    "1006303": [
-        "MessageJP",
-        "MessageKR",
-        "MessageTW",
-        "MessageEN"
-    ],
-    "1006305": [
+    "1006301": [
         "MessageJP",
         "MessageKR",
         "MessageTW",
@@ -17,13 +11,19 @@
         "MessageTW",
         "MessageEN"
     ],
+    "1006303": [
+        "MessageJP",
+        "MessageKR",
+        "MessageTW",
+        "MessageEN"
+    ],
     "1006304": [
         "MessageJP",
         "MessageKR",
         "MessageTW",
         "MessageEN"
     ],
-    "1006301": [
+    "1006305": [
         "MessageJP",
         "MessageKR",
         "MessageTW",

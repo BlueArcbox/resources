@@ -5,7 +5,13 @@
         "MessageTW",
         "MessageEN"
     ],
-    "1000005": [
+    "1000002": [
+        "MessageJP",
+        "MessageKR",
+        "MessageTW",
+        "MessageEN"
+    ],
+    "1000003": [
         "MessageJP",
         "MessageKR",
         "MessageTW",
@@ -17,13 +23,7 @@
         "MessageTW",
         "MessageEN"
     ],
-    "1000002": [
-        "MessageJP",
-        "MessageKR",
-        "MessageTW",
-        "MessageEN"
-    ],
-    "1000003": [
+    "1000005": [
         "MessageJP",
         "MessageKR",
         "MessageTW",
