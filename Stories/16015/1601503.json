@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "そろそろ",
         "MessageKR": "슬슬",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "差不多",
+        "MessageEN": "It looks like"
     },
     {
         "MessageId": 160150330,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "学園祭も終わりますね",
         "MessageKR": "일정들도 다 끝나 가네요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "快結束了呢",
+        "MessageEN": "our time is coming to an end."
     },
     {
         "MessageId": 160150331,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "その……",
         "MessageKR": "뭔가 조금……. 뭐랄까…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有點……該怎麼說呢……",
+        "MessageEN": "It's a little... How should I say it...?"
     },
     {
         "MessageId": 160150340,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "╯︿╰",
         "MessageKR": "╯︿╰",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "╯︿╰",
+        "MessageEN": "╯︿╰"
     },
     {
         "MessageId": 160150350,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "……アイリ？",
         "MessageKR": "……아이리?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……愛莉？",
+        "MessageEN": "...Airi?"
     },
     {
         "MessageId": 160150350,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "大丈夫？",
         "MessageKR": "뭔가 고민이 있는 느낌이네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有什麼煩惱嗎？",
+        "MessageEN": "Seems like there's something on your mind."
     },
     {
         "MessageId": 160150360,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "すみません",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah."
     },
     {
         "MessageId": 160150361,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "余計なことを言ってしまったかもです",
         "MessageKR": "또 괜한 소리를 ㅎㅎ;;",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "又說了不該說的話>\"<",
+        "MessageEN": "What I'm trying to say here..."
     },
     {
         "MessageId": 160150370,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "大丈夫かどうかも、ちょっと分かりません",
         "MessageKR": "모르겠어요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我也不太清楚",
+        "MessageEN": "It's hard to put into words."
     },
     {
         "MessageId": 160150371,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "何と言うか……",
         "MessageKR": "그런 걸까요? 그럴 지도…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "或許是吧……",
+        "MessageEN": "Maybe it's because..."
     },
     {
         "MessageId": 160150380,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "╯︿╰\u200b",
         "MessageKR": "음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔",
+        "MessageEN": "Hm"
     },
     {
         "MessageId": 160150381,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "いえ",
         "MessageKR": "괜한 메시지를 보냈네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "傳了不該傳的訊息",
+        "MessageEN": "I'm rambling needlessly at this point."
     },
     {
         "MessageId": 160150390,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "やはりお気になさらず……",
         "MessageKR": "죄송해요. ╯︿╰",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我很抱歉╯︿╰",
+        "MessageEN": "I'm sorry. ╯︿╰"
     },
     {
         "MessageId": 160140407,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "아\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊\u200b",
+        "MessageEN": "Ah.\u200b"
     },
     {
         "MessageId": 160150410,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "その",
         "MessageKR": "그",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那",
+        "MessageEN": "Um..."
     },
     {
         "MessageId": 160150411,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "全然別の話なんですが……",
         "MessageKR": "그러고 보니 선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個，老師",
+        "MessageEN": "Hey, Sensei. I was wondering."
     },
     {
         "MessageId": 160150420,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "今日のこと",
         "MessageKR": "이건 완전히 다른 이야기긴 하지만요;",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然好像沒什麼關聯",
+        "MessageEN": "Apologies, this is a completely different topic, but..."
     },
     {
         "MessageId": 160150430,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "あの、他の子には内緒で……",
         "MessageKR": "오늘 일…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過今天的事……",
+        "MessageEN": "About today..."
     },
     {
         "MessageId": 160150431,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "恥ずかしいので……",
         "MessageKR": "뭔가 부끄러우니 다른 아이들에겐…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請別告訴其他人，\n不然我會很害羞的……",
+        "MessageEN": "I'm a bit embarrassed, so I'd appreciate it if you, well..."
     },
     {
         "MessageId": 160150440,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "心配しないで、誰にも言わないよ",
         "MessageKR": "걱정하지 마. 아무 말 안 할게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "別擔心，我不會告訴任何人的",
+        "MessageEN": "Don't worry. I won't say anything."
     },
     {
         "MessageId": 160150440,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "もちろん、二人だけの秘密で",
         "MessageKR": "저도 그 정도의 눈치는 있습니다ㅋㅋ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我也感覺得出來哦:D",
+        "MessageEN": "I can read the room! Haha"
     },
     {
         "MessageId": 160150450,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "あ",
         "MessageKR": "아\u200b\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊\u200b\u200b",
+        "MessageEN": "Ah.\u200b\u200b"
     },
     {
         "MessageId": 160150451,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "はい！",
         "MessageKR": "네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是",
+        "MessageEN": "Okay."
     },
     {
         "MessageId": 160150460,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "えへへ",
         "MessageKR": "ㅎㅎㅎ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "耶嘿嘿",
+        "MessageEN": "Heeheehee."
     },
     {
         "MessageId": 160150470,
@@ -327,7 +327,7 @@
         "ImagePath": "",
         "MessageJP": "ありがとうございます！！ヾ(^▽^\\*)))",
         "MessageKR": "감사합니다!! ヾ(^▽^\\*)))",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝你！！ヾ(^▽^\\*)))",
+        "MessageEN": "Thank you!! ヾ(^▽^\\*)))"
     }
 ]

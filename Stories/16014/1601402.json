@@ -64,7 +64,7 @@
         "MessageJP": "今日も遊びに行っていい？",
         "MessageKR": "샬레에 놀러 가도 돼?",
         "MessageTW": "我可以去夏萊玩嗎？",
-        "MessageEN": "Can I come hang out at Schale?"
+        "MessageEN": "Can Ibuki come hang out at Schale?"
     },
     {
         "MessageId": 160140110,
@@ -76,7 +76,7 @@
         "MessageJP": "イブキ、先生と遊びたい！",
         "MessageKR": "오늘 당번은 아니지만 선생님이랑 놀고 싶어!",
         "MessageTW": "雖然今天不是值日生，但我想跟老師玩！",
-        "MessageEN": "I'm not the Student Rep today, but I want to play games again!"
+        "MessageEN": "Ibuki isn't the Student Rep today, but Ibuki wants to play games again!"
     },
     {
         "MessageId": 160140120,
@@ -112,7 +112,7 @@
         "MessageJP": "ありがとう！すぐ行くね、せんせい！",
         "MessageKR": "응! 고마워! 이따가 만ㄴ나요 선ㅅ생님!",
         "MessageTW": "嗯！謝謝！待會見囉，老師！",
-        "MessageEN": "Yup! Thanks! I'll see you soon, SenSei!"
+        "MessageEN": "Yup! Thanks! See you soon, SenSei!"
     },
     {
         "MessageId": 160130147,
@@ -160,7 +160,7 @@
         "MessageJP": "先生とゲームして、鬼ごっこして、かくれんぼして……",
         "MessageKR": "선생님이랑 게임도 하고, 술래잡기도 하고, 숨바꼭질도 하고…….",
         "MessageTW": "不但和老師玩遊戲，還玩了捉迷藏和躲貓貓……",
-        "MessageEN": "I got to play tag and hIDe and seek with Sensei at Schale Park..."
+        "MessageEN": "Ibuki got to play tag and hIDe and seek with Sensei at Schale Park..."
     },
     {
         "MessageId": 160140160,
@@ -220,7 +220,7 @@
         "MessageJP": "やったぁ！遊びに行くね！",
         "MessageKR": "그럼 다음번에 또 샬레 파크에 놀러 갈게!",
         "MessageTW": "那我下次還要再去夏萊遊樂園玩！",
-        "MessageEN": "Then I can't wait to play at Schale Park again!"
+        "MessageEN": "Then Ibuki can't wait to play at Schale Park again!"
     },
     {
         "MessageId": 160140200,

@@ -52,7 +52,7 @@
         "MessageJP": "聞きたいことがあるの！",
         "MessageKR": "궁금한 게 생겼어!",
         "MessageTW": "我有個問題！",
-        "MessageEN": "I'm curious!"
+        "MessageEN": "Ibuki is curious!"
     },
     {
         "MessageId": 160140240,
@@ -76,7 +76,7 @@
         "MessageJP": "先生はいつも忙しそうだけど",
         "MessageKR": "샬레에 갈 때마다 선생님은 일을 하고 있잖아?",
         "MessageTW": "我每次去夏萊的時候，老師不是都在工作嗎？",
-        "MessageEN": "You're always working whenever I visit Schale, right?"
+        "MessageEN": "You're always working whenever Ibuki visits Schale, right?"
     },
     {
         "MessageId": 160140260,
@@ -148,7 +148,7 @@
         "MessageJP": "イブキ、文字だと時間かかるから",
         "MessageKR": "이부키는 손가락이 느리니까",
         "MessageTW": "伊吹打字很慢",
-        "MessageEN": "I'm not great at typing,"
+        "MessageEN": "Ibuki isn't great at typing,"
     },
     {
         "MessageId": 160140310,
@@ -160,7 +160,7 @@
         "MessageJP": "会って話すね！",
         "MessageKR": "직접 가서 말해줄게!",
         "MessageTW": "我直接去跟你說！",
-        "MessageEN": "so I'll tell you in person!"
+        "MessageEN": "so Ibuki will tell you in person!"
     },
     {
         "MessageId": 160130317,

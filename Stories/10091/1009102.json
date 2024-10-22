@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "気づいたら",
         "MessageKR": "으아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呃啊……",
+        "MessageEN": "Whoa"
     },
     {
         "MessageId": 100910140,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "もうこんな時間",
         "MessageKR": "벌써 시간이 이렇게",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "已經這麼晚了",
+        "MessageEN": "Look at the time."
     },
     {
         "MessageId": 100910150,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "どうしたの？",
         "MessageKR": "뭔가 일이 많았어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "什麼工作這麼多？",
+        "MessageEN": "Were you swamped with work?"
     },
     {
         "MessageId": 100910150,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "こんなに遅くまで授業？",
         "MessageKR": "이렇게 늦게까지? 수업?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "忙到這麼晚？在上課嗎？",
+        "MessageEN": "What're you doing so late? Class?"
     },
     {
         "MessageId": 100910160,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ううん",
         "MessageKR": "아니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不是",
+        "MessageEN": "Nah."
     },
     {
         "MessageId": 100910161,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "練習がちょっと長引いちゃって",
         "MessageKR": "그냥 연습이 좀 길어져서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只是練習時間延長了一點",
+        "MessageEN": "Practice just went pretty late."
     },
     {
         "MessageId": 100910170,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "家まで帰るの面倒だなぁ",
         "MessageKR": "뭔가 피곤해서 한 번에 집까지 가기 힘드네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在累到有點難直接回家",
+        "MessageEN": "I'm beat. I don't know if I can make it home."
     },
     {
         "MessageId": 100910180,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "よし",
         "MessageKR": "음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯……",
+        "MessageEN": "Hm"
     },
     {
         "MessageId": 100910190,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "いまから",
         "MessageKR": "좋아, 결정.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好，就這麼決定",
+        "MessageEN": "All right. I've got it."
     },
     {
         "MessageId": 100910191,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "突撃しても良い？",
         "MessageKR": "지금 쳐들어가겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我現在就進攻",
+        "MessageEN": "I'm intruding. Right now."
     },
     {
         "MessageId": 100910200,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "……？",
         "MessageKR": "……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……？",
+        "MessageEN": "...?"
     },
     {
         "MessageId": 100910200,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "どこに？",
         "MessageKR": "어딜?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "進攻哪裡？",
+        "MessageEN": "Where?"
     },
     {
         "MessageId": 100900217,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "その",
         "MessageKR": "아,",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah,"
     },
     {
         "MessageId": 100910211,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "バタバタして、言いそびれた気がして",
         "MessageKR": "정신없어서 말하는 것도 늦었네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "剛才有點手忙腳亂的，沒來得及告訴你",
+        "MessageEN": "This is a bit late, but..."
     },
     {
         "MessageId": 100910220,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "ごめんなさい",
         "MessageKR": "죄송합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "對不起",
+        "MessageEN": "I'm sorry."
     },
     {
         "MessageId": 100910230,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "別に謝るようなことじゃないよ",
         "MessageKR": "딱히 사과할 일은 없었는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不需要為了這種事道歉哦",
+        "MessageEN": "There's nothing to apologize for."
     },
     {
         "MessageId": 100910230,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "ケーキ美味しかったから、ありがとね",
         "MessageKR": "케이크 맛있었어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "蛋糕很好吃",
+        "MessageEN": "The cake was delicious!"
     },
     {
         "MessageId": 100910240,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "……そっか",
         "MessageKR": "응",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "Right"
     },
     {
         "MessageId": 100910250,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "ところで、無事に帰れた？",
         "MessageKR": "그나저나 늦었는데 잘 들어갔지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "話說都這麼晚了，你有平安到家嗎？",
+        "MessageEN": "It's really late now though. Did you make it home okay?"
     },
     {
         "MessageId": 100910250,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "結構時間も時間だし……",
         "MessageKR": "집에 바로 들어갔지? 괜히 걱정돼서.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "應該有馬上回家吧？我莫名有點擔心",
+        "MessageEN": "You went straight home, right? I was worried."
     },
     {
         "MessageId": 100910260,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "心配ご無用",
         "MessageKR": "걱정도 팔자셔.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真愛操心",
+        "MessageEN": "Stop worrying so much."
     },
     {
         "MessageId": 100910271,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "これで良い？",
         "MessageKR": "이 정도면 대답이 됐겠지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這樣有回答到你吧？",
+        "MessageEN": "That answers your question, right?"
     },
     {
         "MessageId": 100910280,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "もうこんな時間だし、先生も早く寝なよ",
         "MessageKR": "그럼 이만 늦었으니 선생님도",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這麼晚了，老師也早點睡吧",
+        "MessageEN": "Well, it IS late..."
     },
     {
         "MessageId": 100910281,
@@ -327,7 +327,7 @@
         "ImagePath": "",
         "MessageJP": "じゃ、おやすみ",
         "MessageKR": "잘 자.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "晚安",
+        "MessageEN": "Night, Sensei."
     }
 ]

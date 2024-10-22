@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "はあ……",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah."
     },
     {
         "MessageId": 100910020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "どうして",
         "MessageKR": "어쩌다 일이 이렇게 된 건지;;",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "事情怎麼會變成這樣……",
+        "MessageEN": "How'd this happen..."
     },
     {
         "MessageId": 100910021,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "私がボーカルなんて……",
         "MessageKR": "내 팔자에 보컬은 무슨 보컬이야",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哪有什麼我命中注定要當主唱啊",
+        "MessageEN": "Me? A vocalist?"
     },
     {
         "MessageId": 100910030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "カズサなら大丈夫！",
         "MessageKR": "스스로 고른 보컬",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "既然自己選擇了主唱",
+        "MessageEN": "You did accept the role."
     },
     {
         "MessageId": 100910030,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "気合と情熱さえあれば！",
         "MessageKR": "기합으로 열정으로",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就拿出魄力和熱情吧",
+        "MessageEN": "Give it your all!"
     },
     {
         "MessageId": 100910040,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "いやいや",
         "MessageKR": "그러니까 원한 게 아니라고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那又不是我想要的",
+        "MessageEN": "I'm trying to tell you, this isn't what I wanted."
     },
     {
         "MessageId": 100910050,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "っていうか、そもそも私が選んだわけじゃないのに……",
         "MessageKR": "?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "？",
+        "MessageEN": "?"
     },
     {
         "MessageId": 100910051,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "……ちょっと待って",
         "MessageKR": "아니, 잠깐만",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不，等等",
+        "MessageEN": "Wait. Actually..."
     },
     {
         "MessageId": 100910052,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "これ、元はと言えば先生のせいじゃん",
         "MessageKR": "생각해 보니 전부 선생님 때문이잖아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "仔細想想，這都是老師造成的吧",
+        "MessageEN": "If I really think about it, it's all your fault."
     },
     {
         "MessageId": 100910060,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "……",
         "MessageKR": "……예?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……什麼？",
+        "MessageEN": "...Huh?"
     },
     {
         "MessageId": 100910060,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "ソウデスネ？",
         "MessageKR": "이걸 내 탓을 한다고?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這是我的錯嗎？",
+        "MessageEN": "You're blaming this on me?"
     },
     {
         "MessageId": 100910070,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "ねぇ、今どこ？",
         "MessageKR": "지금 어디야",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你現在在哪",
+        "MessageEN": "Where are you right now?"
     },
     {
         "MessageId": 100910071,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "責任取ってもらうからね",
         "MessageKR": "아무래도 책임을 져 주셔야겠어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "得讓你負責才行",
+        "MessageEN": "I'm gonna make you take responsibility."
     },
     {
         "MessageId": 100900087,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "先生、あの……",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 100910081,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "何かごめん",
         "MessageKR": "그",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個",
+        "MessageEN": "Um..."
     },
     {
         "MessageId": 100910090,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "ずっと連続で、その……",
         "MessageKR": "죄송합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "抱歉",
+        "MessageEN": "I'm sorry."
     },
     {
         "MessageId": 100910091,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "大丈夫だった？",
         "MessageKR": "생각해 보니 거의 다 나 혼자 불러 댔던 거 같아서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在想想，好像幾乎都是我一個人在唱",
+        "MessageEN": "I realized... I might've been the only one who did any singing."
     },
     {
         "MessageId": 100910100,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "私も楽しかったよ",
         "MessageKR": "나는 완전 좋았는데?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我很喜歡哦？",
+        "MessageEN": "I didn't have a single problem with it."
     },
     {
         "MessageId": 100910100,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "またいつでも呼んで",
         "MessageKR": "나중에 또 불러줘. 언제든지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下次再叫我吧。我隨時奉陪",
+        "MessageEN": "Feel free to call me again. Anytime."
     },
     {
         "MessageId": 100910110,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "そ、そう？",
         "MessageKR": "?\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "？\u200b",
+        "MessageEN": "?\u200b"
     },
     {
         "MessageId": 100910111,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "ならよかった",
         "MessageKR": "오 진짜?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真的嗎？",
+        "MessageEN": "Oh. Really?"
     },
     {
         "MessageId": 100910120,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "じゃ",
         "MessageKR": "좋아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那",
+        "MessageEN": "Okay."
     },
     {
         "MessageId": 100910121,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "今のメッセージ、スクショ撮っといたから",
         "MessageKR": "지금 이거 저장해 둘 거니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這句話我截圖起來了",
+        "MessageEN": "I'm saving this convo."
     },
     {
         "MessageId": 100910122,
@@ -315,7 +315,7 @@
         "ImagePath": "",
         "MessageJP": "また付き合ってよね、絶対",
         "MessageKR": "나중에 딴소리 말라고, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "之後可別想耍賴哦，老師",
+        "MessageEN": "So you better not try to back out later, Sensei."
     }
 ]

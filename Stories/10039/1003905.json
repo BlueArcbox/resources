@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、明日市内に向かわれるんですよね",
         "MessageKR": "선생님, 혹시 내일 시내에 가실 때",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，明天去市區的時候",
+        "MessageEN": "Sensei, when you go downtown tomorrow..."
     },
     {
         "MessageId": 100390410,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "よろしければ、私も一緒に……",
         "MessageKR": "괜찮으시다면 저도 함께 데려가 주실래요……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可以帶我一起去嗎……？",
+        "MessageEN": "Can I come too? If that's okay..."
     },
     {
         "MessageId": 100390420,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "もちろん！",
         "MessageKR": "물론이지!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然！",
+        "MessageEN": "Of course!"
     },
     {
         "MessageId": 100390430,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "何か用事でもあるの？",
         "MessageKR": "그런데 갑자기 시내에 무슨 일이라도 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過突然說想去市區，發生了什麼事嗎？",
+        "MessageEN": "What's happening downtown?"
     },
     {
         "MessageId": 100390440,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "その……",
         "MessageKR": "그게",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是這樣的……",
+        "MessageEN": "Well"
     },
     {
         "MessageId": 100390441,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "SRTの任務が、ありまして……",
         "MessageKR": "SRT의 임무로 시내에서 할 일이 있어서요……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為SRT任務的關係，有事要去市區一趟……",
+        "MessageEN": "I have to go downtown...for an SRT mission..."
     },
     {
         "MessageId": 100390450,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "市内で戦闘とか……！？",
         "MessageKR": "설마 시내에서 전투라도 하려는 거야?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "該不會是要在市區戰鬥吧！？",
+        "MessageEN": "Are you going to be in a fight?!"
     },
     {
         "MessageId": 100390460,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "い、いえ……そんな大げさな任務ではなく……！",
         "MessageKR": "아뇨, 그렇게 거창한 임무는 아니에요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不，不是那麼誇張的任務！",
+        "MessageEN": "No, no! Nothing that intense..."
     },
     {
         "MessageId": 100390470,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "えっと……",
         "MessageKR": "그게 그러니까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "其實……",
+        "MessageEN": "You see"
     },
     {
         "MessageId": 100390471,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "たまに野菜を分けてくださる方々から",
         "MessageKR": "가끔 남은 채소 등을 가져다주시는 근처의 주민들로부터",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是偶爾會帶剩下的蔬菜給我們的居民們",
+        "MessageEN": "We received a request, from the locals who bring us leftover vegetables here and there,"
     },
     {
         "MessageId": 100390472,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "害獣の駆除を、依頼されまして……",
         "MessageKR": "해수 구제를 요청받아서요……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "拜託我驅逐野獸……",
+        "MessageEN": "to get rid of some vermin."
     },
     {
         "MessageId": 100390480,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "それなら私も一緒に行くよ",
         "MessageKR": "그런 일이라면 나도 같이 갈게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果是那種事的話，我也跟你一起去",
+        "MessageEN": "I can go with you for that kind of mission."
     },
     {
         "MessageId": 100390490,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "良いんですか？",
         "MessageKR": "괜찮으시겠어요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真的可以嗎？",
+        "MessageEN": "Are you sure?"
     },
     {
         "MessageId": 100390491,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "よ、よろしくお願いします……！",
         "MessageKR": "꽤 오래 걸릴지도 모르는데……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可能會花不少時間哦……",
+        "MessageEN": "It might be time consuming..."
     },
     {
         "MessageId": 100380497,

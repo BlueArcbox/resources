@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、こんにちは。カホです",
         "MessageKR": "선생님, 안녕하십니까. 카호입니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師您好。我是佳穗",
+        "MessageEN": "Hello Sensei. This is Kaho."
     },
     {
         "MessageId": 100650400,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "明日、仕事で陰陽部にいらっしゃると伺い、メッセージいたしました",
         "MessageKR": "내일 업무차 음양부에 들르신다는 소식을 들었습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "聽說您明天會到陰陽部辦公",
+        "MessageEN": "I heard you are scheduled to visit the Yin-Yang Club on business tomorrow."
     },
     {
         "MessageId": 100650410,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "うん、明日はよろしくね",
         "MessageKR": "응, 맞아. 그렇게 됐네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，是這樣沒錯哦",
+        "MessageEN": "Yes! Your intel is right!"
     },
     {
         "MessageId": 100650420,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "はい、お会いできるのを楽しみにしておりますね",
         "MessageKR": "후훗, 또 뵐 수 있게 되어 즐겁네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵，很高興又能見到老師",
+        "MessageEN": "Heehee. How wonderful to have the chance to see you again."
     },
     {
         "MessageId": 100650421,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "それとよろしければ、業務の後にお茶でもいかがでしょうか？",
         "MessageKR": "업무가 끝나면 휴게실에서 차라도 한잔하고 가시는 건 어떠신가요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "工作結束之後，要不要到休息室喝杯茶再走？",
+        "MessageEN": "Perhaps, when you've finished your work, we can enjoy a cup of tea together in the break room."
     },
     {
         "MessageId": 100650430,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "休憩は大事ですから",
         "MessageKR": "청결하고 정돈된 분위기에서 휴식을 취하면 이후 업무의 능률도 오를 테니까요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "在整潔的氣氛中休息，也可以提高工作效率",
+        "MessageEN": "Finding time to rest in a clean environment will actually improve your overall efficiency at work."
     },
     {
         "MessageId": 100650440,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとう。それじゃあ、頂こうかな",
         "MessageKR": "물론, 사양할 이유가 없지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然好，我很樂意",
+        "MessageEN": "I don't see why not!"
     },
     {
         "MessageId": 100650450,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "はい、心を込めて用意いたしますね",
         "MessageKR": "감사합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "非常感謝",
+        "MessageEN": "Thank you."
     },
     {
         "MessageId": 100650451,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "それではお待ちしております",
         "MessageKR": "그럼 기다리고 있겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼，我會等候您的到來",
+        "MessageEN": "I'll be waiting for you, then."
     },
     {
         "MessageId": 100640457,

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "うーん",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah."
     },
     {
         "MessageId": 100920180,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "分かんなくなってきた",
         "MessageKR": "잘 모르겠네 괜찮은 거 같기도 하고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然不太確定，但感覺好像不錯",
+        "MessageEN": "I can't get it right...but maybe it doesn't really matter."
     },
     {
         "MessageId": 100920190,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "……？",
         "MessageKR": "……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……？",
+        "MessageEN": "...?"
     },
     {
         "MessageId": 100920190,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "どうしたの？",
         "MessageKR": "뭐가?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你指的是什麼？",
+        "MessageEN": "What?"
     },
     {
         "MessageId": 100920200,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "あ、いや",
         "MessageKR": "아니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就是",
+        "MessageEN": "Nah."
     },
     {
         "MessageId": 100920201,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと描いてみたんだけど",
         "MessageKR": "미리 좀 그려 보고 있는데 잘 안돼서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我隨意試畫了一下，但是不太順利",
+        "MessageEN": "I was tryna draw something... But it just won't look the way I want it to."
     },
     {
         "MessageId": 100920210,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "描くってことは……",
         "MessageKR": "그리는 중이라고?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "畫畫？",
+        "MessageEN": "You're drawing?"
     },
     {
         "MessageId": 100920210,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "ロゴデザイン？",
         "MessageKR": "밴드 디자인?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是樂團的設計嗎？",
+        "MessageEN": "Is it a design for the band?"
     },
     {
         "MessageId": 100920220,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "うん、そう",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei!"
     },
     {
         "MessageId": 100920221,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと見てもらえる？",
         "MessageKR": "와서 좀 봐줄 수 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可以來幫我看一下嗎？",
+        "MessageEN": "Do you mind...taking a look for me?"
     },
     {
         "MessageId": 100910237,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "本当何なの",
         "MessageKR": "대체 뭐야",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "到底是怎樣",
+        "MessageEN": "What's wrong?"
     },
     {
         "MessageId": 100920240,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "どうしてあんなことするの？",
         "MessageKR": "병이라도 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你有病嗎？",
+        "MessageEN": "Are you sick or something?"
     },
     {
         "MessageId": 100920241,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "やめてほしいんだけど",
         "MessageKR": "하루를 그냥 넘어가지 못하는 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "連一天都熬不過了？",
+        "MessageEN": "You can't just ignore it for a day?"
     },
     {
         "MessageId": 100920242,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "これからはホントにやめてよね",
         "MessageKR": "그냥 넘어가면 죽는 병?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "放著不管就會死掉的那種？",
+        "MessageEN": "It's a syndrome that'll kill you if you ignore it?"
     },
     {
         "MessageId": 100920250,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "ごめんね",
         "MessageKR": "오ㅋㅋ 그거 편리한 변명",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵，真是方便的藉口",
+        "MessageEN": "Haha. Okay. Good excuse."
     },
     {
         "MessageId": 100920250,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "次からは気をつけるね",
         "MessageKR": "그럼 이제부터 그런 걸로 할까\\~!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "之後就當作是那樣吧～！",
+        "MessageEN": "Sure, let's go with that!"
     },
     {
         "MessageId": 100920260,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "あー……",
         "MessageKR": "아\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊\u200b",
+        "MessageEN": "Ah.\u200b"
     },
     {
         "MessageId": 100920261,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "まったく",
         "MessageKR": "ㅋㅋㅋㅋ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵呵呵",
+        "MessageEN": "Ahahaha"
     },
     {
         "MessageId": 100920270,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "ほんっとむかつく",
         "MessageKR": "진짜 완전 열 받는다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真是氣死人了",
+        "MessageEN": "I'm soooo pissed"
     },
     {
         "MessageId": 100920271,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "……今回は良いけど",
         "MessageKR": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵呵呵呵呵呵呵呵呵呵呵",
+        "MessageEN": "Ahahahahaha"
     },
     {
         "MessageId": 100920280,
@@ -279,7 +279,7 @@
         "ImagePath": "",
         "MessageJP": "もう次は無いからね",
         "MessageKR": "죽어 그냥;",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "去死啦╰_╯",
+        "MessageEN": "Go die!"
     }
 ]

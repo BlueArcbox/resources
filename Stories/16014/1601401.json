@@ -88,7 +88,7 @@
         "MessageJP": "うん！元気だよ！",
         "MessageKR": "응! 나는 잘 지ㅆ내어!",
         "MessageTW": "嗯！我很好！",
-        "MessageEN": "I'm gREat!"
+        "MessageEN": "Ibuki is doing gREat!"
     },
     {
         "MessageId": 160140041,
@@ -136,7 +136,7 @@
         "MessageJP": "これから先生のところ行ってもいい？",
         "MessageKR": "그럼 선생님한테 가도 돼?",
         "MessageTW": "那我可以去找老師嗎？",
-        "MessageEN": "Can I come over?"
+        "MessageEN": "Can Ibuki come over?"
     },
     {
         "MessageId": 160140070,

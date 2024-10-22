@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "そういえば先生",
         "MessageKR": "그러고 보니 선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "對了，老師",
+        "MessageEN": "Hey, Sensei. I was wondering."
     },
     {
         "MessageId": 100910300,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "後でちょっと時間貰える？",
         "MessageKR": "혹시 나중에 시간 좀 있을까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你等一下有空嗎？",
+        "MessageEN": "You free later, by chance?"
     },
     {
         "MessageId": 100910310,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "良いけど、どうしたの？",
         "MessageKR": "괜찮긴 한데, 무슨 일이야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有是有，怎麼了嗎？",
+        "MessageEN": "I think so. What's up?"
     },
     {
         "MessageId": 100910310,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "それは勿論",
         "MessageKR": "뭐지? 사주겠다는 뜻?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼了？要請客嗎？",
+        "MessageEN": "For what? Are you treating me?"
     },
     {
         "MessageId": 100910320,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ま、大したことじゃないんだけど",
         "MessageKR": "대단한 건 아니고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "其實也沒什麼大不了的",
+        "MessageEN": "Nothing really."
     },
     {
         "MessageId": 100910330,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ふふっ",
         "MessageKR": "ㅇㅇ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵",
+        "MessageEN": "...Yeah."
     },
     {
         "MessageId": 100910340,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "そろそろ感謝ゲージが溜まってきたっていうか",
         "MessageKR": "슬슬 감사 스택이 쌓였달까, 뭐라도 보답하고 싶어져서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為感謝的心情越積越多，實在想報答你一下",
+        "MessageEN": "I've just gotten a lot from you, you know? I wanted to repay you at least a little."
     },
     {
         "MessageId": 100910350,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "前みたいに、何か食べたいものとかない？",
         "MessageKR": "괜찮을 때 말해줘",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有空的時候跟我說一聲",
+        "MessageEN": "Let me know when's good for you."
     },
     {
         "MessageId": 100910351,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "あ、いつもの踏切のところ待ち合わせね",
         "MessageKR": "늘 보던 건널목에서 보자",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "到時候就在平常那個平交道見吧",
+        "MessageEN": "We'll meet up at the usual spot."
     },
     {
         "MessageId": 100910360,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "待ってるから",
         "MessageKR": "사양하지 말고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不用客氣",
+        "MessageEN": "You can't say no!"
     },
     {
         "MessageId": 100900377,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "あ",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah."
     },
     {
         "MessageId": 100910371,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "あああああああああ",
         "MessageKR": "아ㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊啊啊啊啊啊啊啊啊啊",
+        "MessageEN": "Ahhh"
     },
     {
         "MessageId": 100910372,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "■■",
         "MessageKR": "■■",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "■■",
+        "MessageEN": "■■"
     },
     {
         "MessageId": 100910373,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "ｆｄｋｊさおｐ；えうｔｇｈｊｗくぁえい；",
         "MessageKR": "\\#$uy%JE^ㅁ34%ㅗㅠㅜㅁㄲㄿ4ㄱ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "\\#$uy%JE^\\*34%\\*&%@\\#&4\\#",
+        "MessageEN": "\\#$uy%JE^a34%asjkhtd4a"
     },
     {
         "MessageId": 100910380,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "落ち着いて！？",
         "MessageKR": "워워. 진정해, 진정.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你，你先冷靜",
+        "MessageEN": "Whoa, whoa. Calm down."
     },
     {
         "MessageId": 100910380,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "大丈夫？",
         "MessageKR": "어허. 바른말.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有話好說",
+        "MessageEN": "Whoa. Language."
     },
     {
         "MessageId": 100910390,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "あ\u200b",
         "MessageKR": "아니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊\u200b",
+        "MessageEN": "Nah."
     },
     {
         "MessageId": 100910391,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "ああ",
         "MessageKR": "아 ㅆ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊啊",
+        "MessageEN": "Ah f"
     },
     {
         "MessageId": 100910392,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "ｄｊわｆ；ｃｄｋｊｓｄ",
         "MessageKR": "$\\#^$42ㅋㅋ5&ㅛ\\#%곻",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "$\\#^$42CC5&&\\#%Y",
+        "MessageEN": "$\\#^$42lol5&a\\#%asf"
     },
     {
         "MessageId": 100910400,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "どうかしてた……",
         "MessageKR": "내가 미쳤지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我肯定是瘋了",
+        "MessageEN": "I'm losing my mind."
     },
     {
         "MessageId": 100910401,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "このこと言ったら",
         "MessageKR": "말하면 죽는다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要是你敢說出去就死",
+        "MessageEN": "Don't you dare say it."
     },
     {
         "MessageId": 100910410,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "ころ",
         "MessageKR": "아\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊\u200b\u200b",
+        "MessageEN": "Ah.\u200b"
     },
     {
         "MessageId": 100910411,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "いや",
         "MessageKR": "아니;;",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒有",
+        "MessageEN": "No;;"
     },
     {
         "MessageId": 100910420,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "今の無し",
         "MessageKR": "아니아니아니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不對不對",
+        "MessageEN": "Nonono"
     },
     {
         "MessageId": 100910421,
@@ -327,8 +327,8 @@
         "ImagePath": "",
         "MessageJP": "私",
         "MessageKR": "이게 아니고;; 내가 무슨 소릴;;",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我到底在說什麼啊……",
+        "MessageEN": "Not what I meant!! What was I saying!!"
     },
     {
         "MessageId": 100910430,
@@ -339,8 +339,8 @@
         "ImagePath": "",
         "MessageJP": "……ごめんなさい",
         "MessageKR": "정말로 죄송합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真的很抱歉",
+        "MessageEN": "I'm super sorry."
     },
     {
         "MessageId": 100910440,
@@ -351,8 +351,8 @@
         "ImagePath": "",
         "MessageJP": "大丈夫だよ",
         "MessageKR": "오히려 신선하고 재밌었어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我反而覺得很新鮮很有趣哦",
+        "MessageEN": "It was pretty amusing."
     },
     {
         "MessageId": 100910440,
@@ -363,8 +363,8 @@
         "ImagePath": "",
         "MessageJP": "気にしないで",
         "MessageKR": "괜찮다니까. 신경 쓰지 마",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真的沒事，別放在心上",
+        "MessageEN": "Really, don't worry about it."
     },
     {
         "MessageId": 100910450,
@@ -375,8 +375,8 @@
         "ImagePath": "",
         "MessageJP": "はい",
         "MessageKR": "응.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "Okay."
     },
     {
         "MessageId": 100910460,
@@ -387,7 +387,7 @@
         "ImagePath": "",
         "MessageJP": "うん",
         "MessageKR": "네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好吧",
+        "MessageEN": "Yeah."
     }
 ]

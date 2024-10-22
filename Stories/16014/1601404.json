@@ -88,7 +88,7 @@
         "MessageJP": "あれからたくさん考えてみたの",
         "MessageKR": "이부키, 지난번에 선생님이랑 여러 곳을 다닌 다음에 생각해 봤어.",
         "MessageTW": "上次和老師去很多地方之後想了一下",
-        "MessageEN": "I can't stop thinking about all the jobs we tried, Sensei."
+        "MessageEN": "Ibuki can't stop thinking about all the jobs we tried, Sensei."
     },
     {
         "MessageId": 160140370,
@@ -100,7 +100,7 @@
         "MessageJP": "イブキには何ができるのか",
         "MessageKR": "이부키가 무엇을 하고 싶은지",
         "MessageTW": "自己想做什麼",
-        "MessageEN": "What I want to do..."
+        "MessageEN": "What Ibuki wants to do..."
     },
     {
         "MessageId": 160140380,
@@ -112,7 +112,7 @@
         "MessageJP": "一番好きなことは何なのか！",
         "MessageKR": "이부키가 가장 좋아하는 것이 무엇인지!",
         "MessageTW": "自己最喜歡的是什麼！",
-        "MessageEN": "What I like the most..."
+        "MessageEN": "What Ibuki likes the most..."
     },
     {
         "MessageId": 160140381,
@@ -136,7 +136,7 @@
         "MessageJP": "先生を招待しようと思って！",
         "MessageKR": "선생님을 초대하기로 했어!",
         "MessageTW": "我決定邀請老師！",
-        "MessageEN": "I've decided to give you an invitation!"
+        "MessageEN": "Ibuki decided to give you an invitation!"
     },
     {
         "MessageId": 160140400,

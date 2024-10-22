@@ -3391,9 +3391,11 @@
             "/fandom/7/7f/Kazusa_Band_Icon.png"
         ],
         "Bio": {
-            "zh": "Sugar Rush的主唱兼职贝斯",
+            "zh": "シュガーラッシュのメインボーカル兼ベース",
             "jp": "シュガーラッシュのメインボーカル兼ベース",
-            "kr": "슈가 러시의 메인 보컬 겸 베이스입니다"
+            "kr": "슈가 러시의 메인 보컬 겸 베이스입니다.",
+            "tw": "Sugar Rush的主唱兼貝斯手",
+            "en": "I'm bassist and the lead vocalist of Sugar Rush."
         },
         "Nickname": [
             "乐队纱",
@@ -3412,9 +3414,11 @@
             "/fandom/d/d0/Yoshimi_Band_Icon.png"
         ],
         "Bio": {
-            "zh": "#猛特训中",
+            "zh": "#猛特訓中",
             "jp": "#猛特訓中",
-            "kr": "#맹연습중"
+            "kr": "#맹연습중",
+            "tw": "#猛練中",
+            "en": "#IntensePractice"
         },
         "Nickname": [
             "吉美",
@@ -3432,9 +3436,11 @@
             "/fandom/a/a2/Airi_Band_Icon.png"
         ],
         "Bio": {
-            "zh": "已经没问题了！",
+            "zh": "もう大丈夫！",
             "jp": "もう大丈夫！",
-            "kr": "이젠 괜찮아."
+            "kr": "이젠 괜찮아.",
+            "tw": "已經沒事了",
+            "en": "I'm okay now."
         },
         "Nickname": [
             "乐队冰",
@@ -3452,9 +3458,11 @@
             "/fandom/b/b6/Kirara_Icon.png"
         ],
         "Bio": {
-            "zh": "#闪闪发光#永远_Happy",
+            "zh": "#キラキラ#いつも_ハッピー",
             "jp": "#キラキラ#いつも_ハッピー",
-            "kr": "#반짝반짝 #언제나_즐겁게"
+            "kr": "#반짝반짝 #언제나_즐겁게",
+            "tw": "#閃閃發光#時時_愉快",
+            "en": "#TwinkleTwinkle #Always_Joyful"
         },
         "Nickname": [
             "绮罗罗",
@@ -3469,9 +3477,11 @@
             "/fandom/7/7a/Momoi_Maid_Icon.png"
         ],
         "Bio": {
-            "zh": "女仆玩家……专精？",
+            "zh": "メイドゲーマー……一筋？",
             "jp": "メイドゲーマー……一筋？",
-            "kr": "메이드 게이머 외길… 인생?"
+            "kr": "메이드 게이머 외길… 인생?",
+            "tw": "",
+            "en": ""
         },
         "Nickname": [],
         "related": [
@@ -3485,9 +3495,11 @@
             "/fandom/f/fc/Midori_Maid_Icon.png"
         ],
         "Bio": {
-            "zh": "今天也要精进技术。",
+            "zh": "今日も精進します。",
             "jp": "今日も精進します。",
-            "kr": "오늘도 정진하겠습니다."
+            "kr": "오늘도 정진하겠습니다.",
+            "tw": "",
+            "en": ""
         },
         "Nickname": [],
         "related": [
@@ -3501,9 +3513,11 @@
             "/fandom/2/25/Serika_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "zh": "度假中！！！！！！！",
+            "zh": "休暇中！！！！！！！",
             "jp": "休暇中！！！！！！！",
-            "kr": "휴가 중!!!!!!!"
+            "kr": "휴가 중!!!!!!!",
+            "tw": "",
+            "en": ""
         },
         "Nickname": [],
         "related": [
@@ -3517,9 +3531,11 @@
             "/fandom/a/a7/Kanna_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "zh": "奉献、倾听、诚实",
+            "zh": "奉仕、傾聴、誠実",
             "jp": "奉仕、傾聴、誠実",
-            "kr": "봉사, 경청, 성실"
+            "kr": "봉사, 경청, 성실",
+            "tw": "",
+            "en": ""
         },
         "Nickname": [],
         "related": [
@@ -3533,9 +3549,11 @@
             "/fandom/6/60/Fubuki_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "zh": "我的休假……在哪……",
+            "zh": "私のバカンス……どこ……",
             "jp": "私のバカンス……どこ……",
-            "kr": "나의 피서는 어디에…...."
+            "kr": "나의 피서는 어디에…....",
+            "tw": "",
+            "en": ""
         },
         "Nickname": [],
         "related": [
@@ -3549,9 +3567,11 @@
             "/fandom/b/b2/Kirino_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "zh": "正在担当救生员！",
+            "zh": "ライフセーバーの任務中です！",
             "jp": "ライフセーバーの任務中です！",
-            "kr": "라이프가드 임무 중입니다!"
+            "kr": "라이프가드 임무 중입니다!",
+            "tw": "",
+            "en": ""
         },
         "Nickname": [],
         "related": [
@@ -3565,9 +3585,11 @@
             "/fandom/2/20/Moe_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "zh": "导弹……更大的导弹……",
+            "zh": "ミサイル……もっと大きなミサイル……",
             "jp": "ミサイル……もっと大きなミサイル……",
-            "kr": "미사일이 필요해… 엄청나게 큰 미사일이…"
+            "kr": "미사일이 필요해… 엄청나게 큰 미사일이…",
+            "tw": "",
+            "en": ""
         },
         "Nickname": [],
         "related": [

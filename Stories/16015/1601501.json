@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、アイリです！",
         "MessageKR": "선생님! 혹시 이번 주말에 시간 괜찮으신가요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師！請問這週末有空嗎？",
+        "MessageEN": "Hello, Sensei! Do you have plans this weekend?"
     },
     {
         "MessageId": 160150020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今、お時間大丈夫でしょうか？",
         "MessageKR": "아이리에요!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我是愛莉！！",
+        "MessageEN": "It's Airi!"
     },
     {
         "MessageId": 160150030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "こんにちは、アイリ",
         "MessageKR": "안녕, 아이리.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗨，愛莉",
+        "MessageEN": "Hi, Airi."
     },
     {
         "MessageId": 160150030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "大丈夫だよ。どうしたの？",
         "MessageKR": "괜찮지. 무슨 일 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然，有什麼事嗎？",
+        "MessageEN": "Zero plans! What's up?"
     },
     {
         "MessageId": 160150040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "はい！こんにちは",
         "MessageKR": "네! 안녕하세요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是！老師好呀！",
+        "MessageEN": "Hello, Sensei!"
     },
     {
         "MessageId": 160150050,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "あ、それは良かったです！",
         "MessageKR": "아, 다행이네요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，太好了！",
+        "MessageEN": "Ah! Wonderful!"
     },
     {
         "MessageId": 160150060,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "その……ちょっとモモトークではお伝えしづらくて",
         "MessageKR": "아무튼 괜찮으시다면 말씀드린 대로…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果老師方便的話……",
+        "MessageEN": "If you're free, then I was wondering..."
     },
     {
         "MessageId": 160150070,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "少しお時間をいただければと……！\n10分くらいでも大丈夫なので！",
         "MessageKR": "주말에 시간 괜찮으실까요? 잠깐이면 되니까요!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "週末有空嗎？只要一下下就好了！！",
+        "MessageEN": "Could I borrow you for a little this weekend? Just for a bit!"
     },
     {
         "MessageId": 160150080,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "……？",
         "MessageKR": "……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……？",
+        "MessageEN": "...?"
     },
     {
         "MessageId": 160150090,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "お待ちしてますねo(^▽^)o",
         "MessageKR": "헤헤 o(^▽^)o",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嘿嘿o(^▽^)o",
+        "MessageEN": "Heehee o(^▽^)o"
     },
     {
         "MessageId": 160150091,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "本当に、ちょっとだけで良いので……！よろしくお願いします！",
         "MessageKR": "꼭이에요!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "一定要來哦！！",
+        "MessageEN": "It's a promise!"
     },
     {
         "MessageId": 160140107,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "先生！無事に帰れましたか？",
         "MessageKR": "선생님! 잘 들어 가셨나요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師！平安到家了嗎！",
+        "MessageEN": "Sensei! Did you return home safely?"
     },
     {
         "MessageId": 160150110,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "それとあらためて、スイーツどうでした？",
         "MessageKR": "드신 건 입에 맞으셨을지 모르겠네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不知道今天吃的合不合你的胃口",
+        "MessageEN": "I hope your treat was to your taste."
     },
     {
         "MessageId": 160150120,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "並んだ甲斐があったよ！",
         "MessageKR": "기다린 보람이 있었지, 여러 가지로!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "等待果然是值得的！各方面都是！",
+        "MessageEN": "It was worth the wait, in many ways!"
     },
     {
         "MessageId": 160150120,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "アイリと色々話せて楽しかった！",
         "MessageKR": "새로운 걸 알아서 좋았어. 여러 가지로.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "很高興能了解更多愛莉的事",
+        "MessageEN": "I learned a lot of new things!"
     },
     {
         "MessageId": 160150130,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "！",
         "MessageKR": "앗",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah!"
     },
     {
         "MessageId": 160150140,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "ふふ",
         "MessageKR": "헤헤",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嘿嘿",
+        "MessageEN": "Heehee!"
     },
     {
         "MessageId": 160150141,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "それなら良かったです！",
         "MessageKR": "그럼 다행이네요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那真是太好了！",
+        "MessageEN": "I'm delighted to hear that!"
     },
     {
         "MessageId": 160150150,
@@ -255,7 +255,7 @@
         "ImagePath": "",
         "MessageJP": "また連絡しますね！",
         "MessageKR": "다음에 또 말씀드리겠습니다!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下次再聯絡哦！！",
+        "MessageEN": "I'll teach you more next time, okay?"
     }
 ]

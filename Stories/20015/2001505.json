@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生先生！",
         "MessageKR": "선생님선생님선생님!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師老師老師！",
+        "MessageEN": "SenseiSenseiSensei!"
     },
     {
         "MessageId": 200150520,
@@ -38,9 +38,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "ついに例のアレが発売だって！",
-        "MessageKR": "드디어, 드디어 나온대! ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "드디어, 드디어 나온대!",
+        "MessageTW": "終於，終於出現了！",
+        "MessageEN": "It's finally, finally opening! "
     },
     {
         "MessageId": 200150521,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "一緒に行こ！！",
         "MessageKR": "그러니까 같이 가자!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我們一起去吧！",
+        "MessageEN": "We have to go together!"
     },
     {
         "MessageId": 200150530,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "例のアレ！？",
         "MessageKR": "무슨 일이야, 카에데? 뭐가 나온다는 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼了嗎，楓？什麼東西出現了？",
+        "MessageEN": "I need context, Kaede! What's opening?"
     },
     {
         "MessageId": 200150540,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "そうそう",
         "MessageKR": "어…… 응……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "喔……嗯……？",
+        "MessageEN": "Um... Huh...?"
     },
     {
         "MessageId": 200150550,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "前に話してた通り",
         "MessageKR": "아, 그렇구나! 맞아, 선생님은 모르겠지!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，原來如此！老師應該不知道！",
+        "MessageEN": "Ah! You're right! I guess this isn't something you keep up with, Sensei!"
     },
     {
         "MessageId": 200150551,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "今度ムシクイーンの、ポップアップストアがオープンするの！",
         "MessageKR": "그러니까, 무시퀸 팝업 스토어가 열린다고 해!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我指的是甲蟲皇后快閃店要開幕了！",
+        "MessageEN": "A Mushiqueen pop-up store is opening up!"
     },
     {
         "MessageId": 200150560,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "あ、そういえば前に言ってたね",
         "MessageKR": "아, 무시퀸 이야기였구나.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，原來是甲蟲皇后啊",
+        "MessageEN": "Ah. I should've known."
     },
     {
         "MessageId": 200150570,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "そうそう、それ！",
         "MessageKR": "갑자기 뭔가 반응이 차가워진 것 같은데?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師的反應怎麼好像突然變冷淡了！？",
+        "MessageEN": "That response felt resoundingly unenthusiastic!"
     },
     {
         "MessageId": 200150580,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "でもでも、先生が思ってるようなムシクイーンじゃなくて",
         "MessageKR": "후후후…… 하지만 이 소식을 들으면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哼哼哼……不過聽到這個消息之後",
+        "MessageEN": "Heeheehee... But I think this next piece of news"
     },
     {
         "MessageId": 200150581,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "聞いたら絶対、一緒に行きたくなるはず！",
         "MessageKR": "선생님도 불타오를 수밖에 없을걸?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師也會熱血起來吧！？",
+        "MessageEN": "will even get you going, Sensei!"
     },
     {
         "MessageId": 200150590,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "実はそのポップアップストアではね……",
         "MessageKR": "이번에 그 팝업 스토어에서…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "聽說這次那家快閃店……",
+        "MessageEN": "You see...in this very pop-up store..."
     },
     {
         "MessageId": 200150591,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "限定版のムシクイーンスリーブが販売されるの！",
         "MessageKR": "무시퀸 카드 프로텍터 한정판을 팔 거래!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "會賣甲蟲皇后的限定版卡片保護套！",
+        "MessageEN": "They have stocked the one, the only...the limited edition Mushiqueen card protector!"
     },
     {
         "MessageId": 200150600,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "おお！",
         "MessageKR": "어? 그, 그래……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯？是，是嗎……？",
+        "MessageEN": "Oh? W-Wow...?"
     },
     {
         "MessageId": 200150610,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "ふふん、すごいでしょ！",
         "MessageKR": "역시 놀란 나머지 제대로 반응도 못 하고 있구나!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "看來太過驚嚇果然是做不出反應的呢！",
+        "MessageEN": "I knew it! You're so excited, you don't even know how to express it!"
     },
     {
         "MessageId": 200150611,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "限定版のスリーブ、何としても欲しいよね……！",
         "MessageKR": "걱정하지 마, 내가 전부 어떻게든 해 줄 테니까!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "別擔心，我會想辦法幫忙的！",
+        "MessageEN": "Don't worry! Just leave everything to me!"
     },
     {
         "MessageId": 200150620,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "ということで、ポップアップストア前に集合ね！",
         "MessageKR": "그러면, 선생님! 쇼핑센터에서 만나!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼老師！我們購物中心見囉！",
+        "MessageEN": "Okay then, Sensei! See you at the shopping center!"
     },
     {
         "MessageId": 200150621,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "時間は後で送るから！",
         "MessageKR": "위치는 내가 전송해 줄게!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我會把位置傳給你！",
+        "MessageEN": "I'll send you the location!"
     },
     {
         "MessageId": 200140637,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "先生！",
         "MessageKR": "선생님?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師？",
+        "MessageEN": "Sensei?"
     },
     {
         "MessageId": 200150631,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "無事に帰れた？",
         "MessageKR": "잘 들어갔어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "平安到家了嗎？",
+        "MessageEN": "Did you get home okay?"
     },
     {
         "MessageId": 200150640,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "ちゃんと帰れたよ、カエデの方は？",
         "MessageKR": "카에데야말로, 잘 들어갔어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "平安到家囉，楓呢？",
+        "MessageEN": "How about you, Kaede? Are you home safe?"
     },
     {
         "MessageId": 200150650,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "よかった！私も大丈夫！",
         "MessageKR": "응! 물론이지!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯！我也是！",
+        "MessageEN": "Of course!"
     },
     {
         "MessageId": 200150651,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "無事にスリーブが買えて良かった、ありがとね！",
         "MessageKR": "아아, 이 프로텍터를 이렇게 무사히 구하게 되다니……!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊啊，居然能順利買到這個保護套……！",
+        "MessageEN": "I can't believe the card protector is really mine!"
     },
     {
         "MessageId": 200150660,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "これからはそのスリーブを使って",
         "MessageKR": "그러면 이제부터 그 프로텍터를 사용해서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "之後就可以用那個保護套",
+        "MessageEN": "How nice to have something"
     },
     {
         "MessageId": 200150670,
@@ -327,8 +327,8 @@
         "ImagePath": "",
         "MessageJP": "大会に出られるね",
         "MessageKR": "카에데의 카드를 보호할 수 있겠구나.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "保護楓的卡片了呢",
+        "MessageEN": "to protect your cards, Kaede."
     },
     {
         "MessageId": 200150680,
@@ -339,8 +339,8 @@
         "ImagePath": "",
         "MessageJP": "ん？使わないよ？",
         "MessageKR": "응? 무슨 말이야. 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯？為什麼這麼說呢？老師",
+        "MessageEN": "Huh? What in the world are you saying, Sensei?"
     },
     {
         "MessageId": 200150690,
@@ -350,9 +350,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "スリーブは消耗品だから",
-        "MessageKR": "프로텍터 자체도 소모품이니까, ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "프로텍터 자체도 소모품이니까,",
+        "MessageTW": "保護套本身也是消耗品",
+        "MessageEN": "The card protector itself is a collectible! "
     },
     {
         "MessageId": 200150691,
@@ -363,8 +363,8 @@
         "ImagePath": "",
         "MessageJP": "使ったら傷んじゃうし……",
         "MessageKR": "오래 쓰면 당연히 낡고 상한다고.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "用久了自然會老舊損壞",
+        "MessageEN": "It'll get scratched up if I use it too much."
     },
     {
         "MessageId": 200150700,
@@ -375,8 +375,8 @@
         "ImagePath": "",
         "MessageJP": "もし使うならさらに上から透明スリーブを被せて",
         "MessageKR": "그러니까 이 위에 투명 프로텍터를 덧씌워서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以要在外面再套一層透明保護套",
+        "MessageEN": "Obviously, I need to put a protector over this card protector,"
     },
     {
         "MessageId": 200150701,
@@ -387,8 +387,8 @@
         "ImagePath": "",
         "MessageJP": "2重か3重スリーブにしないと！",
         "MessageKR": "프로텍터까지 보호하면서 플레이해야지!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "進行遊戲時，連保護套都要好好保護！",
+        "MessageEN": "so I can keep it safe, even while I play!"
     },
     {
         "MessageId": 200150710,
@@ -399,8 +399,8 @@
         "ImagePath": "",
         "MessageJP": "3重、スリーブ……！？",
         "MessageKR": "프로텍터에…… 프로텍터를 씌운다고……?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "在保護套外面……再套一層保護套……！？",
+        "MessageEN": "You're putting a protector...on your protector?"
     },
     {
         "MessageId": 200150720,
@@ -411,8 +411,8 @@
         "ImagePath": "",
         "MessageJP": "うん！バトラーの間では常識だよ？",
         "MessageKR": "응! 상식인걸?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯！這是常識吧？",
+        "MessageEN": "Isn't that common sense?"
     },
     {
         "MessageId": 200150730,
@@ -423,8 +423,8 @@
         "ImagePath": "",
         "MessageJP": "バトラーの世界は、奥が深いね……",
         "MessageKR": "배틀리스트의 세계는…… 깊구나…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "戰士的世界……好深奧……",
+        "MessageEN": "The world of a battler...is complicated..."
     },
     {
         "MessageId": 200150740,
@@ -435,7 +435,7 @@
         "ImagePath": "",
         "MessageJP": "そうかな？",
         "MessageKR": "그런가……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "會嗎……？",
+        "MessageEN": "Huh? How come?"
     }
 ]

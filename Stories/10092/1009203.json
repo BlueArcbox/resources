@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生ちょっと",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei!"
     },
     {
         "MessageId": 100920300,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "相談があるんだけど",
         "MessageKR": "중요한 일이 있어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我有重要的事",
+        "MessageEN": "This is important, okay?"
     },
     {
         "MessageId": 100920310,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "時間大丈夫？",
         "MessageKR": "시간 괜찮을까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在有時間嗎？",
+        "MessageEN": "Are you busy?"
     },
     {
         "MessageId": 100920320,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "相談？",
         "MessageKR": "중요한 일?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "重要的事？",
+        "MessageEN": "Something important?"
     },
     {
         "MessageId": 100920320,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "何だか真面目な話みたいだね？",
         "MessageKR": "뭔가 분위기가 진지한걸",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "感覺氣氛很嚴肅呢",
+        "MessageEN": "This feels so serious."
     },
     {
         "MessageId": 100920330,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "あー……",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah."
     },
     {
         "MessageId": 100920331,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "まあ、そんな感じ",
         "MessageKR": "음, 뭐 그렇지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，沒錯",
+        "MessageEN": "Um, well, yeah..."
     },
     {
         "MessageId": 100920340,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "だから、来てほしいの",
         "MessageKR": "그러니 괜찮으면 와줬으면 해",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以可以的話，希望你能來",
+        "MessageEN": "If you've got time, can you come meet me?"
     },
     {
         "MessageId": 100920341,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "場所はまた送るから",
         "MessageKR": "장소는 따로 보내줄 테니까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我會另外把地點傳給你",
+        "MessageEN": "I'm sending you the spot."
     },
     {
         "MessageId": 100920350,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "絶対来てよね",
         "MessageKR": "꼭이야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "一定要來哦",
+        "MessageEN": "I'll be there."
     },
     {
         "MessageId": 100910367,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "あー……\u200b",
         "MessageKR": "후",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呼",
+        "MessageEN": "Phew"
     },
     {
         "MessageId": 100920370,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "なんか放心状態",
         "MessageKR": "죽겠다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "感覺快死掉了",
+        "MessageEN": "I'm dead."
     },
     {
         "MessageId": 100920371,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "結局全部演奏しちゃったし",
         "MessageKR": "설마설마했는데 진짜 다했네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "結果竟然全部彈了一遍",
+        "MessageEN": "I can't believe I did it! I didn't think I could."
     },
     {
         "MessageId": 100920380,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "お世辞じゃなく凄かったよ",
         "MessageKR": "빈말 없이 훌륭했어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真的很棒哦，這不是客套話",
+        "MessageEN": "You did amazing."
     },
     {
         "MessageId": 100920380,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "すごかった、また聴かせてね",
         "MessageKR": "대단한데, 자주 들려줘.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真厲害，要常彈給我聽哦",
+        "MessageEN": "You should play more often! You were great."
     },
     {
         "MessageId": 100920390,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "……なによ",
         "MessageKR": "뭐야",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "什麼嘛",
+        "MessageEN": "Huh"
     },
     {
         "MessageId": 100920391,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "素直にもなれるじゃないの",
         "MessageKR": "순순히 좋은 말도 해줄 수 있잖아, 역시.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你明明也可以好好說話的嘛",
+        "MessageEN": "You can be nice sometimes. Wow."
     },
     {
         "MessageId": 100920400,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "히히",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嘻嘻",
+        "MessageEN": "Heehee"
     },
     {
         "MessageId": 100920401,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとう",
         "MessageKR": "선생님\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師\u200b",
+        "MessageEN": "Sensei!\u200b"
     },
     {
         "MessageId": 100920410,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "ちゃんと聴いてくれて",
         "MessageKR": "고마워. 진지하게 들어줘서.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝你認真聽我的演奏",
+        "MessageEN": "Thanks for being my audience."
     },
     {
         "MessageId": 100920420,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "最初の曲が特に良かったな",
         "MessageKR": "아 그러고 보니 아까 첫 곡 말인데ㅋㅋ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，對了，話說剛才的第一首曲子XD",
+        "MessageEN": "About that first song... Haha."
     },
     {
         "MessageId": 100920420,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "どうやって検索したら良い？",
         "MessageKR": "무슨 음악인지도 찾을 수 있겠더라고ㅋㅋ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我好像可以找出是什麼歌哦XD",
+        "MessageEN": "I bet I could find the first song! Haha."
     },
     {
         "MessageId": 100920430,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "は？やめなさいって！",
         "MessageKR": "아\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊\u200b",
+        "MessageEN": "Ah.\u200b"
     },
     {
         "MessageId": 100920431,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "― ―；",
         "MessageKR": "ㅡㅡ;",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "ㅡ ㅡ;",
+        "MessageEN": "ㅡㅡ;"
     },
     {
         "MessageId": 100920432,
@@ -327,8 +327,8 @@
         "ImagePath": "",
         "MessageJP": "ほんっとムカつく",
         "MessageKR": "진짜 짜증나",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真是煩死了",
+        "MessageEN": "You're annoying."
     },
     {
         "MessageId": 100920440,
@@ -339,7 +339,7 @@
         "ImagePath": "",
         "MessageJP": "これだから先生は……",
         "MessageKR": "완전 싫어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有夠討厭",
+        "MessageEN": "I hate you sometimes!"
     }
 ]
