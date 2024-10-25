@@ -470,9 +470,9 @@
     {
         "Id": 386,
         "Name": {
-            "zh": "笑面教授",
+            "zh": "微笑教授",
             "jp": "ニヤニヤ教授",
-            "tw": "笑面教授",
+            "tw": "微笑教授",
             "en": "Dr. Niyaniya"
         },
         "Avatar": [
@@ -481,7 +481,8 @@
         "Bio": {},
         "Nickname": [
             "Niyaniya",
-            "眯眯眼教授"
+            "眯眯眼教授",
+            "笑面教授"
         ],
         "School": "Hyakkiyako"
     },
@@ -589,53 +590,6 @@
         "School": "Hyakkiyako"
     },
     {
-        "Id": 961,
-        "Name": {
-            "zh": "妃咲",
-            "jp": "キサキ",
-            "tw": "妃咲",
-            "en": "Kisaki",
-            "kr": "키사키"
-        },
-        "Avatar": [
-            "/fandom/d/da/Kisaki_Icon.png"
-        ],
-        "Bio": {
-            "zh": "如果说不高兴见到你，那是骗人的……",
-            "jp": "君に会えて嬉しくないと言うのは嘘だ…",
-            "tw": "如果說不高興見到你，那是在騙人的……",
-            "en": "If I say I'm not happy to see you, that's a lie..."
-        },
-        "Nickname": [
-            "Kisaki",
-            "ksk"
-        ],
-        "School": "Shanhaijing"
-    },
-    {
-        "Id": 271,
-        "Name": {
-            "zh": "丽情",
-            "jp": "レイジョ",
-            "tw": "麗情",
-            "en": "Reijo",
-            "kr": "레이죠"
-        },
-        "Avatar": [
-            "/fandom/a/ad/Reijo_Icon.png"
-        ],
-        "Bio": {
-            "zh": "电影里，让对手失去平衡是功夫的基本",
-            "tw": "電影裡，讓對手失去平衡是功夫的基本",
-            "en": "Keeping your foe off balance is a fundamental skill in kung fu.",
-            "jp": "相手のバランスを崩すことがカンフーの基本です"
-        },
-        "Nickname": [
-            "Reijo"
-        ],
-        "School": "Shanhaijing"
-    },
-    {
         "Id": 270,
         "Name": {
             "zh": "海",
@@ -657,6 +611,23 @@
             "Kai",
             "廻"
         ],
+        "School": "Shanhaijing"
+    },
+    {
+        "Id": 390,
+        "Name": {
+            "zh": "辉夜",
+            "jp": "カグヤ",
+            "tw": "輝夜",
+            "en": "kaguya"
+        },
+        "Avatar": [
+            "/fandom/c/c1/Kaguya_Icon.png",
+            "/fandom/1/18/Kaguya_Icon_Var_2.png",
+            "/fandom/b/b8/Kaguya_Masked_Icon.png"
+        ],
+        "Bio": {},
+        "Nickname": ["Kaguya"],
         "School": "Shanhaijing"
     },
     {
@@ -1888,6 +1859,23 @@
         "Bio": {},
         "Nickname": [
             "Shanhaijing3"
+        ],
+        "School": "Shanhaijing"
+    },
+    {
+        "Id": 392,
+        "Name": {
+            "zh": "京剧部员",
+            "tw": "京劇部員"
+        },
+        "Avatar": [
+            "/api/Avatars/Shanhaijing6.webp",
+            "/gamekee/w_297/h_297/829/399789/2024/8/6/394404.png",
+            "/gamekee/w_297/h_297/829/399789/2024/8/6/817830.png"
+        ],
+        "Bio": {},
+        "Nickname": [
+            "Shanhaijing5"
         ],
         "School": "Shanhaijing"
     },
