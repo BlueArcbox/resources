@@ -142,7 +142,9 @@ if __name__ == "__main__":
         if item["exist"]:
             for student in data:
                 if student["Id"] == item["id"]:
-                    student["Bio"] = item["data"]
+                    for key in item["data"]:
+                        if key not in student["Bio"]:
+                            student["Bio"][key] = item["data"][key]
                     logger.info(f"✍️  Update {item['name']}")
                     break
         else:

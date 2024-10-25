@@ -293,7 +293,7 @@ class Kivo(SiteTool):
         for key, name in schale_student_list.items():
             search_result = [k for k, v in kivo_student_list.items() if v == name]
             if len(search_result) == 1:
-                logger.info(f"🔍 Match found: {key} <- {name} -> {search_result[0]}")
+                # logger.info(f"🔍 Match found: {key} <- {name} -> {search_result[0]}")
                 schale_kivo_table[key] = search_result[0]
             else:
                 not_found_count += 1
@@ -382,7 +382,7 @@ class Gamekee(SiteTool):
             ]
 
             if len(search_result) == 1:
-                logger.info(f"🔍 Match found: {key} <- {name} -> {search_result[0]}")
+                # logger.info(f"🔍 Match found: {key} <- {name} -> {search_result[0]}")
                 schale_gamekee_table[key] = search_result[0]
             else:
                 not_found_count += 1
@@ -427,7 +427,7 @@ if __name__ == "__main__":
         if not file_path.exists():
             file_path.parent.mkdir(parents=True, exist_ok=True)
         else:
-            logger.success(f"Stickers for student {key} have saved, skipping")
+            # logger.success(f"Stickers for student {key} have saved, skipping")
             continue
 
         logger.info(f"🔄 Processing student {key} - {schale_student_list[key]}")

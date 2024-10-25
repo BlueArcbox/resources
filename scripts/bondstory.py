@@ -185,7 +185,7 @@ def process_student_story(chat_list: list, student: dict):
         story_data(list): item list in format after
     """
 
-    logger.info(f"🔄 Processing {student['jp']} story")
+    # logger.info(f"🔄 Processing {student['jp']} story")
     # Add system messages & bond story messages
     momotalkStory = False
     data = chat_list.copy()
@@ -303,7 +303,7 @@ def process_student_story(chat_list: list, student: dict):
         "MessageEN": student["en"],
     }
     story_data.insert(0, story_info)
-    logger.info(f"✅ {student['jp']} story data generated")
+    # logger.info(f"✅ {student['jp']} story data generated")
     return story_data
 
 
@@ -318,7 +318,7 @@ def generate_story_file(story_data, charId, cnt):
         f.write(
             json.dumps(story_data, indent=4).encode("utf-8").decode("unicode_escape")
         )
-    logger.success(f"{charId}{cnt:02d}.json saved")
+    # logger.success(f"{charId}{cnt:02d}.json saved")
 
 
 def generate_story_index(story_directory):
@@ -343,7 +343,7 @@ def generate_story_index(story_directory):
     with open(item / "index.json", "w", encoding="utf-8") as f:
         f.write(json.dumps(list1, indent=4))
 
-    logger.success(f"Index file {item.name} done")
+    # logger.success(f"Index file {item.name} done")
 
 
 if __name__ == "__main__":
