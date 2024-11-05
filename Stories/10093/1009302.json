@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "コンコン",
         "MessageKR": "똑똑",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "叩叩",
+        "MessageEN": "Knock knock"
     },
     {
         "MessageId": 100930140,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "쌤",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Teach"
     },
     {
         "MessageId": 100930141,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "せんせえ！(´；ω；`)",
         "MessageKR": "ㅆ애애앰ㅠㅠㅠ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師TAT",
+        "MessageEN": "Teaaach T_T"
     },
     {
         "MessageId": 100930150,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "キララ……だよね？",
         "MessageKR": "키라라……맞지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是綺羅羅……嗎？",
+        "MessageEN": "This is Kirara... Right?"
     },
     {
         "MessageId": 100930160,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "うえーん！",
         "MessageKR": "ㅇㅇㅇ맞아!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯嗯嗯，沒錯！",
+        "MessageEN": "Yuppp! You got it right!"
     },
     {
         "MessageId": 100930170,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "先生助けて！（＞＜）",
         "MessageKR": "쌤 나 좀 도와줘!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，幫幫我！",
+        "MessageEN": "You gotta help me, Teach! You gotta!"
     },
     {
         "MessageId": 100930171,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "テスト、赤点だった～(´；ω；`)",
         "MessageKR": "이번 시험 낙제했어ㅠㅠㅠ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我這次考試考不及格TAT",
+        "MessageEN": "I failed this test. T_T"
     },
     {
         "MessageId": 100930180,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "シャーレで勉強教えて～(´；ω；`)",
         "MessageKR": "샬레로 갈 테니 공부 좀 도와주라ㅠㅠ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師可以在夏萊教我念書嗎TAT",
+        "MessageEN": "Please help me study! I'm coming to Schale right now!"
     },
     {
         "MessageId": 100930190,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "あ、今は忙しい？",
         "MessageKR": "앗, 하지만, 혹시…. 지금은 바빠서, 곤란… 하다든가?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，但是會不會……\n正好很忙或是覺得困擾……之類的？",
+        "MessageEN": "Unless...you're too busy for me...or whatever..."
     },
     {
         "MessageId": 100930200,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "ううん、大丈夫だよ。待ってるね",
         "MessageKR": "아냐, 괜찮아. 기다리고 있을게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒關係，我等你來哦",
+        "MessageEN": "No, not at all. I'll be waiting for you."
     },
     {
         "MessageId": 100930210,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "さすが先生(＞＜)マジ感謝！",
         "MessageKR": "역시 쌤이야><",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不愧是老師＞＜",
+        "MessageEN": "As expected of you, Teach! ><"
     },
     {
         "MessageId": 100920227,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "先生、マジでありがと(´；ω；`)",
         "MessageKR": "쌤 땡큐ㅠㅠㅠㅠ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝老師TAT",
+        "MessageEN": "Teach! Thank you! T_T"
     },
     {
         "MessageId": 100930230,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "おかげで勉強めっちゃ頑張れた！",
         "MessageKR": "쌤 덕분에 공부 완전 열심히 한 듯!!!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "多虧有老師才能念得這麼認真！！",
+        "MessageEN": "That's the hardest I've ever studied, Teach!!"
     },
     {
         "MessageId": 100930240,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "役に立てたならよかった……",
         "MessageKR": "도움이 되었다면 다행이고…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "能幫上忙真是太好了……",
+        "MessageEN": "I'm...glad I could help..."
     },
     {
         "MessageId": 100930250,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "あれ？先生元気無い？",
         "MessageKR": "어? 답장이 어째 힘이 없는 느낌?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯？怎麼感覺回覆有氣無力的？",
+        "MessageEN": "Huh? Why're you so tired?"
     },
     {
         "MessageId": 100930251,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "今度、元気注入してあげよっか？",
         "MessageKR": "쌤, 완전 잘 가르쳐 줬는데?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師真的教得很好呀？",
+        "MessageEN": "You're, like, a really good teacher, Teach!"
     },
     {
         "MessageId": 100930260,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "じゃあまたね！次もよろしく！",
         "MessageKR": "다음에도 잘 부탁해!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下次也拜託你囉！",
+        "MessageEN": "I'm depending on you for next time!"
     },
     {
         "MessageId": 100930270,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "次……？",
         "MessageKR": "아직 시험 범위가 남아 있었던 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "考試範圍還沒讀完嗎？",
+        "MessageEN": "There's...more tests we have to study for?"
     },
     {
         "MessageId": 100930280,
@@ -255,7 +255,7 @@
         "ImagePath": "",
         "MessageJP": "うん！また近いうちに連絡するね(＞＜)",
         "MessageKR": "응! 조만간 또 연락할게><",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯！我之後會再聯絡你的＞＜",
+        "MessageEN": "Yup! I'll text you, okay? ><"
     }
 ]

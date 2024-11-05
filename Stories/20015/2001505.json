@@ -40,7 +40,7 @@
         "MessageJP": "ついに例のアレが発売だって！",
         "MessageKR": "드디어, 드디어 나온대!",
         "MessageTW": "終於，終於出現了！",
-        "MessageEN": "It's finally, finally opening! "
+        "MessageEN": "It's finally, finally opening!"
     },
     {
         "MessageId": 200150521,
@@ -352,7 +352,7 @@
         "MessageJP": "スリーブは消耗品だから",
         "MessageKR": "프로텍터 자체도 소모품이니까,",
         "MessageTW": "保護套本身也是消耗品",
-        "MessageEN": "The card protector itself is a collectible! "
+        "MessageEN": "The card protector itself is expendable!"
     },
     {
         "MessageId": 200150691,

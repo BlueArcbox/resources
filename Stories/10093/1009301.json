@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "はろはろ～",
         "MessageKR": "안냥\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哈囉～",
+        "MessageEN": "Hellooo"
     },
     {
         "MessageId": 100930020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "これ、先生のアカウントで合ってるよね？",
         "MessageKR": "이거 쌤 번호 맞나요??",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這是老師的帳號對嗎？？",
+        "MessageEN": "Teach? Is this your number?"
     },
     {
         "MessageId": 100930030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "はろはろ～\u200b",
         "MessageKR": "응, 안녕, 키라라.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒錯～哈囉，綺羅羅",
+        "MessageEN": "It's me. Hi, Kirara!"
     },
     {
         "MessageId": 100930040,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "合ってた～！はろはろ～！",
         "MessageKR": "앗\\~ 안녕안녕\\~ 쌤\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊～哈囉哈囉～老師～",
+        "MessageEN": "Woo! Hi, hi, Teach!"
     },
     {
         "MessageId": 100930050,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "今日友達と話しててさー",
         "MessageKR": "있잖아, 오늘 누가 나한테 뭘 제일 좋아하냐고 물어보는 거 있지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "跟你說哦，今天有人問我最喜歡什麼",
+        "MessageEN": "So, like, someone was asking me what my favorite thing in the world is."
     },
     {
         "MessageId": 100930060,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "「好きなもの」の話になったんだけど",
         "MessageKR": "그래서 뭘 좋아하더라\\~ 하고 생각하고 생각\\~해봤더니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以我一～直在想這件事～",
+        "MessageEN": "It really got me thinking!"
     },
     {
         "MessageId": 100930061,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "やっぱあたし、おしゃべりが好きだな～って思って！",
         "MessageKR": "역시! 나 수다 떠는 걸 제일 좋아하는 것 같아!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "結果！我果然還是最喜歡聊天！",
+        "MessageEN": "And then I realized! I love talking more than anything!"
     },
     {
         "MessageId": 100930070,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "先生はどう？",
         "MessageKR": "쌤은 어때?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師呢？",
+        "MessageEN": "What about you, Teach?"
     },
     {
         "MessageId": 100930071,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "おしゃべり好き？",
         "MessageKR": "이야기하는 거 좋아해?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "喜歡聊天嗎？",
+        "MessageEN": "Do you like talking, too?"
     },
     {
         "MessageId": 100930080,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "好きだよ",
         "MessageKR": "수다 떠는 거라면 좋아하는 편이야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我也挺喜歡聊天的",
+        "MessageEN": "I love talking!"
     },
     {
         "MessageId": 100930080,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "私もキララと話すのは好きだよ",
         "MessageKR": "나도 키라라와 이야기하는 거라면 좋아해.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我也喜歡跟綺羅羅聊天哦",
+        "MessageEN": "I do too! Especially if it's with you."
     },
     {
         "MessageId": 100930090,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "えっ、マジ～？",
         "MessageKR": "어. 진짜?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哦，真的嗎！？",
+        "MessageEN": "Really?!"
     },
     {
         "MessageId": 100930091,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "同じこと考えたんだ！ウケる！",
         "MessageKR": "쌤이랑 나랑 똑같이 생각했네\\~ 아하하!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師和我想的一樣耶～哈哈哈！",
+        "MessageEN": "Ahaha! You and I think the same, Teach!"
     },
     {
         "MessageId": 100920107,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "はろはろ～\u200b\u200b",
         "MessageKR": "쌤쌤\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師～",
+        "MessageEN": "Teach! Teach!"
     },
     {
         "MessageId": 100930110,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "良いこと思いついたの、あたし天才！",
         "MessageKR": "쌤도 반짝반짝부의 활동을 할 수 있는 방법을 찾았어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我找到老師也可以進行閃亮亮部活動的方法了！",
+        "MessageEN": "I know how you can join the Twinkle Twinkle Club's activities!"
     },
     {
         "MessageId": 100930120,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "先生、キラキラ部の顧問にならない？",
         "MessageKR": "쌤이 원한다면 우리 부의 고문으로 삼아 줄게\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果老師願意，可以讓你當我們社團的顧問～",
+        "MessageEN": "You should be our club advisor!"
     },
     {
         "MessageId": 100930121,
@@ -231,7 +231,7 @@
         "ImagePath": "",
         "MessageJP": "あ、返事はいつでも良いから！好きな時に言ってね！",
         "MessageKR": "그러니까, 같이 하교하고 싶으면 언제든 환영이야!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以，如果想一起放學的話隨時歡迎！",
+        "MessageEN": "That way, if you wanna do after-school activities with us, you can come whenever!"
     }
 ]
