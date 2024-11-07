@@ -230,7 +230,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "シスターの活動をしている時に着るのはやめてほしい、と",
-        "MessageKR": "\"업무 시간에 쭉 입고 있는 것은 자제해 달라\"는",
+        "MessageKR": "업무 시간에 쭉 입고 있는 것은 자제해 달라는",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -326,7 +326,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "それでは、今日も平和に過ごせますように",
-        "MessageKR": "그럼 평안한 하루 되시기를. ",
+        "MessageKR": "그럼 평안한 하루 되시기를.",
         "MessageTW": "",
         "MessageEN": ""
     }

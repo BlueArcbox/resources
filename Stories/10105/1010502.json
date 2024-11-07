@@ -74,7 +74,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "マリーはみんなに人気だからね！",
-        "MessageKR": "생각 못한 건 마리뿐일 거야",
+        "MessageKR": "생각 못 한 건 마리뿐일 거야",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -86,7 +86,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "……ほ、本当に？",
-        "MessageKR": "그런 가요?",
+        "MessageKR": "그런가요?",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -206,7 +206,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "マリーはみんなに人気だからね！\u200b",
-        "MessageKR": "생각 못한 건 마리뿐일 거야\u200b",
+        "MessageKR": "생각 못 한 건 마리뿐일 거야\u200b",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -266,7 +266,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "今度は",
-        "MessageKR": "다음 번에는",
+        "MessageKR": "다음번에는",
         "MessageTW": "",
         "MessageEN": ""
     },

@@ -134,7 +134,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "……何か手伝おうか？",
-        "MessageKR": "그럼 조금 도와줄 게.",
+        "MessageKR": "그럼 조금 도와줄게.",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -350,7 +350,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "ひとまず、大切に保管しておこうと思います",
-        "MessageKR": "그럼 다음에 또 말씀드리겠습니다. ",
+        "MessageKR": "그럼 다음에 또 말씀드리겠습니다.",
         "MessageTW": "",
         "MessageEN": ""
     }
