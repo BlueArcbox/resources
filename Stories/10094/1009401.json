@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生先生！",
         "MessageKR": "선생님, 선생님!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，老師！",
+        "MessageEN": "Sensei, Sensei!"
     },
     {
         "MessageId": 100940020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "モモイモモイ！",
         "MessageKR": "모모이, 모모이!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "桃井，桃井！",
+        "MessageEN": "Momoi, Momoi!"
     },
     {
         "MessageId": 100940030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "聞いて！",
         "MessageKR": "있잖아, 들어 봐!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，你聽我說！",
+        "MessageEN": "Guess what?"
     },
     {
         "MessageId": 100940031,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "私、メイド服をゲットしたの！",
         "MessageKR": "메이드복이라는 게 생겼어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我拿到了一件女僕裝！",
+        "MessageEN": "Look what I got! A maid uniform!"
     },
     {
         "MessageId": 100940040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "モモイがメイドに！",
         "MessageKR": "그 말을 들으니까 불안해졌어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "聽你這樣說，我突然覺得有點不安！",
+        "MessageEN": "Suddenly, I'm worried!"
     },
     {
         "MessageId": 100940050,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "そう……かくして私の深遠な計画は始まった……",
         "MessageKR": "그리하여, 나는 원대한 계획을 세운 것이었다…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因此，我制定了一個遠大的計劃……",
+        "MessageEN": "So anyways, I came up with an amazing plan!"
     },
     {
         "MessageId": 100940060,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "メイド服にこめられたロマン……これを理解せんとするならばっ！",
         "MessageKR": "메이드복을 입었더니, 갑자기!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "穿上女僕裝之後，我突然……！",
+        "MessageEN": "I put on the maid uniform! And suddenly!"
     },
     {
         "MessageId": 100940061,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "まずはメイドの気分になりきらないとね！",
         "MessageKR": "메이드 같은 기분이 되어야 할 것 같은 거 있지!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "覺得自己必須了解女僕的心境！",
+        "MessageEN": "I wanted to BE the maid!"
     },
     {
         "MessageId": 100940070,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "モモイらしいね",
         "MessageKR": "정말 의식의 흐름대로네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真是自由奔放呢",
+        "MessageEN": "Truly going with the flow."
     },
     {
         "MessageId": 100940080,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "そう？……まぁ、そういうことで！",
         "MessageKR": "아무튼! 그러니까!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總之我想說的是！",
+        "MessageEN": "And so! That's why!"
     },
     {
         "MessageId": 100940081,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "メイドの気分になるなら、メイドっぽいことをするのが一番でしょ？",
         "MessageKR": "메이드 같은 기분이 되려면, 그런 일을 해 봐야 하지 않을까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果想要了解女僕的心境，果然得做那件事對吧？",
+        "MessageEN": "If I want to feel like a real maid, I have to do maid activities, right?"
     },
     {
         "MessageId": 100940090,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "ってことで今から、シャーレの休憩室を掃除しに行くね！",
         "MessageKR": "그러니까 내가 샬레의 휴게실을 청소해 줄게!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以就讓我來幫忙打掃夏萊的休息室吧！",
+        "MessageEN": "So I'm going to come clean up Schale's lounge!"
     },
     {
         "MessageId": 100940091,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "じゃあ先生、待っててね！",
         "MessageKR": "그러면 선생님, 거기서 봐!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "待會見囉，老師！",
+        "MessageEN": "Right! I'll see you there, Sensei!"
     },
     {
         "MessageId": 100940100,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "モモイ？モモイ！？",
         "MessageKR": "모모이? 모모이?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "桃井？桃井！？",
+        "MessageEN": "Momoi? Momoi?!"
     },
     {
         "MessageId": 100930107,

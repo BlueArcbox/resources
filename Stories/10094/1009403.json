@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生！",
         "MessageKR": "선생님!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師！",
+        "MessageEN": "Sensei!"
     },
     {
         "MessageId": 100940210,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "モモイ！？",
         "MessageKR": "모모이!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "桃井！",
+        "MessageEN": "Momoi!"
     },
     {
         "MessageId": 100940220,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "聞いて！先生！",
         "MessageKR": "있잖아, 들어 봐!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，你聽我說！",
+        "MessageEN": "Guess what?"
     },
     {
         "MessageId": 100940221,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "メイドの仕事で、大事なことを忘れてたの！",
         "MessageKR": "메이드의 일과에 대해",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "關於女僕的工作",
+        "MessageEN": "There's something I've been forgetting this whole time..."
     },
     {
         "MessageId": 100940222,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "さっきそれを思い出して……",
         "MessageKR": "쭉 잊고 있었던 것이 있었어…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我發現有件事被我忘得一乾二淨了……",
+        "MessageEN": "About a maid's daily duties..."
     },
     {
         "MessageId": 100940230,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "また怪しい雲行きに……",
         "MessageKR": "갑자기 불안해졌다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "突然覺得有點不安……",
+        "MessageEN": "Why am I so anxious...?"
     },
     {
         "MessageId": 100940240,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "だから違うって！",
         "MessageKR": "그런 거 아니라니까!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不是那種事啦！",
+        "MessageEN": "It's nothing like that!"
     },
     {
         "MessageId": 100940241,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "先生もこれはきっと喜ぶと思うよ！",
         "MessageKR": "이건 선생님도 좋아할 거라고!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我相信這次老師一定也會喜歡的！",
+        "MessageEN": "You'll like this one too, Sensei!"
     },
     {
         "MessageId": 100940242,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "……たぶん",
         "MessageKR": "……아마.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……大概吧",
+        "MessageEN": "...I think."
     },
     {
         "MessageId": 100940250,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "一体何を忘れてたの？",
         "MessageKR": "그래서 잊고 있었던 게 뭐야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以你究竟忘了什麼呢？",
+        "MessageEN": "Then what have you been forgetting?"
     },
     {
         "MessageId": 100940260,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "それはね……！",
         "MessageKR": "그건 말이지……!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我忘記的事情就是……！",
+        "MessageEN": "I forgot about"
     },
     {
         "MessageId": 100940261,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "ゆっくり、体と心を休ませること！",
         "MessageKR": "몸과 마음을 휴식하는 거야!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "身心靈的放鬆！",
+        "MessageEN": "resting your mind and body!"
     },
     {
         "MessageId": 100940270,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "ほ、本当に今回は休むだけ？",
         "MessageKR": "진짜 뜬금없네…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "多麼跳躍的思考模式……",
+        "MessageEN": "That's a bit...random."
     },
     {
         "MessageId": 100940280,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "そう！だってさ",
         "MessageKR": "그렇지 않아!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哪有！",
+        "MessageEN": "Not at all!"
     },
     {
         "MessageId": 100940290,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "人って休まないと壊れちゃうじゃん？",
         "MessageKR": "원래 사람은 쉬지 않으면 고장 나는 법이라고?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "人要是不休息的話，遲早會故障的吧？",
+        "MessageEN": "People break down without any rest, you know!"
     },
     {
         "MessageId": 100940300,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "だから、明日のために休むのは大事！",
         "MessageKR": "그러니까 휴식은, 내일의 고된 일과를 위해서라도.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以休息也是為了明天的辛苦工作做的準備",
+        "MessageEN": "So you rest today, then work hard tomorrow!"
     },
     {
         "MessageId": 100940301,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "先生もそう思うでしょ？",
         "MessageKR": "반드시까지는 아니겠지만 상당히 필요한 일과인 거지!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然或許不是必要條件，至少也是非常重要的一環吧！",
+        "MessageEN": "It might not be essential, but it's still extremely important!"
     },
     {
         "MessageId": 100940310,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "うん、適度な休息は大事だね",
         "MessageKR": "앞뒤 사정 빼고, 휴식에는 나도 찬성.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "撇開前後文的話，其實我也贊成要好好休息一下",
+        "MessageEN": "The context is a little off, but I'll never complain about a break."
     },
     {
         "MessageId": 100940320,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "でしょ！",
         "MessageKR": "그렇지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "對吧？",
+        "MessageEN": "That's right!"
     },
     {
         "MessageId": 100940330,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "だからさ、今度、ミレニアムに来て！",
         "MessageKR": "이번에 밀레니엄에 찾아오면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那老師這次就來千年找我吧",
+        "MessageEN": "Come visit Millennium,"
     },
     {
         "MessageId": 100940331,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "メイドとして、最高の休息をプレゼントするから！",
         "MessageKR": "최고의 휴식을 만끽하게 해 줄게!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我會讓你體驗到史上最棒的休息時光！",
+        "MessageEN": "and I'll make sure you get the best rest ever!"
     },
     {
         "MessageId": 100930347,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "うぅぅ……",
         "MessageKR": "우에엥……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗚嗚……",
+        "MessageEN": "Waah..."
     },
     {
         "MessageId": 100940341,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "まだ筋肉痛がぁ……",
         "MessageKR": "아직도 온몸이 아파……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "到現在還是覺得全身痠痛……",
+        "MessageEN": "My whole body is still sore..."
     },
     {
         "MessageId": 100940350,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "私も……",
         "MessageKR": "나도 그래…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我也是……",
+        "MessageEN": "Me too..."
     },
     {
         "MessageId": 100940360,
@@ -327,8 +327,8 @@
         "ImagePath": "",
         "MessageJP": "休むのって、こんなに難しいことだったの！？",
         "MessageKR": "휴식이란 이렇게 어려운 일과였단 말인가!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原來休息竟然是這麼艱難的課題嗎！？",
+        "MessageEN": "I had no idea resting could be so dangerous!"
     },
     {
         "MessageId": 100940370,
@@ -339,8 +339,8 @@
         "ImagePath": "",
         "MessageJP": "普通にくつろげばよかったね……",
         "MessageKR": "평범하게 쉬는 게 좋지 않을까…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我們就不能正常地休息嗎……",
+        "MessageEN": "We can try a more normal method of resting next time..."
     },
     {
         "MessageId": 100940380,
@@ -351,8 +351,8 @@
         "ImagePath": "",
         "MessageJP": "でも！",
         "MessageKR": "하지만 말이지!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但是！",
+        "MessageEN": "But the thing is..."
     },
     {
         "MessageId": 100940381,
@@ -363,8 +363,8 @@
         "ImagePath": "",
         "MessageJP": "それじゃ面白くない！",
         "MessageKR": "뭔가 아깝잖아!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你不覺得那樣很可惜嗎！",
+        "MessageEN": "That's a waste!"
     },
     {
         "MessageId": 100940390,
@@ -375,8 +375,8 @@
         "ImagePath": "",
         "MessageJP": "もっと、スーパーウルトラ画期的かつ効率的でっ！",
         "MessageKR": "좀 더 슈퍼–하고, 울트라–한데다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "難道就沒有超級無敵宇宙霹靂酷炫",
+        "MessageEN": "I think we just have to find the most super and awesome"
     },
     {
         "MessageId": 100940391,
@@ -387,8 +387,8 @@
         "ImagePath": "",
         "MessageJP": "人の記憶にずっと残りそうな！",
         "MessageKR": "획기적이고 기발하면서 효율적이고 기억에 남는!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "既有活力又有效率，而且還新穎到會令人留下深刻印象的……！",
+        "MessageEN": "and clever and unique and effective and memorable"
     },
     {
         "MessageId": 100940400,
@@ -399,8 +399,8 @@
         "ImagePath": "",
         "MessageJP": "う～ん、どこかにそんな休息方法ってないのかなぁ？",
         "MessageKR": "그런 휴식법 없을까, 선생님?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那種休息方法嗎？",
+        "MessageEN": "method to rest, Sensei!"
     },
     {
         "MessageId": 100940410,
@@ -411,8 +411,8 @@
         "ImagePath": "",
         "MessageJP": "筋肉痛が治ったら、また考えようか……",
         "MessageKR": "우리들의 허리가 나으면, 같이 생각해 보자…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "等我們的腰都恢復之後，再一起想想吧……",
+        "MessageEN": "We'll figure it out together! ...Once our backs feel better."
     },
     {
         "MessageId": 100940420,
@@ -423,8 +423,8 @@
         "ImagePath": "",
         "MessageJP": "……",
         "MessageKR": "…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……",
+        "MessageEN": "..."
     },
     {
         "MessageId": 100940430,
@@ -435,8 +435,8 @@
         "ImagePath": "",
         "MessageJP": "そうだね",
         "MessageKR": "알았어…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好吧……",
+        "MessageEN": "Okay..."
     },
     {
         "MessageId": 100940431,
@@ -447,7 +447,7 @@
         "ImagePath": "",
         "MessageJP": "ふふっ、約束だよ？先生！",
         "MessageKR": "약속한 거다, 선생님?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那我們約好囉，老師？",
+        "MessageEN": "It's a promise, okay?"
     }
 ]

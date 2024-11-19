@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生？",
         "MessageKR": "저, 선생님?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個，老師？",
+        "MessageEN": "Um, Sensei?"
     },
     {
         "MessageId": 100950110,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今送ってくださった展示会の情報……",
         "MessageKR": "지금 보내 주신 이 전시회 정보…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你剛才傳給我的展覽資訊……",
+        "MessageEN": "The exhibition info you just sent..."
     },
     {
         "MessageId": 100950120,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "うん、服飾美術展が開かれるみたいで",
         "MessageKR": "응. 고전 복식 미술전이 열린대.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，聽說最近有一場古代服飾的美術展",
+        "MessageEN": "Yeah. It's for a classic fashion art exhibition."
     },
     {
         "MessageId": 100950130,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "ミドリの役に立つかなって",
         "MessageKR": "혹시 미도리에게 도움이 될까 해서.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "說不定能幫上綠的忙",
+        "MessageEN": "I thought you might find it helpful."
     },
     {
         "MessageId": 100950140,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとうございます！",
         "MessageKR": "감사합니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "非常感謝！",
+        "MessageEN": "Thank you!"
     },
     {
         "MessageId": 100950150,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "その……",
         "MessageKR": "저기, 혹시 말인데요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個，如果……",
+        "MessageEN": "Um, by any chance..."
     },
     {
         "MessageId": 100950151,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "もしよろしければ……",
         "MessageKR": "정말 만에 하나의, 이야기이지만…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真的只是如果而已……",
+        "MessageEN": "Really, seriously, just by ANY chance,"
     },
     {
         "MessageId": 100950160,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "き、気が向いたらで構いませんから",
         "MessageKR": "이 전시회",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不知道老師",
+        "MessageEN": "this exhibition..."
     },
     {
         "MessageId": 100950161,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "この展示会……先生も一緒に……行って、いただけたり……？",
         "MessageKR": "선생님께서도 같이…… 가 주실 수, 있으실까요……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "願不願意……\n和我一起去看這場展覽……？",
+        "MessageEN": "Can we...go together, Sensei?"
     },
     {
         "MessageId": 100950170,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "そうしよっか。ちょうどチケットも2枚あるし",
         "MessageKR": "그럴까? 마침 표도 두 장이었고.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒問題，我剛好有兩張票哦",
+        "MessageEN": "Shall we? We do have two tickets."
     },
     {
         "MessageId": 100950180,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "ほ、本当ですか！？",
         "MessageKR": "정말요?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真的嗎！？",
+        "MessageEN": "Really?!"
     },
     {
         "MessageId": 100950181,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとうございます！\u200b",
         "MessageKR": "감사합니다!\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "非常感謝！\u200b",
+        "MessageEN": "Thank you!\u200b"
     },
     {
         "MessageId": 100950190,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "わ、私、その……期待しても、良いんですよね？",
         "MessageKR": "저, 기대하고 있어도…… 되는 거죠?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "也就是說……我可以小小期待一下吧？",
+        "MessageEN": "I'll look forward to it...okay?"
     },
     {
         "MessageId": 100940197,

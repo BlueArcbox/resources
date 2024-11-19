@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "ご主人様、いらっしゃいますか？",
         "MessageKR": "주인님, 계세요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "主人，您在嗎？",
+        "MessageEN": "Are you here, Master?"
     },
     {
         "MessageId": 100950210,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "ご主人様じゃないですよ！？",
         "MessageKR": "그거 아니야!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不對不對！",
+        "MessageEN": "Stop that!"
     },
     {
         "MessageId": 100950220,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "あ、すみません。先生",
         "MessageKR": "아, 죄송해요. 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，不好意思，老師",
+        "MessageEN": "Ah! Sorry, Sensei."
     },
     {
         "MessageId": 100950221,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "何だかこの呼び方、癖になってきて……",
         "MessageKR": "슬슬 이쪽 호칭이 입에 붙고 있는 것 같네요…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我好像越來越習慣叫你主人了……",
+        "MessageEN": "I've been getting too used to the title..."
     },
     {
         "MessageId": 100950230,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "私は先生として失格かもしれない……",
         "MessageKR": "괜찮은가, 나는…… 교육자로서 괜찮은가…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這樣好嗎……\n身為一個教育者，這樣真的好嗎……",
+        "MessageEN": "As an educator...is this...okay?"
     },
     {
         "MessageId": 100950240,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "そ、そんなことありませんよ！",
         "MessageKR": "괘, 괜찮을 거예요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒，沒問題的！",
+        "MessageEN": "T-Totally okay!"
     },
     {
         "MessageId": 100950241,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "……多分",
         "MessageKR": "……아마도요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……大概吧",
+        "MessageEN": "...Probably."
     },
     {
         "MessageId": 100950250,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "それではご主人様",
         "MessageKR": "그러면, 주인님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總之，主人",
+        "MessageEN": "Now then, Master."
     },
     {
         "MessageId": 100950251,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "ではなく、先生",
         "MessageKR": "아니, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不對，是老師",
+        "MessageEN": "No! Sensei!"
     },
     {
         "MessageId": 100950260,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "今日も部室……来てくれますか？",
         "MessageKR": "오늘도…… 와 주실 거죠?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你今天……也會過來吧？",
+        "MessageEN": "You're...gonna come today too, right?"
     },
     {
         "MessageId": 100940277,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "先生？",
         "MessageKR": "선생님?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師！",
+        "MessageEN": "Sensei?"
     },
     {
         "MessageId": 100950280,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "今、大丈夫ですか……？",
         "MessageKR": "계신가요……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可以打擾一下嗎……？",
+        "MessageEN": "You here...?"
     },
     {
         "MessageId": 100950290,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "イラストは順調？",
         "MessageKR": "일러스트 작업은 잘 돼?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "作畫還順利嗎？",
+        "MessageEN": "Is the illustration work going well?"
     },
     {
         "MessageId": 100950300,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "え？",
         "MessageKR": "네?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？",
+        "MessageEN": "Y-Yes?"
     },
     {
         "MessageId": 100950301,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "は、はい！",
         "MessageKR": "네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "Yes."
     },
     {
         "MessageId": 100950302,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "先生のおかげです",
         "MessageKR": "덕분에요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "多虧有老師的幫忙",
+        "MessageEN": "Because of you."
     },
     {
         "MessageId": 100950310,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "あの……今日の写真のことなんですが",
         "MessageKR": "그보다, 저기, 혹시 괜찮으시다면…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "話說回來，那個，如果不介意的話……",
+        "MessageEN": "More importantly, if you don't mind..."
     },
     {
         "MessageId": 100950311,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "もし良ければ……",
         "MessageKR": "그 사진 말인데요…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那張照片……",
+        "MessageEN": "About the picture..."
     },
     {
         "MessageId": 100950320,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "もしかして消しちゃった？また送ろうか？",
         "MessageKR": "응? 원본 없어졌어? 공유해 줄까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯？檔案不見了嗎？要不要我再分享給你？",
+        "MessageEN": "Did you lose the original? Do you need another copy?"
     },
     {
         "MessageId": 100950330,
@@ -266,9 +266,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "い、いえ！",
-        "MessageKR": "아뇨! 그건 아니에요. ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "아뇨! 그건 아니에요.",
+        "MessageTW": "不！不是那樣的！",
+        "MessageEN": "No, no! I wouldn't lose that."
     },
     {
         "MessageId": 100950340,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "そうではなく",
         "MessageKR": "단지…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我想說的是……",
+        "MessageEN": "It's more so..."
     },
     {
         "MessageId": 100950350,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "えっと",
         "MessageKR": "그, 정말로 선생님께서 괜찮으시다면, 이지만요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個，如果老師願意的話",
+        "MessageEN": "Um, and this really is only if you don't mind, Sensei."
     },
     {
         "MessageId": 100950351,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "できればずっと……持っていてほしいなと",
         "MessageKR": "가능하면 오래…… 가지고 있어 주셨으면 해요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "希望你可以……好好珍藏那張照片",
+        "MessageEN": "Will you...keep it? Forever?"
     },
     {
         "MessageId": 100950360,
@@ -315,7 +315,7 @@
         "ImagePath": "",
         "MessageJP": "ずっと、先生のお傍に",
         "MessageKR": "네. 오랫동안이요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "盡可能，越久越好",
+        "MessageEN": "Of course. Forever."
     }
 ]

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生先生！",
         "MessageKR": "선생님, 선생님!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，老師！",
+        "MessageEN": "Sensei, Sensei!"
     },
     {
         "MessageId": 100940120,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "モモイモモイ！",
         "MessageKR": "응! 모모이, 모모이!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯！桃井，桃井！",
+        "MessageEN": "Yes! Momoi, Momoi!"
     },
     {
         "MessageId": 100940130,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "聞いて！先生！",
         "MessageKR": "있잖아, 들어 봐!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，你聽我說！",
+        "MessageEN": "Guess what?"
     },
     {
         "MessageId": 100940140,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "あのあとメイドの仕事について、ちょっと調べてみたんだ！",
         "MessageKR": "메이드의 업무에 대해 조금 알아봤는데…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我稍微調查了一下女僕的工作……",
+        "MessageEN": "I've been reading up about what goes into being a maid."
     },
     {
         "MessageId": 100940141,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "メイドにとって、食事の支度もすごく大事なんだって！",
         "MessageKR": "식사 준비도 아주 중요한 일이었대!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒想到準備餐點也是女僕工作中很重要的一環！",
+        "MessageEN": "And apparently, meal prepping is an essential task!"
     },
     {
         "MessageId": 100940150,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "まあ……食事は生活に欠かせないからね",
         "MessageKR": "어…… 다 먹고 살자고 하는 일이니까……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯……畢竟是人都要吃飯的吧……？",
+        "MessageEN": "Because we all need to eat to live...?"
     },
     {
         "MessageId": 100940160,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "そう……かくして私の深遠な計画は再び始動した……",
         "MessageKR": "그리하여 나는 또 다시 원대한 계획을 세운 것이었다…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以我又再次制定了一個遠大的計劃……",
+        "MessageEN": "And so, I came up with an even better plan than last time!"
     },
     {
         "MessageId": 100940170,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "料理でご主人様を満足させられなければ、メイドとしては半人前っ……！",
         "MessageKR": "이번에는 내가 선생님에게",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這一次",
+        "MessageEN": "This time, I'm gonna make Sensei"
     },
     {
         "MessageId": 100940171,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "だから！先生に素敵なお料理を作ってあげないと、ってね！",
         "MessageKR": "멋진 요리를 대접해 줄게!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就讓我用美味的料理招待老師吧！",
+        "MessageEN": "the best dish EVER!"
     },
     {
         "MessageId": 100940180,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "そういうわけだから！後でゲーム開発部の部室集合！",
         "MessageKR": "그러면 선생님, 게임개발부실에서 봐!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以老師，待會在遊戲開發部的部室見囉！",
+        "MessageEN": "Meet me at the Game Development Department club room, okay?"
     },
     {
         "MessageId": 100940190,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "モモイ？モモイ！？",
         "MessageKR": "모모이? 모모이?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "桃井？桃井！？",
+        "MessageEN": "Momoi? Momoi?!"
     },
     {
         "MessageId": 100930197,

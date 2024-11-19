@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生こんにちは",
         "MessageKR": "선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 100660200,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今日、忙しいですか？",
         "MessageKR": "오늘은 바쁘신가요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你今天很忙嗎？",
+        "MessageEN": "Do you have any quests to undertake today?"
     },
     {
         "MessageId": 100660210,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "特に予定はないよ",
         "MessageKR": "별다른 예정은 없는데?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天沒有行程哦",
+        "MessageEN": "Not that I can think of."
     },
     {
         "MessageId": 100660220,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "なるほど……今日はフリーなのですね！",
         "MessageKR": "그렇군요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這樣啊！",
+        "MessageEN": "I see!"
     },
     {
         "MessageId": 100660230,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "そういう日はお掃除にかぎるのだと",
         "MessageKR": "큰 예정이 없는 날…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "像這種沒有行程的日子……",
+        "MessageEN": "A day with no quests..."
     },
     {
         "MessageId": 100660231,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "アリスは聞きました！",
         "MessageKR": "그것은 청소를 하기 좋은 날이라고 배웠습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "聽說就是最適合打掃的日子！",
+        "MessageEN": "I hear that means it is a good day for cleaning!"
     },
     {
         "MessageId": 100660240,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "掃除？",
         "MessageKR": "청소라니\\~!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼會～！",
+        "MessageEN": "Cleaning?!"
     },
     {
         "MessageId": 100660250,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "はい！！",
         "MessageKR": "걱정 마세요, 선생님!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "別擔心，老師！",
+        "MessageEN": "Do not worry, Sensei!"
     },
     {
         "MessageId": 100660251,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "見習いメイドのアリスが、先生をお手伝いします！",
         "MessageKR": "견습 메이드 용사인 아리스가, 선생님을 돕겠습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "見習女僕勇者愛麗絲，會助老師一臂之力！",
+        "MessageEN": "Apprentice Hero Maid Aris will help you!"
     },
     {
         "MessageId": 100660260,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "お掃除もメイド勇者のスキルですから！",
         "MessageKR": "메이드 용사는 결코 도움이 필요한 사람을 저버리지 않으니까요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "女僕勇者絕不會對遇到困難的人見死不救！",
+        "MessageEN": "A hero maid never abandons someone in need of help!"
     },
     {
         "MessageId": 100650267,

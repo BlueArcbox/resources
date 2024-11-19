@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "こんにちは、先生",
         "MessageKR": "안녕하세요. 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你好，老師",
+        "MessageEN": "Hello, Sensei."
     },
     {
         "MessageId": 100950020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "その……今日はお忙しいでしょうか？",
         "MessageKR": "오늘도 역시…… 바쁘신가요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個……今天也很忙嗎？",
+        "MessageEN": "Are you...busy today?"
     },
     {
         "MessageId": 100950030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "忙しいというか……",
         "MessageKR": "바쁘다면 바쁜데…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是很忙沒錯……",
+        "MessageEN": "I am, but I'll be in your area."
     },
     {
         "MessageId": 100950040,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "ミレニアムの仕事だから、何かあればすぐ行けるよ",
         "MessageKR": "아마 밀레니엄 일로 바쁘게 될 것 같아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過基本上都是千年的事吧",
+        "MessageEN": "I have business at Millennium, actually."
     },
     {
         "MessageId": 100950050,
@@ -74,9 +74,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "！",
-        "MessageKR": "네? 혹시 저희 학교로 ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "네? 혹시 저희 학교로",
+        "MessageTW": "嗯？也就是說",
+        "MessageEN": "Huh? Are you..."
     },
     {
         "MessageId": 100950051,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "な、なるほど……！",
         "MessageKR": "오실 일이 있으신 건가요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師有事要來我們學園嗎？",
+        "MessageEN": "You're visiting Millennium?"
     },
     {
         "MessageId": 100950060,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "何かあった？",
         "MessageKR": "맞아. 그거야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，是這樣沒錯",
+        "MessageEN": "Yup! You got it!"
     },
     {
         "MessageId": 100950070,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "えっと",
         "MessageKR": "그, 그렇군요…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原，原來如此……",
+        "MessageEN": "I-I see..."
     },
     {
         "MessageId": 100950080,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "もしよろしければ",
         "MessageKR": "저, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個，老師",
+        "MessageEN": "Um, Sensei?"
     },
     {
         "MessageId": 100950081,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "その、時間があったらで大丈夫なので",
         "MessageKR": "혹시 괜찮으시다면…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果方便的話……",
+        "MessageEN": "Then, if you don't mind..."
     },
     {
         "MessageId": 100950090,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "部室に寄っていただけませんか",
         "MessageKR": "만에 하나 시간이 남으실 때의 이야기이지만…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "假如老師忙完有空……",
+        "MessageEN": "And only if you have some free time!"
     },
     {
         "MessageId": 100950091,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "いつでも大丈夫です",
         "MessageKR": "저희 부실에도, 한 번 들러 주시면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "能來我們部室一趟",
+        "MessageEN": "It'd make me really happy"
     },
     {
         "MessageId": 100950092,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "今日はずっと部室にいますので……！",
         "MessageKR": "기쁠 것 같아요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我會很高興的",
+        "MessageEN": "if you stopped by the club room..."
     },
     {
         "MessageId": 100940097,
