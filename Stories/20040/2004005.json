@@ -1,0 +1,153 @@
+[
+    {
+        "CharacterId": 20040,
+        "MessageJP": "サツキ",
+        "MessageKR": "사츠키",
+        "MessageTW": "皋月",
+        "MessageEN": "Satsuki"
+    },
+    {
+        "MessageId": 200390430,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 200400430,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 200400430,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200400440,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "こんにちは、先生",
+        "MessageKR": "안녕, 선생",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200400440,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200400450,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "今日は私が当番よ",
+        "MessageKR": "오늘 당번은 나야.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200400450,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200400460,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "気をつけて来てね、サツキ",
+        "MessageKR": "조심히 와, 사츠키.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200400460,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200400461,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "万魔殿の予備協力者であり",
+        "MessageKR": "만마전의 예비 협력자이자",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200400461,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200400462,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ライバルでもある先生を",
+        "MessageKR": "경쟁자인 선생을",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200400462,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200400463,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "近くでじーっくりと観察できる",
+        "MessageKR": "가까이에서 면밀하게 관찰할 수 있는",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200400463,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200400470,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "絶好の機会よ",
+        "MessageKR": "좋은 기회지",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200400470,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200400480,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "そういうのって普通ひとりごとで言わない……？",
+        "MessageKR": "보통 그런 건 혼잣말로 하지 않아?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200400480,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200400481,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "待ってて頂戴",
+        "MessageKR": "조금만 기다려",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200400481,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200390487,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "今から向かうわ！",
+        "MessageKR": "지금 갈게\\~!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200390487,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "サツキの絆イベントへ",
+        "MessageKR": "사츠키의 인연스토리로",
+        "MessageTW": "前往皋月的羈絆劇情",
+        "MessageEN": "Go to Satsuki's Bond Story"
+    }
+]

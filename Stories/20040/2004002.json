@@ -1,0 +1,153 @@
+[
+    {
+        "CharacterId": 20040,
+        "MessageJP": "サツキ",
+        "MessageKR": "사츠키",
+        "MessageTW": "皋月",
+        "MessageEN": "Satsuki"
+    },
+    {
+        "MessageId": 200390070,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 200400070,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 200400070,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200400080,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "こんにちは先生",
+        "MessageKR": "선생",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200400080,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200400081,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "前回は散々だったけど",
+        "MessageKR": "오늘은 다른 방법을",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200400081,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200400090,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "今回は他の方法を試すつもりよ",
+        "MessageKR": "시험해볼 생각이야",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200400090,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200400100,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "いまシャーレにいるのよね？",
+        "MessageKR": "샬레에 있지?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200400100,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200400110,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "うん……？",
+        "MessageKR": "으응……?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200400100,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200400110,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "いるよ……？",
+        "MessageKR": "그렇긴 한데……",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200400110,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200400120,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "じゃあそのまま待っていて頂戴",
+        "MessageKR": "그럼 그대로 있어",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200400120,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200400130,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "今向かうわ！",
+        "MessageKR": "지금 갈게\\~!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200400130,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200400140,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "サツキ……？",
+        "MessageKR": "사츠키……?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200400140,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200390147,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ちょっと！？",
+        "MessageKR": "저기요?!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200390147,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "サツキの絆イベントへ",
+        "MessageKR": "사츠키의 인연스토리로",
+        "MessageTW": "前往皋月的羈絆劇情",
+        "MessageEN": "Go to Satsuki's Bond Story"
+    }
+]

@@ -1,0 +1,141 @@
+[
+    {
+        "CharacterId": 20040,
+        "MessageJP": "サツキ",
+        "MessageKR": "사츠키",
+        "MessageTW": "皋月",
+        "MessageEN": "Satsuki"
+    },
+    {
+        "MessageId": 200390010,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 200400010,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 200400010,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200400020,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生？今大丈夫かしら",
+        "MessageKR": "선생\\~",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200400020,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200400021,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "万魔殿の協力者として",
+        "MessageKR": "만마전의 협력자로서",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200400021,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200400030,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "今回も手伝ってくれない？",
+        "MessageKR": "이번 일도 협조해줘",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200400030,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200400040,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "あれ、サツキ……？",
+        "MessageKR": "사츠키……?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200400030,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200400040,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "どうかしたの？",
+        "MessageKR": "무슨 말이야?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200400040,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200400041,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ふむ……これは会って話した方がよさそうね",
+        "MessageKR": "이건 만나서 설명하는 편이 낫겠네",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200400041,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200400050,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "他の用件もあるし",
+        "MessageKR": "해두고 싶은 말도 있고",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200400050,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200400060,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "今からシャーレに行くわ",
+        "MessageKR": "지금 샬레로 갈게\\~!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200400060,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200390067,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ちょっと！？",
+        "MessageKR": "저기요?!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200390067,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "サツキの絆イベントへ",
+        "MessageKR": "사츠키의 인연스토리로",
+        "MessageTW": "前往皋月的羈絆劇情",
+        "MessageEN": "Go to Satsuki's Bond Story"
+    }
+]
