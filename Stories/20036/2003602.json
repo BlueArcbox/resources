@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "そういえば先生",
         "MessageKR": "그러고 보니 선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "話說老師",
+        "MessageEN": "By the way, Sensei"
     },
     {
         "MessageId": 200360140,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "倉庫で面白そうな物を見つけたのよね",
         "MessageKR": "여기 창고에서 꽤 괜찮아 보이는 걸 찾았는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我在倉庫裡找到了不錯的東西",
+        "MessageEN": "I found something kinda cool in the storage shed."
     },
     {
         "MessageId": 200360141,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと見てくれない？",
         "MessageKR": "나가서 같이 좀 볼래?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要不要一起到外面去？",
+        "MessageEN": "You wanna come outside with me and see?"
     },
     {
         "MessageId": 200360150,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "あっ、忙しかったら大丈夫",
         "MessageKR": "다른 거 하고 있으면 괜찮고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果還有別的事要忙就算了",
+        "MessageEN": "Unless you're busy or whatever. It doesn't matter to me!"
     },
     {
         "MessageId": 200360160,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "何を見つけたの？",
         "MessageKR": "오? 뭔데?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哦？是什麼？",
+        "MessageEN": "Oh? What is it?"
     },
     {
         "MessageId": 200360160,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "支度したら行くね",
         "MessageKR": "나가서? 노는 물건인가?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "去外面？難道是什麼玩具嗎？",
+        "MessageEN": "Outside? Is it something to play with?"
     },
     {
         "MessageId": 200360170,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "まあ",
         "MessageKR": "뭐",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯……",
+        "MessageEN": "Well"
     },
     {
         "MessageId": 200360171,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "そんな大した物じゃないけど……",
         "MessageKR": "그렇게 대단한 것까진 아니고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "其實也沒那麼厲害啦",
+        "MessageEN": "Don't get your expectations up or anything..."
     },
     {
         "MessageId": 200360180,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "先に行って待ってるわ！",
         "MessageKR": "궁금하면 일단 와!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果想知道的話就過來吧！",
+        "MessageEN": "Just...Just come see if you're so curious!"
     },
     {
         "MessageId": 200350197,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "先生！",
         "MessageKR": "가만 안 둬",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我不會放過你的",
+        "MessageEN": "I'm gonna make you pay!"
     },
     {
         "MessageId": 200360191,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "どこ行ったのよ！",
         "MessageKR": "어디 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你在哪裡？",
+        "MessageEN": "Where are you?"
     },
     {
         "MessageId": 200360200,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "もう、許さないわよ！",
         "MessageKR": "지금 어디 있냐고!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我問你現在在哪裡？",
+        "MessageEN": "Where are you right now?!"
     },
     {
         "MessageId": 200360210,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "夢の中に……",
         "MessageKR": "추억이 있는 모든 곳에…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "在回憶所在的每一個地方……",
+        "MessageEN": "Everywhere where there are memories..."
     },
     {
         "MessageId": 200360210,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "セリカの心の中に……",
         "MessageKR": "우리 세리카 쨩의 마음속",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然在茜香的心裡囉",
+        "MessageEN": "In our dear Serika's heart"
     },
     {
         "MessageId": 200360220,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "覚悟しなさい！",
         "MessageKR": "헛소리하지 마",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "少胡說八道了",
+        "MessageEN": "Stop spouting that ridiculous stuff!"
     },
     {
         "MessageId": 200360221,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "すぐ見つけてあげるわ！",
         "MessageKR": "잡히기만 해 아주",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "被我抓到你就完了",
+        "MessageEN": "You better pray I don't catch you!"
     },
     {
         "MessageId": 200360222,
@@ -231,7 +231,7 @@
         "ImagePath": "",
         "MessageJP": "捕まえたらボートに縛り付けてやるんだから！！",
         "MessageKR": "보트에 묶어서 끌고 나가 줄 테니까!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我一定要把你綁在快艇上，然後拖你出海繞一整圈！！",
+        "MessageEN": "I'm gonna tie you to a boat and drag you outside!"
     }
 ]

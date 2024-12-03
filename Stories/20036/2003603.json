@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "はぁ",
         "MessageKR": "어으",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔",
+        "MessageEN": "Ugh"
     },
     {
         "MessageId": 200360240,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "思ったより埃が多くて大変ね",
         "MessageKR": "생각보다 먼지가 많네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "灰塵比我想得還要多呢",
+        "MessageEN": "It's dustier than I expected..."
     },
     {
         "MessageId": 200360241,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "見えない部分だからって、放置しすぎたわ",
         "MessageKR": "안 보이는 부분이라고 너무 방치했어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "畢竟這裡平時不太會注意到，所以一直都沒有人清理",
+        "MessageEN": "Out of sight, out of mind, I guess."
     },
     {
         "MessageId": 200360250,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "教室の掃除でもしてるの？",
         "MessageKR": "부실 청소? 혼자 하는 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是在打掃部室嗎？你自己一個人？",
+        "MessageEN": "You're cleaning the club room? By yourself?"
     },
     {
         "MessageId": 200360250,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ほかのみんなは？",
         "MessageKR": "다른 부원들은?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "其他成員呢？",
+        "MessageEN": "What're the other members doing?"
     },
     {
         "MessageId": 200360260,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "みんなは用事があるみたい",
         "MessageKR": "다들 해야 할 것들이 있어서 말이지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "大家都有事要做",
+        "MessageEN": "They're all busy with stuff."
     },
     {
         "MessageId": 200360261,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "私はちょうど時間があったから",
         "MessageKR": "오히려 내가 좀 여유가 있는 편",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在反而只剩我有空",
+        "MessageEN": "I'm the only one who actually has some free time."
     },
     {
         "MessageId": 200360270,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "せっかくだし掃除でもしようかなって",
         "MessageKR": "그래서 청소나 해볼까 하고 있었는데…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以才想說要不要稍微打掃一下……",
+        "MessageEN": "So I figured I'd do some cleaning."
     },
     {
         "MessageId": 200360280,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "それじゃ、私の出番だね",
         "MessageKR": "아하. 이제 내 차례인가.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊哈，終於輪到我登場了",
+        "MessageEN": "Aha. I guess that's my cue."
     },
     {
         "MessageId": 200360280,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "手伝いに行くよ",
         "MessageKR": "지금 도우러 갈게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我現在就過去幫你",
+        "MessageEN": "I'm on my way to help right now."
     },
     {
         "MessageId": 200360290,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "？",
         "MessageKR": "?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "？",
+        "MessageEN": "?"
     },
     {
         "MessageId": 200360291,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "え？",
         "MessageKR": "뭐?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？",
+        "MessageEN": "What?"
     },
     {
         "MessageId": 200360292,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "先生？",
         "MessageKR": "선생님?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師？",
+        "MessageEN": "Sensei?"
     },
     {
         "MessageId": 200350307,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "こうなると思った",
         "MessageKR": "이렇게 될 줄 알았어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我就知道會變成這樣",
+        "MessageEN": "I knew it'd be like this"
     },
     {
         "MessageId": 200360301,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "次は無いから！",
         "MessageKR": "다음은 없으니까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不會再有下一次了",
+        "MessageEN": "There's no next time."
     },
     {
         "MessageId": 200360302,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "絶対！",
         "MessageKR": "절대로!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "絕對！",
+        "MessageEN": "Never!"
     },
     {
         "MessageId": 200360310,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "また連絡してね",
         "MessageKR": "또 불러줘.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "歡迎再找我幫忙",
+        "MessageEN": "Call me again."
     },
     {
         "MessageId": 200360310,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "いつでも遊びに行くから",
         "MessageKR": "언제든 편하게 말해.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我隨時有空哦",
+        "MessageEN": "I'm always available."
     },
     {
         "MessageId": 200360320,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "うん",
         "MessageKR": "응",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "Yeah"
     },
     {
         "MessageId": 200360321,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "あ",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah"
     },
     {
         "MessageId": 200360322,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "いや",
         "MessageKR": "아니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不是",
+        "MessageEN": "Wait"
     },
     {
         "MessageId": 200360330,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "いやいやいや！",
         "MessageKR": "아니아니아니!!!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不對不對不對！！！！",
+        "MessageEN": "Nonono!!!"
     },
     {
         "MessageId": 200360331,
@@ -303,7 +303,7 @@
         "ImagePath": "",
         "MessageJP": "違うから！何でもない！！",
         "MessageKR": "아니야!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "才不是這樣！！",
+        "MessageEN": "No!!"
     }
 ]

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "よし",
         "MessageKR": "좋아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好",
+        "MessageEN": "Good"
     },
     {
         "MessageId": 200360020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "大体整理も終わったわ！",
         "MessageKR": "대충 정리도 끝났고, 이제 슬슬이야!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "既然整理得差不多了，現在該來那個了！",
+        "MessageEN": "That wraps up the clean-up! It's time!"
     },
     {
         "MessageId": 200360030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "お疲れ様、セリカ",
         "MessageKR": "이제 슬슬?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在該來那個？",
+        "MessageEN": "Time for what?"
     },
     {
         "MessageId": 200360030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "このあとは何をするの？",
         "MessageKR": "뭔가 하려고?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個是哪個？",
+        "MessageEN": "Time to...do something?"
     },
     {
         "MessageId": 200360040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "決まってるでしょ？",
         "MessageKR": "당연하지! 이미 말했잖아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這還用問嗎！我已經說過了吧？",
+        "MessageEN": "Didn't I tell you already?!"
     },
     {
         "MessageId": 200360041,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "最高の休暇を送るのよ",
         "MessageKR": "이렇게 된 이상 '최고의 휴가'를 보내겠다고 말이야!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "一定要度過「最棒的休假」！",
+        "MessageEN": "The situation might be what it is, but I'm still gonna have the best vacation ever!"
     },
     {
         "MessageId": 200360050,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "復旧活動も楽しくなかったわけじゃないけど……",
         "MessageKR": "물론 정비도 복구도 결과적으로 잘 됐지만…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然就結果而言，整頓和修復的事都進行得很順利……",
+        "MessageEN": "I'm glad the maintenance and all that worked out, in the end..."
     },
     {
         "MessageId": 200360051,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "それだけじゃ最高の休暇とは言えないでしょ！",
         "MessageKR": "그것만으로는 최고의 휴가를 보냈다고 말할 수 없어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但只有這樣，還不足以稱作最棒的休假！",
+        "MessageEN": "But I still haven't had my \"best vacation\"!"
     },
     {
         "MessageId": 200360060,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "先生も一緒に行くわよ！",
         "MessageKR": "그러니까 각오해, 선생님! 이건 만만하지 않다고!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以做好覺悟吧，老師！我這次可是認真的哦！",
+        "MessageEN": "This is no simple matter. You better be ready, Sensei!"
     },
     {
         "MessageId": 200350077,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "ねえ",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah"
     },
     {
         "MessageId": 200360071,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "이상하다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真奇怪",
+        "MessageEN": "Weird"
     },
     {
         "MessageId": 200360080,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "もしかして、私の荷物そっちに……",
         "MessageKR": "선생님 혹시",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，那個",
+        "MessageEN": "Sensei, by any chance..."
     },
     {
         "MessageId": 200360090,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "預かってるよ",
         "MessageKR": "주워 놨으니 걱정하지 마.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我把東西撿回來了，別擔心",
+        "MessageEN": "I picked it up, so don't worry."
     },
     {
         "MessageId": 200360090,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "明日渡すね",
         "MessageKR": "내일 줄 테니 우선 자. 늦었다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "明天再拿給你。早點休息吧，現在時候不早了",
+        "MessageEN": "I'll keep it safe until tomorrow, so get some rest. It's already late."
     },
     {
         "MessageId": 200360100,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "え",
         "MessageKR": "어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哦",
+        "MessageEN": "Oh"
     },
     {
         "MessageId": 200360101,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "あ",
         "MessageKR": "아\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊\u200b",
+        "MessageEN": "Ah\u200b"
     },
     {
         "MessageId": 200360110,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "うん",
         "MessageKR": "응",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "Yeah"
     },
     {
         "MessageId": 200360120,
@@ -243,7 +243,7 @@
         "ImagePath": "",
         "MessageJP": "……ありがとう",
         "MessageKR": "고마워.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝",
+        "MessageEN": "Thanks."
     }
 ]
