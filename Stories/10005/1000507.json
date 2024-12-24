@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "困ったものだねぇ",
         "MessageKR": "곤란하구만",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真傷腦筋",
+        "MessageEN": "I have a problem."
     },
     {
         "MessageId": 100050470,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "どこに隠れていても",
         "MessageKR": "어디로 숨어도",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不管躲在什麼地方",
+        "MessageEN": "It doesn't matter where I hide!"
     },
     {
         "MessageId": 100050471,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "可愛い後輩たちから小言が……",
         "MessageKR": "귀여운 후배들의 무서운 잔소리라니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "都會被可愛的後輩們嘮叨",
+        "MessageEN": "My adorable underclassmen always find me and chastise me..."
     },
     {
         "MessageId": 100050472,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "おじさん、悲しいよ",
         "MessageKR": "아저씨는 서글퍼",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "大叔我好可憐喔",
+        "MessageEN": "This old-timer is very sad."
     },
     {
         "MessageId": 100050480,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "また小言を……",
         "MessageKR": "또 한 소리 들었구나",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "又被罵了嗎？",
+        "MessageEN": "You got scolded again?"
     },
     {
         "MessageId": 100050480,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "相変わらずだね、ホシノは",
         "MessageKR": "여전하네, 호시노는",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "星野還是老樣子呢",
+        "MessageEN": "You never change, Hoshino."
     },
     {
         "MessageId": 100050490,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "まあね",
         "MessageKR": "뭐 그렇지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就是說啊",
+        "MessageEN": "Can't deny that!"
     },
     {
         "MessageId": 100050491,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "ってことで",
         "MessageKR": "그런 의미에서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然這兩件事沒什麼關聯",
+        "MessageEN": "With that being said..."
     },
     {
         "MessageId": 100050500,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "いや",
         "MessageKR": "아니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過",
+        "MessageEN": "Wait"
     },
     {
         "MessageId": 100050501,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "それとこれとは関係ないんだけど",
         "MessageKR": "이건 그것과는 별개이긴 하지만",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "看在這件事的份上",
+        "MessageEN": "This is off-topic, but..."
     },
     {
         "MessageId": 100050510,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 100050511,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "今から会えないかな？",
         "MessageKR": "언제 한 번, 시간 괜찮아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "待會能見個面嗎？",
+        "MessageEN": "You free later?"
     },
     {
         "MessageId": 100040527,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "先生\u200b",
         "MessageKR": "선생\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師\u200b",
+        "MessageEN": "Sensei\u200b"
     },
     {
         "MessageId": 100050530,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "実はおじさん、いろんなお昼寝グッズを持ってるんだよね",
         "MessageKR": "사실 아저씨에게는 그런 아이템이 더 있어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "其實大叔我還有很多這類的道具哦",
+        "MessageEN": "This old-timer actually has more stuff like that."
     },
     {
         "MessageId": 100050531,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "気にならない～？",
         "MessageKR": "궁금하지 않아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是不是很好奇呀？",
+        "MessageEN": "Doesn't that get you a little curious?"
     },
     {
         "MessageId": 100050540,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "そう言われると、気になってくるね",
         "MessageKR": "그렇게 말하니 궁금한걸",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "聽你這麼說，的確是有點好奇",
+        "MessageEN": "You've piqued my interest."
     },
     {
         "MessageId": 100050540,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "今度また遊びに行っても良い？",
         "MessageKR": "조건마다 해금되는 느낌인 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以是會隨著條件達成逐漸解鎖嗎？",
+        "MessageEN": "Do I have to unlock each item by completing certain conditions?"
     },
     {
         "MessageId": 100050550,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "でしょ？",
         "MessageKR": "그렇지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "對吧？",
+        "MessageEN": "I guess so?"
     },
     {
         "MessageId": 100050551,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "それじゃ",
         "MessageKR": "좋아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那樣也不錯呢",
+        "MessageEN": "Yeah, sounds good."
     },
     {
         "MessageId": 100050560,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "次は別の物を見せてあげるよ",
         "MessageKR": "다음에는 또 다른 걸로 보여줄게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下次再讓你看看別的吧",
+        "MessageEN": "I'll show you another one next time."
     },
     {
         "MessageId": 100050561,
@@ -279,7 +279,7 @@
         "ImagePath": "",
         "MessageJP": "楽しみにしてて～",
         "MessageKR": "기대하라고\\~.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "敬請期待～",
+        "MessageEN": "Look forward to it!"
     }
 ]

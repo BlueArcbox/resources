@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "私だけのパラダイスを見つけたよ",
         "MessageKR": "드디어 내 파라다이스를 찾았어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "終於找到我的樂園了",
+        "MessageEN": "I finally found paradise!"
     },
     {
         "MessageId": 200370190,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "誰にも邪魔されない、安息の地……",
         "MessageKR": "누구에게도 방해받지 않는 안식의 땅…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這裡就像是不會被任何人打擾的避風港……",
+        "MessageEN": "A place to rest, without a soul to bother me..."
     },
     {
         "MessageId": 200370191,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "これで、ようやく気ままに過ごせるね",
         "MessageKR": "이곳이라면 누구의 눈치도 받지 않고 쉴 수 있어……!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只要待在這裡，我就可以不用管別人的眼光，好好休息了……！",
+        "MessageEN": "I can finally relax with no hindrances to my peace!"
     },
     {
         "MessageId": 200370200,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "隠れ家でも作ったの？",
         "MessageKR": "숨어 있을 곳이라도 찾은 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你找到了什麼可以躲起來的地方嗎？",
+        "MessageEN": "Did you find a place to hide or something?"
     },
     {
         "MessageId": 200370200,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "サボり場所を見つけたんだね",
         "MessageKR": "농땡이 피울 곳을 찾은 모양이네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "恭喜你找到了適合偷懶的好地方",
+        "MessageEN": "Looks like you found a place to slack off."
     },
     {
         "MessageId": 200370210,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "先生も見にくる？",
         "MessageKR": "선생님도 구경 올래?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師也想來看看嗎？",
+        "MessageEN": "Would you like to come visit, Sensei?"
     },
     {
         "MessageId": 200370211,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "あっ、でもプールには入らないでね",
         "MessageKR": "대신 물에 들어가면 안 돼.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過你可不能下水哦",
+        "MessageEN": "But you can't go in the water."
     },
     {
         "MessageId": 200370220,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "監視対象が増えるとめんどくさいからさ",
         "MessageKR": "내가 감시해야 할 이용객이 느는 건 사양이니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不然我要監視的遊客會變多的",
+        "MessageEN": "I don't want to have another guest to oversee."
     },
     {
         "MessageId": 200370230,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "ウォーターパークなのに……？",
         "MessageKR": "워터파크에서 물에 들어가지 말라니…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "明明是水上樂園還叫別人不要下水……",
+        "MessageEN": "Telling me to not go in the water in a water park..."
     },
     {
         "MessageId": 200360237,

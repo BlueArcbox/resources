@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "監察官！",
         "MessageKR": "감찰관! 감찰관!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "監察官！監察官！",
+        "MessageEN": "Inspector! Inspector!"
     },
     {
         "MessageId": 200370020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今どこ？忙しい？",
         "MessageKR": "지금 어디 있어? 바쁜 일이라도 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你現在在哪裡？有什麼急事嗎？",
+        "MessageEN": "Where are you right now? Are you busy?"
     },
     {
         "MessageId": 200370030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "監察官……？",
         "MessageKR": "감찰관……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "監察官……？",
+        "MessageEN": "Inspector...?"
     },
     {
         "MessageId": 200370030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "のんびりしてるよ",
         "MessageKR": "아니, 한가하게 돌아다니고 있는데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒有，我正在悠哉地四處亂晃",
+        "MessageEN": "I'm just chilling right now."
     },
     {
         "MessageId": 200370040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "細かいことは良いの！",
         "MessageKR": "자, 자, 사소한 건 됐고!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "先別管那些無關緊要的小事了！",
+        "MessageEN": "Don't think about the small stuff!"
     },
     {
         "MessageId": 200370050,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "至急、パーク内のフードコートに来て",
         "MessageKR": "지금 바로 파크 내의 푸드코트로 와 줘.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "趕快到水上樂園的美食廣場來",
+        "MessageEN": "Meet me at the food court immediately, please!"
     },
     {
         "MessageId": 200370051,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "市民の安全に関わることだから！急いでね！",
         "MessageKR": "사람들의 안전과 관련된 급한 공무니까! 얼른 와 줘야 돼!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有件關係市民安全的緊急公務！趕緊過來吧！",
+        "MessageEN": "It's urgent. People's safety is at stake! Please, hurry!"
     },
     {
         "MessageId": 200370060,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "……？",
         "MessageKR": "……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……？",
+        "MessageEN": "...?"
     },
     {
         "MessageId": 200360067,

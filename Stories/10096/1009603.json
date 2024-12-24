@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "今日はウォーターパークの定休日です",
         "MessageKR": "오늘은 워터파크가 운영하지 않는 날입니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天水上樂園沒有營業",
+        "MessageEN": "The water park is closed today."
     },
     {
         "MessageId": 100960250,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "間違えないよう、お気をつけてください",
         "MessageKR": "혹시나 요일을 혼동하여 방문하지 않도록 주의해 주시기 바랍니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請您務必留意日期，以免剛好碰上公休日",
+        "MessageEN": "Please keep this in mind when planning your visits."
     },
     {
         "MessageId": 100960260,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "じゃあカンナも休みなの？",
         "MessageKR": "그럼 칸나도 쉬는 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以你今天也休息嗎，環奈？",
+        "MessageEN": "Does that mean you get to take a break, Kanna?"
     },
     {
         "MessageId": 100960270,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "いえ、私は仕事です",
         "MessageKR": "그렇지는 않습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "很遺憾，並非如此",
+        "MessageEN": "Unfortunately, no."
     },
     {
         "MessageId": 100960271,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "施設の清掃や補修がありますから",
         "MessageKR": "라이프가드들은 시설의 관리보수와 청소를 해야 하니까요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "救生員在公休日需要協助設施的清掃和維護",
+        "MessageEN": "It's part of a lifeguard's duty to clean and perform regular maintenance of the facilities on closure days."
     },
     {
         "MessageId": 100960280,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "利用客の皆さんが、安全に楽しく遊べるようにしなくてはいけませんので",
         "MessageKR": "이용객 여러분이 안전하고 즐겁게 시설을 이용할 수 있도록 최선을 다할 생각입니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "為了讓遊客們能安全且愉快地遊玩設施，我會竭盡自己的全力",
+        "MessageEN": "We'll need to do our best, so the guests can safely enjoy the park."
     },
     {
         "MessageId": 100960290,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "定休日なのに大変だね……",
         "MessageKR": "휴일이 휴일이 아니구나…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "竟然連公休日都不能休息……",
+        "MessageEN": "No such thing as a day off..."
     },
     {
         "MessageId": 100960290,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "少し頑張りすぎじゃない？",
         "MessageKR": "너무 열심히 하는 거 아냐?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "會不會有點太拚了？",
+        "MessageEN": "Aren't you working too hard?"
     },
     {
         "MessageId": 100960300,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "利用客の安全がかかっておりますし、これくらい当然です",
         "MessageKR": "이용객의 안전을 책임지는 라이프가드로서 당연한 일입니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "畢竟救生員的責任就是維護遊客的安全",
+        "MessageEN": "There's no such thing as cutting corners when it comes to safety."
     },
     {
         "MessageId": 100960310,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "もちろん、そこには先生も含まれていますから",
         "MessageKR": "또한, 그 이용객에는 선생님도 포함되어 있으니까요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "況且老師也是眾多遊客當中的一員啊",
+        "MessageEN": "Especially when one of those guests is you, Sensei."
     },
     {
         "MessageId": 100950317,

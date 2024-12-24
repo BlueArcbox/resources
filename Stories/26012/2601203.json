@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生！こんにちは、キリノです！",
         "MessageKR": "선생님! 안녕하십니까! 키리노입니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師！您好！我是桐乃！",
+        "MessageEN": "Sensei! Hello! This is Kirino!"
     },
     {
         "MessageId": 260120210,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "先生のおかげで、ライフセーバーの訓練が終了しました！",
         "MessageKR": "선생님의 도움 덕에 라이프가드 임무를 위한 훈련을 마치고, 이제 마지막 점검을 하려 합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "多虧老師的幫助，我已經順利完成救生員訓練，並且即將進行最終驗收",
+        "MessageEN": "Thank you for helping me finish my lifeguard training! I just need to do one, final eval!"
     },
     {
         "MessageId": 260120220,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "おめでとう、キリノ",
         "MessageKR": "축하해, 키리노.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "恭喜你，桐乃",
+        "MessageEN": "Congratulations, Kirino."
     },
     {
         "MessageId": 260120230,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "これも先生が協力してくださったおかげです！",
         "MessageKR": "선생님께서 물심양면으로 도와주신 덕분입니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這全都要感謝老師各方面的大力支持！",
+        "MessageEN": "I couldn't have done it without you!"
     },
     {
         "MessageId": 260120231,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "最後に訓練の復習をしようと思っているのですが、また付き合っていただけないでしょうか？",
         "MessageKR": "그런 뜻에서 훈련의 마무리에 참관을 요청드릴까 하는데, 혹시 괜찮으신가요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "為此，本官想邀請您來見證訓練最後的環節，請問您是否方便呢？",
+        "MessageEN": "That being said, I was hoping you could oversee my training, one last time?"
     },
     {
         "MessageId": 260120240,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "もちろん行くよ",
         "MessageKR": "물론이지. 꼭 갈게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然好，我一定會去的",
+        "MessageEN": "Of course. I'll be there."
     },
     {
         "MessageId": 260120250,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとうございます！",
         "MessageKR": "감사합니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "非常感謝！",
+        "MessageEN": "Thank you!"
     },
     {
         "MessageId": 260120251,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "今度こそ、成長した姿をお見せしましょう！",
         "MessageKR": "마침내 유종의 미를 거둘 수 있겠네요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "太好了，這樣訓練肯定能完美落幕！",
+        "MessageEN": "I'm going to finish strong!"
     },
     {
         "MessageId": 260110257,

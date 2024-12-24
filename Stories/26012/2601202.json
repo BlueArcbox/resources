@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、こんにちは",
         "MessageKR": "선생님, 안녕하세요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "您好，老師",
+        "MessageEN": "Sensei! Hello!"
     },
     {
         "MessageId": 260120090,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "あれから考えてみましたが……",
         "MessageKR": "저번 연습 이후 오랫동안 생각해 본 바…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "在上次的練習之後，我思考了很久……",
+        "MessageEN": "I've done quite a bit of self-reflection after our last practice session..."
     },
     {
         "MessageId": 260120091,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "やはり、今から訓練をしても間に合いそうもありません",
         "MessageKR": "역시 빠른 시간 내에 구조 영법을 배우는 건 힘들 것 같습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我認為要在短時間內，學會水上救援的游法恐怕沒那麼簡單",
+        "MessageEN": "And, in the end, I guess it was a tall order to try to learn a rescue stroke in such a short period of time!"
     },
     {
         "MessageId": 260120100,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "1日2日じゃ難しいよね……",
         "MessageKR": "으응, 아무래도 익숙지 않으니까…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔嗯，既然不擅長救援……",
+        "MessageEN": "Definitely, since you're not used to it."
     },
     {
         "MessageId": 260120110,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "なので本官は、応急処置に専念することにしました！",
         "MessageKR": "그러니 본관은 응급처치에 집중하기로 했습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "本官決定把重心專注在急救方面！",
+        "MessageEN": "So, instead, I'm going to focus on first aid!"
     },
     {
         "MessageId": 260120111,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "落水者の生存率を少しでも上げるために！",
         "MessageKR": "누군가 익수자를 물에서 구조하면, 그때 본관이 정신을 차릴 수 있도록 조치하는 거죠!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這樣只要有人把溺水的遊客救上岸，本官就可以對其實施急救，協助對方盡快甦醒！",
+        "MessageEN": "That way, once someone rescues a drowning person, I can assist by treating them and waking them back up!"
     },
     {
         "MessageId": 260120120,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "方針を変えたんだね",
         "MessageKR": "방향을 바꿨구나?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所謂山不轉路轉？",
+        "MessageEN": "A change in approach?"
     },
     {
         "MessageId": 260120120,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "たしかに、それも大事だよね",
         "MessageKR": "맞아, 그것도 중요한 일이지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "也對，畢竟急救也是很重要的",
+        "MessageEN": "That's an important part of the process."
     },
     {
         "MessageId": 260120130,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "はい！先生がよろしければ、今回も訓練に付き合っていただいても良いでしょうか？",
         "MessageKR": "네! 선생님께서 괜찮으시다면, 이번에도 훈련을 참관해 주셨으면 합니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒錯！所以如果老師方便的話，希望您這次也能協助本官的訓練！",
+        "MessageEN": "Exactly! So, if you don't mind, please oversee my training again, Sensei!"
     },
     {
         "MessageId": 260120131,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "前回のような失敗はしないので、ご安心ください！",
         "MessageKR": "저번과 같은 실수는 하지 않을 테니 안심하셔도 좋습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請您儘管放心，這次絕不會犯跟上次一樣的錯誤！",
+        "MessageEN": "I've learned from my previous mistakes, so please rest assured!"
     },
     {
         "MessageId": 260110147,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "……先生、もしかしてマニュアルを読みましたか？",
         "MessageKR": "선생님, 혹시 매뉴얼을 읽으셨나요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，您看過手冊了嗎？",
+        "MessageEN": "Did you read the manual, Sensei?"
     },
     {
         "MessageId": 260120150,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "うん、読んだよ",
         "MessageKR": "응, 읽었어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，我看過了",
+        "MessageEN": "Yes, I read it."
     },
     {
         "MessageId": 260120160,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "もし私が溺れたら、キリノは助けてくれるんだよね？",
         "MessageKR": "훈련 때는 하지 않았지만, 실제로 내가 빠지면 해줄 거지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然訓練時沒有試到，但真的溺水的時候，你會幫我做的吧？",
+        "MessageEN": "And you skipped that one part in training, but you'd do it if I were actually drowning, right?"
     },
     {
         "MessageId": 260120170,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "も",
         "MessageKR": "무",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那",
+        "MessageEN": "O-"
     },
     {
         "MessageId": 260120171,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "もちろんです！",
         "MessageKR": "물론입니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那當然！",
+        "MessageEN": "Of course!"
     },
     {
         "MessageId": 260120172,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "本官は、公私の区別をつけられる警官なので！",
         "MessageKR": "본관은 공과 사를 확실히 구분할 줄 아는 경관이니까요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "本官可是一名公私分明的警官！",
+        "MessageEN": "I'm an officer, after all! A professional!"
     },
     {
         "MessageId": 260120180,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "AEDのことを言ってるんだけど……",
         "MessageKR": "제세동기를 말한 건데?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我指的是心臟除顫器哦？",
+        "MessageEN": "I was talking about the AED though?"
     },
     {
         "MessageId": 260120190,
@@ -243,7 +243,7 @@
         "ImagePath": "",
         "MessageJP": "ほ、本官をからかわないでください！",
         "MessageKR": "보, 본관을 놀리지 말아 주세요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請，請您不要調戲本官！",
+        "MessageEN": "P-Please don't tease me!"
     }
 ]

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "今日の任務は、パークのパトロールだって",
         "MessageKR": "오늘 임무는 마음에 들어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我很喜歡今天的任務",
+        "MessageEN": "My duties today are the best."
     },
     {
         "MessageId": 200370080,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "結構楽しそうじゃない？",
         "MessageKR": "파크 전체를 순찰하는 임무거든.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為我今天負責巡邏整座樂園",
+        "MessageEN": "I'm on patrol duty for the entire park."
     },
     {
         "MessageId": 200370090,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "フブキって仕事が嫌いだったよね……？",
         "MessageKR": "후부키는 움직이는 거 싫어하지 않았어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可是你不是討厭跑來跑去的嗎，吹雪？",
+        "MessageEN": "Don't you hate moving around, Fubuki?"
     },
     {
         "MessageId": 200370100,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "何を言ってるのさ、先生",
         "MessageKR": "그럴 리가 있나? 순찰이야말로 라이프가드 임무의 꽃인걸.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼會呢？巡邏可是救生員最重要的任務耶",
+        "MessageEN": "What do you mean? Patrols are the very cornerstone of a lifeguard's responsibilities."
     },
     {
         "MessageId": 200370101,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "人々の安全を守るためなんだから、喜んでやるに決まってるでしょ",
         "MessageKR": "사람들의 안전을 책임지는 라이프가드로서 당연히 해야 할 일이지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "守護遊客的安全，是身為一名救生員應該做的事",
+        "MessageEN": "It's only natural I would be excited, seeing as I'm a lifeguard ensuring people's safety."
     },
     {
         "MessageId": 200370110,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "何か怪しいような……",
         "MessageKR": "뭔가 수상한데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總覺得有點可疑",
+        "MessageEN": "Something's fishy."
     },
     {
         "MessageId": 200370120,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "大丈夫大丈夫、真面目にやるってば",
         "MessageKR": "어허, 그게 무슨 말이야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唉唷，怎麼說那種話",
+        "MessageEN": "Hey! Don't be mean!"
     },
     {
         "MessageId": 200370121,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "パークをぐるぐる回りながらね",
         "MessageKR": "파크를 뱅글뱅글 돌면서 성실하게 순찰할 거라고.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我一定會認真把樂園一圈圈繞個遍的",
+        "MessageEN": "I'll be diligently patrolling the park, going 'round and 'round."
     },
     {
         "MessageId": 200370130,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "ぐるぐる……？",
         "MessageKR": "뱅글뱅글……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "一圈圈……？",
+        "MessageEN": "'Round...and 'round?"
     },
     {
         "MessageId": 200360147,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "ひどいよ、先生……",
         "MessageKR": "너무해, 선생…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真是太過分了，老師……",
+        "MessageEN": "You're so mean, Sensei..."
     },
     {
         "MessageId": 200370141,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "本当に歩いてパトロールさせるだなんて",
         "MessageKR": "정말로 걸어서 순찰하게 하다니.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "居然真的要我用走的巡邏",
+        "MessageEN": "Making me patrol...on foot!"
     },
     {
         "MessageId": 200370150,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "大げさだなあ",
         "MessageKR": "원래 그런 임무잖아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "本來不就該這樣嗎？",
+        "MessageEN": "That's what you were supposed to do in the first place..."
     },
     {
         "MessageId": 200370150,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "元々そういう仕事でしょ？",
         "MessageKR": "누가 보면 하면 안 되는 일이라도 시킨 줄 알겠다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "別說得好像要求很不合理一樣！",
+        "MessageEN": "You're making it sound like I made you do extra work!"
     },
     {
         "MessageId": 200370160,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "夏の日差しは大敵なのに！",
         "MessageKR": "연약한 학생에게 햇빛은 독이라구, 독.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "對柔弱的學生來說，陽光明明就跟毒藥沒兩樣",
+        "MessageEN": "Do you know what sunlight can do to a delicate student like me?"
     },
     {
         "MessageId": 200370161,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "ま、先生が奢ってくれたアイス、美味しかったし",
         "MessageKR": "뭐, 그 뒤에 사 준 아이스크림은 맛있었지만 말이야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過老師後來請我吃的冰淇淋倒是挺不錯的",
+        "MessageEN": "I guess the delicious ice cream you bought me afterwards makes up for it."
     },
     {
         "MessageId": 200370170,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "先生と一緒だったら",
         "MessageKR": "…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……",
+        "MessageEN": "..."
     },
     {
         "MessageId": 200370171,
@@ -231,7 +231,7 @@
         "ImagePath": "",
         "MessageJP": "たまには真面目にパトロールするのも悪くないかもね",
         "MessageKR": "응, 선생과 함께라면 가끔씩은 성실하게 순찰하는 것도 나쁘지 않을지도 모르겠네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，如果是跟老師一起的話，或許偶爾老老實實地巡邏也不錯",
+        "MessageEN": "Yeah... I suppose I can withstand a diligent patrol from time to time, if it's with you, Sensei."
     }
 ]

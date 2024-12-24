@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "こんにちは、先生",
         "MessageKR": "안녕하십니까, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "您好，老師",
+        "MessageEN": "Hey, Sensei."
     },
     {
         "MessageId": 100960190,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "パークは楽しめていますか？",
         "MessageKR": "파크는 잘 즐기고 계신지 모르겠군요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "在水上樂園玩得還開心嗎？",
+        "MessageEN": "Hope you're enjoying the park."
     },
     {
         "MessageId": 100960200,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "うん、楽しんでるよ",
         "MessageKR": "응, 들어오자마자 물놀이 중이야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，我才剛入場就迫不及待地進到水裡了",
+        "MessageEN": "Yes. I dove into the water as soon as I got here."
     },
     {
         "MessageId": 100960210,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "ライフセーバーとして、嬉しい限りです",
         "MessageKR": "즐겨 주시는 것 같아 라이프가드로서 기쁘군요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "聽到您玩得這麼開心，身為救生員的我也感到與有榮焉呢",
+        "MessageEN": "As a lifeguard, I'm glad to hear that."
     },
     {
         "MessageId": 100960211,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "あの、もしお時間があれば、ひとつお願いをしても良いでしょうか？",
         "MessageKR": "저, 혹시 실례가 되지 않는다면, 한 가지 부탁을 드리고 싶습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個，假如您方便的話，我有件事想拜託您",
+        "MessageEN": "That being said, could I ask you for a favor?"
     },
     {
         "MessageId": 100960220,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "どんなお願い？",
         "MessageKR": "무슨 부탁인데?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是什麼事呢？",
+        "MessageEN": "What's that?"
     },
     {
         "MessageId": 100960230,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "屋外施設の「メガスライド」まで来てもらえませんか？",
         "MessageKR": "실외 시설에 있는 ‘메가 슬라이드’로 와 주시겠습니까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "您可以到一個叫「巨無霸滑水道」的戶外設施這邊來嗎？",
+        "MessageEN": "The \"Mega Slide\", located at the outside facility. Could you meet me there?"
     },
     {
         "MessageId": 100960231,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "試運転に付き合っていただきたいのです",
         "MessageKR": "운행 시작 전에 시험 운행을 부탁드리고 싶습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "在設施開放前，我想麻煩您幫我測試一下",
+        "MessageEN": "It needs test runs before it begins officially operating."
     },
     {
         "MessageId": 100950237,

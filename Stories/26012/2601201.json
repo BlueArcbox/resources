@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "こんにちは、先生",
         "MessageKR": "안녕하세요, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "您好，老師",
+        "MessageEN": "Hello, Sensei."
     },
     {
         "MessageId": 260120020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "どうか、本官を助けていただけませんか……？",
         "MessageKR": "혹시 본관에게 도움을 주실 수 있으신가요……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請問您現在能否協助本官呢……？",
+        "MessageEN": "Could I, by chance, request your assistance?"
     },
     {
         "MessageId": 260120030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "もちろんだよ",
         "MessageKR": "물론이지. 어떤 도움이 필요한데?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然可以，我該怎麼幫你呢？",
+        "MessageEN": "Of course. What do you need?"
     },
     {
         "MessageId": 260120040,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "実は本官、この度ライフセーバーの任務を命じられました",
         "MessageKR": "본관, 이번에 라이프가드 임무를 맡게 되었습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "本官最近接下了一份救生員的任務",
+        "MessageEN": "I took on the responsibility of being a lifeguard."
     },
     {
         "MessageId": 260120041,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "市民の安全を守る警官として、光栄なのですが……",
         "MessageKR": "시민들의 안전을 지키는 경관으로서 더할 나위 없는 영광입니다만…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "對於發誓守護市民安全的警官而言，這可說是至高無上的榮耀……",
+        "MessageEN": "As a police officer who lives to protect our citizens, I can't think of a higher honor!"
     },
     {
         "MessageId": 260120050,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "その……",
         "MessageKR": "그게…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "然而……",
+        "MessageEN": "But..."
     },
     {
         "MessageId": 260120051,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "水上で人命救助を行なった経験がなくてですね",
         "MessageKR": "평범한 수영이라면 가능하지만, 수상 인명 구조를 위한 영법이 따로 있다고 합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果只是游泳倒不成問題，但我聽說救援溺水者時的游法似乎不太一樣",
+        "MessageEN": "I know the basic strokes, but I heard there's a special one for surface water rescue."
     },
     {
         "MessageId": 260120052,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "特別な訓練を積む必要があると、昨日になって知りました……",
         "MessageKR": "게다가 이 사실을 어제 알게 됐어요…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "更糟的是我昨天才知道這件事……",
+        "MessageEN": "And I just learned of its existence, only yesterday!"
     },
     {
         "MessageId": 260120060,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "それは大変だね……",
         "MessageKR": "그러면 큰일이잖아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那不就糟了嗎？",
+        "MessageEN": "Isn't that a big problem?"
     },
     {
         "MessageId": 260120060,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "練習、間に合いそう？",
         "MessageKR": "지금이라도 연습해야 하는 거 아냐?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要不要趁現在趕快練習一下？",
+        "MessageEN": "Shouldn't you start practicing now?"
     },
     {
         "MessageId": 260120070,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "そこでご相談がありまして……",
         "MessageKR": "혹시 선생님께서 수영 연습을 도와주실 수 있으신가요?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以老師，是否能請您協助本官進行游泳訓練呢！？",
+        "MessageEN": "That's why... Can you help me with swimming practice, Sensei?!"
     },
     {
         "MessageId": 260120071,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "訓練に付き合っていただきたいのです！",
         "MessageKR": "이대로라면 본관, 임무 부적합 판정을 받을지도 모릅니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "再這樣下去，本官說不定會被判定不適任救生員工作的！",
+        "MessageEN": "At this rate, I may be deemed incompetent for duty!"
     },
     {
         "MessageId": 260110077,
