@@ -10,7 +10,7 @@
         },
         "Avatar": [
             "/gamekee/w_252/h_204/829/43637/2022/6/2/909433.png",
-            "/fandom/e/e0/Arona_Icon.png"
+            "/api/Avatars/Fandom/Arona_Icon.png"
         ],
         "Bio": {
             "zh": "吃不下这么多了……",
@@ -36,7 +36,7 @@
             "kr": "A.R.O.N.A"
         },
         "Avatar": [
-            "/fandom/2/24/A.R.O.N.A_Icon.png"
+            "/api/Avatars/Fandom/A.R.O.N.A_Icon.png"
         ],
         "Bio": {
             "zh": "前辈，该起床了",
@@ -62,7 +62,7 @@
             "kr": "소라"
         },
         "Avatar": [
-            "/fandom/b/b4/Sora_Icon.png"
+            "/api/Avatars/Fandom/Sora_Icon.png"
         ],
         "Bio": {
             "zh": "欢、欢迎光临！",
@@ -88,7 +88,7 @@
             "kr": "총학생회장"
         },
         "Avatar": [
-            "/fandom/f/f9/GSC_President_Icon.png"
+            "/api/Avatars/Fandom/GSC_President_Icon.png"
         ],
         "Bio": {
             "zh": "找到引导我们走向新现实的选择",
@@ -112,8 +112,8 @@
             "kr": "린"
         },
         "Avatar": [
-            "/fandom/4/43/Rin_Icon.png",
-            "/fandom/0/09/Rin_Ark_Uniform_Icon.png"
+            "/api/Avatars/Fandom/Rin_Icon.png",
+            "/api/Avatars/Fandom/Rin_Ark_Uniform_Icon.png"
         ],
         "Bio": {
             "zh": "从现在开始，全靠您了，老师",
@@ -137,8 +137,8 @@
             "kr": "모모카"
         },
         "Avatar": [
-            "/fandom/3/3c/Momoka_Icon.png",
-            "/fandom/5/5f/Momoka_Ark_Uniform_Icon.png"
+            "/api/Avatars/Fandom/Momoka_Icon.png",
+            "/api/Avatars/Fandom/Momoka_Ark_Uniform_Icon.png"
         ],
         "Bio": {
             "zh": "我的外卖到了，一会儿再联系你！",
@@ -163,7 +163,7 @@
             "kr": "카야"
         },
         "Avatar": [
-            "/fandom/b/bd/Kaya_Icon.png"
+            "/api/Avatars/Fandom/Kaya_Icon.png"
         ],
         "Bio": {
             "zh": "谁在乎规则，对吧！?",
@@ -189,8 +189,8 @@
             "kr": "아유무"
         },
         "Avatar": [
-            "/fandom/b/b2/Ayumu_Icon.png",
-            "/fandom/3/32/Ayumu_Ark_Uniform_Icon.png"
+            "/api/Avatars/Fandom/Ayumu_Icon.png",
+            "/api/Avatars/Fandom/Ayumu_Ark_Uniform_Icon.png"
         ],
         "Bio": {
             "zh": "我希望能够像老师一样工作……",
@@ -214,7 +214,7 @@
             "kr": "아오이"
         },
         "Avatar": [
-            "/fandom/5/56/Aoi_Icon.png"
+            "/api/Avatars/Fandom/Aoi_Icon.png"
         ],
         "Bio": {
             "zh": "但你不是她，凛。永远不是",
@@ -237,7 +237,7 @@
             "kr": "하이네"
         },
         "Avatar": [
-            "/fandom/b/b7/Haine_Icon.png"
+            "/api/Avatars/Fandom/Haine_Icon.png"
         ],
         "Bio": {
             "zh": "那只狐狸真是冷酷无情！",
@@ -261,7 +261,7 @@
             "kr": "스모모"
         },
         "Avatar": [
-            "/fandom/4/4a/Sumomo_Icon.png"
+            "/api/Avatars/Fandom/Sumomo_Icon.png"
         ],
         "Bio": {
             "zh": "哈啊~… 我困得吃不下饭团了~",
@@ -284,8 +284,8 @@
         },
         "Avatar": [
             "/api/Avatars/Yume_2.webp",
-            "/fandom/9/97/Hoshino_Past_2.png",
-            "/fandom/a/a5/Yume_Icon.png"
+            "/api/Avatars/Fandom/Hoshino_Past_2.png",
+            "/api/Avatars/Fandom/Yume_Icon.png"
         ],
         "Bio": {
             "zh": "…与你共度时光感觉像是一个奇迹",
@@ -308,7 +308,7 @@
             "kr": "호시노"
         },
         "Avatar": [
-            "/fandom/9/98/Hoshino_Terror_Icon.png"
+            "/api/Avatars/Fandom/Hoshino_Terror_Icon.png"
         ],
         "Bio": {},
         "Nickname": [
@@ -326,7 +326,7 @@
             "kr": "에리카"
         },
         "Avatar": [
-            "/fandom/d/d3/Erika_Icon.png"
+            "/api/Avatars/Fandom/Erika_Icon.png"
         ],
         "Bio": {},
         "Nickname": [
@@ -346,7 +346,7 @@
             "kr": "리오"
         },
         "Avatar": [
-            "/fandom/c/ca/Rio_Icon.png"
+            "/api/Avatars/Fandom/Rio_Icon.png"
         ],
         "Bio": {
             "zh": "我不是在说喜欢或不喜欢…只是事实",
@@ -390,7 +390,7 @@
             "kr": "세이아"
         },
         "Avatar": [
-            "/fandom/1/10/Seia_Icon.png"
+            "/api/Avatars/Fandom/Seia_Icon.png"
         ],
         "Bio": {
             "zh": "选择前方的道路",
@@ -413,7 +413,7 @@
             "kr": "니야"
         },
         "Avatar": [
-            "/fandom/c/c5/Niya_Icon.png"
+            "/api/Avatars/Fandom/Niya_Icon.png"
         ],
         "Bio": {},
         "Nickname": [
@@ -431,7 +431,7 @@
             "en": "Dr. Niyaniya"
         },
         "Avatar": [
-            "/gamekv2/w_550/h_550/829/399789/2024/6/23/195633.png"
+            "/gamekee/w_550/h_550/829/399789/2024/6/23/195633.png"
         ],
         "Bio": {},
         "Nickname": [
@@ -451,7 +451,7 @@
             "kr": "나구사"
         },
         "Avatar": [
-            "/fandom/c/ce/Nagusa_Icon.png"
+            "/api/Avatars/Fandom/Nagusa_Icon.png"
         ],
         "Bio": {
             "zh": "cosplayer、为镜头到天涯海角",
@@ -474,7 +474,7 @@
             "kr": "쿠즈노하"
         },
         "Avatar": [
-            "/fandom/5/57/Kuzunoha_Icon.png"
+            "/api/Avatars/Fandom/Kuzunoha_Icon.png"
         ],
         "Bio": {
             "zh": "但你的运气绝非寻常。因为你遇见了我",
@@ -496,7 +496,7 @@
             "en": "Kokuriko"
         },
         "Avatar": [
-            "/fandom/8/8a/Kokuriko_Icon.png"
+            "/api/Avatars/Fandom/Kokuriko_Icon.png"
         ],
         "Bio": {},
         "Nickname": [
@@ -513,7 +513,7 @@
             "en": "Arata"
         },
         "Avatar": [
-            "/fandom/f/f2/Arata_Icon.png"
+            "/api/Avatars/Fandom/Arata_Icon.png"
         ],
         "Bio": {},
         "Nickname": [
@@ -530,7 +530,7 @@
             "en": "Shuro"
         },
         "Avatar": [
-            "/fandom/c/ca/Shuro_Icon.png"
+            "/api/Avatars/Fandom/Shuro_Icon.png"
         ],
         "Bio": {
             "en": "Excellent! That expression... it truly is irresistible.",
@@ -554,7 +554,7 @@
             "kr": "카이"
         },
         "Avatar": [
-            "/fandom/7/79/Kai_Icon.png"
+            "/api/Avatars/Fandom/Kai_Icon.png"
         ],
         "Bio": {
             "zh": "期待我们相遇会发生怎样的化学反应",
@@ -577,9 +577,9 @@
             "en": "kaguya"
         },
         "Avatar": [
-            "/fandom/c/c1/Kaguya_Icon.png",
-            "/fandom/1/18/Kaguya_Icon_Var_2.png",
-            "/fandom/b/b8/Kaguya_Masked_Icon.png"
+            "/api/Avatars/Fandom/Kaguya_Icon.png",
+            "/api/Avatars/Fandom/Kaguya_Icon_Var_2.png",
+            "/api/Avatars/Fandom/Kaguya_Masked_Icon.png"
         ],
         "Bio": {},
         "Nickname": ["Kaguya"],
@@ -595,7 +595,7 @@
             "kr": "타카네"
         },
         "Avatar": [
-            "/fandom/b/b8/Takane_Icon.png"
+            "/api/Avatars/Fandom/Takane_Icon.png"
         ],
         "Bio": {
             "en": "I'm not bragging, but... I'm also one of the critics,...",
@@ -618,7 +618,7 @@
             "kr": "야쿠모"
         },
         "Avatar": [
-            "/fandom/7/75/Yakumo_Icon.png"
+            "/api/Avatars/Fandom/Yakumo_Icon.png"
         ],
         "Bio": {},
         "Nickname": [
@@ -636,7 +636,7 @@
             "kr": "유키노"
         },
         "Avatar": [
-            "/fandom/1/1c/Yukino_Icon.png"
+            "/api/Avatars/Fandom/Yukino_Icon.png"
         ],
         "Bio": {
             "zh": "武器不能决定对错",
@@ -659,7 +659,7 @@
             "kr": "니코"
         },
         "Avatar": [
-            "/fandom/c/cd/Niko_Icon.png"
+            "/api/Avatars/Fandom/Niko_Icon.png"
         ],
         "Bio": {
             "zh": "有好吃的稻荷寿司哦，这里~",
@@ -683,7 +683,7 @@
             "kr": "쿠루미"
         },
         "Avatar": [
-            "/fandom/5/51/Kurumi_Icon.png"
+            "/api/Avatars/Fandom/Kurumi_Icon.png"
         ],
         "Bio": {
             "zh": "不要稻荷寿司！要鲑鱼子寿司！",
@@ -706,7 +706,7 @@
             "kr": "오토기"
         },
         "Avatar": [
-            "/fandom/6/66/Otogi_Icon.png"
+            "/api/Avatars/Fandom/Otogi_Icon.png"
         ],
         "Bio": {
             "zh": "这就像可爱的狙击手因为敌人太多而犯的错",
@@ -750,7 +750,7 @@
             "kr": "마이"
         },
         "Avatar": [
-            "/fandom/1/17/Mai_Icon.png"
+            "/api/Avatars/Fandom/Mai_Icon.png"
         ],
         "Bio": {
             "zh": "鸡窝托斯月刊只坚持事实！",
@@ -774,7 +774,7 @@
             "kr": "시논"
         },
         "Avatar": [
-            "/fandom/6/66/Shinon_Icon.png"
+            "/api/Avatars/Fandom/Shinon_Icon.png"
         ],
         "Bio": {
             "zh": "克罗诺斯学园新闻部的偶像记者，诗乃！",
@@ -798,7 +798,7 @@
             "kr": "아키라"
         },
         "Avatar": [
-            "/fandom/8/8e/Akira_Icon.png"
+            "/api/Avatars/Fandom/Akira_Icon.png"
         ],
         "Bio": {
             "en": "Hidden myself behind a mask...",
@@ -820,7 +820,7 @@
             "en": "Akemi"
         },
         "Avatar": [
-            "/gamekv2/w_550/h_550/829/399789/2024/6/23/431433.png"
+            "/gamekee/w_550/h_550/829/399789/2024/6/23/431433.png"
         ],
         "Bio": {},
         "Nickname": [
@@ -837,7 +837,7 @@
             "en": "Hikari"
         },
         "Avatar": [
-            "/fandom/a/a8/Hikari_Icon.png",
+            "/api/Avatars/Fandom/Hikari_Icon.png",
             "/gamekee/w_550/h_550/829/43637/2024/3/11/529345.png"
         ],
         "Bio": {
@@ -862,7 +862,7 @@
             "en": "Nozomi"
         },
         "Avatar": [
-            "/fandom/b/b3/Nozomi_Icon.png",
+            "/api/Avatars/Fandom/Nozomi_Icon.png",
             "/gamekee/w_550/h_550/829/43637/2024/3/11/736958.png"
         ],
         "Bio": {
@@ -919,8 +919,8 @@
             "en": "Beatrice"
         },
         "Avatar": [
-            "/fandom/7/7a/Beatrice_Icon.png",
-            "/fandom/8/8c/Beatrice_Ascended_Icon.png"
+            "/api/Avatars/Fandom/Beatrice_Icon.png",
+            "/api/Avatars/Fandom/Beatrice_Ascended_Icon.png"
         ],
         "Bio": {
             "zh": "贝阿朵莉切，所有朝圣者的幻影",
@@ -941,8 +941,8 @@
             "en": "Kurofuku"
         },
         "Avatar": [
-            "/fandom/3/39/Black_Suit_Icon.png",
-            "/fandom/2/2b/Black_Suit_Icon_2.png"
+            "/api/Avatars/Fandom/Black_Suit_Icon.png",
+            "/api/Avatars/Fandom/Black_Suit_Icon_2.png"
         ],
         "Bio": {
             "zh": "观察者·探索者·研究者",
@@ -964,8 +964,8 @@
             "en": "Golconde&Decalcomanie"
         },
         "Avatar": [
-            "/fandom/a/a1/Golconde_Icon.png",
-            "/fandom/f/f0/Decalcomanie_Icon.png"
+            "/api/Avatars/Fandom/Golconde_Icon.png",
+            "/api/Avatars/Fandom/Decalcomanie_Icon.png"
         ],
         "Bio": {
             "zh": "我很期待看到你会从中读出什么",
@@ -986,7 +986,7 @@
             "en": "Francis"
         },
         "Avatar": [
-            "/fandom/9/94/Francis_Icon.png"
+            "/api/Avatars/Fandom/Francis_Icon.png"
         ],
         "Bio": {},
         "Nickname": [
@@ -1002,8 +1002,8 @@
             "en": "Maestro"
         },
         "Avatar": [
-            "/fandom/2/2a/Maestro_Icon.png",
-            "/fandom/8/80/Maestro_Icon_2.png"
+            "/api/Avatars/Fandom/Maestro_Icon.png",
+            "/api/Avatars/Fandom/Maestro_Icon_2.png"
         ],
         "Bio": {
             "zh": "现在，老师。请准备鼓掌",
@@ -1025,7 +1025,7 @@
             "kr": "프레나파테스"
         },
         "Avatar": [
-            "/fandom/0/08/Phrenapates_Icon.png"
+            "/api/Avatars/Fandom/Phrenapates_Icon.png"
         ],
         "Bio": {
             "zh": "请…照顾好学生",
@@ -1068,8 +1068,8 @@
             "kr": "라브"
         },
         "Avatar": [
-            "/fandom/1/1a/Rabu_Icon.png",
-            "/fandom/a/a9/Rabu_Swimsuit_Icon.png"
+            "/api/Avatars/Fandom/Rabu_Icon.png",
+            "/api/Avatars/Fandom/Rabu_Swimsuit_Icon.png"
         ],
         "Bio": {
             "zh": "毕竟我是兰舞，钢盔团的领队！",
@@ -1253,9 +1253,9 @@
             "kr": "카이저 PMC"
         },
         "Avatar": [
-            "/fandom/5/5f/Kaiser_PMC_Director_Icon.png",
-            "/fandom/1/18/Kaiser_PMC_General_Icon.png",
-            "/fandom/d/de/Kaiser_PMC_President_Icon.png"
+            "/api/Avatars/Fandom/Kaiser_PMC_Director_Icon.png",
+            "/api/Avatars/Fandom/Kaiser_PMC_General_Icon.png",
+            "/api/Avatars/Fandom/Kaiser_PMC_President_Icon.png"
         ],
         "Bio": {},
         "Nickname": [
@@ -1271,7 +1271,7 @@
             "en": "Ein"
         },
         "Avatar": [
-            "/fandom/e/ee/Ein_Icon.png"
+            "/api/Avatars/Fandom/Ein_Icon.png"
         ],
         "Bio": {},
         "Nickname": [
@@ -1288,7 +1288,7 @@
             "en": "Ohr"
         },
         "Avatar": [
-            "/fandom/9/90/Ohr_Icon.png"
+            "/api/Avatars/Fandom/Ohr_Icon.png"
         ],
         "Bio": {},
         "Nickname": [
@@ -1305,7 +1305,7 @@
             "en": "Sof"
         },
         "Avatar": [
-            "/fandom/b/b8/Sof_Icon.png"
+            "/api/Avatars/Fandom/Sof_Icon.png"
         ],
         "Bio": {},
         "Nickname": [

@@ -2,8 +2,7 @@
     {
         "Id": 10000,
         "Avatar": [
-            "/fandom/d/de/Aru_Icon.png",
-            "/schale/student/lobby/10000.webp"
+            "/api/Avatars/Fandom/Aru_Icon.png"
         ],
         "Bio": {
             "zh": "什么都能解决哦！",
@@ -25,7 +24,7 @@
     {
         "Id": 10001,
         "Avatar": [
-            "/fandom/e/e3/Eimi_Icon.png"
+            "/api/Avatars/Fandom/Eimi_Icon.png"
         ],
         "Bio": {
             "zh": "在此输入状态信息",
@@ -44,7 +43,7 @@
     {
         "Id": 10002,
         "Avatar": [
-            "/fandom/e/e7/Haruna_Icon.png"
+            "/api/Avatars/Fandom/Haruna_Icon.png"
         ],
         "Bio": {
             "zh": "EAT OR DIE",
@@ -64,8 +63,8 @@
     {
         "Id": 10003,
         "Avatar": [
-            "/fandom/4/4c/Hifumi_Icon.png",
-            "/fandom/2/29/Hifumi_Robber_Icon.png"
+            "/api/Avatars/Fandom/Hifumi_Icon.png",
+            "/api/Avatars/Fandom/Hifumi_Robber_Icon.png"
         ],
         "Bio": {
             "zh": "有人要一起去佩洛洛庆典吗？",
@@ -86,8 +85,8 @@
     {
         "Id": 10004,
         "Avatar": [
-            "/fandom/a/a0/Hina_Icon.png",
-            "/fandom/b/bf/Hina_Nightwear_Icon.png"
+            "/api/Avatars/Fandom/Hina_Icon.png",
+            "/api/Avatars/Fandom/Hina_Nightwear_Icon.png"
         ],
         "Bio": {
             "zh": "",
@@ -107,11 +106,11 @@
     {
         "Id": 10005,
         "Avatar": [
-            "/kivo/students/小鸟游 星野/昔日/avatar.png",
+            "/api/Avatars/Kivo/小鸟游 星野_昔日.png",
             "/api/Avatars/Hoshino.webp",
-            "/fandom/d/de/Hoshino_Icon.png",
-            "/fandom/8/8e/Hoshino_Robber_Icon.png",
-            "/gamekee/w_557/h_562/829/43637/2024/3/11/147007.png"
+            "/api/Avatars/Fandom/Hoshino_Icon.png",
+            "/api/Avatars/Fandom/Hoshino_Robber_Icon.png",
+            "/api/Avatars/Gamekee/147007.png"
         ],
         "Bio": {
             "zh": "午睡中 别吵醒我",
@@ -129,7 +128,7 @@
     {
         "Id": 10006,
         "Avatar": [
-            "/fandom/1/16/Iori_Icon.png"
+            "/api/Avatars/Fandom/Iori_Icon.png"
         ],
         "Bio": {
             "zh": "看到可疑的人请立刻联络",
@@ -146,10 +145,10 @@
     {
         "Id": 10007,
         "Avatar": [
-            "/kivo/students/小涂 真纪/露营/avatar.png",
-            "/kivo/students/小涂 真纪/睡衣/maki.png",
-            "/fandom/e/e9/Maki_Icon.png",
-            "/fandom/e/ec/Maki_Camp_Icon.png"
+            "/api/Avatars/Kivo/小涂 真纪_露营.png",
+            "/api/Avatars/Kivo/小涂 真纪_睡衣.png",
+            "/api/Avatars/Fandom/Maki_Icon.png",
+            "/api/Avatars/Fandom/Maki_Camp_Icon.png"
         ],
         "Bio": {
             "zh": "最爱街头涂鸦！",
@@ -170,7 +169,7 @@
         "Id": 10008,
         "Name": "妮禄",
         "Avatar": [
-            "/fandom/0/0f/Neru_Icon.png"
+            "/api/Avatars/Fandom/Neru_Icon.png"
         ],
         "Bio": {
             "zh": "啊啊！？",
@@ -190,8 +189,8 @@
         "Id": 10009,
         "Avatar": [
             "/api/Avatars/Izumi_New_Year.webp",
-            "/fandom/0/03/Izumi_Icon.png",
-            "/fandom/6/6f/Izumi_New_Year_Icon.png"
+            "/api/Avatars/Fandom/Izumi_Icon.png",
+            "/api/Avatars/Fandom/Izumi_New_Year_Icon.png"
         ],
         "Bio": {
             "zh": "肚子饿了~",
@@ -208,8 +207,8 @@
     {
         "Id": 10010,
         "Avatar": [
-            "/fandom/7/79/Shiroko_Icon.png",
-            "/fandom/0/08/Shiroko_Robber_Icon.png"
+            "/api/Avatars/Fandom/Shiroko_Icon.png",
+            "/api/Avatars/Fandom/Shiroko_Robber_Icon.png"
         ],
         "Bio": {
             "zh": "自行车伙伴招募中……(1/5)",
@@ -226,7 +225,7 @@
     {
         "Id": 10011,
         "Avatar": [
-            "/fandom/f/fa/Shun_Icon.png"
+            "/api/Avatars/Fandom/Shun_Icon.png"
         ],
         "Bio": {
             "zh": "和天使们一起",
@@ -245,7 +244,7 @@
     {
         "Id": 10012,
         "Avatar": [
-            "/fandom/e/e5/Sumire_Icon.png"
+            "/api/Avatars/Fandom/Sumire_Icon.png"
         ],
         "Bio": {
             "zh": "健全的精神寓于健康的身体",
@@ -262,7 +261,7 @@
     {
         "Id": 10013,
         "Avatar": [
-            "/fandom/f/fb/Tsurugi_Icon.png"
+            "/api/Avatars/Fandom/Tsurugi_Icon.png"
         ],
         "Bio": {
             "zh": "……",
@@ -279,7 +278,7 @@
     {
         "Id": 13000,
         "Avatar": [
-            "/fandom/4/47/Akane_Icon.png"
+            "/api/Avatars/Fandom/Akane_Icon.png"
         ],
         "Bio": {
             "zh": "一杯热红茶的余裕",
@@ -297,7 +296,7 @@
     {
         "Id": 13001,
         "Avatar": [
-            "/fandom/c/c2/Chise_Icon.png"
+            "/api/Avatars/Fandom/Chise_Icon.png"
         ],
         "Bio": {
             "zh": "找到云的话告诉我",
@@ -315,7 +314,7 @@
     {
         "Id": 13002,
         "Avatar": [
-            "/fandom/1/1b/Akari_Icon.png"
+            "/api/Avatars/Fandom/Akari_Icon.png"
         ],
         "Bio": {
             "zh": "请推荐自助餐厅",
@@ -335,7 +334,7 @@
     {
         "Id": 13003,
         "Avatar": [
-            "/fandom/a/a3/Hasumi_Icon.png"
+            "/api/Avatars/Fandom/Hasumi_Icon.png"
         ],
         "Bio": {
             "zh": "减肥中……",
@@ -351,9 +350,9 @@
     {
         "Id": 13004,
         "Avatar": [
-            "/fandom/7/7b/Nonomi_Icon.png",
-            "/fandom/6/6b/Nonomi_Robber_Icon.png",
-            "/gamekee/w_619/h_607/829/43637/2024/3/11/469920.png"
+            "/api/Avatars/Fandom/Nonomi_Icon.png",
+            "/api/Avatars/Fandom/Nonomi_Robber_Icon.png",
+            "/api/Avatars/Gamekee/469920.png"
         ],
         "Bio": {
             "zh": "希望会是快乐的一天",
@@ -372,8 +371,8 @@
     {
         "Id": 13005,
         "Avatar": [
-            "/fandom/a/ad/Kayoko_Icon.png",
-            "/fandom/7/7a/Kayoko_Ark_Uniform_Icon.png"
+            "/api/Avatars/Fandom/Kayoko_Icon.png",
+            "/api/Avatars/Fandom/Kayoko_Ark_Uniform_Icon.png"
         ],
         "Bio": {
             "zh": "不常用MomoTalk",
@@ -391,11 +390,11 @@
     {
         "Id": 13006,
         "Avatar": [
-            "/kivo/students/浅黄 睦月/礼服/avatar.png",
-            "/kivo/students/浅黄 睦月/西装/avatar.png",
-            "/fandom/8/83/Mutsuki_Icon.png",
-            "/fandom/8/8a/Mutsuki_Dress_Icon.png",
-            "/fandom/5/5e/Mutsuki_Suit_Icon.png"
+            "/api/Avatars/Kivo/浅黄 睦月_礼服.png",
+            "/api/Avatars/Kivo/浅黄 睦月_西装.png",
+            "/api/Avatars/Fandom/Mutsuki_Icon.png",
+            "/api/Avatars/Fandom/Mutsuki_Dress_Icon.png",
+            "/api/Avatars/Fandom/Mutsuki_Suit_Icon.png"
         ],
         "Bio": {
             "zh": "没有什么有趣的事吗~",
@@ -415,7 +414,7 @@
     {
         "Id": 13007,
         "Avatar": [
-            "/fandom/9/97/Junko_Icon.png"
+            "/api/Avatars/Fandom/Junko_Icon.png"
         ],
         "Bio": {
             "zh": "谢绝骚扰 (╬⊙益⊙)",
@@ -433,9 +432,9 @@
         "Id": 13008,
         "Avatar": [
             "/api/Avatars/Serika_Swimsuit.webp",
-            "/fandom/5/5f/Serika_Icon.png",
-            "/fandom/6/60/Serika_Shibaseki_Icon.png",
-            "/fandom/c/c4/Serika_Robber_Icon.png"
+            "/api/Avatars/Fandom/Serika_Icon.png",
+            "/api/Avatars/Fandom/Serika_Shibaseki_Icon.png",
+            "/api/Avatars/Fandom/Serika_Robber_Icon.png"
         ],
         "Bio": {
             "zh": "对策委员会黑见芹香",
@@ -453,7 +452,7 @@
     {
         "Id": 13009,
         "Avatar": [
-            "/fandom/1/1b/Tsubaki_Icon.png"
+            "/api/Avatars/Fandom/Tsubaki_Icon.png"
         ],
         "Bio": {
             "zh": "好困……",
@@ -472,8 +471,8 @@
     {
         "Id": 13010,
         "Avatar": [
-            "/fandom/7/7b/Yuuka_Icon.png",
-            "/fandom/b/b8/Yuuka_Ark_Uniform_Icon.png"
+            "/api/Avatars/Fandom/Yuuka_Icon.png",
+            "/api/Avatars/Fandom/Yuuka_Ark_Uniform_Icon.png"
         ],
         "Bio": {
             "zh": "如我所算",
@@ -498,11 +497,11 @@
     {
         "Id": 16000,
         "Avatar": [
-            "/kivo/students/伊草 遥香/礼服/avatar.png",
-            "/kivo/students/伊草 遥香/西装/avatar.png",
-            "/fandom/b/bd/Haruka_Icon.png",
-            "/fandom/a/a2/Haruka_Dress_Icon.png",
-            "/fandom/b/b0/Haruka_Suit_Icon.png"
+            "/api/Avatars/Kivo/伊草 遥香_礼服.png",
+            "/api/Avatars/Kivo/伊草 遥香_西装.png",
+            "/api/Avatars/Fandom/Haruka_Icon.png",
+            "/api/Avatars/Fandom/Haruka_Dress_Icon.png",
+            "/api/Avatars/Fandom/Haruka_Suit_Icon.png"
         ],
         "Bio": {
             "zh": "请多多指教",
@@ -519,8 +518,8 @@
     {
         "Id": 16001,
         "Avatar": [
-            "/fandom/0/0a/Asuna_Icon.png",
-            "/fandom/a/aa/Asuna_Schoolgirl_Icon.png"
+            "/api/Avatars/Fandom/Asuna_Icon.png",
+            "/api/Avatars/Fandom/Asuna_Schoolgirl_Icon.png"
         ],
         "Bio": {
             "zh": "为主人提供最好的服务！",
@@ -537,7 +536,7 @@
         "Id": 16002,
         "Name": "小鸟",
         "Avatar": [
-            "/fandom/9/93/Kotori_Icon.png"
+            "/api/Avatars/Fandom/Kotori_Icon.png"
         ],
         "Bio": {
             "zh": "赞叹微波吧！",
@@ -555,7 +554,7 @@
     {
         "Id": 16003,
         "Avatar": [
-            "/fandom/d/d8/Suzumi_Icon.png"
+            "/api/Avatars/Fandom/Suzumi_Icon.png"
         ],
         "Bio": {
             "zh": "希望今天也是平安的一天",
@@ -571,8 +570,8 @@
     {
         "Id": 16004,
         "Avatar": [
-            "/fandom/8/8e/Pina_Icon.png",
-            "/kivo/students/朝比奈 菲娜/导游/avatar.png"
+            "/api/Avatars/Fandom/Pina_Icon.png",
+            "/api/Avatars/Kivo/朝比奈 菲娜_导游.png"
         ],
         "Bio": {
             "zh": "CHUCIJIANMIAN！",
@@ -589,7 +588,7 @@
     {
         "Id": 20000,
         "Avatar": [
-            "/fandom/8/88/Hibiki_Icon.png"
+            "/api/Avatars/Fandom/Hibiki_Icon.png"
         ],
         "Bio": {
             "zh": "虚争空言，不如思而试之",
@@ -605,8 +604,8 @@
     {
         "Id": 20001,
         "Avatar": [
-            "/fandom/7/75/Karin_Icon.png",
-            "/fandom/a/a8/Karin_Schoolgirl_Icon.png"
+            "/api/Avatars/Fandom/Karin_Icon.png",
+            "/api/Avatars/Fandom/Karin_Schoolgirl_Icon.png"
         ],
         "Bio": {
             "zh": "绝不让目标逃跑",
@@ -623,7 +622,7 @@
     {
         "Id": 20002,
         "Avatar": [
-            "/fandom/a/a3/Saya_Icon.png"
+            "/api/Avatars/Fandom/Saya_Icon.png"
         ],
         "Bio": {
             "zh": "赞扬我吧！",
@@ -641,7 +640,7 @@
     {
         "Id": 23000,
         "Avatar": [
-            "/fandom/2/23/Airi_Icon.png"
+            "/api/Avatars/Fandom/Airi_Icon.png"
         ],
         "Bio": {
             "zh": "薄荷巧克力最棒了！",
@@ -658,7 +657,7 @@
     {
         "Id": 23001,
         "Avatar": [
-            "/fandom/7/77/Fuuka_Icon.png"
+            "/api/Avatars/Fandom/Fuuka_Icon.png"
         ],
         "Bio": {
             "zh": "希望至少能过平静的一天(T_T)",
@@ -677,8 +676,8 @@
     {
         "Id": 23002,
         "Avatar": [
-            "/fandom/0/08/Hanae_Icon.png",
-            "/fandom/0/08/Hanae_Cheerleader_Icon.png"
+            "/api/Avatars/Fandom/Hanae_Icon.png",
+            "/api/Avatars/Fandom/Hanae_Cheerleader_Icon.png"
         ],
         "Bio": {
             "zh": "发生什么事的话，不管是谁都请到救护骑士团来！",
@@ -696,8 +695,8 @@
     {
         "Id": 23003,
         "Avatar": [
-            "/kivo/students/小钩 晴/睡衣/hare.png",
-            "/fandom/7/7b/Hare_Icon.png"
+            "/api/Avatars/Kivo/小钩 晴_睡衣.png",
+            "/api/Avatars/Fandom/Hare_Icon.png"
         ],
         "Bio": {
             "zh": "有急事请私信",
@@ -715,7 +714,7 @@
     {
         "Id": 23004,
         "Avatar": [
-            "/fandom/8/8b/Utaha_Icon.png"
+            "/api/Avatars/Fandom/Utaha_Icon.png"
         ],
         "Bio": {
             "zh": "随时接受改造、维修的委托",
@@ -732,9 +731,9 @@
     {
         "Id": 23005,
         "Avatar": [
-            "/fandom/f/f8/Ayane_Icon.png",
-            "/fandom/e/e3/Ayane_Robber_Icon.png",
-            "/fandom/3/3f/Ayane_Ark_Uniform_Icon.png"
+            "/api/Avatars/Fandom/Ayane_Icon.png",
+            "/api/Avatars/Fandom/Ayane_Robber_Icon.png",
+            "/api/Avatars/Fandom/Ayane_Ark_Uniform_Icon.png"
         ],
         "Bio": {
             "zh": "珍惜常识的对策委员会",
@@ -750,7 +749,7 @@
     {
         "Id": 26000,
         "Avatar": [
-            "/fandom/a/a7/Chinatsu_Icon.png"
+            "/api/Avatars/Fandom/Chinatsu_Icon.png"
         ],
         "Bio": {
             "zh": "丧失的前方",
@@ -767,8 +766,8 @@
     {
         "Id": 26001,
         "Avatar": [
-            "/kivo/students/音濑 小玉/睡衣/kotama.png",
-            "/fandom/4/41/Kotama_Icon.png"
+            "/api/Avatars/Kivo/音濑 小玉_睡衣.png",
+            "/api/Avatars/Fandom/Kotama_Icon.png"
         ],
         "Bio": {
             "zh": "我一直守望着你",
@@ -785,7 +784,7 @@
         "Id": 26002,
         "Name": "朱莉",
         "Avatar": [
-            "/fandom/1/15/Juri_Icon.png"
+            "/api/Avatars/Fandom/Juri_Icon.png"
         ],
         "Bio": {
             "zh": "今天也要全力以赴进行料理的练习！",
@@ -803,8 +802,8 @@
     {
         "Id": 26003,
         "Avatar": [
-            "/fandom/c/c7/Serina_Icon.png",
-            "/fandom/8/87/Serina_Nurse_Icon.png"
+            "/api/Avatars/Fandom/Serina_Icon.png",
+            "/api/Avatars/Fandom/Serina_Nurse_Icon.png"
         ],
         "Bio": {
             "zh": "身体不舒服的人请随时联系我",
@@ -823,7 +822,7 @@
     {
         "Id": 26004,
         "Avatar": [
-            "/fandom/c/c6/Shimiko_Icon.png"
+            "/api/Avatars/Fandom/Shimiko_Icon.png"
         ],
         "Bio": {
             "zh": "请在借阅期间内还书",
@@ -839,7 +838,7 @@
     {
         "Id": 26005,
         "Avatar": [
-            "/fandom/8/84/Yoshimi_Icon.png"
+            "/api/Avatars/Fandom/Yoshimi_Icon.png"
         ],
         "Bio": {
             "zh": "#还在成长期",
@@ -856,7 +855,7 @@
     {
         "Id": 20003,
         "Avatar": [
-            "/fandom/0/0e/Mashiro_Icon.png"
+            "/api/Avatars/Fandom/Mashiro_Icon.png"
         ],
         "Bio": {
             "zh": "聚沙成塔",
@@ -872,7 +871,7 @@
     {
         "Id": 10014,
         "Avatar": [
-            "/fandom/9/9b/Izuna_Icon.png"
+            "/api/Avatars/Fandom/Izuna_Icon.png"
         ],
         "Bio": {
             "zh": "泉奈会加油的！忍忍！",
@@ -890,7 +889,7 @@
     {
         "Id": 23006,
         "Avatar": [
-            "/fandom/0/04/Shizuko_Icon.png"
+            "/api/Avatars/Fandom/Shizuko_Icon.png"
         ],
         "Bio": {
             "zh": "百夜堂，今天也绝赞营业中！",
@@ -907,8 +906,8 @@
     {
         "Id": 10015,
         "Avatar": [
-            "/fandom/7/7b/Alice_Icon.png",
-            "/gamekee/w_200/h_200/829/43637/2023/3/26/749329.png"
+            "/api/Avatars/Fandom/Alice_Icon.png",
+            "/api/Avatars/Gamekee/749329.png"
         ],
         "Bio": {
             "zh": "千年游戏开发部的爱丽丝",
@@ -927,7 +926,7 @@
     {
         "Id": 10016,
         "Avatar": [
-            "/fandom/a/ae/Midori_Icon.png"
+            "/api/Avatars/Fandom/Midori_Icon.png"
         ],
         "Bio": {
             "zh": "请向我推荐游戏",
@@ -945,7 +944,7 @@
     {
         "Id": 13011,
         "Avatar": [
-            "/fandom/7/72/Momoi_Icon.png"
+            "/api/Avatars/Fandom/Momoi_Icon.png"
         ],
         "Bio": {
             "zh": "致力于游戏！",
@@ -962,9 +961,9 @@
     {
         "Id": 10017,
         "Avatar": [
-            "/kivo/students/连河 切里诺/original/avatar.png",
-            "/fandom/6/6a/Cherino_Icon.png",
-            "/fandom/5/56/Cherino_Qipao_Icon.png"
+            "/api/Avatars/Kivo/连河 切里诺_original.png",
+            "/api/Avatars/Fandom/Cherino_Icon.png",
+            "/api/Avatars/Fandom/Cherino_Qipao_Icon.png"
         ],
         "Bio": {
             "zh": "看看这胡子吧！！",
@@ -986,7 +985,7 @@
     {
         "Id": 26006,
         "Avatar": [
-            "/fandom/2/2a/Nodoka_Icon.png"
+            "/api/Avatars/Fandom/Nodoka_Icon.png"
         ],
         "Bio": {
             "zh": "一起去看星星吧！★彡",
@@ -1004,7 +1003,7 @@
         "Id": 10018,
         "Avatar": [
             "/api/Avatars/Yuzu.webp",
-            "/fandom/0/09/Yuzu_Icon.png"
+            "/api/Avatars/Fandom/Yuzu_Icon.png"
         ],
         "Bio": {
             "zh": "404 Not Found",
@@ -1021,8 +1020,8 @@
     {
         "Id": 10019,
         "Avatar": [
-            "/fandom/6/61/Azusa_Icon.png",
-            "/fandom/9/9d/Azusa_Mask_Icon.png"
+            "/api/Avatars/Fandom/Azusa_Icon.png",
+            "/api/Avatars/Fandom/Azusa_Mask_Icon.png"
         ],
         "Bio": {
             "zh": "et omnia vanitas",
@@ -1038,8 +1037,8 @@
     {
         "Id": 23007,
         "Avatar": [
-            "/fandom/f/f1/Hanako_Icon.png",
-            "/fandom/b/b7/Hanako_Ark_Uniform_Icon.png"
+            "/api/Avatars/Fandom/Hanako_Icon.png",
+            "/api/Avatars/Fandom/Hanako_Ark_Uniform_Icon.png"
         ],
         "Bio": {
             "zh": "喜欢形形「色色」的类型♪",
@@ -1055,7 +1054,7 @@
     {
         "Id": 10020,
         "Avatar": [
-            "/fandom/7/7a/Koharu_Icon.png"
+            "/api/Avatars/Fandom/Koharu_Icon.png"
         ],
         "Bio": {
             "zh": "涩涩的东西不行就是不行！",
@@ -1073,7 +1072,7 @@
     {
         "Id": 10021,
         "Avatar": [
-            "/fandom/f/f0/Azusa_Swimsuit_Icon.png"
+            "/api/Avatars/Fandom/Azusa_Swimsuit_Icon.png"
         ],
         "Bio": {
             "zh": "A brevis paradisum",
@@ -1091,7 +1090,7 @@
     {
         "Id": 20004,
         "Avatar": [
-            "/fandom/3/30/Mashiro_Swimsuit_Icon.png"
+            "/api/Avatars/Fandom/Mashiro_Swimsuit_Icon.png"
         ],
         "Bio": {
             "zh": "井底之蛙 不知大海",
@@ -1109,7 +1108,7 @@
     {
         "Id": 16005,
         "Avatar": [
-            "/fandom/f/fc/Tsurugi_Swimsuit_Icon.png"
+            "/api/Avatars/Fandom/Tsurugi_Swimsuit_Icon.png"
         ],
         "Bio": {
             "zh": "夏日、大海、青春",
@@ -1127,7 +1126,7 @@
     {
         "Id": 20005,
         "Avatar": [
-            "/fandom/d/d5/Hifumi_Swimsuit_Icon.png"
+            "/api/Avatars/Fandom/Hifumi_Swimsuit_Icon.png"
         ],
         "Bio": {
             "zh": "请看新的佩洛洛大人泳圈！",
@@ -1148,7 +1147,7 @@
     {
         "Id": 10022,
         "Avatar": [
-            "/fandom/3/3b/Hina_Swimsuit_Icon.png"
+            "/api/Avatars/Fandom/Hina_Swimsuit_Icon.png"
         ],
         "Bio": {
             "zh": "",
@@ -1166,7 +1165,7 @@
     {
         "Id": 10023,
         "Avatar": [
-            "/fandom/3/34/Iori_Swimsuit_Icon.png"
+            "/api/Avatars/Fandom/Iori_Swimsuit_Icon.png"
         ],
         "Bio": {
             "zh": "夏季合宿训练中",
@@ -1184,7 +1183,7 @@
     {
         "Id": 16006,
         "Avatar": [
-            "/fandom/e/e1/Izumi_Swimsuit_Icon.png"
+            "/api/Avatars/Fandom/Izumi_Swimsuit_Icon.png"
         ],
         "Bio": {
             "zh": "前往寻找夏天美食之旅！",
@@ -1202,7 +1201,7 @@
     {
         "Id": 10024,
         "Avatar": [
-            "/fandom/b/bd/Shiroko_Riding_Icon.png"
+            "/api/Avatars/Fandom/Shiroko_Riding_Icon.png"
         ],
         "Bio": {
             "zh": "正在纵贯鸡窝托斯中",
@@ -1224,7 +1223,7 @@
     {
         "Id": 10025,
         "Avatar": [
-            "/fandom/4/47/Shun_Young_Icon.png"
+            "/api/Avatars/Fandom/Shun_Young_Icon.png"
         ],
         "Bio": {
             "zh": "想吃糖葫芦的心情！",
@@ -1249,7 +1248,7 @@
     {
         "Id": 13012,
         "Avatar": [
-            "/fandom/f/fa/Kirino_Icon.png"
+            "/api/Avatars/Fandom/Kirino_Icon.png"
         ],
         "Bio": {
             "zh": "女武神警察学园，转学生募集中！",
@@ -1267,7 +1266,7 @@
     {
         "Id": 20006,
         "Avatar": [
-            "/fandom/a/a7/Saya_Casual_Icon.png"
+            "/api/Avatars/Fandom/Saya_Casual_Icon.png"
         ],
         "Bio": {
             "zh": "我什么都知道！",
@@ -1288,7 +1287,7 @@
         "Id": 10026,
         "Name": "妮禄（兔女郎）",
         "Avatar": [
-            "/fandom/1/1e/Neru_Bunny_Girl_Icon.png"
+            "/api/Avatars/Fandom/Neru_Bunny_Girl_Icon.png"
         ],
         "Bio": {
             "zh": "看什么看",
@@ -1308,7 +1307,7 @@
     {
         "Id": 10027,
         "Avatar": [
-            "/fandom/1/12/Karin_Bunny_Girl_Icon.png"
+            "/api/Avatars/Fandom/Karin_Bunny_Girl_Icon.png"
         ],
         "Bio": {
             "zh": "任务中",
@@ -1328,7 +1327,7 @@
     {
         "Id": 10028,
         "Avatar": [
-            "/fandom/8/81/Asuna_Bunny_Girl_Icon.png"
+            "/api/Avatars/Fandom/Asuna_Bunny_Girl_Icon.png"
         ],
         "Bio": {
             "zh": "带给主人最棒的快乐！",
@@ -1349,8 +1348,8 @@
     {
         "Id": 10029,
         "Avatar": [
-            "/fandom/5/5b/Natsu_Icon.png",
-            "/fandom/9/9b/Natsu_Band_Icon.png"
+            "/api/Avatars/Fandom/Natsu_Icon.png",
+            "/api/Avatars/Fandom/Natsu_Band_Icon.png"
         ],
         "Bio": {
             "zh": "人生是巧克力蝴蝶饼",
@@ -1369,7 +1368,7 @@
     {
         "Id": 23008,
         "Avatar": [
-            "/fandom/e/e0/Mari_Icon.png"
+            "/api/Avatars/Fandom/Mari_Icon.png"
         ],
         "Bio": {
             "zh": "愿大家的心得到安宁",
@@ -1385,7 +1384,7 @@
     {
         "Id": 20007,
         "Avatar": [
-            "/fandom/3/39/Miku_Icon.png"
+            "/api/Avatars/Fandom/Miku_Icon.png"
         ],
         "Bio": {
             "zh": "演唱会，敬请期待哦！",
@@ -1399,8 +1398,8 @@
     {
         "Id": 20008,
         "Avatar": [
-            "/fandom/b/bf/Ako_Icon.png",
-            "/fandom/e/e9/Ako_Ark_Uniform_Icon.png"
+            "/api/Avatars/Fandom/Ako_Icon.png",
+            "/api/Avatars/Fandom/Ako_Ark_Uniform_Icon.png"
         ],
         "Bio": {
             "zh": "谢绝业务以外的联络",
@@ -1416,7 +1415,7 @@
     {
         "Id": 20009,
         "Avatar": [
-            "/fandom/9/96/Cherino_Hot_Spring_Icon.png"
+            "/api/Avatars/Fandom/Cherino_Hot_Spring_Icon.png"
         ],
         "Bio": {
             "zh": "世界上没有不好的胡子！",
@@ -1440,7 +1439,7 @@
     {
         "Id": 10030,
         "Avatar": [
-            "/fandom/3/34/Chinatsu_Hot_Spring_Icon.png"
+            "/api/Avatars/Fandom/Chinatsu_Hot_Spring_Icon.png"
         ],
         "Bio": {
             "zh": "寻求未知的视野",
@@ -1461,7 +1460,7 @@
     {
         "Id": 16007,
         "Avatar": [
-            "/fandom/3/3d/Tomoe_Icon.png"
+            "/api/Avatars/Fandom/Tomoe_Icon.png"
         ],
         "Bio": {
             "zh": "想了解切里诺会长的丰功伟业吗？",
@@ -1477,7 +1476,7 @@
     {
         "Id": 20010,
         "Avatar": [
-            "/fandom/d/d7/Nodoka_Hot_Spring_Icon.png"
+            "/api/Avatars/Fandom/Nodoka_Hot_Spring_Icon.png"
         ],
         "Bio": {
             "zh": "227号温泉乡，住宿预约接受中！",
@@ -1497,7 +1496,7 @@
     {
         "Id": 10031,
         "Avatar": [
-            "/fandom/6/60/Aru_New_Year_Icon.png"
+            "/api/Avatars/Fandom/Aru_New_Year_Icon.png"
         ],
         "Bio": {
             "zh": "今年也请多多指教",
@@ -1518,7 +1517,7 @@
     {
         "Id": 10032,
         "Avatar": [
-            "/fandom/b/bf/Mutsuki_New_Year_Icon.png"
+            "/api/Avatars/Fandom/Mutsuki_New_Year_Icon.png"
         ],
         "Bio": {
             "zh": "让今年变成快乐的一年吧♪",
@@ -1540,7 +1539,7 @@
     {
         "Id": 20011,
         "Avatar": [
-            "/fandom/b/be/Serika_New_Year_Icon.png"
+            "/api/Avatars/Fandom/Serika_New_Year_Icon.png"
         ],
         "Bio": {
             "zh": "谨贺新年",
@@ -1560,9 +1559,9 @@
     {
         "Id": 10033,
         "Avatar": [
-            "/fandom/3/35/Wakamo_Icon.png",
-            "/fandom/3/37/Wakamo_Unmask_Icon.png",
-            "/fandom/6/68/Wakamo_Kimono_Icon.png"
+            "/api/Avatars/Fandom/Wakamo_Icon.png",
+            "/api/Avatars/Fandom/Wakamo_Unmask_Icon.png",
+            "/api/Avatars/Fandom/Wakamo_Kimono_Icon.png"
         ],
         "Bio": {
             "zh": "我会永远陪伴在阁下的身旁……♡",
@@ -1580,7 +1579,7 @@
     {
         "Id": 16008,
         "Avatar": [
-            "/fandom/b/bd/Fubuki_Icon.png"
+            "/api/Avatars/Fandom/Fubuki_Icon.png"
         ],
         "Bio": {
             "zh": "咖啡要配甜甜圈！",
@@ -1597,7 +1596,7 @@
     {
         "Id": 20012,
         "Avatar": [
-            "/fandom/3/37/Sena_Icon.png"
+            "/api/Avatars/Fandom/Sena_Icon.png"
         ],
         "Bio": {
             "zh": "请把我设为紧急联络人",
@@ -1616,10 +1615,10 @@
     {
         "Id": 20013,
         "Avatar": [
-            "/kivo/students/各务 千寻/露营/avatar.png",
-            "/kivo/students/各务 千寻/睡衣/chihiro.png",
-            "/fandom/a/aa/Chihiro_Icon.png",
-            "/fandom/7/7c/Chihiro_Camp_Icon.png"
+            "/api/Avatars/Kivo/各务 千寻_露营.png",
+            "/api/Avatars/Kivo/各务 千寻_睡衣.png",
+            "/api/Avatars/Fandom/Chihiro_Icon.png",
+            "/api/Avatars/Fandom/Chihiro_Camp_Icon.png"
         ],
         "Bio": {
             "zh": "安全性检查从日常做起",
@@ -1637,7 +1636,7 @@
         "Id": 10034,
         "Name": "弥守",
         "Avatar": [
-            "/fandom/8/84/Mimori_Icon.png"
+            "/api/Avatars/Fandom/Mimori_Icon.png"
         ],
         "Bio": {
             "zh": "每天踏实，一步一步",
@@ -1654,7 +1653,7 @@
     {
         "Id": 10035,
         "Avatar": [
-            "/fandom/f/f8/Ui_Icon.png"
+            "/api/Avatars/Fandom/Ui_Icon.png"
         ],
         "Bio": {
             "zh": "正在办其他事",
@@ -1668,7 +1667,7 @@
     {
         "Id": 10036,
         "Avatar": [
-            "/fandom/1/13/Hinata_Icon.png"
+            "/api/Avatars/Fandom/Hinata_Icon.png"
         ],
         "Bio": {
             "zh": "有困难时，请随时联系我！",
@@ -1683,7 +1682,7 @@
         "Id": 10037,
         "Name": "玛丽娜",
         "Avatar": [
-            "/fandom/b/b0/Marina_Icon.png"
+            "/api/Avatars/Fandom/Marina_Icon.png"
         ],
         "Bio": {
             "zh": "叛逆者通通肃清！",
@@ -1701,8 +1700,8 @@
     {
         "Id": 10038,
         "Avatar": [
-            "/fandom/f/f7/Miyako_Icon.png",
-            "/fandom/2/27/Oil_Drum_Icon.png"
+            "/api/Avatars/Fandom/Miyako_Icon.png",
+            "/api/Avatars/Fandom/Oil_Drum_Icon.png"
         ],
         "Bio": {
             "zh": "为了鸡窝托斯的和平",
@@ -1721,8 +1720,8 @@
     {
         "Id": 20014,
         "Avatar": [
-            "/fandom/5/50/Saki_Icon.png",
-            "/fandom/2/27/Oil_Drum_Icon.png"
+            "/api/Avatars/Fandom/Saki_Icon.png",
+            "/api/Avatars/Fandom/Oil_Drum_Icon.png"
         ],
         "Bio": {
             "zh": "与其张嘴不如行动",
@@ -1738,7 +1737,7 @@
     {
         "Id": 10039,
         "Avatar": [
-            "/fandom/2/23/Miyu_Icon.png"
+            "/api/Avatars/Fandom/Miyu_Icon.png"
         ],
         "Bio": {
             "zh": "眼前一片黑……",
@@ -1757,8 +1756,8 @@
     {
         "Id": 20015,
         "Avatar": [
-            "/fandom/c/c1/Kaede_Icon.png",
-            "/kivo/students/勇美 枫/导游/avatar.png"
+            "/api/Avatars/Fandom/Kaede_Icon.png",
+            "/api/Avatars/Kivo/勇美 枫_导游.png"
         ],
         "Bio": {
             "zh": "今天要玩什么呢！？",
@@ -1774,7 +1773,7 @@
     {
         "Id": 20016,
         "Avatar": [
-            "/fandom/6/6a/Iroha_Icon.png"
+            "/api/Avatars/Fandom/Iroha_Icon.png"
         ],
         "Bio": {
             "zh": "读书时除了紧急状况请不要联络我",
@@ -1793,7 +1792,7 @@
     {
         "Id": 16009,
         "Avatar": [
-            "/fandom/2/24/Michiru_Icon.png"
+            "/api/Avatars/Fandom/Michiru_Icon.png"
         ],
         "Bio": {
             "zh": "请关注「少女忍法帖 小小满」！",
@@ -1811,7 +1810,7 @@
     {
         "Id": 10040,
         "Avatar": [
-            "/fandom/5/54/Tsukuyo_Icon.png"
+            "/api/Avatars/Fandom/Tsukuyo_Icon.png"
         ],
         "Bio": {
             "zh": "有朝一日要成为，独当一面的忍者……",
@@ -1830,9 +1829,9 @@
     {
         "Id": 10041,
         "Avatar": [
-            "/fandom/7/78/Misaki_Unmask_Icon.png",
-            "/fandom/8/8f/Misaki_Icon.png",
-            "/gamekv2/w_550/h_550/829/191981/2024/6/22/834803.png"
+            "/api/Avatars/Fandom/Misaki_Unmask_Icon.png",
+            "/api/Avatars/Fandom/Misaki_Icon.png",
+            "/api/Avatars/Gamekee/834803.png"
         ],
         "Bio": {
             "zh": "希望可以下点雨……",
@@ -1849,7 +1848,7 @@
     {
         "Id": 20017,
         "Avatar": [
-            "/fandom/a/af/Hiyori_Icon.png"
+            "/api/Avatars/Fandom/Hiyori_Icon.png"
         ],
         "Bio": {
             "zh": "人生是痛苦的连续……",
@@ -1863,9 +1862,9 @@
     {
         "Id": 10042,
         "Avatar": [
-            "/fandom/f/f7/Atsuko_Icon.png",
-            "/fandom/7/78/Atsuko_Unmask_Icon.png",
-            "/fandom/8/83/Atsuko_Undersuit_Icon.png"
+            "/api/Avatars/Fandom/Atsuko_Icon.png",
+            "/api/Avatars/Fandom/Atsuko_Unmask_Icon.png",
+            "/api/Avatars/Fandom/Atsuko_Undersuit_Icon.png"
         ],
         "Bio": {
             "zh": "最近正在学习花语",
@@ -1882,8 +1881,8 @@
     {
         "Id": 10043,
         "Avatar": [
-            "/fandom/6/62/Wakamo_Swimsuit_Icon.png",
-            "/fandom/0/0e/Wakamo_Swimsuit_Unmask_Icon.png"
+            "/api/Avatars/Fandom/Wakamo_Swimsuit_Icon.png",
+            "/api/Avatars/Fandom/Wakamo_Swimsuit_Unmask_Icon.png"
         ],
         "Bio": {
             "zh": "比夏日还热情的心意♡",
@@ -1905,8 +1904,8 @@
     {
         "Id": 10044,
         "Avatar": [
-            "/fandom/e/e9/Nonomi_Swimsuit_Icon.png",
-            "/fandom/4/41/Nonomi_Swimsuit_Robber_Icon.png"
+            "/api/Avatars/Fandom/Nonomi_Swimsuit_Icon.png",
+            "/api/Avatars/Fandom/Nonomi_Swimsuit_Robber_Icon.png"
         ],
         "Bio": {
             "zh": "是大海哦，大海~",
@@ -1926,7 +1925,7 @@
     {
         "Id": 26007,
         "Avatar": [
-            "/fandom/a/af/Ayane_Swimsuit_Icon.png"
+            "/api/Avatars/Fandom/Ayane_Swimsuit_Icon.png"
         ],
         "Bio": {
             "zh": "玩的时候就要好好玩！",
@@ -1946,8 +1945,8 @@
     {
         "Id": 10045,
         "Avatar": [
-            "/fandom/e/ef/Hoshino_Swimsuit_Icon.png",
-            "/fandom/8/80/Hoshino_Swimsuit_Robber_Icon.png"
+            "/api/Avatars/Fandom/Hoshino_Swimsuit_Icon.png",
+            "/api/Avatars/Fandom/Hoshino_Swimsuit_Robber_Icon.png"
         ],
         "Bio": {
             "zh": "午睡中～欢迎同道中人",
@@ -1967,7 +1966,7 @@
     {
         "Id": 26008,
         "Avatar": [
-            "/fandom/4/4f/Shizuko_Swimsuit_Icon.png"
+            "/api/Avatars/Fandom/Shizuko_Swimsuit_Icon.png"
         ],
         "Bio": {
             "zh": "百夜堂连锁店热烈营业中！",
@@ -1988,7 +1987,7 @@
     {
         "Id": 10046,
         "Avatar": [
-            "/fandom/f/f6/Izuna_Swimsuit_Icon.png"
+            "/api/Avatars/Fandom/Izuna_Swimsuit_Icon.png"
         ],
         "Bio": {
             "zh": "这次要在海边修行咯！忍忍！",
@@ -2009,7 +2008,7 @@
     {
         "Id": 10047,
         "Avatar": [
-            "/fandom/1/11/Chise_Swimsuit_Icon.png"
+            "/api/Avatars/Fandom/Chise_Swimsuit_Icon.png"
         ],
         "Bio": {
             "zh": "光芒～会在哪里呢？",
@@ -2027,12 +2026,12 @@
     {
         "Id": 10048,
         "Avatar": [
-            "/kivo/students/锭前 纱织/礼服/avatar.png",
-            "/fandom/7/70/Saori_Icon.png",
-            "/fandom/f/f1/Saori_Unmask_Icon.png",
-            "/fandom/3/34/Saori_Helmet_Icon.png",
-            "/fandom/4/44/Saori_Dress_Icon.png",
-            "/gamekee/w_252/h_204/829/43637/2024/1/21/378377.png"
+            "/api/Avatars/Kivo/锭前 纱织_礼服.png",
+            "/api/Avatars/Fandom/Saori_Icon.png",
+            "/api/Avatars/Fandom/Saori_Unmask_Icon.png",
+            "/api/Avatars/Fandom/Saori_Helmet_Icon.png",
+            "/api/Avatars/Fandom/Saori_Dress_Icon.png",
+            "/api/Avatars/Gamekee/378377.png"
         ],
         "Bio": {
             "zh": "努力再努力",
@@ -2048,7 +2047,7 @@
     {
         "Id": 20018,
         "Avatar": [
-            "/fandom/0/06/Moe_Icon.png"
+            "/api/Avatars/Fandom/Moe_Icon.png"
         ],
         "Bio": {
             "zh": "正在积极收购没在用的导弹、炮弹！",
@@ -2064,8 +2063,8 @@
     {
         "Id": 10049,
         "Avatar": [
-            "/fandom/c/cb/Kazusa_Icon.png",
-            "/fandom/5/54/Kazusa_Old_Icon.png"
+            "/api/Avatars/Fandom/Kazusa_Icon.png",
+            "/api/Avatars/Fandom/Kazusa_Old_Icon.png"
         ],
         "Bio": {
             "zh": "放学后的甜点部成员",
@@ -2083,7 +2082,7 @@
     {
         "Id": 10050,
         "Avatar": [
-            "/fandom/4/4a/Kokona_Icon.png"
+            "/api/Avatars/Fandom/Kokona_Icon.png"
         ],
         "Bio": {
             "zh": "我是山海经的教官！",
@@ -2099,7 +2098,7 @@
     {
         "Id": 10051,
         "Avatar": [
-            "/fandom/b/bd/Utaha_Cheerleader_Icon.png"
+            "/api/Avatars/Fandom/Utaha_Cheerleader_Icon.png"
         ],
         "Bio": {
             "zh": "应援委托受理中！",
@@ -2119,7 +2118,7 @@
     {
         "Id": 10052,
         "Avatar": [
-            "/fandom/3/31/Noa_Icon.png"
+            "/api/Avatars/Fandom/Noa_Icon.png"
         ],
         "Bio": {
             "zh": "奇普托斯的忧郁",
@@ -2137,7 +2136,7 @@
     {
         "Id": 16010,
         "Avatar": [
-            "/fandom/a/ab/Hibiki_Cheerleader_Icon.png"
+            "/api/Avatars/Fandom/Hibiki_Cheerleader_Icon.png"
         ],
         "Bio": {
             "zh": "如果有更多时间练习的话……",
@@ -2157,7 +2156,7 @@
     {
         "Id": 20019,
         "Avatar": [
-            "/fandom/7/7f/Akane_Bunny_Girl_Icon.png"
+            "/api/Avatars/Fandom/Akane_Bunny_Girl_Icon.png"
         ],
         "Bio": {
             "zh": "和有点新鲜的日常生活一起",
@@ -2177,7 +2176,7 @@
     {
         "Id": 10053,
         "Avatar": [
-            "/fandom/9/95/Yuuka_Gym_Icon.png"
+            "/api/Avatars/Fandom/Yuuka_Gym_Icon.png"
         ],
         "Bio": {
             "zh": "晄轮大祭现正举办中！",
@@ -2199,7 +2198,7 @@
     {
         "Id": 10054,
         "Avatar": [
-            "/fandom/9/99/Mari_Gym_Icon.png"
+            "/api/Avatars/Fandom/Mari_Gym_Icon.png"
         ],
         "Bio": {
             "zh": "希望会是一场和平的庆典",
@@ -2220,7 +2219,7 @@
     {
         "Id": 16011,
         "Avatar": [
-            "/fandom/9/9e/Hasumi_Gym_Icon.png"
+            "/api/Avatars/Fandom/Hasumi_Gym_Icon.png"
         ],
         "Bio": {
             "zh": "大会运营相关咨询请到执行委员会",
@@ -2238,9 +2237,9 @@
     {
         "Id": 20020,
         "Avatar": [
-            "/fandom/e/e4/Himari_Icon.png",
-            "/fandom/4/45/Himari_Ark_Uniform_Icon.png",
-            "/fandom/c/ce/Himari_Winter_Icon.png"
+            "/api/Avatars/Fandom/Himari_Icon.png",
+            "/api/Avatars/Fandom/Himari_Ark_Uniform_Icon.png",
+            "/api/Avatars/Fandom/Himari_Winter_Icon.png"
         ],
         "Bio": {
             "zh": "千禧最高峰的超天才清纯系病弱美少女",
@@ -2262,7 +2261,7 @@
     {
         "Id": 10055,
         "Avatar": [
-            "/fandom/0/0c/Shigure_Icon.png"
+            "/api/Avatars/Fandom/Shigure_Icon.png"
         ],
         "Bio": {
             "zh": "调一杯饮料改变人生的时间到啦",
@@ -2279,7 +2278,7 @@
     {
         "Id": 10056,
         "Avatar": [
-            "/fandom/d/d9/Serina_Christmas_Icon.png"
+            "/api/Avatars/Fandom/Serina_Christmas_Icon.png"
         ],
         "Bio": {
             "zh": "在这圣夜里，希望大家都有幸福来敲门",
@@ -2299,7 +2298,7 @@
     {
         "Id": 20021,
         "Avatar": [
-            "/fandom/0/0a/Hanae_Christmas_Icon.png"
+            "/api/Avatars/Fandom/Hanae_Christmas_Icon.png"
         ],
         "Bio": {
             "zh": "在等圣诞老人！",
@@ -2317,7 +2316,7 @@
     {
         "Id": 10057,
         "Avatar": [
-            "/fandom/4/4b/Haruna_New_Year_Icon.png"
+            "/api/Avatars/Fandom/Haruna_New_Year_Icon.png"
         ],
         "Bio": {
             "zh": "今年也要探寻究极的美食",
@@ -2339,7 +2338,7 @@
     {
         "Id": 20022,
         "Avatar": [
-            "/fandom/f/f9/Fuuka_New_Year_Icon.png"
+            "/api/Avatars/Fandom/Fuuka_New_Year_Icon.png"
         ],
         "Bio": {
             "zh": "平安无事、祈愿中",
@@ -2362,7 +2361,7 @@
     {
         "Id": 16012,
         "Avatar": [
-            "/fandom/3/31/Junko_New_Year_Icon.png"
+            "/api/Avatars/Fandom/Junko_New_Year_Icon.png"
         ],
         "Bio": {
             "zh": "吃东西的时候别来烦我！",
@@ -2382,7 +2381,7 @@
     {
         "Id": 10058,
         "Avatar": [
-            "/fandom/b/b1/Mine_Icon.png"
+            "/api/Avatars/Fandom/Mine_Icon.png"
         ],
         "Bio": {
             "zh": "我时刻准备就绪",
@@ -2398,9 +2397,9 @@
     {
         "Id": 10059,
         "Avatar": [
-            "/fandom/d/dd/Mika_Icon.png",
-            "/fandom/b/bc/Mika_Gym_Icon.png",
-            "/fandom/7/73/Mika_School_Swimsuit_Icon.png"
+            "/api/Avatars/Fandom/Mika_Icon.png",
+            "/api/Avatars/Fandom/Mika_Gym_Icon.png",
+            "/api/Avatars/Fandom/Mika_School_Swimsuit_Icon.png"
         ],
         "Bio": {
             "zh": "正在招募一起聊天的对象！",
@@ -2420,7 +2419,7 @@
     {
         "Id": 10060,
         "Avatar": [
-            "/fandom/9/9b/Megu_Icon.png"
+            "/api/Avatars/Fandom/Megu_Icon.png"
         ],
         "Bio": {
             "zh": "随时欢迎温泉开发的同志哦！",
@@ -2438,7 +2437,7 @@
     {
         "Id": 20023,
         "Avatar": [
-            "/fandom/b/ba/Kanna_Icon.png"
+            "/api/Avatars/Fandom/Kanna_Icon.png"
         ],
         "Bio": {
             "zh": "建立安全的鸡窝托斯，请交给瓦尔基里",
@@ -2458,8 +2457,8 @@
     {
         "Id": 10061,
         "Avatar": [
-            "/fandom/8/87/Sakurako_Icon.png",
-            "/fandom/8/89/Sakurako_Icon_3.png"
+            "/api/Avatars/Fandom/Sakurako_Icon.png",
+            "/api/Avatars/Fandom/Sakurako_Icon_3.png"
         ],
         "Bio": {
             "zh": "一直在守望着",
@@ -2475,9 +2474,9 @@
     {
         "Id": 10062,
         "Avatar": [
-            "/fandom/5/5f/Toki_Icon.png",
-            "/fandom/f/fa/Toki_Mode_2_Icon.png",
-            "/fandom/0/05/Toki_Abi-Eshufu_Icon.png"
+            "/api/Avatars/Fandom/Toki_Icon.png",
+            "/api/Avatars/Fandom/Toki_Mode_2_Icon.png",
+            "/api/Avatars/Fandom/Toki_Abi-Eshufu_Icon.png"
         ],
         "Bio": {
             "zh": "随时待机中",
@@ -2496,8 +2495,8 @@
     {
         "Id": 20024,
         "Avatar": [
-            "/fandom/0/04/Nagisa_Icon.png",
-            "/fandom/f/f8/Nagisa_Icon_3.png"
+            "/api/Avatars/Fandom/Nagisa_Icon.png",
+            "/api/Avatars/Fandom/Nagisa_Icon_3.png"
         ],
         "Bio": {
             "zh": "永远游刃有余，优雅面对",
@@ -2515,9 +2514,9 @@
         "Id": 10063,
         "Avatar": [
             "/api/Avatars/Koyuki_Bunny_Girl.webp",
-            "/kivo/students/黑崎 小雪/睡衣/koyuki.png",
-            "/fandom/9/97/Koyuki_Icon.png",
-            "/fandom/a/a0/Koyuki_Bunny_Girl_Icon.png"
+            "/api/Avatars/Kivo/黑崎 小雪_睡衣.png",
+            "/api/Avatars/Fandom/Koyuki_Icon.png",
+            "/api/Avatars/Fandom/Koyuki_Bunny_Girl_Icon.png"
         ],
         "Bio": {
             "zh": "哎呀，这算是我的错吗……？",
@@ -2531,7 +2530,7 @@
     {
         "Id": 10064,
         "Avatar": [
-            "/fandom/2/23/Kayoko_New_Year_Icon.png"
+            "/api/Avatars/Fandom/Kayoko_New_Year_Icon.png"
         ],
         "Bio": {
             "zh": "谨贺新年",
@@ -2551,7 +2550,7 @@
     {
         "Id": 20025,
         "Avatar": [
-            "/fandom/2/2d/Haruka_New_Year_Icon.png"
+            "/api/Avatars/Fandom/Haruka_New_Year_Icon.png"
         ],
         "Bio": {
             "zh": "新年也请一直幸福地度过",
@@ -2571,7 +2570,7 @@
     {
         "Id": 10065,
         "Avatar": [
-            "/fandom/b/be/Kaho_Icon.png"
+            "/api/Avatars/Fandom/Kaho_Icon.png"
         ],
         "Bio": {
             "zh": "业务相关请随时咨询",
@@ -2588,7 +2587,7 @@
     {
         "Id": 10066,
         "Avatar": [
-            "/fandom/4/48/Alice_Maid_Icon.png"
+            "/api/Avatars/Fandom/Alice_Maid_Icon.png"
         ],
         "Bio": {
             "zh": "我是女仆勇者爱丽丝",
@@ -2608,7 +2607,7 @@
     {
         "Id": 10067,
         "Avatar": [
-            "/fandom/f/ff/Toki_Bunny_Girl_Icon.png"
+            "/api/Avatars/Fandom/Toki_Bunny_Girl_Icon.png"
         ],
         "Bio": {
             "zh": "作战待机中",
@@ -2626,7 +2625,7 @@
     {
         "Id": 26009,
         "Avatar": [
-            "/fandom/e/e1/Yuzu_Maid_Icon.png"
+            "/api/Avatars/Fandom/Yuzu_Maid_Icon.png"
         ],
         "Bio": {
             "zh": "403 Forbidden",
@@ -2648,7 +2647,7 @@
     {
         "Id": 10068,
         "Avatar": [
-            "/fandom/e/e5/Reisa_Icon.png"
+            "/api/Avatars/Fandom/Reisa_Icon.png"
         ],
         "Bio": {
             "zh": "\"The ♠ of Vigilante\"",
@@ -2668,7 +2667,7 @@
         "Id": 10069,
         "Name": "留美",
         "Avatar": [
-            "/fandom/b/bc/Rumi_Icon.png"
+            "/api/Avatars/Fandom/Rumi_Icon.png"
         ],
         "Bio": {
             "zh": "玄武商会，正在营业中",
@@ -2691,7 +2690,7 @@
         "Id": 10070,
         "Name": "南",
         "Avatar": [
-            "/fandom/8/8f/Mina_Icon.png"
+            "/api/Avatars/Fandom/Mina_Icon.png"
         ],
         "Bio": {
             "zh": "能听到风声啊……",
@@ -2712,8 +2711,8 @@
         "Id": 20026,
         "Name": "实梨",
         "Avatar": [
-            "/fandom/4/43/Minori_Icon.png",
-            "/fandom/e/e2/Minori_Old_Icon.png"
+            "/api/Avatars/Fandom/Minori_Icon.png",
+            "/api/Avatars/Fandom/Minori_Old_Icon.png"
         ],
         "Bio": {
             "zh": "联邦学生会应保证每周休息4天！",
@@ -2736,7 +2735,7 @@
     {
         "Id": 10071,
         "Avatar": [
-            "/fandom/8/8e/Miyako_Swimsuit_Icon.png"
+            "/api/Avatars/Fandom/Miyako_Swimsuit_Icon.png"
         ],
         "Bio": {
             "zh": "用结果来证明",
@@ -2754,7 +2753,7 @@
     {
         "Id": 10072,
         "Avatar": [
-            "/fandom/e/e5/Saki_Swimsuit_Icon.png"
+            "/api/Avatars/Fandom/Saki_Swimsuit_Icon.png"
         ],
         "Bio": {
             "zh": "化不可能为可能",
@@ -2772,7 +2771,7 @@
     {
         "Id": 26010,
         "Avatar": [
-            "/fandom/9/9b/Miyu_Swimsuit_Icon.png"
+            "/api/Avatars/Fandom/Miyu_Swimsuit_Icon.png"
         ],
         "Bio": {
             "zh": "船到桥头自然直",
@@ -2790,7 +2789,7 @@
     {
         "Id": 20027,
         "Avatar": [
-            "/fandom/c/c8/Shiroko_Swimsuit_Icon.png"
+            "/api/Avatars/Fandom/Shiroko_Swimsuit_Icon.png"
         ],
         "Bio": {
             "zh": "嗯，需要粮食请联络我",
@@ -2810,7 +2809,7 @@
     {
         "Id": 10073,
         "Avatar": [
-            "/fandom/5/53/Ui_Swimsuit_Icon.png"
+            "/api/Avatars/Fandom/Ui_Swimsuit_Icon.png"
         ],
         "Bio": {
             "zh": "出差中",
@@ -2828,7 +2827,7 @@
     {
         "Id": 20028,
         "Avatar": [
-            "/fandom/c/cd/Hinata_Swimsuit_Icon.png"
+            "/api/Avatars/Fandom/Hinata_Swimsuit_Icon.png"
         ],
         "Bio": {
             "zh": "出差中，有事请留言！",
@@ -2846,7 +2845,7 @@
     {
         "Id": 16013,
         "Avatar": [
-            "/fandom/0/03/Koharu_Swimsuit_Icon.png"
+            "/api/Avatars/Fandom/Koharu_Swimsuit_Icon.png"
         ],
         "Bio": {
             "zh": "泳装才不是涩涩呢！",
@@ -2867,7 +2866,7 @@
     {
         "Id": 10074,
         "Avatar": [
-            "/fandom/9/96/Hanako_Swimsuit_Icon.png"
+            "/api/Avatars/Fandom/Hanako_Swimsuit_Icon.png"
         ],
         "Bio": {
             "zh": "我的真面目，可以随着肌肤一同裸露出来吗？",
@@ -2888,7 +2887,7 @@
         "Id": 20029,
         "Name": "弥守（泳装）",
         "Avatar": [
-            "/fandom/2/2d/Mimori_Swimsuit_Icon.png"
+            "/api/Avatars/Fandom/Mimori_Swimsuit_Icon.png"
         ],
         "Bio": {
             "zh": "总觉得，会有什么好事发生",
@@ -2908,9 +2907,9 @@
         "Name": "梅露",
         "Avatar": [
             "/api/Avatars/Meru_Hot_Spring.webp",
-            "/fandom/2/2b/Meru_Icon.png",
-            "/fandom/0/08/Meru_Old_Icon.png",
-            "/fandom/2/2c/Meru_Hot_Spring_Icon.png"
+            "/api/Avatars/Fandom/Meru_Icon.png",
+            "/api/Avatars/Fandom/Meru_Old_Icon.png",
+            "/api/Avatars/Fandom/Meru_Hot_Spring_Icon.png"
         ],
         "Bio": {
             "zh": "画画时自言自语的次数会变多呢～",
@@ -2928,8 +2927,8 @@
     {
         "Id": 13013,
         "Avatar": [
-            "/fandom/a/a9/Momiji_Icon.png",
-            "/fandom/d/d7/Momiji_Old_Icon.png"
+            "/api/Avatars/Fandom/Momiji_Icon.png",
+            "/api/Avatars/Fandom/Momiji_Old_Icon.png"
         ],
         "Bio": {
             "zh": "知识就是力量。我会好好保护它的！",
@@ -2946,7 +2945,7 @@
         "Id": 10076,
         "Name": "小鸟（应援团）",
         "Avatar": [
-            "/fandom/b/bb/Kotori_Cheerleader_Icon.png"
+            "/api/Avatars/Fandom/Kotori_Cheerleader_Icon.png"
         ],
         "Bio": {
             "zh": "健全的知识寓于健康的身体！",
@@ -2966,7 +2965,7 @@
     {
         "Id": 20030,
         "Avatar": [
-            "/fandom/0/0b/Haruna_Gym_Icon.png"
+            "/api/Avatars/Fandom/Haruna_Gym_Icon.png"
         ],
         "Bio": {
             "zh": "一起来探寻运动和美食之间的关系吧",
@@ -2988,7 +2987,7 @@
     {
         "Id": 10077,
         "Avatar": [
-            "/fandom/2/2f/Ichika_Icon.png"
+            "/api/Avatars/Fandom/Ichika_Icon.png"
         ],
         "Bio": {
             "zh": "无论何时都是大家的伙伴，正义实现委员会！",
@@ -3005,7 +3004,7 @@
     {
         "Id": 10078,
         "Avatar": [
-            "/fandom/1/1e/Kasumi_Icon.png"
+            "/api/Avatars/Fandom/Kasumi_Icon.png"
         ],
         "Bio": {
             "zh": "众生皆源于温泉，亦终将归于温泉",
@@ -3021,7 +3020,7 @@
     {
         "Id": 20031,
         "Avatar": [
-            "/fandom/9/91/Shigure_Hot_Spring_Icon.png"
+            "/api/Avatars/Fandom/Shigure_Hot_Spring_Icon.png"
         ],
         "Bio": {
             "zh": "若连思念都能一饮而尽",
@@ -3039,7 +3038,7 @@
     {
         "Id": 10079,
         "Avatar": [
-            "/fandom/8/81/Misaka_Mikoto_Icon.png"
+            "/api/Avatars/Fandom/Misaka_Mikoto_Icon.png"
         ],
         "Bio": {
             "zh": "寻找周边中",
@@ -3056,7 +3055,7 @@
     {
         "Id": 10080,
         "Avatar": [
-            "/fandom/a/a2/Shokuhou_Misaki_Icon.png"
+            "/api/Avatars/Fandom/Shokuhou_Misaki_Icon.png"
         ],
         "Bio": {
             "zh": "我会联系你的",
@@ -3072,7 +3071,7 @@
     {
         "Id": 26011,
         "Avatar": [
-            "/fandom/0/0b/Saten_Ruiko_Icon.png"
+            "/api/Avatars/Fandom/Saten_Ruiko_Icon.png"
         ],
         "Bio": {
             "zh": "要是看到了不可思议的东西，请联系我！",
@@ -3092,8 +3091,8 @@
         "Name": "紫",
         "Avatar": [
             "/api/Avatars/Yukari.webp",
-            "/fandom/3/3f/Yukari_Icon.png",
-            "/fandom/3/3b/Yukari_Middle_School_Icon.png"
+            "/api/Avatars/Fandom/Yukari_Icon.png",
+            "/api/Avatars/Fandom/Yukari_Middle_School_Icon.png"
         ],
         "Bio": {
             "zh": "小女子现在也，开始用Momotalk啦！",
@@ -3121,7 +3120,7 @@
     {
         "Id": 10082,
         "Avatar": [
-            "/fandom/9/90/Renge_Icon.png"
+            "/api/Avatars/Fandom/Renge_Icon.png"
         ],
         "Bio": {
             "zh": "此刻正值青春之盛时！",
@@ -3135,7 +3134,7 @@
     {
         "Id": 10083,
         "Avatar": [
-            "/fandom/5/55/Kikyou_Icon.png"
+            "/api/Avatars/Fandom/Kikyou_Icon.png"
         ],
         "Bio": {
             "zh": "教学相长",
@@ -3151,7 +3150,7 @@
     {
         "Id": 20032,
         "Avatar": [
-            "/fandom/1/10/Eimi_Swimsuit_Icon.png"
+            "/api/Avatars/Fandom/Eimi_Swimsuit_Icon.png"
         ],
         "Bio": {
             "zh": "不在",
@@ -3169,7 +3168,7 @@
     {
         "Id": 10084,
         "Avatar": [
-            "/fandom/d/d0/Kotama_Camp_Icon.png"
+            "/api/Avatars/Fandom/Kotama_Camp_Icon.png"
         ],
         "Bio": {
             "zh": "我倾听着你的声音",
@@ -3192,7 +3191,7 @@
     {
         "Id": 10085,
         "Avatar": [
-            "/fandom/6/64/Hare_Camp_Icon.png"
+            "/api/Avatars/Fandom/Hare_Camp_Icon.png"
         ],
         "Bio": {
             "zh": "雅典娜3号调整中。注意垃圾讯息",
@@ -3214,8 +3213,8 @@
     {
         "Id": 20033,
         "Avatar": [
-            "/fandom/a/ac/Makoto_Icon.png",
-            "/fandom/b/be/Makoto_Dress_Icon.png"
+            "/api/Avatars/Fandom/Makoto_Icon.png",
+            "/api/Avatars/Fandom/Makoto_Dress_Icon.png"
         ],
         "Bio": {
             "zh": "我便是，格赫娜真正的领导者！",
@@ -3231,7 +3230,7 @@
     {
         "Id": 10087,
         "Avatar": [
-            "/fandom/c/c5/Ako_Dress_Icon.png"
+            "/api/Avatars/Fandom/Ako_Dress_Icon.png"
         ],
         "Bio": {
             "zh": "现在的我，只是一名特工…",
@@ -3251,9 +3250,9 @@
     {
         "Id": 16014,
         "Avatar": [
-            "/fandom/3/36/Ibuki_Icon.png",
-            "/fandom/b/ba/Ibuki_Dress_Icon.png",
-            "/fandom/7/72/Ibuki_Old_Icon.png"
+            "/api/Avatars/Fandom/Ibuki_Icon.png",
+            "/api/Avatars/Fandom/Ibuki_Dress_Icon.png",
+            "/api/Avatars/Fandom/Ibuki_Old_Icon.png"
         ],
         "Bio": {
             "zh": "我是格赫娜学园的伊吹！",
@@ -3270,7 +3269,7 @@
     {
         "Id": 10086,
         "Avatar": [
-            "/fandom/f/f1/Hina_Dress_Icon.png"
+            "/api/Avatars/Fandom/Hina_Dress_Icon.png"
         ],
         "Bio": {
             "zh": "",
@@ -3292,7 +3291,7 @@
     {
         "Id": 10088,
         "Avatar": [
-            "/fandom/3/32/Kayoko_Dress_Icon.png"
+            "/api/Avatars/Fandom/Kayoko_Dress_Icon.png"
         ],
         "Bio": {
             "zh": "工作结束后会回复",
@@ -3310,7 +3309,7 @@
     {
         "Id": 10089,
         "Avatar": [
-            "/fandom/1/1c/Aru_Dress_Icon.png"
+            "/api/Avatars/Fandom/Aru_Dress_Icon.png"
         ],
         "Bio": {
             "zh": "正在执行重要任务",
@@ -3331,7 +3330,7 @@
     {
         "Id": 20034,
         "Avatar": [
-            "/fandom/c/c3/Akari_New_Year_Icon.png"
+            "/api/Avatars/Fandom/Akari_New_Year_Icon.png"
         ],
         "Bio": {
             "zh": "新年我们一起踏上美食之旅吧♣",
@@ -3349,7 +3348,7 @@
     {
         "Id": 10090,
         "Avatar": [
-            "/fandom/2/2d/Umika_Icon.png"
+            "/api/Avatars/Fandom/Umika_Icon.png"
         ],
         "Bio": {
             "zh": "如果有关于庆典的通知，请告诉我！",
@@ -3368,7 +3367,7 @@
     {
         "Id": 20035,
         "Avatar": [
-            "/fandom/6/6a/Tsubaki_Guide_Icon.png"
+            "/api/Avatars/Fandom/Tsubaki_Guide_Icon.png"
         ],
         "Bio": {
             "zh": "有些困，但……还得继续当导游……",
@@ -3389,7 +3388,7 @@
     {
         "Id": 10091,
         "Avatar": [
-            "/fandom/7/7f/Kazusa_Band_Icon.png"
+            "/api/Avatars/Fandom/Kazusa_Band_Icon.png"
         ],
         "Bio": {
             "zh": "Sugar Rush的主唱兼贝斯手",
@@ -3412,7 +3411,7 @@
     {
         "Id": 10092,
         "Avatar": [
-            "/fandom/d/d0/Yoshimi_Band_Icon.png"
+            "/api/Avatars/Fandom/Yoshimi_Band_Icon.png"
         ],
         "Bio": {
             "zh": "#猛特训中",
@@ -3434,7 +3433,7 @@
     {
         "Id": 16015,
         "Avatar": [
-            "/fandom/a/a2/Airi_Band_Icon.png"
+            "/api/Avatars/Fandom/Airi_Band_Icon.png"
         ],
         "Bio": {
             "zh": "已经没事了！",
@@ -3456,7 +3455,7 @@
         "Id": 10093,
         "Name": "绮良",
         "Avatar": [
-            "/fandom/b/b6/Kirara_Icon.png"
+            "/api/Avatars/Fandom/Kirara_Icon.png"
         ],
         "Bio": {
             "zh": "#闪闪发光#永远_Happy",
@@ -3475,7 +3474,7 @@
     {
         "Id": 10094,
         "Avatar": [
-            "/fandom/7/7a/Momoi_Maid_Icon.png"
+            "/api/Avatars/Fandom/Momoi_Maid_Icon.png"
         ],
         "Bio": {
             "zh": "女仆玩家……专精？",
@@ -3493,7 +3492,7 @@
     {
         "Id": 10095,
         "Avatar": [
-            "/fandom/f/fc/Midori_Maid_Icon.png"
+            "/api/Avatars/Fandom/Midori_Maid_Icon.png"
         ],
         "Bio": {
             "zh": "今天也要努力精进。",
@@ -3511,7 +3510,7 @@
     {
         "Id": 20036,
         "Avatar": [
-            "/fandom/2/25/Serika_Swimsuit_Icon.png"
+            "/api/Avatars/Fandom/Serika_Swimsuit_Icon.png"
         ],
         "Bio": {
             "zh": "休假中！！！！！！！",
@@ -3529,7 +3528,7 @@
     {
         "Id": 10096,
         "Avatar": [
-            "/fandom/a/a7/Kanna_Swimsuit_Icon.png"
+            "/api/Avatars/Fandom/Kanna_Swimsuit_Icon.png"
         ],
         "Bio": {
             "zh": "服务、倾听、诚实",
@@ -3547,7 +3546,7 @@
     {
         "Id": 20037,
         "Avatar": [
-            "/fandom/6/60/Fubuki_Swimsuit_Icon.png"
+            "/api/Avatars/Fandom/Fubuki_Swimsuit_Icon.png"
         ],
         "Bio": {
             "zh": "我的休假……哪去了……",
@@ -3565,7 +3564,7 @@
     {
         "Id": 26012,
         "Avatar": [
-            "/fandom/b/b2/Kirino_Swimsuit_Icon.png"
+            "/api/Avatars/Fandom/Kirino_Swimsuit_Icon.png"
         ],
         "Bio": {
             "zh": "正在担任救生员！",
@@ -3583,7 +3582,7 @@
     {
         "Id": 10097,
         "Avatar": [
-            "/fandom/2/20/Moe_Swimsuit_Icon.png"
+            "/api/Avatars/Fandom/Moe_Swimsuit_Icon.png"
         ],
         "Bio": {
             "zh": "导弹……更大的导弹……",
@@ -3601,7 +3600,7 @@
     {
         "Id": 10098,
         "Avatar": [
-            "/fandom/e/e2/Hoshino_Armed_Icon.png"
+            "/api/Avatars/Fandom/Hoshino_Armed_Icon.png"
         ],
         "Bio": {
             "zh": "午睡中。急事请打电话~",
@@ -3621,7 +3620,7 @@
     {
         "Id": 10099,
         "Avatar": [
-            "/fandom/e/e2/Hoshino_Armed_Icon.png"
+            "/api/Avatars/Fandom/Hoshino_Armed_Icon.png"
         ],
         "Bio": {
             "zh": "午睡中。急事请打电话~",
@@ -3641,8 +3640,8 @@
     {
         "Id": 10100,
         "Avatar": [
-            "/fandom/2/2d/Shiroko_Terror_Icon.png",
-            "/fandom/8/8a/Shiroko_Terror_2_Icon.png"
+            "/api/Avatars/Fandom/Shiroko_Terror_Icon.png",
+            "/api/Avatars/Fandom/Shiroko_Terror_2_Icon.png"
         ],
         "Bio": {
             "zh": "自行车伙伴招募中…… (2/5)",
@@ -3661,7 +3660,7 @@
     {
         "Id": 10101,
         "Avatar": [
-            "/fandom/7/75/Saori_Swimsuit_Icon.png"
+            "/api/Avatars/Fandom/Saori_Swimsuit_Icon.png"
         ],
         "Bio": {
             "zh": "随时接受求助者咨询",
@@ -3677,7 +3676,7 @@
     {
         "Id": 10102,
         "Avatar": [
-            "/fandom/5/5b/Hiyori_Swimsuit_Icon.png"
+            "/api/Avatars/Fandom/Hiyori_Swimsuit_Icon.png"
         ],
         "Bio": {
             "zh": "夏天......大海......难道这是梦！？",
@@ -3693,7 +3692,7 @@
     {
         "Id": 26013,
         "Avatar": [
-            "/fandom/d/d3/Atsuko_Swimsuit_Icon.png"
+            "/api/Avatars/Fandom/Atsuko_Swimsuit_Icon.png"
         ],
         "Bio": {
             "zh": "正在练习拍摄人物照片",
@@ -3709,7 +3708,7 @@
     {
         "Id": 10103,
         "Avatar": [
-            "/fandom/c/c0/Marina_Qipao_Icon.png"
+            "/api/Avatars/Fandom/Marina_Qipao_Icon.png"
         ],
         "Bio": {
             "zh": "这件衣服……是不是有点太暴露了……",
@@ -3728,7 +3727,7 @@
     {
         "Id": 20038,
         "Avatar": [
-            "/fandom/b/bf/Tomoe_Qipao_Icon.png"
+            "/api/Avatars/Fandom/Tomoe_Qipao_Icon.png"
         ],
         "Bio": {
             "zh": "我正在散步，顺便休息一下",
@@ -3747,7 +3746,7 @@
     {
         "Id": 10104,
         "Avatar": [
-            "/fandom/a/ad/Reijo_Icon.png"
+            "/api/Avatars/Fandom/Reijo_Icon.png"
         ],
         "Bio": {
             "zh": "要修行随时奉陪",
@@ -3761,7 +3760,7 @@
     {
         "Id": 20039,
         "Avatar": [
-            "/fandom/d/da/Kisaki_Icon.png"
+            "/api/Avatars/Fandom/Kisaki_Icon.png"
         ],
         "Bio": {
             "zh": "正心诚意",
@@ -3776,7 +3775,9 @@
     },
     {
         "Id": 10105,
-        "Avatar": ["/fandom/c/cf/Mari_Idol_Icon.png"],
+        "Avatar": [
+            "/api/Avatars/Fandom/Mari_Idol_Icon.png"
+        ],
         "Bio": {
             "zh": "愿这首歌能够传递给您",
             "jp": "この歌が届きますように",
@@ -3790,7 +3791,9 @@
     },
     {
         "Id": 10106,
-        "Avatar": ["/fandom/c/c4/Sakurako_Idol_Icon.png"],
+        "Avatar": [
+            "/api/Avatars/Fandom/Sakurako_Idol_Icon.png"
+        ],
         "Bio": {
             "zh": "这是崭新的一步",
             "jp": "これが新たな一歩",
@@ -3804,7 +3807,9 @@
     },
     {
         "Id": 16016,
-        "Avatar": ["/fandom/d/d1/Mine_Idol_Icon.png"],
+        "Avatar": [
+            "/api/Avatars/Fandom/Mine_Idol_Icon.png"
+        ],
         "Bio": {
             "zh": "请多多为救护骑士团应援！",
             "jp": "救護騎士団の応援を何卒よろしくお願いします！",
@@ -3818,7 +3823,9 @@
     },
     {
         "Id": 20040,
-        "Avatar": ["/fandom/4/4e/Satsuki_Icon.png"],
+        "Avatar": [
+            "/api/Avatars/Fandom/Satsuki_Icon.png"
+        ],
         "Bio": {
             "zh": "长期征集受试者 / 详情请咨询万魔殿",
             "jp": "被験者を常時募集しているわ／お問い合わせは万魔殿まで",
@@ -3828,7 +3835,9 @@
     },
     {
         "Id": 10107,
-        "Avatar": ["/fandom/a/af/Chiaki_Icon.png"],
+        "Avatar": [
+            "/api/Avatars/Fandom/Chiaki_Icon.png"
+        ],
         "Bio": {
             "zh": "欢迎随时为「周刊万魔殿」提供消息！",
             "jp": "「週刊万魔殿」への情報提供、いつでも受け付けています!",
@@ -3838,13 +3847,18 @@
     },
     {
         "Id": 10108,
-        "Avatar": ["/fandom/a/a6/Yuuka_Pajamas_Icon.png"],
+        "Avatar": [
+            "/api/Avatars/Fandom/Yuuka_Pajamas_Icon.png"
+        ],
         "Bio": {
             "zh": "唔……睡不着……",
             "jp": "うう……眠れない……",
             "kr": "잠이 안 와…"
         },
-        "Nickname": ["睡衣香", "睡香"],
+        "Nickname": [
+            "睡衣香",
+            "睡香"
+        ],
         "related": [
             13010,
             "pajama"
@@ -3852,7 +3866,9 @@
     },
     {
         "Id": 10109,
-        "Avatar": ["/fandom/9/9d/Noa_Pajamas_Icon.png"],
+        "Avatar": [
+            "/api/Avatars/Fandom/Noa_Pajamas_Icon.png"
+        ],
         "Bio": {
             "zh": "在暗夜的彼方",
             "jp": "暗闇の彼方で",
