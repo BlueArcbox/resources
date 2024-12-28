@@ -317,51 +317,6 @@
         "School": "Abydos"
     },
     {
-        "Id": 347,
-        "Name": {
-            "zh": "千秋",
-            "jp": "チアキ",
-            "tw": "千秋",
-            "en": "Chiaki"
-        },
-        "Avatar": [
-            "/fandom/a/af/Chiaki_Icon.png"
-        ],
-        "Bio": {
-            "zh": "这个得记录一下呢~",
-            "jp": "これは記録しておかなければならないね~",
-            "tw": "這個得記錄一下呢~",
-            "en": "I should make a shot of this~"
-        },
-        "Nickname": [
-            "Chiaki"
-        ],
-        "School": "Gehenna"
-    },
-    {
-        "Id": 216,
-        "Name": {
-            "zh": "皐月",
-            "jp": "サツキ",
-            "tw": "皐月",
-            "en": "Satsuki",
-            "kr": "사츠키"
-        },
-        "Avatar": [
-            "/fandom/4/4e/Satsuki_Icon.png"
-        ],
-        "Bio": {
-            "en": "Cooperate? No, I was just passing by and give you a morale boost.",
-            "zh": "合作?和你们?不，我只是路过，想给你們打气",
-            "tw": "合作?和你們?不，我只是路過，想給你們打氣",
-            "jp": "協力？いいえ、私は応援するために通りかかっただけです。"
-        },
-        "Nickname": [
-            "Satsuki"
-        ],
-        "School": "Gehenna"
-    },
-    {
         "Id": 159,
         "Name": {
             "zh": "绘里香",

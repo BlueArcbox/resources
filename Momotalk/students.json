@@ -147,6 +147,7 @@
         "Id": 10007,
         "Avatar": [
             "/kivo/students/小涂 真纪/露营/avatar.png",
+            "/kivo/students/小涂 真纪/睡衣/maki.png",
             "/fandom/e/e9/Maki_Icon.png",
             "/fandom/e/ec/Maki_Camp_Icon.png"
         ],
@@ -695,6 +696,7 @@
     {
         "Id": 23003,
         "Avatar": [
+            "/kivo/students/小钩 晴/睡衣/hare.png",
             "/fandom/7/7b/Hare_Icon.png"
         ],
         "Bio": {
@@ -765,6 +767,7 @@
     {
         "Id": 26001,
         "Avatar": [
+            "/kivo/students/音濑 小玉/睡衣/kotama.png",
             "/fandom/4/41/Kotama_Icon.png"
         ],
         "Bio": {
@@ -1614,6 +1617,7 @@
         "Id": 20013,
         "Avatar": [
             "/kivo/students/各务 千寻/露营/avatar.png",
+            "/kivo/students/各务 千寻/睡衣/chihiro.png",
             "/fandom/a/aa/Chihiro_Icon.png",
             "/fandom/7/7c/Chihiro_Camp_Icon.png"
         ],
@@ -2511,6 +2515,7 @@
         "Id": 10063,
         "Avatar": [
             "/api/Avatars/Koyuki_Bunny_Girl.webp",
+            "/kivo/students/黑崎 小雪/睡衣/koyuki.png",
             "/fandom/9/97/Koyuki_Icon.png",
             "/fandom/a/a0/Koyuki_Bunny_Girl_Icon.png"
         ],
@@ -3771,7 +3776,7 @@
     },
     {
         "Id": 10105,
-        "Avatar": [],
+        "Avatar": ["/fandom/c/cf/Mari_Idol_Icon.png"],
         "Bio": {
             "zh": "愿这首歌能够传递给您",
             "jp": "この歌が届きますように",
@@ -3785,7 +3790,7 @@
     },
     {
         "Id": 10106,
-        "Avatar": [],
+        "Avatar": ["/fandom/c/c4/Sakurako_Idol_Icon.png"],
         "Bio": {
             "zh": "这是崭新的一步",
             "jp": "これが新たな一歩",
@@ -3799,7 +3804,7 @@
     },
     {
         "Id": 16016,
-        "Avatar": [],
+        "Avatar": ["/fandom/d/d1/Mine_Idol_Icon.png"],
         "Bio": {
             "zh": "请多多为救护骑士团应援！",
             "jp": "救護騎士団の応援を何卒よろしくお願いします！",
@@ -3813,7 +3818,7 @@
     },
     {
         "Id": 20040,
-        "Avatar": [],
+        "Avatar": ["/fandom/4/4e/Satsuki_Icon.png"],
         "Bio": {
             "zh": "长期征集受试者 / 详情请咨询万魔殿",
             "jp": "被験者を常時募集しているわ／お問い合わせは万魔殿まで",
@@ -3823,7 +3828,7 @@
     },
     {
         "Id": 10107,
-        "Avatar": [],
+        "Avatar": ["/fandom/a/af/Chiaki_Icon.png"],
         "Bio": {
             "zh": "欢迎随时为「周刊万魔殿」提供消息！",
             "jp": "「週刊万魔殿」への情報提供、いつでも受け付けています!",
@@ -3833,22 +3838,30 @@
     },
     {
         "Id": 10108,
-        "Avatar": [],
+        "Avatar": ["/fandom/a/a6/Yuuka_Pajamas_Icon.png"],
         "Bio": {
             "zh": "唔……睡不着……",
             "jp": "うう……眠れない……",
             "kr": "잠이 안 와…"
         },
-        "Nickname": []
+        "Nickname": ["睡衣香", "睡香"],
+        "related": [
+            13010,
+            "pajama"
+        ]
     },
     {
         "Id": 10109,
-        "Avatar": [],
+        "Avatar": ["/fandom/9/9d/Noa_Pajamas_Icon.png"],
         "Bio": {
             "zh": "在暗夜的彼方",
             "jp": "暗闇の彼方で",
             "kr": "어둠의 저편에서"
         },
-        "Nickname": []
+        "Nickname": [],
+        "related": [
+            10052,
+            "pajama"
+        ]
     }
 ]
