@@ -1,0 +1,129 @@
+[
+    {
+        "CharacterId": 16002,
+        "MessageJP": "コトリ",
+        "MessageKR": "코토리",
+        "MessageTW": "亞都梨",
+        "MessageEN": "Kotori"
+    },
+    {
+        "MessageId": 160010380,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 160020380,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 160020380,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 160020390,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ふぅ！",
+        "MessageKR": "후우!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 160020390,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 160020400,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "危ないところでした！",
+        "MessageKR": "하마터면 큰일 날 뻔했네요!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 160020400,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 160020410,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "コトリ？",
+        "MessageKR": "코토리?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 160020400,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 160020410,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "どうしたの？",
+        "MessageKR": "무슨 일이야?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 160020410,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 160020411,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "あ、大したことではありません！",
+        "MessageKR": "아, 별일은 아니었습니다!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 160020411,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 160020420,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "実はメガネが壊れてしまい、修理をお願いしていたんです",
+        "MessageKR": "그저 안경이 조금 부러져서, 수리를 맡겼었거든요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 160020420,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 160020421,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "一日ぐらいはなくても大丈夫だろうと思っていたのですが",
+        "MessageKR": "하루 정도는 없어도 괜찮겠지 싶었는데",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 160020421,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 160010427,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "私の視力では無理でしたね！あはは！！",
+        "MessageKR": "제 시력으로는 어림도 없었네요! 하하!!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 160010427,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "コトリの絆イベントへ",
+        "MessageKR": "코토리의 인연스토리로",
+        "MessageTW": "前往亞都梨的羈絆劇情",
+        "MessageEN": "Go to Kotori's Bond Story"
+    }
+]

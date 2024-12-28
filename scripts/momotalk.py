@@ -44,6 +44,9 @@ logger = logging.getLogger(__name__)
 BASE_URL = "https://raw.gitmirror.com/ba-data"
 character_info_test = {"id": 10000, "name": "Aru"}
 
+with open("scripts/signature.json", "r", encoding="utf-8") as f:
+    signature = json.loads(f.read())
+
 
 def check(student):
     if student["CharacterId"] > 99999:
@@ -72,7 +75,11 @@ def download_momotalk_status():
             "id": student["CharacterId"],
             "name": student["FullNameJp"],
             "data": {
-                "zh": student["StatusMessageJp"],
+                "zh": (
+                    signature[str(student["CharacterId"])]
+                    if str(student["CharacterId"]) in signature
+                    else student["StatusMessageJp"]
+                ),
                 "jp": student["StatusMessageJp"],
                 "kr": student["StatusMessageKr"],
             },

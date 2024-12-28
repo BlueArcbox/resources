@@ -1,0 +1,153 @@
+[
+    {
+        "CharacterId": 10109,
+        "MessageJP": "ノア（パジャマ）",
+        "MessageKR": "노아(파자마)",
+        "MessageTW": "乃愛（睡衣）",
+        "MessageEN": "Noa (Pajamas)"
+    },
+    {
+        "MessageId": 101080010,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 101090010,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 101090010,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101090020,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生、申し訳ありません",
+        "MessageKR": "선생님, 노아입니다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101090020,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101090021,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "明日の当番、行けなくなってしまいました",
+        "MessageKR": "죄송합니다만, 내일 예정된 샬레의 당번 업무를 수행하기 어려울 것 같아서요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101090021,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101090030,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "朝は微熱だったのですが、先ほど計ったら上がっていまして……",
+        "MessageKR": "아침부터 약간의 미열이 있었는데, 오후에는 상태가 더 나빠져서…",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101090030,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101090040,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "えっ、大丈夫？",
+        "MessageKR": "큰일이네. 몸이 많이 안 좋은 거야?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101090040,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101090041,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "薬を飲んだら多少は良くなりました",
+        "MessageKR": "걱정하실 정도는 아녜요. 약을 먹고 나니 지금은 괜찮아진 것 같아요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101090041,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101090050,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ただ、この状態で行っても迷惑をかけてしまいそうで",
+        "MessageKR": "다만 이 상태로 샬레에 갔다가는 오히려 선생님께 더 폐를 끼칠 것 같아서…",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101090050,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101090060,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "必ず埋め合わせはいたします",
+        "MessageKR": "갑자기 일정을 조정하게 되어 죄송합니다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101090060,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101090070,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ゆっくり休んでね",
+        "MessageKR": "내 걱정은 말고 일단은 푹 쉬어.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101090060,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101090070,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "何かあったら連絡してね",
+        "MessageKR": "무슨 일 있으면 언제든 연락 주고.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101090070,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101080077,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ありがとうございます、先生",
+        "MessageKR": "네, 선생님도 좋은 밤 되세요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101080077,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ノア（パジャマ）の絆イベントへ",
+        "MessageKR": "노아(파자마)의 인연스토리로",
+        "MessageTW": "前往乃愛（睡衣）的羈絆劇情",
+        "MessageEN": "Go to Noa (Pajamas)'s Bond Story"
+    }
+]

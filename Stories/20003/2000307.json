@@ -1,0 +1,117 @@
+[
+    {
+        "CharacterId": 20003,
+        "MessageJP": "マシロ",
+        "MessageKR": "마시로",
+        "MessageTW": "麻白",
+        "MessageEN": "Mashiro"
+    },
+    {
+        "MessageId": 200020410,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 200030410,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 200030410,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200030420,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "少しお尋ねしたいのですが……",
+        "MessageKR": "조금 뜬금없는 질문이지만",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200030420,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200030430,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "読書はお好きですか？",
+        "MessageKR": "선생님은 독서를 좋아하시나요?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200030430,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200030440,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "まあまあかな……",
+        "MessageKR": "그럭저럭일까……",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200030440,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200030450,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "なるほど",
+        "MessageKR": "그렇군요",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200030450,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200030460,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "正義に関する本を読んでいるの？",
+        "MessageKR": "또 정의에 관한 책을 읽고 있는 거야?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200030460,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200030461,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "いえ、そうではなく",
+        "MessageKR": "아뇨;; 그런 건 아니고",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200030461,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200020467,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ただ気になって",
+        "MessageKR": "그냥 궁금해져서 여쭤보았습니다",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200020467,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "マシロの絆イベントへ",
+        "MessageKR": "마시로의 인연스토리로",
+        "MessageTW": "前往麻白的羈絆劇情",
+        "MessageEN": "Go to Mashiro's Bond Story"
+    }
+]

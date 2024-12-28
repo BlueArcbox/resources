@@ -9,9 +9,12 @@ from functools import cached_property
 
 # name fixing table
 FIX_GAMEKEE_ALIAS = {
+    # gamekee id: [gamekee's bad name alias, format nama alias]
     "60697": ["シュン", "シュン（幼女）"],
     "155638": ["サオリ（水着", "サオリ（水着）"],
     "130764": ["Saten Ruiko", "Saten Ruiko,佐天涙子"],
+    "172184": ["ユウカ（睡衣）", "ユウカ（パジャマ）"],
+    "172185": ["noa,枕头", "ノア（パジャマ）"],
 }
 FIX_KIVO_NAME = {
     "ミク": "初音ミク",
@@ -59,7 +62,8 @@ logging.basicConfig(
     level=logging.INFO, format="%(asctime)s - %(message)s", datefmt="%Y-%m-%d %H:%M:%S"
 )
 logger = logging.getLogger(__name__)
-
+with open(Path("scripts") / "signature.json", 'r', encoding="utf-8") as f:
+    signature = json.loads(f.read())
 
 class ImageURLExtractor(HTMLParser):
     """Extracts character face diff image URLs from HTML content.
@@ -319,6 +323,10 @@ class Kivo(SiteTool):
         )
         result = self._replace_domain(result)
         return result
+    
+    def fetch_bio(self, schale_id, kivo_id):
+        data = self.ba.request_kivo_data(kivo_id)
+        signature[schale_id] = data['momo_talk_signature']
 
 
 class Gamekee(SiteTool):
@@ -423,6 +431,10 @@ if __name__ == "__main__":
         gamekee_id = schale_gamekee_table[key]
         kivo_id = schale_kivo_table[key]
         file_path = Path("Stories") / key / "Stickers.json"
+        
+        ### i can't find a better place to put this code
+        if key not in signature:
+            kivo.fetch_bio(key, kivo_id)
 
         if not file_path.exists():
             file_path.parent.mkdir(parents=True, exist_ok=True)
@@ -439,6 +451,10 @@ if __name__ == "__main__":
         logger.success(f"Stickers for student {schale_student_list[key]}({key}) saved")
 
     logger.info("✨ All student stickers processed and saved")
+    
+    # i can't find a better place to put this code
+    with open(Path("scripts") / "signature.json", "w+", encoding="utf-8") as f:
+        json.dump(signature, f, indent=4, ensure_ascii=False)
 
     if errors:
         logger.warning("No match found: ")

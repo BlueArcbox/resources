@@ -1,0 +1,117 @@
+[
+    {
+        "CharacterId": 10062,
+        "MessageJP": "トキ",
+        "MessageKR": "토키",
+        "MessageTW": "季",
+        "MessageEN": "Toki"
+    },
+    {
+        "MessageId": 100610240,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 100620240,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 100620240,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100620250,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生。そろそろ私たちの間に ",
+        "MessageKR": "슬슬 저희 사이의 '증표'가",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100620250,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 100620251,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "「証」が必要な頃だと思いますので",
+        "MessageKR": "필요해진 시점이라고 보여지기에",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100620251,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100620260,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "お話をさせていただきたく",
+        "MessageKR": "오늘은 그에 관련된 말씀을 드리고자 합니다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100620260,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 100620270,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ど、どういうこと！？「証」って何！？",
+        "MessageKR": "여전히 영문을 모르겠어!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100620270,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100620271,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "大丈夫です",
+        "MessageKR": "괜찮습니다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100620271,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100620280,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "私がわかっていれば良いので",
+        "MessageKR": "선생님께서 모르셔도, 제가 알고 있기에.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100620280,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 100610287,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "トキさん……？",
+        "MessageKR": "토키야……?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100610287,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "トキの絆イベントへ",
+        "MessageKR": "토키의 인연스토리로",
+        "MessageTW": "前往季的羈絆劇情",
+        "MessageEN": "Go to Toki's Bond Story"
+    }
+]
