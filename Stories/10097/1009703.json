@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "お肉や果物は腐るギリギリが一番美味しいって聞いたんだけど",
         "MessageKR": "과일과 고기는 썩기 직전이 가장 맛있다고 하던데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "聽說水果和肉類，在快要腐爛的時候是最好吃的",
+        "MessageEN": "I heard fruit and meat are just the most delicious right before they go bad."
     },
     {
         "MessageId": 100970150,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "お魚もそうなのかな？",
         "MessageKR": "생선도 마찬가지인 걸까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "魚類會不會也一樣呢？",
+        "MessageEN": "So you think it'd be the same with fish?"
     },
     {
         "MessageId": 100970160,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "急にどうしたの……？",
         "MessageKR": "갑자기 왜 그런 생각을……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "為什麼突然思考這種問題……？",
+        "MessageEN": "What makes you say that?"
     },
     {
         "MessageId": 100970170,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "それがね、この村でくさやを食べる機会があって",
         "MessageKR": "다른 게 아니라, 이 마을에서 쿠사야를 몇 번 먹어볼 기회가 있었는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "其實也沒什麼，只是因為在這個村子裡吃到過幾次臭魚乾",
+        "MessageEN": "You see, I got the chance to try kusaya while I was here..."
     },
     {
         "MessageId": 100970171,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "臭いはひどかったんだけど、旨味が濃縮されてたから……",
         "MessageKR": "냄새는 썩은 것처럼 지독한데 감칠맛은 평범한 생선보다 더 진하더라고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然那東西聞起來像腐爛了一樣，味道卻比一般的魚還好吃",
+        "MessageEN": "And the smell? PHEW. Nasty. Rotten. But it was the most savory thing I've ever tried."
     },
     {
         "MessageId": 100970172,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ほかの魚も、腐らせたらどうなるんだろうなって",
         "MessageKR": "그래서 다른 생선도 썩히면 괜찮아질까 싶어서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以我才在想，其他的魚是不是也可以放到壞掉再吃",
+        "MessageEN": "Which made me wonder, do all fish taste good rotten?"
     },
     {
         "MessageId": 100970180,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "発酵処理と、ただ腐らせるのは――",
         "MessageKR": "발효균 중에는 단백질을 분해하는 종이 많으니까—",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "畢竟是利用了某些能分解蛋白質的酵母菌──",
+        "MessageEN": "There are many species of fermenting bacteria that break down protein."
     },
     {
         "MessageId": 100970180,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "たぶん別じゃないかな？",
         "MessageKR": "엄밀히 말하자면 썩히는 것과는 다르지 않을까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以嚴格來說，那其實跟單純的腐壞不太一樣吧？",
+        "MessageEN": "It's technically a little different than leaving it to rot."
     },
     {
         "MessageId": 100970190,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "……そっか。",
         "MessageKR": "……그런가?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……是嗎？",
+        "MessageEN": "...You think so?"
     },
     {
         "MessageId": 100970200,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "まあ、私は旨味よりも",
         "MessageKR": "뭐",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯……",
+        "MessageEN": "Well"
     },
     {
         "MessageId": 100970201,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "ひどい臭いのほうに興味があるだけなんだよね",
         "MessageKR": "내 관심사는 감칠맛이 아니라 지독한 냄새에 있으니 아무래도 상관없지만.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "反正我有興趣的是那種濃烈的臭味，而不是食物本身，所以應該差不多吧？",
+        "MessageEN": "Anyway, I'm fascinated with the nasty smell, not the taste."
     },
     {
         "MessageId": 100970210,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "そっち！？",
         "MessageKR": "괜찮다는 게 그쪽이었어?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你有興趣的竟然是臭味！？",
+        "MessageEN": "That's the part you liked?!"
     },
     {
         "MessageId": 100960217,

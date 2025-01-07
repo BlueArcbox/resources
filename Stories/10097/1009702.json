@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 100970090,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "とんでもない物があるよ！",
         "MessageKR": "여기 엄청난 게 있어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我這邊有個很厲害的東西喔！",
+        "MessageEN": "There's something amazing here!"
     },
     {
         "MessageId": 100970100,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "いきなりどうしたの？",
         "MessageKR": "갑자기 무슨 일이야, 모에?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼有點沒頭沒尾的呢，萌？",
+        "MessageEN": "What's going on, Moe?"
     },
     {
         "MessageId": 100970100,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "もしかして、また暇なの……？",
         "MessageKR": "설마 저번처럼 심심한 것뿐이라면……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果跟上次一樣只是覺得無聊的話……",
+        "MessageEN": "If you're just bored, like last time..."
     },
     {
         "MessageId": 100970110,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "爆発が",
         "MessageKR": "폭발이",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "爆炸",
+        "MessageEN": "The explosions"
     },
     {
         "MessageId": 100970111,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "爆発が止まらない",
         "MessageKR": "폭발이 멈추지 않아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "爆炸聲",
+        "MessageEN": "The explosions won't stop!"
     },
     {
         "MessageId": 100970112,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "めっちゃ爆発してる！",
         "MessageKR": "쉴 새 없이 마구 폭발하고 있어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "爆炸聲正在不停地傳來！",
+        "MessageEN": "Relentless explosions!"
     },
     {
         "MessageId": 100970120,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "え！？",
         "MessageKR": "뭐?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "什麼！？",
+        "MessageEN": "What?!"
     },
     {
         "MessageId": 100970120,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "何が爆発してるの！？",
         "MessageKR": "뭐가 폭발하는 건데?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是什麼爆炸了！？",
+        "MessageEN": "What's exploding?!"
     },
     {
         "MessageId": 100970130,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "待ってて！すぐ助けに行くから！",
         "MessageKR": "아니, 조금만 기다려! 금방 도와주러 갈 테니까!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你等著！我立刻過去幫你！",
+        "MessageEN": "Hold tight! I'm coming to save you!"
     },
     {
         "MessageId": 100960137,

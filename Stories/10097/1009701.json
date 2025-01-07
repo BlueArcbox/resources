@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生～",
         "MessageKR": "선생님\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師～",
+        "MessageEN": "Sensei!"
     },
     {
         "MessageId": 100970020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今って忙しい？",
         "MessageKR": "혹시 지금 바빠?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在很忙嗎？",
+        "MessageEN": "You busy?"
     },
     {
         "MessageId": 100970030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "特に予定はないけど……",
         "MessageKR": "특별한 일정은 없는데…",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "目前是沒什麼事要做啦……",
+        "MessageEN": "I don't have any particular plans..."
     },
     {
         "MessageId": 100970030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "何かあったの？",
         "MessageKR": "왜? 무슨 일 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼了？有什麼事嗎？",
+        "MessageEN": "What's wrong? Did something happen?"
     },
     {
         "MessageId": 100970040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "こんな時間に連絡する理由なんて、ひとつしかないでしょ",
         "MessageKR": "이런 시간에 연락을 한다면 이유야 뻔하지…",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "之所以在這種時候聯絡……",
+        "MessageEN": "I'm messaging you late at night, isn't it obvious?"
     },
     {
         "MessageId": 100970041,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "暇なの！",
         "MessageKR": "심심하니까!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然是因為無聊囉！",
+        "MessageEN": "I'm heckin' bored!"
     },
     {
         "MessageId": 100970050,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "……ほかのみんなは？",
         "MessageKR": "다른 RABBIT 소대원들은 어디 갔어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "其他RABBIT小隊的成員呢？",
+        "MessageEN": "Where are the rest of RABBIT squad members?"
     },
     {
         "MessageId": 100970060,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "あ～",
         "MessageKR": "아, 그게 말이지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，你說他們啊",
+        "MessageEN": "Ah, the thing is"
     },
     {
         "MessageId": 100970061,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "教えちゃったら来ないかもしれないし",
         "MessageKR": "역시 그냥 말해주면 재미가 없으니까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "直接告訴你就不好玩了",
+        "MessageEN": "Eh, it's no fun to just text it to you."
     },
     {
         "MessageId": 100970070,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "気になるんだったら、こっちに来てよ",
         "MessageKR": "무슨 일인지 궁금하면 보내 준 주소로 찾아와.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果好奇他們在做什麼的話，就到這個地點來吧",
+        "MessageEN": "If you wanna know, come to the address I just sent you."
     },
     {
         "MessageId": 100970071,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "待ってるね～",
         "MessageKR": "기다리고 있을 테니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我會在這裡等你",
+        "MessageEN": "I'll be waiting."
     },
     {
         "MessageId": 100960077,

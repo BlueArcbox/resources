@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "困ったねぇ……",
         "MessageKR": "곤란하네……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真傷腦筋……",
+        "MessageEN": "What a pain..."
     },
     {
         "MessageId": 100970230,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "どうしたの？",
         "MessageKR": "무슨 문제라도 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼了嗎？",
+        "MessageEN": "Everything okay?"
     },
     {
         "MessageId": 100970240,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "それが、昨日からポータブル発電機の調子が悪くてさ",
         "MessageKR": "그게 어제부터 휴대용 발전기의 상태가 좋지 않아서 살펴봤는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為我的攜帶式發電機從昨天開始就怪怪的，所以就檢查了一下",
+        "MessageEN": "The portable generator started being wonky yesterday, so I went to take a look."
     },
     {
         "MessageId": 100970241,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "調べてみたら、フィルターのところに塩の結晶が付いてたんだ",
         "MessageKR": "필터 주변에 소금 결정이 잔뜩 맺혀 있더라고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒想到發電機的過濾器周圍竟然結滿了鹽巴結晶",
+        "MessageEN": "A bunch of salt crystals accumulated around the filter."
     },
     {
         "MessageId": 100970250,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "潮風のせいで、内側も錆びちゃってて……",
         "MessageKR": "아무래도 바닷바람을 너무 맞아서 안쪽에 녹이 슬었나 봐",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我猜可能是海風吹太久的關係，導致發電機內部生鏽了",
+        "MessageEN": "All the sea breeze in the area must've made it rot."
     },
     {
         "MessageId": 100970260,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "それは大変だね……",
         "MessageKR": "그거 큰일이네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那還真糟糕",
+        "MessageEN": "That sounds bad."
     },
     {
         "MessageId": 100970270,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "今さら防食処理ってのもね",
         "MessageKR": "그러게 말이야. 지금 와서 부식 방지 처리를 할 수도 없고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就是說啊。現在既沒辦法幫發電機做防鏽處理",
+        "MessageEN": "It is. It's not like I can treat it with corrosion protection now,"
     },
     {
         "MessageId": 100970271,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "かといって、野営地を移すのも難しいし",
         "MessageKR": "지금 당장 바닷바람이 들지 않는 장소로 야영지를 옮길 수도 없고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "也不可能馬上把營地遷到沒有海風的地方",
+        "MessageEN": "and there's nowhere to move our camp site that'd be safe from the sea breeze."
     },
     {
         "MessageId": 100970280,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "この近くに、みんなで泊まれる安い宿ってないのかな？",
         "MessageKR": "이 근처에 소대원 모두가 묵을 수 있는 저렴한 숙소가 없으려나?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這附近會有便宜的旅社，能讓我們小隊暫時住一陣子嗎？",
+        "MessageEN": "Is there a cheap room that could accommodate all the squad members?"
     },
     {
         "MessageId": 100970281,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "そんな都合良く宿があるとは思えないけど……",
         "MessageKR": "이런 벽지에 그렇게 형편 좋은 숙소가 있을 것 같지는 않지만……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然我覺得這麼偏僻的地方，應該不太可能會有好的旅社就是了……",
+        "MessageEN": "We're out in the sticks. Doubt it."
     },
     {
         "MessageId": 100970290,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "うーん……",
         "MessageKR": "으음……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔嗯……",
+        "MessageEN": "Um..."
     },
     {
         "MessageId": 100970290,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "それなら、助けられるかもしれない",
         "MessageKR": "그런 문제라면 내가 도와줄 수 있을 것 같은데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果是這樣的話，說不定我能幫上忙",
+        "MessageEN": "I think I have a solution."
     },
     {
         "MessageId": 100970300,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "え、本当？",
         "MessageKR": "응? 어떻게?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？真的嗎？",
+        "MessageEN": "Huh? Really?"
     },
     {
         "MessageId": 100960307,
