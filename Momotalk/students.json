@@ -4263,5 +4263,65 @@
             "ItemId": 10052,
             "ItemType": "pajama"
         }
+    },
+    {
+        "Id": 10110,
+        "Avatar": [],
+        "Bio": {
+            "zh": "言の葉を紡ぐのは難しいものだね",
+            "jp": "言の葉を紡ぐのは難しいものだね",
+            "kr": "하고 싶었던 말을 서로에게"
+        },
+        "Nickname": [],
+        "Fixed": [],
+        "Related": null
+    },
+    {
+        "Id": 10112,
+        "Avatar": [],
+        "Bio": {
+            "zh": "最高の体験をお届けするよ！",
+            "jp": "最高の体験をお届けするよ！",
+            "kr": "최고의 가이드를 당신에게!"
+        },
+        "Nickname": [],
+        "Fixed": [],
+        "Related": null
+    },
+    {
+        "Id": 26014,
+        "Avatar": [],
+        "Bio": {
+            "zh": "特殊任務遂行中",
+            "jp": "特殊任務遂行中",
+            "kr": "특수 임무 수행 중"
+        },
+        "Nickname": [],
+        "Fixed": [],
+        "Related": null
+    },
+    {
+        "Id": 20041,
+        "Avatar": [],
+        "Bio": {
+            "zh": "Tasklist",
+            "jp": "Tasklist",
+            "kr": "Tasklist"
+        },
+        "Nickname": [],
+        "Fixed": [],
+        "Related": null
+    },
+    {
+        "Id": 10111,
+        "Avatar": [],
+        "Bio": {
+            "zh": "はぁ……ダルいなぁ",
+            "jp": "はぁ……ダルいなぁ",
+            "kr": "어색해~ 아오!"
+        },
+        "Nickname": [],
+        "Fixed": [],
+        "Related": null
     }
 ]
