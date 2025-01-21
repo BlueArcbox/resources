@@ -310,7 +310,8 @@
     {
         "Id": 13000,
         "Avatar": [
-            "/api/Avatars/Fandom/Akane_Icon.png"
+            "/api/Avatars/Fandom/Akane_Icon.png",
+            "/api/Avatars/Kivo/室笠 茜_校服.png"
         ],
         "Bio": {
             "en": "Enjoying some hot tea.",
@@ -2723,7 +2724,8 @@
         "Avatar": [
             "/api/Avatars/Fandom/Toki_Icon.png",
             "/api/Avatars/Fandom/Toki_Mode_2_Icon.png",
-            "/api/Avatars/Fandom/Toki_Abi-Eshufu_Icon.png"
+            "/api/Avatars/Fandom/Toki_Abi-Eshufu_Icon.png",
+            "/api/Avatars/Kivo/飞鸟马 时_校服.png"
         ],
         "Bio": {
             "en": "On standby.",
@@ -4266,13 +4268,18 @@
     },
     {
         "Id": 10110,
-        "Avatar": [],
+        "Avatar": [
+            "/api/Avatars/Fandom/Seia_Icon.png"
+        ],
         "Bio": {
-            "zh": "言の葉を紡ぐのは難しいものだね",
+            "zh": "编织言语真是件难事呢",
             "jp": "言の葉を紡ぐのは難しいものだね",
             "kr": "하고 싶었던 말을 서로에게"
         },
-        "Nickname": [],
+        "Nickname": [
+            "圣亚",
+            "谜语人"
+        ],
         "Fixed": [],
         "Related": null
     },
@@ -4280,35 +4287,47 @@
         "Id": 10112,
         "Avatar": [],
         "Bio": {
-            "zh": "最高の体験をお届けするよ！",
+            "zh": "呈上最棒的体验！",
             "jp": "最高の体験をお届けするよ！",
             "kr": "최고의 가이드를 당신에게!"
         },
         "Nickname": [],
         "Fixed": [],
-        "Related": null
+        "Related": {
+            "ItemId": 16001,
+            "ItemType": "uniform"
+        }
     },
     {
         "Id": 26014,
         "Avatar": [],
         "Bio": {
-            "zh": "特殊任務遂行中",
+            "zh": "特殊任务执行中",
             "jp": "特殊任務遂行中",
             "kr": "특수 임무 수행 중"
         },
         "Nickname": [],
         "Fixed": [],
-        "Related": null
+        "Related": {
+            "ItemId": 20001,
+            "ItemType": "uniform"
+        }
     },
     {
         "Id": 20041,
-        "Avatar": [],
+        "Avatar": [
+            "/api/Avatars/Fandom/Rio_Icon.png"
+        ],
         "Bio": {
             "zh": "Tasklist",
             "jp": "Tasklist",
             "kr": "Tasklist"
         },
-        "Nickname": [],
+        "Nickname": [
+            "理绪",
+            "莉央",
+            "毁灭菇"
+        ],
         "Fixed": [],
         "Related": null
     },
@@ -4316,12 +4335,15 @@
         "Id": 10111,
         "Avatar": [],
         "Bio": {
-            "zh": "はぁ……ダルいなぁ",
+            "zh": "哈......好麻烦啊",
             "jp": "はぁ……ダルいなぁ",
             "kr": "어색해~ 아오!"
         },
         "Nickname": [],
         "Fixed": [],
-        "Related": null
+        "Related": {
+            "ItemId": 10008,
+            "ItemType": "uniform"
+        }
     }
 ]

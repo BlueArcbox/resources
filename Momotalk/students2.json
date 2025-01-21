@@ -337,29 +337,16 @@
         "School": "Gehenna"
     },
     {
-        "Id": 133,
+        "Id": 515,
         "Name": {
-            "zh": "莉音",
-            "jp": "リオ",
-            "tw": "莉音",
-            "en": "Rio",
-            "kr": "리오"
+            "zh": "未来",
+            "jp": "ミライ",
+            "tw": "未來",
+            "en": "Mirai"
         },
-        "Avatar": [
-            "/api/Avatars/Fandom/Rio_Icon.png"
-        ],
-        "Bio": {
-            "zh": "我不是在说喜欢或不喜欢…只是事实",
-            "jp": "好き嫌いではない…事実だけ",
-            "tw": "我並不是在說喜歡或不喜歡...只是事實",
-            "en": "I am not speaking of likes or dislikes... only facts"
-        },
-        "Nickname": [
-            "Rio",
-            "理绪",
-            "莉央",
-            "毁灭菇"
-        ],
+        "Avatar": [],
+        "Bio": {},
+        "Nickname": ["Mirai"],
         "School": "Millennium"
     },
     {
@@ -379,29 +366,6 @@
             "丽"
         ],
         "School": "Millennium"
-    },
-    {
-        "Id": 943,
-        "Name": {
-            "zh": "圣娅",
-            "jp": "セイア",
-            "tw": "聖亞",
-            "en": "Seia",
-            "kr": "세이아"
-        },
-        "Avatar": [
-            "/api/Avatars/Fandom/Seia_Icon.png"
-        ],
-        "Bio": {
-            "zh": "选择前方的道路",
-            "jp": "進む道を選んで",
-            "tw": "選擇前方的道路",
-            "en": "Choose the path ahead"
-        },
-        "Nickname": [
-            "Seia"
-        ],
-        "School": "Trinity"
     },
     {
         "Id": 126,
@@ -582,7 +546,9 @@
             "/api/Avatars/Fandom/Kaguya_Masked_Icon.png"
         ],
         "Bio": {},
-        "Nickname": ["Kaguya"],
+        "Nickname": [
+            "Kaguya"
+        ],
         "School": "Shanhaijing"
     },
     {
