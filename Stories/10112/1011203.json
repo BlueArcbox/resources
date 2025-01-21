@@ -1,0 +1,129 @@
+[
+    {
+        "CharacterId": 10112,
+        "MessageJP": "アスナ",
+        "MessageKR": "아스나",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101110190,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 101120190,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 101120190,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101120200,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "そういえば",
+        "MessageKR": "그러고 보니",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101120200,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101120201,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "最近いろんなところで",
+        "MessageKR": "요즘 여기저기서",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101120201,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101120210,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生と会う気がする！",
+        "MessageKR": "선생님이랑 마주치는 것 같지 않아?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101120210,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101120220,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "そうだね",
+        "MessageKR": "그러게 말야",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101120210,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101120220,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "またどこかで会えるかもね",
+        "MessageKR": "어디서 마주칠지 예상이 안 돼",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101120220,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101120221,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "あははっ",
+        "MessageKR": "아하하",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101120221,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101120222,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "思いがけない出会いって",
+        "MessageKR": "예상치 못한 만남이라",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101120222,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101110227,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "面白いよね！",
+        "MessageKR": "더 재미있지\\~!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101110227,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "アスナの絆イベントへ",
+        "MessageKR": "아스나의 인연스토리로",
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
+    }
+]

@@ -1,0 +1,129 @@
+[
+    {
+        "CharacterId": 26014,
+        "MessageJP": "カリン",
+        "MessageKR": "카린",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 260130010,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 260140010,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 260140010,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 260140020,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生、お疲れ様",
+        "MessageKR": "임무가 끝났다",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 260140020,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 260140021,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "任務が一段落したから",
+        "MessageKR": "앞으로 며칠 동안은 휴일이지만",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 260140021,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 260140030,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "今日から数日、お休みになったんだ",
+        "MessageKR": "교복을 입고 지낼 것 같다",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 260140030,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 260140040,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "お休み、いいなぁ……",
+        "MessageKR": "휴일이라니 잘됐네",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 260140040,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 260140050,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "普段、休日は何をするの？",
+        "MessageKR": "쉬는 날엔 보통 뭘 해?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 260140050,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 260140051,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "うーん",
+        "MessageKR": "음",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 260140051,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 260140060,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "いつもは……任務の時と変わらないな",
+        "MessageKR": "뭘 하지?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 260140060,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 260130067,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "……ちょっとそっちに行ってもいい？",
+        "MessageKR": "……저한테 물어보셔도?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 260130067,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "カリンの絆イベントへ",
+        "MessageKR": "카린의 인연스토리로",
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
+    }
+]

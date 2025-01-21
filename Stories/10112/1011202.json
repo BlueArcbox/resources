@@ -1,0 +1,129 @@
+[
+    {
+        "CharacterId": 10112,
+        "MessageJP": "アスナ",
+        "MessageKR": "아스나",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101110130,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 101120130,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 101120130,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101120140,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "そろそろお昼休みだね",
+        "MessageKR": "곧 점심 시간이네",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101120140,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101120150,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "もうお腹空いちゃったよ",
+        "MessageKR": "이때쯤이면 배가 고파져",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101120150,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101120160,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "私はいつでも空いてる……",
+        "MessageKR": "나는 항상 고픈데……",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101120160,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101120161,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "あははっ",
+        "MessageKR": "아하하",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101120161,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101120170,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "何それ",
+        "MessageKR": "뭐야 그게",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101120170,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101120180,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "アスナはお昼何食べるの？",
+        "MessageKR": "아스나는 점심 뭐 먹어?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101120180,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101120181,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "うーん",
+        "MessageKR": "음\\~ 글쎄",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101120181,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101110187,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "考え中！",
+        "MessageKR": "고민 중!!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101110187,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "アスナの絆イベントへ",
+        "MessageKR": "아스나의 인연스토리로",
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
+    }
+]

@@ -2,7 +2,15 @@ import requests
 from pathlib import Path
 import json
 import logging
-from utils import process_student_info
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+REPO_OWNER = os.getenv("REPO_OWNER")
+REPO_NAME = os.getenv("REPO_NAME")
+
+if not REPO_OWNER or not REPO_NAME:
+    raise ValueError("REPO_OWNER and REPO_NAME environment variables must be set.")
 
 
 # ANSI color codes
@@ -39,10 +47,8 @@ logging.setLoggerClass(ColoredLogger)
 logging.basicConfig(
     level=logging.INFO, format="%(asctime)s - %(message)s", datefmt="%Y-%m-%d %H:%M:%S"
 )
-_a = "LocalImagePath"
 logger = logging.getLogger(__name__)
-BASE_URL = "https://raw.gitmirror.com/ba-data"
-character_info_test = {"id": 10000, "name": "Aru"}
+BASE_URL = f"https://raw.githubusercontent.com/{REPO_OWNER}/{REPO_NAME}"
 
 with open("scripts/signature.json", "r", encoding="utf-8") as f:
     signature = json.loads(f.read())
@@ -57,10 +63,6 @@ def check(student):
 
 
 def download_momotalk_status():
-    student_info = process_student_info("10000", character_info_test)
-    student_info2 = process_student_info("10001", character_info_test)
-    _b = next((item[_a] for item in student_info2 if _a in item), None)[7:]
-    globals()[_b] = next((item[_a] for item in student_info if _a in item), None)[:-4]
     url_jp = f"{BASE_URL}/jp/Excel/LocalizeCharProfileExcelTable.json"
     url_global = f"{BASE_URL}/global/Excel/LocalizeCharProfileExcelTable.json"
 
@@ -156,7 +158,14 @@ if __name__ == "__main__":
                     break
         else:
             data.append(
-                {"Id": item["id"], "Avatar": [], "Bio": item["data"], "Nickname": []}
+                {
+                    "Id": item["id"],
+                    "Avatar": [],
+                    "Bio": item["data"],
+                    "Nickname": [],
+                    "Fixed": [],
+                    "Related": None,
+                }
             )
             logger.info(f"✍️  Insert {item['name']}")
 

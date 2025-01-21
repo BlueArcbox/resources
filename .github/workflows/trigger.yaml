@@ -12,4 +12,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - run: scripts/isUpdated.sh
+      - name: Run isUpdated.sh
+        env:
+          REPO_OWNER: ${{ secrets.REPO_OWNER }}
+          REPO_NAME: ${{ secrets.REPO_NAME }}
+        run: |
+          chmod +x scripts/isUpdated.sh
+          ./scripts/isUpdated.sh "$REPO_OWNER" "$REPO_NAME"

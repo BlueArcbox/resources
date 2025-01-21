@@ -5,11 +5,11 @@
             "/api/Avatars/Fandom/Aru_Icon.png"
         ],
         "Bio": {
-            "zh": "什么都能解决哦！",
-            "jp": "なんでも解決するわよ！",
-            "tw": "什麼都能解決哦！",
             "en": "I'll solve any problem!",
-            "kr": "무엇이든 해결해 드립니다"
+            "jp": "なんでも解決するわよ！",
+            "kr": "무엇이든 해결해 드립니다",
+            "tw": "什麼都能解決哦！",
+            "zh": "什么都能解决哦！"
         },
         "Nickname": [
             "啊露",
@@ -19,7 +19,9 @@
             "啊鲁",
             "爱露",
             "亚琉"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10001,
@@ -27,18 +29,20 @@
             "/api/Avatars/Fandom/Eimi_Icon.png"
         ],
         "Bio": {
-            "zh": "在此输入状态信息",
-            "jp": "ここにステータスメッセージを入力",
-            "tw": "在此輸入狀態訊息",
             "en": "Enter status message here",
-            "kr": "이곳에 상태 메시지를 입력"
+            "jp": "ここにステータスメッセージを入力",
+            "kr": "이곳에 상태 메시지를 입력",
+            "tw": "在此輸入狀態訊息",
+            "zh": "在此输入状态信息"
         },
         "Nickname": [
             "英美",
             "拉链",
             "大奶奶",
             "咏美"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10002,
@@ -46,11 +50,11 @@
             "/api/Avatars/Fandom/Haruna_Icon.png"
         ],
         "Bio": {
-            "zh": "EAT OR DIE",
-            "jp": "EAT OR DIE",
-            "tw": "EAT OR DIE",
             "en": "EAT OR DIE",
-            "kr": "EAT OR DIE"
+            "jp": "EAT OR DIE",
+            "kr": "EAT OR DIE",
+            "tw": "EAT OR DIE",
+            "zh": "EAT OR DIE"
         },
         "Nickname": [
             "羽留奈",
@@ -58,7 +62,9 @@
             "春奈",
             "羽榴奈",
             "美食狙"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10003,
@@ -67,11 +73,11 @@
             "/api/Avatars/Fandom/Hifumi_Robber_Icon.png"
         ],
         "Bio": {
-            "zh": "有人要一起去佩洛洛庆典吗？",
-            "jp": "ペロロフェスに一緒に行ってくれる人いますか？",
-            "tw": "有人要一起去佩洛洛慶典嗎？",
             "en": "Who wants to go to the Peroro Festival with me?",
-            "kr": "페로로 페스티벌 같이 가실 분?"
+            "jp": "ペロロフェスに一緒に行ってくれる人いますか？",
+            "kr": "페로로 페스티벌 같이 가실 분?",
+            "tw": "有人要一起去佩洛洛慶典嗎？",
+            "zh": "有人要一起去佩洛洛庆典吗？"
         },
         "Nickname": [
             "一二三",
@@ -80,7 +86,9 @@
             "浮士德",
             "日步美",
             "啊哈哈"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10004,
@@ -89,11 +97,11 @@
             "/api/Avatars/Fandom/Hina_Nightwear_Icon.png"
         ],
         "Bio": {
-            "zh": "",
-            "jp": "",
-            "tw": "",
             "en": "",
-            "kr": ""
+            "jp": "",
+            "kr": "",
+            "tw": "",
+            "zh": ""
         },
         "Nickname": [
             "阳奈",
@@ -101,7 +109,9 @@
             "雏",
             "老婆",
             "委员长"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10005,
@@ -113,17 +123,19 @@
             "/api/Avatars/Gamekee/147007.png"
         ],
         "Bio": {
-            "zh": "午睡中 别吵醒我",
-            "jp": "昼寝中 起こさないで",
-            "tw": "午睡中 別吵醒我",
             "en": "Napping - do not disturb",
-            "kr": "낮잠 중 방해금지"
+            "jp": "昼寝中 起こさないで",
+            "kr": "낮잠 중 방해금지",
+            "tw": "午睡中 別吵醒我",
+            "zh": "午睡中 别吵醒我"
         },
         "Nickname": [
             "大叔",
             "粉毛",
             "星乃"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10006,
@@ -131,16 +143,18 @@
             "/api/Avatars/Fandom/Iori_Icon.png"
         ],
         "Bio": {
-            "zh": "看到可疑的人请立刻联络",
-            "jp": "怪しい人を見たらすぐに連絡",
-            "tw": "看到可疑的人請立刻聯絡",
             "en": "Report suspicious acts",
-            "kr": "수상한 사람을 보면 즉시 신고"
+            "jp": "怪しい人を見たらすぐに連絡",
+            "kr": "수상한 사람을 보면 즉시 신고",
+            "tw": "看到可疑的人請立刻聯絡",
+            "zh": "看到可疑的人请立刻联络"
         },
         "Nickname": [
             "佐仓",
             "佐三枪"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10007,
@@ -151,11 +165,11 @@
             "/api/Avatars/Fandom/Maki_Camp_Icon.png"
         ],
         "Bio": {
-            "zh": "最爱街头涂鸦！",
-            "jp": "グラフィティ大好き！",
-            "tw": "最愛街頭塗鴉！",
             "en": "I love graffiti!",
-            "kr": "그래피티, 너무 좋아!"
+            "jp": "グラフィティ大好き！",
+            "kr": "그래피티, 너무 좋아!",
+            "tw": "最愛街頭塗鴉！",
+            "zh": "最爱街头涂鸦！"
         },
         "Nickname": [
             "彩蛋",
@@ -163,27 +177,35 @@
             "真姬",
             "喷漆",
             "真寄"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10008,
-        "Name": "妮禄",
         "Avatar": [
             "/api/Avatars/Fandom/Neru_Icon.png"
         ],
         "Bio": {
-            "zh": "啊啊！？",
-            "jp": "あぁん！？",
-            "tw": "啊啊！？",
             "en": "You lookin' for a fight?!",
-            "kr": "아앙? 장난 하냐?!"
+            "jp": "あぁん！？",
+            "kr": "아앙? 장난 하냐?!",
+            "tw": "啊啊！？",
+            "zh": "啊啊！？"
         },
         "Nickname": [
             "宁瑠",
             "妮露",
             "不良",
             "尼露"
-        ]
+        ],
+        "Fixed": [
+            {
+                "ItemName": "Name",
+                "ItemValue": "妮禄"
+            }
+        ],
+        "Related": null
     },
     {
         "Id": 10009,
@@ -193,16 +215,18 @@
             "/api/Avatars/Fandom/Izumi_New_Year_Icon.png"
         ],
         "Bio": {
-            "zh": "肚子饿了~",
-            "jp": "お腹へったぁあ～",
-            "tw": "肚子餓了～",
             "en": "I'm hungry!",
-            "kr": "배고파아아~"
+            "jp": "お腹へったぁあ～",
+            "kr": "배고파아아~",
+            "tw": "肚子餓了～",
+            "zh": "肚子饿了~"
         },
         "Nickname": [
             "老八",
             "汉堡妹"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10010,
@@ -211,16 +235,18 @@
             "/api/Avatars/Fandom/Shiroko_Robber_Icon.png"
         ],
         "Bio": {
-            "zh": "自行车伙伴招募中……(1/5)",
-            "jp": "ライディング仲間募集中……（まだ１/５）",
-            "tw": "自行車夥伴招募中……(1/5)",
             "en": "Recruiting a cycling party... (1/5)",
-            "kr": "싸이클링 파티 모집 중… (1/5)"
+            "jp": "ライディング仲間募集中……（まだ１/５）",
+            "kr": "싸이클링 파티 모집 중… (1/5)",
+            "tw": "自行車夥伴招募中……(1/5)",
+            "zh": "自行车伙伴招募中……(1/5)"
         },
         "Nickname": [
             "xcw",
             "小仓唯"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10011,
@@ -228,18 +254,20 @@
             "/api/Avatars/Fandom/Shun_Icon.png"
         ],
         "Bio": {
-            "zh": "和天使们一起",
-            "jp": "天使たちと一緒に",
-            "tw": "和天使們一起",
             "en": "With my little angels",
-            "kr": "천사들과 함께하는 삶"
+            "jp": "天使たちと一緒に",
+            "kr": "천사들과 함께하는 삶",
+            "tw": "和天使們一起",
+            "zh": "和天使们一起"
         },
         "Nickname": [
             "旬",
             "梅花狙",
             "教官",
             "舜"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10012,
@@ -247,16 +275,18 @@
             "/api/Avatars/Fandom/Sumire_Icon.png"
         ],
         "Bio": {
-            "zh": "健全的精神寓于健康的身体",
-            "jp": "健康な身体は健全な精神が宿る",
-            "tw": "健全的精神寓於健康的身體",
             "en": "Healthy body healthy mind",
-            "kr": "건강한 신체에 건전한 정신"
+            "jp": "健康な身体は健全な精神が宿る",
+            "kr": "건강한 신체에 건전한 정신",
+            "tw": "健全的精神寓於健康的身體",
+            "zh": "健全的精神寓于健康的身体"
         },
         "Nickname": [
             "运动部长",
             "运动妹"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10013,
@@ -264,16 +294,18 @@
             "/api/Avatars/Fandom/Tsurugi_Icon.png"
         ],
         "Bio": {
-            "zh": "……",
-            "jp": "……",
-            "tw": "……",
             "en": "...",
-            "kr": "…"
+            "jp": "……",
+            "kr": "…",
+            "tw": "……",
+            "zh": "……"
         },
         "Nickname": [
             "弦生",
             "颜艺"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 13000,
@@ -281,17 +313,19 @@
             "/api/Avatars/Fandom/Akane_Icon.png"
         ],
         "Bio": {
-            "zh": "一杯热红茶的余裕",
-            "jp": "温かい紅茶一杯分の余裕を",
-            "tw": "一杯熱紅茶的餘裕",
             "en": "Enjoying some hot tea.",
-            "kr": "따뜻한 홍차 한 잔의 여유"
+            "jp": "温かい紅茶一杯分の余裕を",
+            "kr": "따뜻한 홍차 한 잔의 여유",
+            "tw": "一杯熱紅茶的餘裕",
+            "zh": "一杯热红茶的余裕"
         },
         "Nickname": [
             "破甲女仆",
             "朱音",
             "破防女仆"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 13001,
@@ -299,17 +333,19 @@
             "/api/Avatars/Fandom/Chise_Icon.png"
         ],
         "Bio": {
-            "zh": "找到云的话告诉我",
-            "jp": "雲を見つけたら教えて",
-            "tw": "找到雲的話告訴我",
             "en": "Looking at the clouds.",
-            "kr": "구름, 찾으면 말해줘."
+            "jp": "雲を見つけたら教えて",
+            "kr": "구름, 찾으면 말해줘.",
+            "tw": "找到雲的話告訴我",
+            "zh": "找到云的话告诉我"
         },
         "Nickname": [
             "巫女",
             "千世",
             "知世"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 13002,
@@ -317,11 +353,11 @@
             "/api/Avatars/Fandom/Akari_Icon.png"
         ],
         "Bio": {
-            "zh": "请推荐自助餐厅",
-            "jp": "おすすめの食べ放題を教えてください",
-            "tw": "請推薦吃到飽餐廳",
             "en": "Looking 4 buffet recs",
-            "kr": "무한리필 맛집 추천 받아요"
+            "jp": "おすすめの食べ放題を教えてください",
+            "kr": "무한리필 맛집 추천 받아요",
+            "tw": "請推薦吃到飽餐廳",
+            "zh": "请推荐自助餐厅"
         },
         "Nickname": [
             "牛牛",
@@ -329,7 +365,9 @@
             "WTM",
             "朱里",
             "亚伽里"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 13003,
@@ -337,15 +375,17 @@
             "/api/Avatars/Fandom/Hasumi_Icon.png"
         ],
         "Bio": {
-            "zh": "减肥中……",
-            "jp": "ダイエット中……",
-            "tw": "減肥中……",
             "en": "On a diet...",
-            "kr": "다이어트 중......"
+            "jp": "ダイエット中……",
+            "kr": "다이어트 중......",
+            "tw": "減肥中……",
+            "zh": "减肥中……"
         },
         "Nickname": [
             "莲实"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 13004,
@@ -355,18 +395,20 @@
             "/api/Avatars/Gamekee/469920.png"
         ],
         "Bio": {
-            "zh": "希望会是快乐的一天",
-            "jp": "楽しい一日になりますように",
-            "tw": "希望會是快樂的一天",
             "en": "Have a great day!",
-            "kr": "즐거운 하루 되세요!"
+            "jp": "楽しい一日になりますように",
+            "kr": "즐거운 하루 되세요!",
+            "tw": "希望會是快樂的一天",
+            "zh": "希望会是快乐的一天"
         },
         "Nickname": [
             "野乃美",
             "富婆",
             "机枪妹",
             "nnm"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 13005,
@@ -375,17 +417,19 @@
             "/api/Avatars/Fandom/Kayoko_Ark_Uniform_Icon.png"
         ],
         "Bio": {
-            "zh": "不常用MomoTalk",
-            "jp": "モモトークはあんまり使わない",
-            "tw": "不常用MomoTalk",
             "en": "Not on here much...",
-            "kr": "모모톡 잘 안 씁니다"
+            "jp": "モモトークはあんまり使わない",
+            "kr": "모모톡 잘 안 씁니다",
+            "tw": "不常用MomoTalk",
+            "zh": "不常用MomoTalk"
         },
         "Nickname": [
             "佳世子",
             "恐惧姐",
             "恐惧枪"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 13006,
@@ -397,11 +441,11 @@
             "/api/Avatars/Fandom/Mutsuki_Suit_Icon.png"
         ],
         "Bio": {
-            "zh": "没有什么有趣的事吗~",
-            "jp": "何か面白いことないかな～",
-            "tw": "沒有什麼有趣的事嗎～",
             "en": "I'm bored!",
-            "kr": "심심해~"
+            "jp": "何か面白いことないかな～",
+            "kr": "심심해~",
+            "tw": "沒有什麼有趣的事嗎～",
+            "zh": "没有什么有趣的事吗~"
         },
         "Nickname": [
             "地雷妹",
@@ -409,7 +453,9 @@
             "小恶魔",
             "无月",
             "睦月"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 13007,
@@ -417,16 +463,18 @@
             "/api/Avatars/Fandom/Junko_Icon.png"
         ],
         "Bio": {
-            "zh": "谢绝骚扰 (╬⊙益⊙)",
-            "jp": "スパムお断り(╬☉益☉)",
-            "tw": "謝絕騷擾(╬☉益☉)",
             "en": "Don't spam me >:(",
-            "kr": "스팸 사절 (╬☉益☉)"
+            "jp": "スパムお断り(╬☉益☉)",
+            "kr": "스팸 사절 (╬☉益☉)",
+            "tw": "謝絕騷擾(╬☉益☉)",
+            "zh": "谢绝骚扰 (╬⊙益⊙)"
         },
         "Nickname": [
             "丸子",
             "小火龙"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 13008,
@@ -437,17 +485,19 @@
             "/api/Avatars/Fandom/Serika_Robber_Icon.png"
         ],
         "Bio": {
-            "zh": "对策委员会黑见芹香",
-            "jp": "対策委員会、黒見セリカです",
-            "tw": "對策委員會黑見茜香",
             "en": "Serika of the task force",
-            "kr": "대책위원회 쿠로미 세리카입니다"
+            "jp": "対策委員会、黒見セリカです",
+            "kr": "대책위원회 쿠로미 세리카입니다",
+            "tw": "對策委員會黑見茜香",
+            "zh": "对策委员会黑见芹香"
         },
         "Nickname": [
             "茜香",
             "黑猫",
             "猫猫"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 13009,
@@ -455,18 +505,20 @@
             "/api/Avatars/Fandom/Tsubaki_Icon.png"
         ],
         "Bio": {
-            "zh": "好困……",
-            "jp": "眠い……",
-            "tw": "好睏……",
             "en": "So sleepy...",
-            "kr": "졸려……"
+            "jp": "眠い……",
+            "kr": "졸려……",
+            "tw": "好睏……",
+            "zh": "好困……"
         },
         "Nickname": [
             "狗盾",
             "神秘T",
             "神秘坦",
             "鬼坦"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 13010,
@@ -475,11 +527,11 @@
             "/api/Avatars/Fandom/Yuuka_Ark_Uniform_Icon.png"
         ],
         "Bio": {
-            "zh": "如我所算",
-            "jp": "計算通り",
-            "tw": "如我所算",
             "en": "Just as I calculated...",
-            "kr": "계산대로야"
+            "jp": "計算通り",
+            "kr": "계산대로야",
+            "tw": "如我所算",
+            "zh": "如我所算"
         },
         "Nickname": [
             "邮箱",
@@ -492,7 +544,9 @@
             "优华",
             "📪",
             "📮"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 16000,
@@ -504,16 +558,18 @@
             "/api/Avatars/Fandom/Haruka_Suit_Icon.png"
         ],
         "Bio": {
-            "zh": "请多多指教",
-            "jp": "よろしくお願いいたします",
-            "tw": "請多多指教",
             "en": "A pleasure to meet you.",
-            "kr": "잘 부탁드립니다"
+            "jp": "よろしくお願いいたします",
+            "kr": "잘 부탁드립니다",
+            "tw": "請多多指教",
+            "zh": "请多多指教"
         },
         "Nickname": [
             "春香",
             "德棍"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 16001,
@@ -522,34 +578,42 @@
             "/api/Avatars/Fandom/Asuna_Schoolgirl_Icon.png"
         ],
         "Bio": {
-            "zh": "为主人提供最好的服务！",
-            "jp": "最高の奉仕をご主人様に！",
-            "tw": "為主人提供最好的服務！",
             "en": "Only the best service!",
-            "kr": "최고의 봉사를 당신에게!"
+            "jp": "最高の奉仕をご主人様に！",
+            "kr": "최고의 봉사를 당신에게!",
+            "tw": "為主人提供最好的服務！",
+            "zh": "为主人提供最好的服务！"
         },
         "Nickname": [
             "亚丝娜"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 16002,
-        "Name": "小鸟",
         "Avatar": [
             "/api/Avatars/Fandom/Kotori_Icon.png"
         ],
         "Bio": {
-            "zh": "赞叹微波吧！",
-            "jp": "マイクロ波を讃えましょう！",
-            "tw": "讚嘆微波吧！",
             "en": "Praise high frequency!",
-            "kr": "초고주파를 찬양하라!"
+            "jp": "マイクロ波を讃えましょう！",
+            "kr": "초고주파를 찬양하라!",
+            "tw": "讚嘆微波吧！",
+            "zh": "赞叹微波吧！"
         },
         "Nickname": [
             "亚都梨",
             "琴里",
             "盾妹"
-        ]
+        ],
+        "Fixed": [
+            {
+                "ItemName": "Name",
+                "ItemValue": "小鸟"
+            }
+        ],
+        "Related": null
     },
     {
         "Id": 16003,
@@ -557,15 +621,17 @@
             "/api/Avatars/Fandom/Suzumi_Icon.png"
         ],
         "Bio": {
-            "zh": "希望今天也是平安的一天",
-            "jp": "今日も平穏な一日を",
-            "tw": "希望今天也是平安的一天",
             "en": "Peace be with you today.",
-            "kr": "오늘도 평안한 하루를"
+            "jp": "今日も平穏な一日を",
+            "kr": "오늘도 평안한 하루를",
+            "tw": "希望今天也是平安的一天",
+            "zh": "希望今天也是平安的一天"
         },
         "Nickname": [
             "闪光弹"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 16004,
@@ -574,16 +640,18 @@
             "/api/Avatars/Kivo/朝比奈 菲娜_导游.png"
         ],
         "Bio": {
-            "zh": "CHUCIJIANMIAN！",
-            "jp": "ハジメマシテ！",
-            "tw": "HAJIMEMASITE！",
             "en": "HAJIMEMASHITE!",
-            "kr": "HAJIMEMASITE!"
+            "jp": "ハジメマシテ！",
+            "kr": "HAJIMEMASITE!",
+            "tw": "HAJIMEMASITE！",
+            "zh": "CHUCIJIANMIAN！"
         },
         "Nickname": [
             "歌舞伎",
             "不死鸟"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 20000,
@@ -591,15 +659,17 @@
             "/api/Avatars/Fandom/Hibiki_Icon.png"
         ],
         "Bio": {
-            "zh": "虚争空言，不如思而试之",
-            "jp": "言葉より行動で",
-            "tw": "坐而言不如起而行",
             "en": "Actions. Not words.",
-            "kr": "말보다는 행동으로"
+            "jp": "言葉より行動で",
+            "kr": "말보다는 행동으로",
+            "tw": "坐而言不如起而行",
+            "zh": "虚争空言，不如思而试之"
         },
         "Nickname": [
             "迫击炮"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 20001,
@@ -608,16 +678,18 @@
             "/api/Avatars/Fandom/Karin_Schoolgirl_Icon.png"
         ],
         "Bio": {
-            "zh": "绝不让目标逃跑",
-            "jp": "ターゲットは逃がさない",
-            "tw": "絕不讓目標逃跑",
             "en": "Can't miss.",
-            "kr": "타겟은 놓치지 않아"
+            "jp": "ターゲットは逃がさない",
+            "kr": "타겟은 놓치지 않아",
+            "tw": "絕不讓目標逃跑",
+            "zh": "绝不让目标逃跑"
         },
         "Nickname": [
             "黑皮女仆",
             "花梨"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 20002,
@@ -625,17 +697,19 @@
             "/api/Avatars/Fandom/Saya_Icon.png"
         ],
         "Bio": {
-            "zh": "赞扬我吧！",
-            "jp": "ぼく様を讃えよ！",
-            "tw": "讚揚我吧！",
             "en": "I'm a genius!",
-            "kr": "나님을 찬양하라!"
+            "jp": "ぼく様を讃えよ！",
+            "kr": "나님을 찬양하라!",
+            "tw": "讚揚我吧！",
+            "zh": "赞扬我吧！"
         },
         "Nickname": [
             "沙耶",
             "老鼠",
             "鼠鼠"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 23000,
@@ -643,16 +717,18 @@
             "/api/Avatars/Fandom/Airi_Icon.png"
         ],
         "Bio": {
-            "zh": "薄荷巧克力最棒了！",
-            "jp": "チョコミントは最高！",
-            "tw": "薄荷巧克力最棒了！",
             "en": "Mint chip is the best!",
-            "kr": "민트초코는 정말 최고야!"
+            "jp": "チョコミントは最高！",
+            "kr": "민트초코는 정말 최고야!",
+            "tw": "薄荷巧克力最棒了！",
+            "zh": "薄荷巧克力最棒了！"
         },
         "Nickname": [
             "冰淇淋",
             "冰激凌"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 23001,
@@ -660,18 +736,20 @@
             "/api/Avatars/Fandom/Fuuka_Icon.png"
         ],
         "Bio": {
-            "zh": "希望至少能过平静的一天(T_T)",
-            "jp": "一日くらい平穏な日が欲しいです(T_T)",
-            "tw": "希望至少能過平靜的一天 (T_T)",
             "en": "Let today be okay (T_T)",
-            "kr": "한 번만이라도 평안한 하루를 (T_T)"
+            "jp": "一日くらい平穏な日が欲しいです(T_T)",
+            "kr": "한 번만이라도 평안한 하루를 (T_T)",
+            "tw": "希望至少能過平靜的一天 (T_T)",
+            "zh": "希望至少能过平静的一天(T_T)"
         },
         "Nickname": [
             "风华",
             "煮饭婆",
             "料理妹",
             "风香"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 23002,
@@ -680,17 +758,19 @@
             "/api/Avatars/Fandom/Hanae_Cheerleader_Icon.png"
         ],
         "Bio": {
-            "zh": "发生什么事的话，不管是谁都请到救护骑士团来！",
-            "jp": "何かあったら、どなたでも救護騎士団へ！",
-            "tw": "發生什麼事的話，不管是誰都請到救護騎士團來！",
             "en": "The Remedial Knights accept all!",
-            "kr": "구호기사단은 모두에게 열려있어요!"
+            "jp": "何かあったら、どなたでも救護騎士団へ！",
+            "kr": "구호기사단은 모두에게 열려있어요!",
+            "tw": "發生什麼事的話，不管是誰都請到救護騎士團來！",
+            "zh": "发生什么事的话，不管是谁都请到救护骑士团来！"
         },
         "Nickname": [
             "大护士",
             "花绘",
             "护士补"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 23003,
@@ -699,17 +779,19 @@
             "/api/Avatars/Fandom/Hare_Icon.png"
         ],
         "Bio": {
-            "zh": "有急事请私信",
-            "jp": "急な用件はDMで",
-            "tw": "有急事請DM",
             "en": "DM me if it's important.",
-            "kr": "급한 용건은 DM으로"
+            "jp": "急な用件はDMで",
+            "kr": "급한 용건은 DM으로",
+            "tw": "有急事請DM",
+            "zh": "有急事请私信"
         },
         "Nickname": [
             "小钩八",
             "小勾八",
             "EMP"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 23004,
@@ -717,16 +799,18 @@
             "/api/Avatars/Fandom/Utaha_Icon.png"
         ],
         "Bio": {
-            "zh": "随时接受改造、维修的委托",
-            "jp": "改造・修理の依頼ならいつでも",
-            "tw": "隨時接受改造、維修的委託",
             "en": "Mod/repair commishes OPEN",
-            "kr": "개조, 수리 의뢰 받고 있습니다"
+            "jp": "改造・修理の依頼ならいつでも",
+            "kr": "개조, 수리 의뢰 받고 있습니다",
+            "tw": "隨時接受改造、維修的委託",
+            "zh": "随时接受改造、维修的委托"
         },
         "Nickname": [
             "炮台",
             "咏叶"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 23005,
@@ -736,15 +820,17 @@
             "/api/Avatars/Fandom/Ayane_Ark_Uniform_Icon.png"
         ],
         "Bio": {
-            "zh": "珍惜常识的对策委员会",
-            "jp": "常識を大切にする対策委員会です",
-            "tw": "珍惜常識的對策委員會",
             "en": "FTF is all 4 common sense",
-            "kr": "상식이 존중받는 동아리, 대책위원회입니다"
+            "jp": "常識を大切にする対策委員会です",
+            "kr": "상식이 존중받는 동아리, 대책위원회입니다",
+            "tw": "珍惜常識的對策委員會",
+            "zh": "珍惜常识的对策委员会"
         },
         "Nickname": [
             "眼镜娘"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 26000,
@@ -752,16 +838,18 @@
             "/api/Avatars/Fandom/Chinatsu_Icon.png"
         ],
         "Bio": {
-            "zh": "丧失的前方",
-            "jp": "喪失の先に",
-            "tw": "喪失的前方",
             "en": "Aufheben of Loss",
-            "kr": "상실의 아우프헤벤"
+            "jp": "喪失の先に",
+            "kr": "상실의 아우프헤벤",
+            "tw": "喪失的前方",
+            "zh": "丧失的前方"
         },
         "Nickname": [
             "红裤袜",
             "风纪补"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 26001,
@@ -770,34 +858,42 @@
             "/api/Avatars/Fandom/Kotama_Icon.png"
         ],
         "Bio": {
-            "zh": "我一直守望着你",
-            "jp": "あなたを見守っています",
-            "tw": "我一直守望著你",
             "en": "I'm watching you...",
-            "kr": "당신을 지켜보고 있습니다"
+            "jp": "あなたを見守っています",
+            "kr": "당신을 지켜보고 있습니다",
+            "tw": "我一直守望著你",
+            "zh": "我一直守望着你"
         },
         "Nickname": [
             "窃听器"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 26002,
-        "Name": "朱莉",
         "Avatar": [
             "/api/Avatars/Fandom/Juri_Icon.png"
         ],
         "Bio": {
-            "zh": "今天也要全力以赴进行料理的练习！",
-            "jp": "今日も一生懸命、料理の練習！",
-            "tw": "今天也要全力以赴進行料理的練習！",
             "en": "Practice makes perfect!",
-            "kr": "오늘도 열심히 요리연습!"
+            "jp": "今日も一生懸命、料理の練習！",
+            "kr": "오늘도 열심히 요리연습!",
+            "tw": "今天也要全力以赴進行料理的練習！",
+            "zh": "今天也要全力以赴进行料理的练习！"
         },
         "Nickname": [
             "朱莉",
             "茱莉",
             "毒锅"
-        ]
+        ],
+        "Fixed": [
+            {
+                "ItemName": "Name",
+                "ItemValue": "朱莉"
+            }
+        ],
+        "Related": null
     },
     {
         "Id": 26003,
@@ -806,18 +902,20 @@
             "/api/Avatars/Fandom/Serina_Nurse_Icon.png"
         ],
         "Bio": {
-            "zh": "身体不舒服的人请随时联系我",
-            "jp": "体調が悪い方はいつでもご連絡を",
-            "tw": "身體不舒服的人請隨時聯絡我",
             "en": "I'll help you get healthy",
-            "kr": "몸이 아프면 언제든 연락주세요"
+            "jp": "体調が悪い方はいつでもご連絡を",
+            "kr": "몸이 아프면 언제든 연락주세요",
+            "tw": "身體不舒服的人請隨時聯絡我",
+            "zh": "身体不舒服的人请随时联系我"
         },
         "Nickname": [
             "小护士",
             "没裤裆",
             "芹奈",
             "瀬里奈"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 26004,
@@ -825,15 +923,17 @@
             "/api/Avatars/Fandom/Shimiko_Icon.png"
         ],
         "Bio": {
-            "zh": "请在借阅期间内还书",
-            "jp": "本は期限内に返却してください",
-            "tw": "請在借閱期間內還書",
             "en": "Return by due date pls",
-            "kr": "책은 대출기간 내에 반납해주세요"
+            "jp": "本は期限内に返却してください",
+            "kr": "책은 대출기간 내에 반납해주세요",
+            "tw": "請在借閱期間內還書",
+            "zh": "请在借阅期间内还书"
         },
         "Nickname": [
             "眼镜娘"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 26005,
@@ -841,16 +941,18 @@
             "/api/Avatars/Fandom/Yoshimi_Icon.png"
         ],
         "Bio": {
-            "zh": "#还在成长期",
-            "jp": "#まだ成長期",
-            "tw": "#還在成長期",
             "en": "#growing",
-            "kr": "#성장중"
+            "jp": "#まだ成長期",
+            "kr": "#성장중",
+            "tw": "#還在成長期",
+            "zh": "#还在成长期"
         },
         "Nickname": [
             "喜美",
             "长身体"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 20003,
@@ -858,15 +960,17 @@
             "/api/Avatars/Fandom/Mashiro_Icon.png"
         ],
         "Bio": {
-            "zh": "聚沙成塔",
-            "jp": "塵も積もれば山となる",
-            "tw": "聚沙成塔",
             "en": "Everything counts",
-            "kr": "티끌도 모으면 산이 된다"
+            "jp": "塵も積もれば山となる",
+            "kr": "티끌도 모으면 산이 된다",
+            "tw": "聚沙成塔",
+            "zh": "聚沙成塔"
         },
         "Nickname": [
             "麻白"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10014,
@@ -874,17 +978,19 @@
             "/api/Avatars/Fandom/Izuna_Icon.png"
         ],
         "Bio": {
-            "zh": "泉奈会加油的！忍忍！",
-            "jp": "イズナ、頑張ります！ ニンニン！",
-            "tw": "伊樹菜會加油的！忍忍！",
             "en": "Training hard! Nin nin!",
-            "kr": "이즈나, 힘낼게요! 닌닌!"
+            "jp": "イズナ、頑張ります！ ニンニン！",
+            "kr": "이즈나, 힘낼게요! 닌닌!",
+            "tw": "伊樹菜會加油的！忍忍！",
+            "zh": "泉奈会加油的！忍忍！"
         },
         "Nickname": [
             "小狐狸",
             "忍忍",
             "伊树菜"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 23006,
@@ -892,16 +998,18 @@
             "/api/Avatars/Fandom/Shizuko_Icon.png"
         ],
         "Bio": {
-            "zh": "百夜堂，今天也绝赞营业中！",
-            "jp": "百夜堂、今日も元気に営業中！",
-            "tw": "百夜堂，今天也絕讚營業中！",
             "en": "Momoyodou is now open!",
-            "kr": "백야당 절찬 영업중!"
+            "jp": "百夜堂、今日も元気に営業中！",
+            "kr": "백야당 절찬 영업중!",
+            "tw": "百夜堂，今天也絕讚營業中！",
+            "zh": "百夜堂，今天也绝赞营业中！"
         },
         "Nickname": [
             "餐车",
             "摊车"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10015,
@@ -910,18 +1018,20 @@
             "/api/Avatars/Gamekee/749329.png"
         ],
         "Bio": {
-            "zh": "千年游戏开发部的爱丽丝",
-            "jp": "ミレニアムのゲーム開発部、アリスです",
-            "tw": "千年遊戲開發部的愛麗絲",
             "en": "Aris: Game Dev Dep.",
-            "kr": "밀레니엄 게임개발부 아리스입니다"
+            "jp": "ミレニアムのゲーム開発部、アリスです",
+            "kr": "밀레니엄 게임개발부 아리스입니다",
+            "tw": "千年遊戲開發部的愛麗絲",
+            "zh": "千年游戏开发部的爱丽丝"
         },
         "Nickname": [
             "爱丽斯",
             "Alice",
             "Arisu",
             "Aris"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10016,
@@ -929,17 +1039,19 @@
             "/api/Avatars/Fandom/Midori_Icon.png"
         ],
         "Bio": {
-            "zh": "请向我推荐游戏",
-            "jp": "おすすめのゲーム教えてください",
-            "tw": "請告訴我推薦的遊戲",
             "en": "Recommend me fun games!",
-            "kr": "재미있는 게임 추천 받아요"
+            "jp": "おすすめのゲーム教えてください",
+            "kr": "재미있는 게임 추천 받아요",
+            "tw": "請告訴我推薦的遊戲",
+            "zh": "请向我推荐游戏"
         },
         "Nickname": [
             "小绿",
             "翠",
             "绿猫"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 13011,
@@ -947,16 +1059,18 @@
             "/api/Avatars/Fandom/Momoi_Icon.png"
         ],
         "Bio": {
-            "zh": "致力于游戏！",
-            "jp": "ゲーム一筋！",
-            "tw": "致力於遊戲！",
             "en": "gamer 4 life",
-            "kr": "게임 외길 인생"
+            "jp": "ゲーム一筋！",
+            "kr": "게임 외길 인생",
+            "tw": "致力於遊戲！",
+            "zh": "致力于游戏！"
         },
         "Nickname": [
             "小桃",
             "粉猫"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10017,
@@ -966,11 +1080,11 @@
             "/api/Avatars/Fandom/Cherino_Qipao_Icon.png"
         ],
         "Bio": {
-            "zh": "看看这胡子吧！！",
-            "jp": "このヒゲを見よ！！",
-            "tw": "看看這鬍子吧！！",
             "en": "Mustache, it's a mustache!",
-            "kr": "수염! 수염!! 수염인 것이다!!"
+            "jp": "このヒゲを見よ！！",
+            "kr": "수염! 수염!! 수염인 것이다!!",
+            "tw": "看看這鬍子吧！！",
+            "zh": "看看这胡子吧！！"
         },
         "Nickname": [
             "洁利诺",
@@ -980,7 +1094,9 @@
             "斯大罗",
             "雪罗",
             "雪萝"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 26006,
@@ -988,16 +1104,18 @@
             "/api/Avatars/Fandom/Nodoka_Icon.png"
         ],
         "Bio": {
-            "zh": "一起去看星星吧！★彡",
-            "jp": "一緒に星を見に行きましょう！★彡",
-            "tw": "一起去看星星吧！★彡",
             "en": "Let's stargaze! ★",
-            "kr": "같이 별 보러 가요! ——★"
+            "jp": "一緒に星を見に行きましょう！★彡",
+            "kr": "같이 별 보러 가요! ——★",
+            "tw": "一起去看星星吧！★彡",
+            "zh": "一起去看星星吧！★彡"
         },
         "Nickname": [
             "望远镜",
             "偷窥狂"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10018,
@@ -1006,16 +1124,18 @@
             "/api/Avatars/Fandom/Yuzu_Icon.png"
         ],
         "Bio": {
-            "zh": "404 Not Found",
-            "jp": "404 Not Found",
-            "tw": "404 Not Found",
             "en": "404 NOT FOUND",
-            "kr": "404 NOT FOUND"
+            "jp": "404 Not Found",
+            "kr": "404 NOT FOUND",
+            "tw": "404 Not Found",
+            "zh": "404 Not Found"
         },
         "Nickname": [
             "社恐",
             "柜子"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10019,
@@ -1024,15 +1144,17 @@
             "/api/Avatars/Fandom/Azusa_Mask_Icon.png"
         ],
         "Bio": {
-            "zh": "et omnia vanitas",
-            "jp": "et omnia vanitas",
-            "tw": "et omnia vanitas",
             "en": "et omnia vanitas",
-            "kr": "et omnia vanitas"
+            "jp": "et omnia vanitas",
+            "kr": "et omnia vanitas",
+            "tw": "et omnia vanitas",
+            "zh": "et omnia vanitas"
         },
         "Nickname": [
             "小梓"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 23007,
@@ -1041,15 +1163,17 @@
             "/api/Avatars/Fandom/Hanako_Ark_Uniform_Icon.png"
         ],
         "Bio": {
-            "zh": "喜欢形形「色色」的类型♪",
-            "jp": "「色々」と嗜むタイプです♪",
-            "tw": "喜歡形形「色色」的類型♪",
             "en": "I'm down for pm anything",
-            "kr": "저는 그런 것도 좋아하는걸요?"
+            "jp": "「色々」と嗜むタイプです♪",
+            "kr": "저는 그런 것도 좋아하는걸요?",
+            "tw": "喜歡形形「色色」的類型♪",
+            "zh": "喜欢形形「色色」的类型♪"
         },
         "Nickname": [
             "老司机"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10020,
@@ -1057,17 +1181,19 @@
             "/api/Avatars/Fandom/Koharu_Icon.png"
         ],
         "Bio": {
-            "zh": "涩涩的东西不行就是不行！",
-            "jp": "エッチなのはダメったらダメ！",
-            "tw": "色色的東西不行就是不行！",
             "en": "Go away dirty thoughts!",
-            "kr": "야한 건 안 된다고 생각해!"
+            "jp": "エッチなのはダメったらダメ！",
+            "kr": "야한 건 안 된다고 생각해!",
+            "tw": "色色的東西不行就是不行！",
+            "zh": "涩涩的东西不行就是不行！"
         },
         "Nickname": [
             "涩涩",
             "色色",
             "瑟瑟"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10021,
@@ -1075,17 +1201,18 @@
             "/api/Avatars/Fandom/Azusa_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "zh": "A brevis paradisum",
-            "jp": "A brevis paradisum",
-            "tw": "A brevis paradisum",
             "en": "A brevis paradisum",
-            "kr": "A brevis paradisum"
+            "jp": "A brevis paradisum",
+            "kr": "A brevis paradisum",
+            "tw": "A brevis paradisum",
+            "zh": "A brevis paradisum"
         },
         "Nickname": [],
-        "related": [
-            10019,
-            "swimsuit"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 10019,
+            "ItemType": "swimsuit"
+        }
     },
     {
         "Id": 20004,
@@ -1093,17 +1220,18 @@
             "/api/Avatars/Fandom/Mashiro_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "zh": "井底之蛙 不知大海",
-            "jp": "井の中の蛙 大海を知らず",
-            "tw": "井底之蛙 不知大海",
             "en": "The frog in the well knows nothing of the sea",
-            "kr": "우물 안 개구리는 바다를 모른다"
+            "jp": "井の中の蛙 大海を知らず",
+            "kr": "우물 안 개구리는 바다를 모른다",
+            "tw": "井底之蛙 不知大海",
+            "zh": "井底之蛙 不知大海"
         },
         "Nickname": [],
-        "related": [
-            20003,
-            "swimsuit"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 20003,
+            "ItemType": "swimsuit"
+        }
     },
     {
         "Id": 16005,
@@ -1111,17 +1239,18 @@
             "/api/Avatars/Fandom/Tsurugi_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "zh": "夏日、大海、青春",
-            "jp": "夏、海、青春",
-            "tw": "夏天、大海、青春",
             "en": "Summer, Youth, Beach",
-            "kr": "여름, 청춘, 바다"
+            "jp": "夏、海、青春",
+            "kr": "여름, 청춘, 바다",
+            "tw": "夏天、大海、青春",
+            "zh": "夏日、大海、青春"
         },
         "Nickname": [],
-        "related": [
-            10013,
-            "swimsuit"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 10013,
+            "ItemType": "swimsuit"
+        }
     },
     {
         "Id": 20005,
@@ -1129,20 +1258,21 @@
             "/api/Avatars/Fandom/Hifumi_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "zh": "请看新的佩洛洛大人泳圈！",
-            "jp": "新しいペロロ様の浮き輪、見てください！",
-            "tw": "請看新的佩洛洛大人泳圈！",
             "en": "Who wants to see the new Peroro tube?",
-            "kr": "새로 산 페로로 튜브 보실 분?"
+            "jp": "新しいペロロ様の浮き輪、見てください！",
+            "kr": "새로 산 페로로 튜브 보실 분?",
+            "tw": "請看新的佩洛洛大人泳圈！",
+            "zh": "请看新的佩洛洛大人泳圈！"
         },
         "Nickname": [
             "水富美",
             "十字军酱"
         ],
-        "related": [
-            10003,
-            "swimsuit"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 10003,
+            "ItemType": "swimsuit"
+        }
     },
     {
         "Id": 10022,
@@ -1150,17 +1280,18 @@
             "/api/Avatars/Fandom/Hina_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "zh": "",
-            "jp": "",
-            "tw": "",
             "en": "",
-            "kr": ""
+            "jp": "",
+            "kr": "",
+            "tw": "",
+            "zh": ""
         },
         "Nickname": [],
-        "related": [
-            10004,
-            "swimsuit"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 10004,
+            "ItemType": "swimsuit"
+        }
     },
     {
         "Id": 10023,
@@ -1168,17 +1299,18 @@
             "/api/Avatars/Fandom/Iori_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "zh": "夏季合宿训练中",
-            "jp": "夏の合宿訓練中",
-            "tw": "夏季合宿訓練中",
             "en": "Summer Boot Camp in progress",
-            "kr": "하계 합숙 훈련 중"
+            "jp": "夏の合宿訓練中",
+            "kr": "하계 합숙 훈련 중",
+            "tw": "夏季合宿訓練中",
+            "zh": "夏季合宿训练中"
         },
         "Nickname": [],
-        "related": [
-            10006,
-            "swimsuit"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 10006,
+            "ItemType": "swimsuit"
+        }
     },
     {
         "Id": 16006,
@@ -1186,17 +1318,18 @@
             "/api/Avatars/Fandom/Izumi_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "zh": "前往寻找夏天美食之旅！",
-            "jp": "夏のグルメを求める旅へ！",
-            "tw": "前往尋找夏天美食之旅！",
             "en": "Summer delicacy road trip!",
-            "kr": "여름의 별미를 찾아서 여행이야!"
+            "jp": "夏のグルメを求める旅へ！",
+            "kr": "여름의 별미를 찾아서 여행이야!",
+            "tw": "前往尋找夏天美食之旅！",
+            "zh": "前往寻找夏天美食之旅！"
         },
         "Nickname": [],
-        "related": [
-            10009,
-            "swimsuit"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 10009,
+            "ItemType": "swimsuit"
+        }
     },
     {
         "Id": 10024,
@@ -1204,21 +1337,22 @@
             "/api/Avatars/Fandom/Shiroko_Riding_Icon.png"
         ],
         "Bio": {
-            "zh": "正在纵贯鸡窝托斯中",
-            "jp": "今キヴォトス縦断中",
-            "tw": "正在縱貫奇普托斯中",
             "en": "Trekking across Kivotos",
-            "kr": "키보토스 종단일주중……."
+            "jp": "今キヴォトス縦断中",
+            "kr": "키보토스 종단일주중…….",
+            "tw": "正在縱貫奇普托斯中",
+            "zh": "正在纵贯鸡窝托斯中"
         },
         "Nickname": [
             "小车唯",
             "xcw",
             "骑白子"
         ],
-        "related": [
-            10010,
-            "riding"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 10010,
+            "ItemType": "riding"
+        }
     },
     {
         "Id": 10025,
@@ -1226,11 +1360,11 @@
             "/api/Avatars/Fandom/Shun_Young_Icon.png"
         ],
         "Bio": {
-            "zh": "想吃糖葫芦的心情！",
-            "jp": "タンフールーが食べたい気分です！",
-            "tw": "想吃糖葫蘆的心情！",
             "en": "I want to eat tanghulu!",
-            "kr": "탕후루가 먹고 싶네요~"
+            "jp": "タンフールーが食べたい気分です！",
+            "kr": "탕후루가 먹고 싶네요~",
+            "tw": "想吃糖葫蘆的心情！",
+            "zh": "想吃糖葫芦的心情！"
         },
         "Nickname": [
             "同花顺",
@@ -1240,10 +1374,11 @@
             "铜花舜",
             "小梅花"
         ],
-        "related": [
-            10011,
-            "young"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 10011,
+            "ItemType": "young"
+        }
     },
     {
         "Id": 13012,
@@ -1251,17 +1386,19 @@
             "/api/Avatars/Fandom/Kirino_Icon.png"
         ],
         "Bio": {
-            "zh": "女武神警察学园，转学生募集中！",
-            "jp": "ヴァルキューレ警察学校、転入学者募集中！",
-            "tw": "女武神警察學園，轉學生募集中！",
             "en": "Valkyrie Police School admissions are open!",
-            "kr": "발키리 경찰학교, 전입학 모집 중!"
+            "jp": "ヴァルキューレ警察学校、転入学者募集中！",
+            "kr": "발키리 경찰학교, 전입학 모집 중!",
+            "tw": "女武神警察學園，轉學生募集中！",
+            "zh": "女武神警察学园，转学生募集中！"
         },
         "Nickname": [
             "陈睿",
             "cr",
             "警察坦"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 20006,
@@ -1269,40 +1406,46 @@
             "/api/Avatars/Fandom/Saya_Casual_Icon.png"
         ],
         "Bio": {
-            "zh": "我什么都知道！",
-            "jp": "ぼく様は何でも知っているのだ！",
-            "tw": "我什麼都知道！",
             "en": "I know everything!",
-            "kr": "나님은 뭐든지 알고 있다고!"
+            "jp": "ぼく様は何でも知っているのだ！",
+            "kr": "나님은 뭐든지 알고 있다고!",
+            "tw": "我什麼都知道！",
+            "zh": "我什么都知道！"
         },
         "Nickname": [
             "滑鼠"
         ],
-        "related": [
-            20002,
-            "casual"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 20002,
+            "ItemType": "casual"
+        }
     },
     {
         "Id": 10026,
-        "Name": "妮禄（兔女郎）",
         "Avatar": [
             "/api/Avatars/Fandom/Neru_Bunny_Girl_Icon.png"
         ],
         "Bio": {
-            "zh": "看什么看",
-            "jp": "見せもんじゃねぇぞ",
-            "tw": "看什麼看",
             "en": "What are you looking at?",
-            "kr": "구경났어?"
+            "jp": "見せもんじゃねぇぞ",
+            "kr": "구경났어?",
+            "tw": "看什麼看",
+            "zh": "看什么看"
         },
         "Nickname": [
             "红兔女郎"
         ],
-        "related": [
-            10008,
-            "bunnygirl"
-        ]
+        "Fixed": [
+            {
+                "ItemName": "Name",
+                "ItemValue": "妮禄（兔女郎）"
+            }
+        ],
+        "Related": {
+            "ItemId": 10008,
+            "ItemType": "bunnygirl"
+        }
     },
     {
         "Id": 10027,
@@ -1310,19 +1453,20 @@
             "/api/Avatars/Fandom/Karin_Bunny_Girl_Icon.png"
         ],
         "Bio": {
-            "zh": "任务中",
-            "jp": "任務中",
-            "tw": "任務中",
             "en": "Currently undercover.",
-            "kr": "잠입 임무 수행 중"
+            "jp": "任務中",
+            "kr": "잠입 임무 수행 중",
+            "tw": "任務中",
+            "zh": "任务中"
         },
         "Nickname": [
             "黑兔女郎"
         ],
-        "related": [
-            20001,
-            "bunnygirl"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 20001,
+            "ItemType": "bunnygirl"
+        }
     },
     {
         "Id": 10028,
@@ -1330,20 +1474,21 @@
             "/api/Avatars/Fandom/Asuna_Bunny_Girl_Icon.png"
         ],
         "Bio": {
-            "zh": "带给主人最棒的快乐！",
-            "jp": "最高の楽しさをご主人様に!",
-            "tw": "帶給主人最棒的快樂！",
             "en": "Only the best for you!",
-            "kr": "최고의 즐거움을 당신에게!"
+            "jp": "最高の楽しさをご主人様に!",
+            "kr": "최고의 즐거움을 당신에게!",
+            "tw": "帶給主人最棒的快樂！",
+            "zh": "带给主人最棒的快乐！"
         },
         "Nickname": [
             "兔丝娜",
             "蓝兔女郎"
         ],
-        "related": [
-            16001,
-            "bunnygirl"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 16001,
+            "ItemType": "bunnygirl"
+        }
     },
     {
         "Id": 10029,
@@ -1352,18 +1497,20 @@
             "/api/Avatars/Fandom/Natsu_Band_Icon.png"
         ],
         "Bio": {
-            "zh": "人生是巧克力蝴蝶饼",
-            "jp": "人生はチョコレートプレッツェル",
-            "tw": "人生是巧克力蝴蝶餅",
             "en": "Life = Chocolate Pretzels",
-            "kr": "인생=초콜릿 프레첼"
+            "jp": "人生はチョコレートプレッツェル",
+            "kr": "인생=초콜릿 프레첼",
+            "tw": "人生是巧克力蝴蝶餅",
+            "zh": "人生是巧克力蝴蝶饼"
         },
         "Nickname": [
             "康娜",
             "拉菲",
             "小夏",
             "夏老师"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 23008,
@@ -1371,15 +1518,17 @@
             "/api/Avatars/Fandom/Mari_Icon.png"
         ],
         "Bio": {
-            "zh": "愿大家的心得到安宁",
-            "jp": "みなさんの心が、安らぎと共にありますように",
-            "tw": "願大家的心得到安寧",
             "en": "Peace be with you always.",
-            "kr": "늘 평안하세요"
+            "jp": "みなさんの心が、安らぎと共にありますように",
+            "kr": "늘 평안하세요",
+            "tw": "願大家的心得到安寧",
+            "zh": "愿大家的心得到安宁"
         },
         "Nickname": [
             "马丽"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 20007,
@@ -1387,13 +1536,15 @@
             "/api/Avatars/Fandom/Miku_Icon.png"
         ],
         "Bio": {
-            "zh": "演唱会，敬请期待哦！",
-            "jp": "ライブ、楽しみにしててくださいね！",
-            "tw": "演唱會，敬請期待哦！",
             "en": "Get pumped up for the live concert in Kivotos!",
-            "kr": "키보토스에서의 라이브 콘서트, 기대해 주세요!"
+            "jp": "ライブ、楽しみにしててくださいね！",
+            "kr": "키보토스에서의 라이브 콘서트, 기대해 주세요!",
+            "tw": "演唱會，敬請期待哦！",
+            "zh": "演唱会，敬请期待哦！"
         },
-        "Nickname": []
+        "Nickname": [],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 20008,
@@ -1402,15 +1553,17 @@
             "/api/Avatars/Fandom/Ako_Ark_Uniform_Icon.png"
         ],
         "Bio": {
-            "zh": "谢绝业务以外的联络",
-            "jp": "業務以外の連絡はお断りです",
-            "tw": "謝絕業務以外的聯絡",
             "en": "Do not disturb unless it's task-related.",
-            "kr": "업무 이외의 연락 사절"
+            "jp": "業務以外の連絡はお断りです",
+            "kr": "업무 이외의 연락 사절",
+            "tw": "謝絕業務以外的聯絡",
+            "zh": "谢绝业务以外的联络"
         },
         "Nickname": [
             "爱犬"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 20009,
@@ -1418,11 +1571,11 @@
             "/api/Avatars/Fandom/Cherino_Hot_Spring_Icon.png"
         ],
         "Bio": {
-            "zh": "世界上没有不好的胡子！",
-            "jp": "世の中に悪い髭など無い！",
-            "tw": "世界上沒有不好的鬍子！",
             "en": "There's no such thing as a bad mustache!",
-            "kr": "세상에 나쁜 수염은 없다!"
+            "jp": "世の中に悪い髭など無い！",
+            "kr": "세상에 나쁜 수염은 없다!",
+            "tw": "世界上沒有不好的鬍子！",
+            "zh": "世界上没有不好的胡子！"
         },
         "Nickname": [
             "温泉罗",
@@ -1431,10 +1584,11 @@
             "温大萝",
             "肃清君"
         ],
-        "related": [
-            10017,
-            "hotspring"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 10017,
+            "ItemType": "hotspring"
+        }
     },
     {
         "Id": 10030,
@@ -1442,20 +1596,21 @@
             "/api/Avatars/Fandom/Chinatsu_Hot_Spring_Icon.png"
         ],
         "Bio": {
-            "zh": "寻求未知的视野",
-            "jp": "未知の視界を求めて",
-            "tw": "尋求未知的視野",
             "en": "In search of unfamiliarity.",
-            "kr": "낯선 일상을 찾아서"
+            "jp": "未知の視界を求めて",
+            "kr": "낯선 일상을 찾아서",
+            "tw": "尋求未知的視野",
+            "zh": "寻求未知的视野"
         },
         "Nickname": [
             "温泉夏",
             "温夏"
         ],
-        "related": [
-            26000,
-            "hotspring"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 26000,
+            "ItemType": "hotspring"
+        }
     },
     {
         "Id": 16007,
@@ -1463,15 +1618,17 @@
             "/api/Avatars/Fandom/Tomoe_Icon.png"
         ],
         "Bio": {
-            "zh": "想了解切里诺会长的丰功伟业吗？",
-            "jp": "チェリノ会長についてのお話を聞かれませんか？",
-            "tw": "想了解潔莉諾會長的豐功偉業嗎？",
             "en": "Do you have time to hear about the great Cherino?",
-            "kr": "체리노 회장님의 치적에 관심이 있으신가요?"
+            "jp": "チェリノ会長についてのお話を聞かれませんか？",
+            "kr": "체리노 회장님의 치적에 관심이 있으신가요?",
+            "tw": "想了解潔莉諾會長的豐功偉業嗎？",
+            "zh": "想了解切里诺会长的丰功伟业吗？"
         },
         "Nickname": [
             "巴"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 20010,
@@ -1479,19 +1636,20 @@
             "/api/Avatars/Fandom/Nodoka_Hot_Spring_Icon.png"
         ],
         "Bio": {
-            "zh": "227号温泉乡，住宿预约接受中！",
-            "jp": "227号温泉郷、宿泊予約受付中です！",
-            "tw": "227號温泉郷，住宿預約接受中！",
             "en": "Now taking reservations for Hot Springs Resort No. 227!",
-            "kr": "227호 온천장 상시 숙박 예약 중!"
+            "jp": "227号温泉郷、宿泊予約受付中です！",
+            "kr": "227호 온천장 상시 숙박 예약 중!",
+            "tw": "227號温泉郷，住宿預約接受中！",
+            "zh": "227号温泉乡，住宿预约接受中！"
         },
         "Nickname": [
             "老板娘"
         ],
-        "related": [
-            26006,
-            "hotspring"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 26006,
+            "ItemType": "hotspring"
+        }
     },
     {
         "Id": 10031,
@@ -1499,20 +1657,21 @@
             "/api/Avatars/Fandom/Aru_New_Year_Icon.png"
         ],
         "Bio": {
-            "zh": "今年也请多多指教",
-            "jp": "本年もどうぞよろしくお願いいたします",
-            "tw": "今年也請多多指教",
             "en": "Looking forward to the new year.",
-            "kr": "부디 올해도 잘 부탁드립니다."
+            "jp": "本年もどうぞよろしくお願いいたします",
+            "kr": "부디 올해도 잘 부탁드립니다.",
+            "tw": "今年也請多多指教",
+            "zh": "今年也请多多指教"
         },
         "Nickname": [
             "春鲁",
             "春露"
         ],
-        "related": [
-            10000,
-            "newyear"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 10000,
+            "ItemType": "newyear"
+        }
     },
     {
         "Id": 10032,
@@ -1520,21 +1679,22 @@
             "/api/Avatars/Fandom/Mutsuki_New_Year_Icon.png"
         ],
         "Bio": {
-            "zh": "让今年变成快乐的一年吧♪",
-            "jp": "今年はもっと楽しい一年にしようね♪",
-            "tw": "讓今年變成快樂的一年吧♪",
             "en": "This year is going to be even better!",
-            "kr": "올해는 더 재밌을 거야~!"
+            "jp": "今年はもっと楽しい一年にしようね♪",
+            "kr": "올해는 더 재밌을 거야~!",
+            "tw": "讓今年變成快樂的一年吧♪",
+            "zh": "让今年变成快乐的一年吧♪"
         },
         "Nickname": [
             "春雷",
             "春月",
             "新月"
         ],
-        "related": [
-            13006,
-            "newyear"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 13006,
+            "ItemType": "newyear"
+        }
     },
     {
         "Id": 20011,
@@ -1542,19 +1702,20 @@
             "/api/Avatars/Fandom/Serika_New_Year_Icon.png"
         ],
         "Bio": {
-            "zh": "谨贺新年",
-            "jp": "新年明けましておめでとうございます",
-            "tw": "謹賀新年",
             "en": "Happy New Year, everyone.",
-            "kr": "모두 새해 복 많이 받으세요."
+            "jp": "新年明けましておめでとうございます",
+            "kr": "모두 새해 복 많이 받으세요.",
+            "tw": "謹賀新年",
+            "zh": "谨贺新年"
         },
         "Nickname": [
             "春黑"
         ],
-        "related": [
-            13008,
-            "newyear"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 13008,
+            "ItemType": "newyear"
+        }
     },
     {
         "Id": 10033,
@@ -1564,17 +1725,19 @@
             "/api/Avatars/Fandom/Wakamo_Kimono_Icon.png"
         ],
         "Bio": {
-            "zh": "我会永远陪伴在阁下的身旁……♡",
-            "jp": "私はいつも、あなた様のそばに……♡",
-            "tw": "我會永遠陪伴在閣下的身旁……♡",
             "en": "Heehee. Always by your side. ♥",
-            "kr": "후훗, 언제나 당신 곁에♡"
+            "jp": "私はいつも、あなた様のそばに……♡",
+            "kr": "후훗, 언제나 당신 곁에♡",
+            "tw": "我會永遠陪伴在閣下的身旁……♡",
+            "zh": "我会永远陪伴在阁下的身旁……♡"
         },
         "Nickname": [
             "大狐狸",
             "藻子姐",
             "黑狐"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 16008,
@@ -1582,16 +1745,18 @@
             "/api/Avatars/Fandom/Fubuki_Icon.png"
         ],
         "Bio": {
-            "zh": "咖啡要配甜甜圈！",
-            "jp": "コーヒーにはドーナッツ！",
-            "tw": "咖啡要配甜甜圈！",
             "en": "Coffee with donuts!",
-            "kr": "커피 with 도넛!"
+            "jp": "コーヒーにはドーナッツ！",
+            "kr": "커피 with 도넛!",
+            "tw": "咖啡要配甜甜圈！",
+            "zh": "咖啡要配甜甜圈！"
         },
         "Nickname": [
             "甜甜圈",
             "摆烂"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 20012,
@@ -1599,18 +1764,20 @@
             "/api/Avatars/Fandom/Sena_Icon.png"
         ],
         "Bio": {
-            "zh": "请把我设为紧急联络人",
-            "jp": "緊急メッセージの受信設定をお願いします",
-            "tw": "請把我設為緊急聯絡人",
             "en": "Please turn off your spam filter.",
-            "kr": "긴급메시지 차단 해제 바랍니다."
+            "jp": "緊急メッセージの受信設定をお願いします",
+            "kr": "긴급메시지 차단 해제 바랍니다.",
+            "tw": "請把我設為緊急聯絡人",
+            "zh": "请把我设为紧急联络人"
         },
         "Nickname": [
             "濑奈",
             "救护车",
             "jo护车",
             "泥头车"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 20013,
@@ -1621,34 +1788,42 @@
             "/api/Avatars/Fandom/Chihiro_Camp_Icon.png"
         ],
         "Bio": {
-            "zh": "安全性检查从日常做起",
-            "jp": "セキュリティチェックは日頃から",
-            "tw": "安全性檢查從日常做起",
             "en": "Let's make security checks a daily habit.",
-            "kr": "보안 점검을 생활화합시다"
+            "jp": "セキュリティチェックは日頃から",
+            "kr": "보안 점검을 생활화합시다",
+            "tw": "安全性檢查從日常做起",
+            "zh": "安全性检查从日常做起"
         },
         "Nickname": [
             "円香",
             "円"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10034,
-        "Name": "弥守",
         "Avatar": [
             "/api/Avatars/Fandom/Mimori_Icon.png"
         ],
         "Bio": {
-            "zh": "每天踏实，一步一步",
-            "jp": "毎日着実に、一歩ずつ",
-            "tw": "每天踏實，一步一步",
             "en": "Take one step at a time.",
-            "kr": "매일, 한 걸음씩만 더."
+            "jp": "毎日着実に、一歩ずつ",
+            "kr": "매일, 한 걸음씩만 더.",
+            "tw": "每天踏實，一步一步",
+            "zh": "每天踏实，一步一步"
         },
         "Nickname": [
             "大和抚子",
             "三森"
-        ]
+        ],
+        "Fixed": [
+            {
+                "ItemName": "Name",
+                "ItemValue": "弥守"
+            }
+        ],
+        "Related": null
     },
     {
         "Id": 10035,
@@ -1656,13 +1831,15 @@
             "/api/Avatars/Fandom/Ui_Icon.png"
         ],
         "Bio": {
-            "zh": "正在办其他事",
-            "jp": "作業中",
-            "tw": "正在辦其他事",
             "en": "AFK",
-            "kr": "다른 용무 중"
+            "jp": "作業中",
+            "kr": "다른 용무 중",
+            "tw": "正在辦其他事",
+            "zh": "正在办其他事"
         },
-        "Nickname": []
+        "Nickname": [],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10036,
@@ -1670,32 +1847,40 @@
             "/api/Avatars/Fandom/Hinata_Icon.png"
         ],
         "Bio": {
-            "zh": "有困难时，请随时联系我！",
-            "jp": "何かお困りの際は、いつでもご連絡ください！",
-            "tw": "有困難時，請隨時聯絡我！",
             "en": "Ping me if you need me!",
-            "kr": "어려움이 있으실 땐, 언제든 연락 바랍니다!"
+            "jp": "何かお困りの際は、いつでもご連絡ください！",
+            "kr": "어려움이 있으실 땐, 언제든 연락 바랍니다!",
+            "tw": "有困難時，請隨時聯絡我！",
+            "zh": "有困难时，请随时联系我！"
         },
-        "Nickname": []
+        "Nickname": [],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10037,
-        "Name": "玛丽娜",
         "Avatar": [
             "/api/Avatars/Fandom/Marina_Icon.png"
         ],
         "Bio": {
-            "zh": "叛逆者通通肃清！",
-            "jp": "不穏分子は粛清する！",
-            "tw": "叛逆者通通肅清！",
             "en": "The impure must be purged!",
-            "kr": "불순분자는 숙청이다!"
+            "jp": "不穏分子は粛清する！",
+            "kr": "불순분자는 숙청이다!",
+            "tw": "叛逆者通通肅清！",
+            "zh": "叛逆者通通肃清！"
         },
         "Nickname": [
             "玛利娜",
             "保洁大妈",
             "保洁阿姨"
-        ]
+        ],
+        "Fixed": [
+            {
+                "ItemName": "Name",
+                "ItemValue": "玛丽娜"
+            }
+        ],
+        "Related": null
     },
     {
         "Id": 10038,
@@ -1704,18 +1889,20 @@
             "/api/Avatars/Fandom/Oil_Drum_Icon.png"
         ],
         "Bio": {
-            "zh": "为了鸡窝托斯的和平",
-            "jp": "キヴォトスの平和のために",
-            "tw": "為了奇普托斯的和平",
             "en": "For the peace of Kivotos!",
-            "kr": "키보토스의 평화를 위해"
+            "jp": "キヴォトスの平和のために",
+            "kr": "키보토스의 평화를 위해",
+            "tw": "為了奇普托斯的和平",
+            "zh": "为了鸡窝托斯的和平"
         },
         "Nickname": [
             "你这样的大人",
             "兔兔",
             "兔子",
             "都子"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 20014,
@@ -1724,15 +1911,17 @@
             "/api/Avatars/Fandom/Oil_Drum_Icon.png"
         ],
         "Bio": {
-            "zh": "与其张嘴不如行动",
-            "jp": "言葉より行動で",
-            "tw": "與其張嘴不如行動",
             "en": "Actions. Not words.",
-            "kr": "말보다 행동으로"
+            "jp": "言葉より行動で",
+            "kr": "말보다 행동으로",
+            "tw": "與其張嘴不如行動",
+            "zh": "与其张嘴不如行动"
         },
         "Nickname": [
             "咲希"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10039,
@@ -1740,18 +1929,20 @@
             "/api/Avatars/Fandom/Miyu_Icon.png"
         ],
         "Bio": {
-            "zh": "眼前一片黑……",
-            "jp": "一寸先は闇……",
-            "tw": "眼前一片黑……",
             "en": "The good days are gone...",
-            "kr": "좋은 날은 이제 다 끝이에요……"
+            "jp": "一寸先は闇……",
+            "kr": "좋은 날은 이제 다 끝이에요……",
+            "tw": "眼前一片黑……",
+            "zh": "眼前一片黑……"
         },
         "Nickname": [
             "美优",
             "垃圾兔",
             "垃姬兔",
             "拉姬兔"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 20015,
@@ -1760,15 +1951,17 @@
             "/api/Avatars/Kivo/勇美 枫_导游.png"
         ],
         "Bio": {
-            "zh": "今天要玩什么呢！？",
-            "jp": "今日は何して遊ぶ！？",
-            "tw": "今天要玩什麼呢！？",
             "en": "What should we do for fun today?!",
-            "kr": "저기저기~! 오늘은 뭘하고 놀까?!"
+            "jp": "今日は何して遊ぶ！？",
+            "kr": "저기저기~! 오늘은 뭘하고 놀까?!",
+            "tw": "今天要玩什麼呢！？",
+            "zh": "今天要玩什么呢！？"
         },
         "Nickname": [
             "牌佬"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 20016,
@@ -1776,18 +1969,20 @@
             "/api/Avatars/Fandom/Iroha_Icon.png"
         ],
         "Bio": {
-            "zh": "读书时除了紧急状况请不要联络我",
-            "jp": "読書中につき、急用以外は連絡しないでください",
-            "tw": "讀書時除了緊急狀況請不要聯絡我",
             "en": "I'm reading. Do not disturb.",
-            "kr": "독서 중입니다. 찾지 말아주세요."
+            "jp": "読書中につき、急用以外は連絡しないでください",
+            "kr": "독서 중입니다. 찾지 말아주세요.",
+            "tw": "讀書時除了緊急狀況請不要聯絡我",
+            "zh": "读书时除了紧急状况请不要联络我"
         },
         "Nickname": [
             "168",
             "一本好书",
             "两本好书",
             "虎式"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 16009,
@@ -1795,17 +1990,19 @@
             "/api/Avatars/Fandom/Michiru_Icon.png"
         ],
         "Bio": {
-            "zh": "请关注「少女忍法帖 小小满」！",
-            "jp": "「少女忍法帖ミチルっち」チャンネル登録よろしく！",
-            "tw": "請訂閱「少女忍法帖 小小三千留」頻道！",
             "en": "Subscribe to a Girl's Ninja Scroll!",
-            "kr": "<소녀인법첩 미치룻치> 채널 구독 부탁해!"
+            "jp": "「少女忍法帖ミチルっち」チャンネル登録よろしく！",
+            "kr": "<소녀인법첩 미치룻치> 채널 구독 부탁해!",
+            "tw": "請訂閱「少女忍法帖 小小三千留」頻道！",
+            "zh": "请关注「少女忍法帖 小小满」！"
         },
         "Nickname": [
             "三千留",
             "部长",
             "小满"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10040,
@@ -1813,18 +2010,20 @@
             "/api/Avatars/Fandom/Tsukuyo_Icon.png"
         ],
         "Bio": {
-            "zh": "有朝一日要成为，独当一面的忍者……",
-            "jp": "いつかは、一人前の忍者に……",
-            "tw": "未來要成為，獨當一面的忍者……",
             "en": "I wanna be a full-fledged ninja...",
-            "kr": "얼른 어엿한 닌자가 될 수 있기를…."
+            "jp": "いつかは、一人前の忍者に……",
+            "kr": "얼른 어엿한 닌자가 될 수 있기를….",
+            "tw": "未來要成為，獨當一面的忍者……",
+            "zh": "有朝一日要成为，独当一面的忍者……"
         },
         "Nickname": [
             "月夜",
             "大只女",
             "大野",
             "巨忍"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10041,
@@ -1834,16 +2033,18 @@
             "/api/Avatars/Gamekee/834803.png"
         ],
         "Bio": {
-            "zh": "希望可以下点雨……",
-            "jp": "雨でも降らないかな……",
-            "tw": "希望可以下點雨……",
             "en": "I wish it would rain.",
-            "kr": "비라도 내리면 좋겠지만"
+            "jp": "雨でも降らないかな……",
+            "kr": "비라도 내리면 좋겠지만",
+            "tw": "希望可以下點雨……",
+            "zh": "希望可以下点雨……"
         },
         "Nickname": [
             "円香",
             "圆香"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 20017,
@@ -1851,13 +2052,15 @@
             "/api/Avatars/Fandom/Hiyori_Icon.png"
         ],
         "Bio": {
-            "zh": "人生是痛苦的连续……",
-            "jp": "人生は、苦痛の連続です……",
-            "tw": "人生是痛苦的連續……",
             "en": "Life is a series of suffering...",
-            "kr": "인생은 괴로움의 연속이에요……"
+            "jp": "人生は、苦痛の連続です……",
+            "kr": "인생은 괴로움의 연속이에요……",
+            "tw": "人生是痛苦的連續……",
+            "zh": "人生是痛苦的连续……"
         },
-        "Nickname": []
+        "Nickname": [],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10042,
@@ -1867,16 +2070,18 @@
             "/api/Avatars/Fandom/Atsuko_Undersuit_Icon.png"
         ],
         "Bio": {
-            "zh": "最近正在学习花语",
-            "jp": "最近は花言葉を勉強してる",
-            "tw": "最近正在學習花語",
             "en": "I've been learning the language of flowers lately.",
-            "kr": "요즘은 꽃말을 배우는 중"
+            "jp": "最近は花言葉を勉強してる",
+            "kr": "요즘은 꽃말을 배우는 중",
+            "tw": "最近正在學習花語",
+            "zh": "最近正在学习花语"
         },
         "Nickname": [
             "敦子",
             "公主"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10043,
@@ -1885,21 +2090,22 @@
             "/api/Avatars/Fandom/Wakamo_Swimsuit_Unmask_Icon.png"
         ],
         "Bio": {
-            "zh": "比夏日还热情的心意♡",
-            "jp": "夏よりもなお熱いこの心で♡",
-            "tw": "比夏日還熱情的心意♡",
             "en": "My heart is warmer than the summer heat!",
-            "kr": "여름 무더위보다 더 뜨거운 이 마음을 당신께♡"
+            "jp": "夏よりもなお熱いこの心で♡",
+            "kr": "여름 무더위보다 더 뜨거운 이 마음을 당신께♡",
+            "tw": "比夏日還熱情的心意♡",
+            "zh": "比夏日还热情的心意♡"
         },
         "Nickname": [
             "水狐狸",
             "水狐",
             "水藻"
         ],
-        "related": [
-            10033,
-            "swimsuit"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 10033,
+            "ItemType": "swimsuit"
+        }
     },
     {
         "Id": 10044,
@@ -1908,19 +2114,20 @@
             "/api/Avatars/Fandom/Nonomi_Swimsuit_Robber_Icon.png"
         ],
         "Bio": {
-            "zh": "是大海哦，大海~",
-            "jp": "海ですよ、海～！",
-            "tw": "是海耶，大海～！",
             "en": "Sensei! It's the ocean!",
-            "kr": "선생님! 바다예요, 바다!"
+            "jp": "海ですよ、海～！",
+            "kr": "선생님! 바다예요, 바다!",
+            "tw": "是海耶，大海～！",
+            "zh": "是大海哦，大海~"
         },
         "Nickname": [
             "水乃美"
         ],
-        "related": [
-            13004,
-            "swimsuit"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 13004,
+            "ItemType": "swimsuit"
+        }
     },
     {
         "Id": 26007,
@@ -1928,19 +2135,20 @@
             "/api/Avatars/Fandom/Ayane_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "zh": "玩的时候就要好好玩！",
-            "jp": "遊ぶときはしっかり遊びましょう！",
-            "tw": "玩得時候就要確實玩！",
             "en": "Play like there's no tomorrow.",
-            "kr": "놀 때는 확실하게 놀자"
+            "jp": "遊ぶときはしっかり遊びましょう！",
+            "kr": "놀 때는 확실하게 놀자",
+            "tw": "玩得時候就要確實玩！",
+            "zh": "玩的时候就要好好玩！"
         },
         "Nickname": [
             "直升机"
         ],
-        "related": [
-            23005,
-            "swimsuit"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 23005,
+            "ItemType": "swimsuit"
+        }
     },
     {
         "Id": 10045,
@@ -1949,19 +2157,20 @@
             "/api/Avatars/Fandom/Hoshino_Swimsuit_Robber_Icon.png"
         ],
         "Bio": {
-            "zh": "午睡中～欢迎同道中人",
-            "jp": "お昼寝中～。仲間はいつでも歓迎だよ",
-            "tw": "午睡中～歡迎同道中人",
             "en": "Taking a nice nap. Friends welcome.",
-            "kr": "낮잠 중~. 동료는 언제든지 환영"
+            "jp": "お昼寝中～。仲間はいつでも歓迎だよ",
+            "kr": "낮잠 중~. 동료는 언제든지 환영",
+            "tw": "午睡中～歡迎同道中人",
+            "zh": "午睡中～欢迎同道中人"
         },
         "Nickname": [
             "一动不动也好热阿"
         ],
-        "related": [
-            10005,
-            "swimsuit"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 10005,
+            "ItemType": "swimsuit"
+        }
     },
     {
         "Id": 26008,
@@ -1969,20 +2178,21 @@
             "/api/Avatars/Fandom/Shizuko_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "zh": "百夜堂连锁店热烈营业中！",
-            "jp": "百夜堂フランチャイズ絶賛営業中！",
-            "tw": "百夜堂連鎖店熱烈營業中！",
             "en": "The Momoyodou franchise is now open!",
-            "kr": "백야당 프랜차이즈 절찬 영업 중!"
+            "jp": "百夜堂フランチャイズ絶賛営業中！",
+            "kr": "백야당 프랜차이즈 절찬 영업 중!",
+            "tw": "百夜堂連鎖店熱烈營業中！",
+            "zh": "百夜堂连锁店热烈营业中！"
         },
         "Nickname": [
             "水老板娘",
             "水板娘"
         ],
-        "related": [
-            23006,
-            "swimsuit"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 23006,
+            "ItemType": "swimsuit"
+        }
     },
     {
         "Id": 10046,
@@ -1990,20 +2200,21 @@
             "/api/Avatars/Fandom/Izuna_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "zh": "这次要在海边修行咯！忍忍！",
-            "jp": "今度は海で修行です！ニンニン！",
-            "tw": "這次要在海邊修行囉！忍忍！",
             "en": "Let's train on the beach this summer! Nin nin!",
-            "kr": "여름을 맞아, 이번엔 바다에서 수행이에요! 닌닌!"
+            "jp": "今度は海で修行です！ニンニン！",
+            "kr": "여름을 맞아, 이번엔 바다에서 수행이에요! 닌닌!",
+            "tw": "這次要在海邊修行囉！忍忍！",
+            "zh": "这次要在海边修行咯！忍忍！"
         },
         "Nickname": [
             "水狐狸",
             "水忍狐"
         ],
-        "related": [
-            10014,
-            "swimsuit"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 10014,
+            "ItemType": "swimsuit"
+        }
     },
     {
         "Id": 10047,
@@ -2011,17 +2222,18 @@
             "/api/Avatars/Fandom/Chise_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "zh": "光芒～会在哪里呢？",
-            "jp": "キラキラ～。どこにあるのかな？",
-            "tw": "閃亮～會在哪裡呢？",
             "en": "Where are the sparkles?",
-            "kr": "반짝반짝, 어디 있을까?"
+            "jp": "キラキラ～。どこにあるのかな？",
+            "kr": "반짝반짝, 어디 있을까?",
+            "tw": "閃亮～會在哪裡呢？",
+            "zh": "光芒～会在哪里呢？"
         },
         "Nickname": [],
-        "related": [
-            13001,
-            "swimsuit"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 13001,
+            "ItemType": "swimsuit"
+        }
     },
     {
         "Id": 10048,
@@ -2034,15 +2246,17 @@
             "/api/Avatars/Gamekee/378377.png"
         ],
         "Bio": {
-            "zh": "努力再努力",
-            "jp": "努力あるのみ",
-            "tw": "努力再努力",
             "en": "I won't stop trying.",
-            "kr": "노력을 멈추지 않을게"
+            "jp": "努力あるのみ",
+            "kr": "노력을 멈추지 않을게",
+            "tw": "努力再努力",
+            "zh": "努力再努力"
         },
         "Nickname": [
             "骚梨"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 20018,
@@ -2050,15 +2264,17 @@
             "/api/Avatars/Fandom/Moe_Icon.png"
         ],
         "Bio": {
-            "zh": "正在积极收购没在用的导弹、炮弹！",
-            "jp": "使わないミサイルや砲 弾、積極的に買い取り中！",
-            "tw": "正在積極收購沒在用的導彈、砲彈！",
             "en": "Actively purchasing unused missiles and shells!",
-            "kr": "안 쓰는 미사일, 포탄, 적극 매입 중!"
+            "jp": "使わないミサイルや砲 弾、積極的に買い取り中！",
+            "kr": "안 쓰는 미사일, 포탄, 적극 매입 중!",
+            "tw": "正在積極收購沒在用的導彈、砲彈！",
+            "zh": "正在积极收购没在用的导弹、炮弹！"
         },
         "Nickname": [
             "萌惠"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10049,
@@ -2067,17 +2283,19 @@
             "/api/Avatars/Fandom/Kazusa_Old_Icon.png"
         ],
         "Bio": {
-            "zh": "放学后的甜点部成员",
-            "jp": "放課後スイーツ部のメンバーです",
-            "tw": "放學後的甜點部成員",
             "en": "A member of the After-School Sweets Club.",
-            "kr": "방과후 디저트부 부원입니다."
+            "jp": "放課後スイーツ部のメンバーです",
+            "kr": "방과후 디저트부 부원입니다.",
+            "tw": "放學後的甜點部成員",
+            "zh": "放学后的甜点部成员"
         },
         "Nickname": [
             "千纱",
             "黑猫",
             "甜点猫"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10050,
@@ -2085,15 +2303,17 @@
             "/api/Avatars/Fandom/Kokona_Icon.png"
         ],
         "Bio": {
-            "zh": "我是山海经的教官！",
-            "jp": "山海経の教官です！",
-            "tw": "我是山海經的教官！",
             "en": "A young Shanhaijing instructor.",
-            "kr": "산해경의 어린 교관입니다."
+            "jp": "山海経の教官です！",
+            "kr": "산해경의 어린 교관입니다.",
+            "tw": "我是山海經的教官！",
+            "zh": "我是山海经的教官！"
         },
         "Nickname": [
             "心菜"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10051,
@@ -2101,19 +2321,20 @@
             "/api/Avatars/Fandom/Utaha_Cheerleader_Icon.png"
         ],
         "Bio": {
-            "zh": "应援委托受理中！",
-            "jp": "応援依頼受付中！",
-            "tw": "應援委託受理中！",
             "en": "Cheering commishes OPEN",
-            "kr": "응원 의뢰 받고 있습니다"
+            "jp": "応援依頼受付中！",
+            "kr": "응원 의뢰 받고 있습니다",
+            "tw": "應援委託受理中！",
+            "zh": "应援委托受理中！"
         },
         "Nickname": [
             "拉炮"
         ],
-        "related": [
-            23004,
-            "cheerleader"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 23004,
+            "ItemType": "cheerleader"
+        }
     },
     {
         "Id": 10052,
@@ -2121,17 +2342,19 @@
             "/api/Avatars/Fandom/Noa_Icon.png"
         ],
         "Bio": {
-            "zh": "奇普托斯的忧郁",
-            "jp": "キヴォトスの憂鬱",
-            "tw": "奇普托斯的憂鬱",
             "en": "The Melancholy of Kivotos",
-            "kr": "키보토스의 우울"
+            "jp": "キヴォトスの憂鬱",
+            "kr": "키보토스의 우울",
+            "tw": "奇普托斯的憂鬱",
+            "zh": "奇普托斯的忧郁"
         },
         "Nickname": [
             "乃爱",
             "生理盐水",
             "诺雅"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 16010,
@@ -2139,19 +2362,20 @@
             "/api/Avatars/Fandom/Hibiki_Cheerleader_Icon.png"
         ],
         "Bio": {
-            "zh": "如果有更多时间练习的话……",
-            "jp": "もう少し練習する時間があれば……",
-            "tw": "如果有更多時間練習的話……",
             "en": "I really wish we had more time to practice...",
-            "kr": "연습할 시간이 좀 더 있었더라면…"
+            "jp": "もう少し練習する時間があれば……",
+            "kr": "연습할 시간이 좀 더 있었더라면…",
+            "tw": "如果有更多時間練習的話……",
+            "zh": "如果有更多时间练习的话……"
         },
         "Nickname": [
             "拉拉响"
         ],
-        "related": [
-            20000,
-            "cheerleader"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 20000,
+            "ItemType": "cheerleader"
+        }
     },
     {
         "Id": 20019,
@@ -2159,19 +2383,20 @@
             "/api/Avatars/Fandom/Akane_Bunny_Girl_Icon.png"
         ],
         "Bio": {
-            "zh": "和有点新鲜的日常生活一起",
-            "jp": "少しだけ新しい日常と共に",
-            "tw": "和有點新鮮的日常生活一起",
             "en": "Trying out a new lifestyle.",
-            "kr": "조금은 새로운 일상과 함께"
+            "jp": "少しだけ新しい日常と共に",
+            "kr": "조금은 새로운 일상과 함께",
+            "tw": "和有點新鮮的日常生活一起",
+            "zh": "和有点新鲜的日常生活一起"
         },
         "Nickname": [
             "白兔女郎"
         ],
-        "related": [
-            13000,
-            "bunnygirl"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 13000,
+            "ItemType": "bunnygirl"
+        }
     },
     {
         "Id": 10053,
@@ -2179,21 +2404,22 @@
             "/api/Avatars/Fandom/Yuuka_Gym_Icon.png"
         ],
         "Bio": {
-            "zh": "晄轮大祭现正举办中！",
-            "jp": "晄輪大祭開催中！",
-            "tw": "晄輪大祭現正舉辦中！",
             "en": "The Kivotos Halo Festival is underway!",
-            "kr": "황륜대제 개최 중!"
+            "jp": "晄輪大祭開催中！",
+            "kr": "황륜대제 개최 중!",
+            "tw": "晄輪大祭現正舉辦中！",
+            "zh": "晄轮大祭现正举办中！"
         },
         "Nickname": [
             "体香",
             "运香",
             "运动包人"
         ],
-        "related": [
-            13010,
-            "gym"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 13010,
+            "ItemType": "gym"
+        }
     },
     {
         "Id": 10054,
@@ -2201,20 +2427,21 @@
             "/api/Avatars/Fandom/Mari_Gym_Icon.png"
         ],
         "Bio": {
-            "zh": "希望会是一场和平的庆典",
-            "jp": "平和なお祭りになりますように",
-            "tw": "希望會是一場和平的慶典",
             "en": "Wishing for a peaceful festival.",
-            "kr": "평화로운 축제가 되기를 기원합니다"
+            "jp": "平和なお祭りになりますように",
+            "kr": "평화로운 축제가 되기를 기원합니다",
+            "tw": "希望會是一場和平的慶典",
+            "zh": "希望会是一场和平的庆典"
         },
         "Nickname": [
             "体马",
             "体玛"
         ],
-        "related": [
-            23008,
-            "gym"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 23008,
+            "ItemType": "gym"
+        }
     },
     {
         "Id": 16011,
@@ -2222,17 +2449,18 @@
             "/api/Avatars/Fandom/Hasumi_Gym_Icon.png"
         ],
         "Bio": {
-            "zh": "大会运营相关咨询请到执行委员会",
-            "jp": "大会運営に関するお問い合わせは実行委員会まで",
-            "tw": "大會營運相關諮詢請洽實行委員會",
             "en": "Ask the Executive Committee if you need help.",
-            "kr": "대회 운영 관련 문의는 실행위원회로"
+            "jp": "大会運営に関するお問い合わせは実行委員会まで",
+            "kr": "대회 운영 관련 문의는 실행위원회로",
+            "tw": "大會營運相關諮詢請洽實行委員會",
+            "zh": "大会运营相关咨询请到执行委员会"
         },
         "Nickname": [],
-        "related": [
-            13003,
-            "gym"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 13003,
+            "ItemType": "gym"
+        }
     },
     {
         "Id": 20020,
@@ -2242,11 +2470,11 @@
             "/api/Avatars/Fandom/Himari_Winter_Icon.png"
         ],
         "Bio": {
-            "zh": "千禧最高峰的超天才清纯系病弱美少女",
-            "jp": "ミレニアム最高峰の超天才清楚系病弱美少女",
-            "tw": "千年頂尖的超天才清楚系病弱美少女",
             "en": "Millennium's greatest genius is here!",
-            "kr": "밀레니엄 최고의 천재병약미소녀, 네. 저랍니다."
+            "jp": "ミレニアム最高峰の超天才清楚系病弱美少女",
+            "kr": "밀레니엄 최고의 천재병약미소녀, 네. 저랍니다.",
+            "tw": "千年頂尖的超天才清楚系病弱美少女",
+            "zh": "千禧最高峰的超天才清纯系病弱美少女"
         },
         "Nickname": [
             "阳葵",
@@ -2256,7 +2484,9 @@
             "超天才病弱美少女",
             "超天才美少女",
             "otto"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10055,
@@ -2264,16 +2494,18 @@
             "/api/Avatars/Fandom/Shigure_Icon.png"
         ],
         "Bio": {
-            "zh": "调一杯饮料改变人生的时间到啦",
-            "jp": "飲み物を混ぜて人生を変える時間だね",
-            "tw": "是時候調配一杯飲料，改變人生了",
             "en": "Mix a drink and change your life!",
-            "kr": "음료를 섞고 인생을 바꿔 줄 시간이네."
+            "jp": "飲み物を混ぜて人生を変える時間だね",
+            "kr": "음료를 섞고 인생을 바꿔 줄 시간이네.",
+            "tw": "是時候調配一杯飲料，改變人生了",
+            "zh": "调一杯饮料改变人生的时间到啦"
         },
         "Nickname": [
             "酒鬼",
             "酒蒙子"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10056,
@@ -2281,19 +2513,20 @@
             "/api/Avatars/Fandom/Serina_Christmas_Icon.png"
         ],
         "Bio": {
-            "zh": "在这圣夜里，希望大家都有幸福来敲门",
-            "jp": "聖なる夜、みなさんに幸せが訪れますよう",
-            "tw": "願幸福降臨在神聖的夜晚",
             "en": "Peace and joy to all during the Christmas season.",
-            "kr": "크리스마스를 맞아, 행복을 모두에게."
+            "jp": "聖なる夜、みなさんに幸せが訪れますよう",
+            "kr": "크리스마스를 맞아, 행복을 모두에게.",
+            "tw": "願幸福降臨在神聖的夜晚",
+            "zh": "在这圣夜里，希望大家都有幸福来敲门"
         },
         "Nickname": [
             "圣小护"
         ],
-        "related": [
-            26003,
-            "christmas"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 26003,
+            "ItemType": "christmas"
+        }
     },
     {
         "Id": 20021,
@@ -2301,17 +2534,18 @@
             "/api/Avatars/Fandom/Hanae_Christmas_Icon.png"
         ],
         "Bio": {
-            "zh": "在等圣诞老人！",
-            "jp": "サンタさんを待ってます！",
-            "tw": "正在等待聖誕老人！",
             "en": "Waiting up for Santa Claus!",
-            "kr": "산타 할아버지를 기다리며!"
+            "jp": "サンタさんを待ってます！",
+            "kr": "산타 할아버지를 기다리며!",
+            "tw": "正在等待聖誕老人！",
+            "zh": "在等圣诞老人！"
         },
         "Nickname": [],
-        "related": [
-            23002,
-            "christmas"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 23002,
+            "ItemType": "christmas"
+        }
     },
     {
         "Id": 10057,
@@ -2319,21 +2553,22 @@
             "/api/Avatars/Fandom/Haruna_New_Year_Icon.png"
         ],
         "Bio": {
-            "zh": "今年也要探寻究极的美食",
-            "jp": "今年も、究極の美食を探求いたします",
-            "tw": "今年也要探索終極的美食",
             "en": "Exploring the path of a gourmand during New Year's.",
-            "kr": "새해에도, 미식의 궁극을 탐구하며"
+            "jp": "今年も、究極の美食を探求いたします",
+            "kr": "새해에도, 미식의 궁극을 탐구하며",
+            "tw": "今年也要探索終極的美食",
+            "zh": "今年也要探寻究极的美食"
         },
         "Nickname": [
             "新春狙",
             "春奈",
             "春春奈"
         ],
-        "related": [
-            10002,
-            "newyear"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 10002,
+            "ItemType": "newyear"
+        }
     },
     {
         "Id": 20022,
@@ -2341,11 +2576,11 @@
             "/api/Avatars/Fandom/Fuuka_New_Year_Icon.png"
         ],
         "Bio": {
-            "zh": "平安无事、祈愿中",
-            "jp": "平穏無事、祈願中",
-            "tw": "平安無事、祈願中",
             "en": "Wishing for peace and safety.",
-            "kr": "평온무사, 기원 중"
+            "jp": "平穏無事、祈願中",
+            "kr": "평온무사, 기원 중",
+            "tw": "平安無事、祈願中",
+            "zh": "平安无事、祈愿中"
         },
         "Nickname": [
             "春锅",
@@ -2353,10 +2588,11 @@
             "外送婆",
             "电驴"
         ],
-        "related": [
-            23001,
-            "newyear"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 23001,
+            "ItemType": "newyear"
+        }
     },
     {
         "Id": 16012,
@@ -2364,19 +2600,20 @@
             "/api/Avatars/Fandom/Junko_New_Year_Icon.png"
         ],
         "Bio": {
-            "zh": "吃东西的时候别来烦我！",
-            "jp": "食べてる時は邪魔しないで！",
-            "tw": "吃東西的時候別妨礙我！",
             "en": "Don't bother me while I'm eating!",
-            "kr": "먹을 때는 방해하지 마!"
+            "jp": "食べてる時は邪魔しないで！",
+            "kr": "먹을 때는 방해하지 마!",
+            "tw": "吃東西的時候別妨礙我！",
+            "zh": "吃东西的时候别来烦我！"
         },
         "Nickname": [
             "春子"
         ],
-        "related": [
-            13007,
-            "newyear"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 13007,
+            "ItemType": "newyear"
+        }
     },
     {
         "Id": 10058,
@@ -2384,15 +2621,17 @@
             "/api/Avatars/Fandom/Mine_Icon.png"
         ],
         "Bio": {
-            "zh": "我时刻准备就绪",
-            "jp": "私はいつでも準備できております",
-            "tw": "我隨時準備就緒",
             "en": "The Remedial Knights are always ready!",
-            "kr": "저는 늘 준비되어 있습니다."
+            "jp": "私はいつでも準備できております",
+            "kr": "저는 늘 준비되어 있습니다.",
+            "tw": "我隨時準備就緒",
+            "zh": "我时刻准备就绪"
         },
         "Nickname": [
             "团长"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10059,
@@ -2402,11 +2641,11 @@
             "/api/Avatars/Fandom/Mika_School_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "zh": "正在招募一起聊天的对象！",
-            "jp": "一緒にお話してくれる人募集中！",
-            "tw": "正在招募一起聊天的對象！",
             "en": "Looking for new people to chat with!",
-            "kr": "같이 수다 떨 사람 모집 중!"
+            "jp": "一緒にお話してくれる人募集中！",
+            "kr": "같이 수다 떨 사람 모집 중!",
+            "tw": "正在招募一起聊天的對象！",
+            "zh": "正在招募一起聊天的对象！"
         },
         "Nickname": [
             "弥香",
@@ -2414,7 +2653,9 @@
             "三力",
             "公主",
             "粉色大猩猩"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10060,
@@ -2422,17 +2663,19 @@
             "/api/Avatars/Fandom/Megu_Icon.png"
         ],
         "Bio": {
-            "zh": "随时欢迎温泉开发的同志哦！",
-            "jp": "温泉開発の同志はいつでも歓迎だよ！",
-            "tw": "隨時歡迎溫泉開發的同志！",
             "en": "Volunteers always welcome!",
-            "kr": "지원자는 언제나 환영이야!"
+            "jp": "温泉開発の同志はいつでも歓迎だよ！",
+            "kr": "지원자는 언제나 환영이야!",
+            "tw": "隨時歡迎溫泉開發的同志！",
+            "zh": "随时欢迎温泉开发的同志哦！"
         },
         "Nickname": [
             "喷火器",
             "喷火枪",
             "大火龙"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 20023,
@@ -2440,11 +2683,11 @@
             "/api/Avatars/Fandom/Kanna_Icon.png"
         ],
         "Bio": {
-            "zh": "建立安全的鸡窝托斯，请交给瓦尔基里",
-            "jp": "安全なキヴォトスを目指して、ヴァルキューレにお任せを",
-            "tw": "建立安全的奇普托斯，請交給女武神",
             "en": "A trustworthy Valkyrie = A safe Kivotos.",
-            "kr": "믿음직한 발키리 안전한 키보토스"
+            "jp": "安全なキヴォトスを目指して、ヴァルキューレにお任せを",
+            "kr": "믿음직한 발키리 안전한 키보토스",
+            "tw": "建立安全的奇普托斯，請交給女武神",
+            "zh": "建立安全的鸡窝托斯，请交给瓦尔基里"
         },
         "Nickname": [
             "环奈",
@@ -2452,7 +2695,9 @@
             "狂犬",
             "局长",
             "康娜"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10061,
@@ -2461,15 +2706,17 @@
             "/api/Avatars/Fandom/Sakurako_Icon_3.png"
         ],
         "Bio": {
-            "zh": "一直在守望着",
-            "jp": "いつも見守っています",
-            "tw": "一直關注著你",
             "en": "I'll watch over you.",
-            "kr": "지켜보고 있습니다."
+            "jp": "いつも見守っています",
+            "kr": "지켜보고 있습니다.",
+            "tw": "一直關注著你",
+            "zh": "一直在守望着"
         },
         "Nickname": [
             "觉悟姐"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10062,
@@ -2479,18 +2726,20 @@
             "/api/Avatars/Fandom/Toki_Abi-Eshufu_Icon.png"
         ],
         "Bio": {
-            "zh": "随时待机中",
-            "jp": "常時待機中",
-            "tw": "隨時待命中",
             "en": "On standby.",
-            "kr": "항시 대기 중."
+            "jp": "常時待機中",
+            "kr": "항시 대기 중.",
+            "tw": "隨時待命中",
+            "zh": "随时待机中"
         },
         "Nickname": [
             "季",
             "时",
             "机甲",
             "高达"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 20024,
@@ -2499,16 +2748,18 @@
             "/api/Avatars/Fandom/Nagisa_Icon_3.png"
         ],
         "Bio": {
-            "zh": "永远游刃有余，优雅面对",
-            "jp": "いつでも余裕をもって、優雅に",
-            "tw": "隨時都要留有餘裕，保持優雅",
             "en": "Always graceful and composed.",
-            "kr": "언제나 품위있고 고상하게"
+            "jp": "いつでも余裕をもって、優雅に",
+            "kr": "언제나 품위있고 고상하게",
+            "tw": "隨時都要留有餘裕，保持優雅",
+            "zh": "永远游刃有余，优雅面对"
         },
         "Nickname": [
             "渚哥哥",
             "红茶"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10063,
@@ -2519,13 +2770,15 @@
             "/api/Avatars/Fandom/Koyuki_Bunny_Girl_Icon.png"
         ],
         "Bio": {
-            "zh": "哎呀，这算是我的错吗……？",
-            "jp": "いや、これって私のせいですか……？",
-            "tw": "不對，這是我的錯嗎……？",
             "en": "It's my fault?!",
-            "kr": "아니 이게 제 잘못임;;?"
+            "jp": "いや、これって私のせいですか……？",
+            "kr": "아니 이게 제 잘못임;;?",
+            "tw": "不對，這是我的錯嗎……？",
+            "zh": "哎呀，这算是我的错吗……？"
         },
-        "Nickname": []
+        "Nickname": [],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10064,
@@ -2533,19 +2786,20 @@
             "/api/Avatars/Fandom/Kayoko_New_Year_Icon.png"
         ],
         "Bio": {
-            "zh": "谨贺新年",
-            "jp": "謹賀新年",
-            "tw": "謹賀新年",
             "en": "Happy New Year",
-            "kr": "근하신년"
+            "jp": "謹賀新年",
+            "kr": "근하신년",
+            "tw": "謹賀新年",
+            "zh": "谨贺新年"
         },
         "Nickname": [
             "春代"
         ],
-        "related": [
-            13005,
-            "newyear"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 13005,
+            "ItemType": "newyear"
+        }
     },
     {
         "Id": 20025,
@@ -2553,19 +2807,20 @@
             "/api/Avatars/Fandom/Haruka_New_Year_Icon.png"
         ],
         "Bio": {
-            "zh": "新年也请一直幸福地度过",
-            "jp": "新年も末永くお幸せにお過ごしください",
-            "tw": "新年也請永遠過得健健康康",
             "en": "H-Have the best New Year...!",
-            "kr": "새해에도 만수무강하세요."
+            "jp": "新年も末永くお幸せにお過ごしください",
+            "kr": "새해에도 만수무강하세요.",
+            "tw": "新年也請永遠過得健健康康",
+            "zh": "新年也请一直幸福地度过"
         },
         "Nickname": [
             "春香"
         ],
-        "related": [
-            16000,
-            "newyear"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 16000,
+            "ItemType": "newyear"
+        }
     },
     {
         "Id": 10065,
@@ -2573,16 +2828,18 @@
             "/api/Avatars/Fandom/Kaho_Icon.png"
         ],
         "Bio": {
-            "zh": "业务相关请随时咨询",
-            "jp": "業務に関してはお気軽にご相談ください",
-            "tw": "工作相關的問題請放心詢問",
             "en": "Would you like to have a business consultation?",
-            "kr": "업무 상담은 부담 없이 부탁드립니다."
+            "jp": "業務に関してはお気軽にご相談ください",
+            "kr": "업무 상담은 부담 없이 부탁드립니다.",
+            "tw": "工作相關的問題請放心詢問",
+            "zh": "业务相关请随时咨询"
         },
         "Nickname": [
             "佳穗",
             "力木"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10066,
@@ -2590,19 +2847,20 @@
             "/api/Avatars/Fandom/Alice_Maid_Icon.png"
         ],
         "Bio": {
-            "zh": "我是女仆勇者爱丽丝",
-            "jp": "メイド勇者のアリスです",
-            "tw": "女僕勇者愛麗絲",
             "en": "I am Aris, hero maid.",
-            "kr": "메이드 용사 아리스입니다."
+            "jp": "メイド勇者のアリスです",
+            "kr": "메이드 용사 아리스입니다.",
+            "tw": "女僕勇者愛麗絲",
+            "zh": "我是女仆勇者爱丽丝"
         },
         "Nickname": [
             "扫地机器人"
         ],
-        "related": [
-            10015,
-            "maid"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 10015,
+            "ItemType": "maid"
+        }
     },
     {
         "Id": 10067,
@@ -2610,17 +2868,18 @@
             "/api/Avatars/Fandom/Toki_Bunny_Girl_Icon.png"
         ],
         "Bio": {
-            "zh": "作战待机中",
-            "jp": "作戦待機中",
-            "tw": "作戰待命中",
             "en": "On standby.",
-            "kr": "투입 대기 중."
+            "jp": "作戦待機中",
+            "kr": "투입 대기 중.",
+            "tw": "作戰待命中",
+            "zh": "作战待机中"
         },
         "Nickname": [],
-        "related": [
-            10062,
-            "bunnygirl"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 10062,
+            "ItemType": "bunnygirl"
+        }
     },
     {
         "Id": 26009,
@@ -2628,21 +2887,22 @@
             "/api/Avatars/Fandom/Yuzu_Maid_Icon.png"
         ],
         "Bio": {
-            "zh": "403 Forbidden",
-            "jp": "403 Forbidden",
-            "tw": "403 Forbidden",
             "en": "403 Forbidden",
-            "kr": "403 Forbidden"
+            "jp": "403 Forbidden",
+            "kr": "403 Forbidden",
+            "tw": "403 Forbidden",
+            "zh": "403 Forbidden"
         },
         "Nickname": [
             "箱子",
             "柚箱",
             "箱柚"
         ],
-        "related": [
-            10018,
-            "maid"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 10018,
+            "ItemType": "maid"
+        }
     },
     {
         "Id": 10068,
@@ -2650,31 +2910,32 @@
             "/api/Avatars/Fandom/Reisa_Icon.png"
         ],
         "Bio": {
-            "zh": "\"The ♠ of Vigilante\"",
-            "jp": "\"The ♠ of Vigilante\"",
-            "tw": "「The ♠ of Vigilante」",
             "en": "\"The ♠ of the Vigilantes\"",
-            "kr": "\"The ♠ of Vigilante\""
+            "jp": "\"The ♠ of Vigilante\"",
+            "kr": "\"The ♠ of Vigilante\"",
+            "tw": "「The ♠ of Vigilante」",
+            "zh": "\"The ♠ of Vigilante\""
         },
         "Nickname": [
             "甜甜圈",
             "挑战书",
             "澪纱",
             "蕾纱"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10069,
-        "Name": "留美",
         "Avatar": [
             "/api/Avatars/Fandom/Rumi_Icon.png"
         ],
         "Bio": {
-            "zh": "玄武商会，正在营业中",
-            "jp": "玄武商会、営業中だよ",
-            "tw": "玄武商會營業中",
             "en": "The Black Tortoise Promenade, open for business!",
-            "kr": "현무상회, 영업 중입니다."
+            "jp": "玄武商会、営業中だよ",
+            "kr": "현무상회, 영업 중입니다.",
+            "tw": "玄武商會營業中",
+            "zh": "玄武商会，正在营业中"
         },
         "Nickname": [
             "厨子",
@@ -2684,20 +2945,26 @@
             "瑠美",
             "留美",
             "王留美"
-        ]
+        ],
+        "Fixed": [
+            {
+                "ItemName": "Name",
+                "ItemValue": "留美"
+            }
+        ],
+        "Related": null
     },
     {
         "Id": 10070,
-        "Name": "南",
         "Avatar": [
             "/api/Avatars/Fandom/Mina_Icon.png"
         ],
         "Bio": {
-            "zh": "能听到风声啊……",
-            "jp": "風の声が聞こえるな……",
-            "tw": "能聽見風的聲音……",
             "en": "I can hear the voice of the wind...",
-            "kr": "바람의 목소리가 들리는군……"
+            "jp": "風の声が聞こえるな……",
+            "kr": "바람의 목소리가 들리는군……",
+            "tw": "能聽見風的聲音……",
+            "zh": "能听到风声啊……"
         },
         "Nickname": [
             "墨镜",
@@ -2705,21 +2972,27 @@
             "南",
             "美奈",
             "弥奈"
-        ]
+        ],
+        "Fixed": [
+            {
+                "ItemName": "Name",
+                "ItemValue": "南"
+            }
+        ],
+        "Related": null
     },
     {
         "Id": 20026,
-        "Name": "实梨",
         "Avatar": [
             "/api/Avatars/Fandom/Minori_Icon.png",
             "/api/Avatars/Fandom/Minori_Old_Icon.png"
         ],
         "Bio": {
-            "zh": "联邦学生会应保证每周休息4天！",
-            "jp": "連邦生徒会は週休4日を保障せよ！",
-            "tw": "請聯邦學生會保障週休4日！",
             "en": "We Deserve a 3 Day Work Week!",
-            "kr": "총학생회는 주 3일 노동을 허가하라!"
+            "jp": "連邦生徒会は週休4日を保障せよ！",
+            "kr": "총학생회는 주 3일 노동을 허가하라!",
+            "tw": "請聯邦學生會保障週休4日！",
+            "zh": "联邦学生会应保证每周休息4天！"
         },
         "Nickname": [
             "扩音器",
@@ -2730,7 +3003,14 @@
             "实乃里",
             "实里",
             "实梨"
-        ]
+        ],
+        "Fixed": [
+            {
+                "ItemName": "Name",
+                "ItemValue": "实梨"
+            }
+        ],
+        "Related": null
     },
     {
         "Id": 10071,
@@ -2738,17 +3018,18 @@
             "/api/Avatars/Fandom/Miyako_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "zh": "用结果来证明",
-            "jp": "結果で証明します",
-            "tw": "用結果來證明",
             "en": "I'll let my results speak for me.",
-            "kr": "결과로 증명하겠습니다."
+            "jp": "結果で証明します",
+            "kr": "결과로 증명하겠습니다.",
+            "tw": "用結果來證明",
+            "zh": "用结果来证明"
         },
         "Nickname": [],
-        "related": [
-            10038,
-            "swimsuit"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 10038,
+            "ItemType": "swimsuit"
+        }
     },
     {
         "Id": 10072,
@@ -2756,17 +3037,18 @@
             "/api/Avatars/Fandom/Saki_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "zh": "化不可能为可能",
-            "jp": "不可能を可能に",
-            "tw": "將不可能化為可能",
             "en": "If it doesn't work, make it work.",
-            "kr": "안 되면 되게 하라"
+            "jp": "不可能を可能に",
+            "kr": "안 되면 되게 하라",
+            "tw": "將不可能化為可能",
+            "zh": "化不可能为可能"
         },
         "Nickname": [],
-        "related": [
-            20014,
-            "swimsuit"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 20014,
+            "ItemType": "swimsuit"
+        }
     },
     {
         "Id": 26010,
@@ -2774,17 +3056,18 @@
             "/api/Avatars/Fandom/Miyu_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "zh": "船到桥头自然直",
-            "jp": "明日は明日の風が吹く",
-            "tw": "明天會吹明天的風",
             "en": "Tomorrow is just another tomorrow.",
-            "kr": "내일은, 또 다른 내일"
+            "jp": "明日は明日の風が吹く",
+            "kr": "내일은, 또 다른 내일",
+            "tw": "明天會吹明天的風",
+            "zh": "船到桥头自然直"
         },
         "Nickname": [],
-        "related": [
-            10039,
-            "swimsuit"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 10039,
+            "ItemType": "swimsuit"
+        }
     },
     {
         "Id": 20027,
@@ -2792,19 +3075,20 @@
             "/api/Avatars/Fandom/Shiroko_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "zh": "嗯，需要粮食请联络我",
-            "jp": "ん、食糧が必要な人は連絡して",
-            "tw": "嗯，需要糧食的人就聯絡我",
             "en": "Those who need food, contact me.",
-            "kr": "식량 필요한 사람 연락 바람"
+            "jp": "ん、食糧が必要な人は連絡して",
+            "kr": "식량 필요한 사람 연락 바람",
+            "tw": "嗯，需要糧食的人就聯絡我",
+            "zh": "嗯，需要粮食请联络我"
         },
         "Nickname": [
             "水仓唯"
         ],
-        "related": [
-            10010,
-            "swimsuit"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 10010,
+            "ItemType": "swimsuit"
+        }
     },
     {
         "Id": 10073,
@@ -2812,17 +3096,18 @@
             "/api/Avatars/Fandom/Ui_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "zh": "出差中",
-            "jp": "出張中",
-            "tw": "出差中",
             "en": "On a business trip.",
-            "kr": "출장 중."
+            "jp": "出張中",
+            "kr": "출장 중.",
+            "tw": "出差中",
+            "zh": "出差中"
         },
         "Nickname": [],
-        "related": [
-            10035,
-            "swimsuit"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 10035,
+            "ItemType": "swimsuit"
+        }
     },
     {
         "Id": 20028,
@@ -2830,17 +3115,18 @@
             "/api/Avatars/Fandom/Hinata_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "zh": "出差中，有事请留言！",
-            "jp": "出張中です、なにかありましたらメッセージをどうぞ！",
-            "tw": "出差中，如果有事麻煩請傳訊息！",
             "en": "I'm away on business. Please leave a message!",
-            "kr": "출장 중입니다, 메시지 남겨주세요!"
+            "jp": "出張中です、なにかありましたらメッセージをどうぞ！",
+            "kr": "출장 중입니다, 메시지 남겨주세요!",
+            "tw": "出差中，如果有事麻煩請傳訊息！",
+            "zh": "出差中，有事请留言！"
         },
         "Nickname": [],
-        "related": [
-            10036,
-            "swimsuit"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 10036,
+            "ItemType": "swimsuit"
+        }
     },
     {
         "Id": 16013,
@@ -2848,20 +3134,21 @@
             "/api/Avatars/Fandom/Koharu_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "zh": "泳装才不是涩涩呢！",
-            "jp": "水着はエッチじゃないんだからね！",
-            "tw": "泳裝又沒有色色！",
             "en": "There is nothing inappropriate about swimsuits!!",
-            "kr": "수영복은 야한 게 아니니까!"
+            "jp": "水着はエッチじゃないんだからね！",
+            "kr": "수영복은 야한 게 아니니까!",
+            "tw": "泳裝又沒有色色！",
+            "zh": "泳装才不是涩涩呢！"
         },
         "Nickname": [
             "水春",
             "泳春"
         ],
-        "related": [
-            10020,
-            "swimsuit"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 10020,
+            "ItemType": "swimsuit"
+        }
     },
     {
         "Id": 10074,
@@ -2869,42 +3156,47 @@
             "/api/Avatars/Fandom/Hanako_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "zh": "我的真面目，可以随着肌肤一同裸露出来吗？",
-            "jp": "さらけ出した肌のぶんだけ、素直になっていいですか？",
-            "tw": "可以像裸露出來的皮膚一樣，坦誠以對嗎？",
             "en": "As you can see, I have nothing to hide...",
-            "kr": "드러낸 피부만큼, 솔직해져도 될까요?"
+            "jp": "さらけ出した肌のぶんだけ、素直になっていいですか？",
+            "kr": "드러낸 피부만큼, 솔직해져도 될까요?",
+            "tw": "可以像裸露出來的皮膚一樣，坦誠以對嗎？",
+            "zh": "我的真面目，可以随着肌肤一同裸露出来吗？"
         },
         "Nickname": [
             "紫攻花子"
         ],
-        "related": [
-            23007,
-            "swimsuit"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 23007,
+            "ItemType": "swimsuit"
+        }
     },
     {
         "Id": 20029,
-        "Name": "弥守（泳装）",
         "Avatar": [
             "/api/Avatars/Fandom/Mimori_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "zh": "总觉得，会有什么好事发生",
-            "jp": "なんだか、いいことが起きそう",
-            "tw": "總覺得，好像會有好事發生",
             "en": "I think something good's going to happen today.",
-            "kr": "왠지, 좋은 일이 일어날 것 같은 날."
+            "jp": "なんだか、いいことが起きそう",
+            "kr": "왠지, 좋은 일이 일어날 것 같은 날.",
+            "tw": "總覺得，好像會有好事發生",
+            "zh": "总觉得，会有什么好事发生"
         },
         "Nickname": [],
-        "related": [
-            10034,
-            "swimsuit"
-        ]
+        "Fixed": [
+            {
+                "ItemName": "Name",
+                "ItemValue": "弥守（泳装）"
+            }
+        ],
+        "Related": {
+            "ItemId": 10034,
+            "ItemType": "swimsuit"
+        }
     },
     {
         "Id": 10075,
-        "Name": "梅露",
         "Avatar": [
             "/api/Avatars/Meru_Hot_Spring.webp",
             "/api/Avatars/Fandom/Meru_Icon.png",
@@ -2912,17 +3204,24 @@
             "/api/Avatars/Fandom/Meru_Hot_Spring_Icon.png"
         ],
         "Bio": {
-            "zh": "画画时自言自语的次数会变多呢～",
-            "jp": "お絵かきしてると、独り言が増えるんだよね～",
-            "tw": "畫畫之所以累人，是因為必須常常胡言亂語",
             "en": "The hard part about drawing is that sometimes you have to say nonsense.",
-            "kr": "그림이 힘든 것은, 주기적으로 헛소리를 해야 하기 때문"
+            "jp": "お絵かきしてると、独り言が増えるんだよね～",
+            "kr": "그림이 힘든 것은, 주기적으로 헛소리를 해야 하기 때문",
+            "tw": "畫畫之所以累人，是因為必須常常胡言亂語",
+            "zh": "画画时自言自语的次数会变多呢～"
         },
         "Nickname": [
             "芽瑠",
             "爱瑠",
             "梅露"
-        ]
+        ],
+        "Fixed": [
+            {
+                "ItemName": "Name",
+                "ItemValue": "梅露"
+            }
+        ],
+        "Related": null
     },
     {
         "Id": 13013,
@@ -2931,36 +3230,43 @@
             "/api/Avatars/Fandom/Momiji_Old_Icon.png"
         ],
         "Bio": {
-            "zh": "知识就是力量。我会好好保护它的！",
-            "jp": "知識は力。ちゃんと守っていきます！",
-            "tw": "知識就是力量，我會遵守這個原則！",
             "en": "Knowledge is power, and it's our duty to protect it!",
-            "kr": "지식은 힘이니, 잘 지켜야죠!"
+            "jp": "知識は力。ちゃんと守っていきます！",
+            "kr": "지식은 힘이니, 잘 지켜야죠!",
+            "tw": "知識就是力量，我會遵守這個原則！",
+            "zh": "知识就是力量。我会好好保护它的！"
         },
         "Nickname": [
             "熊熊"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10076,
-        "Name": "小鸟（应援团）",
         "Avatar": [
             "/api/Avatars/Fandom/Kotori_Cheerleader_Icon.png"
         ],
         "Bio": {
-            "zh": "健全的知识寓于健康的身体！",
-            "jp": "健全な知識は健全な肉体に宿ります！",
-            "tw": "健全的知識寄宿於健全的肉體！",
             "en": "A sound body and a sound mind!",
-            "kr": "건전한 육체에 건전한 지식!"
+            "jp": "健全な知識は健全な肉体に宿ります！",
+            "kr": "건전한 육체에 건전한 지식!",
+            "tw": "健全的知識寄宿於健全的肉體！",
+            "zh": "健全的知识寓于健康的身体！"
         },
         "Nickname": [
             "拉拉鸟"
         ],
-        "related": [
-            16002,
-            "cheerleader"
-        ]
+        "Fixed": [
+            {
+                "ItemName": "Name",
+                "ItemValue": "小鸟（应援团）"
+            }
+        ],
+        "Related": {
+            "ItemId": 16002,
+            "ItemType": "cheerleader"
+        }
     },
     {
         "Id": 20030,
@@ -2968,21 +3274,22 @@
             "/api/Avatars/Fandom/Haruna_Gym_Icon.png"
         ],
         "Bio": {
-            "zh": "一起来探寻运动和美食之间的关系吧",
-            "jp": "運動と美食の相関関係を探してみましょうか",
-            "tw": "來尋找運動和美食的關聯性吧",
             "en": "The correlation between exercise and gastronomy",
-            "kr": "운동과 미식의 상관관계"
+            "jp": "運動と美食の相関関係を探してみましょうか",
+            "kr": "운동과 미식의 상관관계",
+            "tw": "來尋找運動和美食的關聯性吧",
+            "zh": "一起来探寻运动和美食之间的关系吧"
         },
         "Nickname": [
             "体奈",
             "运奈",
             "运动狙"
         ],
-        "related": [
-            10002,
-            "gym"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 10002,
+            "ItemType": "gym"
+        }
     },
     {
         "Id": 10077,
@@ -2990,16 +3297,18 @@
             "/api/Avatars/Fandom/Ichika_Icon.png"
         ],
         "Bio": {
-            "zh": "无论何时都是大家的伙伴，正义实现委员会！",
+            "en": "The Justice Task Force's door is always open!",
             "jp": "いつも皆さんの味方、正義実現委員会っす！",
-            "tw": "始終親切的實現正義部！",
             "kr": "언제나 친절한 정의실현부입니다!",
-            "en": "The Justice Task Force's door is always open!"
+            "tw": "始終親切的實現正義部！",
+            "zh": "无论何时都是大家的伙伴，正义实现委员会！"
         },
         "Nickname": [
             "大杂鱼",
             "眯眯眼"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10078,
@@ -3007,15 +3316,17 @@
             "/api/Avatars/Fandom/Kasumi_Icon.png"
         ],
         "Bio": {
-            "zh": "众生皆源于温泉，亦终将归于温泉",
-            "jp": "みな温泉から生まれ、温泉に還る",
-            "tw": "萬物皆出於溫泉，且終將歸於溫泉",
             "en": "Life begins and ends with hot spring development.",
-            "kr": "모두 진흙에서 태어나, 진흙으로 돌아가지."
+            "jp": "みな温泉から生まれ、温泉に還る",
+            "kr": "모두 진흙에서 태어나, 진흙으로 돌아가지.",
+            "tw": "萬物皆出於溫泉，且終將歸於溫泉",
+            "zh": "众生皆源于温泉，亦终将归于温泉"
         },
         "Nickname": [
             "佳澄"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 20031,
@@ -3023,17 +3334,18 @@
             "/api/Avatars/Fandom/Shigure_Hot_Spring_Icon.png"
         ],
         "Bio": {
-            "zh": "若连思念都能一饮而尽",
+            "en": "If only we could drink away our nostalgia",
             "jp": "郷愁さえも飲み干せるのなら",
-            "tw": "若連思念都能一飲而盡",
             "kr": "그리움도 마셔서 없앨 수 있다면",
-            "en": "If only we could drink away our nostalgia"
+            "tw": "若連思念都能一飲而盡",
+            "zh": "若连思念都能一饮而尽"
         },
         "Nickname": [],
-        "related": [
-            10055,
-            "hotspring"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 10055,
+            "ItemType": "hotspring"
+        }
     },
     {
         "Id": 10079,
@@ -3041,16 +3353,18 @@
             "/api/Avatars/Fandom/Misaka_Mikoto_Icon.png"
         ],
         "Bio": {
-            "zh": "寻找周边中",
+            "en": "On the hunt for merch",
             "jp": "グッズ探し中",
             "kr": "굿즈 찾는 중",
             "tw": "尋找周邊商品中",
-            "en": "On the hunt for merch"
+            "zh": "寻找周边中"
         },
         "Nickname": [
             "炮姐",
             "超电磁炮"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10080,
@@ -3058,15 +3372,17 @@
             "/api/Avatars/Fandom/Shokuhou_Misaki_Icon.png"
         ],
         "Bio": {
-            "zh": "我会联系你的",
+            "en": "Don't call me, I'll call you",
             "jp": "連絡はこちらからするわ",
             "kr": "연락은 이쪽에서 먼저 할테니까",
-            "en": "Don't call me, I'll call you",
-            "tw": "連絡會由我先進行"
+            "tw": "連絡會由我先進行",
+            "zh": "我会联系你的"
         },
         "Nickname": [
             "女王"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 26011,
@@ -3074,32 +3390,37 @@
             "/api/Avatars/Fandom/Saten_Ruiko_Icon.png"
         ],
         "Bio": {
-            "zh": "要是看到了不可思议的东西，请联系我！",
+            "en": "Let me know if you find anything interesting!",
             "jp": "不思議なものが見つかったら、ご連絡ください！",
             "kr": "신기한 거 찾으시면 말씀 좀!",
-            "en": "Let me know if you find anything interesting!",
-            "tw": "如果找到了神奇的東西請聯絡我！"
+            "tw": "如果找到了神奇的東西請聯絡我！",
+            "zh": "要是看到了不可思议的东西，请联系我！"
         },
         "Nickname": [
             "上升气流",
             "泪爷"
         ],
-        "School": "ETC"
+        "Fixed": [
+            {
+                "ItemName": "School",
+                "ItemValue": "ETC"
+            }
+        ],
+        "Related": null
     },
     {
         "Id": 10081,
-        "Name": "紫",
         "Avatar": [
             "/api/Avatars/Yukari.webp",
             "/api/Avatars/Fandom/Yukari_Icon.png",
             "/api/Avatars/Fandom/Yukari_Middle_School_Icon.png"
         ],
         "Bio": {
-            "zh": "小女子现在也，开始用Momotalk啦！",
+            "en": "Sensei! I signed up for MomoTalk!",
             "jp": "身共も、ももとーくを始めましたの！",
             "kr": "선생님! 소녀도 모모톡에 가입했사와요!",
             "tw": "老師！小女子也加入MomoTalk了唷！",
-            "en": "Sensei! I signed up for MomoTalk!"
+            "zh": "小女子现在也，开始用Momotalk啦！"
         },
         "Nickname": [
             "紫草",
@@ -3115,7 +3436,14 @@
             "优花梨",
             "📮里",
             "📪里"
-        ]
+        ],
+        "Fixed": [
+            {
+                "ItemName": "Name",
+                "ItemValue": "紫"
+            }
+        ],
+        "Related": null
     },
     {
         "Id": 10082,
@@ -3123,13 +3451,15 @@
             "/api/Avatars/Fandom/Renge_Icon.png"
         ],
         "Bio": {
-            "zh": "此刻正值青春之盛时！",
+            "en": "Take hold of your youth!",
             "jp": "今が青春真っ盛り！",
             "kr": "지금이 바로 청춘이야!",
-            "en": "Take hold of your youth!",
-            "tw": "現在就是青春！"
+            "tw": "現在就是青春！",
+            "zh": "此刻正值青春之盛时！"
         },
-        "Nickname": []
+        "Nickname": [],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10083,
@@ -3137,15 +3467,17 @@
             "/api/Avatars/Fandom/Kikyou_Icon.png"
         ],
         "Bio": {
-            "zh": "教学相长",
+            "en": "Experience is the best teacher.",
             "jp": "教学相長ず",
             "kr": "교학상장",
-            "en": "Experience is the best teacher.",
-            "tw": "教學相長"
+            "tw": "教學相長",
+            "zh": "教学相长"
         },
         "Nickname": [
             "黑猫"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 20032,
@@ -3153,17 +3485,18 @@
             "/api/Avatars/Fandom/Eimi_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "zh": "不在",
+            "en": "Unavailable",
             "jp": "不在",
             "kr": "부재중",
-            "en": "Unavailable",
-            "tw": "OOO"
+            "tw": "OOO",
+            "zh": "不在"
         },
         "Nickname": [],
-        "related": [
-            10001,
-            "swimsuit"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 10001,
+            "ItemType": "swimsuit"
+        }
     },
     {
         "Id": 10084,
@@ -3171,11 +3504,11 @@
             "/api/Avatars/Fandom/Kotama_Camp_Icon.png"
         ],
         "Bio": {
-            "zh": "我倾听着你的声音",
+            "en": "I'm listening to your every noise.",
             "jp": "あなたの音に耳を澄ませています",
             "kr": "당신에게 귀를 기울이고 있습니다.",
-            "en": "I'm listening to your every noise.",
-            "tw": "我正傾聽你的聲音"
+            "tw": "我正傾聽你的聲音",
+            "zh": "我倾听着你的声音"
         },
         "Nickname": [
             "山芋",
@@ -3183,10 +3516,11 @@
             "金玉",
             "キャンタマ"
         ],
-        "related": [
-            26001,
-            "camping"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 26001,
+            "ItemType": "camping"
+        }
     },
     {
         "Id": 10085,
@@ -3194,21 +3528,22 @@
             "/api/Avatars/Fandom/Hare_Camp_Icon.png"
         ],
         "Bio": {
-            "zh": "雅典娜3号调整中。注意垃圾讯息",
+            "en": "Athena-3 maintenance underway. Beware of spam.",
             "jp": "アテナ3号調整中。スパムメッセージには注意",
             "kr": "아테나 3호 조정중. 스팸 메시지 주의.",
-            "en": "Athena-3 maintenance underway. Beware of spam.",
-            "tw": "雅典娜3號調整中。注意垃圾訊息"
+            "tw": "雅典娜3號調整中。注意垃圾訊息",
+            "zh": "雅典娜3号调整中。注意垃圾讯息"
         },
         "Nickname": [
             "小红薯",
             "山钩",
             "小红书"
         ],
-        "related": [
-            23003,
-            "camping"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 23003,
+            "ItemType": "camping"
+        }
     },
     {
         "Id": 20033,
@@ -3217,15 +3552,17 @@
             "/api/Avatars/Fandom/Makoto_Dress_Icon.png"
         ],
         "Bio": {
-            "zh": "我便是，格赫娜真正的领导者！",
+            "en": "I am the true leader of Gehenna!",
             "jp": "私こそ、ゲヘナの真のリーダーである！",
             "kr": "이 몸이 바로 게헨나의 진정한 리더다!",
             "tw": "我才是格黑娜真正的領導者！",
-            "en": "I am the true leader of Gehenna!"
+            "zh": "我便是，格赫娜真正的领导者！"
         },
         "Nickname": [
             "猴王"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10087,
@@ -3233,19 +3570,20 @@
             "/api/Avatars/Fandom/Ako_Dress_Icon.png"
         ],
         "Bio": {
-            "zh": "现在的我，只是一名特工…",
+            "en": "I may be just one agent...",
             "jp": "今の私は、ただのエージェント…",
             "kr": "지금의 저는, 한 명의 에이전트…",
-            "en": "I may be just one agent...",
-            "tw": "現在的我，是一名特務……"
+            "tw": "現在的我，是一名特務……",
+            "zh": "现在的我，只是一名特工…"
         },
         "Nickname": [
             "贵宾犬"
         ],
-        "related": [
-            20008,
-            "dress"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 20008,
+            "ItemType": "dress"
+        }
     },
     {
         "Id": 16014,
@@ -3255,16 +3593,18 @@
             "/api/Avatars/Fandom/Ibuki_Old_Icon.png"
         ],
         "Bio": {
-            "zh": "我是格赫娜学园的伊吹！",
+            "en": "I am Ibuki from the Gehenna Academy!",
             "jp": "ゲヘナ学園のイブキです！",
             "kr": "게헨나 학원의 이부키입니다!",
             "tw": "我是格黑娜學園的伊吹！",
-            "en": "I am Ibuki from the Gehenna Academy!"
+            "zh": "我是格赫娜学园的伊吹！"
         },
         "Nickname": [
             "吉祥物",
             "小孩"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10086,
@@ -3272,21 +3612,22 @@
             "/api/Avatars/Fandom/Hina_Dress_Icon.png"
         ],
         "Bio": {
-            "zh": "",
+            "en": "",
             "jp": "",
             "kr": "",
             "tw": "",
-            "en": ""
+            "zh": ""
         },
         "Nickname": [
             "礼服奈",
             "礼奈",
             "钢琴奈"
         ],
-        "related": [
-            10004,
-            "dress"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 10004,
+            "ItemType": "dress"
+        }
     },
     {
         "Id": 10088,
@@ -3294,17 +3635,18 @@
             "/api/Avatars/Fandom/Kayoko_Dress_Icon.png"
         ],
         "Bio": {
-            "zh": "工作结束后会回复",
+            "en": "We can chat once my work is done.",
             "jp": "仕事が終わったら返事する",
             "kr": "일 끝나면 답장합니다.",
             "tw": "工作結束後會回覆",
-            "en": "We can chat once my work is done."
+            "zh": "工作结束后会回复"
         },
         "Nickname": [],
-        "related": [
-            13005,
-            "dress"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 13005,
+            "ItemType": "dress"
+        }
     },
     {
         "Id": 10089,
@@ -3312,20 +3654,21 @@
             "/api/Avatars/Fandom/Aru_Dress_Icon.png"
         ],
         "Bio": {
-            "zh": "正在执行重要任务",
+            "en": "In the middle of an important task.",
             "jp": "大事な依頼ね",
             "kr": "중요한 업무 중입니다.",
             "tw": "正在進行重要工作",
-            "en": "In the middle of an important task."
+            "zh": "正在执行重要任务"
         },
         "Nickname": [
             "礼露",
             "礼鲁"
         ],
-        "related": [
-            10000,
-            "dress"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 10000,
+            "ItemType": "dress"
+        }
     },
     {
         "Id": 20034,
@@ -3333,17 +3676,18 @@
             "/api/Avatars/Fandom/Akari_New_Year_Icon.png"
         ],
         "Bio": {
-            "zh": "新年我们一起踏上美食之旅吧♣",
+            "en": "Shall we take a New Year's trip? ♣",
             "jp": "新年には美食の旅に出ましょうか♣",
             "kr": "새해에는 여행을 떠나 볼까요♣",
             "tw": "新年要不要去旅行呢♣",
-            "en": "Shall we take a New Year's trip? ♣"
+            "zh": "新年我们一起踏上美食之旅吧♣"
         },
         "Nickname": [],
-        "related": [
-            13002,
-            "newyear"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 13002,
+            "ItemType": "newyear"
+        }
     },
     {
         "Id": 10090,
@@ -3351,18 +3695,20 @@
             "/api/Avatars/Fandom/Umika_Icon.png"
         ],
         "Bio": {
-            "zh": "如果有关于庆典的通知，请告诉我！",
+            "en": "Please let me know if there's any news about festivals!",
             "jp": "お祭りに関するお知らせがあれば、教えてくださいね！",
             "kr": "축제 소식이 있다면 알려 주세요!",
             "tw": "如果有慶典相關的消息請告訴我！",
-            "en": "Please let me know if there's any news about festivals!"
+            "zh": "如果有关于庆典的通知，请告诉我！"
         },
         "Nickname": [
             "海香",
             "海花",
             "海夏",
             "狗炮"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 20035,
@@ -3370,20 +3716,21 @@
             "/api/Avatars/Fandom/Tsubaki_Guide_Icon.png"
         ],
         "Bio": {
-            "zh": "有些困，但……还得继续当导游……",
+            "en": "Feeling sleepy, but...guiding the tour...",
             "jp": "眠いけど……ガイドを……",
             "kr": "졸리지만…… 안내……",
             "tw": "雖然很睏……但要導覽……",
-            "en": "Feeling sleepy, but...guiding the tour..."
+            "zh": "有些困，但……还得继续当导游……"
         },
         "Nickname": [
             "狗导",
             "导狗"
         ],
-        "related": [
-            13009,
-            "guide"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 13009,
+            "ItemType": "guide"
+        }
     },
     {
         "Id": 10091,
@@ -3391,11 +3738,11 @@
             "/api/Avatars/Fandom/Kazusa_Band_Icon.png"
         ],
         "Bio": {
-            "zh": "Sugar Rush的主唱兼贝斯手",
+            "en": "I'm bassist and the lead vocalist of Sugar Rush.",
             "jp": "シュガーラッシュのメインボーカル兼ベース",
             "kr": "슈가 러시의 메인 보컬 겸 베이스입니다.",
             "tw": "Sugar Rush的主唱兼貝斯手",
-            "en": "I'm bassist and the lead vocalist of Sugar Rush."
+            "zh": "Sugar Rush的主唱兼贝斯手"
         },
         "Nickname": [
             "乐队纱",
@@ -3403,10 +3750,11 @@
             "乐队猫",
             "纱乐"
         ],
-        "related": [
-            10049,
-            "band"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 10049,
+            "ItemType": "band"
+        }
     },
     {
         "Id": 10092,
@@ -3414,21 +3762,22 @@
             "/api/Avatars/Fandom/Yoshimi_Band_Icon.png"
         ],
         "Bio": {
-            "zh": "#猛特训中",
+            "en": "#IntensePractice",
             "jp": "#猛特訓中",
             "kr": "#맹연습중",
             "tw": "#猛練中",
-            "en": "#IntensePractice"
+            "zh": "#猛特训中"
         },
         "Nickname": [
             "吉美",
             "乐美",
             "乐队美"
         ],
-        "related": [
-            26005,
-            "band"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 26005,
+            "ItemType": "band"
+        }
     },
     {
         "Id": 16015,
@@ -3436,40 +3785,47 @@
             "/api/Avatars/Fandom/Airi_Band_Icon.png"
         ],
         "Bio": {
-            "zh": "已经没事了！",
+            "en": "I'm okay now.",
             "jp": "もう大丈夫！",
             "kr": "이젠 괜찮아.",
             "tw": "已經沒事了",
-            "en": "I'm okay now."
+            "zh": "已经没事了！"
         },
         "Nickname": [
             "乐队冰",
             "乐冰"
         ],
-        "related": [
-            23000,
-            "band"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 23000,
+            "ItemType": "band"
+        }
     },
     {
         "Id": 10093,
-        "Name": "绮良",
         "Avatar": [
             "/api/Avatars/Fandom/Kirara_Icon.png"
         ],
         "Bio": {
-            "zh": "#闪闪发光#永远_Happy",
+            "en": "#TwinkleTwinkle #Always_Joyful",
             "jp": "#キラキラ#いつも_ハッピー",
             "kr": "#반짝반짝 #언제나_즐겁게",
             "tw": "#閃閃發光#時時_愉快",
-            "en": "#TwinkleTwinkle #Always_Joyful"
+            "zh": "#闪闪发光#永远_Happy"
         },
         "Nickname": [
             "绮罗罗",
             "琪拉拉",
             "闪亮亮",
             "绮良良"
-        ]
+        ],
+        "Fixed": [
+            {
+                "ItemName": "Name",
+                "ItemValue": "绮良"
+            }
+        ],
+        "Related": null
     },
     {
         "Id": 10094,
@@ -3477,17 +3833,18 @@
             "/api/Avatars/Fandom/Momoi_Maid_Icon.png"
         ],
         "Bio": {
-            "zh": "女仆玩家……专精？",
+            "en": "",
             "jp": "メイドゲーマー……一筋？",
             "kr": "메이드 게이머 외길… 인생?",
             "tw": "",
-            "en": ""
+            "zh": "女仆玩家……专精？"
         },
         "Nickname": [],
-        "related": [
-            13011,
-            "maid"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 13011,
+            "ItemType": "maid"
+        }
     },
     {
         "Id": 10095,
@@ -3495,17 +3852,18 @@
             "/api/Avatars/Fandom/Midori_Maid_Icon.png"
         ],
         "Bio": {
-            "zh": "今天也要努力精进。",
+            "en": "",
             "jp": "今日も精進します。",
             "kr": "오늘도 정진하겠습니다.",
             "tw": "",
-            "en": ""
+            "zh": "今天也要努力精进。"
         },
         "Nickname": [],
-        "related": [
-            10016,
-            "maid"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 10016,
+            "ItemType": "maid"
+        }
     },
     {
         "Id": 20036,
@@ -3513,17 +3871,18 @@
             "/api/Avatars/Fandom/Serika_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "zh": "休假中！！！！！！！",
+            "en": "",
             "jp": "休暇中！！！！！！！",
             "kr": "휴가 중!!!!!!!",
             "tw": "",
-            "en": ""
+            "zh": "休假中！！！！！！！"
         },
         "Nickname": [],
-        "related": [
-            13008,
-            "swimsuit"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 13008,
+            "ItemType": "swimsuit"
+        }
     },
     {
         "Id": 10096,
@@ -3531,17 +3890,18 @@
             "/api/Avatars/Fandom/Kanna_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "zh": "服务、倾听、诚实",
+            "en": "",
             "jp": "奉仕、傾聴、誠実",
             "kr": "봉사, 경청, 성실",
             "tw": "",
-            "en": ""
+            "zh": "服务、倾听、诚实"
         },
         "Nickname": [],
-        "related": [
-            20023,
-            "swimsuit"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 20023,
+            "ItemType": "swimsuit"
+        }
     },
     {
         "Id": 20037,
@@ -3549,17 +3909,18 @@
             "/api/Avatars/Fandom/Fubuki_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "zh": "我的休假……哪去了……",
+            "en": "",
             "jp": "私のバカンス……どこ……",
             "kr": "나의 피서는 어디에…....",
             "tw": "",
-            "en": ""
+            "zh": "我的休假……哪去了……"
         },
         "Nickname": [],
-        "related": [
-            16008,
-            "swimsuit"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 16008,
+            "ItemType": "swimsuit"
+        }
     },
     {
         "Id": 26012,
@@ -3567,17 +3928,18 @@
             "/api/Avatars/Fandom/Kirino_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "zh": "正在担任救生员！",
+            "en": "",
             "jp": "ライフセーバーの任務中です！",
             "kr": "라이프가드 임무 중입니다!",
             "tw": "",
-            "en": ""
+            "zh": "正在担任救生员！"
         },
         "Nickname": [],
-        "related": [
-            13012,
-            "swimsuit"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 13012,
+            "ItemType": "swimsuit"
+        }
     },
     {
         "Id": 10097,
@@ -3585,17 +3947,18 @@
             "/api/Avatars/Fandom/Moe_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "zh": "导弹……更大的导弹……",
+            "en": "",
             "jp": "ミサイル……もっと大きなミサイル……",
             "kr": "미사일이 필요해… 엄청나게 큰 미사일이…",
             "tw": "",
-            "en": ""
+            "zh": "导弹……更大的导弹……"
         },
         "Nickname": [],
-        "related": [
-            20018,
-            "swimsuit"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 20018,
+            "ItemType": "swimsuit"
+        }
     },
     {
         "Id": 10098,
@@ -3603,19 +3966,20 @@
             "/api/Avatars/Fandom/Hoshino_Armed_Icon.png"
         ],
         "Bio": {
-            "zh": "午睡中。急事请打电话~",
             "jp": "お昼寝中。急ぎのときは電話して～",
-            "kr": "낮잠 중~ 긴급상황은 전화로 부탁!"
+            "kr": "낮잠 중~ 긴급상황은 전화로 부탁!",
+            "zh": "午睡中。急事请打电话~"
         },
         "Nickname": [
             "百叔",
             "星战",
             "盾大叔"
         ],
-        "related": [
-            10005,
-            "armed"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 10005,
+            "ItemType": "armed"
+        }
     },
     {
         "Id": 10099,
@@ -3623,19 +3987,20 @@
             "/api/Avatars/Fandom/Hoshino_Armed_Icon.png"
         ],
         "Bio": {
-            "zh": "午睡中。急事请打电话~",
             "jp": "お昼寝中。急ぎのときは電話して～",
-            "kr": "낮잠 중~ 긴급상황은 전화로 부탁!"
+            "kr": "낮잠 중~ 긴급상황은 전화로 부탁!",
+            "zh": "午睡中。急事请打电话~"
         },
         "Nickname": [
             "百叔",
             "星战",
             "枪大叔"
         ],
-        "related": [
-            10005,
-            "armed"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 10005,
+            "ItemType": "armed"
+        }
     },
     {
         "Id": 10100,
@@ -3644,18 +4009,19 @@
             "/api/Avatars/Fandom/Shiroko_Terror_2_Icon.png"
         ],
         "Bio": {
-            "zh": "自行车伙伴招募中…… (2/5)",
             "jp": "ライディング仲間募集中……（２/５）",
-            "kr": "사이클링 파티 모집 중… (2/5)"
+            "kr": "사이클링 파티 모집 중… (2/5)",
+            "zh": "自行车伙伴招募中…… (2/5)"
         },
         "Nickname": [
             "黑子",
             "大白子"
         ],
-        "related": [
-            10010,
-            "terror"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 10010,
+            "ItemType": "terror"
+        }
     },
     {
         "Id": 10101,
@@ -3663,15 +4029,16 @@
             "/api/Avatars/Fandom/Saori_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "zh": "随时接受求助者咨询",
             "jp": "助っ人のお問い合わせは常時受けつけています",
-            "kr": "구인 문의는 언제나 받고 있습니다."
+            "kr": "구인 문의는 언제나 받고 있습니다.",
+            "zh": "随时接受求助者咨询"
         },
         "Nickname": [],
-        "related": [
-            10048,
-            "swimsuit"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 10048,
+            "ItemType": "swimsuit"
+        }
     },
     {
         "Id": 10102,
@@ -3679,15 +4046,16 @@
             "/api/Avatars/Fandom/Hiyori_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "zh": "夏天......大海......难道这是梦！？",
             "jp": "夏……海……もしかして夢！？",
-            "kr": "여름…… 바다…… 혹시 꿈?"
+            "kr": "여름…… 바다…… 혹시 꿈?",
+            "zh": "夏天......大海......难道这是梦！？"
         },
         "Nickname": [],
-        "related": [
-            20017,
-            "swimsuit"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 20017,
+            "ItemType": "swimsuit"
+        }
     },
     {
         "Id": 26013,
@@ -3695,15 +4063,16 @@
             "/api/Avatars/Fandom/Atsuko_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "zh": "正在练习拍摄人物照片",
             "jp": "人物写真を撮る練習してる",
-            "kr": "인물 사진 연습 중"
+            "kr": "인물 사진 연습 중",
+            "zh": "正在练习拍摄人物照片"
         },
         "Nickname": [],
-        "related": [
-            10042,
-            "swimsuit"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 10042,
+            "ItemType": "swimsuit"
+        }
     },
     {
         "Id": 10103,
@@ -3711,18 +4080,19 @@
             "/api/Avatars/Fandom/Marina_Qipao_Icon.png"
         ],
         "Bio": {
-            "zh": "这件衣服……是不是有点太暴露了……",
             "jp": "この服は……少し露出が……",
-            "kr": "이케쿠라 마리나"
+            "kr": "이케쿠라 마리나",
+            "zh": "这件衣服……是不是有点太暴露了……"
         },
         "Nickname": [
             "71",
             "旗姨"
         ],
-        "related": [
-            10037,
-            "qipao"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 10037,
+            "ItemType": "qipao"
+        }
     },
     {
         "Id": 20038,
@@ -3730,18 +4100,19 @@
             "/api/Avatars/Fandom/Tomoe_Qipao_Icon.png"
         ],
         "Bio": {
-            "zh": "我正在散步，顺便休息一下",
             "jp": "休憩もかねてお散歩しています",
-            "kr": "사시로 토모에"
+            "kr": "사시로 토모에",
+            "zh": "我正在散步，顺便休息一下"
         },
         "Nickname": [
             "旗袍惠",
             "旗8"
         ],
-        "related": [
-            16007,
-            "qipao"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 16007,
+            "ItemType": "qipao"
+        }
     },
     {
         "Id": 10104,
@@ -3749,13 +4120,15 @@
             "/api/Avatars/Fandom/Reijo_Icon.png"
         ],
         "Bio": {
-            "zh": "要修行随时奉陪",
             "jp": "修行でしたらいつでも",
-            "kr": "수행을 바라신다면 언제든지"
+            "kr": "수행을 바라신다면 언제든지",
+            "zh": "要修行随时奉陪"
         },
         "Nickname": [
             "令女"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 20039,
@@ -3763,15 +4136,17 @@
             "/api/Avatars/Fandom/Kisaki_Icon.png"
         ],
         "Bio": {
-            "zh": "正心诚意",
             "jp": "正心誠意",
-            "kr": "성의정심"
+            "kr": "성의정심",
+            "zh": "正心诚意"
         },
         "Nickname": [
             "ksk",
             "妃咲",
             "妃姬"
-        ]
+        ],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10105,
@@ -3779,15 +4154,16 @@
             "/api/Avatars/Fandom/Mari_Idol_Icon.png"
         ],
         "Bio": {
-            "zh": "愿这首歌能够传递给您",
             "jp": "この歌が届きますように",
-            "kr": "이 노래에 힘이 깃들기를"
+            "kr": "이 노래에 힘이 깃들기를",
+            "zh": "愿这首歌能够传递给您"
         },
         "Nickname": [],
-        "related": [
-            23008,
-            "idol"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 23008,
+            "ItemType": "idol"
+        }
     },
     {
         "Id": 10106,
@@ -3795,15 +4171,16 @@
             "/api/Avatars/Fandom/Sakurako_Idol_Icon.png"
         ],
         "Bio": {
-            "zh": "这是崭新的一步",
             "jp": "これが新たな一歩",
-            "kr": "이것이 바로 신의 한 수"
+            "kr": "이것이 바로 신의 한 수",
+            "zh": "这是崭新的一步"
         },
         "Nickname": [],
-        "related": [
-            10061,
-            "idol"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 10061,
+            "ItemType": "idol"
+        }
     },
     {
         "Id": 16016,
@@ -3811,15 +4188,16 @@
             "/api/Avatars/Fandom/Mine_Idol_Icon.png"
         ],
         "Bio": {
-            "zh": "请多多为救护骑士团应援！",
             "jp": "救護騎士団の応援を何卒よろしくお願いします！",
-            "kr": "구호기사단, 많이 사랑해 주세요!"
+            "kr": "구호기사단, 많이 사랑해 주세요!",
+            "zh": "请多多为救护骑士团应援！"
         },
         "Nickname": [],
-        "related": [
-            10058,
-            "idol"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 10058,
+            "ItemType": "idol"
+        }
     },
     {
         "Id": 20040,
@@ -3827,11 +4205,13 @@
             "/api/Avatars/Fandom/Satsuki_Icon.png"
         ],
         "Bio": {
-            "zh": "长期征集受试者 / 详情请咨询万魔殿",
             "jp": "被験者を常時募集しているわ／お問い合わせは万魔殿まで",
-            "kr": "실험체 상시 모집/문의는 만마전에"
+            "kr": "실험체 상시 모집/문의는 만마전에",
+            "zh": "长期征集受试者 / 详情请咨询万魔殿"
         },
-        "Nickname": []
+        "Nickname": [],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10107,
@@ -3839,11 +4219,13 @@
             "/api/Avatars/Fandom/Chiaki_Icon.png"
         ],
         "Bio": {
-            "zh": "欢迎随时为「周刊万魔殿」提供消息！",
             "jp": "「週刊万魔殿」への情報提供、いつでも受け付けています!",
-            "kr": "주간 만마전 24시간 제보 대기 중!"
+            "kr": "주간 만마전 24시간 제보 대기 중!",
+            "zh": "欢迎随时为「周刊万魔殿」提供消息！"
         },
-        "Nickname": []
+        "Nickname": [],
+        "Fixed": [],
+        "Related": null
     },
     {
         "Id": 10108,
@@ -3851,18 +4233,19 @@
             "/api/Avatars/Fandom/Yuuka_Pajamas_Icon.png"
         ],
         "Bio": {
-            "zh": "唔……睡不着……",
             "jp": "うう……眠れない……",
-            "kr": "잠이 안 와…"
+            "kr": "잠이 안 와…",
+            "zh": "唔……睡不着……"
         },
         "Nickname": [
             "睡衣香",
             "睡香"
         ],
-        "related": [
-            13010,
-            "pajama"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 13010,
+            "ItemType": "pajama"
+        }
     },
     {
         "Id": 10109,
@@ -3870,14 +4253,15 @@
             "/api/Avatars/Fandom/Noa_Pajamas_Icon.png"
         ],
         "Bio": {
-            "zh": "在暗夜的彼方",
             "jp": "暗闇の彼方で",
-            "kr": "어둠의 저편에서"
+            "kr": "어둠의 저편에서",
+            "zh": "在暗夜的彼方"
         },
         "Nickname": [],
-        "related": [
-            10052,
-            "pajama"
-        ]
+        "Fixed": [],
+        "Related": {
+            "ItemId": 10052,
+            "ItemType": "pajama"
+        }
     }
 ]

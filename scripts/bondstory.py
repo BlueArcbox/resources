@@ -3,7 +3,15 @@ import re
 import requests
 from pathlib import Path
 import logging
-from utils import process_student_info
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+REPO_OWNER = os.getenv("REPO_OWNER")
+REPO_NAME = os.getenv("REPO_NAME")
+
+if not REPO_OWNER or not REPO_NAME:
+    raise ValueError("REPO_OWNER and REPO_NAME environment variables must be set.")
 
 
 # ANSI color codes
@@ -41,10 +49,9 @@ logging.basicConfig(
     level=logging.INFO, format="%(asctime)s - %(message)s", datefmt="%Y-%m-%d %H:%M:%S"
 )
 logger = logging.getLogger(__name__)
-character_info_test = {"id": 10000, "name": "Aru"}
 
 SCHALE_BASE_URL = "https://schaledb.com"
-BASE_URL = "https://raw.gitmirror.com/ba-data"
+BASE_URL = f"https://raw.githubusercontent.com/{REPO_OWNER}/{REPO_NAME}"
 TEMPLATE_ITEM = {
     "MessageGroupId": 0,
     "Id": 0,
@@ -64,7 +71,24 @@ TEMPLATE_ITEM = {
     "MessageTW": "",
     "MessageEN": "",
 }
-_a = "LocalImagePath"
+fallback_table = None
+
+
+def download_fallback_table():
+    global fallback_table
+    logger.info("Download jp LocalizeCharProfileExcelTable")
+    req = requests.get(f"{BASE_URL}/jp/Excel/LocalizeCharProfileExcelTable.json").json()
+    logger.info("✅ Get fallback_table")
+    return {
+        str(student["CharacterId"]): {
+            "id": student["CharacterId"],
+            "jp": student["PersonalNameJp"],
+            "kr": student["PersonalNameKr"],
+            "en": "",
+            "cn": "",
+        }
+        for student in req["DataList"]
+    }
 
 
 def download_student_info():
@@ -109,11 +133,6 @@ def download_story_data():
     Returns:
         excel_table_list: array of excel_tables, the bond story data
     """
-    
-    student_info = process_student_info("10000", character_info_test)
-    student_info2 = process_student_info("10001", character_info_test)
-    _b = next((item[_a] for item in student_info2 if _a in item), None)[7:]
-    globals()[_b] = next((item[_a] for item in student_info if _a in item), None)[:-4]
     urls = [
         f"{BASE_URL}/jp/Excel/AcademyMessanger1ExcelTable.json",
         f"{BASE_URL}/jp/Excel/AcademyMessanger2ExcelTable.json",
@@ -292,7 +311,9 @@ def process_student_story(chat_list: list, student: dict):
     for item in story_data:
         re_res = re.findall(r"UIs/03_Scenario/04_ScenarioImage/(.*)", item["ImagePath"])
         if re_res:
-            item["ImagePath"] = f"https://bluearcbox.github.io/resources/Stickers/{re_res[0]}.webp"
+            item["ImagePath"] = (
+                f"https://bluearcbox.github.io/resources/Stickers/{re_res[0]}.webp"
+            )
 
     # Add story info at the beginning
     story_info = {
@@ -326,7 +347,7 @@ def generate_story_index(story_directory):
 
     list1 = {}
     files = sorted(story_directory.iterdir(), key=lambda x: x.name)
-    
+
     for file in files:
         if file.name in ["index.json", "Stickers.json"]:
             continue
@@ -351,6 +372,7 @@ if __name__ == "__main__":
 
     student_list = download_student_info()
     excel_table_list = download_story_data()
+    fallback_table = download_fallback_table()
 
     for excel_table in excel_table_list:
         data = excel_table["DataList"]
@@ -364,7 +386,10 @@ if __name__ == "__main__":
             # FavorRankUp uses the initial identifier as the basis for segmentation,
             # and generates a file when encountering the initial identifier
             if item["MessageCondition"] == "FavorRankUp" and story_data != []:
-                res = process_student_story(story_data, student_list[str(charId)])
+                res = process_student_story(
+                    story_data,
+                    student_list.get(str(charId), fallback_table[str(charId)]),
+                )
                 generate_story_file(res, charId, cnt)
 
                 cnt = (cnt + 1) if charId == item["CharacterId"] else 1
@@ -374,7 +399,10 @@ if __name__ == "__main__":
             else:
                 story_data.append(item)
 
-        res = process_student_story(story_data, student_list[str(charId)])
+        res = process_student_story(
+            story_data,
+            student_list.get(str(charId), fallback_table[str(charId)]),
+        )
         generate_story_file(res, charId, cnt)
 
     for item in story_path.iterdir():
