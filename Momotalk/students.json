@@ -202,7 +202,8 @@
         "Fixed": [
             {
                 "ItemName": "Name",
-                "ItemValue": "妮禄"
+                "ItemValue": "妮禄",
+                "ItemLanguage": "zh"
             }
         ],
         "Related": null
@@ -480,7 +481,6 @@
     {
         "Id": 13008,
         "Avatar": [
-            "/api/Avatars/Serika_Swimsuit.webp",
             "/api/Avatars/Fandom/Serika_Icon.png",
             "/api/Avatars/Fandom/Serika_Shibaseki_Icon.png",
             "/api/Avatars/Fandom/Serika_Robber_Icon.png"
@@ -575,8 +575,7 @@
     {
         "Id": 16001,
         "Avatar": [
-            "/api/Avatars/Fandom/Asuna_Icon.png",
-            "/api/Avatars/Fandom/Asuna_Schoolgirl_Icon.png"
+            "/api/Avatars/Fandom/Asuna_Icon.png"
         ],
         "Bio": {
             "en": "Only the best service!",
@@ -611,7 +610,8 @@
         "Fixed": [
             {
                 "ItemName": "Name",
-                "ItemValue": "小鸟"
+                "ItemValue": "小鸟",
+                "ItemLanguage": "zh"
             }
         ],
         "Related": null
@@ -675,8 +675,7 @@
     {
         "Id": 20001,
         "Avatar": [
-            "/api/Avatars/Fandom/Karin_Icon.png",
-            "/api/Avatars/Fandom/Karin_Schoolgirl_Icon.png"
+            "/api/Avatars/Fandom/Karin_Icon.png"
         ],
         "Bio": {
             "en": "Can't miss.",
@@ -891,7 +890,8 @@
         "Fixed": [
             {
                 "ItemName": "Name",
-                "ItemValue": "朱莉"
+                "ItemValue": "朱莉",
+                "ItemLanguage": "zh"
             }
         ],
         "Related": null
@@ -1440,7 +1440,8 @@
         "Fixed": [
             {
                 "ItemName": "Name",
-                "ItemValue": "妮禄（兔女郎）"
+                "ItemValue": "妮禄（兔女郎）",
+                "ItemLanguage": "zh"
             }
         ],
         "Related": {
@@ -1821,7 +1822,8 @@
         "Fixed": [
             {
                 "ItemName": "Name",
-                "ItemValue": "弥守"
+                "ItemValue": "弥守",
+                "ItemLanguage": "zh"
             }
         ],
         "Related": null
@@ -1878,7 +1880,8 @@
         "Fixed": [
             {
                 "ItemName": "Name",
-                "ItemValue": "玛丽娜"
+                "ItemValue": "玛丽娜",
+                "ItemLanguage": "zh"
             }
         ],
         "Related": null
@@ -2951,7 +2954,8 @@
         "Fixed": [
             {
                 "ItemName": "Name",
-                "ItemValue": "留美"
+                "ItemValue": "留美",
+                "ItemLanguage": "zh"
             }
         ],
         "Related": null
@@ -2978,7 +2982,8 @@
         "Fixed": [
             {
                 "ItemName": "Name",
-                "ItemValue": "南"
+                "ItemValue": "南",
+                "ItemLanguage": "zh"
             }
         ],
         "Related": null
@@ -3009,7 +3014,8 @@
         "Fixed": [
             {
                 "ItemName": "Name",
-                "ItemValue": "实梨"
+                "ItemValue": "实梨",
+                "ItemLanguage": "zh"
             }
         ],
         "Related": null
@@ -3189,7 +3195,8 @@
         "Fixed": [
             {
                 "ItemName": "Name",
-                "ItemValue": "弥守（泳装）"
+                "ItemValue": "弥守（泳装）",
+                "ItemLanguage": "zh"
             }
         ],
         "Related": {
@@ -3220,7 +3227,8 @@
         "Fixed": [
             {
                 "ItemName": "Name",
-                "ItemValue": "梅露"
+                "ItemValue": "梅露",
+                "ItemLanguage": "zh"
             }
         ],
         "Related": null
@@ -3262,7 +3270,8 @@
         "Fixed": [
             {
                 "ItemName": "Name",
-                "ItemValue": "小鸟（应援团）"
+                "ItemValue": "小鸟（应援团）",
+                "ItemLanguage": "zh"
             }
         ],
         "Related": {
@@ -3365,7 +3374,33 @@
             "炮姐",
             "超电磁炮"
         ],
-        "Fixed": [],
+        "Fixed": [
+            {
+                "ItemName": "Name",
+                "ItemValue": "Mikoto",
+                "ItemLanguage": "en"
+            },
+            {
+                "ItemName": "Name",
+                "ItemValue": "美琴",
+                "ItemLanguage": "jp"
+            },
+            {
+                "ItemName": "Name",
+                "ItemValue": "미코토",
+                "ItemLanguage": "kr"
+            },
+            {
+                "ItemName": "Name",
+                "ItemValue": "美琴",
+                "ItemLanguage": "tw"
+            },
+            {
+                "ItemName": "Name",
+                "ItemValue": "美琴",
+                "ItemLanguage": "zh"
+            }
+        ],
         "Related": null
     },
     {
@@ -3383,7 +3418,33 @@
         "Nickname": [
             "女王"
         ],
-        "Fixed": [],
+        "Fixed": [
+            {
+                "ItemName": "Name",
+                "ItemValue": "Misaki",
+                "ItemLanguage": "en"
+            },
+            {
+                "ItemName": "Name",
+                "ItemValue": "操祈",
+                "ItemLanguage": "jp"
+            },
+            {
+                "ItemName": "Name",
+                "ItemValue": "미사키",
+                "ItemLanguage": "kr"
+            },
+            {
+                "ItemName": "Name",
+                "ItemValue": "操祈",
+                "ItemLanguage": "tw"
+            },
+            {
+                "ItemName": "Name",
+                "ItemValue": "操祈",
+                "ItemLanguage": "zh"
+            }
+        ],
         "Related": null
     },
     {
@@ -3403,6 +3464,31 @@
             "泪爷"
         ],
         "Fixed": [
+            {
+                "ItemName": "Name",
+                "ItemValue": "Ruiko",
+                "ItemLanguage": "en"
+            },
+            {
+                "ItemName": "Name",
+                "ItemValue": "涙子",
+                "ItemLanguage": "jp"
+            },
+            {
+                "ItemName": "Name",
+                "ItemValue": "루이코",
+                "ItemLanguage": "kr"
+            },
+            {
+                "ItemName": "Name",
+                "ItemValue": "涙子",
+                "ItemLanguage": "tw"
+            },
+            {
+                "ItemName": "Name",
+                "ItemValue": "泪子",
+                "ItemLanguage": "zh"
+            },
             {
                 "ItemName": "School",
                 "ItemValue": "ETC"
@@ -3442,7 +3528,8 @@
         "Fixed": [
             {
                 "ItemName": "Name",
-                "ItemValue": "紫"
+                "ItemValue": "紫",
+                "ItemLanguage": "zh"
             }
         ],
         "Related": null
@@ -3824,7 +3911,8 @@
         "Fixed": [
             {
                 "ItemName": "Name",
-                "ItemValue": "绮良"
+                "ItemValue": "绮良",
+                "ItemLanguage": "zh"
             }
         ],
         "Related": null
@@ -3835,10 +3923,8 @@
             "/api/Avatars/Fandom/Momoi_Maid_Icon.png"
         ],
         "Bio": {
-            "en": "",
             "jp": "メイドゲーマー……一筋？",
             "kr": "메이드 게이머 외길… 인생?",
-            "tw": "",
             "zh": "女仆玩家……专精？"
         },
         "Nickname": [],
@@ -3854,10 +3940,8 @@
             "/api/Avatars/Fandom/Midori_Maid_Icon.png"
         ],
         "Bio": {
-            "en": "",
             "jp": "今日も精進します。",
             "kr": "오늘도 정진하겠습니다.",
-            "tw": "",
             "zh": "今天也要努力精进。"
         },
         "Nickname": [],
@@ -3873,10 +3957,8 @@
             "/api/Avatars/Fandom/Serika_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "en": "",
             "jp": "休暇中！！！！！！！",
             "kr": "휴가 중!!!!!!!",
-            "tw": "",
             "zh": "休假中！！！！！！！"
         },
         "Nickname": [],
@@ -3892,10 +3974,8 @@
             "/api/Avatars/Fandom/Kanna_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "en": "",
             "jp": "奉仕、傾聴、誠実",
             "kr": "봉사, 경청, 성실",
-            "tw": "",
             "zh": "服务、倾听、诚实"
         },
         "Nickname": [],
@@ -3911,10 +3991,8 @@
             "/api/Avatars/Fandom/Fubuki_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "en": "",
             "jp": "私のバカンス……どこ……",
             "kr": "나의 피서는 어디에…....",
-            "tw": "",
             "zh": "我的休假……哪去了……"
         },
         "Nickname": [],
@@ -3930,10 +4008,8 @@
             "/api/Avatars/Fandom/Kirino_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "en": "",
             "jp": "ライフセーバーの任務中です！",
             "kr": "라이프가드 임무 중입니다!",
-            "tw": "",
             "zh": "正在担任救生员！"
         },
         "Nickname": [],
@@ -3949,10 +4025,8 @@
             "/api/Avatars/Fandom/Moe_Swimsuit_Icon.png"
         ],
         "Bio": {
-            "en": "",
             "jp": "ミサイル……もっと大きなミサイル……",
             "kr": "미사일이 필요해… 엄청나게 큰 미사일이…",
-            "tw": "",
             "zh": "导弹……更大的导弹……"
         },
         "Nickname": [],
@@ -4285,7 +4359,9 @@
     },
     {
         "Id": 10112,
-        "Avatar": [],
+        "Avatar": [
+            "/api/Avatars/Fandom/Asuna_Schoolgirl_Icon.png"
+        ],
         "Bio": {
             "zh": "呈上最棒的体验！",
             "jp": "最高の体験をお届けするよ！",
@@ -4300,7 +4376,9 @@
     },
     {
         "Id": 26014,
-        "Avatar": [],
+        "Avatar": [
+            "/api/Avatars/Fandom/Karin_Schoolgirl_Icon.png"
+        ],
         "Bio": {
             "zh": "特殊任务执行中",
             "jp": "特殊任務遂行中",
