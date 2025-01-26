@@ -3,8 +3,8 @@
         "CharacterId": 20038,
         "MessageJP": "トモエ（チーパオ）",
         "MessageKR": "토모에(치파오)",
-        "MessageTW": "智惠（旗袍）",
-        "MessageEN": "Tomoe (Qipao)"
+        "MessageTW": "",
+        "MessageEN": ""
     },
     {
         "MessageId": 200370010,
@@ -123,7 +123,7 @@
         "ImagePath": "",
         "MessageJP": "トモエ（チーパオ）の絆イベントへ",
         "MessageKR": "토모에(치파오)의 인연스토리로",
-        "MessageTW": "前往智惠（旗袍）的羈絆劇情",
-        "MessageEN": "Go to Tomoe (Qipao)'s Bond Story"
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
     }
 ]

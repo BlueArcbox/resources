@@ -3,8 +3,8 @@
         "CharacterId": 10106,
         "MessageJP": "サクラコ（アイドル）",
         "MessageKR": "사쿠라코(아이돌)",
-        "MessageTW": "櫻子（偶像）",
-        "MessageEN": "Sakurako (Idol)"
+        "MessageTW": "",
+        "MessageEN": ""
     },
     {
         "MessageId": 101050350,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "サクラコ（アイドル）の絆イベントへ",
         "MessageKR": "사쿠라코(아이돌)의 인연스토리로",
-        "MessageTW": "前往櫻子（偶像）的羈絆劇情",
-        "MessageEN": "Go to Sakurako (Idol)'s Bond Story"
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
     },
     {
         "MessageId": 101060440,

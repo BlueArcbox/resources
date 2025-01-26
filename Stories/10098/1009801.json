@@ -3,7 +3,7 @@
         "CharacterId": 10098,
         "MessageJP": "ホシノ（臨戦）",
         "MessageKR": "호시노(무장)",
-        "MessageTW": "星野（臨戰）",
+        "MessageTW": "星野（武裝）",
         "MessageEN": "Hoshino (Armed)"
     },
     {
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 100980020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今って忙しい？",
         "MessageKR": "혹시 바빠?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你現在忙嗎？",
+        "MessageEN": "You busy?"
     },
     {
         "MessageId": 100980030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "そこまで忙しくないよ",
         "MessageKR": "평소대로인걸.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "跟平常差不多",
+        "MessageEN": "Not too busy."
     },
     {
         "MessageId": 100980040,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "良かった",
         "MessageKR": "그게",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個",
+        "MessageEN": "OK well"
     },
     {
         "MessageId": 100980041,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "実は困ったことがあってね",
         "MessageKR": "곤란한 일이 생겼는데 말이지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "其實大叔我遇到了一些麻煩事",
+        "MessageEN": "I have a tiny problem."
     },
     {
         "MessageId": 100980050,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと手伝ってほしいんだ",
         "MessageKR": "선생이 조금 도와줬으면 한달까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以希望老師能來幫幫我",
+        "MessageEN": "I could use some help."
     },
     {
         "MessageId": 100980060,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "うん、良いよ",
         "MessageKR": "물론 도와줘야지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然沒問題",
+        "MessageEN": "You got it."
     },
     {
         "MessageId": 100980070,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "本当に良いの？",
         "MessageKR": "응?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯？",
+        "MessageEN": "Huh?"
     },
     {
         "MessageId": 100980071,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "まだ内容も言ってないのに……",
         "MessageKR": "아직 무슨 일인지 말 안 했는데?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我都還沒說是什麼事耶？",
+        "MessageEN": "I didn't even say what it's about yet!"
     },
     {
         "MessageId": 100970077,
@@ -135,7 +135,7 @@
         "ImagePath": "",
         "MessageJP": "ホシノ（臨戦）の絆イベントへ",
         "MessageKR": "호시노(무장)의 인연스토리로",
-        "MessageTW": "前往星野（臨戰）的羈絆劇情",
+        "MessageTW": "前往星野（武裝）的羈絆劇情",
         "MessageEN": "Go to Hoshino (Armed)'s Bond Story"
     }
 ]

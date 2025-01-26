@@ -3,7 +3,7 @@
         "CharacterId": 20022,
         "MessageJP": "フウカ（正月）",
         "MessageKR": "후우카(새해)",
-        "MessageTW": "風華(正月)",
+        "MessageTW": "風華（正月）",
         "MessageEN": "Fuuka (New Year)"
     },
     {
@@ -123,7 +123,7 @@
         "ImagePath": "",
         "MessageJP": "フウカ（正月）の絆イベントへ",
         "MessageKR": "후우카(새해)의 인연스토리로",
-        "MessageTW": "前往風華(正月)的羈絆劇情",
+        "MessageTW": "前往風華（正月）的羈絆劇情",
         "MessageEN": "Go to Fuuka (New Year)'s Bond Story"
     }
 ]

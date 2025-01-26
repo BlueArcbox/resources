@@ -3,8 +3,8 @@
         "CharacterId": 10100,
         "MessageJP": "シロコ＊テラー",
         "MessageKR": "시로코*테러",
-        "MessageTW": "白子＊恐怖",
-        "MessageEN": "Shiroko Terror"
+        "MessageTW": "白子＊TERROR",
+        "MessageEN": "Shiroko*Terror"
     },
     {
         "MessageId": 100990160,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Hey, Sensei."
     },
     {
         "MessageId": 101000170,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今、すごく良いアイデアが浮かんだ",
         "MessageKR": "나 엄청난 아이디어가 생각났어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我想到了一個非常好的點子",
+        "MessageEN": "I have an amazing idea."
     },
     {
         "MessageId": 101000171,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと来てくれる？",
         "MessageKR": "당장 이쪽으로 와줘.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你趕快過來",
+        "MessageEN": "Come here right away."
     },
     {
         "MessageId": 101000180,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "とりあえず、すぐ行くね！",
         "MessageKR": "뭔진 모르겠지만 당장 갈게!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然不太明白，我馬上過去！",
+        "MessageEN": "Not sure what to expect here, but sure thing!"
     },
     {
         "MessageId": 101000190,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "あ",
         "MessageKR": "아, 으응.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，唔嗯",
+        "MessageEN": "Okay, so..."
     },
     {
         "MessageId": 101000191,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "……ん",
         "MessageKR": "그러니까……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個……",
+        "MessageEN": "So..."
     },
     {
         "MessageId": 101000192,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "直接説明するね",
         "MessageKR": "만나서 설명할게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "等見面之後，我再跟你解釋",
+        "MessageEN": "Let me explain it in person."
     },
     {
         "MessageId": 100990207,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "シロコ＊テラーの絆イベントへ",
         "MessageKR": "시로코\\*테러의 인연스토리로",
-        "MessageTW": "前往白子＊恐怖的羈絆劇情",
-        "MessageEN": "Go to Shiroko Terror's Bond Story"
+        "MessageTW": "前往白子＊TERROR的羈絆劇情",
+        "MessageEN": "Go to Shiroko\\*Terror's Bond Story"
     },
     {
         "MessageId": 101000200,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "先生、大変",
         "MessageKR": "선생님 큰일 났어…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，大事不好了……",
+        "MessageEN": "Sensei, this is a disaster..."
     },
     {
         "MessageId": 101000210,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "昔のサイクルジャージを着てみたら",
         "MessageKR": "혹시 몰라 가지고 있던 라이딩 슈트를 입어봤는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我來這裡的時候帶了一件車衣過來，結果剛才試穿的時候",
+        "MessageEN": "I tried on a riding suit, just in case..."
     },
     {
         "MessageId": 101000211,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "ファスナーが……",
         "MessageKR": "지퍼가…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "衣服的拉鍊……",
+        "MessageEN": "But the zipper..."
     },
     {
         "MessageId": 101000220,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "まさか……！？",
         "MessageKR": "저런……?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦……！？",
+        "MessageEN": "Oh my..."
     },
     {
         "MessageId": 101000230,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "あ\u200b",
         "MessageKR": "아,",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Oh,"
     },
     {
         "MessageId": 101000231,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "念のため言っておくけど",
         "MessageKR": "오해할까 봐 말해두겠는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你別誤會",
+        "MessageEN": "Just so there's no misunderstanding"
     },
     {
         "MessageId": 101000232,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "太ったわけじゃないから",
         "MessageKR": "살이 찐 건 아니야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "絕對不是我變胖了",
+        "MessageEN": "I have NOT gained weight."
     },
     {
         "MessageId": 101000240,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "う、うん……",
         "MessageKR": "으음, 과연…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔嗯，這樣啊……",
+        "MessageEN": "Um, of course not..."
     },
     {
         "MessageId": 101000250,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "ん",
         "MessageKR": "…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……",
+        "MessageEN": "..."
     },
     {
         "MessageId": 101000251,
@@ -231,7 +231,7 @@
         "ImagePath": "",
         "MessageJP": "おやすみ、先生",
         "MessageKR": "잘 자. 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "晚安，老師",
+        "MessageEN": "Goodnight, Sensei."
     }
 ]

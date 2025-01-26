@@ -3,8 +3,8 @@
         "CharacterId": 10108,
         "MessageJP": "ユウカ（パジャマ）",
         "MessageKR": "유우카(파자마)",
-        "MessageTW": "優香（睡衣）",
-        "MessageEN": "Yuuka (Pajamas)"
+        "MessageTW": "",
+        "MessageEN": ""
     },
     {
         "MessageId": 101070190,
@@ -183,7 +183,7 @@
         "ImagePath": "",
         "MessageJP": "ユウカ（パジャマ）の絆イベントへ",
         "MessageKR": "유우카(파자마)의 인연스토리로",
-        "MessageTW": "前往優香（睡衣）的羈絆劇情",
-        "MessageEN": "Go to Yuuka (Pajamas)'s Bond Story"
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
     }
 ]

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "こんにちは、先生",
         "MessageKR": "선생님, 안녕.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，你好呀",
+        "MessageEN": "Greetings, Sensei."
     },
     {
         "MessageId": 260130020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "こんにちは、アツコ",
         "MessageKR": "안녕, 아츠코.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗨，敦子",
+        "MessageEN": "Hello, Atsuko."
     },
     {
         "MessageId": 260130030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "海、思っていた以上にきれいで",
         "MessageKR": "바다에 오는 거, 기대한 보람이 있었어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "海邊果然沒有辜負我的期待",
+        "MessageEN": "Coming to the beach was very much worth it."
     },
     {
         "MessageId": 260130031,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "目が離せないの",
         "MessageKR": "어디든 눈을 뗄 수가 없는걸.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "簡直讓人目不轉睛",
+        "MessageEN": "So many incredible sights."
     },
     {
         "MessageId": 260130040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "お祭りも、初めて見るものばかり",
         "MessageKR": "바다도, 축제도, 처음 보는 것투성이라서.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "無論海邊還是慶典，都充滿了我沒見過的事物",
+        "MessageEN": "So many new things. Not just the beach, but the festival."
     },
     {
         "MessageId": 260130050,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "楽しめてるみたいで良かった！",
         "MessageKR": "즐기고 있는 것 같아 다행이네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真高興你似乎玩得很開心",
+        "MessageEN": "I'm glad you're having fun."
     },
     {
         "MessageId": 260130060,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "せっかくだから、写真を残したい",
         "MessageKR": "응, 모처럼이니 사진으로도 남기려고 해.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，因為難得有機會過來，我想拍點照片留念",
+        "MessageEN": "Indeed I am. So, I want to take pictures."
     },
     {
         "MessageId": 260130061,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと出かけてくる",
         "MessageKR": "해변가에서 사진 찍을 만한 포인트를 찾아다닐 생각인데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以打算在海邊找找有沒有適合拍照的景點",
+        "MessageEN": "I want to look for photo spots on the beach."
     },
     {
         "MessageId": 260130070,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "先生も一緒に、どう？",
         "MessageKR": "선생님도 같이 어때?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師要一起來嗎？",
+        "MessageEN": "How about you come with me, Sensei?"
     },
     {
         "MessageId": 260120077,

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Hey Sensei"
     },
     {
         "MessageId": 260130140,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "悪いお知らせだよ",
         "MessageKR": "안 좋은 소식이 있어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有個壞消息",
+        "MessageEN": "I have some bad news."
     },
     {
         "MessageId": 260130150,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "どうしたの？",
         "MessageKR": "무슨 일이야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼了？",
+        "MessageEN": "What's going on?"
     },
     {
         "MessageId": 260130160,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "カメラのバッテリーが、あと少ししかなくて",
         "MessageKR": "디지털카메라의 배터리가 얼마 남지 않았어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我的相機電池快沒電了",
+        "MessageEN": "The digital camera is low on batteries."
     },
     {
         "MessageId": 260130161,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "もう何枚も撮れないの",
         "MessageKR": "아직 작동은 하지만, 아껴 써야 해.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然現在還能啟動，但之後得省著用才行",
+        "MessageEN": "It still works, but I have to be careful with it."
     },
     {
         "MessageId": 260130170,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "だから、何を撮るか慎重に決めないと",
         "MessageKR": "이제부터는 뭘 찍을지 신중하게 정해서 찍을 생각이야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以我打算認真思考接下來要拍什麼",
+        "MessageEN": "I'll have to pick and choose what shots to take."
     },
     {
         "MessageId": 260120177,

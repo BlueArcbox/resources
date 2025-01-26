@@ -1,8 +1,8 @@
 [
     {
         "CharacterId": 10112,
-        "MessageJP": "アスナ",
-        "MessageKR": "아스나",
+        "MessageJP": "アスナ（制服）",
+        "MessageKR": "아스나(교복)",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -133,8 +133,8 @@
         "NextId": 101120060,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "アスナの絆イベントへ",
-        "MessageKR": "아스나의 인연스토리로",
+        "MessageJP": "アスナ（制服）の絆イベントへ",
+        "MessageKR": "아스나(교복)의 인연스토리로",
         "MessageTW": "前往的羈絆劇情",
         "MessageEN": "Go to 's Bond Story"
     },

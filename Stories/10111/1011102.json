@@ -1,8 +1,8 @@
 [
     {
         "CharacterId": 10111,
-        "MessageJP": "ネル",
-        "MessageKR": "네루",
+        "MessageJP": "ネル（制服）",
+        "MessageKR": "네루(교복)",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -145,8 +145,8 @@
         "NextId": -1,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "ネルの絆イベントへ",
-        "MessageKR": "네루의 인연스토리로",
+        "MessageJP": "ネル（制服）の絆イベントへ",
+        "MessageKR": "네루(교복)의 인연스토리로",
         "MessageTW": "前往的羈絆劇情",
         "MessageEN": "Go to 's Bond Story"
     }

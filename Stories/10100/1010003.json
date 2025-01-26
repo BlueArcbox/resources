@@ -3,8 +3,8 @@
         "CharacterId": 10100,
         "MessageJP": "シロコ＊テラー",
         "MessageKR": "시로코*테러",
-        "MessageTW": "白子＊恐怖",
-        "MessageEN": "Shiroko Terror"
+        "MessageTW": "白子＊TERROR",
+        "MessageEN": "Shiroko*Terror"
     },
     {
         "MessageId": 100990260,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Hey Sensei"
     },
     {
         "MessageId": 101000270,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "時間があれば",
         "MessageKR": "괜찮다면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果方便的話",
+        "MessageEN": "Can we hang out"
     },
     {
         "MessageId": 101000271,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "今から会える？",
         "MessageKR": "혹시 좀 만날 수 있을까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "待會可以見個面嗎？",
+        "MessageEN": "If it's all right with you?"
     },
     {
         "MessageId": 101000280,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "何かあったの？",
         "MessageKR": "무슨 일이야, 시로코?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼了，白子？",
+        "MessageEN": "What's wrong, Shiroko?"
     },
     {
         "MessageId": 101000290,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ん",
         "MessageKR": "응",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "Uh"
     },
     {
         "MessageId": 101000291,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "悩み事があって……",
         "MessageKR": "고민 상담이랄까…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我有些煩惱想跟你商量……",
+        "MessageEN": "I need some advice..."
     },
     {
         "MessageId": 101000300,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "分かった、すぐ向かうね！",
         "MessageKR": "그런 거라면 알겠어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那當然沒問題！",
+        "MessageEN": "All right!"
     },
     {
         "MessageId": 101000310,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "ん、ありがとう",
         "MessageKR": "응 고마워",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，謝謝你",
+        "MessageEN": "Okay, thanks."
     },
     {
         "MessageId": 100990327,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "シロコ＊テラーの絆イベントへ",
         "MessageKR": "시로코\\*테러의 인연스토리로",
-        "MessageTW": "前往白子＊恐怖的羈絆劇情",
-        "MessageEN": "Go to Shiroko Terror's Bond Story"
+        "MessageTW": "前往白子＊TERROR的羈絆劇情",
+        "MessageEN": "Go to Shiroko\\*Terror's Bond Story"
     },
     {
         "MessageId": 101000320,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "勝負の決着がついた",
         "MessageKR": "승부는",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "比賽有結果了",
+        "MessageEN": "The showdown..."
     },
     {
         "MessageId": 101000330,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "勝負したの！？",
         "MessageKR": "승부……?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "比賽……！？",
+        "MessageEN": "The showdown...?"
     },
     {
         "MessageId": 101000340,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "ん\u200b",
         "MessageKR": "아아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊啊",
+        "MessageEN": "Ah."
     },
     {
         "MessageId": 101000341,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "その場の成り行きで",
         "MessageKR": "응. 어쩌다 보니까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，雖然過程有點莫名",
+        "MessageEN": "Yeah."
     },
     {
         "MessageId": 101000350,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "サイクルレースをすることになった",
         "MessageKR": "로드 레이싱 승부로 이어져 버려서…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總之我們進行了公路賽的對決",
+        "MessageEN": "It somehow led to a street race..."
     },
     {
         "MessageId": 101000360,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "サイクルレース！？",
         "MessageKR": "로드 레이싱?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "公路賽！？",
+        "MessageEN": "A street race?!"
     },
     {
         "MessageId": 101000360,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "どっちが勝ったの！？",
         "MessageKR": "누가 이겼나요?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "最後是誰贏了！？",
+        "MessageEN": "Who won?!"
     },
     {
         "MessageId": 101000370,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "ん……",
         "MessageKR": "승부 결과는……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "比賽的結果……",
+        "MessageEN": "Well, if you want to know the results..."
     },
     {
         "MessageId": 101000371,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "4勝7敗。1引き分け",
         "MessageKR": "12전 4승 7패 1무승부",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "12戰4勝7敗1平手",
+        "MessageEN": "4 wins, 7 losses, 1 tie. We raced 12 times."
     },
     {
         "MessageId": 101000372,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "私の負け",
         "MessageKR": "내 패배야",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是我輸了",
+        "MessageEN": "I lost"
     },
     {
         "MessageId": 101000380,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "やっぱり、現役のほうが強かったんだ……",
         "MessageKR": "역시 현역이 강하네…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現役的果然很強呢……",
+        "MessageEN": "I knew they'd be strong..."
     },
     {
         "MessageId": 101000390,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "でも、今回は仕方ない",
         "MessageKR": "하지만 괜찮아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過我心服口服",
+        "MessageEN": "But, all good."
     },
     {
         "MessageId": 101000391,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "相手はサイクルジャージを着ていたから",
         "MessageKR": "그쪽은 라이딩 슈트까지 입고 왔으니까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "畢竟他是穿著車衣",
+        "MessageEN": "They even had their riding suits on"
     },
     {
         "MessageId": 101000400,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "準備が整ったら",
         "MessageKR": "내 자전거가 완성되면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "等我的自行車準備好之後",
+        "MessageEN": "I'll get them back next time."
     },
     {
         "MessageId": 101000401,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "リベンジするつもり",
         "MessageKR": "리벤지 매치를 할 거니까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "一定要來場復仇戰",
+        "MessageEN": "When I finish my bike, that is"
     },
     {
         "MessageId": 101000410,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "その時は見に来てね、先生",
         "MessageKR": "그땐 꼭 참관해 줘, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "到時候你一定要來看哦，老師",
+        "MessageEN": "You should come watch, Sensei."
     },
     {
         "MessageId": 101000420,
@@ -327,8 +327,8 @@
         "ImagePath": "",
         "MessageJP": "うん、もちろん。必ず行くね",
         "MessageKR": "아아, 물론이야. 꼭 갈게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊啊，那當然，我一定會去的",
+        "MessageEN": "Ah, of course. I'll be there."
     },
     {
         "MessageId": 101000430,
@@ -339,8 +339,8 @@
         "ImagePath": "",
         "MessageJP": "先生は、どっちを応援する？",
         "MessageKR": "그땐 누구를 응원할 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那你會幫誰加油？",
+        "MessageEN": "Who are you going to support?"
     },
     {
         "MessageId": 101000440,
@@ -351,8 +351,8 @@
         "ImagePath": "",
         "MessageJP": "それは内緒",
         "MessageKR": "그건 비밀.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這是祕密",
+        "MessageEN": "That's a secret."
     },
     {
         "MessageId": 101000440,
@@ -363,8 +363,8 @@
         "ImagePath": "",
         "MessageJP": "二人とも応援してるよ",
         "MessageKR": "알려줄 수 없지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不跟你說",
+        "MessageEN": "I can't tell you."
     },
     {
         "MessageId": 101000450,
@@ -375,8 +375,8 @@
         "ImagePath": "",
         "MessageJP": "ん\u200b\u200b",
         "MessageKR": "응.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯\u200b",
+        "MessageEN": "Okay."
     },
     {
         "MessageId": 101000451,
@@ -387,8 +387,8 @@
         "ImagePath": "",
         "MessageJP": "そう言うと思った",
         "MessageKR": "그럴 거 같았어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我就知道",
+        "MessageEN": "I thought you'd say that"
     },
     {
         "MessageId": 101000460,
@@ -399,8 +399,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとう、先生",
         "MessageKR": "고마워 선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝你，老師",
+        "MessageEN": "Thanks, Sensei"
     },
     {
         "MessageId": 101000470,
@@ -411,7 +411,7 @@
         "ImagePath": "",
         "MessageJP": "また連絡するね",
         "MessageKR": "다음에 또 연락할게",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下次再聯絡",
+        "MessageEN": "I'll talk to you next time."
     }
 ]

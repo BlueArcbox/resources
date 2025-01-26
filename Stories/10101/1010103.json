@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 101010200,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今日の夕方からDJステージがあるんだが",
         "MessageKR": "오늘 저녁에 DJ 공연이 예정되어 있다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天晚上有場DJ表演",
+        "MessageEN": "I have a DJ performance tonight."
     },
     {
         "MessageId": 101010201,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "良かったら見に来てくれないか？",
         "MessageKR": "괜찮다면 보러 오지 않겠나?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果有空的話，要不要來看看？",
+        "MessageEN": "Would you like to come and watch?"
     },
     {
         "MessageId": 101010210,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "うん、絶対に行くよ",
         "MessageKR": "응, 꼭 갈게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，我一定會去的",
+        "MessageEN": "Okay, I'll be there."
     },
     {
         "MessageId": 101010220,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "日が沈んでから、メインステージで始まる予定だ",
         "MessageKR": "고맙다. 시간은 해가 진 뒤, 장소는 축제장 메인 스테이지다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝。時間在太陽下山之後，地點則是慶典會場的主舞台",
+        "MessageEN": "Thank you. See you after sunset, at the main stage of the festival."
     },
     {
         "MessageId": 101010230,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "では、待っている",
         "MessageKR": "기다리고 있겠다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我等你",
+        "MessageEN": "I'll be waiting."
     },
     {
         "MessageId": 101000237,

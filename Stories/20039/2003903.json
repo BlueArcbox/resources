@@ -3,8 +3,8 @@
         "CharacterId": 20039,
         "MessageJP": "キサキ",
         "MessageKR": "키사키",
-        "MessageTW": "妃姬",
-        "MessageEN": "Kisaki"
+        "MessageTW": "",
+        "MessageEN": ""
     },
     {
         "MessageId": 200380390,
@@ -171,7 +171,7 @@
         "ImagePath": "",
         "MessageJP": "キサキの絆イベントへ",
         "MessageKR": "키사키의 인연스토리로",
-        "MessageTW": "前往妃姬的羈絆劇情",
-        "MessageEN": "Go to Kisaki's Bond Story"
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
     }
 ]

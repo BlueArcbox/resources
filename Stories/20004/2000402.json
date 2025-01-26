@@ -3,7 +3,7 @@
         "CharacterId": 20004,
         "MessageJP": "マシロ（水着）",
         "MessageKR": "마시로(수영복)",
-        "MessageTW": "麻白(泳裝)",
+        "MessageTW": "麻白（泳裝）",
         "MessageEN": "Mashiro (Swimsuit)"
     },
     {
@@ -135,7 +135,7 @@
         "ImagePath": "",
         "MessageJP": "マシロ（水着）の絆イベントへ",
         "MessageKR": "마시로(수영복)의 인연스토리로",
-        "MessageTW": "前往麻白(泳裝)的羈絆劇情",
+        "MessageTW": "前往麻白（泳裝）的羈絆劇情",
         "MessageEN": "Go to Mashiro (Swimsuit)'s Bond Story"
     }
 ]

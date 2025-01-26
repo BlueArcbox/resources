@@ -3,7 +3,7 @@
         "CharacterId": 20021,
         "MessageJP": "ハナエ（クリスマス）",
         "MessageKR": "하나에(크리스마스)",
-        "MessageTW": "花繪(聖誕節)",
+        "MessageTW": "花繪（聖誕節）",
         "MessageEN": "Hanae (Christmas)"
     },
     {
@@ -183,7 +183,7 @@
         "ImagePath": "",
         "MessageJP": "ハナエ（クリスマス）の絆イベントへ",
         "MessageKR": "하나에(크리스마스)의 인연스토리로",
-        "MessageTW": "前往花繪(聖誕節)的羈絆劇情",
+        "MessageTW": "前往花繪（聖誕節）的羈絆劇情",
         "MessageEN": "Go to Hanae (Christmas)'s Bond Story"
     }
 ]

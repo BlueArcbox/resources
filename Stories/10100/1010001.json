@@ -3,8 +3,8 @@
         "CharacterId": 10100,
         "MessageJP": "シロコ＊テラー",
         "MessageKR": "시로코*테러",
-        "MessageTW": "白子＊恐怖",
-        "MessageEN": "Shiroko Terror"
+        "MessageTW": "白子＊TERROR",
+        "MessageEN": "Shiroko*Terror"
     },
     {
         "MessageId": 100990010,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "テスト",
         "MessageKR": "테스트용 메시지야",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "測試，測試",
+        "MessageEN": "This is a test message."
     },
     {
         "MessageId": 101000020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "あ",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ahem"
     },
     {
         "MessageId": 101000021,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "あーあー",
         "MessageKR": "아아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊啊",
+        "MessageEN": "AHEMMM"
     },
     {
         "MessageId": 101000030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "このメッセージ、見えてる？",
         "MessageKR": "잘 보여? 전송은 잘 되고 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有收到嗎？訊息有發出去嗎？",
+        "MessageEN": "Can you see this? Is it working?"
     },
     {
         "MessageId": 101000040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ちゃんと見えるよ、シロコ",
         "MessageKR": "응. 잘되는 거 같아 시로코",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我有收到哦，白子",
+        "MessageEN": "Yeah, Shiroko, I think it’s working okay"
     },
     {
         "MessageId": 101000050,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ん",
         "MessageKR": "음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "Um..."
     },
     {
         "MessageId": 101000051,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "良かった",
         "MessageKR": "그러네 다행이야",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "太好了",
+        "MessageEN": "Good. I'm glad."
     },
     {
         "MessageId": 101000060,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "じゃあ、また連絡する",
         "MessageKR": "그럼 또 연락할게",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那之後再聯絡",
+        "MessageEN": "Talk to you later."
     },
     {
         "MessageId": 101000070,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "待って、今どこにいるの？",
         "MessageKR": "잠깐만. 시로코는 지금은 어디에 있는 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "等等，白子。你現在人在哪裡？",
+        "MessageEN": "Hey, Shiroko, wait. Where are you now?"
     },
     {
         "MessageId": 101000080,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "私？",
         "MessageKR": "나?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我？",
+        "MessageEN": "Me?"
     },
     {
         "MessageId": 101000081,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "アビドス自治区だけど",
         "MessageKR": "아비도스 자치구에 있어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我在阿拜多斯自治區",
+        "MessageEN": "I'm in the Abydos District"
     },
     {
         "MessageId": 101000090,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "これから少し会えないかな？",
         "MessageKR": "그럼 잠깐 만나자!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "稍微見個面吧！！",
+        "MessageEN": "Let's hang out!!"
     },
     {
         "MessageId": 101000100,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "……ん",
         "MessageKR": "……응.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……嗯",
+        "MessageEN": "...All right."
     },
     {
         "MessageId": 101000101,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "分かった",
         "MessageKR": "문제없어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒問題",
+        "MessageEN": "I can make that work"
     },
     {
         "MessageId": 101000110,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "待ってるね",
         "MessageKR": "기다리고 있을게",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我等你",
+        "MessageEN": "I'll be waiting"
     },
     {
         "MessageId": 101000120,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "すぐ行くよ！",
         "MessageKR": "그래, 기다려!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，等等我！",
+        "MessageEN": "I won't be long!"
     },
     {
         "MessageId": 101000130,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "卵、牛乳、洗剤、タオル、ティッシュ",
         "MessageKR": "세제, 우유 500ml, 계란 작은 팩, 티슈, 수건",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "洗衣精、500ml牛奶、小盒雞蛋、衛生紙、毛巾",
+        "MessageEN": "Detergent, 500 milliliters of milk, a half dozen eggs, tissues, a towel"
     },
     {
         "MessageId": 101000131,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "あと、ボディーソープも",
         "MessageKR": "바디클린저 < 꼭 살 것",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沐浴乳 < 一定要買",
+        "MessageEN": "Shower gel < MUST get"
     },
     {
         "MessageId": 101000140,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "……何の話？",
         "MessageKR": "……응?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……嗯？",
+        "MessageEN": "...Huh?"
     },
     {
         "MessageId": 101000140,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "シロコ？",
         "MessageKR": "시로코?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "白子？",
+        "MessageEN": "Shiroko?"
     },
     {
         "MessageId": 101000150,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "あ\u200b",
         "MessageKR": "아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊\u200b",
+        "MessageEN": "Oh."
     },
     {
         "MessageId": 101000151,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "ごめん、間違えた",
         "MessageKR": "잘못 보냈어. 미안 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "抱歉，不小心傳錯了",
+        "MessageEN": "Sorry, Sensei, didn't mean to send that to you."
     },
     {
         "MessageId": 100990157,
@@ -291,7 +291,7 @@
         "ImagePath": "",
         "MessageJP": "シロコ＊テラーの絆イベントへ",
         "MessageKR": "시로코\\*테러의 인연스토리로",
-        "MessageTW": "前往白子＊恐怖的羈絆劇情",
-        "MessageEN": "Go to Shiroko Terror's Bond Story"
+        "MessageTW": "前往白子＊TERROR的羈絆劇情",
+        "MessageEN": "Go to Shiroko\\*Terror's Bond Story"
     }
 ]

@@ -3,7 +3,7 @@
         "CharacterId": 20035,
         "MessageJP": "ツバキ（ガイド）",
         "MessageKR": "츠바키(가이드)",
-        "MessageTW": "椿(導覽員)",
+        "MessageTW": "椿（導覽員）",
         "MessageEN": "Tsubaki (Guide)"
     },
     {
@@ -25,7 +25,7 @@
         "NextId": 200350170,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "先生～",
+        "MessageJP": "先生",
         "MessageKR": "선생님.",
         "MessageTW": "老師",
         "MessageEN": "Sensei,"
@@ -37,7 +37,7 @@
         "NextId": 200350180,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "仕事で百鬼夜行に来るって聞いたけど……",
+        "MessageJP": "仕事のことで百鬼夜行に来るって聞いたけど、本当？",
         "MessageKR": "업무차 백귀야행에 온다고 들었는데, 맞아?",
         "MessageTW": "聽說你會來百鬼夜行工作，是嗎？",
         "MessageEN": "I heard you're coming over to Hyakkiyako for work. Is that correct?"
@@ -49,7 +49,7 @@
         "NextId": 200350190,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "うん。行く予定だよ",
+        "MessageJP": "うん。そうだよ",
         "MessageKR": "응. 그렇게 됐어.",
         "MessageTW": "嗯，是啊",
         "MessageEN": "Yep, that's right."
@@ -61,7 +61,7 @@
         "NextId": 200350191,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "そうなんだ",
+        "MessageJP": "そっか",
         "MessageKR": "그렇구나.",
         "MessageTW": "這樣啊",
         "MessageEN": "I see."
@@ -73,7 +73,7 @@
         "NextId": 200350200,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "ふふっ、それじゃあ",
+        "MessageJP": "ふふ",
         "MessageKR": "헤헤.",
         "MessageTW": "呵呵",
         "MessageEN": "Heehee."
@@ -85,7 +85,7 @@
         "NextId": 200350201,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "仕事のあと、すこし会えるかな？",
+        "MessageJP": "それじゃ",
         "MessageKR": "그러면 말이지.",
         "MessageTW": "那麼",
         "MessageEN": "In that case,"
@@ -97,7 +97,7 @@
         "NextId": 200350210,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "用事が終わったら……連絡してくれる？",
+        "MessageJP": "仕事が終わったら……連絡してくれる？",
         "MessageKR": "업무가 끝나면…… 연락줄래?",
         "MessageTW": "工作結束之後……可以聯絡我嗎？",
         "MessageEN": "Call me when you're finished... Okay?"
@@ -109,7 +109,7 @@
         "NextId": 200350220,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "うん、また後でね",
+        "MessageJP": "うん、分かった",
         "MessageKR": "그래. 그렇게 할게.",
         "MessageTW": "嗯，我會的",
         "MessageEN": "All right, will do."
@@ -121,7 +121,7 @@
         "NextId": 200350221,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "ありがと～",
+        "MessageJP": "この前もできなかった睡眠ガイド",
         "MessageKR": "예전에도 못 했던 수면 가이드.",
         "MessageTW": "以前沒能為你做的睡眠嚮導",
         "MessageEN": "And I really mean it about the sleep tour."
@@ -133,7 +133,7 @@
         "NextId": 200350230,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "この前も睡眠ガイドできなかったから、今度こそしっかりやりたくて",
+        "MessageJP": "今回は確実にしてあげるから",
         "MessageKR": "이번에는 확실하게 해 줄 테니까.",
         "MessageTW": "這次我想徹底地進行",
         "MessageEN": "I'll make sure you enjoy a proper one this time."
@@ -145,7 +145,7 @@
         "NextId": 200340237,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "気にしてくれてたんだね",
+        "MessageJP": "結構気にしていたんだね……",
         "MessageKR": "은근히 마음에 두고 있었구나……",
         "MessageTW": "看來你還挺介意這件事的呢……",
         "MessageEN": "Ah, so you've still been thinking about that..."
@@ -159,7 +159,7 @@
         "ImagePath": "",
         "MessageJP": "ツバキ（ガイド）の絆イベントへ",
         "MessageKR": "츠바키(가이드)의 인연스토리로",
-        "MessageTW": "前往椿(導覽員)的羈絆劇情",
+        "MessageTW": "前往椿（導覽員）的羈絆劇情",
         "MessageEN": "Go to Tsubaki (Guide)'s Bond Story"
     }
 ]

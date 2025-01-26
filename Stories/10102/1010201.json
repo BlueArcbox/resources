@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "こんにちは、先",
         "MessageKR": "안녕하세요 선",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你好呀，老",
+        "MessageEN": "Hello"
     },
     {
         "MessageId": 101020020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "生。えへへ",
         "MessageKR": "생님. 헤헤",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "師，耶嘿嘿",
+        "MessageEN": "Sensei. Heehee."
     },
     {
         "MessageId": 101020030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "こんにちは、ヒヨリ",
         "MessageKR": "안녕 히요리.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗨，日和",
+        "MessageEN": "Hi, Hiyori."
     },
     {
         "MessageId": 101020030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "相変わらずWi-Fiの調子が悪そうだね……",
         "MessageKR": "여전히 와이파이 상태가 안 좋구나…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你那邊的Wi-Fi還是一如既往地糟糕呢……",
+        "MessageEN": "Looks like you still have bad wi-fi..."
     },
     {
         "MessageId": 101020040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "今いる廃墟は蒸し暑いですし、Wi-Fiもすぐ途切れますけど……",
         "MessageKR": "여름이라서 은신처도 덥고, 와이파이도 끊기고…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "到了夏天之後，我們的藏身處就越來越熱，甚至連Wi-Fi也常常斷掉……",
+        "MessageEN": "My hideout is broiling in the summer heat, AND the wi-fi's bad..."
     },
     {
         "MessageId": 101020041,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ま、まだ耐えられます……！",
         "MessageKR": "그래도 견딜 수 있어요……!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過我還撐得下去……！",
+        "MessageEN": "But I can put up with it!"
     },
     {
         "MessageId": 101020050,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "海に行くことになったんですから！",
         "MessageKR": "바다에 가기로 했",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為我們很快就",
+        "MessageEN": "I can!"
     },
     {
         "MessageId": 101020060,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "何より",
         "MessageKR": "으니까요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要去海邊了！",
+        "MessageEN": "Because we're going to the beach!"
     },
     {
         "MessageId": 101020070,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "可愛い水着が楽しみで！",
         "MessageKR": "무엇보다 기대되는 건",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但最讓我期待的",
+        "MessageEN": "And more than anything else, I've been looking forward to..."
     },
     {
         "MessageId": 101020071,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "もしかしたら",
         "MessageKR": "예쁜 수영복이에요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還是穿上漂亮的泳裝！",
+        "MessageEN": "The pretty swimsuits!"
     },
     {
         "MessageId": 101020080,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "無料で水着をもらえるかもしれません！",
         "MessageKR": "저, 조만간 신상 수영복을 공짜로 얻을 수 있을지도 모르거든요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "偷偷跟你說，我之後說不定能免費得到一件泳裝哦！",
+        "MessageEN": "I might get a new swimsuit for free soon!"
     },
     {
         "MessageId": 101010097,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Hey Sensei"
     },
     {
         "MessageId": 101020100,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "この水着……",
         "MessageKR": "역시 이 수영복…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這件泳裝果然……",
+        "MessageEN": "I knew it..."
     },
     {
         "MessageId": 101020110,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "な、何か問題でもあった？",
         "MessageKR": "무슨 문제라도 있는 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有什麼問題嗎？",
+        "MessageEN": "Is there a problem?"
     },
     {
         "MessageId": 101020120,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "はい、実は問題が……",
         "MessageKR": "진실을 알아버렸어요…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我其實已經知道了……",
+        "MessageEN": "I found out the truth about this swimsuit..."
     },
     {
         "MessageId": 101020130,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "ヒヨリ、それは……",
         "MessageKR": "히요리, 그게 사실은…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "日和，那個，其實我……",
+        "MessageEN": "The truth is..."
     },
     {
         "MessageId": 101020140,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "この水着、ちょっと小さいです！",
         "MessageKR": "사이즈가 한 치수 작아요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那就是這件泳裝小了一號！",
+        "MessageEN": "It's a size smaller than my normal size!"
     },
     {
         "MessageId": 101020141,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "ちゃんと自分のサイズを書いておくべきでした！",
         "MessageKR": "엽서에 정확히 적어 놓을 걸 그랬어요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "早知道當初就在明信片上寫清楚了！",
+        "MessageEN": "I should have written it on the postcard!"
     },
     {
         "MessageId": 101020150,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "あ、なるほど",
         "MessageKR": "아하.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊哈哈……",
+        "MessageEN": "I see."
     },
     {
         "MessageId": 101020160,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "でも、少しキツいだけなので着られそうです",
         "MessageKR": "그, 그래도 다행히 우겨넣으면 들어가니까요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不，不過只要稍微擠一下，還是勉強能穿上就是了",
+        "MessageEN": "Still, I can...make it fit."
     },
     {
         "MessageId": 101020161,
@@ -279,7 +279,7 @@
         "ImagePath": "",
         "MessageJP": "海が待ち遠しくて仕方ありません！",
         "MessageKR": "너무 걱정 마세요 선생님…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師也不用太擔心……",
+        "MessageEN": "So don't worry too much, Sensei..."
     }
 ]

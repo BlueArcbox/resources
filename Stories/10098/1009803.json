@@ -3,7 +3,7 @@
         "CharacterId": 10098,
         "MessageJP": "ホシノ（臨戦）",
         "MessageKR": "호시노(무장)",
-        "MessageTW": "星野（臨戰）",
+        "MessageTW": "星野（武裝）",
         "MessageEN": "Hoshino (Armed)"
     },
     {
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、この前のパトロールは覚えてる？",
         "MessageKR": "저번 순찰 기억해, 선생?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，還記得我們上次去巡邏的事嗎？",
+        "MessageEN": "Hey Sensei, remember the last time we went on patrol?"
     },
     {
         "MessageId": 100980280,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "もちろん",
         "MessageKR": "물론이지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然",
+        "MessageEN": "Of course I do."
     },
     {
         "MessageId": 100980290,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "結構いろんな場所を見て回ってたじゃん？",
         "MessageKR": "꽤 오랫동안 돌아다녔는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我們當時巡邏了那麼久",
+        "MessageEN": "We walked around for quite a while"
     },
     {
         "MessageId": 100980291,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "でも、ヘルメット団の痕跡は見つからなかったよね",
         "MessageKR": "정작 헬멧단은 못 봤잖아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可是卻完全沒看到頭盔團的蹤影，對吧？",
+        "MessageEN": "But we didn't see any Helmet Gangsters."
     },
     {
         "MessageId": 100980300,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "たしかに……",
         "MessageKR": "그러고 보니 그렇네?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "聽你這麼一說，好像是這樣沒錯？",
+        "MessageEN": "Now that you mention it, no we didn't."
     },
     {
         "MessageId": 100980310,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "あれから調べてみたらさ",
         "MessageKR": "녀석들이 어디 있나 했는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我本來還在想那些傢伙到底跑去哪裡了",
+        "MessageEN": "I wonder where they were"
     },
     {
         "MessageId": 100980311,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "商店街の近くで、よく見かけたっていう情報を手に入れたんだ",
         "MessageKR": "요즘 상점가 근처에 자주 나타난다는 소문이 있어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "結果聽說他們最近經常出沒在商店街一帶",
+        "MessageEN": "I did hear rumors that they've been seen around the shopping district these days"
     },
     {
         "MessageId": 100980320,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "たぶん、その周辺にアジトがあるはず",
         "MessageKR": "임시 아지트가 그쪽에 있나 봐.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我想他們的臨時據點應該就在那附近",
+        "MessageEN": "They might've set up a temporary headquarters there."
     },
     {
         "MessageId": 100980330,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "ヒーローの準備はできてる？",
         "MessageKR": "준비됐어, 히어로?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你準備好了嗎，英雄？",
+        "MessageEN": "Are you ready, hero?"
     },
     {
         "MessageId": 100980340,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "うへへ。もちろんだよ、相棒",
         "MessageKR": "물론이지, 사이드킥.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然囉，我的夥伴",
+        "MessageEN": "Of course, sidekick."
     },
     {
         "MessageId": 100970347,
@@ -147,7 +147,7 @@
         "ImagePath": "",
         "MessageJP": "ホシノ（臨戦）の絆イベントへ",
         "MessageKR": "호시노(무장)의 인연스토리로",
-        "MessageTW": "前往星野（臨戰）的羈絆劇情",
+        "MessageTW": "前往星野（武裝）的羈絆劇情",
         "MessageEN": "Go to Hoshino (Armed)'s Bond Story"
     }
 ]

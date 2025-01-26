@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Hey Sensei"
     },
     {
         "MessageId": 101010020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "お祭りは楽しんでいるか",
         "MessageKR": "축제는 즐기고 있는지 모르겠군.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "慶典還有趣嗎？",
+        "MessageEN": "I hope you're enjoying the festival."
     },
     {
         "MessageId": 101010030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "もちろんだよ、サオリ",
         "MessageKR": "앗, 사오리.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，沙織",
+        "MessageEN": "Oh hey, Saori."
     },
     {
         "MessageId": 101010030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "楽しめてるよ",
         "MessageKR": "물론, 즐기고 있지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然，我玩得很開心",
+        "MessageEN": "Of course I'm enjoying it."
     },
     {
         "MessageId": 101010040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "それは良かった",
         "MessageKR": "다행이군.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那就好",
+        "MessageEN": "I'm glad."
     },
     {
         "MessageId": 101010041,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "私は海辺の食堂でアルバイトを始めたところだ",
         "MessageKR": "나는 해변 구역의 식당에서 업무를 시작한 참이다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我現在正在海邊的餐廳裡工作",
+        "MessageEN": "I'm helping out at the restaurant, here at the beach."
     },
     {
         "MessageId": 101010050,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "お腹が空いたら、ぜひ先生も来てくれ",
         "MessageKR": "선생도 배가 고프면 와도 괜찮다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果餓了的話，歡迎來我們這裡吃",
+        "MessageEN": "Come by if you're hungry."
     },
     {
         "MessageId": 101000057,

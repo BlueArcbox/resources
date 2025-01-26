@@ -3,7 +3,7 @@
         "CharacterId": 10053,
         "MessageJP": "ユウカ（体操服）",
         "MessageKR": "유우카(체육복)",
-        "MessageTW": "優香(體育服)",
+        "MessageTW": "優香（體育服）",
         "MessageEN": "Yuuka (Track)"
     },
     {
@@ -195,7 +195,7 @@
         "ImagePath": "",
         "MessageJP": "ユウカ（体操服）の絆イベントへ",
         "MessageKR": "유우카(체육복)의 인연스토리로",
-        "MessageTW": "前往優香(體育服)的羈絆劇情",
+        "MessageTW": "前往優香（體育服）的羈絆劇情",
         "MessageEN": "Go to Yuuka (Track)'s Bond Story"
     }
 ]

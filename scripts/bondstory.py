@@ -50,7 +50,6 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-SCHALE_BASE_URL = "https://schaledb.com"
 BASE_URL = f"https://raw.githubusercontent.com/{REPO_OWNER}/{REPO_NAME}"
 TEMPLATE_ITEM = {
     "MessageGroupId": 0,
@@ -85,46 +84,77 @@ def download_fallback_table():
             "jp": student["PersonalNameJp"],
             "kr": student["PersonalNameKr"],
             "en": "",
-            "cn": "",
+            "tw": "",
         }
         for student in req["DataList"]
     }
 
 
+def download_raw_data():
+    endpoints = {
+        # Character data
+        "character": {
+            "jp": f"{BASE_URL}/jp/Excel/CharacterExcelTable.json",
+            "global": f"{BASE_URL}/global/Excel/CharacterExcelTable.json",
+        },
+        # Localization data
+        "etc": {
+            "jp": f"{BASE_URL}/jp/DB/LocalizeEtcExcelTable.json",
+            "global": f"{BASE_URL}/global/DB/LocalizeEtcExcelTable.json",
+        },
+    }
+
+    raw_data = {}
+    for data_type, regions in endpoints.items():
+        for region, url in regions.items():
+            key = f"{data_type}_{region}"
+            try:
+                logger.info(f"📥 Fetching {key} data...")
+                response = requests.get(url)
+                response.raise_for_status()
+                raw_data[key] = response.json()["DataList"]
+            except Exception as e:
+                logger.error(f"Failed to load {key} data: {str(e)}")
+                raise
+    return raw_data
+
+
 def download_student_info():
-    """Download student id and name in multi-language from schaledb
+    """Download student id and name in multi-language
 
     Returns:
         student_list: {student_id: student_name[]}
     """
+    raw_data = download_raw_data()
+    name_table = {}
+    _key = lambda key: key.replace("Name", "").lower()
+    _value = lambda value: value.translate(str.maketrans("()", "（）"))
 
-    logger.info("Download jp student list from schaledb")
-    reqjp = requests.get(f"{SCHALE_BASE_URL}/data/jp/students.min.json").json()
-    logger.success("Download jp student list success")
+    # Process both JP and Global data
+    for region in ["jp", "global"]:
+        character_data = raw_data[f"character_{region}"]
+        etc_data = raw_data[f"etc_{region}"]
 
-    logger.info("Download en student list from schaledb")
-    reqen = requests.get(f"{SCHALE_BASE_URL}/data/en/students.min.json").json()
-    logger.success("Download en student list success")
+        _find_first = lambda value: next(
+            (x for x in etc_data if x["Key"] == value), None
+        )
 
-    logger.info("Download tw student list from schaledb")
-    reqtw = requests.get(f"{SCHALE_BASE_URL}/data/tw/students.min.json").json()
-    logger.success("Download tw student list success")
+        for item in character_data:
+            localize_item = _find_first(item["LocalizeEtcId"])
+            if localize_item:
+                name_table.update(
+                    {
+                        str(item["Id"]): {
+                            _key(key): (value if key != "NameTw" else _value(value))
+                            for key, value in localize_item.items()
+                            if key.startswith("Name")
+                        }
+                    }
+                )
+                name_table[str(item["Id"])].update({"id": item["Id"]})
 
-    logger.info("Download kr student list from schaledb")
-    reqkr = requests.get(f"{SCHALE_BASE_URL}/data/kr/students.min.json").json()
-    logger.success("Download kr student list success")
-
-    student_list = {}
-    for key in reqjp:
-        student_list[key] = {
-            "id": int(key),
-            "jp": reqjp[key]["Name"],
-            "kr": reqkr[key]["Name"],
-            "en": reqen[key]["Name"],
-            "cn": reqtw[key]["Name"],
-        }
     logger.info("✅ Get student info list")
-    return student_list
+    return name_table
 
 
 def download_story_data():
@@ -167,10 +197,10 @@ def get_item_bond_story(item, student_name):
     item_copy["Id"] = 1
     item_copy["MessageCondition"] = "momotalkStory"
     item_copy["NextGroupId"] = item["MessageGroupId"]
-    item_copy["MessageKR"] = f"{student_name['kr']}의 인연스토리로"
-    item_copy["MessageJP"] = f"{student_name['jp']}の絆イベントへ"
-    item_copy["MessageTW"] = f"前往{student_name['cn']}的羈絆劇情"
-    item_copy["MessageEN"] = f"Go to {student_name['en']}'s Bond Story"
+    item_copy["MessageKR"] = f"{student_name.get('kr', '')}의 인연스토리로"
+    item_copy["MessageJP"] = f"{student_name.get('jp', '')}の絆イベントへ"
+    item_copy["MessageTW"] = f"前往{student_name.get('tw', '')}的羈絆劇情"
+    item_copy["MessageEN"] = f"Go to {student_name.get('en', '')}'s Bond Story"
     return item_copy
 
 
@@ -318,10 +348,10 @@ def process_student_story(chat_list: list, student: dict):
     # Add story info at the beginning
     story_info = {
         "CharacterId": student["id"],
-        "MessageJP": student["jp"],
-        "MessageKR": student["kr"],
-        "MessageTW": student["cn"],
-        "MessageEN": student["en"],
+        "MessageJP": student.get("jp", ""),
+        "MessageKR": student.get("kr", ""),
+        "MessageTW": student.get("tw", ""),
+        "MessageEN": student.get("en", ""),
     }
     story_data.insert(0, story_info)
     # logger.info(f"✅ {student['jp']} story data generated")

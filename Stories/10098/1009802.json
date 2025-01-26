@@ -3,7 +3,7 @@
         "CharacterId": 10098,
         "MessageJP": "ホシノ（臨戦）",
         "MessageKR": "호시노(무장)",
-        "MessageTW": "星野（臨戰）",
+        "MessageTW": "星野（武裝）",
         "MessageEN": "Hoshino (Armed)"
     },
     {
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "これから自治区のパトロールをするんだけど",
         "MessageKR": "오늘은 자치구 순찰 예정인데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我今天要去自治區巡邏",
+        "MessageEN": "I'm going to patrol the District today"
     },
     {
         "MessageId": 100980090,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "よかったら先生もどう？",
         "MessageKR": "혹시 선생도 갈 생각이 있다면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果老師想一起去的話……",
+        "MessageEN": "Do you want to come with me?"
     },
     {
         "MessageId": 100980100,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "もちろん同行するよ！",
         "MessageKR": "물론 동행해야지!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我當然要一起去囉！",
+        "MessageEN": "Of course I will!"
     },
     {
         "MessageId": 100980110,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "ヒーローの頼みとあれば！",
         "MessageKR": "아비도스 히어로가 가는데 빠질 순 없잖아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "阿拜多斯的英雄要出巡，我怎麼能缺席呢！",
+        "MessageEN": "The Hero of Abydos is going. How can I miss out on a chance like that?"
     },
     {
         "MessageId": 100980120,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "うぅ",
         "MessageKR": "으으",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔……",
+        "MessageEN": "Ugh..."
     },
     {
         "MessageId": 100980121,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ヒーローだなんて",
         "MessageKR": "히어로라니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "說我是什麼英雄",
+        "MessageEN": "I'm \"the Hero\" now"
     },
     {
         "MessageId": 100980130,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "やっぱり恥ずかしいねぇ",
         "MessageKR": "역시 적응 안 되네…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "果然還是不太習慣呢……",
+        "MessageEN": "Still getting used to that..."
     },
     {
         "MessageId": 100980140,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "まあ、とにかく待ってるよ～",
         "MessageKR": "아무튼 기다릴게\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總之我等你過來～",
+        "MessageEN": "Anyway, I'll be waiting!"
     },
     {
         "MessageId": 100970157,
@@ -123,7 +123,7 @@
         "ImagePath": "",
         "MessageJP": "ホシノ（臨戦）の絆イベントへ",
         "MessageKR": "호시노(무장)의 인연스토리로",
-        "MessageTW": "前往星野（臨戰）的羈絆劇情",
+        "MessageTW": "前往星野（武裝）的羈絆劇情",
         "MessageEN": "Go to Hoshino (Armed)'s Bond Story"
     },
     {
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 100980160,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "体調はどう？",
         "MessageKR": "컨디션은 괜찮아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "身體還好嗎？",
+        "MessageEN": "Are you okay?"
     },
     {
         "MessageId": 100980161,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "風邪とか引いてない？",
         "MessageKR": "감기 기운은 없고?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "應該沒有感冒吧？",
+        "MessageEN": "Do you feel a cold coming on?"
     },
     {
         "MessageId": 100980170,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "私は大丈夫、ホシノは？",
         "MessageKR": "난 괜찮아. 호시노는 어때? 괜찮아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我沒事。星野你呢？還好嗎？",
+        "MessageEN": "I'm fine. What about you? Are you okay?"
     },
     {
         "MessageId": 100980180,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "おじさんも元気だよ～",
         "MessageKR": "이 아저씨는 끄떡없다구",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "大叔我完全沒事哦",
+        "MessageEN": "I'm totally fine"
     },
     {
         "MessageId": 100980190,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "やっぱり、一晩中くっついてたおかげかな？",
         "MessageKR": "역시 밤새 꼭 붙어 있었던 덕분인가.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "果然是因為我們整晚都貼在一起的關係吧",
+        "MessageEN": "Because we were together last night?"
     },
     {
         "MessageId": 100980200,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "わっ",
         "MessageKR": "아ㅣㄴ그건",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊不是",
+        "MessageEN": "W-Wait-"
     },
     {
         "MessageId": 100980210,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "いや",
         "MessageKR": "아니 그건",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個",
+        "MessageEN": "I-I mean"
     },
     {
         "MessageId": 100980220,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "一緒の毛布に包まってただけだから！",
         "MessageKR": "나란히 앉아서 모포를 뒤집어쓴 것뿐이니까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只是靠在一起蓋同一件毯子而已",
+        "MessageEN": "We sat on the same blanket, that was it"
     },
     {
         "MessageId": 100980221,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "その言い方だと誤解されるじゃん！",
         "MessageKR": "오해 살 수 있는 발언은 금지!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "別說那種會讓人誤會的話！",
+        "MessageEN": "So don't say it like THAT"
     },
     {
         "MessageId": 100980230,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "……それとさ",
         "MessageKR": "음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔嗯……",
+        "MessageEN": "Um..."
     },
     {
         "MessageId": 100980240,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "昨日、自治区で一緒に人助けしたでしょ？",
         "MessageKR": "그리고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還有啊",
+        "MessageEN": "BY the way,"
     },
     {
         "MessageId": 100980241,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "昔、似たようなことをしたことがあってね",
         "MessageKR": "어제 자치구를 돌아다니면서 사람들 도와준 거",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我們昨天不是去自治區巡邏，順便幫助有困難的人嗎？",
+        "MessageEN": "About helping people around the District last night"
     },
     {
         "MessageId": 100980250,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと、懐かしい気分になったんだ",
         "MessageKR": "다른 사람이랑도 이런 일 했었거든",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "以前我也和其他人做過這種事",
+        "MessageEN": "I've been keeping it up."
     },
     {
         "MessageId": 100980251,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "その、だからさ……",
         "MessageKR": "선생 덕분에 오랜만에 그리운 감각을 느꼈달까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "多虧有老師在，我才能重新體驗到這種感覺",
+        "MessageEN": "Thanks to you, I rediscovered the joy in it"
     },
     {
         "MessageId": 100980260,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "うん、とにかくありがとう",
         "MessageKR": "아무튼 여러 가지로",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總之從各個角度來說",
+        "MessageEN": "So..."
     },
     {
         "MessageId": 100980261,
@@ -327,7 +327,7 @@
         "ImagePath": "",
         "MessageJP": "先生\u200b",
         "MessageKR": "고마워",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我都很感謝你哦",
+        "MessageEN": "Thank you in all sorts of ways"
     }
 ]

@@ -3,7 +3,7 @@
         "CharacterId": 10054,
         "MessageJP": "マリー（体操服）",
         "MessageKR": "마리(체육복)",
-        "MessageTW": "瑪麗(體育服)",
+        "MessageTW": "瑪麗（體育服）",
         "MessageEN": "Mari (Track)"
     },
     {
@@ -49,7 +49,7 @@
         "NextId": 100540030,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "私だけでは、どうにも難しく……",
+        "MessageJP": "その、私だけではどうにも難しく……",
         "MessageKR": "아무래도 혼자서는 해결되지 않는 고민이 있어서요……",
         "MessageTW": "那個，只靠我一個人的話實在有點困難",
         "MessageEN": "There's something I'd like your advice about."
@@ -109,7 +109,7 @@
         "NextId": 100540060,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "その……危険な事に巻き込まれているとかではないのですが……",
+        "MessageJP": "それに、危険な事に巻き込まれているとかでもないので大丈夫です",
         "MessageKR": "아니에요. 나쁜 일은 아니니 걱정해주지 않으셔도 돼요.",
         "MessageTW": "而且，也沒有被捲進什麼危險的事情裡，老師不用擔心",
         "MessageEN": "It's not anything serious, really. Please don't worry about me."
@@ -159,7 +159,7 @@
         "ImagePath": "",
         "MessageJP": "マリー（体操服）の絆イベントへ",
         "MessageKR": "마리(체육복)의 인연스토리로",
-        "MessageTW": "前往瑪麗(體育服)的羈絆劇情",
+        "MessageTW": "前往瑪麗（體育服）的羈絆劇情",
         "MessageEN": "Go to Mari (Track)'s Bond Story"
     },
     {

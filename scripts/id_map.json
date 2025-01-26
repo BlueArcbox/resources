@@ -1,0 +1,3251 @@
+{
+    "10000": {
+        "kivo_id": 112,
+        "gamekee_id": 57763,
+        "avatar": "https://static.kivo.wiki/images/students/陆八魔 阿露/avatar.png",
+        "momotalk": "什么问题都能为您解决！",
+        "name_en": "Aru",
+        "name_jp": "アル",
+        "name_zh": "阿露",
+        "nicknames": [
+            "社长"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10001": {
+        "kivo_id": 158,
+        "gamekee_id": 68820,
+        "avatar": "https://static.kivo.wiki/images/students/和泉元 艾米/avatar.png",
+        "momotalk": "在此输入状态信息",
+        "name_en": "Eimi",
+        "name_jp": "エイミ",
+        "name_zh": "艾米",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10002": {
+        "kivo_id": 195,
+        "gamekee_id": 62592,
+        "avatar": "https://static.kivo.wiki/images/students/黑馆 晴奈/avatar.png",
+        "momotalk": "EAT OR DIE",
+        "name_en": "Haruna",
+        "name_jp": "ハルナ",
+        "name_zh": "晴奈",
+        "nicknames": [
+            "神秘狙"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10003": {
+        "kivo_id": 74,
+        "gamekee_id": 66256,
+        "avatar": "https://static.kivo.wiki/images/students/阿慈谷 日富美/avatar.png",
+        "momotalk": "有人想和我一起去佩洛洛庆典吗！",
+        "name_en": "Hifumi",
+        "name_jp": "ヒフミ",
+        "name_zh": "日富美",
+        "nicknames": [
+            "鸡妹",
+            "浮士德",
+            "啊哈哈",
+            "悍匪头子"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10004": {
+        "kivo_id": 71,
+        "gamekee_id": 59934,
+        "avatar": "https://static.kivo.wiki/images/students/空崎 日奈/avatar.png",
+        "momotalk": "",
+        "name_en": "Hina",
+        "name_jp": "ヒナ",
+        "name_zh": "日奈",
+        "nicknames": [
+            "委员长",
+            "魔王"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10005": {
+        "kivo_id": 76,
+        "gamekee_id": 46680,
+        "avatar": "https://static.kivo.wiki/images/students/小鸟游 星野/avatar.png",
+        "momotalk": "午睡时禁止打扰",
+        "name_en": "Hoshino",
+        "name_jp": "ホシノ",
+        "name_zh": "星野",
+        "nicknames": [
+            "大叔"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10006": {
+        "kivo_id": 72,
+        "gamekee_id": 59300,
+        "avatar": "https://static.kivo.wiki/images/students/银镜 伊织/avatar.png",
+        "momotalk": "看到任何可疑人物请立即举报",
+        "name_en": "Iori",
+        "name_jp": "イオリ",
+        "name_zh": "伊织",
+        "nicknames": [
+            "佐仓",
+            "佐三枪"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10007": {
+        "kivo_id": 182,
+        "gamekee_id": 67654,
+        "avatar": "https://static.kivo.wiki/images/students/小涂 真纪/avatar.png",
+        "momotalk": "涂鸦太有趣了！",
+        "name_en": "Maki",
+        "name_jp": "マキ",
+        "name_zh": "真纪",
+        "nicknames": [
+            "彩弹",
+            "真纪老祖",
+            "大蛇克星"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10008": {
+        "kivo_id": 213,
+        "gamekee_id": 67012,
+        "avatar": "https://static.kivo.wiki/images/students/美甘 尼禄/avatar.png",
+        "momotalk": "啊~？开什么玩笑？！",
+        "name_en": "Neru",
+        "name_jp": "ネル",
+        "name_zh": "妮禄",
+        "nicknames": [
+            "尼禄"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10009": {
+        "kivo_id": 73,
+        "gamekee_id": 61498,
+        "avatar": "https://static.kivo.wiki/images/students/狮子堂 泉/avatar.png",
+        "momotalk": "肚子饿了~",
+        "name_en": "Izumi",
+        "name_jp": "イズミ",
+        "name_zh": "泉",
+        "nicknames": [
+            "汉堡",
+            "老八"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10010": {
+        "kivo_id": 86,
+        "gamekee_id": 46677,
+        "avatar": "https://static.kivo.wiki/images/students/砂狼 白子/avatar.png",
+        "momotalk": "正在招募骑行伙伴……（1/5）",
+        "name_en": "Shiroko",
+        "name_jp": "シロコ",
+        "name_zh": "白子",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10011": {
+        "kivo_id": 90,
+        "gamekee_id": 68522,
+        "avatar": "https://static.kivo.wiki/images/students/春原 瞬/avatar.png",
+        "momotalk": "与天使们相伴的生活",
+        "name_en": "Shun",
+        "name_jp": "シュン",
+        "name_zh": "瞬",
+        "nicknames": [
+            "大瞬"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10012": {
+        "kivo_id": 187,
+        "gamekee_id": 67664,
+        "avatar": "https://static.kivo.wiki/images/students/乙花 堇/avatar.png",
+        "momotalk": "健全的精神寄于健康的身体",
+        "name_en": "Sumire",
+        "name_jp": "スミレ",
+        "name_zh": "堇",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10013": {
+        "kivo_id": 94,
+        "gamekee_id": 66645,
+        "avatar": "https://static.kivo.wiki/images/students/剑先 鹤城/avatar.png",
+        "momotalk": "……",
+        "name_en": "Tsurugi",
+        "name_jp": "ツルギ",
+        "name_zh": "鹤城",
+        "nicknames": [
+            "颜艺"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10014": {
+        "kivo_id": 180,
+        "gamekee_id": 70510,
+        "avatar": "https://static.kivo.wiki/images/students/久田 泉奈/avatar.png",
+        "momotalk": "泉奈会加油的！忍忍！",
+        "name_en": "Izuna",
+        "name_jp": "イズナ",
+        "name_zh": "泉奈",
+        "nicknames": [
+            "忍忍",
+            "小狐狸"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10015": {
+        "kivo_id": 108,
+        "gamekee_id": 72904,
+        "avatar": "https://static.kivo.wiki/images/students/天童 爱丽丝/avatar.png",
+        "momotalk": "我是千禧年游戏开发部的爱丽丝",
+        "name_en": "Aris",
+        "name_jp": "アリス",
+        "name_zh": "爱丽丝",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10016": {
+        "kivo_id": 27,
+        "gamekee_id": 68802,
+        "avatar": "https://static.kivo.wiki/images/students/才羽绿/avatar.png",
+        "momotalk": "求推荐好玩的游戏",
+        "name_en": "Midori",
+        "name_jp": "ミドリ",
+        "name_zh": "绿",
+        "nicknames": [
+            "小绿"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10017": {
+        "kivo_id": 179,
+        "gamekee_id": 75150,
+        "avatar": "https://static.kivo.wiki/images/students/连河 切里诺/avatar.png",
+        "momotalk": "胡须！胡须！！是胡须！！",
+        "name_en": "Cherino",
+        "name_jp": "チェリノ",
+        "name_zh": "切里诺",
+        "nicknames": [
+            "斯大萝"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10018": {
+        "kivo_id": 81,
+        "gamekee_id": 77109,
+        "avatar": "https://static.kivo.wiki/images/students/花冈 柚子/avatar.png",
+        "momotalk": "404 NOT FOUND",
+        "name_en": "Yuzu",
+        "name_jp": "ユズ",
+        "name_zh": "柚子",
+        "nicknames": [
+            "柚子橱",
+            "柚子炮",
+            "UZQueen"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10019": {
+        "kivo_id": 3,
+        "gamekee_id": 77111,
+        "avatar": "https://static.kivo.wiki/images/students/白洲梓/avatar.png",
+        "momotalk": "et omnia vanitas",
+        "name_en": "Azusa",
+        "name_jp": "アズサ",
+        "name_zh": "梓",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10020": {
+        "kivo_id": 157,
+        "gamekee_id": 78300,
+        "avatar": "https://static.kivo.wiki/images/students/下江 小春/avatar.png",
+        "momotalk": "禁止色色！！！",
+        "name_en": "Koharu",
+        "name_jp": "コハル",
+        "name_zh": "小春",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10021": {
+        "kivo_id": 228,
+        "gamekee_id": 81811,
+        "avatar": "https://static.kivo.wiki/images/students/白洲 梓/泳装/avatar.png",
+        "momotalk": "A brevis paradisum",
+        "name_en": "Azusa",
+        "name_jp": "アズサ（水着）",
+        "name_zh": "梓（泳装）",
+        "nicknames": [
+            "水梓"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10022": {
+        "kivo_id": 121,
+        "gamekee_id": 83729,
+        "avatar": "https://static.kivo.wiki/images/students/空崎 日奈/泳装/avatar.png",
+        "momotalk": "",
+        "name_en": "Hina",
+        "name_jp": "ヒナ（水着）",
+        "name_zh": "日奈（泳装）",
+        "nicknames": [
+            "水魔",
+            "水hina"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10023": {
+        "kivo_id": 122,
+        "gamekee_id": 83867,
+        "avatar": "https://static.kivo.wiki/images/students/银镜 伊织/泳装/avatar.png",
+        "momotalk": "夏季集训中",
+        "name_en": "Iori",
+        "name_jp": "イオリ（水着）",
+        "name_zh": "伊织（泳装）",
+        "nicknames": [
+            "水佐仓"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10024": {
+        "kivo_id": 87,
+        "gamekee_id": 85351,
+        "avatar": "https://static.kivo.wiki/images/students/砂狼 白子/单车/avatar.png",
+        "momotalk": "纵向穿越基沃托斯中……",
+        "name_en": "Shiroko",
+        "name_jp": "シロコ（ライディング）",
+        "name_zh": "白子（骑行服）",
+        "nicknames": [
+            "车白"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10025": {
+        "kivo_id": 109,
+        "gamekee_id": 60697,
+        "avatar": "https://static.kivo.wiki/images/students/春原 瞬/幼女/avatar.png",
+        "momotalk": "好想吃糖葫芦……",
+        "name_en": "Shun",
+        "name_jp": "シュン（幼女）",
+        "name_zh": "瞬（幼女）",
+        "nicknames": [
+            "幼瞬",
+            "铜花瞬"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10026": {
+        "kivo_id": 138,
+        "gamekee_id": 89274,
+        "avatar": "https://static.kivo.wiki/images/students/美甘 尼禄/兔女郎/avatar.png",
+        "momotalk": "看什么看？",
+        "name_en": "Neru",
+        "name_jp": "ネル（バニーガール）",
+        "name_zh": "妮禄（兔女郎）",
+        "nicknames": [
+            "兔尼禄",
+            "红兔"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10027": {
+        "kivo_id": 137,
+        "gamekee_id": 89275,
+        "avatar": "https://static.kivo.wiki/images/students/角楯 花凛/兔女郎/avatar.png",
+        "momotalk": "正在执行潜入任务",
+        "name_en": "Karin",
+        "name_jp": "カリン（バニーガール）",
+        "name_zh": "花凛（兔女郎）",
+        "nicknames": [
+            "兔花凛"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10028": {
+        "kivo_id": 130,
+        "gamekee_id": 89742,
+        "avatar": "https://static.kivo.wiki/images/students/一之濑 明日奈/兔女郎/avatar.png",
+        "momotalk": "为你献上无限的快乐",
+        "name_en": "Asuna",
+        "name_jp": "アスナ（バニーガール）",
+        "name_zh": "明日奈（兔女郎）",
+        "nicknames": [
+            "兔斯娜"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10029": {
+        "kivo_id": 139,
+        "gamekee_id": 90626,
+        "avatar": "https://static.kivo.wiki/images/students/柚鸟 夏/avatar.png",
+        "momotalk": "人生=巧克力椒盐卷饼",
+        "name_en": "Natsu",
+        "name_jp": "ナツ",
+        "name_zh": "夏",
+        "nicknames": [
+            "小夏",
+            "夏老师"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10030": {
+        "kivo_id": 140,
+        "gamekee_id": 150145,
+        "avatar": "https://static.kivo.wiki/images/students/火宫 千夏/温泉/avatar.png",
+        "momotalk": "寻找未曾邂逅的日常",
+        "name_en": "Chinatsu",
+        "name_jp": "チナツ（温泉）",
+        "name_zh": "千夏（温泉）",
+        "nicknames": [
+            "温泉针"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10031": {
+        "kivo_id": 102,
+        "gamekee_id": 150220,
+        "avatar": "https://static.kivo.wiki/images/students/陆八魔 阿露/正月/avatar.png",
+        "momotalk": "今年也请多多指教",
+        "name_en": "Aru",
+        "name_jp": "アル（正月）",
+        "name_zh": "阿露（正月）",
+        "nicknames": [
+            "春露"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10032": {
+        "kivo_id": 177,
+        "gamekee_id": 150223,
+        "avatar": "https://static.kivo.wiki/images/students/浅黄 睦月/正月/avatar.png",
+        "momotalk": "今年一定会更有趣的~！",
+        "name_en": "Mutsuki",
+        "name_jp": "ムツキ（正月）",
+        "name_zh": "睦月（正月）",
+        "nicknames": [
+            "春月"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10033": {
+        "kivo_id": 11,
+        "gamekee_id": 150695,
+        "avatar": "https://static.kivo.wiki/images/students/狐坂若藻/avatar.png",
+        "momotalk": "呵呵，时刻伴您左右♡",
+        "name_en": "Wakamo",
+        "name_jp": "ワカモ",
+        "name_zh": "若藻",
+        "nicknames": [
+            "藻子姐",
+            "大狐狸"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10034": {
+        "kivo_id": 22,
+        "gamekee_id": 151016,
+        "avatar": "https://static.kivo.wiki/images/students/水羽弥守/avatar.png",
+        "momotalk": "日积跬步",
+        "name_en": "Mimori",
+        "name_jp": "ミモリ",
+        "name_zh": "弥守",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10035": {
+        "kivo_id": 23,
+        "gamekee_id": 151345,
+        "avatar": "https://static.kivo.wiki/images/students/古关 忧/avatar.png",
+        "momotalk": "办事中，勿扰。",
+        "name_en": "Ui",
+        "name_jp": "ウイ",
+        "name_zh": "忧",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10036": {
+        "kivo_id": 26,
+        "gamekee_id": 151348,
+        "avatar": "https://static.kivo.wiki/images/students/若叶 日向/avatar.png",
+        "momotalk": "无论何时遇到困难，都可以联络我！",
+        "name_en": "Hinata",
+        "name_jp": "ヒナタ",
+        "name_zh": "日向",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10037": {
+        "kivo_id": 45,
+        "gamekee_id": 151713,
+        "avatar": "https://static.kivo.wiki/images/students/池仓 玛利娜/avatar.png",
+        "momotalk": "将叛逆分子统统铲除！",
+        "name_en": "Marina",
+        "name_jp": "マリナ",
+        "name_zh": "玛丽娜",
+        "nicknames": [
+            "保洁阿姨",
+            "阿姨"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10038": {
+        "kivo_id": 6,
+        "gamekee_id": 153368,
+        "avatar": "https://static.kivo.wiki/images/students/月雪宫子/avatar.png",
+        "momotalk": "为了基沃托斯的和平",
+        "name_en": "Miyako",
+        "name_jp": "ミヤコ",
+        "name_zh": "宫子",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10039": {
+        "kivo_id": 9,
+        "gamekee_id": 153606,
+        "avatar": "https://static.kivo.wiki/images/students/霞泽美游/avatar.png",
+        "momotalk": "美好的日子已经结束了……",
+        "name_en": "Miyu",
+        "name_jp": "ミユ",
+        "name_zh": "美游",
+        "nicknames": [
+            "垃圾桶",
+            "垃姬兔"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10040": {
+        "kivo_id": 32,
+        "gamekee_id": 155968,
+        "avatar": "https://static.kivo.wiki/images/students/大野 月咏/avatar.png",
+        "momotalk": "希望能早日成为堂堂正正的忍者……",
+        "name_en": "Tsukuyo",
+        "name_jp": "ツクヨ",
+        "name_zh": "月咏",
+        "nicknames": [
+            "巨忍"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10041": {
+        "kivo_id": 33,
+        "gamekee_id": 156959,
+        "avatar": "https://static.kivo.wiki/images/students/戒野 美咲/avatar.png",
+        "momotalk": "会下雨吗......",
+        "name_en": "Misaki",
+        "name_jp": "ミサキ",
+        "name_zh": "美咲",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10042": {
+        "kivo_id": 35,
+        "gamekee_id": 158662,
+        "avatar": "https://static.kivo.wiki/images/students/秤 亚津子/avatar.png",
+        "momotalk": "最近在学习花语",
+        "name_en": "Atsuko",
+        "name_jp": "アツコ",
+        "name_zh": "亚津子",
+        "nicknames": [
+            "公主",
+            "墩子",
+            "秤砣",
+            "龇牙笑"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10043": {
+        "kivo_id": 41,
+        "gamekee_id": 159948,
+        "avatar": "https://static.kivo.wiki/images/students/狐坂 若藻/avatar.png",
+        "momotalk": "以比夏天还炙热的心♡",
+        "name_en": "Wakamo",
+        "name_jp": "ワカモ（水着）",
+        "name_zh": "若藻（泳装）",
+        "nicknames": [
+            "水若藻"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10044": {
+        "kivo_id": 40,
+        "gamekee_id": 159935,
+        "avatar": "https://static.kivo.wiki/images/students/十六夜 野宫/泳装/avatar.png",
+        "momotalk": "是大海呢，大海~！",
+        "name_en": "Nonomi",
+        "name_jp": "ノノミ（水着）",
+        "name_zh": "野宫（泳装）",
+        "nicknames": [
+            "水富婆"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10045": {
+        "kivo_id": 42,
+        "gamekee_id": 162560,
+        "avatar": "https://static.kivo.wiki/images/students/小鸟游 星野/泳装/avatar.png",
+        "momotalk": "午睡中~随时欢迎伙伴哦",
+        "name_en": "Hoshino",
+        "name_jp": "ホシノ（水着）",
+        "name_zh": "星野（泳装）",
+        "nicknames": [
+            "水星野",
+            "水星",
+            "水大叔",
+            "水叔"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10046": {
+        "kivo_id": 46,
+        "gamekee_id": 162985,
+        "avatar": "https://static.kivo.wiki/images/students/久田 泉奈/泳装/avatar.png",
+        "momotalk": "这次是海边的修行！忍忍！",
+        "name_en": "Izuna",
+        "name_jp": "イズナ（水着）",
+        "name_zh": "泉奈（泳装）",
+        "nicknames": [
+            "水忍忍",
+            "水狐"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10047": {
+        "kivo_id": 48,
+        "gamekee_id": 162817,
+        "avatar": "https://static.kivo.wiki/images/students/和乐 千世/泳装/avatar.png",
+        "momotalk": "亮晶晶~。到底在哪里呢？",
+        "name_en": "Chise",
+        "name_jp": "チセ（水着）",
+        "name_zh": "千世（泳装）",
+        "nicknames": [
+            "水千世",
+            "水千"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10048": {
+        "kivo_id": 36,
+        "gamekee_id": 164453,
+        "avatar": "https://static.kivo.wiki/images/students/锭前 纱织/avatar.png",
+        "momotalk": "必须努力",
+        "name_en": "Saori",
+        "name_jp": "サオリ",
+        "name_zh": "纱织",
+        "nicknames": [
+            "家人侠"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10049": {
+        "kivo_id": 37,
+        "gamekee_id": 165671,
+        "avatar": "https://static.kivo.wiki/images/students/杏山 和纱/avatar.png",
+        "momotalk": "放学后甜品部的成员",
+        "name_en": "Kazusa",
+        "name_jp": "カズサ",
+        "name_zh": "和纱",
+        "nicknames": [
+            "肥猫",
+            "甜点猫",
+            "凯茜帕鲁格"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10050": {
+        "kivo_id": 4,
+        "gamekee_id": 167809,
+        "avatar": "https://static.kivo.wiki/images/students/春原心奈/avatar.png",
+        "momotalk": "山海经的教官的说！",
+        "name_en": "Kokona",
+        "name_jp": "ココナ",
+        "name_zh": "心奈",
+        "nicknames": [
+            "一佰昏",
+            "11岁"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10051": {
+        "kivo_id": 53,
+        "gamekee_id": 168189,
+        "avatar": "https://static.kivo.wiki/images/students/白石 歌原/应援团/avatar.png",
+        "momotalk": "正在接受应援委托！",
+        "name_en": "Utaha",
+        "name_jp": "ウタハ（応援団）",
+        "name_zh": "歌原（应援团）",
+        "nicknames": [
+            "拉炮",
+            "情热炮"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10052": {
+        "kivo_id": 28,
+        "gamekee_id": 168193,
+        "avatar": "https://static.kivo.wiki/images/students/生盐 诺亚/avatar.png",
+        "momotalk": "基沃托斯的忧郁",
+        "name_en": "Noa",
+        "name_jp": "ノア",
+        "name_zh": "诺亚",
+        "nicknames": [
+            "生理盐水"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10053": {
+        "kivo_id": 54,
+        "gamekee_id": 170295,
+        "avatar": "https://static.kivo.wiki/images/students/早濑 优香/avatar.png",
+        "momotalk": "晄轮大祭举办中！",
+        "name_en": "Yuuka",
+        "name_jp": "ユウカ（体操服）",
+        "name_zh": "优香（体育服）",
+        "nicknames": [
+            "体香"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10054": {
+        "kivo_id": 55,
+        "gamekee_id": 170297,
+        "avatar": "https://static.kivo.wiki/images/students/伊落 玛丽/体育服/avatar.png",
+        "momotalk": "祝大家渡过一场平稳的祭典",
+        "name_en": "Mari",
+        "name_jp": "マリー（体操服）",
+        "name_zh": "玛丽（体育服）",
+        "nicknames": [
+            "体玛"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10055": {
+        "kivo_id": 106,
+        "gamekee_id": 577249,
+        "avatar": "https://static.kivo.wiki/images/students/间宵 时雨/avatar.png",
+        "momotalk": "是时候调制饮料，改变人生了呢",
+        "name_en": "Shigure",
+        "name_jp": "シグレ",
+        "name_zh": "时雨",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10056": {
+        "kivo_id": 153,
+        "gamekee_id": 578734,
+        "avatar": "https://static.kivo.wiki/images/students/鹫见 芹娜/圣诞节/avatar.png",
+        "momotalk": "希望大家都能在这个神圣的夜晚感到幸福",
+        "name_en": "Serina",
+        "name_jp": "セリナ（クリスマス）",
+        "name_zh": "芹娜（圣诞节）",
+        "nicknames": [
+            "圣诞小护士"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10057": {
+        "kivo_id": 145,
+        "gamekee_id": 579682,
+        "avatar": "https://static.kivo.wiki/images/students/黑馆 晴奈/正月/avatar.png",
+        "momotalk": "今年也在追求极致的美食",
+        "name_en": "Haruna",
+        "name_jp": "ハルナ（正月）",
+        "name_zh": "晴奈（正月）",
+        "nicknames": [
+            "春晴奈",
+            "爆发狙"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10058": {
+        "kivo_id": 129,
+        "gamekee_id": 580732,
+        "avatar": "https://static.kivo.wiki/images/students/苍森 美弥/avatar.png",
+        "momotalk": "我时刻做好了准备",
+        "name_en": "Mine",
+        "name_jp": "ミネ",
+        "name_zh": "美弥",
+        "nicknames": [
+            "团长",
+            "潘森"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10059": {
+        "kivo_id": 1,
+        "gamekee_id": 581679,
+        "avatar": "https://static.kivo.wiki/images/students/圣园未花/avatar.png",
+        "momotalk": "正在征集可以一起聊天的人！",
+        "name_en": "Mika",
+        "name_jp": "ミカ",
+        "name_zh": "未花",
+        "nicknames": [
+            "mika",
+            "三力"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10060": {
+        "kivo_id": 229,
+        "gamekee_id": 582116,
+        "avatar": "https://static.kivo.wiki/images/students/下仓 惠/avatar.png",
+        "momotalk": "一直都欢迎温泉开发的同志哦！",
+        "name_en": "Megu",
+        "name_jp": "メグ",
+        "name_zh": "惠",
+        "nicknames": [
+            "喷火枪"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10061": {
+        "kivo_id": 203,
+        "gamekee_id": 583291,
+        "avatar": "https://static.kivo.wiki/images/students/歌住 樱子/avatar.png",
+        "momotalk": "一直都在注视着",
+        "name_en": "Sakurako",
+        "name_jp": "サクラコ",
+        "name_zh": "樱子",
+        "nicknames": [
+            "觉悟"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10062": {
+        "kivo_id": 77,
+        "gamekee_id": 584417,
+        "avatar": "https://static.kivo.wiki/images/students/飞鸟马 时/avatar.png",
+        "momotalk": "日常待机中",
+        "name_en": "Toki",
+        "name_jp": "トキ",
+        "name_zh": "时",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10063": {
+        "kivo_id": 101,
+        "gamekee_id": 585462,
+        "avatar": "https://static.kivo.wiki/images/students/黑崎 小雪/avatar.png",
+        "momotalk": "诶呀，难道这是我的错吗......？",
+        "name_en": "Koyuki",
+        "name_jp": "コユキ",
+        "name_zh": "小雪",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10064": {
+        "kivo_id": 123,
+        "gamekee_id": 586470,
+        "avatar": "https://static.kivo.wiki/images/students/鬼方 佳代子/正月/avatar.png",
+        "momotalk": "谨贺新年",
+        "name_en": "Kayoko",
+        "name_jp": "カヨコ（正月）",
+        "name_zh": "佳代子（正月）",
+        "nicknames": [
+            "春佳"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10065": {
+        "kivo_id": 143,
+        "gamekee_id": 588062,
+        "avatar": "https://static.kivo.wiki/images/students/桑上 果穗/avatar.png",
+        "momotalk": "工作相关事宜，随时欢迎咨询",
+        "name_en": "Kaho",
+        "name_jp": "カホ",
+        "name_zh": "果穗",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10066": {
+        "kivo_id": 152,
+        "gamekee_id": 589642,
+        "avatar": "https://static.kivo.wiki/images/students/天童 爱丽丝/女仆/avatar.png",
+        "momotalk": "我是女仆勇者爱丽丝！",
+        "name_en": "Aris",
+        "name_jp": "アリス（メイド）",
+        "name_zh": "爱丽丝（女仆）",
+        "nicknames": [
+            "女仆爱",
+            "扫地机器人"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10067": {
+        "kivo_id": 230,
+        "gamekee_id": 589647,
+        "avatar": "https://static.kivo.wiki/images/students/飞鸟马 时/兔女郎/avatar.png",
+        "momotalk": "作战待命中",
+        "name_en": "Toki",
+        "name_jp": "トキ（バニーガール）",
+        "name_zh": "时（兔女郎）",
+        "nicknames": [
+            "兔时"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10068": {
+        "kivo_id": 142,
+        "gamekee_id": 165751,
+        "avatar": "https://static.kivo.wiki/images/students/宇泽 玲纱/avatar.png",
+        "momotalk": "\"The ♠ of Vigilante\"",
+        "name_en": "Reisa",
+        "name_jp": "レイサ",
+        "name_zh": "玲纱",
+        "nicknames": [
+            "芋泥小孩"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10069": {
+        "kivo_id": 128,
+        "gamekee_id": 591327,
+        "avatar": "https://static.kivo.wiki/images/students/朱城 留美/avatar.png",
+        "momotalk": "玄武商会，正在营业中哦",
+        "name_en": "Rumi",
+        "name_jp": "ルミ",
+        "name_zh": "留美",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10070": {
+        "kivo_id": 131,
+        "gamekee_id": 591329,
+        "avatar": "https://static.kivo.wiki/images/students/佐藤 南/avatar.png",
+        "momotalk": "我听见风的声音……",
+        "name_en": "Mina",
+        "name_jp": "ミナ",
+        "name_zh": "南",
+        "nicknames": [
+            "发哥"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10071": {
+        "kivo_id": 280,
+        "gamekee_id": 593095,
+        "avatar": "https://static.kivo.wiki/images/students/月雪 宫子/泳装/avatar.png",
+        "momotalk": "以成果作证",
+        "name_en": "Miyako",
+        "name_jp": "ミヤコ（水着）",
+        "name_zh": "宫子（泳装）",
+        "nicknames": [
+            "水宫",
+            "水宫子"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10072": {
+        "kivo_id": 279,
+        "gamekee_id": 593096,
+        "avatar": "https://static.kivo.wiki/images/students/空井 咲/泳装/avatar.png",
+        "momotalk": "化不可能为可能",
+        "name_en": "Saki",
+        "name_jp": "サキ（水着）",
+        "name_zh": "咲（泳装）",
+        "nicknames": [
+            "水咲",
+            "水saki"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10073": {
+        "kivo_id": 302,
+        "gamekee_id": 595933,
+        "avatar": "https://static.kivo.wiki/images/students/古关 忧/泳装/avatar.png",
+        "momotalk": "出差中",
+        "name_en": "Ui",
+        "name_jp": "ウイ（水着）",
+        "name_zh": "忧（泳装）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10074": {
+        "kivo_id": 300,
+        "gamekee_id": 596034,
+        "avatar": "https://static.kivo.wiki/images/students/浦和 花子/泳装/avatar.png",
+        "momotalk": "随着露出的肌肤，变得坦率起来吧？",
+        "name_en": "Hanako",
+        "name_jp": "ハナコ（水着）",
+        "name_zh": "花子（泳装）",
+        "nicknames": [
+            "水花子",
+            "水花"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10075": {
+        "kivo_id": 264,
+        "gamekee_id": 161230,
+        "avatar": "https://static.kivo.wiki/images/students/姬木 梅露/original/avatar.png",
+        "momotalk": "画画的时候，不自觉地会多些自言自语呢~",
+        "name_en": "Meru",
+        "name_jp": "メル",
+        "name_zh": "梅露",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10076": {
+        "kivo_id": 57,
+        "gamekee_id": 168823,
+        "avatar": "https://static.kivo.wiki/images/students/丰见 小鸟/应援团/avatar.png",
+        "momotalk": "健全的知识寓于健全的身体！",
+        "name_en": "Kotori",
+        "name_jp": "コトリ（応援団）",
+        "name_zh": "小鸟（应援团）",
+        "nicknames": [
+            "拉拉鸟"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10077": {
+        "kivo_id": 114,
+        "gamekee_id": 164610,
+        "avatar": "https://static.kivo.wiki/images/students/仲正 一花/original/avatar.png",
+        "momotalk": "正义实现委员会，一直站在大家这边！",
+        "name_en": "ichika",
+        "name_jp": "イチカ",
+        "name_zh": "一花",
+        "nicknames": [
+            "大号杂鱼酱"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10078": {
+        "kivo_id": 116,
+        "gamekee_id": 169361,
+        "avatar": "https://static.kivo.wiki/images/students/鬼怒川 霞/original/avatar.png",
+        "momotalk": "众生皆生于温泉，归于温泉",
+        "name_en": "Kasumi",
+        "name_jp": "カスミ",
+        "name_zh": "霞",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10079": {
+        "kivo_id": 315,
+        "gamekee_id": 603133,
+        "avatar": "https://static.kivo.wiki/images/students/御坂 美琴/avatar.png",
+        "momotalk": "探索周边中",
+        "name_en": "Mikoto",
+        "name_jp": "御坂美琴",
+        "name_zh": "美琴",
+        "nicknames": [
+            "炮姐"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10080": {
+        "kivo_id": 316,
+        "gamekee_id": 603139,
+        "avatar": "https://static.kivo.wiki/images/students/食蜂 操祈/avatar.png",
+        "momotalk": "请通过这里联系",
+        "name_en": "Misaki",
+        "name_jp": "食蜂操祈",
+        "name_zh": "操祈",
+        "nicknames": [
+            "食蜂女王",
+            "常盘台的女王"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10081": {
+        "kivo_id": 318,
+        "gamekee_id": 604513,
+        "avatar": "https://static.kivo.wiki/images/students/勘解由小路 紫/avatar.png",
+        "momotalk": "小女子现在也，开始使用momotalk啦！",
+        "name_en": "Yukari",
+        "name_jp": "ユカリ",
+        "name_zh": "紫",
+        "nicknames": [
+            "油咖喱"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10082": {
+        "kivo_id": 319,
+        "gamekee_id": 605892,
+        "avatar": "https://static.kivo.wiki/images/students/不破 莲华/avatar.png",
+        "momotalk": "现在正值青春年华！",
+        "name_en": "Renge",
+        "name_jp": "レンゲ",
+        "name_zh": "莲华",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10083": {
+        "kivo_id": 320,
+        "gamekee_id": 605895,
+        "avatar": "https://static.kivo.wiki/images/students/桐生 桔梗/avatar.png",
+        "momotalk": "教学相长",
+        "name_en": "Kikyou",
+        "name_jp": "キキョウ",
+        "name_zh": "桔梗",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10084": {
+        "kivo_id": 341,
+        "gamekee_id": 609145,
+        "avatar": "https://static.kivo.wiki/images/students/音濑 小玉/露营/avatar.png",
+        "momotalk": "倾听你的声音",
+        "name_en": "Kotama",
+        "name_jp": "コタマ（キャンプ）",
+        "name_zh": "小玉（露营）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10085": {
+        "kivo_id": 340,
+        "gamekee_id": 609143,
+        "avatar": "https://static.kivo.wiki/images/students/小钩 晴/露营/avatar.png",
+        "momotalk": "雅典娜3号调整中。小心诈骗短信",
+        "name_en": "Hare",
+        "name_jp": "ハレ（キャンプ）",
+        "name_zh": "晴（露营）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10086": {
+        "kivo_id": 346,
+        "gamekee_id": 611753,
+        "avatar": "https://static.kivo.wiki/images/students/空崎 日奈/礼服/avatar.png",
+        "momotalk": "",
+        "name_en": "Hina",
+        "name_jp": "ヒナ（ドレス）",
+        "name_zh": "日奈（礼服）",
+        "nicknames": [
+            "委员长",
+            "魔王"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10087": {
+        "kivo_id": 345,
+        "gamekee_id": 611610,
+        "avatar": "https://static.kivo.wiki/images/students/天雨 亚子/礼服/avatar.png",
+        "momotalk": "现在的我，只是一名特工......",
+        "name_en": "Ako",
+        "name_jp": "アコ（ドレス）",
+        "name_zh": "亚子（礼服）",
+        "nicknames": [
+            "亚子"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10088": {
+        "kivo_id": 351,
+        "gamekee_id": 614736,
+        "avatar": "https://static.kivo.wiki/images/students/鬼方 佳代子/礼服/avatar.png",
+        "momotalk": "工作一结束就会回你。",
+        "name_en": "Kayoko",
+        "name_jp": "カヨコ（ドレス）",
+        "name_zh": "佳代子（礼服）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10089": {
+        "kivo_id": 350,
+        "gamekee_id": 614734,
+        "avatar": "https://static.kivo.wiki/images/students/陆八魔 阿露/礼服/avatar.png",
+        "momotalk": "这是个重要的任务呢。",
+        "name_en": "Aru",
+        "name_jp": "アル（ドレス）",
+        "name_zh": "阿露（礼服）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10090": {
+        "kivo_id": 127,
+        "gamekee_id": 618563,
+        "avatar": "https://static.kivo.wiki/images/students/里浜 海夏/avatar.png",
+        "momotalk": "如果有庆典的消息的话，请通知我！",
+        "name_en": "Umika",
+        "name_jp": "ウミカ",
+        "name_zh": "海夏",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10091": {
+        "kivo_id": 368,
+        "gamekee_id": 620843,
+        "avatar": "https://static.kivo.wiki/images/students/杏山 和纱/乐队/avatar.png",
+        "momotalk": "「Sugar Rush」的主唱兼贝斯手",
+        "name_en": "Kazusa",
+        "name_jp": "カズサ（バンド）",
+        "name_zh": "和纱（乐队）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10092": {
+        "kivo_id": 370,
+        "gamekee_id": 620883,
+        "avatar": "https://static.kivo.wiki/images/students/伊原木 好美/乐队/avatar.png",
+        "momotalk": "#猛特训中",
+        "name_en": "Yoshimi",
+        "name_jp": "ヨシミ（バンド）",
+        "name_zh": "好美（乐队）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10093": {
+        "kivo_id": 163,
+        "gamekee_id": 578163,
+        "avatar": "https://static.kivo.wiki/images/students/夜樱 绮良/avatar.png",
+        "momotalk": "#闪闪发光#永远_Happy",
+        "name_en": "kirara",
+        "name_jp": "キララ",
+        "name_zh": "绮良",
+        "nicknames": [
+            "琪拉拉"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10094": {
+        "kivo_id": 30,
+        "gamekee_id": 590230,
+        "avatar": "https://static.kivo.wiki/images/students/才羽 桃井/女仆/avatar.png",
+        "momotalk": "女仆玩家……专精？",
+        "name_en": "Momoi",
+        "name_jp": "モモイ（メイド）",
+        "name_zh": "桃井（女仆）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10095": {
+        "kivo_id": 31,
+        "gamekee_id": 590231,
+        "avatar": "https://static.kivo.wiki/images/students/才羽 绿/女仆/avatar.png",
+        "momotalk": "今天也要努力精进。",
+        "name_en": "Midori",
+        "name_jp": "ミドリ（メイド）",
+        "name_zh": "绿（女仆）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10096": {
+        "kivo_id": 375,
+        "gamekee_id": 616810,
+        "avatar": "https://static.kivo.wiki/images/students/尾刃 叶渚/泳装/avatar.png",
+        "momotalk": "服务、倾听、诚实",
+        "name_en": "Kanna",
+        "name_jp": "カンナ（水着）",
+        "name_zh": "叶渚（泳装）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10097": {
+        "kivo_id": 286,
+        "gamekee_id": 164332,
+        "avatar": "https://static.kivo.wiki/images/students/风仓 萌绘/泳装/avatar.png",
+        "momotalk": "导弹……更大的导弹……",
+        "name_en": "Moe",
+        "name_jp": "モエ（水着）",
+        "name_zh": "萌绘（泳装）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10098": {
+        "kivo_id": 373,
+        "gamekee_id": 621572,
+        "avatar": "https://static.kivo.wiki/images/students/小鸟游 星野/临战/avatar.png",
+        "momotalk": "午睡中。急事请打电话~",
+        "name_en": "Hoshino",
+        "name_jp": "ホシノ（臨戦）",
+        "name_zh": "星野（临战）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10099": {
+        "kivo_id": 373,
+        "gamekee_id": 621572,
+        "avatar": "https://static.kivo.wiki/images/students/小鸟游 星野/临战/avatar.png",
+        "momotalk": "午睡中。急事请打电话~",
+        "name_en": "Hoshino",
+        "name_jp": "ホシノ（臨戦）",
+        "name_zh": "星野（临战）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10100": {
+        "kivo_id": 135,
+        "gamekee_id": 162557,
+        "avatar": "https://static.kivo.wiki/images/students/砂狼 白子*恐怖/original/avatar.png",
+        "momotalk": "正在招募骑行伙伴……（2/5）",
+        "name_en": "Shiroko*terror",
+        "name_jp": "シロコ＊テラー",
+        "name_zh": "白子*恐怖",
+        "nicknames": [
+            "黑子",
+            "大白子",
+            "白子*恐怖"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10101": {
+        "kivo_id": 381,
+        "gamekee_id": 155638,
+        "avatar": "https://static.kivo.wiki/images/students/锭前 纱织/泳装/avatar.png",
+        "momotalk": "随时接受求助者咨询",
+        "name_en": "Saori",
+        "name_jp": "サオリ（水着）",
+        "name_zh": "纱织（泳装）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10102": {
+        "kivo_id": 383,
+        "gamekee_id": 606282,
+        "avatar": "https://static.kivo.wiki/images/students/槌永 日和/泳装/avatar.png",
+        "momotalk": "夏天......大海......难道这是梦！？",
+        "name_en": "Hiyori",
+        "name_jp": "ヒヨリ（水着）",
+        "name_zh": "日和（泳装）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10103": {
+        "kivo_id": 389,
+        "gamekee_id": 160537,
+        "avatar": "https://static.kivo.wiki/images/students/池仓 玛丽娜/旗袍/avatar.png",
+        "momotalk": "这件衣服……是不是有点太暴露了……",
+        "name_en": "Marina",
+        "name_jp": "マリナ（チーパオ）",
+        "name_zh": "玛丽娜（旗袍）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10104": {
+        "kivo_id": 271,
+        "gamekee_id": 71734,
+        "avatar": "https://static.kivo.wiki/images/students/鹿山 丽情/original/avatar.png",
+        "momotalk": "要修行随时奉陪",
+        "name_en": "Reijo",
+        "name_jp": "レイジョ",
+        "name_zh": "丽情",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10105": {
+        "kivo_id": 498,
+        "gamekee_id": 68790,
+        "avatar": "https://static.kivo.wiki/images/students/伊落 玛丽/偶像/Student_Portrait_CH0273_Collection.png",
+        "momotalk": "愿这首歌能够传递给您",
+        "name_en": "Mari",
+        "name_jp": "マリー（アイドル）",
+        "name_zh": "玛丽（偶像）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10106": {
+        "kivo_id": 499,
+        "gamekee_id": 68786,
+        "avatar": "https://static.kivo.wiki/images/students/歌住 樱子/偶像/Student_Portrait_CH0274_Collection.png",
+        "momotalk": "这是崭新的一步",
+        "name_en": "Sakurako",
+        "name_jp": "サクラコ（アイドル）",
+        "name_zh": "樱子（偶像）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10107": {
+        "kivo_id": 347,
+        "gamekee_id": 71742,
+        "avatar": "https://static.kivo.wiki/images/students/元宫 千明/original/Student_Portrait_CH0238_Collection.png",
+        "momotalk": "欢迎随时为「周刊万魔殿」提供消息！",
+        "name_en": "Chiaki",
+        "name_jp": "チアキ",
+        "name_zh": "千明",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10108": {
+        "kivo_id": 505,
+        "gamekee_id": 172184,
+        "avatar": "https://static.kivo.wiki/images/students/早濑 优香/睡衣/Student_Portrait_CH0284_Collection.png",
+        "momotalk": "唔……睡不着……",
+        "name_en": "Yuuka",
+        "name_jp": "ユウカ（パジャマ）",
+        "name_zh": "优香（睡衣）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10109": {
+        "kivo_id": 506,
+        "gamekee_id": 172185,
+        "avatar": "https://static.kivo.wiki/images/students/生盐 诺亚/睡衣/Student_Portrait_CH0285_Collection.png",
+        "momotalk": "在暗夜的彼方",
+        "name_en": "Noa",
+        "name_jp": "ノア（パジャマ）",
+        "name_zh": "诺亚（睡衣）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10110": {
+        "kivo_id": 43,
+        "gamekee_id": 645820,
+        "avatar": "https://static.kivo.wiki/images/students/百合园 圣娅/original/Student_Portrait_CH0070_Collection.png",
+        "momotalk": "编织言语真是件难事呢",
+        "name_en": "Seia",
+        "name_jp": "セイア",
+        "name_zh": "圣娅",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10111": {
+        "kivo_id": 514,
+        "gamekee_id": 173926,
+        "avatar": "https://static.kivo.wiki/images/students/美甘 妮禄/校服/Student_Portrait_CH0280_Collection.png",
+        "momotalk": "哈......好麻烦啊",
+        "name_en": "Neru",
+        "name_jp": "ネル（制服）",
+        "name_zh": "妮禄（校服）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10112": {
+        "kivo_id": 512,
+        "gamekee_id": 645821,
+        "avatar": "https://static.kivo.wiki/images/students/一之濑 明日奈/校服/Student_Portrait_CH0281_Collection.png",
+        "momotalk": "呈上最棒的体验!",
+        "name_en": "Asuna",
+        "name_jp": "アスナ（制服）",
+        "name_zh": "明日奈（校服）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "13000": {
+        "kivo_id": 24,
+        "gamekee_id": 66752,
+        "avatar": "https://static.kivo.wiki/images/students/室笠 茜/avatar.png",
+        "momotalk": "享受一杯热红茶的悠闲",
+        "name_en": "Akane",
+        "name_jp": "アカネ",
+        "name_zh": "茜",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "13001": {
+        "kivo_id": 84,
+        "gamekee_id": 68284,
+        "avatar": "https://static.kivo.wiki/images/students/和乐 千世/avatar.png",
+        "momotalk": "找到云彩的话，告诉我",
+        "name_en": "Chise",
+        "name_jp": "チセ",
+        "name_zh": "千世",
+        "nicknames": [
+            "芝士",
+            "雪女"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "13002": {
+        "kivo_id": 110,
+        "gamekee_id": 62126,
+        "avatar": "https://static.kivo.wiki/images/students/鳄渊 明里/avatar.png",
+        "momotalk": "求推荐好吃的自助餐厅",
+        "name_en": "Akari",
+        "name_jp": "アカリ",
+        "name_zh": "明里",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "13003": {
+        "kivo_id": 111,
+        "gamekee_id": 66394,
+        "avatar": "https://static.kivo.wiki/images/students/羽川 莲见/avatar.png",
+        "momotalk": "减肥中……",
+        "name_en": "Hasumi",
+        "name_jp": "ハスミ",
+        "name_zh": "莲见",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "13004": {
+        "kivo_id": 78,
+        "gamekee_id": 68803,
+        "avatar": "https://static.kivo.wiki/images/students/十六夜 野宫/avatar.png",
+        "momotalk": "希望大家度过愉快的一天",
+        "name_en": "Nonomi",
+        "name_jp": "ノノミ",
+        "name_zh": "野宫",
+        "nicknames": [
+            "富婆"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "13005": {
+        "kivo_id": 176,
+        "gamekee_id": 56393,
+        "avatar": "https://static.kivo.wiki/images/students/鬼方 佳代子/avatar.png",
+        "momotalk": "不经常上Momotalk",
+        "name_en": "Kayoko",
+        "name_jp": "カヨコ",
+        "name_zh": "佳代子",
+        "nicknames": [
+            "恐惧妹"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "13006": {
+        "kivo_id": 107,
+        "gamekee_id": 54505,
+        "avatar": "https://static.kivo.wiki/images/students/浅黄 睦月/avatar.png",
+        "momotalk": "有没有什么有趣的事呢~",
+        "name_en": "Mutsuki",
+        "name_jp": "ムツキ",
+        "name_zh": "睦月",
+        "nicknames": [
+            "地雷",
+            "大头",
+            "加州女孩"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "13007": {
+        "kivo_id": 103,
+        "gamekee_id": 60879,
+        "avatar": "https://static.kivo.wiki/images/students/赤司 纯子/avatar.png",
+        "momotalk": "拒绝垃圾信息（╬⊙益⊙）",
+        "name_en": "Junko",
+        "name_jp": "ジュンコ",
+        "name_zh": "纯子",
+        "nicknames": [
+            "小火龙",
+            "淳子"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "13008": {
+        "kivo_id": 83,
+        "gamekee_id": 46678,
+        "avatar": "https://static.kivo.wiki/images/students/黑见 芹香/avatar.png",
+        "momotalk": "我是对策委员会的黑见芹香",
+        "name_en": "Serika",
+        "name_jp": "セリカ",
+        "name_zh": "芹香",
+        "nicknames": [
+            "黑猫"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "13009": {
+        "kivo_id": 93,
+        "gamekee_id": 68177,
+        "avatar": "https://static.kivo.wiki/images/students/春日 椿/avatar.png",
+        "momotalk": "好困啊……",
+        "name_en": "Tsubaki",
+        "name_jp": "ツバキ",
+        "name_zh": "椿",
+        "nicknames": [
+            "狗盾"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "13010": {
+        "kivo_id": 52,
+        "gamekee_id": 67658,
+        "avatar": "https://static.kivo.wiki/images/students/早瀬 优香/avatar.png",
+        "momotalk": "一切尽在掌握之中",
+        "name_en": "Yuuka",
+        "name_jp": "ユウカ",
+        "name_zh": "优香",
+        "nicknames": [
+            "邮箱",
+            "没包人",
+            "半包人",
+            "管账婆"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "13011": {
+        "kivo_id": 2,
+        "gamekee_id": 68801,
+        "avatar": "https://static.kivo.wiki/images/students/才羽桃井/avatar.png",
+        "momotalk": "游戏人生",
+        "name_en": "Momoi",
+        "name_jp": "モモイ",
+        "name_zh": "桃井",
+        "nicknames": [
+            "小桃",
+            "苦呀西"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "13012": {
+        "kivo_id": 100,
+        "gamekee_id": 86655,
+        "avatar": "https://static.kivo.wiki/images/students/中务 桐乃/avatar.png",
+        "momotalk": "瓦尔基丽，正在招募学员！",
+        "name_en": "Kirino",
+        "name_jp": "キリノ",
+        "name_zh": "桐乃",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "13013": {
+        "kivo_id": 167,
+        "gamekee_id": 161228,
+        "avatar": "https://static.kivo.wiki/images/students/秋泉 红叶/original/avatar.png",
+        "momotalk": "知识就是力量。我会好好守护它的！",
+        "name_en": "Momiji",
+        "name_jp": "モミジ",
+        "name_zh": "红叶",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "16000": {
+        "kivo_id": 192,
+        "gamekee_id": 53921,
+        "avatar": "https://static.kivo.wiki/images/students/伊草 春香/avatar.png",
+        "momotalk": "请多多关照",
+        "name_en": "Haruka",
+        "name_jp": "ハルカ",
+        "name_zh": "遥香",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "16001": {
+        "kivo_id": 113,
+        "gamekee_id": 66646,
+        "avatar": "https://static.kivo.wiki/images/students/一之瀬 明日奈/avatar.png",
+        "momotalk": "为主人献上最佳服务！",
+        "name_en": "Asuna",
+        "name_jp": "アスナ",
+        "name_zh": "明日奈",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "16002": {
+        "kivo_id": 211,
+        "gamekee_id": 67655,
+        "avatar": "https://static.kivo.wiki/images/students/丰见 小鸟/avatar.png",
+        "momotalk": "都来赞美超高频电磁波吧！",
+        "name_en": "Kotori",
+        "name_jp": "コトリ",
+        "name_zh": "小鸟",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "16003": {
+        "kivo_id": 181,
+        "gamekee_id": 66259,
+        "avatar": "https://static.kivo.wiki/images/students/守月 铃美/avatar.png",
+        "momotalk": "愿今天也是平安的一天",
+        "name_en": "Suzumi",
+        "name_jp": "スズミ",
+        "name_zh": "铃美",
+        "nicknames": [
+            "闪光弹"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "16004": {
+        "kivo_id": 215,
+        "gamekee_id": 68176,
+        "avatar": "https://static.kivo.wiki/images/students/朝比奈 菲娜/avatar.png",
+        "momotalk": "初次见面，请多多关照！",
+        "name_en": "Pina",
+        "name_jp": "フィーナ",
+        "name_zh": "菲娜",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "16005": {
+        "kivo_id": 269,
+        "gamekee_id": 81813,
+        "avatar": "https://static.kivo.wiki/images/students/剑先 鹤城/泳装/avatar.png",
+        "momotalk": "夏日，大海，青春",
+        "name_en": "Tsurugi",
+        "name_jp": "ツルギ（水着）",
+        "name_zh": "鹤城（泳装）",
+        "nicknames": [
+            "水鹤城"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "16006": {
+        "kivo_id": 75,
+        "gamekee_id": 83936,
+        "avatar": "https://static.kivo.wiki/images/students/狮子堂 泉/泳装/avatar.png",
+        "momotalk": "夏日美食求道之旅！",
+        "name_en": "Izumi",
+        "name_jp": "イズミ（水着）",
+        "name_zh": "泉（泳装）",
+        "nicknames": [
+            "水汉堡"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "16007": {
+        "kivo_id": 95,
+        "gamekee_id": 161281,
+        "avatar": "https://static.kivo.wiki/images/students/佐城 智惠/avatar.png",
+        "momotalk": "您对切里诺会长的丰功伟绩有兴趣吗？",
+        "name_en": "Tomoe",
+        "name_jp": "トモエ",
+        "name_zh": "智惠",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "16008": {
+        "kivo_id": 63,
+        "gamekee_id": 150694,
+        "avatar": "https://static.kivo.wiki/images/students/合欢垣 吹雪/avatar.png",
+        "momotalk": "咖啡with甜甜圈！",
+        "name_en": "Fubuki",
+        "name_jp": "フブキ",
+        "name_zh": "吹雪",
+        "nicknames": [
+            "甜甜圈",
+            "摆烂姐"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "16009": {
+        "kivo_id": 214,
+        "gamekee_id": 155255,
+        "avatar": "https://static.kivo.wiki/images/students/千鸟 满/avatar.png",
+        "momotalk": "请订阅【少女忍法帖小满亲】频道！",
+        "name_en": "Michiru",
+        "name_jp": "ミチル",
+        "name_zh": "满",
+        "nicknames": [
+            "小满"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "16010": {
+        "kivo_id": 51,
+        "gamekee_id": 168196,
+        "avatar": "https://static.kivo.wiki/images/students/猫塚 响/avatar.png",
+        "momotalk": "练习时间再多一些的话......",
+        "name_en": "Hibiki",
+        "name_jp": "ヒビキ（応援団）",
+        "name_zh": "响（应援团）",
+        "nicknames": [
+            "拉拉响"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "16011": {
+        "kivo_id": 60,
+        "gamekee_id": 170322,
+        "avatar": "https://static.kivo.wiki/images/students/羽川 莲见/体育服/avatar.png",
+        "momotalk": "有关运动会的问题请咨询执行委员会。",
+        "name_en": "Hasumi",
+        "name_jp": "ハスミ（体操服）",
+        "name_zh": "莲见（体育服）",
+        "nicknames": [
+            "体莲"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "16012": {
+        "kivo_id": 146,
+        "gamekee_id": 579691,
+        "avatar": "https://static.kivo.wiki/images/students/赤司 纯子/正月/avatar.png",
+        "momotalk": "吃饭的时候别来打扰！",
+        "name_en": "Junko",
+        "name_jp": "ジュンコ（正月）",
+        "name_zh": "纯子（正月）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "16013": {
+        "kivo_id": 299,
+        "gamekee_id": 595927,
+        "avatar": "https://static.kivo.wiki/images/students/下江 小春/泳装/avatar.png",
+        "momotalk": "泳装不是什么色色的东西！",
+        "name_en": "Koharu",
+        "name_jp": "コハル（水着）",
+        "name_zh": "小春（泳装）",
+        "nicknames": [
+            "水春",
+            "泳春",
+            "咏春"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "16014": {
+        "kivo_id": 136,
+        "gamekee_id": 611643,
+        "avatar": "https://static.kivo.wiki/images/students/丹花 伊吹/avatar.png",
+        "momotalk": "",
+        "name_en": "Ibuki",
+        "name_jp": "イブキ",
+        "name_zh": "伊吹",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "16015": {
+        "kivo_id": 369,
+        "gamekee_id": 620813,
+        "avatar": "https://static.kivo.wiki/images/students/栗村 爱莉/乐队/avatar.png",
+        "momotalk": "已经没问题了！",
+        "name_en": "Airi",
+        "name_jp": "アイリ（バンド）",
+        "name_zh": "爱莉（乐队）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "16016": {
+        "kivo_id": 500,
+        "gamekee_id": 68785,
+        "avatar": "https://static.kivo.wiki/images/students/苍森 美弥/偶像/Student_Portrait_CH0275_Collection.png",
+        "momotalk": "请多多为救护骑士团应援！",
+        "name_en": "Mine",
+        "name_jp": "ミネ（アイドル）",
+        "name_zh": "美弥（偶像）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20000": {
+        "kivo_id": 69,
+        "gamekee_id": 67657,
+        "avatar": "https://static.kivo.wiki/images/students/猫冢 响/avatar.png",
+        "momotalk": "行胜于言",
+        "name_en": "Hibiki",
+        "name_jp": "ヒビキ",
+        "name_zh": "响",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20001": {
+        "kivo_id": 175,
+        "gamekee_id": 67011,
+        "avatar": "https://static.kivo.wiki/images/students/角楯 花凛/avatar.png",
+        "momotalk": "目标已在掌握之中",
+        "name_en": "Karin",
+        "name_jp": "カリン",
+        "name_zh": "花凛",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20002": {
+        "kivo_id": 88,
+        "gamekee_id": 68521,
+        "avatar": "https://static.kivo.wiki/images/students/药子 纱绫/avatar.png",
+        "momotalk": "都来歌颂小爷我吧！",
+        "name_en": "Saya",
+        "name_jp": "サヤ",
+        "name_zh": "纱绫",
+        "nicknames": [
+            "鼠鼠",
+            "砂绫"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20003": {
+        "kivo_id": 79,
+        "gamekee_id": 69549,
+        "avatar": "https://static.kivo.wiki/images/students/静山 真白/avatar.png",
+        "momotalk": "积少成多",
+        "name_en": "Mashiro",
+        "name_jp": "マシロ",
+        "name_zh": "真白",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20004": {
+        "kivo_id": 80,
+        "gamekee_id": 81812,
+        "avatar": "https://static.kivo.wiki/images/students/静山 真白/泳装/avatar.png",
+        "momotalk": "井底之蛙不知大海",
+        "name_en": "Mashiro",
+        "name_jp": "マシロ（水着）",
+        "name_zh": "真白（泳装）",
+        "nicknames": [
+            "水白"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20005": {
+        "kivo_id": 70,
+        "gamekee_id": 83596,
+        "avatar": "https://static.kivo.wiki/images/students/阿慈谷 日富美/泳装/avatar.png",
+        "momotalk": "快看！我新买的佩洛洛泳圈！",
+        "name_en": "Hifumi",
+        "name_jp": "ヒフミ（水着）",
+        "name_zh": "日富美（泳装）",
+        "nicknames": [
+            "水鸡"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20006": {
+        "kivo_id": 89,
+        "gamekee_id": 87912,
+        "avatar": "https://static.kivo.wiki/images/students/药子 纱绫/私服/avatar.png",
+        "momotalk": "小爷我无所不知！",
+        "name_en": "Saya",
+        "name_jp": "サヤ（私服）",
+        "name_zh": "纱绫（私服）",
+        "nicknames": [
+            "私服鼠"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20007": {
+        "kivo_id": 68,
+        "gamekee_id": 90749,
+        "avatar": "https://static.kivo.wiki/images/students/初音 未来/avatar.png",
+        "momotalk": "基沃托斯现场演出，敬请期待！",
+        "name_en": "Miku",
+        "name_jp": "初音ミク",
+        "name_zh": "初音未来",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20008": {
+        "kivo_id": 39,
+        "gamekee_id": 150113,
+        "avatar": "https://static.kivo.wiki/images/students/天雨 亚子/avatar.png",
+        "momotalk": "除工作相关外，请勿打扰",
+        "name_en": "Ako",
+        "name_jp": "アコ",
+        "name_zh": "亚子",
+        "nicknames": [
+            "亚子"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20009": {
+        "kivo_id": 141,
+        "gamekee_id": 150144,
+        "avatar": "https://static.kivo.wiki/images/students/连河 切利诺/温泉/avatar.png",
+        "momotalk": "世上没有不好看的胡子！",
+        "name_en": "Cherino",
+        "name_jp": "チェリノ（温泉）",
+        "name_zh": "切里诺（温泉）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20010": {
+        "kivo_id": 120,
+        "gamekee_id": 150174,
+        "avatar": "https://static.kivo.wiki/images/students/天见 和香/温泉/avatar.png",
+        "momotalk": "227号温泉乡，随时为您准备住宿！",
+        "name_en": "Nodoka",
+        "name_jp": "ノドカ（温泉）",
+        "name_zh": "和香（温泉）",
+        "nicknames": [
+            "温泉望远镜",
+            "温泉和香"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20011": {
+        "kivo_id": 44,
+        "gamekee_id": 150380,
+        "avatar": "https://static.kivo.wiki/images/students/黑见 芹香/正月/avatar.png",
+        "momotalk": "祝大家新年快乐",
+        "name_en": "Serika",
+        "name_jp": "セリカ（正月）",
+        "name_zh": "芹香（正月）",
+        "nicknames": [
+            "春黑猫",
+            "春黑"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20012": {
+        "kivo_id": 18,
+        "gamekee_id": 150696,
+        "avatar": "https://static.kivo.wiki/images/students/冰室濑名/avatar.png",
+        "momotalk": "请不要屏蔽紧急消息",
+        "name_en": "Sena",
+        "name_jp": "セナ",
+        "name_zh": "濑名",
+        "nicknames": [
+            "救护车"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20013": {
+        "kivo_id": 20,
+        "gamekee_id": 150698,
+        "avatar": "https://static.kivo.wiki/images/students/各务千寻/avatar.png",
+        "momotalk": "安全检查要从日常做起",
+        "name_en": "Chihiro",
+        "name_jp": "チヒロ",
+        "name_zh": "千寻",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20014": {
+        "kivo_id": 8,
+        "gamekee_id": 153367,
+        "avatar": "https://static.kivo.wiki/images/students/空井咲/avatar.png",
+        "momotalk": "行动胜于雄辩",
+        "name_en": "Saki",
+        "name_jp": "サキ",
+        "name_zh": "咲",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20015": {
+        "kivo_id": 29,
+        "gamekee_id": 155250,
+        "avatar": "https://static.kivo.wiki/images/students/勇美 枫/avatar.png",
+        "momotalk": "喂喂~！今天我们玩什么？！",
+        "name_en": "Kaede",
+        "name_jp": "カエデ",
+        "name_zh": "枫",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20016": {
+        "kivo_id": 38,
+        "gamekee_id": 155254,
+        "avatar": "https://static.kivo.wiki/images/students/枣 伊吕波/avatar.png",
+        "momotalk": "阅读中，请勿打扰。",
+        "name_en": "Iroha",
+        "name_jp": "イロハ",
+        "name_zh": "伊吕波",
+        "nicknames": [
+            "168",
+            "彩叶",
+            "伊吕ball",
+            "红毛丹"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20017": {
+        "kivo_id": 34,
+        "gamekee_id": 156962,
+        "avatar": "https://static.kivo.wiki/images/students/槌永 日和/avatar.png",
+        "momotalk": "人生，就是苦痛的持续......",
+        "name_en": "Hiyori",
+        "name_jp": "ヒヨリ",
+        "name_zh": "日和",
+        "nicknames": [
+            "黑暗初音",
+            "纳米肚肚"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20018": {
+        "kivo_id": 7,
+        "gamekee_id": 165669,
+        "avatar": "https://static.kivo.wiki/images/students/风仓萌绘/avatar.png",
+        "momotalk": "回收闲置导弹炮弹，有意联系！",
+        "name_en": "Moe",
+        "name_jp": "モエ",
+        "name_zh": "萌绘",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20019": {
+        "kivo_id": 132,
+        "gamekee_id": 168947,
+        "avatar": "https://static.kivo.wiki/images/students/室笠 茜/兔女郎/avatar.png",
+        "momotalk": "度过有些新鲜的日常",
+        "name_en": "Akane",
+        "name_jp": "アカネ（バニーガール）",
+        "name_zh": "茜（兔女郎）",
+        "nicknames": [
+            "白兔"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20020": {
+        "kivo_id": 62,
+        "gamekee_id": 575949,
+        "avatar": "https://static.kivo.wiki/images/students/明星 日鞠/avatar.png",
+        "momotalk": "千禧年最高峰的超天才清楚系病弱美少女",
+        "name_en": "Himari",
+        "name_jp": "ヒマリ",
+        "name_zh": "日鞠",
+        "nicknames": [
+            "轮椅",
+            "otto"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20021": {
+        "kivo_id": 178,
+        "gamekee_id": 578738,
+        "avatar": "https://static.kivo.wiki/images/students/朝颜 花江/圣诞节/avatar.png",
+        "momotalk": "请等待圣诞老人吧！",
+        "name_en": "Hanae",
+        "name_jp": "ハナエ（クリスマス）",
+        "name_zh": "花江（圣诞节）",
+        "nicknames": [
+            "圣诞大护士"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20022": {
+        "kivo_id": 49,
+        "gamekee_id": 579686,
+        "avatar": "https://static.kivo.wiki/images/students/爱清 枫香/正月/avatar.png",
+        "momotalk": "正在祈祷平安无事",
+        "name_en": "Fuuka",
+        "name_jp": "フウカ（正月）",
+        "name_zh": "枫香（正月）",
+        "nicknames": [
+            "春枫香",
+            "春锅"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20023": {
+        "kivo_id": 144,
+        "gamekee_id": 582123,
+        "avatar": "https://static.kivo.wiki/images/students/尾刃 叶渚/avatar.png",
+        "momotalk": "确保基沃托斯的安全，请交给瓦尔基里",
+        "name_en": "Kanna",
+        "name_jp": "カンナ",
+        "name_zh": "叶渚",
+        "nicknames": [
+            "局长",
+            "狂犬"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20024": {
+        "kivo_id": 25,
+        "gamekee_id": 584418,
+        "avatar": "https://static.kivo.wiki/images/students/桐藤 渚/avatar.png",
+        "momotalk": "始终持有余度，优雅地",
+        "name_en": "Nagisa",
+        "name_jp": "ナギサ",
+        "name_zh": "渚",
+        "nicknames": [
+            "大渚教"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20025": {
+        "kivo_id": 124,
+        "gamekee_id": 586545,
+        "avatar": "https://static.kivo.wiki/images/students/伊草 遥香/正月/avatar.png",
+        "momotalk": "祝您新年幸福长久",
+        "name_en": "Haruka",
+        "name_jp": "ハルカ（正月）",
+        "name_zh": "遥香（正月）",
+        "nicknames": [
+            "春遥香",
+            "春香"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20026": {
+        "kivo_id": 166,
+        "gamekee_id": 592325,
+        "avatar": "https://static.kivo.wiki/images/students/安守 未乃里/avatar.png",
+        "momotalk": "联邦学生会应保障每周四天休假！",
+        "name_en": "Minori",
+        "name_jp": "ミノリ",
+        "name_zh": "实梨",
+        "nicknames": [
+            "工头"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20027": {
+        "kivo_id": 58,
+        "gamekee_id": 161196,
+        "avatar": "https://static.kivo.wiki/images/students/砂狼 白子/泳装/avatar.png",
+        "momotalk": "嗯，如果有人需要食物请联系我",
+        "name_en": "Shiroko",
+        "name_jp": "シロコ（水着）",
+        "name_zh": "白子（泳装）",
+        "nicknames": [
+            "水白子"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20028": {
+        "kivo_id": 301,
+        "gamekee_id": 595935,
+        "avatar": "https://static.kivo.wiki/images/students/若叶 日向/泳装/avatar.png",
+        "momotalk": "出差中，有事请随时留言！",
+        "name_en": "Hinata",
+        "name_jp": "ヒナタ（水着）",
+        "name_zh": "日向（泳装）",
+        "nicknames": [
+            "水日向"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20029": {
+        "kivo_id": 56,
+        "gamekee_id": 164191,
+        "avatar": "https://static.kivo.wiki/images/students/水羽 弥守/泳装/avatar.png",
+        "momotalk": "好像有什么好事要发生呢",
+        "name_en": "Mimori",
+        "name_jp": "ミモリ（水着）",
+        "name_zh": "弥守（泳装）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20030": {
+        "kivo_id": 154,
+        "gamekee_id": 578165,
+        "avatar": "https://static.kivo.wiki/images/students/黑馆 晴奈/体育服/avatar.png",
+        "momotalk": "来探索运动与美食之间的关系吧",
+        "name_en": "Haruna",
+        "name_jp": "ハルナ（体操服）",
+        "name_zh": "晴奈（体育服）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20031": {
+        "kivo_id": 227,
+        "gamekee_id": 161204,
+        "avatar": "https://static.kivo.wiki/images/students/间宵 时雨/温泉/avatar.png",
+        "momotalk": "若能连相思也一并饮尽",
+        "name_en": "Shigure",
+        "name_jp": "シグレ（温泉）",
+        "name_zh": "时雨（温泉）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20032": {
+        "kivo_id": 334,
+        "gamekee_id": 607106,
+        "avatar": "https://static.kivo.wiki/images/students/和泉元 艾米/泳装/avatar.png",
+        "momotalk": "不在",
+        "name_en": "Eimi",
+        "name_jp": "エイミ（水着）",
+        "name_zh": "艾米（泳装）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20033": {
+        "kivo_id": 115,
+        "gamekee_id": 611604,
+        "avatar": "https://static.kivo.wiki/images/students/羽沼 真琴/avatar.png",
+        "momotalk": "我才是格赫娜真正的领袖！",
+        "name_en": "Makoto",
+        "name_jp": "マコト",
+        "name_zh": "真琴",
+        "nicknames": [
+            "猴王"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20034": {
+        "kivo_id": 155,
+        "gamekee_id": 615923,
+        "avatar": "https://static.kivo.wiki/images/students/鳄渊 明里/正月/avatar.png",
+        "momotalk": "在新年踏上美食之旅吧♣",
+        "name_en": "Akari",
+        "name_jp": "アカリ（正月）",
+        "name_zh": "明里（正月）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20035": {
+        "kivo_id": 360,
+        "gamekee_id": 618557,
+        "avatar": "https://static.kivo.wiki/images/students/春日 椿/导游/avatar.png",
+        "momotalk": "虽然有些困，但……还得继续当导游……",
+        "name_en": "Tsubaki",
+        "name_jp": "ツバキ（ガイド）",
+        "name_zh": "椿（导游）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20036": {
+        "kivo_id": 59,
+        "gamekee_id": 161197,
+        "avatar": "https://static.kivo.wiki/images/students/黑见 芹香/泳装/avatar.png",
+        "momotalk": "度假中！！！！！！！",
+        "name_en": "Serika",
+        "name_jp": "セリカ（水着）",
+        "name_zh": "芹香（泳装）",
+        "nicknames": [
+            "水黑猫"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20037": {
+        "kivo_id": 376,
+        "gamekee_id": 617235,
+        "avatar": "https://static.kivo.wiki/images/students/合欢垣 吹雪/泳装/avatar.png",
+        "momotalk": "我的休假……在哪……",
+        "name_en": "Fubuki",
+        "name_jp": "フブキ（水着）",
+        "name_zh": "吹雪（泳装）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20038": {
+        "kivo_id": 388,
+        "gamekee_id": 69000,
+        "avatar": "https://static.kivo.wiki/images/students/佐城 智惠/旗袍/avatar.png",
+        "momotalk": "我正在散步，顺便休息一下。",
+        "name_en": "Tomoe",
+        "name_jp": "トモエ（チーパオ）",
+        "name_zh": "智惠（旗袍）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20039": {
+        "kivo_id": 61,
+        "gamekee_id": 68993,
+        "avatar": "https://static.kivo.wiki/images/students/龙华 妃咲/original/avatar.png",
+        "momotalk": "正心誠意",
+        "name_en": "kisaki",
+        "name_jp": "キサキ",
+        "name_zh": "妃咲",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20040": {
+        "kivo_id": 216,
+        "gamekee_id": 71740,
+        "avatar": "https://static.kivo.wiki/images/students/京极 皋月/original/Student_Portrait_CH0080_Collection.png",
+        "momotalk": "长期征集受试者 / 详情请咨询万魔殿",
+        "name_en": "Satsuki",
+        "name_jp": "サツキ",
+        "name_zh": "皋月",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20041": {
+        "kivo_id": 133,
+        "gamekee_id": 173927,
+        "avatar": "https://static.kivo.wiki/images/students/调月 莉音/original/Student_Portrait_CH0158_Collection.png",
+        "momotalk": "Tasklist",
+        "name_en": "Rio",
+        "name_jp": "リオ",
+        "name_zh": "莉音",
+        "nicknames": [
+            "毁灭菇"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "23000": {
+        "kivo_id": 10,
+        "gamekee_id": 66274,
+        "avatar": "https://static.kivo.wiki/images/students/栗村 爱莉/avatar.png",
+        "momotalk": "薄荷巧克力最棒了！",
+        "name_en": "Airi",
+        "name_jp": "アイリ",
+        "name_zh": "爱莉",
+        "nicknames": [
+            "冰淇淋"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "23001": {
+        "kivo_id": 97,
+        "gamekee_id": 64384,
+        "avatar": "https://static.kivo.wiki/images/students/爱清 枫香/avatar.png",
+        "momotalk": "希望能度过平安的一天，哪怕只有今天（ T_T ）",
+        "name_en": "Fuuka",
+        "name_jp": "フウカ",
+        "name_zh": "枫香",
+        "nicknames": [
+            "煮饭婆"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "23002": {
+        "kivo_id": 98,
+        "gamekee_id": 68915,
+        "avatar": "https://static.kivo.wiki/images/students/朝颜 花江/avatar.png",
+        "momotalk": "救护骑士团对所有人敞开大门！",
+        "name_en": "Hanae",
+        "name_jp": "ハナエ",
+        "name_zh": "花江",
+        "nicknames": [
+            "大护士"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "23003": {
+        "kivo_id": 160,
+        "gamekee_id": 67140,
+        "avatar": "https://static.kivo.wiki/images/students/小钩 晴/avatar.png",
+        "momotalk": "急事私敲",
+        "name_en": "Hare",
+        "name_jp": "ハレ",
+        "name_zh": "晴",
+        "nicknames": [
+            "小勾八"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "23004": {
+        "kivo_id": 185,
+        "gamekee_id": 67656,
+        "avatar": "https://static.kivo.wiki/images/students/白石 歌原/avatar.png",
+        "momotalk": "随时接受改造、修理的相关委托",
+        "name_en": "Utaha",
+        "name_jp": "ウタハ",
+        "name_zh": "歌原",
+        "nicknames": [
+            "炮台"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "23005": {
+        "kivo_id": 85,
+        "gamekee_id": 46923,
+        "avatar": "https://static.kivo.wiki/images/students/奥空 绫音/avatar.png",
+        "momotalk": "尊重常识的社团——对策委员会",
+        "name_en": "Ayane",
+        "name_jp": "アヤネ",
+        "name_zh": "绫音",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "23006": {
+        "kivo_id": 96,
+        "gamekee_id": 70511,
+        "avatar": "https://static.kivo.wiki/images/students/河和 静子/avatar.png",
+        "momotalk": "百夜堂好评如潮营业中！",
+        "name_en": "Shizuko",
+        "name_jp": "シズコ",
+        "name_zh": "静子",
+        "nicknames": [
+            "小车",
+            "老板娘"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "23007": {
+        "kivo_id": 92,
+        "gamekee_id": 77113,
+        "avatar": "https://static.kivo.wiki/images/students/浦和 花子/avatar.png",
+        "momotalk": "我喜欢形形色色的东西♪",
+        "name_en": "Hanako",
+        "name_jp": "ハナコ",
+        "name_zh": "花子",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "23008": {
+        "kivo_id": 99,
+        "gamekee_id": 90627,
+        "avatar": "https://static.kivo.wiki/images/students/伊落 玛丽/avatar.png",
+        "momotalk": "愿您平安顺遂",
+        "name_en": "Mari",
+        "name_jp": "マリー",
+        "name_zh": "玛丽",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "26000": {
+        "kivo_id": 117,
+        "gamekee_id": 58280,
+        "avatar": "https://static.kivo.wiki/images/students/火宫 千夏/avatar.png",
+        "momotalk": "丧失的扬弃（Aufheben）",
+        "name_en": "Chinatsu",
+        "name_jp": "チナツ",
+        "name_zh": "千夏",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "26001": {
+        "kivo_id": 212,
+        "gamekee_id": 67035,
+        "avatar": "https://static.kivo.wiki/images/students/音濑 小玉/avatar.png",
+        "momotalk": "我在看着你",
+        "name_en": "Kotama",
+        "name_jp": "コタマ",
+        "name_zh": "小玉",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "26002": {
+        "kivo_id": 186,
+        "gamekee_id": 63927,
+        "avatar": "https://static.kivo.wiki/images/students/牛牧 茱莉/avatar.png",
+        "momotalk": "今天也要努力练习烹饪！",
+        "name_en": "Juri",
+        "name_jp": "ジュリ",
+        "name_zh": "朱莉",
+        "nicknames": [
+            "毒锅"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "26003": {
+        "kivo_id": 91,
+        "gamekee_id": 66275,
+        "avatar": "https://static.kivo.wiki/images/students/鹫见 芹娜/avatar.png",
+        "momotalk": "身体不舒服的话，请随时联系我",
+        "name_en": "Serina",
+        "name_jp": "セリナ",
+        "name_zh": "芹娜",
+        "nicknames": [
+            "小护士"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "26004": {
+        "kivo_id": 194,
+        "gamekee_id": 66269,
+        "avatar": "https://static.kivo.wiki/images/students/圆堂 志美子/avatar.png",
+        "momotalk": "请在期限内归还书本。",
+        "name_en": "Shimiko",
+        "name_jp": "シミコ",
+        "name_zh": "志美子",
+        "nicknames": [
+            "图书妹"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "26005": {
+        "kivo_id": 118,
+        "gamekee_id": 66272,
+        "avatar": "https://static.kivo.wiki/images/students/伊原木 好美/avatar.png",
+        "momotalk": "#成长中",
+        "name_en": "Yoshimi",
+        "name_jp": "ヨシミ",
+        "name_zh": "好美",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "26006": {
+        "kivo_id": 119,
+        "gamekee_id": 75151,
+        "avatar": "https://static.kivo.wiki/images/students/天见 和香/avatar.png",
+        "momotalk": "一起去看星星吧！——★彡",
+        "name_en": "Nodoka",
+        "name_jp": "ノドカ",
+        "name_zh": "和香",
+        "nicknames": [
+            "望远镜"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "26007": {
+        "kivo_id": 47,
+        "gamekee_id": 160191,
+        "avatar": "https://static.kivo.wiki/images/students/奥空 绫音/泳装/avatar.png",
+        "momotalk": "该玩的时候就要好好玩！",
+        "name_en": "Ayane",
+        "name_jp": "アヤネ（水着）",
+        "name_zh": "绫音（泳装）",
+        "nicknames": [
+            "水绫音",
+            "直升机"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "26008": {
+        "kivo_id": 50,
+        "gamekee_id": 162572,
+        "avatar": "https://static.kivo.wiki/images/students/河和 静子/泳装/avatar.png",
+        "momotalk": "百夜堂连锁店绝赞营业中！",
+        "name_en": "Shizuko",
+        "name_jp": "シズコ（水着）",
+        "name_zh": "静子（泳装）",
+        "nicknames": [
+            "水静子",
+            "水静"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "26009": {
+        "kivo_id": 82,
+        "gamekee_id": 589650,
+        "avatar": "https://static.kivo.wiki/images/students/花冈 柚子/女仆/avatar.png",
+        "momotalk": "403 Forbidden",
+        "name_en": "Yuzu",
+        "name_jp": "ユズ（メイド）",
+        "name_zh": "柚子（女仆）",
+        "nicknames": [
+            "女仆柚",
+            "箱柚"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "26010": {
+        "kivo_id": 278,
+        "gamekee_id": 593097,
+        "avatar": "https://static.kivo.wiki/images/students/霞泽 美游/泳装/avatar.png",
+        "momotalk": "车到山前必有路",
+        "name_en": "Miyu",
+        "name_jp": "ミユ（水着）",
+        "name_zh": "美游（泳装）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "26011": {
+        "kivo_id": 317,
+        "gamekee_id": 130764,
+        "avatar": "https://static.kivo.wiki/images/students/佐天 泪子/avatar.png",
+        "momotalk": "如果看到了不可思议的东西，请联系我！",
+        "name_en": "Ruiko",
+        "name_jp": "佐天涙子",
+        "name_zh": "泪子",
+        "nicknames": [
+            "泪爷"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "26012": {
+        "kivo_id": 377,
+        "gamekee_id": 617236,
+        "avatar": "https://static.kivo.wiki/images/students/中务 桐乃/泳装/avatar.png",
+        "momotalk": "正在担当救生员！",
+        "name_en": "Kirino",
+        "name_jp": "キリノ（水着）",
+        "name_zh": "桐乃（泳装）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "26013": {
+        "kivo_id": 382,
+        "gamekee_id": 618996,
+        "avatar": "https://static.kivo.wiki/images/students/秤 亚津子/泳装/avatar.png",
+        "momotalk": "正在练习人像摄影",
+        "name_en": "Atsuko",
+        "name_jp": "アツコ（水着）",
+        "name_zh": "亚津子（泳装）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "26014": {
+        "kivo_id": 513,
+        "gamekee_id": 645822,
+        "avatar": "https://static.kivo.wiki/images/students/角楯 花凛/校服/Student_Portrait_CH0282_Collection.png",
+        "momotalk": "特殊任务执行中",
+        "name_en": "Karin",
+        "name_jp": "カリン（制服）",
+        "name_zh": "花凛（校服）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    }
+}

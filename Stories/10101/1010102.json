@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、この間は世話になった",
         "MessageKR": "선생, 저번 일은 고마웠다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，之前受你照顧了",
+        "MessageEN": "Thanks for the help"
     },
     {
         "MessageId": 101010070,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今日は会場の見回りをするんだが、一人では手が足りなそうでな……",
         "MessageKR": "오늘은 다른 일이 생겨서, 축제장을 조금 둘러볼 생각이다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天因為一些原因，我打算稍微逛一下慶典會場",
+        "MessageEN": "I have other business today, so I'm going to look around the festival."
     },
     {
         "MessageId": 101010071,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "よければ先生の力を借りられないだろうか？",
         "MessageKR": "혼자서는 조금 힘들 것 같아서, 도움을 요청하고 싶다만…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但我一個人不太方便，所以希望能請你幫忙……",
+        "MessageEN": "It might be tricky by myself, so if you're available to help again, by any chance..."
     },
     {
         "MessageId": 101010080,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "もちろん、手伝うよ",
         "MessageKR": "물론, 나는 환영이지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒問題，我很樂意",
+        "MessageEN": "Of course. I'd love to."
     },
     {
         "MessageId": 101010090,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "感謝する。では、会場の入口で待ち合わせしよう",
         "MessageKR": "고맙다. 그럼, 축제장 입구에서 기다리겠다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝。那我在慶典會場的入口等你",
+        "MessageEN": "Thanks. I'll meet you at the festival entrance."
     },
     {
         "MessageId": 101000107,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "先生、さっき録音した音を加工してみた",
         "MessageKR": "선생, 오늘 수집한 소리 샘플들을 시험해 봤다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，我剛才測試了一下今天收集到的錄音檔",
+        "MessageEN": "Sensei, I experimented on the sound samples I collected today."
     },
     {
         "MessageId": 101010110,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "中々良い出来かもしれない",
         "MessageKR": "다행히 괜찮은 작품이 나올 것 같아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我想應該能做出不錯的取樣片段",
+        "MessageEN": "I think I'll get something good out of it this time."
     },
     {
         "MessageId": 101010120,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "良かった！",
         "MessageKR": "그거 잘됐네!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "太好了！",
+        "MessageEN": "That's great!"
     },
     {
         "MessageId": 101010130,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "先生にもデータを送るから、聞いてみてくれ",
         "MessageKR": "어디",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我看看",
+        "MessageEN": "Let me see..."
     },
     {
         "MessageId": 101010140,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "（ファイルの送信に失敗しました）",
         "MessageKR": "(파일 전송에 실패하였습니다.)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "（檔案傳送失敗）",
+        "MessageEN": "(Failed to send file.)"
     },
     {
         "MessageId": 101010150,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "あ",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ahem"
     },
     {
         "MessageId": 101010151,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "そうか",
         "MessageKR": "이런",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "奇怪",
+        "MessageEN": "Oh no"
     },
     {
         "MessageId": 101010160,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "容量のせいで……",
         "MessageKR": "용량 문제인가…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是容量的問題嗎……",
+        "MessageEN": "Is it because of the file size?"
     },
     {
         "MessageId": 101010170,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "会場で直接聞くね",
         "MessageKR": "공연장에 직접 가서 듣는 것으로 할게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我直接去表演會場聽吧",
+        "MessageEN": "I'll listen to it in person at the Auditorium."
     },
     {
         "MessageId": 101010180,
@@ -207,7 +207,7 @@
         "ImagePath": "",
         "MessageJP": "あぁ、分かった",
         "MessageKR": "으음, 그래 주면 고맙겠다…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔嗯，如果你願意的話，我自然是求之不得……",
+        "MessageEN": "Um, I'd appreciate that..."
     }
 ]

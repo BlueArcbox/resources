@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Hey Sensei"
     },
     {
         "MessageId": 260130090,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今、忙しい？",
         "MessageKR": "혹시 바빠?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你現在忙嗎？",
+        "MessageEN": "You busy?"
     },
     {
         "MessageId": 260130100,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "時間ならあるよ",
         "MessageKR": "아냐, 지금 한가해.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不會，現在正好有空",
+        "MessageEN": "No, I'm quite free."
     },
     {
         "MessageId": 260130110,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "じゃあ、少し付き合ってくれる？",
         "MessageKR": "그럼 잠깐 어울려줘.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那可以請你陪我一下嗎？",
+        "MessageEN": "Then come along."
     },
     {
         "MessageId": 260130111,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "どうしても、撮りたいものが2つあって",
         "MessageKR": "꼭 찍고 싶은 게 두 가지 생겼거든.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我突然想到了兩樣非拍不可的東西",
+        "MessageEN": "There are two things I really want to take pictures of."
     },
     {
         "MessageId": 260130120,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "あ",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ahem"
     },
     {
         "MessageId": 260130121,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "今度はちゃんと、バッテリーを入れていくから",
         "MessageKR": "이번에는 확실히 배터리를 넣었으니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我這次有記得裝上電池哦",
+        "MessageEN": "This time, I definitely put the batteries inside."
     },
     {
         "MessageId": 260120127,

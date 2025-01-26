@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、こん",
         "MessageKR": "선생님 안",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，你",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 101020240,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "にちは、ヒヨリです",
         "MessageKR": "녕하세요 히요리에요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好，我是日和",
+        "MessageEN": "Hi, it's Hiyori."
     },
     {
         "MessageId": 101020250,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "こんにちは、ヒヨリ",
         "MessageKR": "안녕, 히요리.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗨，日和",
+        "MessageEN": "Hello, Hiyori."
     },
     {
         "MessageId": 101020260,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "実は、お話したいことがありまして",
         "MessageKR": "사실은 그게, 드릴 말씀이 있어서 연락드렸는데요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這次之所以聯絡老師，是因為有些話想跟你說",
+        "MessageEN": "I had something to tell you..."
     },
     {
         "MessageId": 101020270,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "先生、見えてますか？",
         "MessageKR": "선생님? 보고 계신가요??",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師？有看到嗎？",
+        "MessageEN": "Sensei? Are you there??"
     },
     {
         "MessageId": 101020280,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "（画像）",
         "MessageKR": "(사진)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "（照片）",
+        "MessageEN": "(Picture)"
     },
     {
         "MessageId": 101020281,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "（動画）",
         "MessageKR": "(동영상)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "（影片）",
+        "MessageEN": "(Video)"
     },
     {
         "MessageId": 101020282,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "（ヒヨリさんがクーポンをプレゼントしました）",
         "MessageKR": "(히요리 님이 쿠폰을 보내셨습니다.)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "（用戶「日和」向您發送了優惠券）",
+        "MessageEN": "(Hiyori sent you a coupon.)"
     },
     {
         "MessageId": 101020290,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "あれ……",
         "MessageKR": "어라…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦……",
+        "MessageEN": "Eh..."
     },
     {
         "MessageId": 101020291,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "「必ずモモトークを読んでもらう方法」、通じないんですか！？",
         "MessageKR": "<모모톡 무조건 읽게 하는 법>, 통하지 않는 건가요?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "難道「必定會讓對方查看MomoTalk的密技」根本不管用嗎！？",
+        "MessageEN": "Are MomoTalk's settings not working?"
     },
     {
         "MessageId": 101020300,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "落ち着いて、ヒヨリ。Wi-Fiのせいだから！",
         "MessageKR": "진정해, 히요리. 와이파이 때문이니까!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "日和你先冷靜，剛才是Wi-Fi的關係啦！",
+        "MessageEN": "It's probably just bad wi-fi."
     },
     {
         "MessageId": 101020310,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "あ、良かったです……",
         "MessageKR": "앗, 다행이네요…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，那就好……",
+        "MessageEN": "Oh, thank goodness..."
     },
     {
         "MessageId": 101020320,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "先生、今日の夕方、ビーチまで来ていただけませんか？",
         "MessageKR": "선생님, 오늘 저녁에 해변으로 와 주셨으면 해요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，今天傍晚能請你來海邊一趟嗎？",
+        "MessageEN": "Sensei, please come to the beach tonight"
     },
     {
         "MessageId": 101020321,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "理由は、まだ秘密ですが……！",
         "MessageKR": "이유는 비밀이에요……!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過理由必須保密……！",
+        "MessageEN": "I'll tell you why in person..."
     },
     {
         "MessageId": 101010337,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "今日は楽しかったです、先生……",
         "MessageKR": "오늘은 재밌었어요, 선생님…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我今天真的玩得很開心，老師……",
+        "MessageEN": "I had fun today, Sensei..."
     },
     {
         "MessageId": 101020340,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "少し予想外のこともありましたけど……",
         "MessageKR": "계획이 조금 틀어지기는 했지만…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然計畫出了點差錯……",
+        "MessageEN": "Although my plans did go sideways..."
     },
     {
         "MessageId": 101020350,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "私もヒヨリのおかげで楽しかったよ",
         "MessageKR": "히요리 덕분에 즐거웠는걸.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "多虧了日和，我今天也很開心哦",
+        "MessageEN": "It was fun."
     },
     {
         "MessageId": 101020360,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "えへへ、良かったです……",
         "MessageKR": "헤헤…… 다행이네요…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "耶嘿嘿……太好了……",
+        "MessageEN": "Heehee... I'm glad to hear that..."
     },
     {
         "MessageId": 101020370,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "わ",
         "MessageKR": "저",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我",
+        "MessageEN": "I"
     },
     {
         "MessageId": 101020371,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "私も楽しかったです",
         "MessageKR": "저도 즐거웠어요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我也很開心",
+        "MessageEN": "I had fun too"
     },
     {
         "MessageId": 101020380,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "先生と一緒に遊んだ花火……",
         "MessageKR": "선생님이랑 불꽃놀이 한 거……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "和老師一起放煙火……",
+        "MessageEN": "How I set off the fireworks with you, Sensei..."
     },
     {
         "MessageId": 101020390,
@@ -291,7 +291,7 @@
         "ImagePath": "",
         "MessageJP": "……忘れられない思い出になりました",
         "MessageKR": "잊지 못할 추억이 될 것 같아요…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "肯定會成為我永生難忘的回憶……",
+        "MessageEN": "I'm never going to forget it."
     }
 ]
