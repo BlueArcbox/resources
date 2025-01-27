@@ -87,6 +87,7 @@ class KivoStudent:
     name_en: str
     name_zh: str
     nicknames: list[str]
+    sticker_download_flag: list[bool]
 
 
 @dataclass(frozen=True)
@@ -97,7 +98,11 @@ class Student:
     Bio: LocalizedText
     Nickname: list[str]
     Birthday: str
+    Age: str
     School: str
+    Club: str
+    Star: int
+    Released: bool
     Related: Optional[Any]
 
 
@@ -115,6 +120,9 @@ class StudentSyncGithub:
         self.raw_data: dict[str, list[dict[str, Any]]] = {}
         self.ordering: list[int] = []
         self.school_table: dict[int, str] = {}
+        self.club_table: dict[int, str] = {}
+        self.star_table: dict[int, int] = {}
+        self.age_table: dict[int, str] = {}
         self.name_table: dict[int, dict[str, str]] = {}
         self.status_message_table: dict[int, dict[str, str]] = {}
         self.results: dict[int, Student] = {}
@@ -139,6 +147,15 @@ class StudentSyncGithub:
 
         logger.info("📝 Building status messages...")
         self.build_status_message()
+        
+        logger.info("📝 Building club...")
+        self.build_club()
+
+        logger.info("📝 Building star...")
+        self.build_star()
+
+        logger.info("📝 Building age...")
+        self.build_age()
 
         logger.info("📝 Merging localization data...")
         self.merge_localization()
@@ -229,6 +246,30 @@ class StudentSyncGithub:
             for item in self.raw_data["character_jp"]
             if item["TacticEntityType"] == "Student"
         }
+    
+    def build_club(self):
+        """Build club mapping from JP server data."""
+        self.club_table = {
+            item["Id"]: item["Club"]
+            for item in self.raw_data["character_jp"]
+            if item["TacticEntityType"] == "Student"
+        }
+    
+    def build_star(self):
+        """Build star mapping from JP server data."""
+        self.star_table = {
+            item["Id"]: item["DefaultStarGrade"]
+            for item in self.raw_data["character_jp"]
+            if item["TacticEntityType"] == "Student"
+        }
+        
+    def build_age(self):
+        """Build age mapping from JP server data."""
+        self.age_table = {
+            item["CharacterId"]: item["CharacterAgeJp"]
+            for item in self.raw_data["profile_jp"]
+            if item["CharacterAgeJp"]
+        }
 
     def build_name(self):
         """Build name tables from both JP and Global server data."""
@@ -303,7 +344,11 @@ class StudentSyncGithub:
                             "Bio": self.status_message_table[id],
                             "Nickname": [],  # manual
                             "Birthday": item["BirthDay"],
+                            "Age": self.age_table[id],
                             "School": self.school_table[id],
+                            "Club": self.club_table[id],
+                            "Star": self.star_table[id],
+                            "Released": True,
                             "Related": None,  # manual
                         }
                     }
@@ -473,6 +518,7 @@ if __name__ == "__main__":
 
         # Process each student
         for item in student_list:
+            if item["Id"] == 10099: continue ## 临战星野盾形态
             target_item = find_first(item["Id"])
             student_id = item["Id"]
             student_name = item["Name"]["jp"]

@@ -1,5 +1,2365 @@
 [
     {
+        "Id": 104,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Arona.webp",
+            "/gamekee/w_252/h_204/829/43637/2022/6/2/909433.png",
+            "/api/Avatars/Fandom/Arona_Icon.png"
+        ],
+        "Name": {
+            "en": "Arona",
+            "jp": "アロナ",
+            "kr": "아로나",
+            "tw": "彩奈",
+            "zh": "阿罗娜"
+        },
+        "Bio": {
+            "en": "I can't eat this much...",
+            "jp": "そんなに食べられません…",
+            "kr": "이렇게 많이 먹을 수 없어...",
+            "tw": "吃不下這麼多了……",
+            "zh": "吃不下这么多了……"
+        },
+        "Nickname": [
+            "Arona",
+            "阿罗娜",
+            "彩奈",
+            "蓝色恶魔"
+        ],
+        "School": "SCHALE",
+        "Club": "Shittim Chest",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 173,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Purana.webp",
+            "/api/Avatars/Fandom/A.R.O.N.A_Icon.png"
+        ],
+        "Name": {
+            "en": "Purana",
+            "jp": "プラナ",
+            "kr": "A.R.O.N.A",
+            "tw": "星奈",
+            "zh": "普拉娜"
+        },
+        "Bio": {
+            "en": "Senpai, it's time to wake up",
+            "jp": "先輩、そろそろ起きないと",
+            "kr": "선배, 일어나야 해",
+            "tw": "前輩，該起床了",
+            "zh": "前辈，该起床了"
+        },
+        "Nickname": [
+            "Purana",
+            "A.R.O.N.A",
+            "普拉娜",
+            "星奈"
+        ],
+        "School": "SCHALE",
+        "Club": "Shittim Chest",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 105,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Sora.webp",
+            "/api/Avatars/Fandom/Sora_Icon.png"
+        ],
+        "Name": {
+            "en": "Sora",
+            "jp": "ソラ",
+            "kr": "소라",
+            "tw": "空",
+            "zh": "空"
+        },
+        "Bio": {
+            "en": "W-welcome!",
+            "jp": "い、い、いっらしゃいませ！",
+            "kr": "어, 어서오세요!",
+            "tw": "歡、歡迎光臨！",
+            "zh": "欢、欢迎光临！"
+        },
+        "Nickname": [
+            "Sora",
+            "额头",
+            "天使24",
+            "便利店"
+        ],
+        "School": "SCHALE",
+        "Club": "Angel 24",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 917,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/President.webp",
+            "/api/Avatars/Fandom/GSC_President_Icon.png"
+        ],
+        "Name": {
+            "en": "GSC President",
+            "jp": "連邦生徒会長",
+            "kr": "총학생회장",
+            "tw": "聯邦學生會長",
+            "zh": "联邦学生会会长"
+        },
+        "Bio": {
+            "en": "Find the choices that lead us to a new reality",
+            "jp": "新しい現実に導く選択を見つける",
+            "kr": "새로운 현실로 이끌어주는 선택을 찾아라",
+            "tw": "找到引領我們走向新現實的選擇",
+            "zh": "找到引导我们走向新现实的选择"
+        },
+        "Nickname": [
+            "President",
+            "联邦学生会长"
+        ],
+        "School": "SCHALE",
+        "Club": "General Student Council",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 183,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Rin.webp",
+            "/api/Avatars/Fandom/Rin_Icon.png",
+            "/api/Avatars/Fandom/Rin_Ark_Uniform_Icon.png"
+        ],
+        "Name": {
+            "en": "Rin",
+            "jp": "リン",
+            "kr": "린",
+            "tw": "琳",
+            "zh": "凛"
+        },
+        "Bio": {
+            "en": "It's all up to you now, sensei",
+            "jp": "今からは、あなたにかかっています、先生",
+            "kr": "지금부터 모든 것은 당신에게 달려 있습니다, 선생님",
+            "tw": "從現在開始，全靠您了，老師",
+            "zh": "从现在开始，全靠您了，老师"
+        },
+        "Nickname": [
+            "Rin",
+            "琳"
+        ],
+        "Birthday": "11/1",
+        "School": "SCHALE",
+        "Club": "General Student Council",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 184,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Momoka.webp",
+            "/api/Avatars/Fandom/Momoka_Icon.png",
+            "/api/Avatars/Fandom/Momoka_Ark_Uniform_Icon.png"
+        ],
+        "Name": {
+            "en": "Momoka",
+            "jp": "モモカ",
+            "kr": "모모카",
+            "tw": "桃香",
+            "zh": "桃香"
+        },
+        "Bio": {
+            "en": "My lunch delivery has arrived, so I'll contact you again!",
+            "jp": "デリバリーが届きました、後で連絡します！",
+            "kr": "내 점심 배달이 도착했어, 다시 연락할게!",
+            "tw": "我的外賣到了，稍後再聯絡你！",
+            "zh": "我的外卖到了，一会儿再联系你！"
+        },
+        "Nickname": [
+            "Momoka",
+            "明太子",
+            "毛毛力"
+        ],
+        "School": "SCHALE",
+        "Club": "General Student Council",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 169,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Kaya.webp",
+            "/api/Avatars/Fandom/Kaya_Icon.png"
+        ],
+        "Name": {
+            "en": "Kaya",
+            "jp": "カヤ",
+            "kr": "카야",
+            "tw": "卡娅",
+            "zh": "花耶"
+        },
+        "Bio": {
+            "en": "Who cares about the rules, am I right!?",
+            "jp": "ルールなんて気にしないよ",
+            "kr": "규칙이 뭐야, 그런 거 아니잖아!?",
+            "tw": "誰在乎規則，對吧！?",
+            "zh": "谁在乎规则，对吧！?"
+        },
+        "Nickname": [
+            "Kaya",
+            "卡娅",
+            "大花老师",
+            "花小将"
+        ],
+        "School": "SCHALE",
+        "Club": "General Student Council",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 168,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Ayumu.webp",
+            "/api/Avatars/Fandom/Ayumu_Icon.png",
+            "/api/Avatars/Fandom/Ayumu_Ark_Uniform_Icon.png"
+        ],
+        "Name": {
+            "en": "Ayumu",
+            "jp": "アユム",
+            "kr": "아유무",
+            "tw": "步美",
+            "zh": "步美"
+        },
+        "Bio": {
+            "en": "I want to be able to do work more like Sensei...",
+            "jp": "私も先生のように仕事ができる…",
+            "kr": "선생님처럼 일을 할 수 있기를 바래요...",
+            "tw": "我希望能夠像老師一樣工作……",
+            "zh": "我希望能够像老师一样工作……"
+        },
+        "Nickname": [
+            "Ayumu",
+            "20钻"
+        ],
+        "School": "SCHALE",
+        "Club": "General Student Council",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 171,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Aoi.webp",
+            "/api/Avatars/Fandom/Aoi_Icon.png"
+        ],
+        "Name": {
+            "en": "Aoi",
+            "jp": "アオイ",
+            "kr": "아오이",
+            "tw": "葵",
+            "zh": "葵"
+        },
+        "Bio": {
+            "en": "But you're not her, Rin. Never will be.",
+            "jp": "君は彼女じゃない、リン。永遠に",
+            "kr": "너는 그녀가 아니야, 린. 절대 아니야.",
+            "tw": "但你不是她，琳。永遠不是",
+            "zh": "但你不是她，凛。永远不是"
+        },
+        "Nickname": [
+            "Aoi"
+        ],
+        "School": "SCHALE",
+        "Club": "General Student Council",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 275,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Haine.webp",
+            "/api/Avatars/Fandom/Haine_Icon.png"
+        ],
+        "Name": {
+            "en": "Haine",
+            "jp": "ハイネ",
+            "kr": "하이네",
+            "tw": "海因",
+            "zh": "灰音"
+        },
+        "Bio": {
+            "en": "That fox was absolutely ruthless!",
+            "jp": "あのキツネは容赦がなかった！",
+            "kr": "그 여우는 절대 용서하지 않았어!",
+            "tw": "那隻狐狸真是冷酷無情！",
+            "zh": "那只狐狸真是冷酷无情！"
+        },
+        "Nickname": [
+            "Haine",
+            "海因"
+        ],
+        "School": "SCHALE",
+        "Club": "General Student Council",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 276,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Sumomo.webp",
+            "/api/Avatars/Fandom/Sumomo_Icon.png"
+        ],
+        "Name": {
+            "en": "Sumomo",
+            "jp": "スモモ",
+            "kr": "스모모",
+            "tw": "李",
+            "zh": "李"
+        },
+        "Bio": {
+            "en": "Fwahh~... I'm too sleepy to eat onigiri~",
+            "jp": "ふわぁ〜…おにぎり食べるのも眠すぎる〜",
+            "kr": "후아아~... 밥도 먹을 맘이 안 돼...",
+            "tw": "哈啊~… 我困得吃不下飯糰了~",
+            "zh": "哈啊~… 我困得吃不下饭团了~"
+        },
+        "Nickname": [
+            "Sumomo"
+        ],
+        "School": "SCHALE",
+        "Club": "General Student Council",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 288,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Yume.webp",
+            "/api/Avatars/Kivo/Unreleased/Yume_2.webp",
+            "/api/Avatars/Fandom/Hoshino_Past_2.png",
+            "/api/Avatars/Fandom/Yume_Icon.png"
+        ],
+        "Name": {
+            "en": "Yume",
+            "jp": "ユメ",
+            "kr": "몽",
+            "tw": "夢",
+            "zh": "梦"
+        },
+        "Bio": {
+            "en": "...Spending time with you feels like a miracle",
+            "jp": "…君と過ごす時間は奇跡",
+            "kr": "...당신과 함께 시간을 보내는 것은 奇蹟이야",
+            "tw": "…與你共度時光感覺像是一個奇蹟",
+            "zh": "…与你共度时光感觉像是一个奇迹"
+        },
+        "Nickname": [
+            "Yume"
+        ],
+        "School": "Abydos",
+        "Club": "Abydos Student Council",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 380,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Hoshino_Terror.webp",
+            "/api/Avatars/Fandom/Hoshino_Terror_Icon.png"
+        ],
+        "Name": {
+            "en": "Hoshino(Terror)",
+            "jp": "ホシノ＊テラー",
+            "kr": "호시노(테라)",
+            "tw": "星野*恐怖",
+            "zh": "星野*恐怖"
+        },
+        "Bio": {
+            "en": "Notebook... Notebook...",
+            "jp": "ノートブック... ノートブック...",
+            "kr": "노트북... 노트북...",
+            "tw": "筆記本... 筆記本...",
+            "zh": "笔记本... 笔记本..."
+        },
+        "Nickname": [
+            "Hoshino_Terror"
+        ],
+        "Birthday": "1/2",
+        "Age": "16歳",
+        "School": "Abydos",
+        "Club": "Countermeasure",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 159,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Erika.webp",
+            "/api/Avatars/Fandom/Erika_Icon.png"
+        ],
+        "Name": {
+            "en": "Erika",
+            "jp": "エリカ",
+            "kr": "에리카",
+            "tw": "繪里香",
+            "zh": "绘里香"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Erika",
+            "艾丽卡",
+            "绘梨香"
+        ],
+        "Birthday": "2/1",
+        "Age": "16歳",
+        "School": "Gehenna",
+        "Club": "ShinySparkleSociety",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 515,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Mirai.webp"
+        ],
+        "Name": {
+            "en": "Mirai",
+            "jp": "ミライ",
+            "kr": "미라이",
+            "tw": "未來",
+            "zh": "未来"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Mirai"
+        ],
+        "School": "Millennium",
+        "Club": "Pseudosciences Department",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 342,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Rei.webp",
+            "/gamekee/w_500/h_500/829/43637/2023/11/28/827199.png"
+        ],
+        "Name": {
+            "en": "Rei",
+            "jp": "レイ",
+            "kr": "레이",
+            "tw": "莉",
+            "zh": "莱依"
+        },
+        "Bio": {
+            "en": "Want strength for long hits, not cardio!",
+            "jp": "長打に強さが欲しい、カーディオ耐久ではない！",
+            "kr": "장타에 강함이 필요하지, 심폐 운동이 아니야!",
+            "tw": "想要遠距離擊球的力量，而不是心肺耐力！",
+            "zh": "想要远距离击球的力量，而不是心肺耐力！"
+        },
+        "Nickname": [
+            "Rei",
+            "丽"
+        ],
+        "School": "Millennium",
+        "Club": "Gym Training Department",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 126,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Niya.webp",
+            "/api/Avatars/Fandom/Niya_Icon.png"
+        ],
+        "Name": {
+            "en": "Niya",
+            "jp": "ニヤ",
+            "kr": "니야",
+            "tw": "尼亞",
+            "zh": "尼娅"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Niya",
+            "妮娅"
+        ],
+        "School": "Hyakkiyako",
+        "Club": "Onmyobu",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 386,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Niyaniya.webp",
+            "/gamekee/w_550/h_550/829/399789/2024/6/23/195633.png"
+        ],
+        "Name": {
+            "en": "Professor Smug",
+            "jp": "ニヤニヤ教授",
+            "kr": "히죽히죽 교수",
+            "tw": "笑眯眯教授",
+            "zh": "微笑教授"
+        },
+        "Bio": {
+            "en": "Your potential was considered... but if it failed, only reason is...",
+            "jp": "潜在能力は考慮された... しかし、失敗したら唯一の理由がある",
+            "kr": "잠재력은 고려되었습니다... 그러나 실패하면 유일한 이유가 있습니다.",
+            "tw": "你的潛力被充分考慮了... 但如果失敗了那只有一個原因",
+            "zh": "你的潜力被充分考虑了... 但如果失败了那只有一个原因"
+        },
+        "Nickname": [
+            "Niyaniya",
+            "眯眯眼教授",
+            "笑面教授",
+            "笑笑教授",
+            "笑眯眯教授",
+            "尼亚尼亚教授",
+            "Smiling Professor",
+            "Dr. Niyaniya"
+        ],
+        "School": "Hyakkiyako",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 254,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Nagusa.webp",
+            "/api/Avatars/Fandom/Nagusa_Icon.png"
+        ],
+        "Name": {
+            "en": "Nagusa",
+            "jp": "ナグサ",
+            "kr": "나구사",
+            "tw": "名草",
+            "zh": "名草"
+        },
+        "Bio": {
+            "en": "Cosplayer, go to the ends of the earth for the perfect shot",
+            "jp": "完璧なショットのために",
+            "kr": "코스플레이어, 완벽한 촬영을 위해 끝없는 세계를 돌아다닌다",
+            "tw": "Cosplayer，鏡頭下走遍天涯海角",
+            "zh": "cosplayer、为镜头到天涯海角"
+        },
+        "Nickname": [
+            "Nagusa",
+            "白色三角形"
+        ],
+        "School": "Hyakkiyako",
+        "Club": "Hyakkayouran",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 174,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Kuzunoha.webp",
+            "/api/Avatars/Fandom/Kuzunoha_Icon.png"
+        ],
+        "Name": {
+            "en": "Kuzunoha",
+            "jp": "クズノハ",
+            "kr": "쿠즈노하",
+            "tw": "葛葉",
+            "zh": "葛叶"
+        },
+        "Bio": {
+            "en": "But your luck is far from ordinary. Because you've met me",
+            "jp": "君は私に出会ったからだね",
+            "kr": "그러나 당신의 운은 평범하지 않습니다. 당신이 나를 만났기 때문이죠",
+            "tw": "但你的運氣可真不一般，因為你遇見了我",
+            "zh": "但你的运气绝非寻常。因为你遇见了我"
+        },
+        "Nickname": [
+            "Kuzunoha"
+        ],
+        "School": "Hyakkiyako",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 331,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Kokuriko.webp",
+            "/api/Avatars/Fandom/Kokuriko_Icon.png"
+        ],
+        "Name": {
+            "en": "Kokuriko",
+            "jp": "コクリコ",
+            "kr": "코쿠리코",
+            "tw": "雛罌粟",
+            "zh": "虞美人"
+        },
+        "Bio": {
+            "en": "Together, let's write our story and set the world on fire!",
+            "jp": "一緒に、私たちの物語を書き、世界を燃やしましょう！",
+            "kr": "함께 우리의 이야기를 쓰고 세상을 태우자!",
+            "tw": "讓我們一起寫下我們的故事，將這個世界點燃！",
+            "zh": "让我们一起写下我们的故事，将这个世界点燃！"
+        },
+        "Nickname": [
+            "Kokuriko"
+        ],
+        "School": "Hyakkiyako",
+        "Club": "Nature's Beauty Club",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 321,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Shuro.webp",
+            "/api/Avatars/Fandom/Shuro_Icon.png"
+        ],
+        "Name": {
+            "en": "Shuro",
+            "jp": "シュロ",
+            "kr": "수로",
+            "tw": "棕櫚",
+            "zh": "棕榈"
+        },
+        "Bio": {
+            "en": "Excellent! That expression... it truly is irresistible.",
+            "jp": "素晴らしい！この表現が……たまりません",
+            "kr": "멋지다! 이 표현이……너무 매력적이야",
+            "tw": "太棒了！這個表達... 真讓人難以抗拒",
+            "zh": "太棒了！这个表达... 真让人难以抗拒"
+        },
+        "Nickname": [
+            "Shuro",
+            "修罗"
+        ],
+        "School": "Hyakkiyako",
+        "Club": "Nature's Beauty Club",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 322,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Arata.webp",
+            "/api/Avatars/Fandom/Arata_Icon.png"
+        ],
+        "Name": {
+            "en": "Arata",
+            "jp": "アラタ",
+            "kr": "아라타",
+            "tw": "新",
+            "zh": "新"
+        },
+        "Bio": {
+            "en": "No mistake this time!",
+            "jp": "今回は間違いない！",
+            "kr": "이번에는 절대 틀리지 않아!",
+            "tw": "這次絕對沒錯！",
+            "zh": "这次绝对没错！"
+        },
+        "Nickname": [
+            "Arata"
+        ],
+        "School": "Hyakkiyako",
+        "Club": "Street Ghost Troupe",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 270,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Kai.webp",
+            "/api/Avatars/Fandom/Kai_Icon.png"
+        ],
+        "Name": {
+            "en": "Kai",
+            "jp": "カイ",
+            "kr": "카이",
+            "tw": "誡",
+            "zh": "海"
+        },
+        "Bio": {
+            "en": "What kind of chemical reaction will form when we meet",
+            "jp": "どのような化学反応が起こるのか、出会った時に",
+            "kr": "우리가 만났을 때 어떤 화학 반응이 일어날지 기대해요",
+            "tw": "期待我們相遇會發生怎樣的化學反應",
+            "zh": "期待我们相遇会发生怎样的化学反应"
+        },
+        "Nickname": [
+            "Kai",
+            "廻"
+        ],
+        "School": "Shanhaijing",
+        "Club": "Seven Prisoners",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 390,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Kaguya.webp",
+            "/api/Avatars/Fandom/Kaguya_Icon.png",
+            "/api/Avatars/Fandom/Kaguya_Icon_Var_2.png",
+            "/api/Avatars/Fandom/Kaguya_Masked_Icon.png"
+        ],
+        "Name": {
+            "en": "kaguya",
+            "jp": "カグヤ",
+            "kr": "카구야",
+            "tw": "輝夜",
+            "zh": "辉夜"
+        },
+        "Bio": {
+            "en": "I've made it to the top!",
+            "jp": "トップに到達しました！",
+            "kr": "톱에 도달했어요!",
+            "tw": "我已經登頂了！",
+            "zh": "我已经登顶了！"
+        },
+        "Nickname": [
+            "Kaguya"
+        ],
+        "School": "Shanhaijing",
+        "Club": "Peking Opera Club",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 308,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Takane.webp",
+            "/api/Avatars/Fandom/Takane_Icon.png"
+        ],
+        "Name": {
+            "en": "Takane",
+            "jp": "タカネ",
+            "kr": "타카네",
+            "tw": "貴音",
+            "zh": "贵音"
+        },
+        "Bio": {
+            "en": "...I'm also one of the critics,...",
+            "jp": "……私も評論家です……",
+            "kr": "……나도 평론가예요……",
+            "tw": "...我也是評論家...",
+            "zh": "...我也是一个评论家..."
+        },
+        "Nickname": [
+            "Takane"
+        ],
+        "School": "RedWinter",
+        "Club": "Publishing Department",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 309,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Yakumo.webp",
+            "/api/Avatars/Fandom/Yakumo_Icon.png"
+        ],
+        "Name": {
+            "en": "Yakumo",
+            "jp": "ヤクモ",
+            "kr": "야쿠모",
+            "tw": "八雲",
+            "zh": "八云"
+        },
+        "Bio": {
+            "en": "Publishing Dept. - Books are our business! -Aramaki Yakumo",
+            "jp": "出版部 - 書は我々の商売！ - 新海 八雲",
+            "kr": "출판부 - 책은 우리의 사업! - 신카이 야쿠모",
+            "tw": "出版部 - 書是我们的業務！ - 新海 八雲",
+            "zh": "出版部 - 书是我们的业务！ - 新海 八云"
+        },
+        "Nickname": [
+            "Yakumo"
+        ],
+        "School": "RedWinter",
+        "Club": "Publishing Department",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 964,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Yukino.webp",
+            "/api/Avatars/Fandom/Yukino_Icon.png"
+        ],
+        "Name": {
+            "en": "Yukino",
+            "jp": "ユキノ",
+            "kr": "유키노",
+            "tw": "雪乃",
+            "zh": "雪乃"
+        },
+        "Bio": {
+            "en": "Weapons do not decide what's right or wrong",
+            "jp": "武器は正しさを決めない",
+            "kr": "무기는 옳고 그른 것을 결정하지 않는다",
+            "tw": "武器不能決定對錯",
+            "zh": "武器不能决定对错"
+        },
+        "Nickname": [
+            "Yukino"
+        ],
+        "Birthday": "10/13",
+        "School": "SRT",
+        "Club": "FOX Platoon",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 965,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Niko.webp",
+            "/api/Avatars/Fandom/Niko_Icon.png"
+        ],
+        "Name": {
+            "en": "Niko",
+            "jp": "ニコ",
+            "kr": "니코",
+            "tw": "妮可",
+            "zh": "妮可"
+        },
+        "Bio": {
+            "en": "Come get delicious, delicious Oinari-san, right here~",
+            "jp": "おいしい稲荷寿司がありますよ、こちら～",
+            "tw": "有好吃的稻荷壽司哦，這里~",
+            "zh": "有好吃的稻荷寿司哦，这里~"
+        },
+        "Nickname": [
+            "Niko",
+            "仁子"
+        ],
+        "School": "SRT",
+        "Club": "FOX Platoon",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 966,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Kurumi.webp",
+            "/api/Avatars/Fandom/Kurumi_Icon.png"
+        ],
+        "Name": {
+            "en": "Kurumi",
+            "jp": "オトギ",
+            "kr": "쿠루미",
+            "tw": "胡桃",
+            "zh": "胡桃"
+        },
+        "Bio": {
+            "en": "I don't want your egg inarizushi! Salmon roe is better!",
+            "jp": "稲荷寿司はいらない！イクラの方がいい！",
+            "tw": "不要稻荷壽司！要鮭魚子壽司！",
+            "zh": "不要稻荷寿司！要鲑鱼子寿司！"
+        },
+        "Nickname": [
+            "Kurumi"
+        ],
+        "School": "SRT",
+        "Club": "FOX Platoon",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 967,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Otogi.webp",
+            "/api/Avatars/Fandom/Otogi_Icon.png"
+        ],
+        "Name": {
+            "en": "Otogi",
+            "jp": "クルミ",
+            "kr": "오토기",
+            "tw": "音葵",
+            "zh": "音葵"
+        },
+        "Bio": {
+            "en": "It's like the cute sniper makes a mistake because of too many enemies...",
+            "jp": "可愛いスナイパーが敵が多すぎてミスするような…",
+            "tw": "這就像可愛的狙擊手因為敵人太多而犯的錯",
+            "zh": "这就像可爱的狙击手因为敌人太多而犯的错"
+        },
+        "Nickname": [
+            "Otogi"
+        ],
+        "School": "SRT",
+        "Club": "FOX Platoon",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 378,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Konoka.webp"
+        ],
+        "Name": {
+            "en": "Konoka",
+            "jp": "コノカ",
+            "kr": "코노카",
+            "tw": "木乃香",
+            "zh": "心华"
+        },
+        "Bio": {
+            "en": "So, what can I do for you?",
+            "jp": "なにかお手伝いできますか？",
+            "kr": "무슨 일을 도와드릴까요?",
+            "tw": "有什麼事需要我幫忙嗎？",
+            "zh": "有什么事需要我帮忙吗？"
+        },
+        "Nickname": [
+            "Konoka",
+            "木乃香",
+            "心华"
+        ],
+        "School": "Valkyrie",
+        "Club": "PublicPeaceBureau",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 165,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Mai.webp",
+            "/api/Avatars/Fandom/Mai_Icon.png"
+        ],
+        "Name": {
+            "en": "Mai",
+            "jp": "マイ",
+            "kr": "마이",
+            "tw": "麻衣",
+            "zh": "舞"
+        },
+        "Bio": {
+            "en": "Kivotos Monthly only sticks to the facts!",
+            "jp": "事実だけを追求します！",
+            "tw": "基沃托斯月刊只堅持事實！",
+            "zh": "鸡窝托斯月刊只坚持事实！"
+        },
+        "Nickname": [
+            "Mai",
+            "麦",
+            "麻衣"
+        ],
+        "School": "Kronos",
+        "Club": "Kronos News Club",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 193,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Shinon.webp",
+            "/api/Avatars/Fandom/Shinon_Icon.png"
+        ],
+        "Name": {
+            "en": "Shinon",
+            "jp": "シノン",
+            "kr": "시논",
+            "tw": "詩乃",
+            "zh": "诗乃"
+        },
+        "Bio": {
+            "en": "Idol reporter of Kronos School's News Club, Kawaru Shinon!",
+            "jp": "クロノス学園のアイドル記者、シノンです！",
+            "tw": "克羅諾斯學園新聞部的偶像記者，詩乃！",
+            "zh": "克罗诺斯学园新闻部的偶像记者，诗乃！"
+        },
+        "Nickname": [
+            "Shinon",
+            "志乃"
+        ],
+        "School": "Kronos",
+        "Club": "Kronos News Club",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 253,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Akira.webp",
+            "/api/Avatars/Fandom/Akira_Icon.png"
+        ],
+        "Name": {
+            "en": "Akira",
+            "jp": "アキラ",
+            "kr": "아키라",
+            "tw": "晶",
+            "zh": "晶"
+        },
+        "Bio": {
+            "en": "Hidden myself behind a mask...",
+            "jp": "マスクの奥に隠れて...",
+            "kr": "마스크 뒤에 숨어있어...",
+            "tw": "藏於面具之後...",
+            "zh": "藏于面具之后..."
+        },
+        "Nickname": [
+            "Akira"
+        ],
+        "Club": "Seven Prisoners",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 385,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Akemi.webp",
+            "/gamekee/w_550/h_550/829/399789/2024/6/23/431433.png"
+        ],
+        "Name": {
+            "en": "Akemi",
+            "jp": "アケミ",
+            "kr": "아케미",
+            "tw": "明美",
+            "zh": "明美"
+        },
+        "Bio": {
+            "en": "Uhuhu, it's a beautiful night, everyone.",
+            "jp": "うふふ、美しい夜ですね、みんな",
+            "tw": "嗚呼，這是一個美麗的夜晚，大家。",
+            "zh": "呜呼，这是一个美丽的夜晚，大家。"
+        },
+        "Nickname": [
+            "Akemi",
+            "姐贵"
+        ],
+        "Club": "Seven Prisoners",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 365,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Hikari.webp",
+            "/api/Avatars/Fandom/Hikari_Icon.png",
+            "/gamekee/w_550/h_550/829/43637/2024/3/11/529345.png"
+        ],
+        "Name": {
+            "en": "Hikari",
+            "jp": "ヒカリ",
+            "kr": "히카리",
+            "tw": "光明",
+            "zh": "光"
+        },
+        "Bio": {
+            "en": "Construction is smooth, but administration is... Meh",
+            "jp": "工事はうまくいきましたが、管理が……ですね",
+            "kr": "공사는 잘 됐지만, 관리는... 아니라고",
+            "tw": "施工順利，不過管理嘛...哼",
+            "zh": "施工顺利，不过管理嘛...哼"
+        },
+        "Nickname": [
+            "Hikari",
+            "蜜瓜雪糕",
+            "光明",
+            "小光"
+        ],
+        "School": "Highlander",
+        "Club": "Central Control Center",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 366,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Nozomi.webp",
+            "/api/Avatars/Fandom/Nozomi_Icon.png",
+            "/gamekee/w_550/h_550/829/43637/2024/3/11/736958.png"
+        ],
+        "Name": {
+            "en": "Nozomi",
+            "jp": "ノゾミ",
+            "kr": "노조미",
+            "tw": "希望",
+            "zh": "望"
+        },
+        "Bio": {
+            "en": "Pyahaha~ Don't mind don't mind. ",
+            "jp": "ぴゃはは~ 気にしない、気にしない",
+            "kr": "피아하하~ 신경 쓰지 마세요, 신경 쓰지 마세요",
+            "tw": "哈哈~ 別在意別在意",
+            "zh": "哈哈~ 别在意别在意"
+        },
+        "Nickname": [
+            "Nozomi",
+            "蜜瓜雪糕",
+            "希望",
+            "小望"
+        ],
+        "School": "Highlander",
+        "Club": "Central Control Center",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 367,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Suou.webp",
+            "/gamekee/w_589/h_585/829/43637/2024/3/11/475757.png"
+        ],
+        "Name": {
+            "en": "Suou",
+            "jp": "スオウ",
+            "kr": "수오",
+            "tw": "蘇芳",
+            "zh": "周防"
+        },
+        "Bio": {
+            "en": "If you have any questions, please have them prepared beforehand.",
+            "jp": "質問があれば、事前に準備してください。",
+            "kr": "질문이 있으면 사전에 준비해주세요.",
+            "tw": "如果有任何問題，請提前準備。",
+            "zh": "如果有任何问题，请提前准备好。"
+        },
+        "Nickname": [
+            "suou",
+            "苏芳"
+        ],
+        "School": "Highlander",
+        "Club": "Central Control Center",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 372,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Sumugi.webp"
+        ],
+        "Name": {
+            "en": "Tsumugi",
+            "jp": "ツムギ",
+            "kr": "츠무기",
+            "tw": "紬",
+            "zh": "纺"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Tsumugi",
+            "䌷"
+        ],
+        "School": "Wild Hunt Academy of Arts",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 170,
+        "Avatar": [
+            "/api/Avatars/Beatrice.webp",
+            "/api/Avatars/Fandom/Beatrice_Icon.png",
+            "/api/Avatars/Fandom/Beatrice_Ascended_Icon.png"
+        ],
+        "Name": {
+            "en": "Beatrice",
+            "jp": "ベアトリーチェ",
+            "kr": "베아트리체",
+            "tw": "貝阿朵莉切",
+            "zh": "贝阿朵莉切"
+        },
+        "Bio": {
+            "en": "Beatrice, phantasm of all pilgrims",
+            "jp": "ベアトリス、巡礼者の幻影",
+            "kr": "베아트리체, 모든 순례자의 환상",
+            "tw": "貝阿朵莉切，所有朝聖者的幻影",
+            "zh": "贝阿朵莉切，所有朝圣者的幻影"
+        },
+        "Nickname": [
+            "Beatrice"
+        ],
+        "School": "Gematria",
+        "Club": "Gematria",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 125,
+        "Avatar": [
+            "/api/Avatars/Kurofuku.webp",
+            "/api/Avatars/Fandom/Black_Suit_Icon.png",
+            "/api/Avatars/Fandom/Black_Suit_Icon_2.png"
+        ],
+        "Name": {
+            "en": "Kurofuku",
+            "jp": "黒服",
+            "kr": "흑복",
+            "tw": "黑服",
+            "zh": "黑服"
+        },
+        "Bio": {
+            "en": "Observer, explorer, researcher",
+            "jp": "観察者·探求者·研究者",
+            "kr": "관찰자·탐구자·연구자",
+            "tw": "觀察者·探索者·研究者",
+            "zh": "观察者·探索者·研究者"
+        },
+        "Nickname": [
+            "Kurofuku",
+            "Black Suit"
+        ],
+        "School": "Gematria",
+        "Club": "Gematria",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 919,
+        "Avatar": [
+            "/api/Avatars/Golconde&Decalcomanie.webp",
+            "/api/Avatars/Fandom/Golconde_Icon.png",
+            "/api/Avatars/Fandom/Decalcomanie_Icon.png"
+        ],
+        "Name": {
+            "en": "Golconde&Decalcomanie",
+            "jp": "ゴルコンダ&デカルコマニー",
+            "kr": "골콘다&데칼코마니",
+            "tw": "戈爾孔達&印花釉法",
+            "zh": "戈尔孔达&印花釉法"
+        },
+        "Bio": {
+            "en": "Looking forward to seeing what kind of text you will read",
+            "jp": "楽しみにしています",
+            "kr": "무슨 텍스트를 읽을지 기대해요",
+            "tw": "我很期待看到你會從中讀出什麼",
+            "zh": "我很期待看到你会从中读出什么"
+        },
+        "Nickname": [
+            "Golconde&Decalcomanie"
+        ],
+        "School": "Gematria",
+        "Club": "Gematria",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 205,
+        "Avatar": [
+            "/api/Avatars/Francis.webp",
+            "/api/Avatars/Fandom/Francis_Icon.png"
+        ],
+        "Name": {
+            "en": "Francis",
+            "jp": "フランシス",
+            "kr": "프란시스",
+            "tw": "弗朗西斯",
+            "zh": "弗朗西斯"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Francis"
+        ],
+        "School": "Gematria",
+        "Club": "Gematria",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 164,
+        "Avatar": [
+            "/api/Avatars/Maestro.webp",
+            "/api/Avatars/Fandom/Maestro_Icon.png",
+            "/api/Avatars/Fandom/Maestro_Icon_2.png"
+        ],
+        "Name": {
+            "en": "Maestro",
+            "jp": "マエストロ",
+            "kr": "마에스트로",
+            "tw": "巨匠",
+            "zh": "巨匠"
+        },
+        "Bio": {
+            "en": "Now then, Sensei. Please prepare to applaud.",
+            "jp": "そは先生，拍手を準備してください",
+            "kr": "이제 선생님, 박수를 준비해주세요.",
+            "tw": "現在，老師。 請準備鼓掌",
+            "zh": "现在，老师。请准备鼓掌"
+        },
+        "Nickname": [
+            "Maestro"
+        ],
+        "School": "Gematria",
+        "Club": "Gematria",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 272,
+        "Avatar": [
+            "/api/Avatars/Phrenapates.webp",
+            "/api/Avatars/Fandom/Phrenapates_Icon.png"
+        ],
+        "Name": {
+            "en": "Phrenapates",
+            "jp": "プレナパテス",
+            "kr": "프레나파테스",
+            "tw": "誘騙者",
+            "zh": "普雷纳帕特斯"
+        },
+        "Bio": {
+            "en": "Please... take care of the students.",
+            "jp": "どうか...生徒たちをお願いします",
+            "kr": "학생들을 잘 돌봐주세요.",
+            "tw": "請... 照顧好學生",
+            "zh": "请…照顾好学生"
+        },
+        "Nickname": [
+            "Phrenapates"
+        ],
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 247,
+        "Avatar": [
+            "/api/Avatars/Nameless_Priests.webp",
+            "/gamekee/w_184/h_184/829/43637/2023/2/17/264731.png"
+        ],
+        "Name": {
+            "en": "Nameless Priests",
+            "jp": "無名の司祭",
+            "kr": "무명의 사제",
+            "tw": "無名祭司",
+            "zh": "无名祭司"
+        },
+        "Bio": {
+            "en": "Followers of the \"Nameless God\"",
+            "jp": "「名もなき神」の信奉者達",
+            "kr": "「무명의 신」의 신봉자들",
+            "tw": "「無名神」的追隨者們",
+            "zh": "「无名神」的追随者们"
+        },
+        "Nickname": [
+            "Nameless_Priests"
+        ],
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 134,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Rabu.webp",
+            "/api/Avatars/Fandom/Rabu_Icon.png",
+            "/api/Avatars/Fandom/Rabu_Swimsuit_Icon.png"
+        ],
+        "Name": {
+            "en": "Rabu",
+            "jp": "ラブ",
+            "kr": "라브",
+            "tw": "良舞",
+            "zh": "兰舞"
+        },
+        "Bio": {
+            "en": "After all, I am Rabu, the Helmet Gangster officer!",
+            "jp": "ヘルメット団のリーダーだからね！",
+            "kr": "라브, 헬멧 거니스트 오피셜!",
+            "tw": "畢竟我是蘭舞，鋼盔團的領隊！",
+            "zh": "毕竟我是兰舞，钢盔团的领队！"
+        },
+        "Nickname": [
+            "Rabu",
+            "love",
+            "Helmet",
+            "Sukeban",
+            "不良少女",
+            "不良学生",
+            "钢盔团"
+        ],
+        "School": "Sukeban",
+        "Club": "Helmet Gang",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 224,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Helmet.webp",
+            "/api/Avatars/Kivo/Unreleased/Helmet_2.webp",
+            "/gamekee/w_252/h_204/829/43637/2022/6/2/354264.png",
+            "/gamekee/w_252/h_204/829/43637/2022/6/2/101340.png"
+        ],
+        "Name": {
+            "en": "Helmet",
+            "jp": "ヘルメット団",
+            "kr": "헬멧단",
+            "tw": "鋼盔團",
+            "zh": "钢盔团"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Helmet",
+            "Sukeban",
+            "不良少女",
+            "不良学生",
+            "钢盔团"
+        ],
+        "School": "Sukeban",
+        "Club": "Helmet Gang",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 188,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Sukeban.webp",
+            "/api/Avatars/Kivo/Unreleased/Sukeban2.webp",
+            "/api/Avatars/Kivo/Unreleased/Sukeban3.webp",
+            "/api/Avatars/Kivo/Unreleased/Sukeban4.webp",
+            "/api/Avatars/Kivo/Unreleased/Sukeban5.webp",
+            "/gamekee/w_252/h_204/829/43637/2022/6/2/703523.png",
+            "/gamekee/w_252/h_204/829/43637/2022/6/2/785318.png",
+            "/gamekee/w_252/h_204/829/43637/2022/6/2/940419.png",
+            "/gamekee/w_252/h_204/829/43637/2022/6/2/518070.png",
+            "/gamekee/w_252/h_204/829/43637/2022/6/2/285541.png"
+        ],
+        "Name": {
+            "en": "Thug",
+            "jp": "スケバン",
+            "kr": "불량",
+            "tw": "女混混",
+            "zh": "女混混"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Sukeban",
+            "不良少女",
+            "不良学生"
+        ],
+        "School": "Sukeban",
+        "Club": "Sukeban",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 147,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Kaitenger.webp",
+            "/api/Avatars/Kivo/Unreleased/Kaitenger2.webp",
+            "/api/Avatars/Kivo/Unreleased/Kaitenger3.webp",
+            "/api/Avatars/Kivo/Unreleased/Kaitenger4.webp",
+            "/api/Avatars/Kivo/Unreleased/Kaitenger5.webp",
+            "/gamekee/w_252/h_204/829/43637/2022/6/2/23158.png",
+            "/gamekee/w_252/h_204/829/43637/2022/6/2/36893.png",
+            "/gamekee/w_252/h_204/829/43637/2022/6/2/228429.png",
+            "/gamekee/w_252/h_204/829/43637/2022/6/2/31089.png",
+            "/gamekee/w_252/h_204/829/43637/2022/6/2/597851.png"
+        ],
+        "Name": {
+            "en": "Kaitenger",
+            "jp": "カイテン",
+            "kr": "카이텐져",
+            "tw": "壽司人",
+            "zh": "寿司人"
+        },
+        "Bio": {
+            "en": "The ever-looping track will eventually lead to a just future!",
+            "jp": "回り続けるレールは正義の未来へ！",
+            "kr": "끝없이 반복되는 궤도는 올바른 미래로 이끌어줄 것이다!",
+            "tw": "不斷迴圈的軌道最終會通向正義的未來！",
+            "zh": "不断循环的轨道最终会通向正义的未来！"
+        },
+        "Nickname": [
+            "Kaitenger",
+            "寿司人"
+        ],
+        "School": "Sukeban",
+        "Club": "Kaitenger",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 901,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Student3.webp",
+            "/api/Avatars/Kivo/Unreleased/Student4.webp",
+            "/api/Avatars/Kivo/Unreleased/Student5.webp",
+            "/api/Avatars/Kivo/Unreleased/Student6.webp",
+            "/api/Avatars/Kivo/Unreleased/Student7.webp",
+            "/api/Avatars/Kivo/Unreleased/Student8.webp",
+            "/gamekee/w_252/h_204/829/43637/2023/7/8/802905.png",
+            "/gamekee/w_252/h_204/829/43637/2023/7/8/121389.png",
+            "/gamekee/w_200/h_200/829/43637/2023/10/9/636523.png",
+            "/gamekee/w_200/h_200/829/43637/2023/10/9/219787.png",
+            "/gamekee/w_200/h_200/829/43637/2023/10/9/20331.png"
+        ],
+        "Name": {
+            "en": "Student",
+            "jp": "生徒",
+            "kr": "학생",
+            "tw": "學生",
+            "zh": "其他学生"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Student",
+            "奥德赛的兔女郎",
+            "黑市组织成员",
+            "兼职佣兵学生",
+            "列车乘务员"
+        ],
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 902,
+        "Avatar": [
+            "/api/Avatars/Citizen.webp",
+            "/gamekee/w_252/h_204/829/43637/2022/6/2/724041.png",
+            "/gamekee/w_252/h_204/829/43637/2022/6/2/544764.png",
+            "/gamekee/w_252/h_204/829/43637/2023/7/8/736789.png",
+            "/gamekee/w_200/h_200/829/43637/2023/7/8/113599.png",
+            "/gamekee/w_252/h_204/829/43637/2023/7/8/866011.png",
+            "/gamekee/w_252/h_204/829/43637/2023/7/8/707302.png",
+            "/gamekee/w_252/h_204/829/43637/2023/7/8/61495.png",
+            "/gamekee/w_252/h_204/829/43637/2023/7/8/452498.png",
+            "/gamekee/w_252/h_204/829/43637/2023/7/8/593364.png",
+            "/gamekee/w_252/h_204/829/43637/2023/7/8/973120.png",
+            "/gamekee/w_252/h_204/829/43637/2023/7/8/449563.png",
+            "/gamekee/w_200/h_200/829/43637/2023/7/8/696125.png",
+            "/gamekee/w_200/h_200/829/43637/2023/7/8/482154.png",
+            "/gamekee/w_200/h_200/829/43637/2023/7/8/411855.png",
+            "/gamekee/w_200/h_200/829/43637/2023/7/8/981746.png",
+            "/gamekee/w_252/h_204/829/43637/2023/7/8/228557.png",
+            "/gamekee/w_252/h_204/829/43637/2023/7/8/296416.png"
+        ],
+        "Name": {
+            "en": "Citizen",
+            "jp": "市民",
+            "kr": "시민",
+            "tw": "一般市民",
+            "zh": "一般市民"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Citizen",
+            "一般市民"
+        ],
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 936,
+        "Avatar": [
+            "/api/Avatars/Robot.webp",
+            "/gamekee/w_252/h_204/829/43637/2023/7/9/677592.png",
+            "/gamekee/w_252/h_204/829/43637/2023/7/9/105861.png",
+            "/gamekee/w_252/h_204/829/43637/2023/7/9/604961.png",
+            "/gamekee/w_252/h_204/829/43637/2023/7/9/438385.png"
+        ],
+        "Name": {
+            "en": "Robot",
+            "jp": "ロボ",
+            "kr": "로봇",
+            "tw": "機器人",
+            "zh": "机器人"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Robot"
+        ],
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 201,
+        "Avatar": [
+            "/api/Avatars/Kaiser_PMC.webp",
+            "/api/Avatars/Fandom/Kaiser_PMC_Director_Icon.png",
+            "/api/Avatars/Fandom/Kaiser_PMC_General_Icon.png",
+            "/api/Avatars/Fandom/Kaiser_PMC_President_Icon.png"
+        ],
+        "Name": {
+            "en": "Kaiser PMC",
+            "jp": "カイザーPMC",
+            "kr": "카이저 PMC",
+            "tw": "凱撒PMC",
+            "zh": "凯撒PMC"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Kaiser_PMC"
+        ],
+        "School": "Kaiser",
+        "Club": "Kaiser",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 335,
+        "Avatar": [
+            "/api/Avatars/Ein.webp",
+            "/api/Avatars/Fandom/Ein_Icon.png"
+        ],
+        "Name": {
+            "en": "Ein",
+            "jp": "アイン",
+            "kr": "아인",
+            "tw": "Ain",
+            "zh": "艾茵"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Ein",
+            "无"
+        ],
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 336,
+        "Avatar": [
+            "/api/Avatars/Ohr.webp",
+            "/api/Avatars/Fandom/Ohr_Icon.png"
+        ],
+        "Name": {
+            "en": "Ohr",
+            "jp": "オウル",
+            "kr": "오르",
+            "tw": "Aur",
+            "zh": "奥茹"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Ohr",
+            "光"
+        ],
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 337,
+        "Avatar": [
+            "/api/Avatars/Sof.webp",
+            "/api/Avatars/Fandom/Sof_Icon.png"
+        ],
+        "Name": {
+            "en": "Sof",
+            "jp": "ソフ",
+            "kr": "소프",
+            "tw": "Soph",
+            "zh": "索芙"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Sof",
+            "限"
+        ],
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 295,
+        "Avatar": [
+            "/api/Avatars/Binah.webp",
+            "/schale/raid/icon/Icon_Binah.png",
+            "/schale/raid/icon/Icon_Binah_Colour.png"
+        ],
+        "Name": {
+            "en": "Binah",
+            "jp": "ビナー",
+            "kr": "비나",
+            "tw": "薇娜",
+            "zh": "比纳"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Binah",
+            "大蛇"
+        ],
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 296,
+        "Avatar": [
+            "/api/Avatars/Chesed.webp",
+            "/schale/raid/icon/Icon_Chesed.png",
+            "/schale/raid/icon/Icon_Chesed_Colour.png"
+        ],
+        "Name": {
+            "en": "Chesed",
+            "jp": "ケセド",
+            "kr": "헤세드",
+            "tw": "凱賽德",
+            "zh": "凯赛德"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Chesed",
+            "球"
+        ],
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 306,
+        "Avatar": [
+            "/api/Avatars/Shirokuro.webp",
+            "/schale/raid/icon/Icon_Shirokuro.png",
+            "/schale/raid/icon/Icon_ShiroKuro_Colour.png"
+        ],
+        "Name": {
+            "en": "Shirokuro",
+            "jp": "シロ＆クロ",
+            "kr": "시로 & 쿠로",
+            "tw": "白&黑",
+            "zh": "白&黑"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Shirokuro",
+            "黑白"
+        ],
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 328,
+        "Avatar": [
+            "/api/Avatars/Hieronymus.webp",
+            "/schale/raid/icon/Icon_Hieronymus.png",
+            "/schale/raid/icon/Icon_Hieronymus_Colour.png"
+        ],
+        "Name": {
+            "en": "Hieronymus",
+            "jp": "ヒエロニムス",
+            "kr": "예로니무스",
+            "tw": "耶羅尼姆斯",
+            "zh": "希罗尼穆斯"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Hieronymus",
+            "主教",
+            "教皇"
+        ],
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 305,
+        "Avatar": [
+            "/api/Avatars/KaitenFxMk0.webp",
+            "/schale/raid/icon/Icon_KaitenFxMk0.png"
+        ],
+        "Name": {
+            "en": "KAITEN FX MK.0",
+            "jp": "KAITEN FX MK.0",
+            "kr": "KAITEN FX Mk.0",
+            "tw": "KAITEN FX MK.0",
+            "zh": "KAITEN FX MK.0"
+        },
+        "Bio": {},
+        "Nickname": [
+            "KaitenFxMk0",
+            "寿司人"
+        ],
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 307,
+        "Avatar": [
+            "/api/Avatars/Perorozilla.webp",
+            "/schale/raid/icon/Icon_Perorozilla.png",
+            "/schale/raid/icon/Icon_Perorozilla_Colour.png"
+        ],
+        "Name": {
+            "en": "Perorozilla",
+            "jp": "ペロロジラ",
+            "kr": "페로로지라",
+            "tw": "佩洛洛基拉",
+            "zh": "佩洛洛基拉"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Perorozilla",
+            "鸡斯拉"
+        ],
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 297,
+        "Avatar": [
+            "/api/Avatars/HOD.webp",
+            "/schale/raid/icon/Icon_HOD.png",
+            "/schale/raid/icon/Icon_HOD_Colour.png"
+        ],
+        "Name": {
+            "en": "HOD",
+            "jp": "ホド",
+            "kr": "호드",
+            "tw": "霍德",
+            "zh": "霍德"
+        },
+        "Bio": {},
+        "Nickname": [
+            "HOD"
+        ],
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 329,
+        "Avatar": [
+            "/api/Avatars/Goz.webp",
+            "/schale/raid/icon/Icon_Goz.png"
+        ],
+        "Name": {
+            "en": "Goz",
+            "jp": "ゴズ",
+            "kr": "고즈",
+            "tw": "高茲",
+            "zh": "戈兹"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Goz"
+        ],
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 330,
+        "Avatar": [
+            "/api/Avatars/Gregorius.webp",
+            "/schale/raid/icon/Icon_EN0005.png"
+        ],
+        "Name": {
+            "en": "Gregorius",
+            "jp": "グレゴリオ",
+            "kr": "그레고리오",
+            "tw": "格里高利",
+            "zh": "格里高利"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Gregorius"
+        ],
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 333,
+        "Avatar": [
+            "/api/Avatars/Kurokage.webp",
+            "/schale/raid/icon/Icon_EN0006.png"
+        ],
+        "Name": {
+            "en": "Kurokage",
+            "jp": "クロカゲ",
+            "kr": "쿠로카게",
+            "tw": "貓鬼黑影",
+            "zh": "猫鬼黑影"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Kurokage"
+        ],
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 209,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Schale1.webp",
+            "/api/Avatars/Kivo/Unreleased/Schale2.webp",
+            "/gamekee/w_200/h_200/829/43637/2023/7/8/144957.png",
+            "/gamekee/w_200/h_200/829/43637/2023/7/8/448379.png"
+        ],
+        "Name": {
+            "en": "Schale Student",
+            "jp": "連邦生徒会生徒",
+            "kr": "슈레일 학생",
+            "tw": "聯邦學生會學生",
+            "zh": "联邦学生会学生"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Schale1"
+        ],
+        "School": "SCHALE",
+        "Club": "General Student Council",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 221,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Gehenna4.webp",
+            "/gamekee/w_252/h_204/829/43637/2023/7/8/602110.png"
+        ],
+        "Name": {
+            "en": "Gehenna Student",
+            "jp": "ゲヘナ生徒",
+            "kr": "게헨나 학생",
+            "tw": "格赫娜學生",
+            "zh": "格赫娜学生"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Gehenna"
+        ],
+        "School": "Gehenna",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 222,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Gehenna2.webp",
+            "/gamekee/w_252/h_204/829/43637/2023/7/8/856242.png"
+        ],
+        "Name": {
+            "en": "Pandemonium Society Member",
+            "jp": "万魔殿のメンバー",
+            "kr": "판데몬션 사회원",
+            "tw": "萬魔殿成員",
+            "zh": "万魔殿成员"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Gehenna"
+        ],
+        "School": "Gehenna",
+        "Club": "PandemoniumSociety",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 226,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Gehenna1.webp",
+            "/gamekee/w_252/h_204/829/43637/2023/7/8/6851.png"
+        ],
+        "Name": {
+            "en": "Prefect Team Member",
+            "jp": "風紀委員",
+            "kr": "페리페트 팀 멤버",
+            "tw": "風紀委員",
+            "zh": "风纪委员"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Gehenna"
+        ],
+        "School": "Gehenna",
+        "Club": "Fuuki",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 191,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Gehenna5.webp",
+            "/gamekee/w_252/h_204/829/43637/2023/7/8/923176.png"
+        ],
+        "Name": {
+            "en": "Hot Springs Department Member",
+            "jp": "温泉部の部員",
+            "kr": "온천 개발부 멤버",
+            "tw": "溫泉開發部部員",
+            "zh": "温泉开发部部员"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Gehenna"
+        ],
+        "School": "Gehenna",
+        "Club": "HotSpringsDepartment",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 218,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Gehenna3.webp",
+            "/gamekee/w_252/h_204/829/43637/2023/7/8/374292.png"
+        ],
+        "Name": {
+            "en": "Medical Emergency Club Member",
+            "jp": "救急医学部の部員",
+            "kr": "응급 의학부 멤버",
+            "tw": "救急醫學部部員",
+            "zh": "救急医学部部员"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Gehenna"
+        ],
+        "School": "Gehenna",
+        "Club": "Emergentology",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 248,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Millennium1.webp",
+            "/api/Avatars/Kivo/Unreleased/Millennium2.webp",
+            "/gamekee/w_252/h_204/829/43637/2023/7/8/793158.png",
+            "/gamekee/w_252/h_204/829/43637/2023/7/8/52322.png"
+        ],
+        "Name": {
+            "en": "Millennium Student",
+            "jp": "ミレニアム生徒",
+            "kr": "밀레니엄 학생",
+            "tw": "千禧學生",
+            "zh": "千禧学生"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Millennium",
+            "千禧学生"
+        ],
+        "School": "Millennium",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 219,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Trinity2.webp",
+            "/gamekee/w_252/h_204/829/43637/2023/7/8/961729.png"
+        ],
+        "Name": {
+            "en": "Trinity Student",
+            "jp": "トリニティ生徒",
+            "kr": "트리니티 학생",
+            "tw": "聖三一學生",
+            "zh": "圣三一学生"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Trinity",
+            "正义实现委员会部员",
+            "修女会成员",
+            "圣三一学生",
+            "茶话会成员"
+        ],
+        "School": "Trinity",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 223,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Trinity4.webp",
+            "/api/Avatars/Kivo/Unreleased/Trinity5.webp",
+            "/gamekee/w_252/h_204/829/43637/2023/7/8/470787.png",
+            "/gamekee/w_252/h_204/829/43637/2023/7/8/936072.png"
+        ],
+        "Name": {
+            "en": "Tea Party Member",
+            "jp": "ティーパーティーのメンバー",
+            "kr": "차회의 멤버",
+            "tw": "茶話會成員",
+            "zh": "茶话会成员"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Trinity"
+        ],
+        "School": "Trinity",
+        "Club": "TeaParty",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 220,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Trinity3.webp",
+            "/gamekee/w_252/h_204/829/43637/2023/7/8/694927.png"
+        ],
+        "Name": {
+            "en": "The Sisterhood Member",
+            "jp": "シスターフッドのメンバー",
+            "kr": "수녀회 멤버",
+            "tw": "修女會成員",
+            "zh": "修女会成员"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Trinity"
+        ],
+        "School": "Trinity",
+        "Club": "SisterHood",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 162,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Trinity1.webp",
+            "/gamekee/w_200/h_200/829/43637/2023/7/8/642465.png"
+        ],
+        "Name": {
+            "en": "Justice Task Force Member",
+            "jp": "正義実現委員会部員",
+            "kr": "정의 임무 팀 멤버",
+            "tw": "正義實現委員會部員",
+            "zh": "正义实现委员会部员"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Trinity",
+            "杂鱼酱"
+        ],
+        "School": "Trinity",
+        "Club": "Justice",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 912,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Student2.webp"
+        ],
+        "Name": {
+            "en": "Arius Student",
+            "jp": "アリウスの生徒",
+            "kr": "아리우스 학생",
+            "tw": "阿里烏斯學生",
+            "zh": "阿里乌斯学生"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Arius"
+        ],
+        "School": "Arius",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 323,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Hyakkiyako1.webp",
+            "/api/Avatars/Kivo/Unreleased/Hyakkiyako2.webp",
+            "/api/Avatars/Kivo/Unreleased/Hyakkiyako3.webp",
+            "/gamekee/w_200/h_200/829/43637/2023/10/27/177708.png",
+            "/gamekee/w_550/h_550/829/43637/2023/10/9/5596.png",
+            "/gamekee/w_550/h_550/829/43637/2023/10/9/497085.png"
+        ],
+        "Name": {
+            "en": "Hyakkiyako Student",
+            "jp": "百鬼夜行生徒",
+            "kr": "백귀야행 학생",
+            "tw": "百鬼夜行學生",
+            "zh": "百鬼夜行学生"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Hyakkiyako"
+        ],
+        "School": "Hyakkiyako",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 231,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Hyakkiyako4.webp",
+            "/api/Avatars/Kivo/Unreleased/Hyakkiyako5.webp",
+            "/gamekee/w_252/h_204/829/43637/2023/7/8/52113.png",
+            "/gamekee/w_252/h_204/829/43637/2023/7/8/539444.png"
+        ],
+        "Name": {
+            "en": "Street Ghost Troupe Member",
+            "jp": "魑魅一座の部員",
+            "kr": "귀멸 한 명의 멤버",
+            "tw": "魑魅一座部員",
+            "zh": "魑魅一座部员"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Hyakkiyako"
+        ],
+        "School": "Hyakkiyako",
+        "Club": "Street Ghost Troupe",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 363,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Hyakkiyako6.webp"
+        ],
+        "Name": {
+            "en": "Rickshaw Students",
+            "jp": "人力車の生徒",
+            "kr": "인력차 학생",
+            "tw": "人力車學生",
+            "zh": "人力车学生"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Hyakkiyako"
+        ],
+        "School": "Hyakkiyako",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 326,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Shanhaijing1.webp",
+            "/api/Avatars/Kivo/Unreleased/Shanhaijing2.webp",
+            "/gamekee/w_550/h_550/829/43637/2023/10/9/703879.png",
+            "/gamekee/w_550/h_550/829/43637/2023/10/9/430199.png"
+        ],
+        "Name": {
+            "en": "Shanhaijing Student",
+            "jp": "山海経生徒",
+            "kr": "산해경 학생",
+            "tw": "山海經學生",
+            "zh": "山海经学生"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Shanhaijing"
+        ],
+        "School": "Shanhaijing",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 204,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Shanhaijing4.webp",
+            "/gamekee/w_252/h_204/829/43637/2023/7/8/540339.png"
+        ],
+        "Name": {
+            "en": "Xuanlong Office Member",
+            "jp": "玄龍門のメンバー",
+            "kr": "현룡문 멤버",
+            "tw": "玄龍門成員",
+            "zh": "玄龙门成员"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Shanhaijing",
+            "Genryumon Member"
+        ],
+        "School": "Shanhaijing",
+        "Club": "Genryumon",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 263,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Shanhaijing3.webp",
+            "/gamekee/w_200/h_200/829/43637/2023/7/8/924732.png"
+        ],
+        "Name": {
+            "en": "Xuanwu Merchant Association Member",
+            "jp": "黒亀商会のメンバー",
+            "kr": "흑거미 홍보 멤버",
+            "tw": "玄武商會成員",
+            "zh": "玄武商会成员"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Shanhaijing",
+            "Black Tortoise Promenade Member"
+        ],
+        "School": "Shanhaijing",
+        "Club": "BlackTortoisePromenade",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 392,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Shanhaijing5.webp",
+            "/api/Avatars/Kivo/Unreleased/Shanhaijing6.webp",
+            "/gamekee/w_297/h_297/829/399789/2024/8/6/394404.png",
+            "/gamekee/w_297/h_297/829/399789/2024/8/6/817830.png"
+        ],
+        "Name": {
+            "en": "Beijing Opera Club Member",
+            "jp": "京劇部員",
+            "kr": "베이징 오페라 클럽 멤버",
+            "tw": "京劇部員",
+            "zh": "京剧部员"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Shanhaijing"
+        ],
+        "School": "Shanhaijing",
+        "Club": "Peking Opera Club",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 234,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/RedWinter1.webp",
+            "/gamekee/w_252/h_204/829/43637/2023/7/9/88211.png"
+        ],
+        "Name": {
+            "en": "Labor Party Member",
+            "jp": "工務部の部員",
+            "kr": "노동당 멤버",
+            "tw": "勞務部成員",
+            "zh": "劳务部部员"
+        },
+        "Bio": {},
+        "Nickname": [
+            "RedWinter"
+        ],
+        "School": "RedWinter",
+        "Club": "LaborParty",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 199,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/RedWinter2.webp",
+            "/gamekee/w_252/h_204/829/43637/2023/7/9/409008.png"
+        ],
+        "Name": {
+            "en": "State Guard",
+            "jp": "レッドウィンターの親衛隊",
+            "kr": "레드윈터 경호대 멤버",
+            "tw": "紅冬親衛隊成員",
+            "zh": "红冬亲卫队成员"
+        },
+        "Bio": {},
+        "Nickname": [
+            "RedWinter"
+        ],
+        "School": "RedWinter",
+        "Club": "RedwinterSecretary",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 200,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Student.webp",
+            "/gamekee/w_252/h_204/829/43637/2023/7/8/496653.png"
+        ],
+        "Name": {
+            "en": "Valkyrie Student",
+            "jp": "ヴァルキューレの生徒",
+            "kr": "발키리 학생",
+            "tw": "女武神學生",
+            "zh": "瓦尔基里学生"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Valkyrie"
+        ],
+        "School": "Valkyrie",
+        "Club": "anzenkyoku",
+        "Released": false,
+        "Related": null
+    },
+    {
         "Id": 10000,
         "Avatar": [
             "/api/Avatars/Kivo/Released/10000.webp",
@@ -30,7 +2390,11 @@
             "亚琉"
         ],
         "Birthday": "3/12",
+        "Age": "16歳",
         "School": "Gehenna",
+        "Club": "Kohshinjo68",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -61,7 +2425,11 @@
             "咏美"
         ],
         "Birthday": "5/1",
+        "Age": "15歳",
         "School": "Millennium",
+        "Club": "SPTF",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -94,7 +2462,11 @@
             "美食狙"
         ],
         "Birthday": "3/1",
+        "Age": "17歳",
         "School": "Gehenna",
+        "Club": "GourmetClub",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -130,7 +2502,11 @@
             "悍匪头子"
         ],
         "Birthday": "11/27",
+        "Age": "16歳",
         "School": "Trinity",
+        "Club": "RemedialClass",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -164,7 +2540,11 @@
             "委员长"
         ],
         "Birthday": "2/19",
+        "Age": "17歳",
         "School": "Gehenna",
+        "Club": "Fuuki",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -173,6 +2553,7 @@
             "/api/Avatars/Kivo/Released/10005.webp",
             "/api/Avatars/Kivo/Unreleased/小鸟游 星野_昔日.png",
             "/api/Avatars/Kivo/Unreleased/Hoshino.webp",
+            "/api/Avatars/Kivo/Unreleased/Hoshino_Terror.webp",
             "/api/Avatars/Fandom/Hoshino_Icon.png",
             "/api/Avatars/Fandom/Hoshino_Robber_Icon.png",
             "/api/Avatars/Gamekee/147007.png"
@@ -198,7 +2579,11 @@
             "星乃"
         ],
         "Birthday": "1/2",
+        "Age": "17歳",
         "School": "Abydos",
+        "Club": "Countermeasure",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -227,7 +2612,11 @@
             "佐三枪"
         ],
         "Birthday": "11/8",
+        "Age": "16歳",
         "School": "Gehenna",
+        "Club": "Fuuki",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -265,7 +2654,11 @@
             "大蛇克星"
         ],
         "Birthday": "8/1",
+        "Age": "15歳",
         "School": "Millennium",
+        "Club": "Veritas",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -297,7 +2690,11 @@
             "尼禄"
         ],
         "Birthday": "8/17",
+        "Age": "17歳",
         "School": "Millennium",
+        "Club": "CleanNClearing",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -329,7 +2726,11 @@
             "汉堡"
         ],
         "Birthday": "5/11",
+        "Age": "16歳",
         "School": "Gehenna",
+        "Club": "GourmetClub",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -359,7 +2760,11 @@
             "小仓唯"
         ],
         "Birthday": "5/16",
+        "Age": "16歳",
         "School": "Abydos",
+        "Club": "Countermeasure",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -392,7 +2797,11 @@
             "大瞬"
         ],
         "Birthday": "2/5",
+        "Age": "極秘",
         "School": "Shanhaijing",
+        "Club": "Meihuayuan",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -421,7 +2830,11 @@
             "运动妹"
         ],
         "Birthday": "8/20",
+        "Age": "16歳",
         "School": "Millennium",
+        "Club": "TrainingClub",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -451,7 +2864,11 @@
             "颜艺"
         ],
         "Birthday": "6/24",
+        "Age": "17歳",
         "School": "Trinity",
+        "Club": "Justice",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -483,7 +2900,11 @@
             "茜"
         ],
         "Birthday": "4/1",
+        "Age": "16歳",
         "School": "Millennium",
+        "Club": "CleanNClearing",
+        "Star": 2,
+        "Released": true,
         "Related": null
     },
     {
@@ -515,7 +2936,11 @@
             "雪女"
         ],
         "Birthday": "7/13",
+        "Age": "16歳",
         "School": "Hyakkiyako",
+        "Club": "Onmyobu",
+        "Star": 2,
+        "Released": true,
         "Related": null
     },
     {
@@ -548,7 +2973,11 @@
             "亚伽里"
         ],
         "Birthday": "12/9",
+        "Age": "17歳",
         "School": "Gehenna",
+        "Club": "GourmetClub",
+        "Star": 2,
+        "Released": true,
         "Related": null
     },
     {
@@ -577,7 +3006,11 @@
             "莲见"
         ],
         "Birthday": "12/12",
+        "Age": "17歳",
         "School": "Trinity",
+        "Club": "Justice",
+        "Star": 2,
+        "Released": true,
         "Related": null
     },
     {
@@ -611,7 +3044,11 @@
             "nnm"
         ],
         "Birthday": "9/1",
+        "Age": "16歳",
         "School": "Abydos",
+        "Club": "Countermeasure",
+        "Star": 2,
+        "Released": true,
         "Related": null
     },
     {
@@ -644,7 +3081,11 @@
             "恐惧妹"
         ],
         "Birthday": "3/17",
+        "Age": "18歳",
         "School": "Gehenna",
+        "Club": "Kohshinjo68",
+        "Star": 2,
+        "Released": true,
         "Related": null
     },
     {
@@ -682,7 +3123,11 @@
             "加州女孩"
         ],
         "Birthday": "7/29",
+        "Age": "16歳",
         "School": "Gehenna",
+        "Club": "Kohshinjo68",
+        "Star": 2,
+        "Released": true,
         "Related": null
     },
     {
@@ -713,7 +3158,11 @@
             "纯子"
         ],
         "Birthday": "12/27",
+        "Age": "15歳",
         "School": "Gehenna",
+        "Club": "GourmetClub",
+        "Star": 2,
+        "Released": true,
         "Related": null
     },
     {
@@ -746,7 +3195,11 @@
             "芹香"
         ],
         "Birthday": "6/25",
+        "Age": "15歳",
         "School": "Abydos",
+        "Club": "Countermeasure",
+        "Star": 2,
+        "Released": true,
         "Related": null
     },
     {
@@ -777,7 +3230,11 @@
             "鬼坦"
         ],
         "Birthday": "2/3",
+        "Age": "16歳",
         "School": "Hyakkiyako",
+        "Club": "Shugyobu",
+        "Star": 2,
+        "Released": true,
         "Related": null
     },
     {
@@ -815,7 +3272,11 @@
             "📮"
         ],
         "Birthday": "3/14",
+        "Age": "16歳",
         "School": "Millennium",
+        "Club": "TheSeminar",
+        "Star": 2,
+        "Released": true,
         "Related": null
     },
     {
@@ -848,7 +3309,11 @@
             "德棍"
         ],
         "Birthday": "5/13",
+        "Age": "15歳",
         "School": "Gehenna",
+        "Club": "Kohshinjo68",
+        "Star": 1,
+        "Released": true,
         "Related": null
     },
     {
@@ -876,7 +3341,11 @@
             "亚丝娜"
         ],
         "Birthday": "3/24",
+        "Age": "17歳",
         "School": "Millennium",
+        "Club": "CleanNClearing",
+        "Star": 1,
+        "Released": true,
         "Related": null
     },
     {
@@ -907,7 +3376,11 @@
             "盾妹"
         ],
         "Birthday": "12/31",
+        "Age": "15歳",
         "School": "Millennium",
+        "Club": "Engineer",
+        "Star": 1,
+        "Released": true,
         "Related": null
     },
     {
@@ -935,7 +3408,11 @@
             "闪光弹"
         ],
         "Birthday": "8/31",
+        "Age": "16歳",
         "School": "Trinity",
+        "Club": "TrinityVigilance",
+        "Star": 1,
+        "Released": true,
         "Related": null
     },
     {
@@ -965,7 +3442,11 @@
             "不死鸟"
         ],
         "Birthday": "11/3",
+        "Age": "17歳",
         "School": "Hyakkiyako",
+        "Club": "MatsuriOffice",
+        "Star": 1,
+        "Released": true,
         "Related": null
     },
     {
@@ -993,7 +3474,11 @@
             "迫击炮"
         ],
         "Birthday": "4/2",
+        "Age": "15歳",
         "School": "Millennium",
+        "Club": "Engineer",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -1022,7 +3507,11 @@
             "花梨"
         ],
         "Birthday": "2/2",
+        "Age": "16歳",
         "School": "Millennium",
+        "Club": "CleanNClearing",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -1054,7 +3543,11 @@
             "砂绫"
         ],
         "Birthday": "1/3",
+        "Age": "16歳",
         "School": "Shanhaijing",
+        "Club": "Endanbou",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -1084,7 +3577,11 @@
             "薄荷巧克力"
         ],
         "Birthday": "1/30",
+        "Age": "15歳",
         "School": "Trinity",
+        "Club": "HoukagoDessert",
+        "Star": 2,
+        "Released": true,
         "Related": null
     },
     {
@@ -1116,7 +3613,11 @@
             "风香"
         ],
         "Birthday": "4/30",
+        "Age": "16歳",
         "School": "Gehenna",
+        "Club": "FoodService",
+        "Star": 2,
+        "Released": true,
         "Related": null
     },
     {
@@ -1148,7 +3649,11 @@
             "护士补"
         ],
         "Birthday": "5/12",
+        "Age": "15歳",
         "School": "Trinity",
+        "Club": "KnightsHospitaller",
+        "Star": 2,
+        "Released": true,
         "Related": null
     },
     {
@@ -1179,7 +3684,11 @@
             "EMP"
         ],
         "Birthday": "4/19",
+        "Age": "16歳",
         "School": "Millennium",
+        "Club": "Veritas",
+        "Star": 2,
+        "Released": true,
         "Related": null
     },
     {
@@ -1209,7 +3718,11 @@
             "歌原"
         ],
         "Birthday": "11/13",
+        "Age": "17歳",
         "School": "Millennium",
+        "Club": "Engineer",
+        "Star": 2,
+        "Released": true,
         "Related": null
     },
     {
@@ -1239,7 +3752,11 @@
             "眼镜娘"
         ],
         "Birthday": "11/12",
+        "Age": "15歳",
         "School": "Abydos",
+        "Club": "Countermeasure",
+        "Star": 2,
+        "Released": true,
         "Related": null
     },
     {
@@ -1268,7 +3785,11 @@
             "风纪补"
         ],
         "Birthday": "8/22",
+        "Age": "15歳",
         "School": "Gehenna",
+        "Club": "Fuuki",
+        "Star": 1,
+        "Released": true,
         "Related": null
     },
     {
@@ -1297,7 +3818,11 @@
             "窃听器"
         ],
         "Birthday": "1/5",
+        "Age": "17歳",
         "School": "Millennium",
+        "Club": "Veritas",
+        "Star": 1,
+        "Released": true,
         "Related": null
     },
     {
@@ -1327,7 +3852,11 @@
             "毒锅"
         ],
         "Birthday": "10/20",
+        "Age": "15歳",
         "School": "Gehenna",
+        "Club": "FoodService",
+        "Star": 1,
+        "Released": true,
         "Related": null
     },
     {
@@ -1360,7 +3889,11 @@
             "瀬里奈"
         ],
         "Birthday": "1/6",
+        "Age": "16歳",
         "School": "Trinity",
+        "Club": "KnightsHospitaller",
+        "Star": 1,
+        "Released": true,
         "Related": null
     },
     {
@@ -1389,7 +3922,11 @@
             "图书妹"
         ],
         "Birthday": "11/30",
+        "Age": "15歳",
         "School": "Trinity",
+        "Club": "BookClub",
+        "Star": 1,
+        "Released": true,
         "Related": null
     },
     {
@@ -1419,7 +3956,11 @@
             "长身体"
         ],
         "Birthday": "8/29",
+        "Age": "15歳",
         "School": "Trinity",
+        "Club": "HoukagoDessert",
+        "Star": 1,
+        "Released": true,
         "Related": null
     },
     {
@@ -1448,7 +3989,11 @@
             "真白"
         ],
         "Birthday": "6/5",
+        "Age": "15歳",
         "School": "Trinity",
+        "Club": "Justice",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -1479,7 +4024,11 @@
             "老板娘"
         ],
         "Birthday": "7/7",
+        "Age": "16歳",
         "School": "Hyakkiyako",
+        "Club": "MatsuriOffice",
+        "Star": 2,
+        "Released": true,
         "Related": null
     },
     {
@@ -1510,7 +4059,11 @@
             "伊树菜"
         ],
         "Birthday": "12/16",
+        "Age": "15歳",
         "School": "Hyakkiyako",
+        "Club": "NinpoKenkyubu",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -1542,7 +4095,11 @@
             "Aris"
         ],
         "Birthday": "3/25",
+        "Age": "??歳",
         "School": "Millennium",
+        "Club": "GameDev",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -1572,7 +4129,11 @@
             "苦呀西"
         ],
         "Birthday": "12/8",
+        "Age": "15歳",
         "School": "Millennium",
+        "Club": "GameDev",
+        "Star": 2,
+        "Released": true,
         "Related": null
     },
     {
@@ -1601,7 +4162,11 @@
             "偷窥狂"
         ],
         "Birthday": "2/20",
+        "Age": "16歳",
         "School": "RedWinter",
+        "Club": "Class227",
+        "Star": 1,
+        "Released": true,
         "Related": null
     },
     {
@@ -1631,7 +4196,11 @@
             "绿猫"
         ],
         "Birthday": "12/8",
+        "Age": "15歳",
         "School": "Millennium",
+        "Club": "GameDev",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -1668,14 +4237,18 @@
             "雪萝"
         ],
         "Birthday": "10/27",
+        "Age": "??歳",
         "School": "RedWinter",
+        "Club": "RedwinterSecretary",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
         "Id": 10018,
         "Avatar": [
             "/api/Avatars/Kivo/Released/10018.webp",
-            "/api/Avatars/Yuzu_Box.webp",
+            "/api/Avatars/Fandom/Yuzu_Box.webp",
             "/api/Avatars/Fandom/Yuzu_Icon.png"
         ],
         "Name": {
@@ -1701,7 +4274,11 @@
             "UZQueen"
         ],
         "Birthday": "8/12",
+        "Age": "16歳",
         "School": "Millennium",
+        "Club": "GameDev",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -1730,7 +4307,11 @@
             "小梓"
         ],
         "Birthday": "12/26",
+        "Age": "16歳",
         "School": "Trinity",
+        "Club": "RemedialClass",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -1759,7 +4340,11 @@
             "老司机"
         ],
         "Birthday": "1/3",
+        "Age": "16歳",
         "School": "Trinity",
+        "Club": "RemedialClass",
+        "Star": 2,
+        "Released": true,
         "Related": null
     },
     {
@@ -1789,7 +4374,11 @@
             "瑟瑟"
         ],
         "Birthday": "4/16",
+        "Age": "15歳",
         "School": "Trinity",
+        "Club": "RemedialClass",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -1817,7 +4406,11 @@
             "水梓"
         ],
         "Birthday": "12/26",
+        "Age": "16歳",
         "School": "Trinity",
+        "Club": "RemedialClass",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 10019,
             "ItemType": "swimsuit"
@@ -1848,7 +4441,11 @@
             "水白"
         ],
         "Birthday": "6/5",
+        "Age": "15歳",
         "School": "Trinity",
+        "Club": "Justice",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 20003,
             "ItemType": "swimsuit"
@@ -1879,7 +4476,11 @@
             "水鹤城"
         ],
         "Birthday": "6/24",
+        "Age": "17歳",
         "School": "Trinity",
+        "Club": "Justice",
+        "Star": 1,
+        "Released": true,
         "Related": {
             "ItemId": 10013,
             "ItemType": "swimsuit"
@@ -1912,7 +4513,11 @@
             "水鸡"
         ],
         "Birthday": "11/27",
+        "Age": "16歳",
         "School": "Trinity",
+        "Club": "RemedialClass",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 10003,
             "ItemType": "swimsuit"
@@ -1944,7 +4549,11 @@
             "水hina"
         ],
         "Birthday": "2/19",
+        "Age": "17歳",
         "School": "Gehenna",
+        "Club": "Fuuki",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 10004,
             "ItemType": "swimsuit"
@@ -1975,7 +4584,11 @@
             "水佐仓"
         ],
         "Birthday": "11/8",
+        "Age": "16歳",
         "School": "Gehenna",
+        "Club": "Fuuki",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 10006,
             "ItemType": "swimsuit"
@@ -2006,7 +4619,11 @@
             "水汉堡"
         ],
         "Birthday": "5/11",
+        "Age": "16歳",
         "School": "Gehenna",
+        "Club": "GourmetClub",
+        "Star": 1,
+        "Released": true,
         "Related": {
             "ItemId": 10009,
             "ItemType": "swimsuit"
@@ -2040,7 +4657,11 @@
             "车白"
         ],
         "Birthday": "5/16",
+        "Age": "16歳",
         "School": "Abydos",
+        "Club": "Countermeasure",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 10010,
             "ItemType": "riding"
@@ -2077,7 +4698,11 @@
             "幼瞬"
         ],
         "Birthday": "2/5",
+        "Age": "極秘",
         "School": "Shanhaijing",
+        "Club": "Meihuayuan",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 10011,
             "ItemType": "young"
@@ -2110,7 +4735,11 @@
             "警察坦"
         ],
         "Birthday": "10/22",
+        "Age": "15歳",
         "School": "Valkyrie",
+        "Club": "anzenkyoku",
+        "Star": 2,
+        "Released": true,
         "Related": null
     },
     {
@@ -2139,7 +4768,11 @@
             "私服鼠"
         ],
         "Birthday": "1/3",
+        "Age": "16歳",
         "School": "Shanhaijing",
+        "Club": "Endanbou",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 20002,
             "ItemType": "casual"
@@ -2172,7 +4805,11 @@
             "红兔"
         ],
         "Birthday": "8/17",
+        "Age": "17歳",
         "School": "Millennium",
+        "Club": "CleanNClearing",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 10008,
             "ItemType": "bunnygirl"
@@ -2204,7 +4841,11 @@
             "兔花凛"
         ],
         "Birthday": "2/2",
+        "Age": "16歳",
         "School": "Millennium",
+        "Club": "CleanNClearing",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 20001,
             "ItemType": "bunnygirl"
@@ -2237,7 +4878,11 @@
             "兔斯娜"
         ],
         "Birthday": "3/24",
+        "Age": "17歳",
         "School": "Millennium",
+        "Club": "CleanNClearing",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 16001,
             "ItemType": "bunnygirl"
@@ -2272,7 +4917,11 @@
             "夏老师"
         ],
         "Birthday": "12/4",
+        "Age": "15歳",
         "School": "Trinity",
+        "Club": "HoukagoDessert",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -2300,7 +4949,11 @@
             "马丽"
         ],
         "Birthday": "9/12",
+        "Age": "15歳",
         "School": "Trinity",
+        "Club": "SisterHood",
+        "Star": 2,
+        "Released": true,
         "Related": null
     },
     {
@@ -2327,7 +4980,11 @@
             "Miku"
         ],
         "Birthday": "8/31",
+        "Age": "16歳",
         "School": "ETC",
+        "Club": "EmptyClub",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -2357,7 +5014,11 @@
             "亚子"
         ],
         "Birthday": "12/22",
+        "Age": "17歳",
         "School": "Gehenna",
+        "Club": "Fuuki",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -2387,7 +5048,11 @@
             "温泉针"
         ],
         "Birthday": "8/22",
+        "Age": "15歳",
         "School": "Gehenna",
+        "Club": "Fuuki",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 26000,
             "ItemType": "hotspring"
@@ -2418,7 +5083,11 @@
             "巴"
         ],
         "Birthday": "11/10",
+        "Age": "17歳",
         "School": "RedWinter",
+        "Club": "RedwinterSecretary",
+        "Star": 1,
+        "Released": true,
         "Related": null
     },
     {
@@ -2450,7 +5119,11 @@
             "肃清君"
         ],
         "Birthday": "10/27",
+        "Age": "??歳",
         "School": "RedWinter",
+        "Club": "RedwinterSecretary",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 10017,
             "ItemType": "hotspring"
@@ -2482,7 +5155,11 @@
             "春露"
         ],
         "Birthday": "3/12",
+        "Age": "16歳",
         "School": "Gehenna",
+        "Club": "Kohshinjo68",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 10000,
             "ItemType": "newyear"
@@ -2515,7 +5192,11 @@
             "温泉和香"
         ],
         "Birthday": "2/20",
+        "Age": "16歳",
         "School": "RedWinter",
+        "Club": "Class227",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 26006,
             "ItemType": "hotspring"
@@ -2548,7 +5229,11 @@
             "新月"
         ],
         "Birthday": "7/29",
+        "Age": "16歳",
         "School": "Gehenna",
+        "Club": "Kohshinjo68",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 13006,
             "ItemType": "newyear"
@@ -2580,7 +5265,11 @@
             "春黑猫"
         ],
         "Birthday": "6/25",
+        "Age": "15歳",
         "School": "Abydos",
+        "Club": "Countermeasure",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 13008,
             "ItemType": "newyear"
@@ -2615,7 +5304,11 @@
             "黑狐"
         ],
         "Birthday": "4/3",
+        "Age": "18歳",
         "School": "Hyakkiyako",
+        "Club": "EmptyClub",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -2645,7 +5338,11 @@
             "摆烂姐"
         ],
         "Birthday": "10/21",
+        "Age": "15歳",
         "School": "Valkyrie",
+        "Club": "anzenkyoku",
+        "Star": 1,
+        "Released": true,
         "Related": null
     },
     {
@@ -2677,7 +5374,11 @@
             "泥头车"
         ],
         "Birthday": "4/7",
+        "Age": "17歳",
         "School": "Gehenna",
+        "Club": "Emergentology",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -2709,7 +5410,11 @@
             "円"
         ],
         "Birthday": "4/26",
+        "Age": "17歳",
         "School": "Millennium",
+        "Club": "Veritas",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -2739,7 +5444,11 @@
             "弥守"
         ],
         "Birthday": "3/15",
+        "Age": "16歳",
         "School": "Hyakkiyako",
+        "Club": "Shugyobu",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -2766,7 +5475,11 @@
             "Ui"
         ],
         "Birthday": "4/23",
+        "Age": "17歳",
         "School": "Trinity",
+        "Club": "BookClub",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -2793,7 +5506,11 @@
             "Hinata"
         ],
         "Birthday": "5/17",
+        "Age": "17歳",
         "School": "Trinity",
+        "Club": "SisterHood",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -2824,7 +5541,11 @@
             "阿姨"
         ],
         "Birthday": "11/4",
+        "Age": "16歳",
         "School": "RedWinter",
+        "Club": "RedwinterSecretary",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -2857,7 +5578,11 @@
             "宫子"
         ],
         "Birthday": "1/7",
+        "Age": "15歳",
         "School": "SRT",
+        "Club": "RabbitPlatoon",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -2887,7 +5612,11 @@
             "咲"
         ],
         "Birthday": "4/9",
+        "Age": "15歳",
         "School": "SRT",
+        "Club": "RabbitPlatoon",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -2920,7 +5649,11 @@
             "垃圾桶"
         ],
         "Birthday": "7/12",
+        "Age": "15歳",
         "School": "SRT",
+        "Club": "RabbitPlatoon",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -2949,7 +5682,11 @@
             "牌佬"
         ],
         "Birthday": "7/9",
+        "Age": "15歳",
         "School": "Hyakkiyako",
+        "Club": "Shugyobu",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -2983,7 +5720,11 @@
             "红毛丹"
         ],
         "Birthday": "11/16",
+        "Age": "16歳",
         "School": "Gehenna",
+        "Club": "PandemoniumSociety",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -3015,7 +5756,11 @@
             "巨忍"
         ],
         "Birthday": "4/5",
+        "Age": "15歳",
         "School": "Hyakkiyako",
+        "Club": "NinpoKenkyubu",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -3046,7 +5791,11 @@
             "小满"
         ],
         "Birthday": "2/22",
+        "Age": "17歳",
         "School": "Hyakkiyako",
+        "Club": "NinpoKenkyubu",
+        "Star": 1,
+        "Released": true,
         "Related": null
     },
     {
@@ -3077,7 +5826,11 @@
             "圆香"
         ],
         "Birthday": "1/13",
+        "Age": "16歳",
         "School": "Arius",
+        "Club": "AriusSqud",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -3106,7 +5859,11 @@
             "纳米肚肚"
         ],
         "Birthday": "1/8",
+        "Age": "16歳",
         "School": "Arius",
+        "Club": "AriusSqud",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -3141,7 +5898,11 @@
             "亚津子"
         ],
         "Birthday": "1/20",
+        "Age": "15歳",
         "School": "Arius",
+        "Club": "AriusSqud",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -3173,7 +5934,11 @@
             "水若藻"
         ],
         "Birthday": "4/3",
+        "Age": "18歳",
         "School": "Hyakkiyako",
+        "Club": "EmptyClub",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 10033,
             "ItemType": "swimsuit"
@@ -3206,7 +5971,11 @@
             "水富婆"
         ],
         "Birthday": "9/1",
+        "Age": "16歳",
         "School": "Abydos",
+        "Club": "Countermeasure",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 13004,
             "ItemType": "swimsuit"
@@ -3242,7 +6011,11 @@
             "水叔"
         ],
         "Birthday": "1/2",
+        "Age": "17歳",
         "School": "Abydos",
+        "Club": "Countermeasure",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 10005,
             "ItemType": "swimsuit"
@@ -3274,7 +6047,11 @@
             "水绫音"
         ],
         "Birthday": "11/12",
+        "Age": "15歳",
         "School": "Abydos",
+        "Club": "Countermeasure",
+        "Star": 1,
+        "Released": true,
         "Related": {
             "ItemId": 23005,
             "ItemType": "swimsuit"
@@ -3308,7 +6085,11 @@
             "水狐"
         ],
         "Birthday": "12/16",
+        "Age": "15歳",
         "School": "Hyakkiyako",
+        "Club": "NinpoKenkyubu",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 10014,
             "ItemType": "swimsuit"
@@ -3340,7 +6121,11 @@
             "水千"
         ],
         "Birthday": "7/13",
+        "Age": "16歳",
         "School": "Hyakkiyako",
+        "Club": "Onmyobu",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 13001,
             "ItemType": "swimsuit"
@@ -3374,7 +6159,11 @@
             "水静"
         ],
         "Birthday": "7/7",
+        "Age": "16歳",
         "School": "Hyakkiyako",
+        "Club": "MatsuriOffice",
+        "Star": 1,
+        "Released": true,
         "Related": {
             "ItemId": 23006,
             "ItemType": "swimsuit"
@@ -3411,7 +6200,11 @@
             "家人侠"
         ],
         "Birthday": "9/3",
+        "Age": "17歳",
         "School": "Arius",
+        "Club": "AriusSqud",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -3444,7 +6237,11 @@
             "凯茜帕鲁格"
         ],
         "Birthday": "8/5",
+        "Age": "15歳",
         "School": "Trinity",
+        "Club": "HoukagoDessert",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -3474,7 +6271,11 @@
             "萌绘"
         ],
         "Birthday": "9/13",
+        "Age": "15歳",
         "School": "SRT",
+        "Club": "RabbitPlatoon",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -3507,7 +6308,11 @@
             "11岁"
         ],
         "Birthday": "6/1",
+        "Age": "11歳",
         "School": "Shanhaijing",
+        "Club": "Meihuayuan",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -3536,7 +6341,11 @@
             "情热炮"
         ],
         "Birthday": "11/13",
+        "Age": "17歳",
         "School": "Millennium",
+        "Club": "Engineer",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 23004,
             "ItemType": "cheerleader"
@@ -3570,7 +6379,11 @@
             "诺雅"
         ],
         "Birthday": "4/13",
+        "Age": "16歳",
         "School": "Millennium",
+        "Club": "TheSeminar",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -3598,7 +6411,11 @@
             "拉拉响"
         ],
         "Birthday": "4/2",
+        "Age": "15歳",
         "School": "Millennium",
+        "Club": "Engineer",
+        "Star": 1,
+        "Released": true,
         "Related": {
             "ItemId": 20000,
             "ItemType": "cheerleader"
@@ -3630,7 +6447,11 @@
             "白兔"
         ],
         "Birthday": "4/1",
+        "Age": "16歳",
         "School": "Millennium",
+        "Club": "CleanNClearing",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 13000,
             "ItemType": "bunnygirl"
@@ -3663,7 +6484,11 @@
             "运动包人"
         ],
         "Birthday": "3/14",
+        "Age": "16歳",
         "School": "Millennium",
+        "Club": "TheSeminar",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 13010,
             "ItemType": "gym"
@@ -3695,7 +6520,11 @@
             "体玛"
         ],
         "Birthday": "9/12",
+        "Age": "15歳",
         "School": "Trinity",
+        "Club": "SisterHood",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 23008,
             "ItemType": "gym"
@@ -3726,7 +6555,11 @@
             "体莲"
         ],
         "Birthday": "12/12",
+        "Age": "17歳",
         "School": "Trinity",
+        "Club": "Justice",
+        "Star": 1,
+        "Released": true,
         "Related": {
             "ItemId": 13003,
             "ItemType": "gym"
@@ -3767,7 +6600,11 @@
             "轮椅"
         ],
         "Birthday": "12/10",
+        "Age": "17歳",
         "School": "Millennium",
+        "Club": "SPTF",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -3796,7 +6633,11 @@
             "酒蒙子"
         ],
         "Birthday": "1/22",
+        "Age": "16歳",
         "School": "RedWinter",
+        "Club": "Class227",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -3825,7 +6666,11 @@
             "圣诞小护士"
         ],
         "Birthday": "1/6",
+        "Age": "16歳",
         "School": "Trinity",
+        "Club": "KnightsHospitaller",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 26003,
             "ItemType": "christmas"
@@ -3856,7 +6701,11 @@
             "圣诞大护士"
         ],
         "Birthday": "5/12",
+        "Age": "15歳",
         "School": "Trinity",
+        "Club": "KnightsHospitaller",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 23002,
             "ItemType": "christmas"
@@ -3891,7 +6740,11 @@
             "爆发狙"
         ],
         "Birthday": "3/1",
+        "Age": "17歳",
         "School": "Gehenna",
+        "Club": "GourmetClub",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 10002,
             "ItemType": "newyear"
@@ -3922,7 +6775,11 @@
             "春子"
         ],
         "Birthday": "12/27",
+        "Age": "15歳",
         "School": "Gehenna",
+        "Club": "GourmetClub",
+        "Star": 1,
+        "Released": true,
         "Related": {
             "ItemId": 13007,
             "ItemType": "newyear"
@@ -3957,7 +6814,11 @@
             "春枫香"
         ],
         "Birthday": "4/30",
+        "Age": "16歳",
         "School": "Gehenna",
+        "Club": "FoodService",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 23001,
             "ItemType": "newyear"
@@ -3989,7 +6850,11 @@
             "潘森"
         ],
         "Birthday": "11/23",
+        "Age": "17歳",
         "School": "Trinity",
+        "Club": "KnightsHospitaller",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -4025,7 +6890,11 @@
             "mika"
         ],
         "Birthday": "5/8",
+        "Age": "17歳",
         "School": "Trinity",
+        "Club": "TeaParty",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -4055,7 +6924,11 @@
             "大火龙"
         ],
         "Birthday": "4/25",
+        "Age": "17歳",
         "School": "Gehenna",
+        "Club": "HotSpringsDepartment",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -4088,7 +6961,11 @@
             "康娜"
         ],
         "Birthday": "9/7",
+        "Age": "17歳",
         "School": "Valkyrie",
+        "Club": "PublicPeaceBureau",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -4118,7 +6995,11 @@
             "觉悟"
         ],
         "Birthday": "10/4",
+        "Age": "17歳",
         "School": "Trinity",
+        "Club": "SisterHood",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -4152,7 +7033,11 @@
             "高达"
         ],
         "Birthday": "8/16",
+        "Age": "16歳",
         "School": "Millennium",
+        "Club": "CleanNClearing",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -4183,7 +7068,11 @@
             "大渚教"
         ],
         "Birthday": "7/4",
+        "Age": "17歳",
         "School": "Trinity",
+        "Club": "TeaParty",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -4213,7 +7102,11 @@
             "Koyuki"
         ],
         "Birthday": "2/14",
+        "Age": "15歳",
         "School": "Millennium",
+        "Club": "TheSeminar",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -4242,7 +7135,11 @@
             "春佳"
         ],
         "Birthday": "3/17",
+        "Age": "18歳",
         "School": "Gehenna",
+        "Club": "Kohshinjo68",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 13005,
             "ItemType": "newyear"
@@ -4274,7 +7171,11 @@
             "春遥香"
         ],
         "Birthday": "5/13",
+        "Age": "15歳",
         "School": "Gehenna",
+        "Club": "Kohshinjo68",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 16000,
             "ItemType": "newyear"
@@ -4306,7 +7207,11 @@
             "力木"
         ],
         "Birthday": "10/9",
+        "Age": "17歳",
         "School": "Hyakkiyako",
+        "Club": "Onmyobu",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -4335,7 +7240,11 @@
             "女仆爱"
         ],
         "Birthday": "3/25",
+        "Age": "??歳",
         "School": "Millennium",
+        "Club": "GameDev",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 10015,
             "ItemType": "maid"
@@ -4366,7 +7275,11 @@
             "兔时"
         ],
         "Birthday": "8/16",
+        "Age": "16歳",
         "School": "Millennium",
+        "Club": "CleanNClearing",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 10062,
             "ItemType": "bunnygirl"
@@ -4400,7 +7313,11 @@
             "女仆柚"
         ],
         "Birthday": "8/12",
+        "Age": "16歳",
         "School": "Millennium",
+        "Club": "GameDev",
+        "Star": 1,
+        "Released": true,
         "Related": {
             "ItemId": 10018,
             "ItemType": "maid"
@@ -4436,7 +7353,11 @@
             "芋泥小孩"
         ],
         "Birthday": "5/31",
+        "Age": "15歳",
         "School": "Trinity",
+        "Club": "TrinityVigilance",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -4470,7 +7391,11 @@
             "王留美"
         ],
         "Birthday": "3/5",
+        "Age": "17歳",
         "School": "Shanhaijing",
+        "Club": "BlackTortoisePromenade",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -4502,7 +7427,11 @@
             "弥奈"
         ],
         "Birthday": "9/9",
+        "Age": "16歳",
         "School": "Shanhaijing",
+        "Club": "Genryumon",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -4538,7 +7467,11 @@
             "实梨"
         ],
         "Birthday": "7/14",
+        "Age": "17歳",
         "School": "RedWinter",
+        "Club": "LaborParty",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -4567,7 +7500,11 @@
             "水宫子"
         ],
         "Birthday": "1/7",
+        "Age": "15歳",
         "School": "SRT",
+        "Club": "RabbitPlatoon",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 10038,
             "ItemType": "swimsuit"
@@ -4599,7 +7536,11 @@
             "水saki"
         ],
         "Birthday": "4/9",
+        "Age": "15歳",
         "School": "SRT",
+        "Club": "RabbitPlatoon",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 20014,
             "ItemType": "swimsuit"
@@ -4629,7 +7570,11 @@
             "Miyu"
         ],
         "Birthday": "7/12",
+        "Age": "15歳",
         "School": "SRT",
+        "Club": "RabbitPlatoon",
+        "Star": 1,
+        "Released": true,
         "Related": {
             "ItemId": 10039,
             "ItemType": "swimsuit"
@@ -4661,7 +7606,11 @@
             "水白子"
         ],
         "Birthday": "5/16",
+        "Age": "16歳",
         "School": "Abydos",
+        "Club": "Countermeasure",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 10010,
             "ItemType": "swimsuit"
@@ -4691,7 +7640,11 @@
             "Ui"
         ],
         "Birthday": "4/23",
+        "Age": "17歳",
         "School": "Trinity",
+        "Club": "BookClub",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 10035,
             "ItemType": "swimsuit"
@@ -4724,7 +7677,11 @@
             "咏春"
         ],
         "Birthday": "4/16",
+        "Age": "15歳",
         "School": "Trinity",
+        "Club": "RemedialClass",
+        "Star": 1,
+        "Released": true,
         "Related": {
             "ItemId": 10020,
             "ItemType": "swimsuit"
@@ -4755,7 +7712,11 @@
             "水日向"
         ],
         "Birthday": "5/17",
+        "Age": "17歳",
         "School": "Trinity",
+        "Club": "SisterHood",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 10036,
             "ItemType": "swimsuit"
@@ -4788,7 +7749,11 @@
             "水花"
         ],
         "Birthday": "1/3",
+        "Age": "16歳",
         "School": "Trinity",
+        "Club": "RemedialClass",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 23007,
             "ItemType": "swimsuit"
@@ -4818,7 +7783,11 @@
             "Mimori"
         ],
         "Birthday": "3/15",
+        "Age": "16歳",
         "School": "Hyakkiyako",
+        "Club": "Shugyobu",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 10034,
             "ItemType": "swimsuit"
@@ -4854,7 +7823,11 @@
             "梅露"
         ],
         "Birthday": "12/21",
+        "Age": "16歳",
         "School": "RedWinter",
+        "Club": "KnowledgeLiberationFront",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -4883,7 +7856,11 @@
             "熊熊"
         ],
         "Birthday": "8/7",
+        "Age": "15歳",
         "School": "RedWinter",
+        "Club": "KnowledgeLiberationFront",
+        "Star": 2,
+        "Released": true,
         "Related": null
     },
     {
@@ -4911,7 +7888,11 @@
             "拉拉鸟"
         ],
         "Birthday": "12/31",
+        "Age": "15歳",
         "School": "Millennium",
+        "Club": "Engineer",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 16002,
             "ItemType": "cheerleader"
@@ -4944,7 +7925,11 @@
             "运动狙"
         ],
         "Birthday": "3/1",
+        "Age": "17歳",
         "School": "Gehenna",
+        "Club": "GourmetClub",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 10002,
             "ItemType": "gym"
@@ -4977,7 +7962,11 @@
             "大号杂鱼酱"
         ],
         "Birthday": "11/11",
+        "Age": "16歳",
         "School": "Trinity",
+        "Club": "Justice",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -5006,7 +7995,11 @@
             "霞"
         ],
         "Birthday": "5/24",
+        "Age": "16歳",
         "School": "Gehenna",
+        "Club": "HotSpringsDepartment",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -5033,7 +8026,11 @@
             "Shigure"
         ],
         "Birthday": "1/22",
+        "Age": "16歳",
         "School": "RedWinter",
+        "Club": "Class227",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 10055,
             "ItemType": "hotspring"
@@ -5066,7 +8063,11 @@
             "Level5"
         ],
         "Birthday": "5/2",
+        "Age": "14歳",
         "School": "Tokiwadai",
+        "Club": "EmptyClub",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -5098,7 +8099,11 @@
             "Level5"
         ],
         "Birthday": "???",
+        "Age": "14歳",
         "School": "Tokiwadai",
+        "Club": "EmptyClub",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -5128,14 +8133,18 @@
             "Level6"
         ],
         "Birthday": "3/10",
-        "School": "ETC",
+        "Age": "12歳",
+        "School": "Sakugawa",
+        "Club": "EmptyClub",
+        "Star": 1,
+        "Released": true,
         "Related": null
     },
     {
         "Id": 10081,
         "Avatar": [
             "/api/Avatars/Kivo/Released/10081.webp",
-            "/api/Avatars/Yukari.webp",
+            "/api/Avatars/Fandom/Yukari_Miko_Icon.webp",
             "/api/Avatars/Fandom/Yukari_Icon.png",
             "/api/Avatars/Fandom/Yukari_Middle_School_Icon.png"
         ],
@@ -5170,7 +8179,11 @@
             "📪里"
         ],
         "Birthday": "6/16",
+        "Age": "15歳",
         "School": "Hyakkiyako",
+        "Club": "Hyakkayouran",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -5197,7 +8210,11 @@
             "Renge"
         ],
         "Birthday": "7/23",
+        "Age": "16歳",
         "School": "Hyakkiyako",
+        "Club": "Hyakkayouran",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -5225,7 +8242,11 @@
             "黑猫"
         ],
         "Birthday": "8/8",
+        "Age": "16歳",
         "School": "Hyakkiyako",
+        "Club": "Hyakkayouran",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -5252,7 +8273,11 @@
             "Eimi"
         ],
         "Birthday": "5/1",
+        "Age": "15歳",
         "School": "Millennium",
+        "Club": "SPTF",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 10001,
             "ItemType": "swimsuit"
@@ -5286,7 +8311,11 @@
             "キャンタマ"
         ],
         "Birthday": "1/5",
+        "Age": "17歳",
         "School": "Millennium",
+        "Club": "Veritas",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 26001,
             "ItemType": "camping"
@@ -5319,7 +8348,11 @@
             "小红书"
         ],
         "Birthday": "4/19",
+        "Age": "16歳",
         "School": "Millennium",
+        "Club": "Veritas",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 23003,
             "ItemType": "camping"
@@ -5351,7 +8384,11 @@
             "亚子"
         ],
         "Birthday": "12/22",
+        "Age": "17歳",
         "School": "Gehenna",
+        "Club": "Fuuki",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 20008,
             "ItemType": "dress"
@@ -5385,7 +8422,11 @@
             "小孩"
         ],
         "Birthday": "4/14",
+        "Age": "11歳",
         "School": "Gehenna",
+        "Club": "PandemoniumSociety",
+        "Star": 1,
+        "Released": true,
         "Related": null
     },
     {
@@ -5414,7 +8455,11 @@
             "猴王"
         ],
         "Birthday": "3/19",
+        "Age": "18歳",
         "School": "Gehenna",
+        "Club": "PandemoniumSociety",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -5446,7 +8491,11 @@
             "魔王"
         ],
         "Birthday": "2/19",
+        "Age": "17歳",
         "School": "Gehenna",
+        "Club": "Fuuki",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 10004,
             "ItemType": "dress"
@@ -5476,7 +8525,11 @@
             "Kayoko"
         ],
         "Birthday": "3/17",
+        "Age": "18歳",
         "School": "Gehenna",
+        "Club": "Kohshinjo68",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 13005,
             "ItemType": "dress"
@@ -5508,7 +8561,11 @@
             "礼鲁"
         ],
         "Birthday": "3/12",
+        "Age": "16歳",
         "School": "Gehenna",
+        "Club": "Kohshinjo68",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 10000,
             "ItemType": "dress"
@@ -5538,7 +8595,11 @@
             "Akari"
         ],
         "Birthday": "12/9",
+        "Age": "17歳",
         "School": "Gehenna",
+        "Club": "GourmetClub",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 13002,
             "ItemType": "newyear"
@@ -5572,7 +8633,11 @@
             "狗炮"
         ],
         "Birthday": "7/1",
+        "Age": "15歳",
         "School": "Hyakkiyako",
+        "Club": "MatsuriOffice",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -5601,7 +8666,11 @@
             "导狗"
         ],
         "Birthday": "2/3",
+        "Age": "16歳",
         "School": "Hyakkiyako",
+        "Club": "Shugyobu",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 13009,
             "ItemType": "guide"
@@ -5635,7 +8704,11 @@
             "纱乐"
         ],
         "Birthday": "8/5",
+        "Age": "15歳",
         "School": "Trinity",
+        "Club": "HoukagoDessert",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 10049,
             "ItemType": "band"
@@ -5668,7 +8741,11 @@
             "乐队美"
         ],
         "Birthday": "8/29",
+        "Age": "15歳",
         "School": "Trinity",
+        "Club": "HoukagoDessert",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 26005,
             "ItemType": "band"
@@ -5700,7 +8777,11 @@
             "乐冰"
         ],
         "Birthday": "1/30",
+        "Age": "15歳",
         "School": "Trinity",
+        "Club": "HoukagoDessert",
+        "Star": 1,
+        "Released": true,
         "Related": {
             "ItemId": 23000,
             "ItemType": "band"
@@ -5735,7 +8816,11 @@
             "绮良"
         ],
         "Birthday": "2/24",
+        "Age": "16歳",
         "School": "Gehenna",
+        "Club": "ShinySparkleSociety",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -5760,7 +8845,11 @@
             "Momoi"
         ],
         "Birthday": "12/8",
+        "Age": "15歳",
         "School": "Millennium",
+        "Club": "GameDev",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 13011,
             "ItemType": "maid"
@@ -5788,7 +8877,11 @@
             "Midori"
         ],
         "Birthday": "12/8",
+        "Age": "15歳",
         "School": "Millennium",
+        "Club": "GameDev",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 10016,
             "ItemType": "maid"
@@ -5817,7 +8910,11 @@
             "水黑猫"
         ],
         "Birthday": "6/25",
+        "Age": "15歳",
         "School": "Abydos",
+        "Club": "Countermeasure",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 13008,
             "ItemType": "swimsuit"
@@ -5845,7 +8942,11 @@
             "Kanna"
         ],
         "Birthday": "9/7",
+        "Age": "17歳",
         "School": "Valkyrie",
+        "Club": "PublicPeaceBureau",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 20023,
             "ItemType": "swimsuit"
@@ -5873,7 +8974,11 @@
             "Fubuki"
         ],
         "Birthday": "10/21",
+        "Age": "15歳",
         "School": "Valkyrie",
+        "Club": "anzenkyoku",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 16008,
             "ItemType": "swimsuit"
@@ -5901,7 +9006,11 @@
             "Kirino"
         ],
         "Birthday": "10/22",
+        "Age": "15歳",
         "School": "Valkyrie",
+        "Club": "anzenkyoku",
+        "Star": 1,
+        "Released": true,
         "Related": {
             "ItemId": 13012,
             "ItemType": "swimsuit"
@@ -5929,7 +9038,11 @@
             "Moe"
         ],
         "Birthday": "9/13",
+        "Age": "15歳",
         "School": "SRT",
+        "Club": "RabbitPlatoon",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 20018,
             "ItemType": "swimsuit"
@@ -5960,38 +9073,11 @@
             "盾大叔"
         ],
         "Birthday": "1/2",
+        "Age": "17歳",
         "School": "Abydos",
-        "Related": {
-            "ItemId": 10005,
-            "ItemType": "armed"
-        }
-    },
-    {
-        "Id": 10099,
-        "Avatar": [
-            "/api/Avatars/Kivo/Released/10099.webp",
-            "/api/Avatars/Fandom/Hoshino_Armed_Icon.png"
-        ],
-        "Name": {
-            "en": "Hoshino (Armed)",
-            "jp": "ホシノ（臨戦）",
-            "kr": "호시노(무장)",
-            "tw": "星野（武裝）",
-            "zh": "星野（临战）"
-        },
-        "Bio": {
-            "jp": "お昼寝中。急ぎのときは電話して～",
-            "kr": "낮잠 중~ 긴급상황은 전화로 부탁!",
-            "zh": "午睡中。急事请打电话~"
-        },
-        "Nickname": [
-            "Hoshino",
-            "百叔",
-            "星战",
-            "枪大叔"
-        ],
-        "Birthday": "1/2",
-        "School": "Abydos",
+        "Club": "Countermeasure",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 10005,
             "ItemType": "armed"
@@ -6002,7 +9088,9 @@
         "Avatar": [
             "/api/Avatars/Kivo/Released/10100.webp",
             "/api/Avatars/Fandom/Shiroko_Terror_Icon.png",
-            "/api/Avatars/Fandom/Shiroko_Terror_2_Icon.png"
+            "/api/Avatars/Fandom/Shiroko_Terror_2_Icon.png",
+            "/api/Avatars/Fandom/Shiroko_Terror_Robber_Icon.webp",
+            "/api/Avatars/Fandom/Shiroko_Terror_2_Robber_Icon.webp"
         ],
         "Name": {
             "en": "Shiroko*Terror",
@@ -6026,7 +9114,11 @@
             "白子＊TERROR"
         ],
         "Birthday": "5/16",
+        "Age": "17歳",
         "School": "Abydos",
+        "Club": "AbydosStudentCouncil",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 10010,
             "ItemType": "terror"
@@ -6054,7 +9146,11 @@
             "Atsuko"
         ],
         "Birthday": "1/20",
+        "Age": "15歳",
         "School": "Arius",
+        "Club": "AriusSqud",
+        "Star": 1,
+        "Released": true,
         "Related": {
             "ItemId": 10042,
             "ItemType": "swimsuit"
@@ -6082,7 +9178,11 @@
             "Saori"
         ],
         "Birthday": "9/3",
+        "Age": "17歳",
         "School": "Arius",
+        "Club": "AriusSqud",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 10048,
             "ItemType": "swimsuit"
@@ -6110,7 +9210,11 @@
             "Hiyori"
         ],
         "Birthday": "1/8",
+        "Age": "16歳",
         "School": "Arius",
+        "Club": "AriusSqud",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 20017,
             "ItemType": "swimsuit"
@@ -6140,7 +9244,11 @@
             "旗姨"
         ],
         "Birthday": "11/4",
+        "Age": "16歳",
         "School": "RedWinter",
+        "Club": "RedwinterSecretary",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 10037,
             "ItemType": "qipao"
@@ -6170,7 +9278,11 @@
             "旗8"
         ],
         "Birthday": "11/10",
+        "Age": "17歳",
         "School": "RedWinter",
+        "Club": "RedwinterSecretary",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 16007,
             "ItemType": "qipao"
@@ -6200,7 +9312,11 @@
             "丽情"
         ],
         "Birthday": "3/3",
+        "Age": "17歳",
         "School": "Shanhaijing",
+        "Club": "BlackTortoisePromenade",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -6228,7 +9344,11 @@
             "妃姬"
         ],
         "Birthday": "2/19",
+        "Age": "17歳",
         "School": "Shanhaijing",
+        "Club": "Genryumon",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -6253,7 +9373,11 @@
             "Mari"
         ],
         "Birthday": "9/12",
+        "Age": "15歳",
         "School": "Trinity",
+        "Club": "SisterHood",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 23008,
             "ItemType": "idol"
@@ -6281,7 +9405,11 @@
             "Sakurako"
         ],
         "Birthday": "10/4",
+        "Age": "17歳",
         "School": "Trinity",
+        "Club": "SisterHood",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 10061,
             "ItemType": "idol"
@@ -6309,7 +9437,11 @@
             "Mine"
         ],
         "Birthday": "11/23",
+        "Age": "17歳",
         "School": "Trinity",
+        "Club": "KnightsHospitaller",
+        "Star": 1,
+        "Released": true,
         "Related": {
             "ItemId": 10058,
             "ItemType": "idol"
@@ -6336,7 +9468,11 @@
             "千秋"
         ],
         "Birthday": "9/22",
+        "Age": "16歳",
         "School": "Gehenna",
+        "Club": "PandemoniumSociety",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -6359,7 +9495,11 @@
             "Satsuki"
         ],
         "Birthday": "4/10",
+        "Age": "17歳",
         "School": "Gehenna",
+        "Club": "PandemoniumSociety",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -6384,7 +9524,11 @@
             "睡香"
         ],
         "Birthday": "3/14",
+        "Age": "16歳",
         "School": "Millennium",
+        "Club": "TheSeminar",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 13010,
             "ItemType": "pajama"
@@ -6410,7 +9554,11 @@
             "Noa"
         ],
         "Birthday": "4/13",
+        "Age": "16歳",
         "School": "Millennium",
+        "Club": "TheSeminar",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 10052,
             "ItemType": "pajama"
@@ -6438,7 +9586,11 @@
             "谜语人"
         ],
         "Birthday": "9/29",
+        "Age": "17歳",
         "School": "Trinity",
+        "Club": "TeaParty",
+        "Star": 3,
+        "Released": true,
         "Related": null
     },
     {
@@ -6461,7 +9613,11 @@
             "Asuna"
         ],
         "Birthday": "3/24",
+        "Age": "17歳",
         "School": "Millennium",
+        "Club": "CleanNClearing",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 16001,
             "ItemType": "uniform"
@@ -6487,7 +9643,11 @@
             "Karin"
         ],
         "Birthday": "2/2",
+        "Age": "16歳",
         "School": "Millennium",
+        "Club": "CleanNClearing",
+        "Star": 1,
+        "Released": true,
         "Related": {
             "ItemId": 20001,
             "ItemType": "uniform"
@@ -6512,7 +9672,11 @@
             "Neru"
         ],
         "Birthday": "8/17",
+        "Age": "17歳",
         "School": "Millennium",
+        "Club": "CleanNClearing",
+        "Star": 3,
+        "Released": true,
         "Related": {
             "ItemId": 10008,
             "ItemType": "uniform"
@@ -6541,7 +9705,11 @@
             "莉央"
         ],
         "Birthday": "6/6",
+        "Age": "17歳",
         "School": "Millennium",
+        "Club": "TheSeminar",
+        "Star": 3,
+        "Released": true,
         "Related": null
     }
 ]
