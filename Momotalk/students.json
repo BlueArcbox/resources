@@ -824,6 +824,7 @@
         "Bio": {
             "en": "Come get delicious, delicious Oinari-san, right here~",
             "jp": "おいしい稲荷寿司がありますよ、こちら～",
+            "kr": "맛있는 이나리 스시가 있어요, 여기~",
             "tw": "有好吃的稻荷壽司哦，這里~",
             "zh": "有好吃的稻荷寿司哦，这里~"
         },
@@ -852,6 +853,7 @@
         "Bio": {
             "en": "I don't want your egg inarizushi! Salmon roe is better!",
             "jp": "稲荷寿司はいらない！イクラの方がいい！",
+            "kr": "이나리 스시는 필요 없어요! 소라 알라는 더 좋아요!",
             "tw": "不要稻荷壽司！要鮭魚子壽司！",
             "zh": "不要稻荷寿司！要鲑鱼子寿司！"
         },
@@ -879,6 +881,7 @@
         "Bio": {
             "en": "It's like the cute sniper makes a mistake because of too many enemies...",
             "jp": "可愛いスナイパーが敵が多すぎてミスするような…",
+            "kr": "귀여운 스나이퍼가 적이 너무 많아서 실수하는 것처럼…",
             "tw": "這就像可愛的狙擊手因為敵人太多而犯的錯",
             "zh": "这就像可爱的狙击手因为敌人太多而犯的错"
         },
@@ -935,6 +938,7 @@
         "Bio": {
             "en": "Kivotos Monthly only sticks to the facts!",
             "jp": "事実だけを追求します！",
+            "kr": "사실만 추구합니다!",
             "tw": "基沃托斯月刊只堅持事實！",
             "zh": "鸡窝托斯月刊只坚持事实！"
         },
@@ -964,6 +968,7 @@
         "Bio": {
             "en": "Idol reporter of Kronos School's News Club, Kawaru Shinon!",
             "jp": "クロノス学園のアイドル記者、シノンです！",
+            "kr": "크로노스 학원의 아이돌 기자, 시논입니다!",
             "tw": "克羅諾斯學園新聞部的偶像記者，詩乃！",
             "zh": "克罗诺斯学园新闻部的偶像记者，诗乃！"
         },
@@ -1019,6 +1024,7 @@
         "Bio": {
             "en": "Uhuhu, it's a beautiful night, everyone.",
             "jp": "うふふ、美しい夜ですね、みんな",
+            "kr": "희희, 아름다운 밤이네요, 모두",
             "tw": "嗚呼，這是一個美麗的夜晚，大家。",
             "zh": "呜呼，这是一个美丽的夜晚，大家。"
         },
