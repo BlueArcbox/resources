@@ -4418,7 +4418,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10019,
-            "ItemType": "swimsuit"
+            "ItemType": "水着"
         }
     },
     {
@@ -4453,7 +4453,7 @@
         "Released": true,
         "Related": {
             "ItemId": 20003,
-            "ItemType": "swimsuit"
+            "ItemType": "水着"
         }
     },
     {
@@ -4488,7 +4488,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10013,
-            "ItemType": "swimsuit"
+            "ItemType": "水着"
         }
     },
     {
@@ -4525,7 +4525,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10003,
-            "ItemType": "swimsuit"
+            "ItemType": "水着"
         }
     },
     {
@@ -4561,7 +4561,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10004,
-            "ItemType": "swimsuit"
+            "ItemType": "水着"
         }
     },
     {
@@ -4596,7 +4596,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10006,
-            "ItemType": "swimsuit"
+            "ItemType": "水着"
         }
     },
     {
@@ -4631,7 +4631,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10009,
-            "ItemType": "swimsuit"
+            "ItemType": "水着"
         }
     },
     {
@@ -4669,7 +4669,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10010,
-            "ItemType": "riding"
+            "ItemType": "ライディング"
         }
     },
     {
@@ -4710,7 +4710,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10011,
-            "ItemType": "young"
+            "ItemType": "幼女"
         }
     },
     {
@@ -4780,7 +4780,7 @@
         "Released": true,
         "Related": {
             "ItemId": 20002,
-            "ItemType": "casual"
+            "ItemType": "私服"
         }
     },
     {
@@ -4817,7 +4817,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10008,
-            "ItemType": "bunnygirl"
+            "ItemType": "バニーガール"
         }
     },
     {
@@ -4853,7 +4853,7 @@
         "Released": true,
         "Related": {
             "ItemId": 20001,
-            "ItemType": "bunnygirl"
+            "ItemType": "バニーガール"
         }
     },
     {
@@ -4890,7 +4890,7 @@
         "Released": true,
         "Related": {
             "ItemId": 16001,
-            "ItemType": "bunnygirl"
+            "ItemType": "バニーガール"
         }
     },
     {
@@ -5060,7 +5060,7 @@
         "Released": true,
         "Related": {
             "ItemId": 26000,
-            "ItemType": "hotspring"
+            "ItemType": "温泉"
         }
     },
     {
@@ -5131,7 +5131,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10017,
-            "ItemType": "hotspring"
+            "ItemType": "温泉"
         }
     },
     {
@@ -5167,7 +5167,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10000,
-            "ItemType": "newyear"
+            "ItemType": "正月"
         }
     },
     {
@@ -5204,7 +5204,7 @@
         "Released": true,
         "Related": {
             "ItemId": 26006,
-            "ItemType": "hotspring"
+            "ItemType": "温泉"
         }
     },
     {
@@ -5241,7 +5241,7 @@
         "Released": true,
         "Related": {
             "ItemId": 13006,
-            "ItemType": "newyear"
+            "ItemType": "正月"
         }
     },
     {
@@ -5277,7 +5277,7 @@
         "Released": true,
         "Related": {
             "ItemId": 13008,
-            "ItemType": "newyear"
+            "ItemType": "正月"
         }
     },
     {
@@ -5946,7 +5946,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10033,
-            "ItemType": "swimsuit"
+            "ItemType": "水着"
         }
     },
     {
@@ -5983,7 +5983,7 @@
         "Released": true,
         "Related": {
             "ItemId": 13004,
-            "ItemType": "swimsuit"
+            "ItemType": "水着"
         }
     },
     {
@@ -6023,7 +6023,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10005,
-            "ItemType": "swimsuit"
+            "ItemType": "水着"
         }
     },
     {
@@ -6059,7 +6059,7 @@
         "Released": true,
         "Related": {
             "ItemId": 23005,
-            "ItemType": "swimsuit"
+            "ItemType": "水着"
         }
     },
     {
@@ -6097,7 +6097,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10014,
-            "ItemType": "swimsuit"
+            "ItemType": "水着"
         }
     },
     {
@@ -6133,7 +6133,7 @@
         "Released": true,
         "Related": {
             "ItemId": 13001,
-            "ItemType": "swimsuit"
+            "ItemType": "水着"
         }
     },
     {
@@ -6171,7 +6171,7 @@
         "Released": true,
         "Related": {
             "ItemId": 23006,
-            "ItemType": "swimsuit"
+            "ItemType": "水着"
         }
     },
     {
@@ -6353,7 +6353,7 @@
         "Released": true,
         "Related": {
             "ItemId": 23004,
-            "ItemType": "cheerleader"
+            "ItemType": "応援団"
         }
     },
     {
@@ -6423,7 +6423,7 @@
         "Released": true,
         "Related": {
             "ItemId": 20000,
-            "ItemType": "cheerleader"
+            "ItemType": "応援団"
         }
     },
     {
@@ -6459,7 +6459,7 @@
         "Released": true,
         "Related": {
             "ItemId": 13000,
-            "ItemType": "bunnygirl"
+            "ItemType": "バニーガール"
         }
     },
     {
@@ -6496,7 +6496,7 @@
         "Released": true,
         "Related": {
             "ItemId": 13010,
-            "ItemType": "gym"
+            "ItemType": "体操服"
         }
     },
     {
@@ -6532,7 +6532,7 @@
         "Released": true,
         "Related": {
             "ItemId": 23008,
-            "ItemType": "gym"
+            "ItemType": "体操服"
         }
     },
     {
@@ -6567,7 +6567,7 @@
         "Released": true,
         "Related": {
             "ItemId": 13003,
-            "ItemType": "gym"
+            "ItemType": "体操服"
         }
     },
     {
@@ -6678,7 +6678,7 @@
         "Released": true,
         "Related": {
             "ItemId": 26003,
-            "ItemType": "christmas"
+            "ItemType": "クリスマス"
         }
     },
     {
@@ -6713,7 +6713,7 @@
         "Released": true,
         "Related": {
             "ItemId": 23002,
-            "ItemType": "christmas"
+            "ItemType": "クリスマス"
         }
     },
     {
@@ -6752,7 +6752,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10002,
-            "ItemType": "newyear"
+            "ItemType": "正月"
         }
     },
     {
@@ -6787,7 +6787,7 @@
         "Released": true,
         "Related": {
             "ItemId": 13007,
-            "ItemType": "newyear"
+            "ItemType": "正月"
         }
     },
     {
@@ -6826,7 +6826,7 @@
         "Released": true,
         "Related": {
             "ItemId": 23001,
-            "ItemType": "newyear"
+            "ItemType": "正月"
         }
     },
     {
@@ -7147,7 +7147,7 @@
         "Released": true,
         "Related": {
             "ItemId": 13005,
-            "ItemType": "newyear"
+            "ItemType": "正月"
         }
     },
     {
@@ -7183,7 +7183,7 @@
         "Released": true,
         "Related": {
             "ItemId": 16000,
-            "ItemType": "newyear"
+            "ItemType": "正月"
         }
     },
     {
@@ -7252,7 +7252,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10015,
-            "ItemType": "maid"
+            "ItemType": "メイド"
         }
     },
     {
@@ -7287,7 +7287,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10062,
-            "ItemType": "bunnygirl"
+            "ItemType": "バニーガール"
         }
     },
     {
@@ -7325,7 +7325,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10018,
-            "ItemType": "maid"
+            "ItemType": "メイド"
         }
     },
     {
@@ -7512,7 +7512,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10038,
-            "ItemType": "swimsuit"
+            "ItemType": "水着"
         }
     },
     {
@@ -7548,7 +7548,7 @@
         "Released": true,
         "Related": {
             "ItemId": 20014,
-            "ItemType": "swimsuit"
+            "ItemType": "水着"
         }
     },
     {
@@ -7582,7 +7582,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10039,
-            "ItemType": "swimsuit"
+            "ItemType": "水着"
         }
     },
     {
@@ -7618,7 +7618,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10010,
-            "ItemType": "swimsuit"
+            "ItemType": "水着"
         }
     },
     {
@@ -7652,7 +7652,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10035,
-            "ItemType": "swimsuit"
+            "ItemType": "水着"
         }
     },
     {
@@ -7689,7 +7689,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10020,
-            "ItemType": "swimsuit"
+            "ItemType": "水着"
         }
     },
     {
@@ -7724,7 +7724,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10036,
-            "ItemType": "swimsuit"
+            "ItemType": "水着"
         }
     },
     {
@@ -7761,7 +7761,7 @@
         "Released": true,
         "Related": {
             "ItemId": 23007,
-            "ItemType": "swimsuit"
+            "ItemType": "水着"
         }
     },
     {
@@ -7795,7 +7795,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10034,
-            "ItemType": "swimsuit"
+            "ItemType": "水着"
         }
     },
     {
@@ -7900,7 +7900,7 @@
         "Released": true,
         "Related": {
             "ItemId": 16002,
-            "ItemType": "cheerleader"
+            "ItemType": "応援団"
         }
     },
     {
@@ -7937,7 +7937,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10002,
-            "ItemType": "gym"
+            "ItemType": "体操服"
         }
     },
     {
@@ -8038,7 +8038,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10055,
-            "ItemType": "hotspring"
+            "ItemType": "温泉"
         }
     },
     {
@@ -8285,7 +8285,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10001,
-            "ItemType": "swimsuit"
+            "ItemType": "水着"
         }
     },
     {
@@ -8323,7 +8323,7 @@
         "Released": true,
         "Related": {
             "ItemId": 26001,
-            "ItemType": "camping"
+            "ItemType": "キャンプ"
         }
     },
     {
@@ -8360,7 +8360,7 @@
         "Released": true,
         "Related": {
             "ItemId": 23003,
-            "ItemType": "camping"
+            "ItemType": "キャンプ"
         }
     },
     {
@@ -8396,7 +8396,7 @@
         "Released": true,
         "Related": {
             "ItemId": 20008,
-            "ItemType": "dress"
+            "ItemType": "ドレス"
         }
     },
     {
@@ -8503,7 +8503,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10004,
-            "ItemType": "dress"
+            "ItemType": "ドレス"
         }
     },
     {
@@ -8537,7 +8537,7 @@
         "Released": true,
         "Related": {
             "ItemId": 13005,
-            "ItemType": "dress"
+            "ItemType": "ドレス"
         }
     },
     {
@@ -8573,7 +8573,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10000,
-            "ItemType": "dress"
+            "ItemType": "ドレス"
         }
     },
     {
@@ -8607,7 +8607,7 @@
         "Released": true,
         "Related": {
             "ItemId": 13002,
-            "ItemType": "newyear"
+            "ItemType": "正月"
         }
     },
     {
@@ -8678,7 +8678,7 @@
         "Released": true,
         "Related": {
             "ItemId": 13009,
-            "ItemType": "guide"
+            "ItemType": "ガイド"
         }
     },
     {
@@ -8716,7 +8716,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10049,
-            "ItemType": "band"
+            "ItemType": "バンド"
         }
     },
     {
@@ -8753,7 +8753,7 @@
         "Released": true,
         "Related": {
             "ItemId": 26005,
-            "ItemType": "band"
+            "ItemType": "バンド"
         }
     },
     {
@@ -8789,7 +8789,7 @@
         "Released": true,
         "Related": {
             "ItemId": 23000,
-            "ItemType": "band"
+            "ItemType": "バンド"
         }
     },
     {
@@ -8857,7 +8857,7 @@
         "Released": true,
         "Related": {
             "ItemId": 13011,
-            "ItemType": "maid"
+            "ItemType": "メイド"
         }
     },
     {
@@ -8889,7 +8889,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10016,
-            "ItemType": "maid"
+            "ItemType": "メイド"
         }
     },
     {
@@ -8922,7 +8922,7 @@
         "Released": true,
         "Related": {
             "ItemId": 13008,
-            "ItemType": "swimsuit"
+            "ItemType": "水着"
         }
     },
     {
@@ -8954,7 +8954,7 @@
         "Released": true,
         "Related": {
             "ItemId": 20023,
-            "ItemType": "swimsuit"
+            "ItemType": "水着"
         }
     },
     {
@@ -8986,7 +8986,7 @@
         "Released": true,
         "Related": {
             "ItemId": 16008,
-            "ItemType": "swimsuit"
+            "ItemType": "水着"
         }
     },
     {
@@ -9018,7 +9018,7 @@
         "Released": true,
         "Related": {
             "ItemId": 13012,
-            "ItemType": "swimsuit"
+            "ItemType": "水着"
         }
     },
     {
@@ -9050,7 +9050,7 @@
         "Released": true,
         "Related": {
             "ItemId": 20018,
-            "ItemType": "swimsuit"
+            "ItemType": "水着"
         }
     },
     {
@@ -9085,7 +9085,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10005,
-            "ItemType": "armed"
+            "ItemType": "臨戦"
         }
     },
     {
@@ -9126,7 +9126,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10010,
-            "ItemType": "terror"
+            "ItemType": "テラー"
         }
     },
     {
@@ -9158,7 +9158,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10042,
-            "ItemType": "swimsuit"
+            "ItemType": "水着"
         }
     },
     {
@@ -9190,7 +9190,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10048,
-            "ItemType": "swimsuit"
+            "ItemType": "水着"
         }
     },
     {
@@ -9222,7 +9222,7 @@
         "Released": true,
         "Related": {
             "ItemId": 20017,
-            "ItemType": "swimsuit"
+            "ItemType": "水着"
         }
     },
     {
@@ -9256,7 +9256,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10037,
-            "ItemType": "qipao"
+            "ItemType": "チーパオ"
         }
     },
     {
@@ -9290,7 +9290,7 @@
         "Released": true,
         "Related": {
             "ItemId": 16007,
-            "ItemType": "qipao"
+            "ItemType": "チーパオ"
         }
     },
     {
@@ -9385,7 +9385,7 @@
         "Released": true,
         "Related": {
             "ItemId": 23008,
-            "ItemType": "idol"
+            "ItemType": "アイドル"
         }
     },
     {
@@ -9417,7 +9417,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10061,
-            "ItemType": "idol"
+            "ItemType": "アイドル"
         }
     },
     {
@@ -9449,7 +9449,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10058,
-            "ItemType": "idol"
+            "ItemType": "アイドル"
         }
     },
     {
@@ -9536,7 +9536,7 @@
         "Released": true,
         "Related": {
             "ItemId": 13010,
-            "ItemType": "pajama"
+            "ItemType": "パジャマ"
         }
     },
     {
@@ -9566,7 +9566,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10052,
-            "ItemType": "pajama"
+            "ItemType": "パジャマ"
         }
     },
     {
@@ -9625,7 +9625,7 @@
         "Released": true,
         "Related": {
             "ItemId": 16001,
-            "ItemType": "uniform"
+            "ItemType": "制服"
         }
     },
     {
@@ -9655,7 +9655,7 @@
         "Released": true,
         "Related": {
             "ItemId": 20001,
-            "ItemType": "uniform"
+            "ItemType": "制服"
         }
     },
     {
@@ -9684,7 +9684,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10008,
-            "ItemType": "uniform"
+            "ItemType": "制服"
         }
     },
     {
@@ -9744,7 +9744,7 @@
         "Released": true,
         "Related": {
             "ItemId": 10007,
-            "ItemType": "camping"
+            "ItemType": "キャンプ"
         }
     }
 ]

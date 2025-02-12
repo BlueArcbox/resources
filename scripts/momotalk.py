@@ -25,6 +25,7 @@ ENDPOINTS = {
     "STUDENTS_JSON": Path("Momotalk/students.json"),
     "KIVO_MAP_JSON": Path("scripts/id_map.json"),
     "AVATAR_BASE": Path("Avatars/Kivo/Released"),
+    "SKIN_TABLE": Path("Momotalk/prefixTable.json"),
 }
 FIXED_RELEASE_DATE = {
     16005: datetime(2021, 6, 30, 11, 0, 1),
@@ -69,6 +70,26 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+# Format better SKIN_TABLE
+class CompactListEncoder(json.JSONEncoder):
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        self.indent_level = 0
+        
+    def encode(self, obj):
+        if isinstance(obj, dict):
+            self.indent_level += 1
+            items = []
+            for key, value in obj.items():
+                key_repr = f'"{key}"' if isinstance(key, str) else json.dumps(key)
+                encoded_value = self.encode(value)
+                items.append(f'{" " * self.indent * self.indent_level}{key_repr}: {encoded_value}')
+            self.indent_level -= 1
+            return "{\n" + ",\n".join(items) + "\n" + " " * self.indent * self.indent_level + "}"
+        elif isinstance(obj, list):
+            return "[" + ", ".join(json.dumps(item, ensure_ascii=False) for item in obj) + "]"
+        else:
+            return json.dumps(obj, ensure_ascii=False)
 
 class LocalizedText(TypedDict):
     en: str
@@ -501,52 +522,74 @@ class StudentSyncKivo:
             self._fill_student_filed(filled_s, kivo_item)
         return filled_s
 
+def check_skin_table(skin):
+    with open(ENDPOINTS["SKIN_TABLE"], 'r', encoding="utf-8") as f:
+        table = json.loads(f.read())
+    if skin in table:
+        return
+
+    table[skin] = []
+    table = dict(sorted(table.items()))
+    with open(ENDPOINTS["SKIN_TABLE"], 'w', encoding="utf-8") as f:
+        f.write(json.dumps(table, indent=4, ensure_ascii=False, cls=CompactListEncoder))
 
 if __name__ == "__main__":
     try:
         logger.info("🎮 Starting student data synchronization...")
 
         # Update local data
-        old_data = json.load(open(ENDPOINTS["STUDENTS_JSON"], "r", encoding="utf-8"))
-        new_data = copy.deepcopy(old_data)
+        existing_students = json.load(open(ENDPOINTS["STUDENTS_JSON"], "r", encoding="utf-8"))
+        updated_students = copy.deepcopy(existing_students)
 
-        student_g = StudentSyncGithub()
-        student_k = StudentSyncKivo()
-        student_list = student_g.data
+        github_sync = StudentSyncGithub()
+        kivo_sync = StudentSyncKivo()
+        github_studuents = github_sync.data
 
-        find_first = lambda value: next((x for x in new_data if x["Id"] == value), None)
+        find_student_by_id = lambda value: next((x for x in updated_students if x["Id"] == value), None)
+        find_student_by_jp_name = lambda value: next((x for x in github_studuents if x["Name"]["jp"] == value), None)
 
         # Process each student
-        for item in student_list:
-            if item["Id"] == 10099: continue ## 临战星野盾形态
-            target_item = find_first(item["Id"])
-            student_id = item["Id"]
-            student_name = item["Name"]["jp"]
+        for github_student in github_studuents:
+            if github_student["Id"] == 10099: continue ## 临战星野盾形态
+            existing_student = find_student_by_id(github_student["Id"])
+            student_id = github_student["Id"]
+            student_name = github_student["Name"]["jp"]
             info_msg = f"{Colors.RED}{student_id}-{student_name}{Colors.RESET}"
 
-            if not target_item:
+            # new student in jp server
+            if not existing_student:
                 logger.info(f"➕ Updating {info_msg} from Kivo")
-                new_data.append(student_k.fill_student(item))
+                new_student = kivo_sync.fill_student(github_student)
 
-            elif "tw" not in target_item["Name"] and "tw" in item["Name"]:
+                # a studen with skin
+                skin = re.match(r"(.*?)（(.*)）", student_name)
+                if skin:
+                    student_origin_name = skin.group(1)
+                    student_origin_id = find_student_by_jp_name(student_origin_name)["Id"]
+                    student_skin = skin.group(2)
+                    new_student["Related"] = {"ItemId": student_origin_id, "ItemType": student_skin}
+                    check_skin_table(student_skin)
+
+                updated_students.append(new_student)
+
+            # new student in global server
+            elif "tw" not in existing_student["Name"] and "tw" in github_student["Name"]:
                 logger.info(f"➕ Updating {info_msg} from global data")
-                zh_name = target_item["Name"].get("zh", "")
-                target_item["Name"] = item["Name"]
-                target_item["Name"].update({"zh": zh_name})
+                zh_name = existing_student["Name"].get("zh", "") # backup zh name
+                existing_student["Name"] = github_student["Name"]
+                existing_student["Name"].update({"zh": zh_name})
 
-                zh_bio = target_item["Bio"].get("zh", "")
-                target_item["Bio"] = item["Bio"]
-                target_item["Bio"].update({"zh": zh_bio})
+                zh_bio = existing_student["Bio"].get("zh", "") # backup zh momotalk status
+                existing_student["Bio"] = github_student["Bio"]
+                existing_student["Bio"].update({"zh": zh_bio})
 
         # Save updated data
         logger.info("💾 Saving updated data...")
         sort_by_key = lambda table: dict(sorted(table.items()))
         with open(ENDPOINTS["STUDENTS_JSON"], "w", encoding="utf-8") as f:
-            f.write(json.dumps(new_data, indent=4, ensure_ascii=False))
+            f.write(json.dumps(updated_students, indent=4, ensure_ascii=False))
         with open(ENDPOINTS["KIVO_MAP_JSON"], "w", encoding="utf-8") as f:
-            f.write(
-                json.dumps(sort_by_key(student_k.data), indent=4, ensure_ascii=False)
-            )
+            f.write(json.dumps(sort_by_key(kivo_sync.data), indent=4, ensure_ascii=False))
 
         logger.success("Synchronization completed successfully!")
     except Exception as e:
