@@ -2880,6 +2880,20 @@
             true
         ]
     },
+    "20042": {
+        "kivo_id": 343,
+        "gamekee_id": 647136,
+        "avatar": "https://static.kivo.wiki/images/students/小涂 真纪/露营/Student_Portrait_CH0235_Collection.png",
+        "momotalk": "没有网真糟糕！",
+        "name_en": "Maki",
+        "name_jp": "マキ（キャンプ）",
+        "name_zh": "真纪（露营）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
     "23000": {
         "kivo_id": 10,
         "gamekee_id": 66274,

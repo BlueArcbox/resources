@@ -9717,5 +9717,31 @@
         "Star": 3,
         "Released": true,
         "Related": null
+    },
+    {
+        "Id": 20042,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/20042.webp"
+        ],
+        "Name": {
+            "jp": "マキ（キャンプ）",
+            "kr": "마키(캠핑)",
+            "zh": "真纪（露营）"
+        },
+        "Bio": {
+            "jp": "ネットがないのは嫌！",
+            "kr": "춥고 심심해~",
+            "zh": "没有网真糟糕！"
+        },
+        "Nickname": [
+            "Maki"
+        ],
+        "Birthday": "8/1",
+        "Age": "15歳",
+        "School": "Millennium",
+        "Club": "Veritas",
+        "Star": 3,
+        "Released": true,
+        "Related": null
     }
 ]
