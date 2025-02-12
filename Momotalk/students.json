@@ -2629,10 +2629,8 @@
         "Id": 10007,
         "Avatar": [
             "/api/Avatars/Kivo/Released/10007.webp",
-            "/api/Avatars/Kivo/Unreleased/小涂 真纪_露营.png",
             "/api/Avatars/Kivo/Unreleased/小涂 真纪_睡衣.png",
-            "/api/Avatars/Fandom/Maki_Icon.png",
-            "/api/Avatars/Fandom/Maki_Camp_Icon.png"
+            "/api/Avatars/Fandom/Maki_Icon.png"
         ],
         "Name": {
             "en": "Maki",
@@ -2656,6 +2654,7 @@
             "喷漆",
             "真寄",
             "彩弹",
+            "兄弟",
             "真纪老祖",
             "大蛇克星"
         ],
@@ -9721,7 +9720,8 @@
     {
         "Id": 20042,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/20042.webp"
+            "/api/Avatars/Kivo/Released/20042.webp",
+            "/api/Avatars/Fandom/Maki_Camp_Icon.png"
         ],
         "Name": {
             "jp": "マキ（キャンプ）",
@@ -9742,6 +9742,9 @@
         "Club": "Veritas",
         "Star": 3,
         "Released": true,
-        "Related": null
+        "Related": {
+            "ItemId": 10007,
+            "ItemType": "camping"
+        }
     }
 ]
