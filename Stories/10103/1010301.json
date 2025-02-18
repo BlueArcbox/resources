@@ -3,8 +3,8 @@
         "CharacterId": 10103,
         "MessageJP": "マリナ（チーパオ）",
         "MessageKR": "마리나(치파오)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "瑪麗娜（旗袍）",
+        "MessageEN": "Marina (Qipao)"
     },
     {
         "MessageId": 101020010,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師……？",
+        "MessageEN": "Sensei...?"
     },
     {
         "MessageId": 101030020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "マリナ、どうしたの？",
         "MessageKR": "오. 마리나다. 무슨 일이야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "瑪麗娜，怎麼了嗎？",
+        "MessageEN": "Hi, Marina. What's up?"
     },
     {
         "MessageId": 101030030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "山海経の玄武商会というところに来ているんだが",
         "MessageKR": "지금, 산해경의 현무상회라는 곳에 와 있는데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我現在在山海經一個叫做「玄武商會」的地方",
+        "MessageEN": "I'm at this place called Black Tortoise Promenade in Shanhaijing."
     },
     {
         "MessageId": 101030031,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "少し困っていてな",
         "MessageKR": "약간 당혹스러운 일이 생겨서 말이다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "遇到了一些困難",
+        "MessageEN": "I've found myself in a...troublesome situation."
     },
     {
         "MessageId": 101030040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "良ければ助けてもらえないか？",
         "MessageKR": "민망하지만, 조금, 도움을 청하고 싶어서…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然有點難為情，希望能請老師幫個忙……",
+        "MessageEN": "It's rather shameful, but I require your assistance."
     },
     {
         "MessageId": 101030050,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "すぐ行くね",
         "MessageKR": "금방 갈게!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我馬上過去！",
+        "MessageEN": "I'll be right there!"
     },
     {
         "MessageId": 101020067,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "マリナ（チーパオ）の絆イベントへ",
         "MessageKR": "마리나(치파오)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往瑪麗娜（旗袍）的羈絆劇情",
+        "MessageEN": "Go to Marina (Qipao)'s Bond Story"
     },
     {
         "MessageId": 101030060,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "食べ過ぎたせいか",
         "MessageKR": "과식한 탓인가…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不知道是不是吃太多的關係……",
+        "MessageEN": "Maybe I ate too much, but..."
     },
     {
         "MessageId": 101030070,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "少し、お腹が……",
         "MessageKR": "뭔가, 배가 아픈 것 같군……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "肚子好像有點痛……",
+        "MessageEN": "...my stomach hurts."
     },
     {
         "MessageId": 101030080,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "……大丈夫？",
         "MessageKR": "……괜찮아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……還好嗎？",
+        "MessageEN": "...Are you okay?"
     },
     {
         "MessageId": 101030090,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "ああ、ひとつ確実な学びを得たぞ",
         "MessageKR": "한 가지는 확실하게 배운 것 같다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我切身學到了一件事",
+        "MessageEN": "I've learned one thing for certain."
     },
     {
         "MessageId": 101030091,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "食べ物の味と見た目は、必ずしも一致しないようだ",
         "MessageKR": "음식의 겉모양이, 반드시 맛과 일치하지 않는다는 것을.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那就是食物的外觀，未必與味道相符",
+        "MessageEN": "A food's appearance does not necessarily correlate with its taste."
     },
     {
         "MessageId": 101030100,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "実は、あの虫の串焼きって観光客向けなんだけど……",
         "MessageKR": "그 벌레 꼬치 말인데, 관광객한테만 파는 거래.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "聽說那些炸蟲串，好像是專門賣給觀光客的",
+        "MessageEN": "You know, they only sell those bug skewers to tourists."
     },
     {
         "MessageId": 101030110,
@@ -183,7 +183,7 @@
         "ImagePath": "",
         "MessageJP": "それならそうと早く言ってくれ！",
         "MessageKR": "왜 그런 말을 지금 해 주는 건가!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這種事為什麼現在才說！",
+        "MessageEN": "Why would you wait until now to bring that up?!"
     }
 ]

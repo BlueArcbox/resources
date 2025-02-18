@@ -3,8 +3,8 @@
         "CharacterId": 20038,
         "MessageJP": "トモエ（チーパオ）",
         "MessageKR": "토모에(치파오)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "智惠（旗袍）",
+        "MessageEN": "Tomoe (Qipao)"
     },
     {
         "MessageId": 200370150,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선\\~ 생\\~ 님\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老～師～",
+        "MessageEN": "Sensei\\~"
     },
     {
         "MessageId": 200380160,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今、お忙しいでしょうか？",
         "MessageKR": "바쁘신가요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "您現在忙嗎？",
+        "MessageEN": "Are you busy?"
     },
     {
         "MessageId": 200380170,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "手なら空いてるよ、どうしたの？",
         "MessageKR": "마침 한가한데, 무슨 일이야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "正好有空哦，怎麼了嗎？",
+        "MessageEN": "I'm free right now. What's up?"
     },
     {
         "MessageId": 200380180,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "よろしければ、お昼をご一緒したいと思いまして",
         "MessageKR": "괜찮으시다면, 점심이라도 함께하시면 어떨까 해서요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果可以的話，要不要一起吃個午餐呢",
+        "MessageEN": "Would you like to get lunch together?"
     },
     {
         "MessageId": 200380181,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "もちろん、先生がよろしければですが",
         "MessageKR": "물론 선생님께서 괜찮으실 때의 이야기이겠지만요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然是在老師方便的時候",
+        "MessageEN": "Only if you don't mind, of course."
     },
     {
         "MessageId": 200380190,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "じゃあ、有名な中華料理屋さんを紹介するね！",
         "MessageKR": "좋았어! 맛있는 중화요리 가게를 소개해 줄게!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好哇！那我帶你去吃一家中華料理！",
+        "MessageEN": "Sounds good! I know a great Chinese restaurant in the area."
     },
     {
         "MessageId": 200380200,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "と思ったけど、トモエならもう知ってるような気も",
         "MessageKR": "그런데 생각해 보니까…… 중화요리는 제법 많이 맛보지 않았어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過仔細想想……你應該已經吃過不少中華料理了吧？",
+        "MessageEN": "Actually... You've probably had your fill of Chinese food at this point, huh?"
     },
     {
         "MessageId": 200380210,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "たしかに、色々と事前に調べてから来ましたが……",
         "MessageKR": "그렇기는 하지만",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然的確是這樣沒錯",
+        "MessageEN": "That's true but"
     },
     {
         "MessageId": 200380211,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "先生に紹介していただけるのでしたら",
         "MessageKR": "선생님께서 직접 소개해 주시고, 데려가 주신다니.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過在老師的親自介紹之下",
+        "MessageEN": "it's different if it's your recommendation, Sensei."
     },
     {
         "MessageId": 200380220,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "嬉しい限りです",
         "MessageKR": "그것은 또 나름 각별한 가게가 될 것 같아서 기대가 되네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那間店對我來說一定會別具意義，所以我很期待哦",
+        "MessageEN": "It'll make for a unique experience, I think. I'm looking forward to it."
     },
     {
         "MessageId": 200380230,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "期待に応えられるか心配だけど……",
         "MessageKR": "기대가 너무 크면, 실망할지도 모르는데…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "期待太高的話，我怕你可能會失望……",
+        "MessageEN": "Please manage your expectations. So you're not disappointed."
     },
     {
         "MessageId": 200380240,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "断言できます",
         "MessageKR": "그럴 일은 없을 거라고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我可以斷言",
+        "MessageEN": "I'm quite positive"
     },
     {
         "MessageId": 200380241,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "心配はいりません",
         "MessageKR": "단언드릴 수 있을 것 같네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那種情況絕不會發生",
+        "MessageEN": "that won't happen."
     },
     {
         "MessageId": 200380250,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "先生が一緒に来てくださるんですから",
         "MessageKR": "왜냐하면, 선생님과 같이 가는 가게인걸요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為有老師陪著我呀？",
+        "MessageEN": "After all, I'll be going with you, Sensei."
     },
     {
         "MessageId": 200370257,
@@ -195,7 +195,7 @@
         "ImagePath": "",
         "MessageJP": "トモエ（チーパオ）の絆イベントへ",
         "MessageKR": "토모에(치파오)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往智惠（旗袍）的羈絆劇情",
+        "MessageEN": "Go to Tomoe (Qipao)'s Bond Story"
     }
 ]

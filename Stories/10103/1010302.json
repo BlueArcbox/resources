@@ -3,8 +3,8 @@
         "CharacterId": 10103,
         "MessageJP": "マリナ（チーパオ）",
         "MessageKR": "마리나(치파오)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "瑪麗娜（旗袍）",
+        "MessageEN": "Marina (Qipao)"
     },
     {
         "MessageId": 101020120,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "着いたぞ、先生",
         "MessageKR": "어디까지 왔지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師到哪裡了？",
+        "MessageEN": "Where are you?"
     },
     {
         "MessageId": 101030130,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "どこにいる？",
         "MessageKR": "나는 지금 도착했다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我已經到囉",
+        "MessageEN": "I've arrived."
     },
     {
         "MessageId": 101030140,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ごめん、5分くらい遅れそう！",
         "MessageKR": "미안, 마리나! 5분 정도 늦을 것 같아!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "抱歉，瑪麗娜！我可能會遲到5分鐘！",
+        "MessageEN": "Sorry, Marina! I'm running a little late! Just five minutes!"
     },
     {
         "MessageId": 101030150,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "大丈夫だ、気を付けて来てくれ",
         "MessageKR": "그 정도야 아무것도 아니지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這點小事不算什麼",
+        "MessageEN": "By that much is fine."
     },
     {
         "MessageId": 101030151,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "広場で待っている",
         "MessageKR": "광장에서 기다리고 있겠다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我在廣場等你",
+        "MessageEN": "I will wait for you at the plaza."
     },
     {
         "MessageId": 101020167,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "マリナ（チーパオ）の絆イベントへ",
         "MessageKR": "마리나(치파오)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往瑪麗娜（旗袍）的羈絆劇情",
+        "MessageEN": "Go to Marina (Qipao)'s Bond Story"
     },
     {
         "MessageId": 101030160,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "……大変だった",
         "MessageKR": "……당혹스러운 경험이었어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……真是個令人頭痛的經歷",
+        "MessageEN": "...What a troublesome experience."
     },
     {
         "MessageId": 101030170,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "でも、すごくきれいだったよ",
         "MessageKR": "그래도 상당히 잘 어울렸어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過真的很適合你哦",
+        "MessageEN": "But you looked really good!"
     },
     {
         "MessageId": 101030180,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "お、お世辞はやめてくれ",
         "MessageKR": "빈말이라도 그런 말은 하지 말아 주었으면 하는데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就算是客套話，也請別這麼說",
+        "MessageEN": "Even if it's just empty words, you shouldn't speak like that."
     },
     {
         "MessageId": 101030190,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "……お世辞じゃないとしたら、それはもっと困る",
         "MessageKR": "……빈말이 아니라면, 더 나쁘고.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……如果不是客套話就更糟了",
+        "MessageEN": "...And your infraction is even worse if they weren't empty words."
     },
     {
         "MessageId": 101030200,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "はぁ、いろんな人から写真集の感想が届いてるな",
         "MessageKR": "벌써부터 여기저기에서, 사진집 잘 봤다는 연락이 들어오고 있으니까…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "已經有一堆人聯絡我，說看過那本寫真集了……",
+        "MessageEN": "I'm already receiving messages from various sources, saying they liked the photo album..."
     },
     {
         "MessageId": 101030201,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "念のために聞くが、先生は買ってないな？",
         "MessageKR": "혹시나 해서 묻는 건데, 선생은 사지 않았겠지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "以防萬一確認一下，老師應該沒有買吧？",
+        "MessageEN": "Just to confirm, you didn't purchase it, did you?"
     },
     {
         "MessageId": 101030210,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "……",
         "MessageKR": "…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……",
+        "MessageEN": "..."
     },
     {
         "MessageId": 101030220,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "待て、なぜ何も言わない？",
         "MessageKR": "잠깐. 그 말줄임표는 뭐지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "等一下，這個沉默是什麼意思？",
+        "MessageEN": "Wait. What's with that \"dot, dot, dot\"?!"
     },
     {
         "MessageId": 101030230,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "先生？",
         "MessageKR": "선생?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei?"
     },
     {
         "MessageId": 101030231,
@@ -207,7 +207,7 @@
         "ImagePath": "",
         "MessageJP": "先生！？",
         "MessageKR": "선생?!?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師！？！？",
+        "MessageEN": "Sensei?!?!"
     }
 ]

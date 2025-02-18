@@ -3,8 +3,8 @@
         "CharacterId": 20038,
         "MessageJP": "トモエ（チーパオ）",
         "MessageKR": "토모에(치파오)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "智惠（旗袍）",
+        "MessageEN": "Tomoe (Qipao)"
     },
     {
         "MessageId": 200370070,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "あらためて感じたのですが",
         "MessageKR": "확실히 다른 학원에 오게 되어서 느끼는 것입니다만.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "來到別的學園之後才發現",
+        "MessageEN": "I've learned something new from visiting a new academy."
     },
     {
         "MessageId": 200380080,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "山海経とレッドウィンターは、本当に色々なところが違いますね",
         "MessageKR": "산해경과 붉은겨울 사이에는 참 많은 차이가 있군요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原來山海經和赤冬真的很不一樣呢",
+        "MessageEN": "There are many differences between Shanhaijing and Red Winter."
     },
     {
         "MessageId": 200380090,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "具体的にはどこが違った？",
         "MessageKR": "어떤 부분이 특히 그래?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哪些部分的差異特別大呢？",
+        "MessageEN": "In what ways, exactly?"
     },
     {
         "MessageId": 200380100,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "一番は暑さです",
         "MessageKR": "더워요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "首先是很熱",
+        "MessageEN": "Hot. It's so hot."
     },
     {
         "MessageId": 200380110,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ジッとしていても汗をかくだなんて",
         "MessageKR": "가만히 있어도 땀이 나는 경험이란……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "靜靜待著不動也會一直冒汗……",
+        "MessageEN": "Despite not moving a single muscle, I'm still sweating..."
     },
     {
         "MessageId": 200380111,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "初めての経験で",
         "MessageKR": "솔직히, 처음 겪는 것이네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老實說，我還是第一次有這種體驗",
+        "MessageEN": "I've never experienced temperatures like this."
     },
     {
         "MessageId": 200380120,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "たしかに、そうだよね",
         "MessageKR": "아, 확실히 붉은겨울에 비하면…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，跟赤冬比起來確實是……",
+        "MessageEN": "Ah, that makes sense. Especially compared to Red Winter."
     },
     {
         "MessageId": 200380130,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "もちろん",
         "MessageKR": "물론 붉은겨울에 비해서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然也不禁讓我心想",
+        "MessageEN": "Naturally, that makes me wonder"
     },
     {
         "MessageId": 200380131,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "レッドウィンターより涼しいところのほうが少ないと思いますが",
         "MessageKR": "더 '시원한' 곳이 얼마나 있을까, 하는 생각이 들기도 하지만.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "世界上比赤冬「涼快」的地方究竟有多少呢",
+        "MessageEN": "if there's somewhere out there even colder than Red Winter."
     },
     {
         "MessageId": 200380140,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "これは予想以上でした",
         "MessageKR": "그렇다고는 해도, 이건 확실히 쉽지 않군요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "話雖如此，還是讓人有點難適應",
+        "MessageEN": "That being said, it's certainly not easy to endure this."
     },
     {
         "MessageId": 200370147,
@@ -147,7 +147,7 @@
         "ImagePath": "",
         "MessageJP": "トモエ（チーパオ）の絆イベントへ",
         "MessageKR": "토모에(치파오)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往智惠（旗袍）的羈絆劇情",
+        "MessageEN": "Go to Tomoe (Qipao)'s Bond Story"
     }
 ]

@@ -3,8 +3,8 @@
         "CharacterId": 10103,
         "MessageJP": "マリナ（チーパオ）",
         "MessageKR": "마리나(치파오)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "瑪麗娜（旗袍）",
+        "MessageEN": "Marina (Qipao)"
     },
     {
         "MessageId": 101020240,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "これから行く喫茶店の名前が思い出せなくてな……",
         "MessageKR": "오늘 가기로 한 찻집 이름이 뭐였지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天約好要去的茶館叫什麼名字？",
+        "MessageEN": "What is the name of the teahouse we intend to visit today?"
     },
     {
         "MessageId": 101030250,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "「桃源郷」だよ",
         "MessageKR": "도원향이었을걸.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "應該是桃源鄉吧",
+        "MessageEN": "I think it was Peach Blossom Spring."
     },
     {
         "MessageId": 101030260,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ああ、そうだったな",
         "MessageKR": "그랬었지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊啊，確實是這個名字沒錯",
+        "MessageEN": "Right."
     },
     {
         "MessageId": 101030270,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "山海経のお茶はどんな味なのか",
         "MessageKR": "산해경의 차는 어떨까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不知道山海經的茶味道怎麼樣",
+        "MessageEN": "I'm curious just how delicious Shanhaijing's tea truly is."
     },
     {
         "MessageId": 101030271,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "なかなか楽しみだ",
         "MessageKR": "음. 제법 기대가 되는군.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，真令人期待",
+        "MessageEN": "Hm. I'm looking forward to it."
     },
     {
         "MessageId": 101020277,
@@ -87,7 +87,7 @@
         "ImagePath": "",
         "MessageJP": "マリナ（チーパオ）の絆イベントへ",
         "MessageKR": "마리나(치파오)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往瑪麗娜（旗袍）的羈絆劇情",
+        "MessageEN": "Go to Marina (Qipao)'s Bond Story"
     }
 ]
