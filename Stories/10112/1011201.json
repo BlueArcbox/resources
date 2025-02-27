@@ -158,7 +158,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "さっき言い忘れちゃったんだけど",
-        "MessageKR": "내릴 때 깜빡하고 말을 못했는데",
+        "MessageKR": "내릴 때 깜빡하고 말을 못 했는데",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -218,7 +218,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "学校が終わったら、お洗濯してあげる！",
-        "MessageKR": "그거 아스나가 세탁해줄게",
+        "MessageKR": "그거 아스나가 세탁해 줄게",
         "MessageTW": "",
         "MessageEN": ""
     },

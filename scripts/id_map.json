@@ -1756,6 +1756,34 @@
             true
         ]
     },
+    "10113": {
+        "kivo_id": 520,
+        "gamekee_id": 649353,
+        "avatar": "https://static.kivo.wiki/images/students/冰室 濑名/私服/Student_Portrait_CH0082_Collection.png",
+        "momotalk": "今日休息。",
+        "name_en": "Sena",
+        "name_jp": "セナ（私服）",
+        "name_zh": "濑名（私服）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10114": {
+        "kivo_id": 521,
+        "gamekee_id": 649361,
+        "avatar": "https://static.kivo.wiki/images/students/牛牧 朱莉/打工/Student_Portrait_CH0286_Collection.png",
+        "momotalk": "料理练习，加油！",
+        "name_en": "Juri",
+        "name_jp": "ジュリ（アルバイト）",
+        "name_zh": "朱莉（打工）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
     "13000": {
         "kivo_id": 24,
         "gamekee_id": 66752,

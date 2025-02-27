@@ -1,0 +1,93 @@
+[
+    {
+        "CharacterId": 10113,
+        "MessageJP": "セナ（私服）",
+        "MessageKR": "세나(사복)",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101120010,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 101130010,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 101130010,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101130020,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生、救急医学部の氷室セナです",
+        "MessageKR": "선생님, 응급의학부의 히무로 세나입니다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101130020,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101130030,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "本日は非番なので、ご連絡いたしました",
+        "MessageKR": "비번일이 되었기에, 이에 보고드리려 합니다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101130030,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101130040,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "それと、最近お会いできず寂しいので、少しお時間を頂けたら嬉しいです",
+        "MessageKR": "덧붙여, 요즘 선생님을 자주 만나지 못해 쓸쓸하니, 시간 약속을 잡았으면 합니다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101130040,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101130050,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ちょっと待ってね……",
+        "MessageKR": "잠깐만. 이야기 좀 따라가자.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101130050,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101120057,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "じゃあ、公園で待ち合わせをしようか",
+        "MessageKR": "좋아……. 그래. 이해했어! 그렇게 하자!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101120057,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "セナ（私服）の絆イベントへ",
+        "MessageKR": "세나(사복)의 인연스토리로",
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
+    }
+]

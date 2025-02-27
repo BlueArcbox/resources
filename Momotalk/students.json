@@ -9746,5 +9746,63 @@
             "ItemId": 10007,
             "ItemType": "キャンプ"
         }
+    },
+    {
+        "Id": 10113,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10113.webp"
+        ],
+        "Name": {
+            "jp": "セナ（私服）",
+            "kr": "세나(사복)",
+            "zh": "濑名（私服）"
+        },
+        "Bio": {
+            "jp": "今日はオフの日です。",
+            "kr": "오늘은 오프입니다.",
+            "zh": "今日休息。"
+        },
+        "Nickname": [
+            "Sena"
+        ],
+        "Birthday": "4/7",
+        "Age": "17歳",
+        "School": "Gehenna",
+        "Club": "Emergentology",
+        "Star": 3,
+        "Released": true,
+        "Related": {
+            "ItemId": 20012,
+            "ItemType": "私服"
+        }
+    },
+    {
+        "Id": 10114,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10114.webp"
+        ],
+        "Name": {
+            "jp": "ジュリ（アルバイト）",
+            "kr": "주리(아르바이트)",
+            "zh": "朱莉（打工）"
+        },
+        "Bio": {
+            "jp": "料理の練習、頑張ります！",
+            "kr": "아르바이트 중에도 요리 연습!",
+            "zh": "料理练习，加油！"
+        },
+        "Nickname": [
+            "Juri"
+        ],
+        "Birthday": "10/20",
+        "Age": "15歳",
+        "School": "Gehenna",
+        "Club": "FoodService",
+        "Star": 3,
+        "Released": true,
+        "Related": {
+            "ItemId": 26002,
+            "ItemType": "アルバイト"
+        }
     }
 ]
