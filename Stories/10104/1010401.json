@@ -3,8 +3,8 @@
         "CharacterId": 10104,
         "MessageJP": "レイジョ",
         "MessageKR": "레이죠",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "令女",
+        "MessageEN": "Reijo"
     },
     {
         "MessageId": 101030010,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "こんにちは、先生",
         "MessageKR": "안녕하십니까. 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "您好，老師",
+        "MessageEN": "Hello, Sensei."
     },
     {
         "MessageId": 101040020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "どうやら明日は、山海経まで来るそうですね？",
         "MessageKR": "듣기로는 내일 산해경에 방문하신다면서요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "聽說老師明天會來訪山海經是嗎？",
+        "MessageEN": "Are you visiting Shanhaijing tomorrow?"
     },
     {
         "MessageId": 101040030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "どこで知ったの！？",
         "MessageKR": "어떻게…… 알았어?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你……怎麼會知道！？",
+        "MessageEN": "How'd you know?!"
     },
     {
         "MessageId": 101040040,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "やはりそうでしたか",
         "MessageKR": "역시 그렇군요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "果然如此呢",
+        "MessageEN": "So it's true."
     },
     {
         "MessageId": 101040050,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "当然ですが私たち玄武商会は",
         "MessageKR": "그 부분은 저희 현무상회 나름의",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "關於您的疑問",
+        "MessageEN": "Just think of it as a part of"
     },
     {
         "MessageId": 101040051,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "独自の情報網を持っていますから",
         "MessageKR": "비즈니스 수단이라고 말씀드릴 수 있을 것 같습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只能說我們玄武商會自有一些商業手段",
+        "MessageEN": "Black Tortoise Promenade's business strategy."
     },
     {
         "MessageId": 101040060,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": " 情報網……",
         "MessageKR": "비즈니스 수단이라……. ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "商業手段啊…… ",
+        "MessageEN": "Business strategy... "
     },
     {
         "MessageId": 101040070,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "実のところ",
         "MessageKR": "아뇨, 사실 그렇게 대단한 것은 아닌데요…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不，其實也沒什麼了不起的就是了……",
+        "MessageEN": "Actually, it's nothing that impressive..."
     },
     {
         "MessageId": 101040071,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "そこまで大したものではありませんが……",
         "MessageKR": "…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……",
+        "MessageEN": "..."
     },
     {
         "MessageId": 101040080,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "先生、明日の朝お時間があれば",
         "MessageKR": "저, 그 대신이라고 말씀드릴 수 있을지 모르겠습니다만.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個，不知道能不能稱之為交換",
+        "MessageEN": "Rather..."
     },
     {
         "MessageId": 101040090,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "少しお話でもしませんか？",
         "MessageKR": "아침 일찍, 제가 공유해 드린 곳으로 와 주신다면.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但如果老師願意明天一早到我告訴你的地方來",
+        "MessageEN": "The location I shared with you this morning... Would you meet me there?"
     },
     {
         "MessageId": 101040091,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "どちらにせよ私は日課をこなしておくので",
         "MessageKR": "저의…… 일상 중 하나를",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我會讓老師看看我的……",
+        "MessageEN": "I'll show you"
     },
     {
         "MessageId": 101040100,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "忙しいようでしたら、また別の日でも",
         "MessageKR": "보여드리도록 하겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "日常行程之一",
+        "MessageEN": "a slice of my daily life."
     },
     {
         "MessageId": 101030107,
@@ -183,7 +183,7 @@
         "ImagePath": "",
         "MessageJP": "レイジョの絆イベントへ",
         "MessageKR": "레이죠의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往令女的羈絆劇情",
+        "MessageEN": "Go to Reijo's Bond Story"
     }
 ]

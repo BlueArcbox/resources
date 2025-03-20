@@ -3,8 +3,8 @@
         "CharacterId": 20039,
         "MessageJP": "キサキ",
         "MessageKR": "키사키",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "妃姬",
+        "MessageEN": "Kisaki"
     },
     {
         "MessageId": 200380210,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "さて。以前、話した通り",
         "MessageKR": "이전에 고했던 대로",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "之前有跟汝提過",
+        "MessageEN": "As I previously informed you,"
     },
     {
         "MessageId": 200390220,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "本日は「当番」として、シャーレを訪ねるつもりじゃが",
         "MessageKR": "오늘은 샬레에 당번으로서 방문해 볼까 한다만.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今日妾身希望以值日生的身分拜訪夏萊一事吧",
+        "MessageEN": "I will be working as Schale's student rep today."
     },
     {
         "MessageId": 200390230,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "うん、いつでもおいで",
         "MessageKR": "언제든지 환영이야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "隨時歡迎你來",
+        "MessageEN": "You're always welcome here."
     },
     {
         "MessageId": 200390240,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "ふむ",
         "MessageKR": "음.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔呣",
+        "MessageEN": "Mm."
     },
     {
         "MessageId": 200390250,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "心強い返事じゃ",
         "MessageKR": "선생이 그리 흔쾌히 이야기해 주니 좋구나.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "看見如此爽快的答覆，屬實令人高興",
+        "MessageEN": "I'm pleased you feel that way."
     },
     {
         "MessageId": 200390260,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "それでは、また後程",
         "MessageKR": "그러면 샬레에서 만나도록 하지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼晚些時候夏萊見",
+        "MessageEN": "I shall depart for Schale shortly, then."
     },
     {
         "MessageId": 200380277,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "キサキの絆イベントへ",
         "MessageKR": "키사키의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往妃姬的羈絆劇情",
+        "MessageEN": "Go to Kisaki's Bond Story"
     },
     {
         "MessageId": 200390270,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "体調はどうじゃ、先生",
         "MessageKR": "몸은 좀 괜찮은가, 선생?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "身體是否好些了呢？老師",
+        "MessageEN": "How are you feeling, Sensei?"
     },
     {
         "MessageId": 200390280,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "だいぶ良くなったけど……",
         "MessageKR": "그렇기는…… 한데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "多少……有比較好了",
+        "MessageEN": "Just fine, but..."
     },
     {
         "MessageId": 200390290,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "今日、キサキはちゃんとシャーレに来てたよね？",
         "MessageKR": "오늘 샬레에 찾아왔던 거…… 맞지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "妃姬今天有來過夏萊……對吧？",
+        "MessageEN": "You were at Schale today, right?"
     },
     {
         "MessageId": 200390300,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "ふむ\u200b",
         "MessageKR": "흠?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯？",
+        "MessageEN": "Hm?"
     },
     {
         "MessageId": 200390310,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "なるほど……",
         "MessageKR": "오호라. 그렇군.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原來如此",
+        "MessageEN": "Ah. I see."
     },
     {
         "MessageId": 200390311,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "……",
         "MessageKR": "…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……",
+        "MessageEN": "..."
     },
     {
         "MessageId": 200390320,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "ふふ",
         "MessageKR": "후후후후.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵",
+        "MessageEN": "Fufu."
     },
     {
         "MessageId": 200390330,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "妾もよく分からぬ、と答えたらどうするつもりなのじゃ？",
         "MessageKR": "나 스스로도 잘 모르겠다고 한다면, 어떻게 할 생각인가?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "倘若妾身表示自己也不太清楚，汝打算怎麼辦呢？",
+        "MessageEN": "And how will you react if I pronounce that I, myself, do not know?"
     },
     {
         "MessageId": 200390340,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "えっ、どういうこと……！？",
         "MessageKR": "키사키가 모르면 안 되지 않아?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "妃姬有可能不清楚的嗎！？",
+        "MessageEN": "Isn't that kind of problematic?!"
     },
     {
         "MessageId": 200390350,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "胡蝶の夢……と申してのう",
         "MessageKR": "나비가 나인가, 내가 나비인가…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "夢者究竟是蝶是己……",
+        "MessageEN": "Am I the butterfly, or is the butterfly me..."
     },
     {
         "MessageId": 200390351,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "まこと興味深い話じゃとは思わぬか？",
         "MessageKR": "참으로 덧없고도 알 수 없는 문제라고 생각하지 않는가, 선생?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不覺得是個虛幻又難解的問題嗎？老師",
+        "MessageEN": "A matter of mystery and transience."
     },
     {
         "MessageId": 200390360,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "まあ、それはさておき",
         "MessageKR": "뭐, 그 역시 아무래도 좋은 일이겠지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總之，無論怎樣都好",
+        "MessageEN": "By some perspectives, that may also be a positive thing."
     },
     {
         "MessageId": 200390370,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "先生の寝顔、しっかりと写真に収めたぞ",
         "MessageKR": "결국 선생의 사진은, 내 핸드폰에 남을 테니 말이다?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "畢竟老師的照片將會保存在妾身的手機裡",
+        "MessageEN": "And, in the end, Sensei's photo shall live on within my phone."
     },
     {
         "MessageId": 200390380,
@@ -267,7 +267,7 @@
         "ImagePath": "",
         "MessageJP": "い、いつの間に！？",
         "MessageKR": "지워 줘–!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "趕快刪掉！",
+        "MessageEN": "Erase it! Please!"
     }
 ]

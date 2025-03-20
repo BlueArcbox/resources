@@ -3,8 +3,8 @@
         "CharacterId": 10104,
         "MessageJP": "レイジョ",
         "MessageKR": "레이죠",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "令女",
+        "MessageEN": "Reijo"
     },
     {
         "MessageId": 101030350,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "シャーレの当番を行うにあたって",
         "MessageKR": "오늘은 제가 샬레의 당번인 것으로 알고 있습니다만",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天是由我擔任夏萊的值日生",
+        "MessageEN": "I believe I'm scheduled for a shift at Schale today."
     },
     {
         "MessageId": 101040351,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "何か準備は必要でしょうか？",
         "MessageKR": "특별히 신경 쓰거나 마음의 준비를 해야 할 것이 있을까요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是否有特別需要注意或準備的事項呢？",
+        "MessageEN": "Is there anything in particular I should be aware of? Or particular duties I'll need to brace myself for?"
     },
     {
         "MessageId": 101040360,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "大丈夫だよ、気楽に来てね",
         "MessageKR": "그냥 아무것도 없이 와도 돼.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "直接過來就可以囉",
+        "MessageEN": "No, no. Don't worry about anything."
     },
     {
         "MessageId": 101040370,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "分かりました",
         "MessageKR": "그렇군요…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原來如此……",
+        "MessageEN": "I see..."
     },
     {
         "MessageId": 101040380,
@@ -74,9 +74,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "では、後ほどシャーレでお会いしましょう",
-        "MessageKR": "그러면 살레에서 뵙겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "그러면 샬레에서 뵙겠습니다.",
+        "MessageTW": "那麼，稍後夏萊見",
+        "MessageEN": "I'll see you at Schale then."
     },
     {
         "MessageId": 101030387,
@@ -87,7 +87,7 @@
         "ImagePath": "",
         "MessageJP": "レイジョの絆イベントへ",
         "MessageKR": "레이죠의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往令女的羈絆劇情",
+        "MessageEN": "Go to Reijo's Bond Story"
     }
 ]

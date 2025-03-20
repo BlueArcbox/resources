@@ -1,0 +1,129 @@
+[
+    {
+        "CharacterId": 20043,
+        "MessageJP": "イズミ（正月）",
+        "MessageKR": "이즈미(새해)",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200420010,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 200430010,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 200430010,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200430020,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "あけましておめでとう～！",
+        "MessageKR": "새해 복 많이 먹어 선생님!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200430020,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200430030,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "あけましておめでとう、イズミ",
+        "MessageKR": "응. 이즈미도 새해 복 많이 받아.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200430030,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200430031,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "年が明けたね！",
+        "MessageKR": "그래서 말인데 선생님",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200430031,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200430040,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "元旦といえば……アレ！",
+        "MessageKR": "새해가 되었잖아?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200430040,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200430050,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生は、何のことだと思う？",
+        "MessageKR": "새해에서 가장 중요한 건 뭘까?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200430050,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200430060,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "イズミが言うくらいだし……食べ物？",
+        "MessageKR": "이즈미는 뭐라고 생각해?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200430060,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200430061,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "せいかーい！でもでも、普通のじゃないよ？",
+        "MessageKR": "그야 물론",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200430061,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200420067,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "お正月にしか食べられない特別なヤツ！",
+        "MessageKR": "새해를 맞이하는 새로운 맛의 음식이지!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200420067,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "イズミ（正月）の絆イベントへ",
+        "MessageKR": "이즈미(새해)의 인연스토리로",
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
+    }
+]

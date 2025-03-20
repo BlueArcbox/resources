@@ -3,8 +3,8 @@
         "CharacterId": 20039,
         "MessageJP": "キサキ",
         "MessageKR": "키사키",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "妃姬",
+        "MessageEN": "Kisaki"
     },
     {
         "MessageId": 200380390,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "シャーレ当番にも",
         "MessageKR": "샬레의 당번 일도",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "夏萊值日生的工作",
+        "MessageEN": "It would appear"
     },
     {
         "MessageId": 200390400,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "少しずつ慣れてきたと思うのじゃが……どうじゃ？",
         "MessageKR": "조금씩 익숙해지고 있는 참인 듯하다만.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "似乎已日漸熟悉了",
+        "MessageEN": "I'm slowly becoming accustomed to student rep duties."
     },
     {
         "MessageId": 200390410,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "完璧にこなしてくれてるよ",
         "MessageKR": "이미 그런 정도가 아닌 수준인 것 같지만…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我倒感覺已經超越「還在熟悉」的程度了……",
+        "MessageEN": "I'd say you're well past that."
     },
     {
         "MessageId": 200390420,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "どうじゃろうか……",
         "MessageKR": "그러한가?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是嗎？",
+        "MessageEN": "Is that so?"
     },
     {
         "MessageId": 200390421,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "玄龍門の者からは",
         "MessageKR": "그에 비례해 현룡문에서의 기우도",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "相對來說，對玄龍門方面的憂慮",
+        "MessageEN": "On the contrary, Genryumon's affairs"
     },
     {
         "MessageId": 200390430,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "日を追うごとに心配されておるがの",
         "MessageKR": "나날이 늘어가고 있는 참이니.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "也在與日俱增呢",
+        "MessageEN": "only increase by the day."
     },
     {
         "MessageId": 200390440,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ふむ……そうさな",
         "MessageKR": "그대의 의견에도 분명 일리는 있겠구나.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "汝之所見確實言之有理",
+        "MessageEN": "So your sentiment surely has a point."
     },
     {
         "MessageId": 200390450,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "今日もシャーレを訪れるとしよう",
         "MessageKR": "그런 의미에서, 오늘도 샬레에 방문하도록 하지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因此，妾身今日也要去夏萊",
+        "MessageEN": "Therefore, I shall visit Schale today as well."
     },
     {
         "MessageId": 200390460,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "あれ？今日当番だっけ？",
         "MessageKR": "그건 또 무슨 논리야!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這是什麼邏輯！？",
+        "MessageEN": "I'm not following your logic!"
     },
     {
         "MessageId": 200390470,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "ふふ",
         "MessageKR": "모르는 것인가. 선생.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "汝不清楚嗎？老師",
+        "MessageEN": "Are you not aware, Sensei?"
     },
     {
         "MessageId": 200390480,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "些末なことなど気にするでない",
         "MessageKR": "세상에는 이따금 논리를 필요로 하지 않을 때가 있다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "世間有時是不需要邏輯的",
+        "MessageEN": "At times, logic is a negligible factor."
     },
     {
         "MessageId": 200390490,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "些末なことかなぁ！？",
         "MessageKR": "더더욱 의미를 모르겠어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "更聽不懂你在說什麼了！",
+        "MessageEN": "I'm even more lost!"
     },
     {
         "MessageId": 200380497,
@@ -171,7 +171,7 @@
         "ImagePath": "",
         "MessageJP": "キサキの絆イベントへ",
         "MessageKR": "키사키의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往妃姬的羈絆劇情",
+        "MessageEN": "Go to Kisaki's Bond Story"
     }
 ]

@@ -3,8 +3,8 @@
         "CharacterId": 10104,
         "MessageJP": "レイジョ",
         "MessageKR": "레이죠",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "令女",
+        "MessageEN": "Reijo"
     },
     {
         "MessageId": 101030190,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "以前も申し上げたかと思いますが……",
         "MessageKR": "말씀드렸던 바 있습니다만……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如同我先前提過的……",
+        "MessageEN": "I mentioned this before, but..."
     },
     {
         "MessageId": 101040200,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今日は玄龍門の監査が入る予定でして",
         "MessageKR": "오늘은 현무상회의 감찰 일이라서요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天是玄武商會的視察日",
+        "MessageEN": "Today is Black Tortoise Promenade's inspection day."
     },
     {
         "MessageId": 101040210,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "無事終わると良いね",
         "MessageKR": "현룡문에서 너무 뭐라고 안 했으면 좋겠네…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "希望玄龍門那邊不要有太多意見……",
+        "MessageEN": "I hope Genryumon doesn't come down on us too hard..."
     },
     {
         "MessageId": 101040220,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "はい",
         "MessageKR": "예…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是啊……",
+        "MessageEN": "Yes..."
     },
     {
         "MessageId": 101040230,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ひとつ気になったのですが",
         "MessageKR": "그렇지만 굳이 선생님께서 참관하실 필요는",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過坦白說，我實在有點在意",
+        "MessageEN": "Anyway, I thought about it, and I don't believe it's necessary"
     },
     {
         "MessageId": 101040231,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "先生まで来る必要は……",
         "MessageKR": "없는 것이 아닐까 해서요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師是否有必要特地前來參觀",
+        "MessageEN": "for you to come and observe."
     },
     {
         "MessageId": 101040240,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "一応、顧問としてね",
         "MessageKR": "일단은, 고문으로 참가한다는 형식이니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "畢竟我在形式上是以顧問的身分參加的",
+        "MessageEN": "I'll just be there as an advisor!"
     },
     {
         "MessageId": 101040250,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "それはそうですが……",
         "MessageKR": "그것은 알고 있습니다만.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這點我也清楚，只不過……",
+        "MessageEN": "I know, I know."
     },
     {
         "MessageId": 101040260,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "はぁ",
         "MessageKR": "하아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唉……",
+        "MessageEN": "\\*sigh\\*"
     },
     {
         "MessageId": 101040270,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "前回の監査では",
         "MessageKR": "지난번 감사에서, 저희 부원이 현룡문 감찰원을",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要是上次視察時，我們的成員沒有不小心",
+        "MessageEN": "If only one of our members didn't"
     },
     {
         "MessageId": 101040280,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "私たちの部員が監査員を入院させてしまったもので……",
         "MessageKR": "실수로 입원시키는 일만 없었어도…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "把玄龍門的視察員送進醫院就好了……",
+        "MessageEN": "hospitalize the inspector last time..."
     },
     {
         "MessageId": 101040290,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "入院！？",
         "MessageKR": "입원?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "送進醫院！？",
+        "MessageEN": "Hospitalize?!"
     },
     {
         "MessageId": 101040300,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "い、いえっ",
         "MessageKR": "그, 아닙니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不，不是的",
+        "MessageEN": "Uh... Don't worry about that."
     },
     {
         "MessageId": 101040310,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "アレは、あくまで事故で……",
         "MessageKR": "그건 어디까지나 고의가 아닌 우연에 의해 일어난…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那純粹是場意外，絕不是有意為之……",
+        "MessageEN": "It was an accident. Completely, absolutely unintentional."
     },
     {
         "MessageId": 101040311,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "と今さら何を言ったところで",
         "MessageKR": "…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……",
+        "MessageEN": "..."
     },
     {
         "MessageId": 101040320,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "言い訳にしかなりませんね",
         "MessageKR": "무슨 말씀을 드려도, 변명밖에는 되지 않겠군요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "無論現在如何辯解，聽起來都只是藉口吧",
+        "MessageEN": "Anything I try to say here will just come across as an excuse."
     },
     {
         "MessageId": 101040330,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "申し訳ありませんが、本日はお願いいたします",
         "MessageKR": "송구스럽습니다만, 오늘 하루 잘 부탁드리겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "實在抱歉。那麼今天就請您多多關照了",
+        "MessageEN": "I apologize in advance for any inconveniences, but I'm looking forward to working together today."
     },
     {
         "MessageId": 101040340,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "う、うん……",
         "MessageKR": "으, 으응…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，嗯……",
+        "MessageEN": "Y-Yeah..."
     },
     {
         "MessageId": 101030347,
@@ -243,7 +243,7 @@
         "ImagePath": "",
         "MessageJP": "レイジョの絆イベントへ",
         "MessageKR": "레이죠의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往令女的羈絆劇情",
+        "MessageEN": "Go to Reijo's Bond Story"
     }
 ]

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、緊急事態だ",
         "MessageKR": "선생님, 긴급 상황이야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，發生了緊急情況",
+        "MessageEN": "Sensei. It's an emergency."
     },
     {
         "MessageId": 100230320,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "どうしたの？",
         "MessageKR": "응? 무슨 일이야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯？怎麼了？",
+        "MessageEN": "Hm? What's going on?"
     },
     {
         "MessageId": 100230330,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "浜辺の食堂で不良生徒が暴れてて……",
         "MessageKR": "해변가의 식당에서 불량배들이 난동을 부리고 있다고 해.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有太妹在海邊的餐廳鬧事",
+        "MessageEN": "There are some gangsters causing a scene at the beach restaurant."
     },
     {
         "MessageId": 100230331,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "一度取り締まったのに……はぁ……",
         "MessageKR": "분명 저번에 싹 쓸었을 텐데, 또 어디선가 나타나서……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "之前明明掃蕩一空了，結果不知道又從哪裡冒了出來……",
+        "MessageEN": "I thought we wiped them all out last time, but they've popped back up again."
     },
     {
         "MessageId": 100230340,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと手が足りないから、先生に指揮をお願いしたいんだ",
         "MessageKR": "아무튼, 선생님이 지휘해 줬으면 좋겠어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總之，希望老師能來現場協助指揮",
+        "MessageEN": "Anyway, we could use your help."
     },
     {
         "MessageId": 100230350,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "分かった、どこに向かえばいいかな？",
         "MessageKR": "알겠어. 어디로 가면 될까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我知道了。地點在哪裡呢？",
+        "MessageEN": "Okay. Where should we meet up?"
     },
     {
         "MessageId": 100220357,

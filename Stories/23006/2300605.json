@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生！先生！",
         "MessageKR": "선생님! 선생님!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師！老師！",
+        "MessageEN": "Sensei! Sensei!"
     },
     {
         "MessageId": 2300600410,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今日から百夜堂の期間限定イベントが始まりますよ！",
         "MessageKR": "오늘부터 백야당 특별 시즌 이벤트가 시작돼요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "從今天起，百夜堂的特別季節活動就要開始囉！",
+        "MessageEN": "The Momoyodou's special seasonal event is starting!"
     },
     {
         "MessageId": 2300600411,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "今回は「林檎フェス」！！",
         "MessageKR": "바로바로, [사과 페어]!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咚隆咚隆……「蘋果祭」！！",
+        "MessageEN": "It's the Apple Fair!"
     },
     {
         "MessageId": 2300600420,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "爽やかなアップルティーに、林檎を使った各種デザートをたくさんご用意しております！",
         "MessageKR": "산뜻한 사과 향 차와 각종 상큼달달한 디저트의 향연이라구요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有清新的蘋果茶，還有各種酸甜可口的甜點組成的饗宴哦！",
+        "MessageEN": "A banquet of fresh apple tea and other sweet desserts!"
     },
     {
         "MessageId": 2300600430,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "これは行かなくちゃだね！",
         "MessageKR": "이거 안 갈 수가 없겠군!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "看來我可不能缺席呢！",
+        "MessageEN": "I can't miss out on this!"
     },
     {
         "MessageId": 2300600440,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ふふふ",
         "MessageKR": "후후후후후",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵呵呵呵",
+        "MessageEN": "Fufufufu"
     },
     {
         "MessageId": 2300600441,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "お待ちしております！",
         "MessageKR": "한번 놀러 오세요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "一定要來玩哦！",
+        "MessageEN": "Please come visit!"
     },
     {
         "MessageId": 2300600450,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "最高のおもてなしをお約束します！！",
         "MessageKR": "항상 그랬던 것처럼, 최고의 접대를 선사해 드릴 테니!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我會跟往常一樣，用最頂級的規格款待老師的！",
+        "MessageEN": "Of course, you can expect the best service when you do!"
     },
     {
         "MessageId": 2300590457,

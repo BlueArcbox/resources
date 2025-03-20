@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、頼まれた自転車の修理、終わったよ",
         "MessageKR": "선생님. 저번에 맡겨둔 자전거 수리 완료했어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，你上次委託我修理的自行車修好了哦",
+        "MessageEN": "I finished the repairs on your bicycle, Sensei."
     },
     {
         "MessageId": 200000520,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "後で取りに来て",
         "MessageKR": "별일 없으면 찾으러 와.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有空就來拿回去吧",
+        "MessageEN": "Come pick it up, if you're free."
     },
     {
         "MessageId": 200000530,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "もう？さすがだね",
         "MessageKR": "벌써? 역시 빠르네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這麼快？真不愧是響呢",
+        "MessageEN": "Already? You really do work fast."
     },
     {
         "MessageId": 200000530,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "今から行くよ",
         "MessageKR": "그럼 지금 갈게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我馬上過去",
+        "MessageEN": "I'll head over."
     },
     {
         "MessageId": 200000540,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "私は他の作業してるから",
         "MessageKR": "응. 나는 다른 작업을 하고 있을 테니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯。不過我還有其他工作要忙",
+        "MessageEN": "Sounds good. I'll be working on another project in the meantime."
     },
     {
         "MessageId": 200000541,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "着いたら教えて",
         "MessageKR": "오면 말해줘.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "到了再跟我說一聲吧",
+        "MessageEN": "Let me know when you're here."
     },
     {
         "MessageId": 199990547,

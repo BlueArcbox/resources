@@ -3,8 +3,8 @@
         "CharacterId": 20039,
         "MessageJP": "キサキ",
         "MessageKR": "키사키",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "妃姬",
+        "MessageEN": "Kisaki"
     },
     {
         "MessageId": 200380500,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "玄龍門の門主としての美徳",
         "MessageKR": "현룡문의 문주로서 중요한 미덕 중 하나는",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "玄龍門門主的美德之一",
+        "MessageEN": "As Genryumon's president, I must always"
     },
     {
         "MessageId": 200390510,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "その一つは、約束を守ることじゃ",
         "MessageKR": "약속을 잊지 않는 것이다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "乃不會違背約定",
+        "MessageEN": "keep my promises."
     },
     {
         "MessageId": 200390520,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "約束を守ることは大事だよね",
         "MessageKR": "맞아. 약속은 중요하지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，遵守約定是很重要的",
+        "MessageEN": "Right. Promises are important."
     },
     {
         "MessageId": 200390530,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "そして、もう一つ",
         "MessageKR": "그리고 또 하나 중요한 미덕은.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "除此之外的另一美德",
+        "MessageEN": "And another important principle"
     },
     {
         "MessageId": 200390531,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "約束したことは",
         "MessageKR": "타인의 약속 역시 잊지 않고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "乃不遺忘他人許下的約定",
+        "MessageEN": "is to never forget a promise made to me"
     },
     {
         "MessageId": 200390540,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "どんな手を使ってでも、守らせることじゃ",
         "MessageKR": "마지막까지 그 대가를 받아 내는 것이지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "無論動用任何手段，必定會要求履行",
+        "MessageEN": "and collect on those debts."
     },
     {
         "MessageId": 200390550,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "どんな手を使ってでも！？",
         "MessageKR": "정말이야?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真的嗎！？",
+        "MessageEN": "Really?!"
     },
     {
         "MessageId": 200390560,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "冗談じゃよ",
         "MessageKR": "농담이다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "此乃戲言",
+        "MessageEN": "A joke, Sensei."
     },
     {
         "MessageId": 200390570,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "じゃが、先生",
         "MessageKR": "하지만, 선생.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過，老師",
+        "MessageEN": "However."
     },
     {
         "MessageId": 200390580,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "妾は覚えておるぞ",
         "MessageKR": "나는 분명히, 같이 여기저기를 찾아가 보자는",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "汝確實提過要一同四處遊歷",
+        "MessageEN": "I can very clearly recall your promise"
     },
     {
         "MessageId": 200390581,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "一緒に色んなところを見に行こう、というあの約束を",
         "MessageKR": "선생의 약속을 기억하고 있다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "妾身記得老師的約定",
+        "MessageEN": "to venture to various locations together."
     },
     {
         "MessageId": 200390590,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "妾との約束、ゆめゆめ忘れるでないぞ？",
         "MessageKR": "그러니 선생 역시, 그 약속을 잊지 않기를 바란다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因此也希望老師，莫要忘了與妾身的約定",
+        "MessageEN": "I do hope you have not forgotten."
     },
     {
         "MessageId": 200390600,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "その、純粋に気になるんだけど……",
         "MessageKR": "진짜 궁금하기만 해서 물어보는 건데…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我這麼問純粹是出於好奇……",
+        "MessageEN": "Purely out of curiosity..."
     },
     {
         "MessageId": 200390610,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "約束を守らなかったら……どうなるの？",
         "MessageKR": "잊어버리면, 어떻게 되나요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "假如真的忘記了會怎麼樣？",
+        "MessageEN": "What happens if I forget?"
     },
     {
         "MessageId": 200390620,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "……",
         "MessageKR": "…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……",
+        "MessageEN": "..."
     },
     {
         "MessageId": 200390630,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "まあ、大したことは起きぬよ",
         "MessageKR": "뭐어, 별일은 없을 게다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "倒也無足掛齒",
+        "MessageEN": "I suppose the consequences would be minor."
     },
     {
         "MessageId": 200390640,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "ただ……",
         "MessageKR": "단지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只不過",
+        "MessageEN": "Only that"
     },
     {
         "MessageId": 200390650,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "玄龍門の名のもと、それ相応の対価を支払ってもらうだけじゃ",
         "MessageKR": "현룡문의 방식으로, 그에 상응하는 대가를 치르게 될 뿐.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "須以玄龍門的方式，付出相應的代價罷了",
+        "MessageEN": "you'll repay your debt, the Genryumon way."
     },
     {
         "MessageId": 200390660,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "絶対に守るよ……",
         "MessageKR": "잊어버릴 리가 있겠습니까!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我絕對不會忘記的！",
+        "MessageEN": "I absolutely won't forget!"
     },
     {
         "MessageId": 200380677,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "キサキの絆イベントへ",
         "MessageKR": "키사키의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往妃姬的羈絆劇情",
+        "MessageEN": "Go to Kisaki's Bond Story"
     },
     {
         "MessageId": 200390670,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "음.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔呣",
+        "MessageEN": "Mm."
     },
     {
         "MessageId": 200390671,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "おるかの？",
         "MessageKR": "거기 있는가, 선생?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "汝在嗎，老師？",
+        "MessageEN": "Are you there, Sensei?"
     },
     {
         "MessageId": 200390680,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "うん、いるよ。体調はどう？",
         "MessageKR": "몸은 이제 괜찮아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "身體還好嗎？",
+        "MessageEN": "Are you feeling well?"
     },
     {
         "MessageId": 200390690,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "ああ、心配せずともよい",
         "MessageKR": "그래. 문제는 없다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "無須擔心",
+        "MessageEN": "Yup! No problems here."
     },
     {
         "MessageId": 200390700,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "……錬丹術研究会からは少し、小言を言われたがの",
         "MessageKR": "……연단방에서는 조금 호들갑을 당하기는 했지만.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……雖說鍊丹術研究會仍略顯驚慌就是",
+        "MessageEN": "...There's been something of a commotion back at the Eastern Alchemy Society."
     },
     {
         "MessageId": 200390710,
@@ -327,8 +327,8 @@
         "ImagePath": "",
         "MessageJP": "その程度じゃ。妾を山海経まで送ってくれたこと、礼を言わせてくれ",
         "MessageKR": "산해경까지 바래다주어서 고맙다는 말을 하고 싶구나.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "汝將妾身送回山海經一事，在此向汝致謝",
+        "MessageEN": "But I wanted to thank you for escorting me to back Shanhaijing."
     },
     {
         "MessageId": 200390720,
@@ -339,8 +339,8 @@
         "ImagePath": "",
         "MessageJP": "どういたしまして",
         "MessageKR": "그 정도야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不用客氣",
+        "MessageEN": "You're welcome."
     },
     {
         "MessageId": 200390730,
@@ -351,8 +351,8 @@
         "ImagePath": "",
         "MessageJP": "うむ",
         "MessageKR": "음.\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔呣\u200b",
+        "MessageEN": "Mm.\u200b"
     },
     {
         "MessageId": 200390740,
@@ -363,8 +363,8 @@
         "ImagePath": "",
         "MessageJP": "代わり、と言ってはなんじゃが",
         "MessageKR": "그 대신이라고 해야 할지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不知稱之為交換是否妥當",
+        "MessageEN": "I suppose, in return,"
     },
     {
         "MessageId": 200390741,
@@ -375,8 +375,8 @@
         "ImagePath": "",
         "MessageJP": "ちゃんとした謝礼がしたい",
         "MessageKR": "일종의 보답…… 같은 것이라고 해야 할지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "或者……該稱之為報答呢",
+        "MessageEN": "as a way to...repay my debt"
     },
     {
         "MessageId": 200390750,
@@ -387,8 +387,8 @@
         "ImagePath": "",
         "MessageJP": "……\u200b",
         "MessageKR": "으음.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔嗯",
+        "MessageEN": "Hm..."
     },
     {
         "MessageId": 200390760,
@@ -399,8 +399,8 @@
         "ImagePath": "",
         "MessageJP": "これを、謝礼と言って良いのか、怪しいが……",
         "MessageKR": "……어느 쪽도, 이 상황에 딱 들어맞는 표현은 아닌 듯싶다만…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "兩者似乎皆不甚貼切啊……",
+        "MessageEN": "I wouldn't quite describe this situation that way either..."
     },
     {
         "MessageId": 200390770,
@@ -411,8 +411,8 @@
         "ImagePath": "",
         "MessageJP": "どうかしたの？",
         "MessageKR": "? 무슨 일 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼了嗎？",
+        "MessageEN": "? What are we talking about?"
     },
     {
         "MessageId": 200390780,
@@ -423,8 +423,8 @@
         "ImagePath": "",
         "MessageJP": "……\u200b\u200b",
         "MessageKR": "…….\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……\u200b",
+        "MessageEN": "...\u200b"
     },
     {
         "MessageId": 200390781,
@@ -435,8 +435,8 @@
         "ImagePath": "",
         "MessageJP": "その",
         "MessageKR": "뭐어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼說呢",
+        "MessageEN": "Well."
     },
     {
         "MessageId": 200390790,
@@ -447,8 +447,8 @@
         "ImagePath": "",
         "MessageJP": "つまり",
         "MessageKR": "그러니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "簡而言之",
+        "MessageEN": "You see."
     },
     {
         "MessageId": 200390800,
@@ -459,8 +459,8 @@
         "ImagePath": "",
         "MessageJP": "……\u200b\u200b\u200b",
         "MessageKR": "…….\u200b\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……\u200b\u200b",
+        "MessageEN": "...\u200b\u200b"
     },
     {
         "MessageId": 200390810,
@@ -471,8 +471,8 @@
         "ImagePath": "",
         "MessageJP": "こういうことじゃ",
         "MessageKR": "이런, 것이다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就是這麼回事",
+        "MessageEN": "This..."
     },
     {
         "MessageId": 200390820,
@@ -495,8 +495,8 @@
         "ImagePath": "",
         "MessageJP": "！？！？",
         "MessageKR": "?!?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "！？！？",
+        "MessageEN": "?!?!"
     },
     {
         "MessageId": 200390830,
@@ -507,8 +507,8 @@
         "ImagePath": "",
         "MessageJP": "これは……！まさか！？",
         "MessageKR": "이건……! 이것은!?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這……！這是！？",
+        "MessageEN": "This...! This is?!"
     },
     {
         "MessageId": 200390840,
@@ -519,8 +519,8 @@
         "ImagePath": "",
         "MessageJP": "ついさっき、撮ったものなんじゃが",
         "MessageKR": "조금 전에, 찍어 보았을 뿐이다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過是方才試拍的照片罷了",
+        "MessageEN": "I took this earlier."
     },
     {
         "MessageId": 200390850,
@@ -531,8 +531,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとうございます！家宝にします！",
         "MessageKR": "평생 간직하겠습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我會永遠珍藏的！",
+        "MessageEN": "I'll treasure it forever!"
     },
     {
         "MessageId": 200390860,
@@ -543,8 +543,8 @@
         "ImagePath": "",
         "MessageJP": "そうか",
         "MessageKR": "그러한가.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是嗎",
+        "MessageEN": "I see."
     },
     {
         "MessageId": 200390861,
@@ -555,8 +555,8 @@
         "ImagePath": "",
         "MessageJP": "……\u200b\u200b\u200b\u200b",
         "MessageKR": "…….\u200b\u200b\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……\u200b\u200b\u200b",
+        "MessageEN": "...\u200b\u200b\u200b"
     },
     {
         "MessageId": 200390870,
@@ -567,8 +567,8 @@
         "ImagePath": "",
         "MessageJP": "喜んでもらえたのなら、何よりじゃ",
         "MessageKR": "꼭 그리 하고 싶다면.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "若真要如此倒也無妨",
+        "MessageEN": "As you please."
     },
     {
         "MessageId": 200390880,
@@ -579,7 +579,7 @@
         "ImagePath": "",
         "MessageJP": "その、他の者には……内密にな",
         "MessageKR": "적어도, 다른 누군가에게는 보이지 말아 다오.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "然還請汝至少莫要讓他人察覺",
+        "MessageEN": "However, I ask that you keep it between just us."
     }
 ]

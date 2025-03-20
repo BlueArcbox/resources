@@ -2922,6 +2922,20 @@
             true
         ]
     },
+    "20043": {
+        "kivo_id": 156,
+        "gamekee_id": 650981,
+        "avatar": "https://static.kivo.wiki/images/students/狮子堂 泉/正月/Student_Portrait_CH0197_Collection.png",
+        "momotalk": "美食与人生，都是一场冒险！",
+        "name_en": "Izumi",
+        "name_jp": "イズミ（正月）",
+        "name_zh": "泉（正月）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
     "23000": {
         "kivo_id": 10,
         "gamekee_id": 66274,

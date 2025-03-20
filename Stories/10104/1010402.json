@@ -3,8 +3,8 @@
         "CharacterId": 10104,
         "MessageJP": "レイジョ",
         "MessageKR": "레이죠",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "令女",
+        "MessageEN": "Reijo"
     },
     {
         "MessageId": 101030110,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "今日は商会に来てくださるんですよね",
         "MessageKR": "오늘 저희 상회를 찾아 주신다고 하셨죠?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "聽說老師今天會光臨敝商會是嗎？",
+        "MessageEN": "You're coming to visit the Promenade today, yes?"
     },
     {
         "MessageId": 101040120,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "うん、楽しみにしてるよ",
         "MessageKR": "응. 엄청나게 기대 중이야!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，我超期待的！",
+        "MessageEN": "Affirmative! I'm so excited!"
     },
     {
         "MessageId": 101040130,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "そう言っていただけると嬉しいのですが",
         "MessageKR": "그 말씀은 확실히 기쁩니다만",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "聽您這麼說真讓人開心",
+        "MessageEN": "I AM happy to hear that, but"
     },
     {
         "MessageId": 101040131,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "少し緊張しますね",
         "MessageKR": "약간 부담이 되는 면도 어느 정도 있기는 하네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過也感受到些許壓力呢",
+        "MessageEN": "that was a little overwhelming..."
     },
     {
         "MessageId": 101040140,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ご、ごめん……",
         "MessageKR": "……안 돼?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……不行嗎？",
+        "MessageEN": "...Would you rather me not?"
     },
     {
         "MessageId": 101040150,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "いえ、謝ってほしいわけでは",
         "MessageKR": "그럴 리가요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請別這麼說",
+        "MessageEN": "No, no."
     },
     {
         "MessageId": 101040160,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "期待されないより良いですから",
         "MessageKR": "기대받는 편이, 그렇지 못한 것보다 낫습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "受人期待總比不受期待來得好",
+        "MessageEN": "It's just that you should manage your expectations."
     },
     {
         "MessageId": 101040161,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "料理を出す立場からすれば、なおのこと",
         "MessageKR": "요식업을 하는 입장이라면 특히나요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "尤其對餐飲業而言更是如此",
+        "MessageEN": "Especially when it comes to the restaurant..."
     },
     {
         "MessageId": 101040170,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "それでは先生",
         "MessageKR": "그러면 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼老師",
+        "MessageEN": "Then, Sensei."
     },
     {
         "MessageId": 101040180,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "後ほどお会いしましょう",
         "MessageKR": "식사 시간에 뵙겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "稍後用餐時間見",
+        "MessageEN": "I'll see you then."
     },
     {
         "MessageId": 101030187,
@@ -147,7 +147,7 @@
         "ImagePath": "",
         "MessageJP": "レイジョの絆イベントへ",
         "MessageKR": "레이죠의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往令女的羈絆劇情",
+        "MessageEN": "Go to Reijo's Bond Story"
     }
 ]
