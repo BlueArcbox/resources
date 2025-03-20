@@ -29,6 +29,7 @@ FUCK_GAMEKEE_ALIAS = {
     26014: 645822,  # カリン（制服）
     10111: 173926,  # ネル（制服）
     20041: 173927,  # リオ
+    20043: 650981,  # イズミ（正月）
 }
 
 # URL replacement patterns for local storage
@@ -239,16 +240,23 @@ class StickerFetcher:
 
     def get_gamekee_sticker(self, student_id):
         logger.info(f"🔄 Starting to fetch stickers for gamekee_id[{student_id}]")
-        id = self.id_map[student_id]["gamekee_id"]
-        html = self.request_gamekee_page(id)
+        try:
+            id = self.id_map[student_id]["gamekee_id"]
+            html = self.request_gamekee_page(id)
 
-        parser = ImageURLExtractor()
-        parser.feed(html)
-        self.id_map[student_id]["sticker_download_flag"][1] = True
-        logger.info(
-            f"✅ Successfully fetched stickers for gamekee_id[{student_id}], total stickers: {len(parser.image_urls)}"
-        )
-        return parser.image_urls
+            parser = ImageURLExtractor()
+            parser.feed(html)
+            self.id_map[student_id]["sticker_download_flag"][1] = True
+            logger.info(
+                f"✅ Successfully fetched stickers for gamekee_id[{student_id}], total stickers: {len(parser.image_urls)}"
+            )
+            return parser.image_urls
+        except:
+            logger.error(
+                f"Failed to fetch stickers for gamekee_id[{student_id}], return empty []"
+            )
+            return []
+            
 
     def request_kivo_data(self, id):
         url = f"https://api.kivo.wiki/api/v1/data/students/{id}"
