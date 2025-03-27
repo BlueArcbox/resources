@@ -1,0 +1,129 @@
+[
+    {
+        "CharacterId": 10048,
+        "MessageJP": "サオリ",
+        "MessageKR": "사오리",
+        "MessageTW": "沙織",
+        "MessageEN": "Saori"
+    },
+    {
+        "MessageId": 100470320,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 100480320,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 100480320,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100480330,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生、知っていたらでいいんだが",
+        "MessageKR": "선생. 혹시나 알고 있다면 말인데.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100480330,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 100480331,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "腕の立つ修理工はいるか？",
+        "MessageKR": "좋은 수리공을 알고 있나?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100480331,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100480340,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "装備が壊れてしまってな",
+        "MessageKR": "꼭 고치고 싶은 장비가 있다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100480340,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 100480350,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "どのタイプの装備？",
+        "MessageKR": "응? 어떤 종류의 장비야?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100480350,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100480360,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "それは……",
+        "MessageKR": "그건…….",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100480360,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 100480370,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "……説明が難しいな",
+        "MessageKR": "여기서 말하긴 좀 복잡하군.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100480370,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 100480371,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "話したほうが早い",
+        "MessageKR": "내가 그쪽으로 가겠다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100480371,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100470377,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "シャーレに向かう",
+        "MessageKR": "만나서 이야기하지.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100470377,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "サオリの絆イベントへ",
+        "MessageKR": "사오리의 인연스토리로",
+        "MessageTW": "前往沙織的羈絆劇情",
+        "MessageEN": "Go to Saori's Bond Story"
+    }
+]

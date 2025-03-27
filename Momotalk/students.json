@@ -9837,5 +9837,61 @@
             "ItemId": 10009,
             "ItemType": "正月"
         }
+    },
+    {
+        "Id": 10115,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10115.webp"
+        ],
+        "Name": {
+            "jp": "レイ",
+            "kr": "레이",
+            "zh": "莱依"
+        },
+        "Bio": {
+            "jp": "まずは打率1割を！",
+            "kr": "우선은 1할을 목표로",
+            "zh": "先把打击率拉到1成！"
+        },
+        "Nickname": [
+            "Rei"
+        ],
+        "Birthday": "8/9",
+        "Age": "15歳",
+        "School": "Millennium",
+        "Club": "TrainingClub",
+        "Star": 3,
+        "Released": true,
+        "Related": null
+    },
+    {
+        "Id": 20044,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/20044.webp"
+        ],
+        "Name": {
+            "jp": "スミレ（アルバイト）",
+            "kr": "스미레(아르바이트)",
+            "zh": "堇（打工）"
+        },
+        "Bio": {
+            "jp": "ドリンク、いかがですか？",
+            "kr": "단백질 드링크, 어떠세요?",
+            "zh": "来杯饮料吧？"
+        },
+        "Nickname": [
+            "Sumire",
+            "工堇"
+        ],
+        "Birthday": "8/20",
+        "Age": "16歳",
+        "School": "Millennium",
+        "Club": "TrainingClub",
+        "Star": 3,
+        "Released": true,
+        "Related": {
+            "ItemId": 10012,
+            "ItemType": "アルバイト"
+        }
     }
 ]

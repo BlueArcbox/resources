@@ -1784,6 +1784,19 @@
             true
         ]
     },
+    "10115": {
+        "kivo_id": 342,
+        "avatar": "https://static.kivo.wiki/images/students/野正 莱依/original/Student_Portrait_CH0245_Collection.png",
+        "momotalk": "先把打击率拉到1成！",
+        "name_en": "Rei",
+        "name_jp": "レイ",
+        "name_zh": "莱依",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
     "13000": {
         "kivo_id": 24,
         "gamekee_id": 66752,
@@ -2934,6 +2947,21 @@
         "sticker_download_flag": [
             true,
             true
+        ]
+    },
+    "20044": {
+        "kivo_id": 523,
+        "avatar": "https://static.kivo.wiki/images/students/乙花 堇/打工/Student_Portrait_CH0287_Collection.png",
+        "momotalk": "来杯饮料吧？",
+        "name_en": "Sumire",
+        "name_jp": "スミレ（アルバイト）",
+        "name_zh": "堇（打工）",
+        "nicknames": [
+            "工堇"
+        ],
+        "sticker_download_flag": [
+            true,
+            false
         ]
     },
     "23000": {

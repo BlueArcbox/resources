@@ -1,0 +1,141 @@
+[
+    {
+        "CharacterId": 10115,
+        "MessageJP": "レイ",
+        "MessageKR": "레이",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101140010,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 101150010,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 101150010,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101150020,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "おはようございます、先生！",
+        "MessageKR": "안녕하세요. 선생님.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101150020,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101150030,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ミレニアムサイエンススクール野球部、野正レイです！",
+        "MessageKR": "노마사 레이, 인사드립니다!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101150030,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101150040,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "おはよう、レイ",
+        "MessageKR": "안녕. 레이.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101150040,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101150050,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "最近調子はどう？",
+        "MessageKR": "그러고 보니 레이는 수업이 끝나면 뭐 해?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101150050,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101150060,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ホームランに向けて頑張ってます",
+        "MessageKR": "너무 당연한 것을 물으시네요, 선생님.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101150060,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101150070,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "今日も野球の練習をする予定です",
+        "MessageKR": "그거야 당연히, 야구 훈련이죠!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101150070,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101150071,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "あっ、そうだ",
+        "MessageKR": "아, 그렇네요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101150071,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101150072,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "よかったら先生も見に来ませんか？",
+        "MessageKR": "선생님께서도 한 번 보러 오시겠어요?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101150072,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101140077,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "練習場は見学自由ですので",
+        "MessageKR": "밀레니엄 야구부의 훈련장은, 언제나 견학이 가능하거든요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101140077,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "レイの絆イベントへ",
+        "MessageKR": "레이의 인연스토리로",
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
+    }
+]
