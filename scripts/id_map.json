@@ -1786,11 +1786,25 @@
     },
     "10115": {
         "kivo_id": 342,
+        "gamekee_id": 652656,
         "avatar": "https://static.kivo.wiki/images/students/野正 莱依/original/Student_Portrait_CH0245_Collection.png",
         "momotalk": "先把打击率拉到1成！",
         "name_en": "Rei",
         "name_jp": "レイ",
         "name_zh": "莱依",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10116": {
+        "kivo_id": 356,
+        "avatar": "https://static.kivo.wiki/images/students/锭前 纱织/礼服/Student_Portrait_CH0259_Collection.png",
+        "momotalk": "这、这是工作需要所以......！",
+        "name_en": "Saori",
+        "name_jp": "サオリ（ドレス）",
+        "name_zh": "纱织（礼服）",
         "nicknames": [],
         "sticker_download_flag": [
             true,
@@ -2951,6 +2965,7 @@
     },
     "20044": {
         "kivo_id": 523,
+        "gamekee_id": 652654,
         "avatar": "https://static.kivo.wiki/images/students/乙花 堇/打工/Student_Portrait_CH0287_Collection.png",
         "momotalk": "来杯饮料吧？",
         "name_en": "Sumire",
@@ -2961,7 +2976,7 @@
         ],
         "sticker_download_flag": [
             true,
-            false
+            true
         ]
     },
     "23000": {

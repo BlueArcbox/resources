@@ -9893,5 +9893,34 @@
             "ItemId": 10012,
             "ItemType": "アルバイト"
         }
+    },
+    {
+        "Id": 10116,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10116.webp"
+        ],
+        "Name": {
+            "jp": "サオリ（ドレス）",
+            "kr": "사오리(드레스)",
+            "zh": "纱织（礼服）"
+        },
+        "Bio": {
+            "jp": "こ、これは仕事で……！",
+            "kr": "이, 이건 일 때문에……!",
+            "zh": "这、这是工作需要所以......！"
+        },
+        "Nickname": [
+            "Saori"
+        ],
+        "Birthday": "9/3",
+        "Age": "17歳",
+        "School": "Arius",
+        "Club": "AriusSqud",
+        "Star": 3,
+        "Released": true,
+        "Related": {
+            "ItemId": 10048,
+            "ItemType": "ドレス"
+        }
     }
 ]
