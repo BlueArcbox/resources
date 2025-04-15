@@ -52,7 +52,7 @@
         "MessageJP": "ゲヘナの風紀委員会として、放っておくわけにはいかない",
         "MessageKR": "게헨나 선도부의 스페셜리스트로서 이런 만행을 두고 볼 수는 없지!",
         "MessageTW": "身為格黑娜的風紀委員會，可不能放任不管",
-        "MessageEN": "I can't simply sit back as a Gehenna prefect!"
+        "MessageEN": "I can't simply sit back and watch this atrocity unfold as a Gehenna prefect!"
     },
     {
         "MessageId": 100230211,
@@ -64,7 +64,7 @@
         "MessageJP": "ただ相手の数も分からないし、他の風紀委員も動けないから、先生も来てほしい",
         "MessageKR": "지금 바로 바다의 집으로 따라 나와줘.",
         "MessageTW": "只是不知道對方的數量，其他風紀委員也無法抽身，所以希望老師能來幫忙",
-        "MessageEN": "Meet me at the Beach Shack."
+        "MessageEN": "Meet me at the Beach Shack. Now."
     },
     {
         "MessageId": 100230212,

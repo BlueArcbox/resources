@@ -52,7 +52,7 @@
         "MessageJP": "日々の中で成長している……！",
         "MessageKR": "그, 그런 거야?",
         "MessageTW": "每天都在成長……！",
-        "MessageEN": "Is that so?"
+        "MessageEN": "I-Is that so?"
     },
     {
         "MessageId": 1001500100,
@@ -76,7 +76,7 @@
         "MessageJP": "先生も頑張ってください、そんなレベルで大丈夫ですか？",
         "MessageKR": "선생님도 노력하셔야 합니다. 지금 레벨에 잠이 옵니까?",
         "MessageTW": "老師也要加油，那種等級沒問題嗎？",
-        "MessageEN": "You have to work harder too. How can you sleep comfortably at that level?"
+        "MessageEN": "You have to work harder too, Sensei. Your current level allows no room for complacency."
     },
     {
         "MessageId": 1001500120,
@@ -88,7 +88,7 @@
         "MessageJP": "が、頑張るね……",
         "MessageKR": "으, 으응……",
         "MessageTW": "會，會加油的……",
-        "MessageEN": "Um..."
+        "MessageEN": "Y-Yes, I will..."
     },
     {
         "MessageId": 1001500120,
@@ -172,7 +172,7 @@
         "MessageJP": "生徒会のみなさんにも怒られてしまいましたし、",
         "MessageKR": "학생회 분들께 잔뜩 혼났기 때문에,",
         "MessageTW": "還被學生會的人狠狠地教訓了一頓",
-        "MessageEN": "Even the Student Council scolded me... "
+        "MessageEN": "Even the student council scolded me..."
     },
     {
         "MessageId": 1001500170,

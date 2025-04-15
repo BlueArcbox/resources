@@ -64,7 +64,7 @@
         "MessageJP": "それ、一応先生である私に聞く！？",
         "MessageKR": "그걸 또 선생님인 나에게 묻는 건가ㅋ",
         "MessageTW": "問身為老師的我！？",
-        "MessageEN": "You're asking me, your teacher? Haha"
+        "MessageEN": "Besides, you're asking me, your teacher? Haha"
     },
     {
         "MessageId": 260050300,
@@ -124,7 +124,7 @@
         "MessageJP": "OK、任せて",
         "MessageKR": "아, 알았어. 이해했다.",
         "MessageTW": "OK，交給我",
-        "MessageEN": "Okay. I understand."
+        "MessageEN": "Oh, I see. I get you."
     },
     {
         "MessageId": 260050320,
@@ -172,7 +172,7 @@
         "MessageJP": "じゃあ、気が向いたらまた連絡するから(￣︶￣\\*)",
         "MessageKR": "이따가 다시 연락할게\\~. //(￣︶￣\\*))",
         "MessageTW": "那就先這樣，想連絡的時候會再聯絡你\n(￣︶￣\\*)",
-        "MessageEN": "Ttyl! //(￣︶￣\\*))"
+        "MessageEN": "Talk to you later! //(￣︶￣\\*))"
     },
     {
         "MessageId": 260040347,

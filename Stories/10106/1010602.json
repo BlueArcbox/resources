@@ -3,8 +3,8 @@
         "CharacterId": 10106,
         "MessageJP": "サクラコ（アイドル）",
         "MessageKR": "사쿠라코(아이돌)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "櫻子（偶像）",
+        "MessageEN": "Sakurako (Pop Idol)"
     },
     {
         "MessageId": 101050180,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 101060190,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今お時間よろしいでしょうか？",
         "MessageKR": "선생님 혹시 계실까요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，您在嗎？",
+        "MessageEN": "Sensei, are you there?"
     },
     {
         "MessageId": 101060191,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ご相談がありまして",
         "MessageKR": "긴히 드릴 말씀이 있습니다만",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我有些話想對您說",
+        "MessageEN": "I have something important to discuss with you."
     },
     {
         "MessageId": 101060200,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "……サクラコ？",
         "MessageKR": "……? 사쿠라코?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……櫻子？",
+        "MessageEN": "...? Sakurako?"
     },
     {
         "MessageId": 101060200,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "どうかしたの？",
         "MessageKR": "무슨 일 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有什麼事嗎？",
+        "MessageEN": "Is everything okay?"
     },
     {
         "MessageId": 101060210,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ええと",
         "MessageKR": "음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個",
+        "MessageEN": "Um..."
     },
     {
         "MessageId": 101060211,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "メッセージでは説明が難しく……",
         "MessageKR": "있다고도 없다고도 할 수 있습니다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可以說有，也可以說沒有",
+        "MessageEN": "In some ways...yes...in others..."
     },
     {
         "MessageId": 101060220,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "よろしければ",
         "MessageKR": "혹 괜찮으시다면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果您方便的話",
+        "MessageEN": "If you have the time..."
     },
     {
         "MessageId": 101060221,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "直接お会いしたいのですが",
         "MessageKR": "저에게 조금만 시간을",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "希望能占用您一些時間",
+        "MessageEN": "Could you spare me a moment...?"
     },
     {
         "MessageId": 101050237,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "サクラコ（アイドル）の絆イベントへ",
         "MessageKR": "사쿠라코(아이돌)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往櫻子（偶像）的羈絆劇情",
+        "MessageEN": "Go to Sakurako (Pop Idol)'s Bond Story"
     },
     {
         "MessageId": 101060230,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとうございます、先生",
         "MessageKR": "정말로 감사드립니다, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真的很謝謝您，老師",
+        "MessageEN": "Thank you very much, Sensei."
     },
     {
         "MessageId": 101060240,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "正直なところ、とても不安でしたが",
         "MessageKR": "솔직히 반신반의한 게 사실이었으나",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老實說，我本來還有點半信半疑的",
+        "MessageEN": "To be honest, I was rather skeptical at first."
     },
     {
         "MessageId": 101060241,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "先生のおかげで、大切な友人ができました",
         "MessageKR": "선생님 덕분에, 더없이 큰 것을 얻게 되었습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但多虧了老師，我似乎獲得了更大的收穫",
+        "MessageEN": "But I received something precious, in the end. Thanks to you."
     },
     {
         "MessageId": 101060250,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "良かった！",
         "MessageKR": "오, 잘 됐나 보네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哦，看來成功了呢",
+        "MessageEN": "I'm glad it went well."
     },
     {
         "MessageId": 101060250,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "おめでとう！",
         "MessageKR": "그럴 줄 알았어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我就知道你一定沒問題的",
+        "MessageEN": "I knew it'd turn out that way."
     },
     {
         "MessageId": 101060260,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "ふふっ",
         "MessageKR": "후후",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵",
+        "MessageEN": "Heehee."
     },
     {
         "MessageId": 101060270,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "お店の方に撮影していただきました",
         "MessageKR": "아르바이트생 분이 찍어주셨습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我請工讀生為我們拍了照",
+        "MessageEN": "A part-time worker took this photo."
     },
     {
         "MessageId": 101060281,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "皆様、ライブにも来てくださるそうです",
         "MessageKR": "두 분 모두, 공연에도 꼭 와 주시기로 했답니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "他們兩位也說表演的時候一定會過來捧場",
+        "MessageEN": "They promised they would come to the concert."
     },
     {
         "MessageId": 101060290,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "それと",
         "MessageKR": "……아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……啊",
+        "MessageEN": "...Ah."
     },
     {
         "MessageId": 101060300,
@@ -266,9 +266,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "今後も「サクラちゃん」と呼んでもらいたいとお伝えしたのですが",
-        "MessageKR": "그러고 보니 계속해서 ‘사쿠라 쨩’이라 불러 주셔도 좋다고 했습니다만,",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "그러고 보니 계속해서 '사쿠라 쨩'이라 불러 주셔도 좋다고 했습니다만,",
+        "MessageTW": "話說回來，雖然我跟他們說可以繼續叫我「櫻醬」",
+        "MessageEN": "Thinking about it, I attempted to tell the Sisters that they could call me \"Sakura,\""
     },
     {
         "MessageId": 101060310,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "シスターフッドの皆様に止められてしまいまして……",
         "MessageKR": "다른 자매님들께서 그건 안 된다고 못 박아 버리셔서…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可惜其他修女不同意，我也沒能說服他們……",
+        "MessageEN": "but they insisted that it was inappropriate."
     },
     {
         "MessageId": 101060320,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "そうだったんだ……",
         "MessageKR": "그건…… 그렇겠죠…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這……好像也沒辦法……",
+        "MessageEN": "That's...well..."
     },
     {
         "MessageId": 101060320,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "みんなの前で言うのは流石に……。",
         "MessageKR": "그걸 또 공석에서 말했군요, 사쿠라코 씨…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你又在公開場合說這種事了啊，櫻子同學……",
+        "MessageEN": "It was in too formal of a setting, again, Sakurako."
     },
     {
         "MessageId": 101060330,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "ええ",
         "MessageKR": "네. 그건 아쉽게도",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是的",
+        "MessageEN": "Yes. Unfortunately,"
     },
     {
         "MessageId": 101060340,
@@ -327,7 +327,7 @@
         "ImagePath": "",
         "MessageJP": "少し残念ですが、うまくいって良かったです",
         "MessageKR": "그렇게 됐습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然有些遺憾，不過確實如此",
+        "MessageEN": "that's how that went."
     }
 ]

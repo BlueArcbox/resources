@@ -3,8 +3,8 @@
         "CharacterId": 10105,
         "MessageJP": "マリー（アイドル）",
         "MessageKR": "마리(아이돌)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "瑪麗（偶像）",
+        "MessageEN": "Mari (Pop Idol)"
     },
     {
         "MessageId": 101040400,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 101050410,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "もしよろしければ",
         "MessageKR": "혹시",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我想請問",
+        "MessageEN": "By chance"
     },
     {
         "MessageId": 101050411,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "今日の夕方",
         "MessageKR": "오늘 저녁에",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天晚上",
+        "MessageEN": "would you have some time to spare"
     },
     {
         "MessageId": 101050420,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "お時間を頂けますか？",
         "MessageKR": "시간 괜찮으실까요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "能不能占用您一些時間呢？",
+        "MessageEN": "in the evening today?"
     },
     {
         "MessageId": 101050430,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "もちろんだよ、マリー",
         "MessageKR": "……마리?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……瑪麗？",
+        "MessageEN": "...Mari?"
     },
     {
         "MessageId": 101050430,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "何かあったの？",
         "MessageKR": "괜찮지만, 무슨 일 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒問題，不過怎麼了嗎？",
+        "MessageEN": "Yes, but...is everything okay?"
     },
     {
         "MessageId": 101050440,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとうございます",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah."
     },
     {
         "MessageId": 101050450,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "内容は、後ほどお会いしてから……",
         "MessageKR": "네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是",
+        "MessageEN": "I'm okay..."
     },
     {
         "MessageId": 101050460,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "で、では",
         "MessageKR": "감사합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "非常感謝",
+        "MessageEN": "Thank you."
     },
     {
         "MessageId": 101050470,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "よろしくお願いします",
         "MessageKR": "그럼 그때 뵙겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼到時候見",
+        "MessageEN": "Then, I'll see you soon."
     },
     {
         "MessageId": 101040487,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "マリー（アイドル）の絆イベントへ",
         "MessageKR": "마리(아이돌)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往瑪麗（偶像）的羈絆劇情",
+        "MessageEN": "Go to Mari (Pop Idol)'s Bond Story"
     },
     {
         "MessageId": 101050480,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "先生\u200b",
         "MessageKR": "잘 들어가셨나요, 선생님?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "您回到家了嗎，老師？",
+        "MessageEN": "Did you get home okay, Sensei?"
     },
     {
         "MessageId": 101050490,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "お見送りありがとうございました",
         "MessageKR": "저는 덕분에 방으로 잘 들어와서 쉬고 있답니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝老師願意送我回來，我已經平安回到宿舍裡休息了",
+        "MessageEN": "Thank you for helping me get back safely. I'm resting in my room now."
     },
     {
         "MessageId": 101050500,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "またステージに立つ機会があれば",
         "MessageKR": "언젠가 또",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真希望下次",
+        "MessageEN": "I hope that one day,"
     },
     {
         "MessageId": 101050501,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "その時は精一杯頑張ります",
         "MessageKR": "비슷한 기회가 있었으면 좋겠네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還能有這樣的機會",
+        "MessageEN": "we'll have another opportunity for something like this."
     },
     {
         "MessageId": 101050510,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "きっと、みんなも大歓迎だよ！",
         "MessageKR": "마리만 괜찮다면 언제든지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只要瑪麗願意，機會隨時都有哦",
+        "MessageEN": "Whenever you want, Mari."
     },
     {
         "MessageId": 101050510,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "これで終わってしまうわけじゃないよ。大丈夫。",
         "MessageKR": "끝 나버린다거나, 그런 개념이 아니니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "畢竟這也不代表一切就此結束了",
+        "MessageEN": "It's not like you'll lose your talent!"
     },
     {
         "MessageId": 101050520,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "ふふ",
         "MessageKR": "후후",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵",
+        "MessageEN": "Heehee."
     },
     {
         "MessageId": 101050521,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとうございます\u200b",
         "MessageKR": "네, 명심하겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是，我會銘記於心",
+        "MessageEN": "You're right. I'll keep that in mind."
     },
     {
         "MessageId": 101050530,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "それでは先生、おやすみなさい",
         "MessageKR": "그럼 좋은 밤 되세요, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "祝您有個好夢，老師",
+        "MessageEN": "Then have a good night, Sensei."
     },
     {
         "MessageId": 101050540,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "……今度、もしよろしければ",
         "MessageKR": "다음에 또, 괜찮으실 때",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "也許下次您方便的時候",
+        "MessageEN": "I might just sing you a song next time"
     },
     {
         "MessageId": 101050541,
@@ -279,7 +279,7 @@
         "ImagePath": "",
         "MessageJP": "歌、歌わせてくださいね",
         "MessageKR": "그냥 불러드릴 지도, 모르겠어요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我還會約您出來哦",
+        "MessageEN": "If you'd like, of course."
     }
 ]

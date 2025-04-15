@@ -100,7 +100,7 @@
         "MessageJP": "やっ、何でもない！",
         "MessageKR": "아, 아무것도 아니야!",
         "MessageTW": "沒，沒事！",
-        "MessageEN": "N-Nothing!"
+        "MessageEN": "Th-That's nothing!"
     },
     {
         "MessageId": 100230112,
@@ -160,7 +160,7 @@
         "MessageJP": "おかげで、お世辞にも習得したとは言えないけど、何とか泳げるくらいにはなったし……",
         "MessageKR": "덕분에 능숙하지는 않지만 어느 정도는 헤엄칠 수 있게 된 것 같아.",
         "MessageTW": "託你的福，雖說還不是很熟練，但總算會游一點了……",
-        "MessageEN": "I'm still not used to it, but I know how to swim now."
+        "MessageEN": "I may not be a pro, but I know how to swim now."
     },
     {
         "MessageId": 100230141,

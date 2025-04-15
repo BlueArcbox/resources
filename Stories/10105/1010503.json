@@ -3,8 +3,8 @@
         "CharacterId": 10105,
         "MessageJP": "マリー（アイドル）",
         "MessageKR": "마리(아이돌)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "瑪麗（偶像）",
+        "MessageEN": "Mari (Pop Idol)"
     },
     {
         "MessageId": 101040290,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "思ったよりも",
         "MessageKR": "뭔가",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總覺得",
+        "MessageEN": "Our schedule"
     },
     {
         "MessageId": 101050300,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "大変なスケジュールになってしまいましたね",
         "MessageKR": "생각보다 일정이 바빠졌네요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "行程好像比想像中還緊湊",
+        "MessageEN": "ended up being busier than I expected."
     },
     {
         "MessageId": 101050301,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ですが、皆さんに喜んでいただけて嬉しいです",
         "MessageKR": "그래도 모두 기뻐해 주시니 저도 즐겁답니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過看到大家開心的樣子，我也覺得很高興",
+        "MessageEN": "But I'm glad that everyone enjoyed it."
     },
     {
         "MessageId": 101050310,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "追加公演もあるんだね",
         "MessageKR": "공연을 더 하는 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你們還有表演嗎？",
+        "MessageEN": "Are you doing more concerts?"
     },
     {
         "MessageId": 101050310,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "またライブがあるの？",
         "MessageKR": "어라, 추가 콘서트?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦，有加場表演嗎？",
+        "MessageEN": "Oooh, a bonus concert?"
     },
     {
         "MessageId": 101050320,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "えっと",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah."
     },
     {
         "MessageId": 101050321,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "追加公演と呼ぶのかは分かりませんが",
         "MessageKR": "으음. 정확한 명칭은 모르겠지만…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔嗯，雖然我不知道正式的名稱……",
+        "MessageEN": "Umm. I don't know the exact term..."
     },
     {
         "MessageId": 101050330,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "次のライブが決定しました",
         "MessageKR": "네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過",
+        "MessageEN": "Yes."
     },
     {
         "MessageId": 101050340,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "皆さんから希望がありまして",
         "MessageKR": "비슷한 느낌인 것 같아요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "大致上是這樣沒錯",
+        "MessageEN": "Something like that."
     },
     {
         "MessageId": 101040357,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "マリー（アイドル）の絆イベントへ",
         "MessageKR": "마리(아이돌)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往瑪麗（偶像）的羈絆劇情",
+        "MessageEN": "Go to Mari (Pop Idol)'s Bond Story"
     },
     {
         "MessageId": 101050350,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "今日は来てくださってありがとうございました！",
         "MessageKR": "오늘 와 주셔서 감사했습니다, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝您今天特地過來，老師",
+        "MessageEN": "Thank you for coming today, Sensei."
     },
     {
         "MessageId": 101050360,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "サプライズプレゼントを受け取った気分です",
         "MessageKR": "깜짝선물이라도 받은 기분이었어요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "感覺就像收到了驚喜禮物一樣",
+        "MessageEN": "It was such a special surprise."
     },
     {
         "MessageId": 101050370,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "残りのライブも頑張ってね",
         "MessageKR": "남은 공연들도 힘내자.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "接下來的表演也要加油哦",
+        "MessageEN": "Good luck with rest of the concerts."
     },
     {
         "MessageId": 101050370,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "最後まで応援してるよ",
         "MessageKR": "마지막까지 파이팅!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "繼續努力到最後吧！",
+        "MessageEN": "Do your best until the end!"
     },
     {
         "MessageId": 101050380,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "はい！",
         "MessageKR": "……!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……！",
+        "MessageEN": "...!"
     },
     {
         "MessageId": 101050390,
@@ -207,7 +207,7 @@
         "ImagePath": "",
         "MessageJP": "また見に来てくださいね、先生",
         "MessageKR": "네!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是！！",
+        "MessageEN": "Yes!!"
     }
 ]

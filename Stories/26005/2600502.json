@@ -64,7 +64,7 @@
         "MessageJP": "……なんだか文字にすると変な感じになっちゃったけど",
         "MessageKR": "……뭔가 써 놓고 보니 말이 이상한데",
         "MessageTW": "……總覺得用打字的話好像變得有點奇怪",
-        "MessageEN": "...Actually, this is getting weird."
+        "MessageEN": "...Hmm, that sounded really awkward."
     },
     {
         "MessageId": 260050123,
@@ -76,7 +76,7 @@
         "MessageJP": "借りを返すって意味だから！それだけ！",
         "MessageKR": "빚! 그냥 빚을 갚는 의미일 뿐이야! 다른 건 아니고!",
         "MessageTW": "是要還你人情的意思！就是這樣而已！",
-        "MessageEN": "It's just payback! Payback for what I owe you! Nothing else!"
+        "MessageEN": "What I'm trying to say is, I want to pay off my debt! Settle what I owe you! Nothing else!"
     },
     {
         "MessageId": 260050130,
@@ -100,7 +100,7 @@
         "MessageJP": "ちゃんと覚えてるよ。大丈夫、了解",
         "MessageKR": "약속은 약속이지, 알았어.",
         "MessageTW": "當然記得囉。沒問題，了解",
-        "MessageEN": "Look, a promise is a promise."
+        "MessageEN": "I know. A promise is a promise."
     },
     {
         "MessageId": 260050144,
@@ -112,7 +112,7 @@
         "MessageJP": "そういう心臓に悪い冗談止めてくれる……？",
         "MessageKR": "진짜 좀 그런 식으로 말하지 마 심장에 안 좋으니까",
         "MessageTW": "能停止那種對心臟不好的玩笑嗎……？",
-        "MessageEN": "Don't say things like that. It really gets my heart going."
+        "MessageEN": "Can you please stop saying things like that? It really gets my heart going."
     },
     {
         "MessageId": 260050151,
@@ -148,7 +148,7 @@
         "MessageJP": "もう何も言わないで",
         "MessageKR": "아무한테도 말하지 마",
         "MessageTW": "什麼都別說",
-        "MessageEN": "And don't tell anyone!"
+        "MessageEN": "Don't tell anyone!"
     },
     {
         "MessageId": 260050165,
@@ -160,7 +160,7 @@
         "MessageJP": "忘れて",
         "MessageKR": "아무한테도",
         "MessageTW": "忘了吧",
-        "MessageEN": "No one!"
+        "MessageEN": "Absolutely no one!"
     },
     {
         "MessageId": 260050162,
@@ -172,7 +172,7 @@
         "MessageJP": "全部記憶から消して",
         "MessageKR": "엉덩이라든가",
         "MessageTW": "讓它們全都從記憶中消失",
-        "MessageEN": "You can't say a word."
+        "MessageEN": "And nuh uh, no BUTS!"
     },
     {
         "MessageId": 260050179,
@@ -184,6 +184,6 @@
         "MessageJP": "お尻の話とかしたら本気で殺すから",
         "MessageKR": "말하면 죽어 진짜",
         "MessageTW": "如果講什麼屁股之類的話，我真的會殺了你喔",
-        "MessageEN": "Not even to a rock."
+        "MessageEN": "One word and you're dead!"
     }
 ]

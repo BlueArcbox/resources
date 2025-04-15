@@ -98,9 +98,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "……ちゃんとした、先生だからこそお願いしたいことだから",
-        "MessageKR": "제대로 ‘선생님이니까’ 부탁하는 일이란 말이야",
+        "MessageKR": "제대로 '선생님이니까' 부탁하는 일이란 말이야",
         "MessageTW": "……是正經的，因為你是老師才想拜託你的事",
-        "MessageEN": "I'm asking you because you're my sensei."
+        "MessageEN": "I'm asking you because you're my teacher."
     },
     {
         "MessageId": 260050220,
@@ -148,7 +148,7 @@
         "MessageJP": "……ありがと。場所は……",
         "MessageKR": "아무튼 고마워, 선생님. 어디로 오면 되는지 가르쳐 줄게",
         "MessageTW": "……謝啦。地點是……",
-        "MessageEN": "Anyway, thank you. I'll tell you where to meet me."
+        "MessageEN": "Anyway, thanks. I'll tell you where to meet me."
     },
     {
         "MessageId": 260040257,
@@ -184,6 +184,6 @@
         "MessageJP": "……その、これからもよろしく、先生",
         "MessageKR": "앞으로도 종종 부탁할게, 선생님!",
         "MessageTW": "……那個，以後也拜託了，老師",
-        "MessageEN": "Can I count on you next time, Sensei?"
+        "MessageEN": "I'll give you a shout again, Sensei!"
     }
 ]

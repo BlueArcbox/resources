@@ -3,8 +3,8 @@
         "CharacterId": 10106,
         "MessageJP": "サクラコ（アイドル）",
         "MessageKR": "사쿠라코(아이돌)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "櫻子（偶像）",
+        "MessageEN": "Sakurako (Pop Idol)"
     },
     {
         "MessageId": 101050010,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、良いお知らせがあります",
         "MessageKR": "기쁜 일입니다, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我有一個好消息想跟您分享，老師",
+        "MessageEN": "Excellent news, Sensei."
     },
     {
         "MessageId": 101060020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "これまでの私の努力が",
         "MessageKR": "그간 이어져 왔던 저의 노력이,",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "一直以來付出的努力",
+        "MessageEN": "All my hard work until this point"
     },
     {
         "MessageId": 101060030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ついに……実を結んだのです。ふふっ",
         "MessageKR": "드디어 성과를…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "終於有收獲了……",
+        "MessageEN": "has finally paid off."
     },
     {
         "MessageId": 101060040,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "……サクラコさん？",
         "MessageKR": "……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……？",
+        "MessageEN": "...?"
     },
     {
         "MessageId": 101060050,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "どうしたの？",
         "MessageKR": "성과?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "收獲？",
+        "MessageEN": "Paid off?"
     },
     {
         "MessageId": 101060050,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "今度は一体何やったの？",
         "MessageKR": "또 뭔가 하셨나요, 사쿠라코 씨?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這次又做了什麼嗎，櫻子同學？",
+        "MessageEN": "Did you do something again, Sakurako?"
     },
     {
         "MessageId": 101060060,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ふふっ",
         "MessageKR": "후후",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵",
+        "MessageEN": "Heehee."
     },
     {
         "MessageId": 101060070,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "今からそちらに向かいますね",
         "MessageKR": "지금 그리로 가겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我現在就過去找您",
+        "MessageEN": "I'm on my way to you right now"
     },
     {
         "MessageId": 101050087,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "サクラコ（アイドル）の絆イベントへ",
         "MessageKR": "사쿠라코(아이돌)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往櫻子（偶像）的羈絆劇情",
+        "MessageEN": "Go to Sakurako (Pop Idol)'s Bond Story"
     },
     {
         "MessageId": 101060080,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "その",
         "MessageKR": "음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個",
+        "MessageEN": "Um..."
     },
     {
         "MessageId": 101060090,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "申し訳ありませんでした、先生",
         "MessageKR": "죄송합니다. 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "實在很抱歉，老師",
+        "MessageEN": "I'm sorry, Sensei."
     },
     {
         "MessageId": 101060091,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "あらためて会議を行なったのですが",
         "MessageKR": "말씀대로 전체 회의를 한번 선행해 보았습니다만.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我已經按照您的建議召開過全體會議",
+        "MessageEN": "I held a general meeting, per your request."
     },
     {
         "MessageId": 101060100,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "やはり、全員分の衣装を用意するのは難しく……",
         "MessageKR": "아무래도 '전원 복장 교체'는 무리인 것으로…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但是「更換所有人的服裝」這項提議，最終還是遭到了否決……",
+        "MessageEN": "But my new costume idea was not received well..."
     },
     {
         "MessageId": 101060110,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "……そうだよね",
         "MessageKR": "……그야 그렇겠죠.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……這也難怪",
+        "MessageEN": "...I could've told you that."
     },
     {
         "MessageId": 101060110,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "サクラコがたまに着るだけでも良いんじゃない？",
         "MessageKR": "개인 자격으로 가끔은 괜찮을 거야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你自己偶爾穿就行了吧",
+        "MessageEN": "I think it's okay as an occasional occurrence, with your approval."
     },
     {
         "MessageId": 101060120,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "はい",
         "MessageKR": "네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是",
+        "MessageEN": "Yes."
     },
     {
         "MessageId": 101060130,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "ですが",
         "MessageKR": "그리고 저 또한",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "另外，我也收到了一些修女們的意見",
+        "MessageEN": "Also..."
     },
     {
         "MessageId": 101060131,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "シスターの活動をしている時に着るのはやめてほしい、と",
         "MessageKR": "업무 시간에 쭉 입고 있는 것은 자제해 달라는",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "他們希望我不要在執勤時間",
+        "MessageEN": "I received a few requests"
     },
     {
         "MessageId": 101060132,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "ご意見を頂戴しまして……",
         "MessageKR": "의견이 몇 건 올라왔습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "也一直穿著那身衣服",
+        "MessageEN": "to restrain myself from wearing it during work hours."
     },
     {
         "MessageId": 101060140,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "肯定的な声も多いものの",
         "MessageKR": "어렵군요. 이런 건",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這還真讓人為難呢",
+        "MessageEN": "This is...difficult"
     },
     {
         "MessageId": 101060141,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "一筋縄ではいきませんね",
         "MessageKR": "분명 좋아해 주셨던 분도 많았는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "明明有那麼多人喜歡那套服裝",
+        "MessageEN": "There were also many people who liked the idea. I'm sure."
     },
     {
         "MessageId": 101060150,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "何事にも限度があるよね……",
         "MessageKR": "뭐든 정도라는 게 있으니…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "畢竟凡事都該有限度……",
+        "MessageEN": "Everything in moderation."
     },
     {
         "MessageId": 101060150,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "みんなが同じ考えではないからね……",
         "MessageKR": "모두의 의견이 같을 순 없지…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "大家的意見本來就很難達成一致……",
+        "MessageEN": "It's hard to ever come to a complete consensus."
     },
     {
         "MessageId": 101060160,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "そうですか……",
         "MessageKR": "그런가요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是嗎",
+        "MessageEN": "Is that so"
     },
     {
         "MessageId": 101060170,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "分かりました",
         "MessageKR": "네. 알겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我明白了",
+        "MessageEN": "That is understandable."
     },
     {
         "MessageId": 101060171,
@@ -327,7 +327,7 @@
         "ImagePath": "",
         "MessageJP": "それでは、今日も平和に過ごせますように",
         "MessageKR": "그럼 평안한 하루 되시기를.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼，祝老師今天也能過得順遂",
+        "MessageEN": "Have a blessed day, then."
     }
 ]

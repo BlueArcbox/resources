@@ -3,8 +3,8 @@
         "CharacterId": 10105,
         "MessageJP": "マリー（アイドル）",
         "MessageKR": "마리(아이돌)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "瑪麗（偶像）",
+        "MessageEN": "Mari (Pop Idol)"
     },
     {
         "MessageId": 101040010,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "思いも寄らない事態です",
         "MessageKR": "뭔가",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總覺得",
+        "MessageEN": "This turned into"
     },
     {
         "MessageId": 101050020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "まさか",
         "MessageKR": "생각지도 못한 일이 돼 버렸네요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "事情的發展有點出乎預料",
+        "MessageEN": "something I'd never expected."
     },
     {
         "MessageId": 101050021,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "私がアイドルに……",
         "MessageKR": "제가 아이돌이라니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我竟然會成為偶像",
+        "MessageEN": "For me to become an idol..."
     },
     {
         "MessageId": 101050030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "今も練習中なの？",
         "MessageKR": "지금 연습 중이야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在在練習嗎？",
+        "MessageEN": "Are you practicing right now?"
     },
     {
         "MessageId": 101050030,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "うまくいってる？",
         "MessageKR": "잘 돼 가?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還順利嗎？",
+        "MessageEN": "Is everything going well?"
     },
     {
         "MessageId": 101050040,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "あ",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah."
     },
     {
         "MessageId": 101050041,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "はい",
         "MessageKR": "네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是的",
+        "MessageEN": "Yes."
     },
     {
         "MessageId": 101050050,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "先生のおかげで順調です！",
         "MessageKR": "덕분에 순조로운 것 같아요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "多虧有老師，一切都進行得很順利！",
+        "MessageEN": "Thanks to you, it's going smoothly!"
     },
     {
         "MessageId": 101040067,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "マリー（アイドル）の絆イベントへ",
         "MessageKR": "마리(아이돌)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往瑪麗（偶像）的羈絆劇情",
+        "MessageEN": "Go to Mari (Pop Idol)'s Bond Story"
     },
     {
         "MessageId": 101050060,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "先生、今日はありがとうございました",
         "MessageKR": "오늘은 정말로 감사했습니다, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天真的很謝謝您，老師",
+        "MessageEN": "Thank you so much for today, Sensei."
     },
     {
         "MessageId": 101050070,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "おかげさまで練習が捗りました",
         "MessageKR": "덕분에 연습도 훨씬 더 잘 된 거 같아요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "感覺今天的練習比以往還要順利",
+        "MessageEN": "Practice wouldn't have gone so smoothly without you."
     },
     {
         "MessageId": 101050080,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "それは良かった",
         "MessageKR": "나도 계란말이 맛있었어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "玉子燒很好吃哦",
+        "MessageEN": "The rolled omelet was delicious."
     },
     {
         "MessageId": 101050080,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "卵焼き、美味しかったよ",
         "MessageKR": "오히려 득 본 기분이네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "反而是我賺到了呢",
+        "MessageEN": "I feel like I might've benefitted the most."
     },
     {
         "MessageId": 101050090,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "安心しました",
         "MessageKR": "그만둬 주세요, 그런 말씀",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請您不必客氣",
+        "MessageEN": "Don't say that"
     },
     {
         "MessageId": 101050091,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "お口にあったようで、何よりです",
         "MessageKR": "그래도 솔직히 기쁘네요, 좋아해 주셔서.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過其實聽到老師這麼說，我很開心",
+        "MessageEN": "But I'm glad that you enjoyed it"
     },
     {
         "MessageId": 101050100,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとうございます、先生",
         "MessageKR": "감사합니다, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "非常謝謝您，老師",
+        "MessageEN": "Thank you, Sensei."
     },
     {
         "MessageId": 101050110,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "ううん、お礼なら私が言うべきだよ",
         "MessageKR": "하하! 오늘 건 완전 세이프였거든.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哈哈！今天大獲全勝！",
+        "MessageEN": "Haha! Today was a complete success!"
     },
     {
         "MessageId": 101050110,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "今回はマリーからもらったものだからね！私の勝利だ……！",
         "MessageKR": "이번 건 뭐라 못하지! 완승이다 완승!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這次總沒事了吧！完全勝利！！",
+        "MessageEN": "No words of protest! A complete victory!"
     },
     {
         "MessageId": 101050120,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "えっと",
         "MessageKR": "……???",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……？？？",
+        "MessageEN": "...???"
     },
     {
         "MessageId": 101050130,
@@ -255,7 +255,7 @@
         "ImagePath": "",
         "MessageJP": "でしたら、良かったのでしょうか……？",
         "MessageKR": "네?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯？",
+        "MessageEN": "What?"
     }
 ]

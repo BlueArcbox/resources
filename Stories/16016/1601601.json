@@ -3,8 +3,8 @@
         "CharacterId": 16016,
         "MessageJP": "ミネ（アイドル）",
         "MessageKR": "미네(아이돌)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "美禰（偶像）",
+        "MessageEN": "Mine (Pop Idol)"
     },
     {
         "MessageId": 160150010,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 160160020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "急ですが、今から少しお時間よろしいでしょうか？",
         "MessageKR": "갑작스럽지만, 혹시 시간 좀 괜찮으실까요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然有些突然，不過您現在是否有空呢？",
+        "MessageEN": "I apologize for the short notice, but are you currently occupied with an important matter?"
     },
     {
         "MessageId": 160160021,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ご意見を伺えればと思いまして",
         "MessageKR": "의견을 좀 듣고 싶은 일이 생겼습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我有件事希望能詢問您的意見",
+        "MessageEN": "If not, there is a matter for which I require your opinion."
     },
     {
         "MessageId": 160160030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "大丈夫だよ",
         "MessageKR": "의견?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "意見？",
+        "MessageEN": "My opinion?"
     },
     {
         "MessageId": 160160030,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "何かあったの？",
         "MessageKR": "응? 무슨 일 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯？怎麼了嗎？",
+        "MessageEN": "Huh? Is something going on?"
     },
     {
         "MessageId": 160160040,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "そうですね……",
         "MessageKR": "네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是的",
+        "MessageEN": "Yes."
     },
     {
         "MessageId": 160160041,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "問題が起きたわけではありません",
         "MessageKR": "나쁜 일이나 걱정하실 이야기는 아닙니다만…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然並非需要擔心或負面的事……",
+        "MessageEN": "It is not necessarily something bad or worth concern."
     },
     {
         "MessageId": 160160050,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "ただ、客観的な意見を頂きたいのです",
         "MessageKR": "그래도 꼭, 선생님의 의견 또한 참고하고 싶습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但我還是想聽聽看老師的意見",
+        "MessageEN": "But, regardless, your input would be greatly appreciated."
     },
     {
         "MessageId": 160150067,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "ミネ（アイドル）の絆イベントへ",
         "MessageKR": "미네(아이돌)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往美禰（偶像）的羈絆劇情",
+        "MessageEN": "Go to Mine (Pop Idol)'s Bond Story"
     },
     {
         "MessageId": 160160060,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "先生\u200b",
         "MessageKR": "선생님\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師\u200b",
+        "MessageEN": "Sensei\u200b"
     },
     {
         "MessageId": 160160070,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "その",
         "MessageKR": "그",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個",
+        "MessageEN": "Um..."
     },
     {
         "MessageId": 160160071,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "いえ、何でもありません",
         "MessageKR": "아닙니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒什麼",
+        "MessageEN": "Never mind."
     },
     {
         "MessageId": 160160080,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "本当に可愛かったよ",
         "MessageKR": "언제든지 또 불러줘.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "隨時歡迎你再來找我哦",
+        "MessageEN": "Call me again any time!"
     },
     {
         "MessageId": 160160080,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "また着てくれる？",
         "MessageKR": "정말 귀여웠어. 또 보고 싶네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你今天真的很可愛，讓人忍不住想再看一次",
+        "MessageEN": "I wanna see cute Mine again!"
     },
     {
         "MessageId": 160160090,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "！",
         "MessageKR": "!!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "！！！",
+        "MessageEN": "!!!"
     },
     {
         "MessageId": 160160100,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "それは……",
         "MessageKR": "그\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那是……",
+        "MessageEN": "Um...\u200b"
     },
     {
         "MessageId": 160160110,
@@ -219,7 +219,7 @@
         "ImagePath": "",
         "MessageJP": "……はい",
         "MessageKR": "네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔唔",
+        "MessageEN": "Yes..."
     }
 ]

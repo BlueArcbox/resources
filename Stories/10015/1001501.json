@@ -40,7 +40,7 @@
         "MessageJP": "まずは「はじまりの村」周辺でレベルを上げなくてはいけないと聞きました",
         "MessageKR": "처음엔 시작 마을 주변에서 레벨업을 해야 한다고 들었습니다.",
         "MessageTW": "聽說首先得在「起始的村莊」附近提升等級",
-        "MessageEN": "I hear I have to train near the town where I am starting out."
+        "MessageEN": "I hear I have to level up near the town where I am starting out."
     },
     {
         "MessageId": 1001500021,
@@ -148,7 +148,7 @@
         "MessageJP": "はい、よろしくお願いします",
         "MessageKR": "그렇습니다.",
         "MessageTW": "沒錯",
-        "MessageEN": "That's right. "
+        "MessageEN": "That is correct."
     },
     {
         "MessageId": 1001500071,

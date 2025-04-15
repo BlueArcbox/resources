@@ -3,8 +3,8 @@
         "CharacterId": 10106,
         "MessageJP": "サクラコ（アイドル）",
         "MessageKR": "사쿠라코(아이돌)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "櫻子（偶像）",
+        "MessageEN": "Sakurako (Pop Idol)"
     },
     {
         "MessageId": 101050540,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生♡",
         "MessageKR": "선생님♡",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師♡",
+        "MessageEN": "Sensei ♡"
     },
     {
         "MessageId": 101060550,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "アイドル☆サクラコです！",
         "MessageKR": "혹시 시간 좀 괜찮을까용?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請問現在方便嗎？",
+        "MessageEN": "Are yuu busy, Senseiii?"
     },
     {
         "MessageId": 101060551,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "先生のお時間、もらっちゃうんだからっ！",
         "MessageKR": "아이돌 사쿠라코 쨩은 선생님의 시간을 빼앗을 거예요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "偶像櫻子醬，要來奪走老師的時間囉！",
+        "MessageEN": "Because Idol Sakuwa will steal Sensei's time today!"
     },
     {
         "MessageId": 101060560,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "どきどきどっきゅ～ん♡",
         "MessageKR": "두근두근 큥♡",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "蹦蹦啾～♡",
+        "MessageEN": "Doki Doki Kyuuun ♡"
     },
     {
         "MessageId": 101060570,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "今度はどうしたの！？",
         "MessageKR": "어디서 또 그런 걸…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這又是從哪裡學來的……",
+        "MessageEN": "Where...did you even learn that?"
     },
     {
         "MessageId": 101060570,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "サクラコさんの身に、いったい何が……",
         "MessageKR": "이건 뭐죠, 사쿠라코 씨?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可以麻煩你解釋一下嗎，櫻子同學？",
+        "MessageEN": "What is this, Sakurako...?"
     },
     {
         "MessageId": 101060580,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ふふっ、驚くのは早いですよ～！",
         "MessageKR": "후후후……! 놀라시긴 아직 이르다구용\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵呵……！這樣就嚇到了嗎～",
+        "MessageEN": "Heehee...! It's too early to be surprised just yet!"
     },
     {
         "MessageId": 101060590,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "サクラコさんじゃなくて、サクラコちゃん！",
         "MessageKR": "흥흥! 사쿠라코 씨가 아니라, 사쿠라코 쨩!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哼哼！我現在不是櫻子同學，而是櫻子醬唷！",
+        "MessageEN": "Hmph, hmph! It's not Sakurako, it's Sakuwa!"
     },
     {
         "MessageId": 101060600,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "でも、安心してくださいね！",
         "MessageKR": "괜찮아용, 선생님!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請放心，老師！",
+        "MessageEN": "It's okay, Sensei!"
     },
     {
         "MessageId": 101060601,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "今の私は、先生のためのアイドルなんだから☆",
         "MessageKR": "지금의 저는 선생님의 아이돌이니까용\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為現在的我，是老師的專屬偶像～",
+        "MessageEN": "Right now, I'm Sensei's idol!"
     },
     {
         "MessageId": 101060610,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "……",
         "MessageKR": "……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……",
+        "MessageEN": "..."
     },
     {
         "MessageId": 101060620,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "シスターの皆様に",
         "MessageKR": "자매님들께서도",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "修女們是",
+        "MessageEN": "The Sisters definitely"
     },
     {
         "MessageId": 101060621,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "アドバイスを頂いたのですが……",
         "MessageKR": "분명 그렇게 말씀해 주셨습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這麼建議我的",
+        "MessageEN": "said something to that effect..."
     },
     {
         "MessageId": 101060630,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "あー、なるほど……",
         "MessageKR": "아아……. 그렇군요…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊啊……原來如此……",
+        "MessageEN": "Ahh... I see..."
     },
     {
         "MessageId": 101060630,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "大体分かったよ",
         "MessageKR": "네……. 대충 이해했습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯……我大概明白了",
+        "MessageEN": "Yes... I think I understand."
     },
     {
         "MessageId": 101060640,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "良かったです",
         "MessageKR": "응응!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯嗯！",
+        "MessageEN": "Yup, yup!"
     },
     {
         "MessageId": 101060650,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "待ってるね、先生♡",
         "MessageKR": "그러니까 기다릴게요! 선생님♡",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那我等著唷！老師♡",
+        "MessageEN": "So I'll be waiting! Sensei ♡"
     },
     {
         "MessageId": 101050667,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "サクラコ（アイドル）の絆イベントへ",
         "MessageKR": "사쿠라코(아이돌)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往櫻子（偶像）的羈絆劇情",
+        "MessageEN": "Go to Sakurako (Pop Idol)'s Bond Story"
     },
     {
         "MessageId": 101060660,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 101060670,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "その、申し訳ございません",
         "MessageKR": "대단히 죄송합니다만, 그래도 역시",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然這麼說相當失禮，不過我還是希望確認一下",
+        "MessageEN": "I do apologize, but..."
     },
     {
         "MessageId": 101060671,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "やはり、気になってしまい……",
         "MessageKR": "혹시나 해서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師您",
+        "MessageEN": "I had another inquiry..."
     },
     {
         "MessageId": 101060680,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "えっと",
         "MessageKR": "그",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個",
+        "MessageEN": "Um..."
     },
     {
         "MessageId": 101060681,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "本当に、楽しんでいただけましたか……？",
         "MessageKR": "정말로 즐거우셨나요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真的有覺得開心嗎？",
+        "MessageEN": "Did you truly enjoy yourself?"
     },
     {
         "MessageId": 101060690,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "うん、とても",
         "MessageKR": "얼마나 기뻤는지, 사쿠라코는 모를 거야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "開心到你無法想像哦",
+        "MessageEN": "I can't begin to express how happy I was, Sakurako."
     },
     {
         "MessageId": 101060690,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとう、サクラコ。良い思い出になったよ",
         "MessageKR": "고마워, 사쿠라코. 좋은 추억이 되었어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝你，櫻子。這是個美好的回憶",
+        "MessageEN": "Thank you, Sakurako. It was a precious memory."
     },
     {
         "MessageId": 101060700,
@@ -327,8 +327,8 @@
         "ImagePath": "",
         "MessageJP": "……良かったです",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah."
     },
     {
         "MessageId": 101060710,
@@ -339,8 +339,8 @@
         "ImagePath": "",
         "MessageJP": "お忙しいところ",
         "MessageKR": "네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是",
+        "MessageEN": "Yes."
     },
     {
         "MessageId": 101060720,
@@ -351,8 +351,8 @@
         "ImagePath": "",
         "MessageJP": "本日もありがとうございました",
         "MessageKR": "감사합니다, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "非常謝謝您，老師",
+        "MessageEN": "Thank you, Sensei."
     },
     {
         "MessageId": 101060721,
@@ -363,7 +363,7 @@
         "ImagePath": "",
         "MessageJP": "これからも、よろしくお願いいたします",
         "MessageKR": "앞으로도 잘 부탁드립니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今後，也請您多多關照",
+        "MessageEN": "I look forward to speaking with you again."
     }
 ]

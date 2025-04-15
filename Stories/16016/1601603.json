@@ -3,8 +3,8 @@
         "CharacterId": 16016,
         "MessageJP": "ミネ（アイドル）",
         "MessageKR": "미네(아이돌)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "美禰（偶像）",
+        "MessageEN": "Mine (Pop Idol)"
     },
     {
         "MessageId": 160150230,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 160160240,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "後ほど、お時間を頂けますでしょうか？",
         "MessageKR": "혹시 나중에라도……. 시간 있으실까요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "假如之後有機會的話……能占用您一些時間嗎？",
+        "MessageEN": "Would you, by chance, happen to have a moment to spare? It matters not when."
     },
     {
         "MessageId": 160160250,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "どうしたの？",
         "MessageKR": "미네? 무슨 일이야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "美禰？怎麼了？",
+        "MessageEN": "Mine? Is something going on?"
     },
     {
         "MessageId": 160160250,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "何か悩み事？",
         "MessageKR": "뭔가 고민이 있는 느낌이네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "聽起來好像有煩惱",
+        "MessageEN": "Seems like there's something on your mind."
     },
     {
         "MessageId": 160160260,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "はい",
         "MessageKR": "음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔",
+        "MessageEN": "Um..."
     },
     {
         "MessageId": 160160261,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "実は、そうなのです",
         "MessageKR": "네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "Yes..."
     },
     {
         "MessageId": 160160270,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "そこで",
         "MessageKR": "이번에는……. 사실 그렇습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這次……確實是這樣沒錯",
+        "MessageEN": "This time...yes."
     },
     {
         "MessageId": 160160271,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "先生に相談できればと思いまして",
         "MessageKR": "그래서 선생님께, 상담을 받고자 합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以希望能和老師商量",
+        "MessageEN": "I reach out seeking advice, Sensei."
     },
     {
         "MessageId": 160160280,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "ご都合の良い日にちを教えてくだされば",
         "MessageKR": "언제든 괜찮으신 시간에 말씀 주시면,",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "麻煩您告訴我方便的時間",
+        "MessageEN": "Please inform me when your schedule is clear,"
     },
     {
         "MessageId": 160160281,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "私からお伺いします",
         "MessageKR": "제가 찾아뵙도록 하겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我會過去拜訪的",
+        "MessageEN": "and I shall conduct a visit."
     },
     {
         "MessageId": 160150297,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "ミネ（アイドル）の絆イベントへ",
         "MessageKR": "미네(아이돌)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往美禰（偶像）的羈絆劇情",
+        "MessageEN": "Go to Mine (Pop Idol)'s Bond Story"
     },
     {
         "MessageId": 160160290,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "先生\u200b",
         "MessageKR": "선생님\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師\u200b",
+        "MessageEN": "Sensei\u200b"
     },
     {
         "MessageId": 160160300,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "申し訳ありません",
         "MessageKR": "죄송합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "實在非常抱歉",
+        "MessageEN": "I very sincerely apologize."
     },
     {
         "MessageId": 160160310,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "振り返ってみれば、なんて恥ずかしい発言を……",
         "MessageKR": "돌아오고 나서 생각해 보니, 저도 모르게 엄청난 실언을…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "回來之後我仔細想了想，發現剛才好像說出了很不得了的話……",
+        "MessageEN": "I returned home and underwent some self-reflection. I may have said something..."
     },
     {
         "MessageId": 160160320,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "大丈夫、可愛かったよ！",
         "MessageKR": "괜찮아. 귀여웠으니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒關係，我覺得很可愛",
+        "MessageEN": "Something adorable? It's okay!"
     },
     {
         "MessageId": 160160320,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "アイドルのミネも任せて！",
         "MessageKR": "자주 보자, 아이돌 미네!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "之後常常見面吧，偶像美禰！",
+        "MessageEN": "Let's see each other more often, Idol Mine!"
     },
     {
         "MessageId": 160160330,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "先生……",
         "MessageKR": "!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "！",
+        "MessageEN": "!"
     },
     {
         "MessageId": 160160331,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "ふふっ",
         "MessageKR": "후후",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵",
+        "MessageEN": "Heehee."
     },
     {
         "MessageId": 160160340,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "こちらこそ",
         "MessageKR": "네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是",
+        "MessageEN": "Yes."
     },
     {
         "MessageId": 160160341,
@@ -255,7 +255,7 @@
         "ImagePath": "",
         "MessageJP": "ぜひ、お願いいたします",
         "MessageKR": "저도 그랬으면 좋겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我很樂意",
+        "MessageEN": "That would please me as well."
     }
 ]

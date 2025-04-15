@@ -74,7 +74,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "お祭り委員会「組」……？",
-        "MessageKR": "운영관리‘파’……?",
+        "MessageKR": "운영관리'파'……?",
         "MessageTW": "營運管理部「組」……？",
         "MessageEN": "The Festival Department?"
     },
@@ -124,7 +124,7 @@
         "MessageJP": "まだ色々と慣れていなくて",
         "MessageKR": "아직은 저런 말투가 익숙하지 않아서",
         "MessageTW": "我也還不太習慣",
-        "MessageEN": "I'm not quite used to speaking of myself that way."
+        "MessageEN": "I'm not quite used to this manner of speech."
     },
     {
         "MessageId": 160040050,
@@ -220,6 +220,6 @@
         "MessageJP": "それではまた会いましょう！！絶対に！！",
         "MessageKR": "그럼 다음에 또 뵙겠습니다!! 꼭이에요!! ",
         "MessageTW": "那就再會囉！絕對要唷！",
-        "MessageEN": "I'll see you again soon! "
+        "MessageEN": "I'll see you again soon! Promise! "
     }
 ]

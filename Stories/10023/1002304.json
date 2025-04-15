@@ -28,7 +28,7 @@
         "MessageJP": "先生。さっきフロントで、半日以上戻ってきてないって聞いたんだけど……",
         "MessageKR": "선생님, 아까 프런트에 물어보니 한나절 넘게 숙소에 돌아오지 않았다고 하던데…….",
         "MessageTW": "老師。剛才聽櫃台說你已經半天沒有回來了……",
-        "MessageEN": "Sensei, the front desk told me you haven't been back in days."
+        "MessageEN": "Sensei, the front desk told me you haven't been back for hours..."
     },
     {
         "MessageId": 100230240,
@@ -88,7 +88,7 @@
         "MessageJP": "は……？どうして？",
         "MessageKR": "……어째서?",
         "MessageTW": "哈……？為什麼？",
-        "MessageEN": "Why?"
+        "MessageEN": "...Why?"
     },
     {
         "MessageId": 100230281,

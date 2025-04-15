@@ -76,7 +76,7 @@
         "MessageJP": "もちろん平気だよ、暇人だから",
         "MessageKR": "물론 한가하죠. 저는 잉여인력이라",
         "MessageTW": "當然沒問題，反正我很閒嘛",
-        "MessageEN": "Of course I'm free! When have I ever let you down?"
+        "MessageEN": "Of course I'm free. I'm just a benchwarmer, after all."
     },
     {
         "MessageId": 260050048,
@@ -100,7 +100,7 @@
         "MessageJP": "うん、分かった。邪魔してごめん",
         "MessageKR": "응. 알았어. 방해해서 미안",
         "MessageTW": "嗯，我知道了。抱歉打擾你了",
-        "MessageEN": "Okay. I won't bother you. Sorry..."
+        "MessageEN": "Okay. I won't bother you. Sorry."
     },
     {
         "MessageId": 260050052,
@@ -172,7 +172,7 @@
         "MessageJP": "……とにかく、時間あるのよね？からかった罰でちゃんと付き合いなさい",
         "MessageKR": "아무튼 좋아. 그럼 지금 시간은 된다 이거지? 방금 놀린 거에 대한 책임을 져주셔야겠어.",
         "MessageTW": "……總之，你有空對吧？作為捉弄我的懲罰，請好好陪我一下吧",
-        "MessageEN": "Anyway, so you can help me, right? If you do, I'll ignore the fact that you made fun of me just now."
+        "MessageEN": "Anyway, so you can help me, right? You'd better make up for teasing me just now."
     },
     {
         "MessageId": 260050084,

@@ -88,7 +88,7 @@
         "MessageJP": "時間があったら来てくれませんか？お願いです！！",
         "MessageKR": "시간 되면 나와 줄 수 있어요? 꼭 좀 부탁드리겠습니다!!",
         "MessageTW": "有時間的話能來嗎？拜託了！！",
-        "MessageEN": "Can you come here if you have time? Please!"
+        "MessageEN": "Can you come over if you have time? Please!"
     },
     {
         "MessageId": 160040111,
@@ -148,7 +148,7 @@
         "MessageJP": "次はフィーナが選んだ映画もふたりで見ましょう！",
         "MessageKR": "다음엔 피나가 고른 영화를 같이 보도록 하시죠!",
         "MessageTW": "下次我們兩個一起看菲娜選的電影吧！",
-        "MessageEN": "let me pick next time!"
+        "MessageEN": "Let me pick next time!"
     },
     {
         "MessageId": 160040139,

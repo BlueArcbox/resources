@@ -3,8 +3,8 @@
         "CharacterId": 16016,
         "MessageJP": "ミネ（アイドル）",
         "MessageKR": "미네(아이돌)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "美禰（偶像）",
+        "MessageEN": "Mine (Pop Idol)"
     },
     {
         "MessageId": 160150350,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 160160360,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "本日の約束",
         "MessageKR": "혹시 기억하고 계실지요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "您還記得嗎？",
+        "MessageEN": "Do you recall the promise"
     },
     {
         "MessageId": 160160361,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "覚えていらっしゃいますか？",
         "MessageKR": "오늘의 약속에 대해서입니다만…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我是指今天要見面的事……",
+        "MessageEN": "we made for today?"
     },
     {
         "MessageId": 160160370,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "もちろんだよ",
         "MessageKR": "물론 기억하고 있지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然記得",
+        "MessageEN": "Of course I remember."
     },
     {
         "MessageId": 160160370,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "楽しみにしてるね",
         "MessageKR": "기대하고 있다고, 미네!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我很期待哦，美禰！",
+        "MessageEN": "I'm looking forward to it, Mine!"
     },
     {
         "MessageId": 160160380,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ふふっ",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah."
     },
     {
         "MessageId": 160160381,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとうございます",
         "MessageKR": "후후",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵",
+        "MessageEN": "Heehee."
     },
     {
         "MessageId": 160160390,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "では",
         "MessageKR": "감사합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "非常感謝",
+        "MessageEN": "Thank you."
     },
     {
         "MessageId": 160160391,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "楽しみにお待ちしております",
         "MessageKR": "그러면 저도 기쁜 마음으로, 그때 뵙겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我也會抱持著雀躍的心情，等候您的到來",
+        "MessageEN": "I'm thrilled as well. I shall see you shortly, Sensei."
     },
     {
         "MessageId": 160150407,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "ミネ（アイドル）の絆イベントへ",
         "MessageKR": "미네(아이돌)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往美禰（偶像）的羈絆劇情",
+        "MessageEN": "Go to Mine (Pop Idol)'s Bond Story"
     },
     {
         "MessageId": 160160400,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "良い時間でした",
         "MessageKR": "좋은 시간이었습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我今天玩得很開心",
+        "MessageEN": "That was pleasant."
     },
     {
         "MessageId": 160160410,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "ぐっすり眠られていましたね",
         "MessageKR": "생각보다 훨씬 푹 주무시더군요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過老師剛才睡得比我想像中還要熟",
+        "MessageEN": "You slept very soundly. Moreso than I thought possible."
     },
     {
         "MessageId": 160160411,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "仕事も大事ですが、きちんとお休みくださいね",
         "MessageKR": "역시 평소에 과로하시는 게 아닐지, 조금 걱정이…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這讓我有點擔心，您平時是不是累積了太多疲勞……",
+        "MessageEN": "I have formed some concerns over your excessive working habits."
     },
     {
         "MessageId": 160160420,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "ミネのおかげで元気になったよ",
         "MessageKR": "덕분에 완전히 풀렸어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "多虧有你，疲勞全都消失了！",
+        "MessageEN": "Thanks to you, I'm all charged up!"
     },
     {
         "MessageId": 160160420,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "またお願いしたいくらいだよ",
         "MessageKR": "가끔씩 부탁하고 싶을 정도네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "害我以後都想偶爾去找你幫忙了呢",
+        "MessageEN": "I'm so much better that I might even ask for your help again!"
     },
     {
         "MessageId": 160160430,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "！",
         "MessageKR": "!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "！",
+        "MessageEN": "!"
     },
     {
         "MessageId": 160160431,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "はい、先生",
         "MessageKR": "좋습니다. 필요하시면 언제든 말씀만 주세요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒問題。只要您有需要，隨時都可以聯絡我",
+        "MessageEN": "Excellent. Please employ my aid whenever you desire."
     },
     {
         "MessageId": 160160440,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "必要でしたら、いつでも仰ってください",
         "MessageKR": "저에게도",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "畢竟對我而言",
+        "MessageEN": "I feel similarly, after all."
     },
     {
         "MessageId": 160160441,
@@ -243,7 +243,7 @@
         "ImagePath": "",
         "MessageJP": "口実は多ければ多いほど、良いものですから",
         "MessageKR": "이런 변명은, 잦을수록 좋으니까요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這樣的藉口自然也是越多越好",
+        "MessageEN": "The more excuses to meet like this, the better."
     }
 ]

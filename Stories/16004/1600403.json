@@ -40,7 +40,7 @@
         "MessageJP": "この前お伝えしたように、今度は私が選んだ映画を見ましょう！",
         "MessageKR": "저번에 말씀드렸듯, 이번에는 제가 영화 대접을 하려고 합니다!",
         "MessageTW": "就像之前說的，這次看我選的電影吧！",
-        "MessageEN": "I'm here to take you a movie!"
+        "MessageEN": "As I said before, I'm here to take you to a movie!"
     },
     {
         "MessageId": 160040140,
@@ -52,7 +52,7 @@
         "MessageJP": "チケットもすでに用意しました！",
         "MessageKR": "마침 구해 둔 표도 이미 두 장으로 있다고요 후후",
         "MessageTW": "票也準備好了！",
-        "MessageEN": "I already have two tickets!"
+        "MessageEN": "I already have two tickets! Heehee."
     },
     {
         "MessageId": 160040157,
@@ -124,6 +124,6 @@
         "MessageJP": "次もまた映画見ましょう！普通の映画館のやつです！",
         "MessageKR": "다음에는 꼭 티켓 끊기 전에도 미리 말씀드릴 테니까요!",
         "MessageTW": "下次再去看電影吧！普通電影院的那種！",
-        "MessageEN": "I'll make sure to let you know before I buy the tickets next time!"
+        "MessageEN": "I'll make sure to let you know before I buy tickets next time!"
     }
 ]

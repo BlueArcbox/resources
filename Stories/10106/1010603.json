@@ -3,8 +3,8 @@
         "CharacterId": 10106,
         "MessageJP": "サクラコ（アイドル）",
         "MessageKR": "사쿠라코(아이돌)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "櫻子（偶像）",
+        "MessageEN": "Sakurako (Pop Idol)"
     },
     {
         "MessageId": 101050350,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "アイドル活動とは、こうも大変なのですね",
         "MessageKR": "생각했던 것보다도 훨씬 바쁘군요, 아이돌 활동이란.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "擔任偶像比想像中還忙碌呢",
+        "MessageEN": "There's much more to the duties of an idol than I expected."
     },
     {
         "MessageId": 101060360,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "プロの方ならともかく",
         "MessageKR": "직업인 분들이라면 당연히 그러실 거라 생각했지만,",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "職業偶像姑且不論",
+        "MessageEN": "Naturally, I'm aware that the professional life of an idol is incredibly busy."
     },
     {
         "MessageId": 101060361,
@@ -50,9 +50,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "学校行事の一環でも、ここまで忙しいとは",
-        "MessageKR": "한정적인 교내 이벤트성인 것인데도 이정도라니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "한정적인 교내 이벤트성인 것인데도 이 정도라니",
+        "MessageTW": "居然連只在校內活動的偶像都這麼忙",
+        "MessageEN": "But I didn't expect a temporary campus event to have this many demands."
     },
     {
         "MessageId": 101060370,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "大丈夫？",
         "MessageKR": "무리하는 거 아니야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "會不會太勉強了？",
+        "MessageEN": "Aren't you pushing yourself too hard?"
     },
     {
         "MessageId": 101060370,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "無理してない？",
         "MessageKR": "지금도 뭔가 하는 중이야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在也在跑活動嗎？",
+        "MessageEN": "Do you have a lot to do today?"
     },
     {
         "MessageId": 101060380,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ご心配いただき、ありがとうございます",
         "MessageKR": "아니요. 오늘은 그래도 여유가 있는 편입니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不，我今天稍微有些空閒時間",
+        "MessageEN": "No. I have some breathing room today."
     },
     {
         "MessageId": 101060390,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "少し弱気になってしまっただけです",
         "MessageKR": "하지만 순간이나마 피곤하다고 생각하다니,",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "即便只有一小段時間，我竟然會覺得疲累……",
+        "MessageEN": "But to succumb to fatigue, for even a moment..."
     },
     {
         "MessageId": 101060391,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "皆様のご声援に応えるためにも",
         "MessageKR": "저도 아직 부족하네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "看來想要回應粉絲們的支持",
+        "MessageEN": "I still have a long way to go."
     },
     {
         "MessageId": 101060400,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "休んでいるわけにはいきませんね",
         "MessageKR": "성원에 보답해야 하는데 말이에요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還有很長一段路要走呢",
+        "MessageEN": "I must repay everything for all the support they've given me."
     },
     {
         "MessageId": 101060410,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "……何か手伝おうか？",
         "MessageKR": "그럼 조금 도와줄게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那就讓我來幫點忙吧",
+        "MessageEN": "Then let me lend a hand."
     },
     {
         "MessageId": 101060410,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "これから会えないかな？",
         "MessageKR": "잠깐 나와줄 수 있을까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "待會可以見個面嗎？",
+        "MessageEN": "Can we meet up today?"
     },
     {
         "MessageId": 101060420,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "えっ？",
         "MessageKR": "네?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯？",
+        "MessageEN": "Huh?"
     },
     {
         "MessageId": 101060430,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "それは、構いませんが……",
         "MessageKR": "선생님?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師？",
+        "MessageEN": "Sensei?"
     },
     {
         "MessageId": 101050447,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "サクラコ（アイドル）の絆イベントへ",
         "MessageKR": "사쿠라코(아이돌)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往櫻子（偶像）的羈絆劇情",
+        "MessageEN": "Go to Sakurako (Pop Idol)'s Bond Story"
     },
     {
         "MessageId": 101060440,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "今日は本当にありがとうございました、先生",
         "MessageKR": "오늘 일 정말로 감사했습니다, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天真的很謝謝您，老師",
+        "MessageEN": "My deepest thank you for today, Sensei."
     },
     {
         "MessageId": 101060450,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "忘れられない思い出になりそうです",
         "MessageKR": "정말 잊을 수 없는 기억이 될 것 같습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這個回憶，我想我一輩子都不會忘記的",
+        "MessageEN": "It was truly an unforgettable experience."
     },
     {
         "MessageId": 101060460,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "喜んでもらえて良かった",
         "MessageKR": "사쿠라코가 기뻐하니 다행이야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "能讓你感到開心真是太好了",
+        "MessageEN": "I'm glad that you liked it, Sakurako."
     },
     {
         "MessageId": 101060460,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "みんなも喜んでると思うよ",
         "MessageKR": "모두들 좋아할 거야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我想大家一定也很高興的",
+        "MessageEN": "I'm sure everyone will be happy."
     },
     {
         "MessageId": 101060470,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "はい",
         "MessageKR": "네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是",
+        "MessageEN": "Yes."
     },
     {
         "MessageId": 101060480,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "皆様にもらった大切なプレゼントですから",
         "MessageKR": "사실 그러잖아도 돌아가서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "由於那是大家送給我的珍貴禮物",
+        "MessageEN": "To be honest, I was thinking..."
     },
     {
         "MessageId": 101060490,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "後ほど",
         "MessageKR": "모두의 소중한 선물이니 나중에 회수해서,",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因此在回去之後，我向其他修女們表示",
+        "MessageEN": "Since it's a precious gift, made by everyone, I sorely want to retrieve it"
     },
     {
         "MessageId": 101060491,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "大聖堂に飾りたいと言ったのですが……",
         "MessageKR": "대성당 벽면에 붙여두고 싶다고 말했습니다만…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "想把那張海報貼在大教堂的牆壁上……",
+        "MessageEN": "and display it on the cathedral wall..."
     },
     {
         "MessageId": 101060500,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "またみんなを困らせたの？",
         "MessageKR": "역시 저질렀구나.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "看來你已經付諸實行了",
+        "MessageEN": "That's what you were thinking, after all."
     },
     {
         "MessageId": 101060500,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "サクラコなら、そう言うと思ったけど……",
         "MessageKR": "응. 뭐, 그럴 거라 생각했어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好吧，我也覺得八成會這樣",
+        "MessageEN": "I figured that's what you wanted."
     },
     {
         "MessageId": 101060510,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "……",
         "MessageKR": "…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……",
+        "MessageEN": "..."
     },
     {
         "MessageId": 101060511,
@@ -327,8 +327,8 @@
         "ImagePath": "",
         "MessageJP": "残念ながら",
         "MessageKR": "예상하셨군요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原來您早就猜到了嗎？",
+        "MessageEN": "So you read me."
     },
     {
         "MessageId": 101060520,
@@ -339,8 +339,8 @@
         "ImagePath": "",
         "MessageJP": "止められてしまいました",
         "MessageKR": "아쉽게도 안 될 것 같습니다…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只可惜最終沒能如我所願……",
+        "MessageEN": "Unfortunately, it doesn't seem to be possible...."
     },
     {
         "MessageId": 101060530,
@@ -351,7 +351,7 @@
         "ImagePath": "",
         "MessageJP": "ひとまず、大切に保管しておこうと思います",
         "MessageKR": "그럼 다음에 또 말씀드리겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼，之後再跟您聯絡",
+        "MessageEN": "I shall speak with you soon."
     }
 ]

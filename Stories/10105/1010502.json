@@ -3,8 +3,8 @@
         "CharacterId": 10105,
         "MessageJP": "マリー（アイドル）",
         "MessageKR": "마리(아이돌)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "瑪麗（偶像）",
+        "MessageEN": "Mari (Pop Idol)"
     },
     {
         "MessageId": 101040140,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "リハーサルをしたのですが",
         "MessageKR": "리허설 공연…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "彩排……",
+        "MessageEN": "The rehearsal performance..."
     },
     {
         "MessageId": 101050150,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "こんなにもエールを頂けるだなんて",
         "MessageKR": "정말 생각지도 못했는데,",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真是太不可思議了",
+        "MessageEN": "I didn't expect it at all,"
     },
     {
         "MessageId": 101050151,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "嬉しい限りです",
         "MessageKR": "좋아해 주시는 분들이 많으셔서 기쁘네요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "想不到居然會有這麼多人喜歡我們，真令人開心！",
+        "MessageEN": "but so many people liked it! I'm so happy!"
     },
     {
         "MessageId": 101050160,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "私は予想してたよ！",
         "MessageKR": "……? 난 완전히 예상했는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……？我一直都覺得會這樣哦",
+        "MessageEN": "...? I completely expected it"
     },
     {
         "MessageId": 101050160,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "マリーはみんなに人気だからね！",
         "MessageKR": "생각 못 한 건 마리뿐일 거야",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒想到的人應該只有瑪麗哦",
+        "MessageEN": "Mari, you're probably the only person who didn't."
     },
     {
         "MessageId": 101050170,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "……ほ、本当に？",
         "MessageKR": "그런가요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是嗎？",
+        "MessageEN": "Is that so?"
     },
     {
         "MessageId": 101050180,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "まだ、アイドルとしての実感が……",
         "MessageKR": "그러면 다행이지만…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那就好……",
+        "MessageEN": "I'm glad to hear that, then..."
     },
     {
         "MessageId": 101050190,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "そういえば",
         "MessageKR": "또 그것과는 별개로",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "話說回來",
+        "MessageEN": "On the other hand, though"
     },
     {
         "MessageId": 101050191,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "なんと言いますか",
         "MessageKR": "조금 뭐랄까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "該怎麼說呢",
+        "MessageEN": "How do I say this?"
     },
     {
         "MessageId": 101050200,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "変わった応援をしてくださる方がいまして",
         "MessageKR": "특이한 반응을 보여 주시는 분들도 계시고요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有幾位觀眾的反應似乎不太一樣",
+        "MessageEN": "Some people have had some...strange reactions."
     },
     {
         "MessageId": 101040217,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "マリー（アイドル）の絆イベントへ",
         "MessageKR": "마리(아이돌)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往瑪麗（偶像）的羈絆劇情",
+        "MessageEN": "Go to Mari (Pop Idol)'s Bond Story"
     },
     {
         "MessageId": 101050210,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "予想外でした",
         "MessageKR": "상상도 못 했어요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真沒想到",
+        "MessageEN": "That was beyond my imagination."
     },
     {
         "MessageId": 101050220,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "あんなにも多くの方々が……",
         "MessageKR": "저렇게나 많은 분들이",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "居然會有這麼多人",
+        "MessageEN": "For that many people to..."
     },
     {
         "MessageId": 101050230,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "いったい、どういうことなのでしょう……",
         "MessageKR": "이게 대체 어떻게 된 건지…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這究竟是怎麼回事……",
+        "MessageEN": "Just how did it happen...?"
     },
     {
         "MessageId": 101050240,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "私は予想してたよ！\u200b",
         "MessageKR": "……? 난 완전히 예상했는데\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……？我一直都覺得會這樣哦\u200b",
+        "MessageEN": "...? I completely expected it\u200b"
     },
     {
         "MessageId": 101050240,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "マリーはみんなに人気だからね！\u200b",
         "MessageKR": "생각 못 한 건 마리뿐일 거야\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒想到的人應該只有瑪麗哦\u200b",
+        "MessageEN": "Mari, you're probably the only person who didn't.\u200b"
     },
     {
         "MessageId": 101050250,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "先生……？",
         "MessageKR": "선생님……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師……？",
+        "MessageEN": "Sensei...?"
     },
     {
         "MessageId": 101050251,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "先ほどのメッセージと同じような……",
         "MessageKR": "뭔가 아까 하셨던 대답과 같은 느낌이…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "感覺剛才好像看過這句話了……",
+        "MessageEN": "I'm getting a strange feeling of déjà vu."
     },
     {
         "MessageId": 101050260,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "とにかく、今日はありがとうございました",
         "MessageKR": "아무튼 오늘 감사했습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總之今天真的很謝謝您",
+        "MessageEN": "Anyways, thank you for today."
     },
     {
         "MessageId": 101050270,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "あの",
         "MessageKR": "그",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個",
+        "MessageEN": "Um..."
     },
     {
         "MessageId": 101050280,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "今度は",
         "MessageKR": "다음번에는",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "希望下次",
+        "MessageEN": "Next time,"
     },
     {
         "MessageId": 101050281,
@@ -279,7 +279,7 @@
         "ImagePath": "",
         "MessageJP": "先生のために、衣装を披露させてください",
         "MessageKR": "선생님과도 비슷한 자리를, 가질 수 있었으면 좋겠어요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還有機會和老師一起享受這樣的舞台",
+        "MessageEN": "I hope we can do something similar again...together."
     }
 ]
