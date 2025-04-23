@@ -1811,6 +1811,40 @@
             false
         ]
     },
+    "10117": {
+        "kivo_id": 365,
+        "gamekee_id": 656706,
+        "avatar": "https://static.kivo.wiki/images/students/橘 光/original/Student_Portrait_CH0242_Collection.png",
+        "momotalk": "↑↑↓↓←→←→",
+        "name_en": "Hikari",
+        "name_jp": "ヒカリ",
+        "name_zh": "光",
+        "nicknames": [
+            "小光",
+            " 蜜瓜雪糕"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10118": {
+        "kivo_id": 366,
+        "gamekee_id": 656708,
+        "avatar": "https://static.kivo.wiki/images/students/橘 望/original/Student_Portrait_CH0243_Collection.png",
+        "momotalk": "急行快速，暴走特急～！！",
+        "name_en": "Nozomi",
+        "name_jp": "ノゾミ",
+        "name_zh": "望",
+        "nicknames": [
+            "小望",
+            " 蜜瓜雪糕"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
     "13000": {
         "kivo_id": 24,
         "gamekee_id": 66752,
@@ -2284,6 +2318,20 @@
         "name_en": "Mine",
         "name_jp": "ミネ（アイドル）",
         "name_zh": "美弥（偶像）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "16017": {
+        "kivo_id": 525,
+        "gamekee_id": 656711,
+        "avatar": "https://static.kivo.wiki/images/students/内海 青叶/original/Student_Portrait_CH0288_Collection.png",
+        "momotalk": "Life is disaster.",
+        "name_en": "Aoba",
+        "name_jp": "アオバ",
+        "name_zh": "青叶",
         "nicknames": [],
         "sticker_download_flag": [
             true,

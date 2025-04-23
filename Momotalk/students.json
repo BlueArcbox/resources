@@ -9922,5 +9922,87 @@
             "ItemId": 10048,
             "ItemType": "ドレス"
         }
+    },
+    {
+        "Id": 10117,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10117.webp"
+        ],
+        "Name": {
+            "jp": "ヒカリ",
+            "kr": "히카리",
+            "zh": "光"
+        },
+        "Bio": {
+            "jp": "↑↑↓↓←→←→",
+            "kr": "↑↑↓↓←→←→",
+            "zh": "↑↑↓↓←→←→"
+        },
+        "Nickname": [
+            "Hikari",
+            " 蜜瓜雪糕",
+            "小光"
+        ],
+        "Birthday": "6/14",
+        "Age": "15歳",
+        "School": "Highlander",
+        "Club": "CentralControlCenter",
+        "Star": 3,
+        "Released": true,
+        "Related": null
+    },
+    {
+        "Id": 10118,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10118.webp"
+        ],
+        "Name": {
+            "jp": "ノゾミ",
+            "kr": "노조미",
+            "zh": "望"
+        },
+        "Bio": {
+            "jp": "急行快速、爆走特急～！！",
+            "kr": "급속쾌속폭주질주~!!",
+            "zh": "急行快速，暴走特急～！！"
+        },
+        "Nickname": [
+            "Nozomi",
+            " 蜜瓜雪糕",
+            "小望"
+        ],
+        "Birthday": "6/14",
+        "Age": "15歳",
+        "School": "Highlander",
+        "Club": "CentralControlCenter",
+        "Star": 3,
+        "Released": true,
+        "Related": null
+    },
+    {
+        "Id": 16017,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/16017.webp"
+        ],
+        "Name": {
+            "jp": "アオバ",
+            "kr": "아오바",
+            "zh": "青叶"
+        },
+        "Bio": {
+            "jp": "Life is disaster.",
+            "kr": "Life is disaster",
+            "zh": "Life is disaster."
+        },
+        "Nickname": [
+            "Aoba"
+        ],
+        "Birthday": "7/19",
+        "Age": "16歳",
+        "School": "Highlander",
+        "Club": "FreightLogisticsDepartment",
+        "Star": 1,
+        "Released": true,
+        "Related": null
     }
 ]
