@@ -1,0 +1,141 @@
+[
+    {
+        "CharacterId": 10119,
+        "MessageJP": "ナグサ",
+        "MessageKR": "나구사",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101180490,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 101190490,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 101190490,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101190500,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "雪女って知ってる？",
+        "MessageKR": "선생님, 설녀의 이야기를 들어본 적 있어?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101190500,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101190501,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "美人な妖怪として描かれることが多いんだけど",
+        "MessageKR": "어느 설화에나 설녀는 미녀로 그려지는 경우가 많던데……",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101190501,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101190510,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "なんでなんだろう？",
+        "MessageKR": "특별한 이유라도 있는 걸까?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101190510,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101190520,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "細かい理由はいろいろあると思うけど……",
+        "MessageKR": "여러 가지 이유가 있겠지만……",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101190520,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101190530,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "分かりやすく、目を引きやすいからじゃない？",
+        "MessageKR": "눈길을 끌기 쉬워서가 아닐까?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101190530,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101190531,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "たしかに",
+        "MessageKR": "확실히, 그럴지도 모르겠네.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101190531,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101190540,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "人をだますなら美人の方が便利だよね",
+        "MessageKR": "시선을 쉽게 끄는 매력적인 외모의 소유자가 아니라면 어떤 함정을 파 놓는다 하더라도 행인이 쉽게 걸려들지 않을 테니까",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101190540,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101190550,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "……もし私が妖怪だったら、大妖怪になってたかも",
+        "MessageKR": "그런 의미에서 나는 요괴가 되지 않아서 다행이라고 생각해",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101190550,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101180557,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "その意気やよし！",
+        "MessageKR": "자신감 넘치는 그 태도 보기 좋습니다",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101180557,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ナグサの絆イベントへ",
+        "MessageKR": "나구사의 인연스토리로",
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
+    }
+]

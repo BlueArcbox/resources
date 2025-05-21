@@ -275,7 +275,7 @@
         "Flag": 2,
         "Type": 3,
         "NextId": -1,
-        "MessageType": "Text",
+        "MessageType": "None",
         "ImagePath": "",
         "MessageJP": "ど、どういう意味！？",
         "MessageKR": "무슨 의미인지 모르겠어……",

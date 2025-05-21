@@ -3,8 +3,8 @@
         "CharacterId": 20040,
         "MessageJP": "サツキ",
         "MessageKR": "사츠키",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "皐月",
+        "MessageEN": "Satsuki"
     },
     {
         "MessageId": 200390150,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "喜びなさい、先生",
         "MessageKR": "기뻐해, 선생",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "感到高興吧，老師",
+        "MessageEN": "Rejoice, Sensei!"
     },
     {
         "MessageId": 200400160,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "やったあ！",
         "MessageKR": "와하하핫!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哇哈哈哈！",
+        "MessageEN": "Wahahaha!"
     },
     {
         "MessageId": 200400170,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "うふふっ",
         "MessageKR": "후후, 소식을 듣기도 전에",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵，我都還沒開始說明",
+        "MessageEN": "Fufu, you're so happy,"
     },
     {
         "MessageId": 200400171,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "話す前からそんなに喜ぶなんて",
         "MessageKR": "그렇게나 좋아하다니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你就這麼高興了啊",
+        "MessageEN": "and you haven't even heard the details yet."
     },
     {
         "MessageId": 200400180,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "何があったのか、気になるでしょう？",
         "MessageKR": "무슨 일인지 궁금하지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "很好奇是什麼事對吧？",
+        "MessageEN": "You're curious, right?"
     },
     {
         "MessageId": 200400190,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "なんだか悪い予感が……",
         "MessageKR": "안 좋은 예감이……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "莫名有種很不好的預感……",
+        "MessageEN": "I have a bad feeling..."
     },
     {
         "MessageId": 200400200,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "先生を対象に……",
         "MessageKR": "선생을 대상으로",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我打算以老師為對象",
+        "MessageEN": "With you as the target"
     },
     {
         "MessageId": 200400210,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "いえ、やっぱり会って話した方がよさそうね",
         "MessageKR": "음, 이건 만나서 말하는 편이 낫겠네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "等等，想想還是見面再說比較好",
+        "MessageEN": "Um, actually, I think I should explain in person"
     },
     {
         "MessageId": 200400220,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "今から向かうわ！",
         "MessageKR": "지금 갈게\\~!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我立刻過去～！",
+        "MessageEN": "I'll be there soon!"
     },
     {
         "MessageId": 200400230,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "サツキ……？",
         "MessageKR": "사츠키……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "皐月……？",
+        "MessageEN": "Satsuki...?"
     },
     {
         "MessageId": 200390247,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "サツキの絆イベントへ",
         "MessageKR": "사츠키의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往皐月的羈絆劇情",
+        "MessageEN": "Go to Satsuki's Bond Story"
     },
     {
         "MessageId": 200400240,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "命令通り、帰ってきてゆっくり休んだわ",
         "MessageKR": "선생의 명령대로 돌아와서 푹 쉬어버렸어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我按照老師的命令，回來好好休息了",
+        "MessageEN": "I rested for a long time, as you told me to."
     },
     {
         "MessageId": 200400241,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "もう催眠は解除されたみたいだけど",
         "MessageKR": "이제 최면은 풀린 것 같고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "催眠似乎也已經解除了",
+        "MessageEN": "It seems the fearsome power of the hypnosis has finally worn off."
     },
     {
         "MessageId": 200400250,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "本当に油断しちゃダメね",
         "MessageKR": "정말 방심해서는 안 되겠어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真是不能掉以輕心呢",
+        "MessageEN": "I really can't let my guard down"
     },
     {
         "MessageId": 200400260,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "ちゃんと帰れてよかった",
         "MessageKR": "무사히 돌아갔다니 다행이야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你能平安回去真是太好了",
+        "MessageEN": "I'm glad you made it back safely."
     },
     {
         "MessageId": 200400270,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "あと",
         "MessageKR": "그리고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "此外",
+        "MessageEN": "Also"
     },
     {
         "MessageId": 200400271,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "私の真の目標のことは",
         "MessageKR": "내 진정한 목표에 대해서는",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "關於我真正的目標",
+        "MessageEN": "regarding my true goal"
     },
     {
         "MessageId": 200400272,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "内緒にしてよね",
         "MessageKR": "비밀을 지켜줘",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還請替我保密",
+        "MessageEN": "please keep it secret"
     },
     {
         "MessageId": 200400280,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "こんな巨大な陰謀",
         "MessageKR": "이런 거대한 음모는",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這種巨大的陰謀",
+        "MessageEN": "A detailed plot like this"
     },
     {
         "MessageId": 200400281,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "絶対表に出しちゃいけないわ",
         "MessageKR": "무조건 비밀리에 진행해야 하니까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "絕對必須祕密地進行",
+        "MessageEN": "must be carried out clandestinely."
     },
     {
         "MessageId": 200400290,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "うん、内緒にするから心配しないで",
         "MessageKR": "비밀로 할게. 걱정 마.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "別擔心，我會保密的",
+        "MessageEN": "I'll keep it a secret. Don't worry."
     },
     {
         "MessageId": 200400300,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "それじゃ",
         "MessageKR": "좋아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那就好",
+        "MessageEN": "Good"
     },
     {
         "MessageId": 200400301,
@@ -291,7 +291,7 @@
         "ImagePath": "",
         "MessageJP": "またね",
         "MessageKR": "그럼 나중에 또\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下次見囉～",
+        "MessageEN": "Later then!"
     }
 ]

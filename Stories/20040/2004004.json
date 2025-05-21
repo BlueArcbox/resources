@@ -3,8 +3,8 @@
         "CharacterId": 20040,
         "MessageJP": "サツキ",
         "MessageKR": "사츠키",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "皐月",
+        "MessageEN": "Satsuki"
     },
     {
         "MessageId": 200390310,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、大変よ",
         "MessageKR": "선생, 큰일이야",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，出大事了",
+        "MessageEN": "Sensei, there's a problem of enormous proportions."
     },
     {
         "MessageId": 200400320,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "このままじゃ情報部が",
         "MessageKR": "이대로라면 정보부",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這樣下去情報部就要",
+        "MessageEN": "At this rate, the Intelligence Committee"
     },
     {
         "MessageId": 200400321,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "いや、もしかしたら",
         "MessageKR": "아니, 더 나아가서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不對，不僅是情報部",
+        "MessageEN": "no, even worse..."
     },
     {
         "MessageId": 200400322,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "万魔殿全体が崩壊するわ",
         "MessageKR": "만마전 자체가 붕괴해 버려",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "整個萬魔殿都要崩潰了",
+        "MessageEN": "the Pandemonium Society itself will crumble!!!"
     },
     {
         "MessageId": 200400330,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "どういうこと？",
         "MessageKR": "무슨 말이야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "發生什麼事了？",
+        "MessageEN": "What does that mean?"
     },
     {
         "MessageId": 200400330,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "サツキ？大丈夫？",
         "MessageKR": "사츠키? 괜찮아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "皐月？你還好嗎？",
+        "MessageEN": "Satsuki? You okay?"
     },
     {
         "MessageId": 200400340,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "くっ",
         "MessageKR": "크윽",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔",
+        "MessageEN": "Tch"
     },
     {
         "MessageId": 200400341,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "目の前に危険が迫っているわ",
         "MessageKR": "위기가 눈앞까지 닥쳐왔어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "危機已經近在眼前",
+        "MessageEN": "The crisis knocks upon our doors!"
     },
     {
         "MessageId": 200400350,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "でも私は諦めない",
         "MessageKR": "하지만 끝까지 발버둥 쳐주지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但我會掙扎到最後一刻的",
+        "MessageEN": "But I'll fight until the end!"
     },
     {
         "MessageId": 200400360,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "サツキ、今どこ？",
         "MessageKR": "사츠키, 어디야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "皐月，你在哪裡？",
+        "MessageEN": "Satsuki, where are you?"
     },
     {
         "MessageId": 200400370,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "ここは……",
         "MessageKR": "여기는……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這裡是……",
+        "MessageEN": "Where I am is..."
     },
     {
         "MessageId": 200390387,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "サツキの絆イベントへ",
         "MessageKR": "사츠키의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往皐月的羈絆劇情",
+        "MessageEN": "Go to Satsuki's Bond Story"
     },
     {
         "MessageId": 200400380,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 200400381,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "あんなものよく耐えられたわね",
         "MessageKR": "그 끔찍한 주사를 잘도 참아내던데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "打針這麼可怕，你竟然能忍得住",
+        "MessageEN": "You really endured that shot"
     },
     {
         "MessageId": 200400390,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "やっぱりこの世界にはNKウルトラ計画が必要だわ",
         "MessageKR": "역시 이 세계에는 NK 울트라 프로젝트가 필요해",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這個世界果然需要NK-ULTRA計畫",
+        "MessageEN": "This world desperately needs the NK Ultra Project"
     },
     {
         "MessageId": 200400400,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "予防接種なんて要らない世界を作ってやるんだから",
         "MessageKR": "난 예방접종 따위 하지 않는 세상을 만들 거야",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我要創造一個沒有預防接種的世界",
+        "MessageEN": "I'm going to make a world where something like vaccines don't exist"
     },
     {
         "MessageId": 200400401,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "こんな風に誰かが苦しまないようにね",
         "MessageKR": "아무도 이렇게 고통받지 않도록",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "讓大家不需要再受苦",
+        "MessageEN": "So that no one suffers like this anymore"
     },
     {
         "MessageId": 200400410,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "もっと大きな苦しみを作ってしまうんじゃ……",
         "MessageKR": "더 큰 고통을 방치하게 되는 거 아닌가……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這樣會讓大家面臨更大的痛苦吧……",
+        "MessageEN": "That would make people suffer even more, though..."
     },
     {
         "MessageId": 200400420,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "とにかく",
         "MessageKR": "어쨌든 ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總之",
+        "MessageEN": "Anyways "
     },
     {
         "MessageId": 200400421,
@@ -255,7 +255,7 @@
         "ImagePath": "",
         "MessageJP": "今日は助かったわ",
         "MessageKR": "덕분에 도움이 됐어 오늘",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天感謝你的幫忙",
+        "MessageEN": "That helped today"
     }
 ]

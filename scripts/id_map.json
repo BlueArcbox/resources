@@ -1845,6 +1845,21 @@
             true
         ]
     },
+    "10119": {
+        "kivo_id": 254,
+        "avatar": "https://static.kivo.wiki/images/students/御稜 名草/original/Student_Portrait_CH0222_Collection.png",
+        "momotalk": "我，没问题的……。",
+        "name_en": "Nagusa",
+        "name_jp": "ナグサ",
+        "name_zh": "名草",
+        "nicknames": [
+            "白色三角形"
+        ],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
     "13000": {
         "kivo_id": 24,
         "gamekee_id": 66752,
@@ -3025,6 +3040,33 @@
         "sticker_download_flag": [
             true,
             true
+        ]
+    },
+    "20045": {
+        "kivo_id": 362,
+        "gamekee_id": 660801,
+        "avatar": "https://static.kivo.wiki/images/students/朝比奈 菲娜/导游/Student_Portrait_CH0257_Collection.png",
+        "momotalk": "今天的导游就是我啦—！",
+        "name_en": "Pina",
+        "name_jp": "フィーナ（ガイド）",
+        "name_zh": "菲娜（导游）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20046": {
+        "kivo_id": 126,
+        "avatar": "https://static.kivo.wiki/images/students/天地 尼娅/original/Student_Portrait_CH0109_Collection.png",
+        "momotalk": "业务相关请随时联络副部长~",
+        "name_en": "Niya",
+        "name_jp": "ニヤ",
+        "name_zh": "尼娅",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            false
         ]
     },
     "23000": {

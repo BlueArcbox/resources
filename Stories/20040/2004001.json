@@ -3,8 +3,8 @@
         "CharacterId": 20040,
         "MessageJP": "サツキ",
         "MessageKR": "사츠키",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "皐月",
+        "MessageEN": "Satsuki"
     },
     {
         "MessageId": 200390010,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生？今大丈夫かしら",
         "MessageKR": "선생\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師～",
+        "MessageEN": "Sensei!"
     },
     {
         "MessageId": 200400020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "万魔殿の協力者として",
         "MessageKR": "만마전의 협력자로서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "作為萬魔殿的合作者",
+        "MessageEN": "As Pandemonium Society's partner,"
     },
     {
         "MessageId": 200400021,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "今回も手伝ってくれない？",
         "MessageKR": "이번 일도 협조해줘",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這次也有事要請你幫忙",
+        "MessageEN": "please cooperate with me again."
     },
     {
         "MessageId": 200400030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "あれ、サツキ……？",
         "MessageKR": "사츠키……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "皐月……？",
+        "MessageEN": "Satsuki...?"
     },
     {
         "MessageId": 200400030,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "どうかしたの？",
         "MessageKR": "무슨 말이야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼了嗎？",
+        "MessageEN": "What does that mean?"
     },
     {
         "MessageId": 200400040,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ふむ……これは会って話した方がよさそうね",
         "MessageKR": "이건 만나서 설명하는 편이 낫겠네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這個還是見面再說比較好",
+        "MessageEN": "It's best to explain this in person."
     },
     {
         "MessageId": 200400041,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "他の用件もあるし",
         "MessageKR": "해두고 싶은 말도 있고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我也剛好有話想跟你說",
+        "MessageEN": "And there's another issue I wanted to inform you of as well."
     },
     {
         "MessageId": 200400050,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "今からシャーレに行くわ",
         "MessageKR": "지금 샬레로 갈게\\~!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以我現在就去夏萊～！",
+        "MessageEN": "I'll head over to Schale right now!"
     },
     {
         "MessageId": 200400060,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと！？",
         "MessageKR": "저기요?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "什麼！？",
+        "MessageEN": "Excuse me?!"
     },
     {
         "MessageId": 200390067,
@@ -135,7 +135,7 @@
         "ImagePath": "",
         "MessageJP": "サツキの絆イベントへ",
         "MessageKR": "사츠키의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往皐月的羈絆劇情",
+        "MessageEN": "Go to Satsuki's Bond Story"
     }
 ]

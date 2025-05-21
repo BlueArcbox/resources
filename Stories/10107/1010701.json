@@ -3,8 +3,8 @@
         "CharacterId": 10107,
         "MessageJP": "チアキ",
         "MessageKR": "치아키",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "千秋",
+        "MessageEN": "Chiaki"
     },
     {
         "MessageId": 101060010,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "★週刊万魔殿★☞定期購読したら記念プレゼントがもれなくもらえる！",
         "MessageKR": "★주간 만마전★☞구독 시 감사 선물 100% 증정!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "★週刊萬魔殿★☞訂閱就能100%獲得感謝禮物！",
+        "MessageEN": "★Weekly Pandemonium Society★☞ Free gift with subscription! 100% guarantee!"
     },
     {
         "MessageId": 101070020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今すぐご連絡ください！",
         "MessageKR": "지금 즉시 연락하세요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "歡迎立即聯絡！",
+        "MessageEN": "Call now!"
     },
     {
         "MessageId": 101070030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "チアキ？",
         "MessageKR": "치아키?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "千秋？",
+        "MessageEN": "Chiaki?"
     },
     {
         "MessageId": 101070030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "チアキ……だよね？",
         "MessageKR": "치아키…… 맞지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是千秋……對吧？",
+        "MessageEN": "This is Chiaki... Right?"
     },
     {
         "MessageId": 101070040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "お？",
         "MessageKR": "앗?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哦？",
+        "MessageEN": "Ah?"
     },
     {
         "MessageId": 101070041,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ご返信ありがとうございます、先生！！",
         "MessageKR": "답장 감사합니다 선생님!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "感謝你的回覆，老師！！",
+        "MessageEN": "Thank you for your response, Sensei!!"
     },
     {
         "MessageId": 101070050,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "「週刊万魔殿」の定期購読をご希望ですか？",
         "MessageKR": "<주간 만마전> 구독을 희망하시나요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你想訂閱《週刊萬魔殿》嗎？",
+        "MessageEN": "Would you like to subscribe to \"Weekly Pandemonium Society\"?"
     },
     {
         "MessageId": 101070060,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "あ、そうじゃなくて",
         "MessageKR": "아 그게 아니라",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，我不是這個意思",
+        "MessageEN": "Ah. I meant"
     },
     {
         "MessageId": 101070070,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "ふふ！無理強いはしませんよ！",
         "MessageKR": "네네! 강요는 하지 않으니까요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒關係沒關係！我不會強迫你的！",
+        "MessageEN": "Yes, yes! Don't feel pressured at all!"
     },
     {
         "MessageId": 101070080,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "まずは、現物を見てからご判断ください！",
         "MessageKR": "우선 한 부 보여드릴 테니 보고 결정해 주세요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我先送一份過去，老師看過之後再決定吧！",
+        "MessageEN": "I'll show you a copy, so feel free to decide after reading it!"
     },
     {
         "MessageId": 101060097,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "チアキの絆イベントへ",
         "MessageKR": "치아키의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往千秋的羈絆劇情",
+        "MessageEN": "Go to Chiaki's Bond Story"
     },
     {
         "MessageId": 101070090,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "あ、そういえば",
         "MessageKR": "앗",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ack"
     },
     {
         "MessageId": 101070091,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "忘れてました！",
         "MessageKR": "아까 말씀드리는 걸 깜빡했네요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "剛才忘記說了！",
+        "MessageEN": "I forgot earlier!"
     },
     {
         "MessageId": 101070100,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "「週刊万魔殿」の定期購読記念プレゼント、あとで贈っちゃいますね！",
         "MessageKR": "<주간 만마전> 구독 기념 선물을 보내드리겠습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我也會寄一份《週刊萬魔殿》訂閱紀念禮物過去哦！",
+        "MessageEN": "I'll send you the \"Weekly Pandemonium Society\" subscription gift!"
     },
     {
         "MessageId": 101070110,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "何がもらえるの？",
         "MessageKR": "선물? 어떤 건데?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "禮物？是什麼東西呢？",
+        "MessageEN": "What's the gift?"
     },
     {
         "MessageId": 101070120,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "ふふふ",
         "MessageKR": "흐흐흐",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵呵",
+        "MessageEN": "Heeheehee"
     },
     {
         "MessageId": 101070121,
@@ -219,7 +219,7 @@
         "ImagePath": "",
         "MessageJP": "それは届いてからのお楽しみ～！",
         "MessageKR": "그건 비밀입니다\\~!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這是祕密～！",
+        "MessageEN": "That's a secret!"
     }
 ]

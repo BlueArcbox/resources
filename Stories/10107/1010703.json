@@ -3,8 +3,8 @@
         "CharacterId": 10107,
         "MessageJP": "チアキ",
         "MessageKR": "치아키",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "千秋",
+        "MessageEN": "Chiaki"
     },
     {
         "MessageId": 101060250,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "-お知らせ-",
         "MessageKR": "-<주간 만마전> 공지사항입니다-",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "～《週刊萬魔殿》公告～",
+        "MessageEN": "\"Weekly Pandemonium Society\" Announcement"
     },
     {
         "MessageId": 101070260,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今週の「週刊万魔殿」は休刊です！",
         "MessageKR": "이번 주 <주간 만마전>은 휴간입니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "本週的《週刊萬魔殿》將會休刊！",
+        "MessageEN": "Unfortunately, there'll be no \"Weekly Pandemonium Society\" this week!"
     },
     {
         "MessageId": 101070261,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ご迷惑をおかけしますが、来週をお楽しみに！",
         "MessageKR": "우편함이 비어 있더라도 당황하지 마시고 다음 주를 기다려 주세요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果發現信箱空空如也請不必驚慌。我們下週見！",
+        "MessageEN": "Even if you find your mailbox empty, please do not panic! Stay tuned for our next issue!"
     },
     {
         "MessageId": 101060277,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "チアキの絆イベントへ",
         "MessageKR": "치아키의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往千秋的羈絆劇情",
+        "MessageEN": "Go to Chiaki's Bond Story"
     },
     {
         "MessageId": 101070270,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 101070280,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "今日のとこで気に入った部活がありましたら",
         "MessageKR": "혹시 아까 마음에 드신 동아리가 있었다면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果剛才有發現喜歡的社團",
+        "MessageEN": "If you liked any of the clubs we visited,"
     },
     {
         "MessageId": 101070281,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "一緒に客員メンバーになってみるのはどうでしょう！",
         "MessageKR": "저랑 같이 객원 멤버로 참여하시는 건 어떠신가요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不知道你願不願意，跟我一起以客座成員的身分參加呢！",
+        "MessageEN": "how do you feel about becoming a guest member with me?"
     },
     {
         "MessageId": 101070290,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "いいね。考えとく",
         "MessageKR": "좋아, 생각해 볼게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "感覺不錯呢，我會考慮看看的",
+        "MessageEN": "Okay, I'll think about it."
     },
     {
         "MessageId": 101070300,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "はい！",
         "MessageKR": "좋네요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是！",
+        "MessageEN": "Sounds good!"
     },
     {
         "MessageId": 101070310,
@@ -135,7 +135,7 @@
         "ImagePath": "",
         "MessageJP": "いつでもご連絡くださいね～！",
         "MessageKR": "언제든지 말씀해 주세요\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "歡迎隨時跟我說哦～",
+        "MessageEN": "Let me know anytimeee!"
     }
 ]

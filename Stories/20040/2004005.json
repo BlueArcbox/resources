@@ -3,8 +3,8 @@
         "CharacterId": 20040,
         "MessageJP": "サツキ",
         "MessageKR": "사츠키",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "皐月",
+        "MessageEN": "Satsuki"
     },
     {
         "MessageId": 200390430,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "こんにちは、先生",
         "MessageKR": "안녕, 선생",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗨，老師",
+        "MessageEN": "Hi, Sensei"
     },
     {
         "MessageId": 200400440,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今日は私が当番よ",
         "MessageKR": "오늘 당번은 나야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天的值日生是我哦",
+        "MessageEN": "I will be serving as Student Rep today."
     },
     {
         "MessageId": 200400450,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "気をつけて来てね、サツキ",
         "MessageKR": "조심히 와, 사츠키.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "過來的路上注意安全哦，皐月",
+        "MessageEN": "Be careful on your way here, Satsuki."
     },
     {
         "MessageId": 200400460,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "万魔殿の予備協力者であり",
         "MessageKR": "만마전의 예비 협력자이자",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這可是個能從近距離",
+        "MessageEN": "It's a good opportunity to"
     },
     {
         "MessageId": 200400461,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ライバルでもある先生を",
         "MessageKR": "경쟁자인 선생을",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "仔細觀察老師這名",
+        "MessageEN": "observe Sensei closely,"
     },
     {
         "MessageId": 200400462,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "近くでじーっくりと観察できる",
         "MessageKR": "가까이에서 면밀하게 관찰할 수 있는",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "萬魔殿候補合作者兼競爭對手的",
+        "MessageEN": "the Pandemonium Society's future partner"
     },
     {
         "MessageId": 200400463,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "絶好の機会よ",
         "MessageKR": "좋은 기회지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "絕佳機會呢",
+        "MessageEN": "and competitor"
     },
     {
         "MessageId": 200400470,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "そういうのって普通ひとりごとで言わない……？",
         "MessageKR": "보통 그런 건 혼잣말로 하지 않아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這種事一般是放在心裡想的吧？",
+        "MessageEN": "Wouldn't it be smart to keep that to yourself?"
     },
     {
         "MessageId": 200400480,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "待ってて頂戴",
         "MessageKR": "조금만 기다려",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你等著",
+        "MessageEN": "Wait right there"
     },
     {
         "MessageId": 200400481,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "今から向かうわ！",
         "MessageKR": "지금 갈게\\~!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我立刻過去～！",
+        "MessageEN": "I'll be there soon!"
     },
     {
         "MessageId": 200390487,
@@ -147,7 +147,7 @@
         "ImagePath": "",
         "MessageJP": "サツキの絆イベントへ",
         "MessageKR": "사츠키의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往皐月的羈絆劇情",
+        "MessageEN": "Go to Satsuki's Bond Story"
     }
 ]

@@ -50,7 +50,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "「体調が悪い」って言ってくれればいいのに",
-        "MessageKR": "‘아프다’고는 말하지 않는구나.",
+        "MessageKR": "'아프다'고는 말하지 않는구나.",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -62,7 +62,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "もしかして「例の件」だったりする……？",
-        "MessageKR": "이게 새로운 ‘변명’인 거구나.",
+        "MessageKR": "이게 새로운 '변명'인 거구나.",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -86,7 +86,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "心の内を詳らかにするのは躊躇われてね……",
-        "MessageKR": "네. ‘아프다’고 직접 말할 순 없으니까요.",
+        "MessageKR": "네. '아프다'고 직접 말할 순 없으니까요.",
         "MessageTW": "",
         "MessageEN": ""
     },
@@ -110,7 +110,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "直截な言葉選びをしたら、必要以上に心配するだろう、君は",
-        "MessageKR": "‘아프다’고 말을 해버리면, 지나치게 걱정하실 것 같아서요.",
+        "MessageKR": "'아프다'고 말을 해버리면, 지나치게 걱정하실 것 같아서요.",
         "MessageTW": "",
         "MessageEN": ""
     },
