@@ -1847,6 +1847,7 @@
     },
     "10119": {
         "kivo_id": 254,
+        "gamekee_id": 661924,
         "avatar": "https://static.kivo.wiki/images/students/御稜 名草/original/Student_Portrait_CH0222_Collection.png",
         "momotalk": "我，没问题的……。",
         "name_en": "Nagusa",
@@ -1857,7 +1858,7 @@
         ],
         "sticker_download_flag": [
             true,
-            false
+            true
         ]
     },
     "13000": {
@@ -3058,6 +3059,7 @@
     },
     "20046": {
         "kivo_id": 126,
+        "gamekee_id": 661923,
         "avatar": "https://static.kivo.wiki/images/students/天地 尼娅/original/Student_Portrait_CH0109_Collection.png",
         "momotalk": "业务相关请随时联络副部长~",
         "name_en": "Niya",
@@ -3066,7 +3068,7 @@
         "nicknames": [],
         "sticker_download_flag": [
             true,
-            false
+            true
         ]
     },
     "23000": {
