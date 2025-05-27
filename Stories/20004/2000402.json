@@ -88,7 +88,7 @@
         "MessageJP": "この間買った水着の話？",
         "MessageKR": "수영복 말이지……?",
         "MessageTW": "是在說上次買的泳裝嗎？",
-        "MessageEN": "Swimsuit, right...?"
+        "MessageEN": "Your swimsuit, right...?"
     },
     {
         "MessageId": 20004130,
@@ -124,7 +124,7 @@
         "MessageJP": "え、水着じゃないの！？一体何を着てるの！？",
         "MessageKR": "수영복 이야기하는 거 맞지?!",
         "MessageTW": "咦，不是泳裝嗎！？到底穿了什麼！？",
-        "MessageEN": "You are talking about swimsuit, right?"
+        "MessageEN": "You are talking about your swimsuit, right?"
     },
     {
         "MessageId": 19994157,
