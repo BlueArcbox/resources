@@ -10094,5 +10094,34 @@
         "Star": 3,
         "Released": true,
         "Related": null
+    },
+    {
+        "Id": 10120,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10120.webp"
+        ],
+        "Name": {
+            "jp": "ナツ（バンド）",
+            "kr": "나츠(밴드)",
+            "zh": "夏（乐队）"
+        },
+        "Bio": {
+            "jp": "ドラム=アンチノミー",
+            "kr": "드럼=안티노미",
+            "zh": "鼓=矛盾"
+        },
+        "Nickname": [
+            "Natsu"
+        ],
+        "Birthday": "12/4",
+        "Age": "15歳",
+        "School": "Trinity",
+        "Club": "HoukagoDessert",
+        "Star": 3,
+        "Released": true,
+        "Related": {
+            "ItemId": 10029,
+            "ItemType": "バンド"
+        }
     }
 ]

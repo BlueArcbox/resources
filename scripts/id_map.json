@@ -1861,6 +1861,20 @@
             true
         ]
     },
+    "10120": {
+        "kivo_id": 371,
+        "gamekee_id": 664782,
+        "avatar": "https://static.kivo.wiki/images/students/柚鸟 夏/乐队/Student_Portrait_CH0221_Collection.png",
+        "momotalk": "鼓=矛盾",
+        "name_en": "Natsu",
+        "name_jp": "ナツ（バンド）",
+        "name_zh": "夏（乐队）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
     "13000": {
         "kivo_id": 24,
         "gamekee_id": 66752,
