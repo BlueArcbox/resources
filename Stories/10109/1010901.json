@@ -3,8 +3,8 @@
         "CharacterId": 10109,
         "MessageJP": "ノア（パジャマ）",
         "MessageKR": "노아(파자마)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "乃愛（睡衣）",
+        "MessageEN": "Noa (Pajamas)"
     },
     {
         "MessageId": 101080010,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、申し訳ありません",
         "MessageKR": "선생님, 노아입니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，我是乃愛",
+        "MessageEN": "Sensei, this is Noa."
     },
     {
         "MessageId": 101090020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "明日の当番、行けなくなってしまいました",
         "MessageKR": "죄송합니다만, 내일 예정된 샬레의 당번 업무를 수행하기 어려울 것 같아서요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "非常抱歉，明天我恐怕無法如期到夏萊完成值日生的工作了",
+        "MessageEN": "I'm sorry, but I don't think I can make my Student Rep shift tomorrow."
     },
     {
         "MessageId": 101090021,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "朝は微熱だったのですが、先ほど計ったら上がっていまして……",
         "MessageKR": "아침부터 약간의 미열이 있었는데, 오후에는 상태가 더 나빠져서…",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天從早上就有點發燒，到下午又更嚴重了……",
+        "MessageEN": "I woke up with a small fever, but it's gotten worse throughout the day."
     },
     {
         "MessageId": 101090030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "えっ、大丈夫？",
         "MessageKR": "큰일이네. 몸이 많이 안 좋은 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真糟糕。身體會很不舒服嗎？",
+        "MessageEN": "Oh no, is it bad?"
     },
     {
         "MessageId": 101090040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "薬を飲んだら多少は良くなりました",
         "MessageKR": "걱정하실 정도는 아녜요. 약을 먹고 나니 지금은 괜찮아진 것 같아요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不用擔心。吃過藥後已經比較好了",
+        "MessageEN": "Don't worry. I took some medicine, and I'm already feeling better."
     },
     {
         "MessageId": 101090041,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ただ、この状態で行っても迷惑をかけてしまいそうで",
         "MessageKR": "다만 이 상태로 샬레에 갔다가는 오히려 선생님께 더 폐를 끼칠 것 같아서…",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我只是擔心如果用這種狀態去夏萊，反而會給老師添麻煩……",
+        "MessageEN": "But I am concerned about getting you sick if I go to Schale in this condition."
     },
     {
         "MessageId": 101090050,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "必ず埋め合わせはいたします",
         "MessageKR": "갑자기 일정을 조정하게 되어 죄송합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "突然調整日程真的很抱歉",
+        "MessageEN": "I'm sorry for the last-minute cancellation."
     },
     {
         "MessageId": 101090060,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "ゆっくり休んでね",
         "MessageKR": "내 걱정은 말고 일단은 푹 쉬어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不用擔心，你好好休息吧",
+        "MessageEN": "Don't worry about me. Just rest up!"
     },
     {
         "MessageId": 101090060,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "何かあったら連絡してね",
         "MessageKR": "무슨 일 있으면 언제든 연락 주고.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果有事隨時可以跟我說",
+        "MessageEN": "If anything happens, feel free to contact me anytime."
     },
     {
         "MessageId": 101090070,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとうございます、先生",
         "MessageKR": "네, 선생님도 좋은 밤 되세요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好的，老師晚安",
+        "MessageEN": "Yes, have a good night, Sensei."
     },
     {
         "MessageId": 101080077,
@@ -147,7 +147,7 @@
         "ImagePath": "",
         "MessageJP": "ノア（パジャマ）の絆イベントへ",
         "MessageKR": "노아(파자마)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往乃愛（睡衣）的羈絆劇情",
+        "MessageEN": "Go to Noa (Pajamas)'s Bond Story"
     }
 ]

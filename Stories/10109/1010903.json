@@ -3,8 +3,8 @@
         "CharacterId": 10109,
         "MessageJP": "ノア（パジャマ）",
         "MessageKR": "노아(파자마)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "乃愛（睡衣）",
+        "MessageEN": "Noa (Pajamas)"
     },
     {
         "MessageId": 101080190,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、大丈夫ですか？",
         "MessageKR": "선생님, 괜찮으신가요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，你身體還好嗎？",
+        "MessageEN": "Sensei, are you okay?"
     },
     {
         "MessageId": 101090200,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "ユウカちゃんから、風邪を引いたと聞きました",
         "MessageKR": "다른 학생으로부터 전해 들었는데 감기에 걸리셨다고…",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我聽其他學生說你感冒了……",
+        "MessageEN": "I heard from another student that you caught a cold..."
     },
     {
         "MessageId": 101090210,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "大丈夫だよ",
         "MessageKR": "아, 노아구나.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，是乃愛啊",
+        "MessageEN": "Oh, Noa."
     },
     {
         "MessageId": 101090220,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "今はゆっくり休んでるから",
         "MessageKR": "나는 괜찮아. 덕분에 오랜만에 쉬고 있으니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我沒事。多虧感冒也能難得休息一下",
+        "MessageEN": "I'm okay. I get to take some time off for the first time in a while."
     },
     {
         "MessageId": 101090230,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "先生は否定されるかもしれませんが",
         "MessageKR": "괜찮다고 하셔도",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然老師說沒事",
+        "MessageEN": "Even if you say it's okay,"
     },
     {
         "MessageId": 101090231,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "もしかして",
         "MessageKR": "혹시 전에 제 병문안을 오셨다 제게 감기가 옮은 건 아닐지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但我有點擔心",
+        "MessageEN": "I can't help but feel like I got you sick."
     },
     {
         "MessageId": 101090232,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "私のせいかもしれないと思うと……",
         "MessageKR": "조금 마음에 걸리네요…",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是不是之前來看我的時候被我傳染了……",
+        "MessageEN": "I feel so bad..."
     },
     {
         "MessageId": 101090240,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "ノアのせいじゃないよ！",
         "MessageKR": "노아의 탓이 아닌걸.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這不是乃愛的錯",
+        "MessageEN": "It's not your fault, Noa."
     },
     {
         "MessageId": 101090240,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "気にしないで",
         "MessageKR": "신경 쓰지 마.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "別放在心上",
+        "MessageEN": "Don't worry about it."
     },
     {
         "MessageId": 101090250,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "ですが……",
         "MessageKR": "그래도",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可是……",
+        "MessageEN": "But still..."
     },
     {
         "MessageId": 101090260,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "先生、明日のご予定は決まっていますか？",
         "MessageKR": "선생님, 내일 특별한 약속은 없으시지요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師明天應該沒有特別的行程吧？",
+        "MessageEN": "Sensei, you don't have anything special planned tomorrow, do you?"
     },
     {
         "MessageId": 101090261,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "差し支えなければ、お見舞いに行かせてください",
         "MessageKR": "그렇다면 내일 점심 즈음에 병문안을 가도 괜찮을까요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我可以在中午左右過去探病嗎？",
+        "MessageEN": "Is it okay if I come visit around lunchtime, then?"
     },
     {
         "MessageId": 101090270,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "特に予定はないけど……",
         "MessageKR": "찾아오는 건 문제 없지만…",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可以是可以……",
+        "MessageEN": "I don't mind you coming by, but..."
     },
     {
         "MessageId": 101090270,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "セミナーの仕事は大丈夫？",
         "MessageKR": "괜찮겠어? 세미나의 일로 바쁘지 않아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這樣好嗎？研討會的工作會不會忙不過來？",
+        "MessageEN": "Will you have time? You don't have any Seminar duties?"
     },
     {
         "MessageId": 101090280,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "お仕事は、終えてますので",
         "MessageKR": "괜찮습니다. 병가 중 밀린 업무는 이미 완벽히 다 처리했으니까요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不必擔心。病假期間累積的工作，都已經妥善處理完畢了",
+        "MessageEN": "It's okay. I've already handled all the work that piled up during my sick leave."
     },
     {
         "MessageId": 101090290,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "明日はシャーレに伺いますね",
         "MessageKR": "그럼 내일 뵙겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼明天見",
+        "MessageEN": "I'll see you tomorrow."
     },
     {
         "MessageId": 101080297,
@@ -219,7 +219,7 @@
         "ImagePath": "",
         "MessageJP": "ノア（パジャマ）の絆イベントへ",
         "MessageKR": "노아(파자마)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往乃愛（睡衣）的羈絆劇情",
+        "MessageEN": "Go to Noa (Pajamas)'s Bond Story"
     }
 ]

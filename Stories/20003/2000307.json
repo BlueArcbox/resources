@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "少しお尋ねしたいのですが……",
         "MessageKR": "조금 뜬금없는 질문이지만",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然這個問題有點唐突",
+        "MessageEN": "This may seem a bit random,"
     },
     {
         "MessageId": 200030420,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "読書はお好きですか？",
         "MessageKR": "선생님은 독서를 좋아하시나요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請問老師喜歡看書嗎？",
+        "MessageEN": "but do you like reading, Sensei?"
     },
     {
         "MessageId": 200030430,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "まあまあかな……",
         "MessageKR": "그럭저럭일까……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還可以吧……",
+        "MessageEN": "I guess so...?"
     },
     {
         "MessageId": 200030440,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "なるほど",
         "MessageKR": "그렇군요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原來如此",
+        "MessageEN": "I see."
     },
     {
         "MessageId": 200030450,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "正義に関する本を読んでいるの？",
         "MessageKR": "또 정의에 관한 책을 읽고 있는 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你又在讀關於正義的書嗎？",
+        "MessageEN": "Are you reading a book about justice again?"
     },
     {
         "MessageId": 200030460,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "いえ、そうではなく",
         "MessageKR": "아뇨;; 그런 건 아니고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不，不是的",
+        "MessageEN": "No, it's not that."
     },
     {
         "MessageId": 200030461,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ただ気になって",
         "MessageKR": "그냥 궁금해져서 여쭤보았습니다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "單純只是好奇而已",
+        "MessageEN": "I was just curious."
     },
     {
         "MessageId": 200020467,

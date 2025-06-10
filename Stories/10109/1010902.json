@@ -3,8 +3,8 @@
         "CharacterId": 10109,
         "MessageJP": "ノア（パジャマ）",
         "MessageKR": "노아(파자마)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "乃愛（睡衣）",
+        "MessageEN": "Noa (Pajamas)"
     },
     {
         "MessageId": 101080080,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "こんにちは、先生",
         "MessageKR": "안녕하세요, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你好，老師",
+        "MessageEN": "Hello, Sensei."
     },
     {
         "MessageId": 101090090,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "おかげで体調はだいぶ良くなりました",
         "MessageKR": "감기 때문에 오랫동안 찾아뵙지 못했었는데…",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為感冒的關係，很久沒去見老師了……",
+        "MessageEN": "My cold has kept me from visiting you lately."
     },
     {
         "MessageId": 101090091,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "先生はいかがですか？",
         "MessageKR": "건강히 잘 지내고 계신가요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "最近過得還好嗎？",
+        "MessageEN": "Have you been keeping healthy?"
     },
     {
         "MessageId": 101090100,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "私は元気だよ",
         "MessageKR": "나야 물론 건강하지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我過得很好哦",
+        "MessageEN": "Of course, I'm fine."
     },
     {
         "MessageId": 101090100,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "もう大丈夫なの？",
         "MessageKR": "노아도 몸은 괜찮아졌어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "乃愛的身體有比較好了嗎？",
+        "MessageEN": "Are you feeling better now?"
     },
     {
         "MessageId": 101090110,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "はい、おかげさまで",
         "MessageKR": "네, 덕분에.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是，這都多虧了老師",
+        "MessageEN": "I'm all healed up!"
     },
     {
         "MessageId": 101090120,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "それより、ご都合がよろしければ",
         "MessageKR": "그보다 괜찮으시다면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "話說回來，如果方便的話",
+        "MessageEN": "So if it's okay with you..."
     },
     {
         "MessageId": 101090121,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "今週末、私の部屋に来ていただけませんか？",
         "MessageKR": "이번주 주말에 제 방에 한 번 더 와주시지 않겠어요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這週末能請老師到我的房間來一趟嗎？",
+        "MessageEN": "Do you mind coming over to my room again this weekend?"
     },
     {
         "MessageId": 101090130,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "また行って良いの？",
         "MessageKR": "노아의 방에…?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "去乃愛的房間……？",
+        "MessageEN": "Your room?"
     },
     {
         "MessageId": 101090140,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "あら",
         "MessageKR": "어머나",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哎呀",
+        "MessageEN": "Well..."
     },
     {
         "MessageId": 101090150,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "模様替えを手伝ってくださるんですよね？",
         "MessageKR": "지난번 병문안을 오셨을 때, 다음에 제 방을 꾸미는 걸 도와주기로 하셔놓고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "上次老師來探病的時候，不是跟我約好下次要幫我裝飾房間嗎？",
+        "MessageEN": "Last time you were here, you promised to help me decorate."
     },
     {
         "MessageId": 101090151,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "まさか、忘れていたなんてことは……",
         "MessageKR": "설마 그사이에 약속을 잊으신 건 아니시겠지요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "難道這段期間，老師已經忘記了自己的承諾嗎？",
+        "MessageEN": "You didn't forget, did you?"
     },
     {
         "MessageId": 101090160,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "あ、当たり前だよ！",
         "MessageKR": "ㄷ 당연히 기억하고 있지!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我，我當然記得！",
+        "MessageEN": "Ah! Yeah! Of course I didn't!"
     },
     {
         "MessageId": 101090160,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "念のため聞いただけだよ！",
         "MessageKR": "혹시나 해서 물어본 것뿐이야!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只是隨口問一下而已！",
+        "MessageEN": "I was asking just in case!"
     },
     {
         "MessageId": 101090170,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "ふふ、そんなに慌てなくても大丈夫ですよ",
         "MessageKR": "후후, 그렇게 당황하지 않으셔도 괜찮아요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵，老師不必這麼慌張",
+        "MessageEN": "Fufu, you don't have to be so flustered."
     },
     {
         "MessageId": 101090171,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "冗談ですから",
         "MessageKR": "농담이니까요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我只是開個玩笑而已",
+        "MessageEN": "I was just teasing you."
     },
     {
         "MessageId": 101090180,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "それでは、楽しみにしていますね",
         "MessageKR": "그럼 이번 주말에 뵙겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼我們週末見",
+        "MessageEN": "Then I'll see you this weekend."
     },
     {
         "MessageId": 101080187,
@@ -231,7 +231,7 @@
         "ImagePath": "",
         "MessageJP": "ノア（パジャマ）の絆イベントへ",
         "MessageKR": "노아(파자마)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往乃愛（睡衣）的羈絆劇情",
+        "MessageEN": "Go to Noa (Pajamas)'s Bond Story"
     }
 ]

@@ -3,8 +3,8 @@
         "CharacterId": 10109,
         "MessageJP": "ノア（パジャマ）",
         "MessageKR": "노아(파자마)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "乃愛（睡衣）",
+        "MessageEN": "Noa (Pajamas)"
     },
     {
         "MessageId": 101080300,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "雨続きだったせいか、涼しくなりましたね",
         "MessageKR": "요 며칠간 비가 계속 내린 덕분에 시원해진 건 좋지만",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為這幾天一直下雨的關係，天氣漸漸變涼爽了呢",
+        "MessageEN": "It's been nice that the weather has cooled down with the rain,"
     },
     {
         "MessageId": 101090310,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "ただ、制服が乾きにくいので困りました",
         "MessageKR": "세탁한 교복이 좀처럼 마르질 않아서 큰일이네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然洗好的制服一直不乾，讓人有點煩惱就是了",
+        "MessageEN": "but on the other hand, my laundry isn't drying fast enough."
     },
     {
         "MessageId": 101090320,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "すごくわかる……",
         "MessageKR": "그 기분 이해해…",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我能理解那種心情……",
+        "MessageEN": "I understand that feeling..."
     },
     {
         "MessageId": 101090320,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "生乾きも気になるよね",
         "MessageKR": "빨래를 너무 오래 널어두면 냄새가 날 때도 있으니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有時候衣服曬太久會有味道對吧",
+        "MessageEN": "And if you hang your laundry out to dry for too long, it can start to smell."
     },
     {
         "MessageId": 101090330,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ノアは何着制服を持ってるの？",
         "MessageKR": "그러고 보니 노아는 교복을 몇 벌이나 가지고 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "話說回來，乃愛有幾套制服呢？",
+        "MessageEN": "By the way, how many school uniforms do you have, Noa?"
     },
     {
         "MessageId": 101090340,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "えっと",
         "MessageKR": "음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔嗯",
+        "MessageEN": "Hmm..."
     },
     {
         "MessageId": 101090341,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "全部で4着ですね",
         "MessageKR": "여분까지 포함해서 4벌 정도일까요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "包括備用的在內大約有4套吧",
+        "MessageEN": "Including extras, about 4 sets?"
     },
     {
         "MessageId": 101090350,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "ミレニアムは制服のルールが厳しくないので",
         "MessageKR": "밀레니엄의 복장 규칙은 그렇게 엄격하지는 않은지라",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "由於千年的服儀規定並不是特別嚴格",
+        "MessageEN": "The dress code at the Millennium isn't very strict,"
     },
     {
         "MessageId": 101090351,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "何着も持っている生徒は少ないですが",
         "MessageKR": "같은 교복을 여러 벌 가지고 있는 학생은 거의 없겠지만……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以幾乎沒有學生會有好幾套相同的制服……",
+        "MessageEN": "so I doubt most students own duplicates of the same exact uniform."
     },
     {
         "MessageId": 101090352,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "私はセミナーの一員ですから",
         "MessageKR": "일단은 세미나의 임원이니까요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但我畢竟是研討會的幹部",
+        "MessageEN": "But I'm part of Seminar, you know?"
     },
     {
         "MessageId": 101090360,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "そういえば、ノアの私服姿を見たことないような",
         "MessageKR": "그러고 보니 노아의 사복은 거의 본 기억이 없네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這麼說來，我幾乎沒見過乃愛穿便服的樣子呢",
+        "MessageEN": "Come to think of it, I never see you in casual clothes."
     },
     {
         "MessageId": 101090370,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと残念……",
         "MessageKR": "새삼 아쉬워지는 걸……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "突然覺得有點可惜……",
+        "MessageEN": "Hm... What a shame..."
     },
     {
         "MessageId": 101090380,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "ふふ",
         "MessageKR": "후후",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵",
+        "MessageEN": "Heehee."
     },
     {
         "MessageId": 101090381,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "そのうちお見せしますから",
         "MessageKR": "나중에 기회가 되면 한 번 보여 드릴게요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "之後有機會的話，我會讓老師看看的",
+        "MessageEN": "I'll show you one day, when we get the chance."
     },
     {
         "MessageId": 101080387,
@@ -195,7 +195,7 @@
         "ImagePath": "",
         "MessageJP": "ノア（パジャマ）の絆イベントへ",
         "MessageKR": "노아(파자마)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往乃愛（睡衣）的羈絆劇情",
+        "MessageEN": "Go to Noa (Pajamas)'s Bond Story"
     }
 ]

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "ふぅ！",
         "MessageKR": "후우!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呼！",
+        "MessageEN": "Phew!"
     },
     {
         "MessageId": 160020390,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "危ないところでした！",
         "MessageKR": "하마터면 큰일 날 뻔했네요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "差點就出大事了！",
+        "MessageEN": "That could've been a disaster!"
     },
     {
         "MessageId": 160020400,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "コトリ？",
         "MessageKR": "코토리?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "亞都梨？",
+        "MessageEN": "Kotori?"
     },
     {
         "MessageId": 160020400,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "どうしたの？",
         "MessageKR": "무슨 일이야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼了？",
+        "MessageEN": "What is it?"
     },
     {
         "MessageId": 160020410,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "あ、大したことではありません！",
         "MessageKR": "아, 별일은 아니었습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，其實也沒什麼！",
+        "MessageEN": "Ah! It's nothing!"
     },
     {
         "MessageId": 160020411,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "実はメガネが壊れてしまい、修理をお願いしていたんです",
         "MessageKR": "그저 안경이 조금 부러져서, 수리를 맡겼었거든요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只是眼鏡出了點問題，所以送去修理了",
+        "MessageEN": "My glasses were slightly broken, so I had them repaired."
     },
     {
         "MessageId": 160020420,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "一日ぐらいはなくても大丈夫だろうと思っていたのですが",
         "MessageKR": "하루 정도는 없어도 괜찮겠지 싶었는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "本來想說一天不戴眼鏡應該沒問題",
+        "MessageEN": "I thought I could last a day without them,"
     },
     {
         "MessageId": 160020421,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "私の視力では無理でしたね！あはは！！",
         "MessageKR": "제 시력으로는 어림도 없었네요! 하하!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "結果我的視力根本不行！啊哈哈！！",
+        "MessageEN": "but it turns out it's pretty difficult to do that when you have bad eyesight! Haha!!"
     },
     {
         "MessageId": 160010427,

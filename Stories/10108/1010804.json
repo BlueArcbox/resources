@@ -3,8 +3,8 @@
         "CharacterId": 10108,
         "MessageJP": "ユウカ（パジャマ）",
         "MessageKR": "유우카(파자마)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "優香（睡衣）",
+        "MessageEN": "Yuuka (Pajamas)"
     },
     {
         "MessageId": 101070290,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "コタマ先輩のオススメで",
         "MessageKR": "얼마 전에 코타마 선배에게 추천을 받아서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我不久前在小玉前輩的建議之下",
+        "MessageEN": "A while ago, Kotama recommended I listen to the radio at night."
     },
     {
         "MessageId": 101080300,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "最近は寝る前にラジオを聴いてるんです",
         "MessageKR": "잠들기 전에 라디오 방송을 듣고 있어요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "開始在睡前收聽廣播節目",
+        "MessageEN": "So I've been doing that to help me fall asleep."
     },
     {
         "MessageId": 101080310,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ラジオって面白いよね",
         "MessageKR": "라디오도 나름의 매력이 있어서 좋지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "廣播也有獨特的魅力呢",
+        "MessageEN": "The radio does have its own charm."
     },
     {
         "MessageId": 101080320,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "何を聴いてるの？",
         "MessageKR": "무슨 방송을 듣는데?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你都聽什麼節目呢？",
+        "MessageEN": "What program have you been listening to?"
     },
     {
         "MessageId": 101080330,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "＜DJメリーのミュージックトリップ＞という番組なんですが",
         "MessageKR": "<DJ 메리의 음악 여행>라는 방송인데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "聽一個叫＜DJ梅莉的音樂之旅＞的節目",
+        "MessageEN": "It's a show called \"DJ Mary's Music Journey.\""
     },
     {
         "MessageId": 101080340,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "リスナーのお便りを読みながら、優しい音楽を流してくれて",
         "MessageKR": "가벼운 사연과 함께 취침에 도움이 되는 음악을 여러 가지 들려주어서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "主持人會配合輕鬆的故事，播放有助於入眠的各種音樂",
+        "MessageEN": "They read entertaining stories and play music to help you sleep."
     },
     {
         "MessageId": 101080341,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ベッドで横になりながら聴くのにちょうど良いんです",
         "MessageKR": "자기 전에 듣기 좋더라고요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "很適合在睡前收聽",
+        "MessageEN": "It's nice to listen to before going to bed."
     },
     {
         "MessageId": 101080350,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "私も眠れない時につけてみようかな",
         "MessageKR": "나도 한 번 잠이 안 올 때 들어봐야겠네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下次我睡不著的時候，也來試著聽聽看吧",
+        "MessageEN": "Maybe I should try it out on nights I can't sleep too."
     },
     {
         "MessageId": 101080360,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "ぜひ、聴いてみてください",
         "MessageKR": "네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "Yes."
     },
     {
         "MessageId": 101080361,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "先生にも気に入っていただけたら嬉しいです",
         "MessageKR": "선생님의 취향에도 잘 맞았으면 좋겠네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "希望老師也會喜歡",
+        "MessageEN": "I hope you enjoy it as well."
     },
     {
         "MessageId": 101070377,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "ユウカ（パジャマ）の絆イベントへ",
         "MessageKR": "유우카(파자마)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往優香（睡衣）的羈絆劇情",
+        "MessageEN": "Go to Yuuka (Pajamas)'s Bond Story"
     },
     {
         "MessageId": 101080370,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "あの、先生",
         "MessageKR": "저, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個，老師",
+        "MessageEN": "Um, Sensei?"
     },
     {
         "MessageId": 101080380,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "前に話したラジオ、聴いてみてくれましたか？",
         "MessageKR": "혹시 라디오 방송 들으시나요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你有在聽廣播節目嗎？",
+        "MessageEN": "Do you happen to listen to the radio?"
     },
     {
         "MessageId": 101080390,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "うん、それがどうかしたの？",
         "MessageKR": "가끔 듣는데. 갑자기 왜?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "偶爾會聽哦。怎麼突然問這個？",
+        "MessageEN": "Here and there. Why do you ask?"
     },
     {
         "MessageId": 101080400,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "前回ラジオで",
         "MessageKR": "그 혹시 지난번 방송 때",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個，你有沒有在上次的節目",
+        "MessageEN": "By any chance, during the last broadcast..."
     },
     {
         "MessageId": 101080401,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "……いえ",
         "MessageKR": "음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔嗯",
+        "MessageEN": "Hmm..."
     },
     {
         "MessageId": 101080410,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "やっぱり、何でもありません",
         "MessageKR": "아무것도 아니에요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "果然還是算了",
+        "MessageEN": "Never mind, it's nothing."
     },
     {
         "MessageId": 101080420,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "前回のラジオ？",
         "MessageKR": "지난번 방송?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "上次的節目？",
+        "MessageEN": "The last broadcast?"
     },
     {
         "MessageId": 101080420,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "何の話……？",
         "MessageKR": "무슨 이야기야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "什麼意思？",
+        "MessageEN": "What are you talking about?"
     },
     {
         "MessageId": 101080430,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "ごめんなさい、たぶん勘違いですから",
         "MessageKR": "죄송해요. 제가 착각을 한 모양이에요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "抱歉。可能是我誤會了",
+        "MessageEN": "I'm sorry. I must have been mistaken."
     },
     {
         "MessageId": 101080431,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "気にしないでください！",
         "MessageKR": "신경 쓰지 말아주세요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請不要在意",
+        "MessageEN": "Don't mind me."
     },
     {
         "MessageId": 101080440,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "そういえば、ユウカ",
         "MessageKR": "그나저나 유우카.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "話說回來，優香",
+        "MessageEN": "By the way, Yuuka."
     },
     {
         "MessageId": 101080450,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "不眠症はもう治った？",
         "MessageKR": "이제 불면증은 다 나은 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你的失眠症已經好了嗎？",
+        "MessageEN": "Is your insomnia cured now?"
     },
     {
         "MessageId": 101080460,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "やっぱり……",
         "MessageKR": "역시……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "果然……",
+        "MessageEN": "Oh..."
     },
     {
         "MessageId": 101080461,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "はい、おかげさまで",
         "MessageKR": "네, 선생님 덕분에요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是的，多虧老師的幫忙",
+        "MessageEN": "Yes, thanks to you, Sensei..."
     },
     {
         "MessageId": 101080470,
@@ -327,8 +327,8 @@
         "ImagePath": "",
         "MessageJP": "先生、今日もよろしくお願いします",
         "MessageKR": "오늘도 잘 부탁드립니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天也請多多指教",
+        "MessageEN": "I'll be counting on you again today!"
     },
     {
         "MessageId": 101080480,
@@ -339,7 +339,7 @@
         "ImagePath": "",
         "MessageJP": "うん、こちらこそよろしくね",
         "MessageKR": "나야말로 잘 부탁해.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我才是，請你多多指教",
+        "MessageEN": "I'm the one who should be saying that."
     }
 ]

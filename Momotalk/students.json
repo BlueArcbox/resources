@@ -9525,13 +9525,17 @@
             "/api/Avatars/Fandom/Yuuka_Pajamas_Icon.png"
         ],
         "Name": {
+            "en": "Yuuka (Pajamas)",
             "jp": "ユウカ（パジャマ）",
             "kr": "유우카(파자마)",
+            "tw": "優香（睡衣）",
             "zh": "优香（睡衣）"
         },
         "Bio": {
+            "en": "I can't sleep...",
             "jp": "うう……眠れない……",
             "kr": "잠이 안 와…",
+            "tw": "睡不著……",
             "zh": "唔……睡不着……"
         },
         "Nickname": [
@@ -9557,13 +9561,17 @@
             "/api/Avatars/Fandom/Noa_Pajamas_Icon.png"
         ],
         "Name": {
+            "en": "Noa (Pajamas)",
             "jp": "ノア（パジャマ）",
             "kr": "노아(파자마)",
+            "tw": "乃愛（睡衣）",
             "zh": "诺亚（睡衣）"
         },
         "Bio": {
+            "en": "Beyond the darkness",
             "jp": "暗闇の彼方で",
             "kr": "어둠의 저편에서",
+            "tw": "於黑暗的彼方",
             "zh": "在暗夜的彼方"
         },
         "Nickname": [

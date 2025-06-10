@@ -3,8 +3,8 @@
         "CharacterId": 10108,
         "MessageJP": "ユウカ（パジャマ）",
         "MessageKR": "유우카(파자마)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "優香（睡衣）",
+        "MessageEN": "Yuuka (Pajamas)"
     },
     {
         "MessageId": 101070100,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生がアドバイスしてくださったおかげで",
         "MessageKR": "전에 선생님께서 조언을 해 주신 덕분에",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "多虧老師之前給的建議",
+        "MessageEN": "Thanks for your advice, Sensei."
     },
     {
         "MessageId": 101080110,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "前よりも寝れるようになりました",
         "MessageKR": "요새는 전보다 더 수월하게 잠에 들 수 있게 된 것 같아요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "最近我好像比以前更容易入睡了",
+        "MessageEN": "I've been falling asleep a lot more easily these days."
     },
     {
         "MessageId": 101080120,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "まだ0時は回ってしまいますが……",
         "MessageKR": "물론 아직도 자정을 넘겨서 잠드는 경우가 허다하지만…",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然現在還是經常過了午夜才睡著……",
+        "MessageEN": "Of course, I'm still up past midnight a lot, but..."
     },
     {
         "MessageId": 101080130,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "それなら良かったよ",
         "MessageKR": "걱정되는 걸……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我有點擔心……",
+        "MessageEN": "I'm worried..."
     },
     {
         "MessageId": 101080130,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "何か悩みでもある？",
         "MessageKR": "무슨 고민이라도 있는 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你有什麼煩惱嗎？",
+        "MessageEN": "Is there something on your mind?"
     },
     {
         "MessageId": 101080140,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "これといった悩みはないですね",
         "MessageKR": "특별한 고민은 없어요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "其實也沒有特別的煩惱",
+        "MessageEN": "There's nothing really wrong."
     },
     {
         "MessageId": 101080141,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ただ、少し気になることなら",
         "MessageKR": "조금 마음에 걸리는 게 있다면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真要說有什麼讓我在意的事",
+        "MessageEN": "If there is something bothering me a little, it's that"
     },
     {
         "MessageId": 101080150,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "＜SYSTEM＞ メッセージ送信エラー！",
         "MessageKR": "<system> 메시지 송출 오류!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "<system>訊息發送錯誤！",
+        "MessageEN": "<system> Message transmission error!"
     },
     {
         "MessageId": 101080160,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "ユウカ……？",
         "MessageKR": "유우카……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "優香……？",
+        "MessageEN": "Yuuka...?"
     },
     {
         "MessageId": 101080170,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "＜SYSTEM＞ メッセージ送信エラー！\u200b",
         "MessageKR": "<system> 메시지 송출 오류!\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "<system>訊息發送錯誤！\u200b",
+        "MessageEN": "<system> Message transmission error!\u200b"
     },
     {
         "MessageId": 101080180,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "＜SYSTEM＞ メッセージ送信エラー！\u200b\u200b",
         "MessageKR": "<system> 메시지 송출 오류!\u200b\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "<system>訊息發送錯誤！\u200b\u200b",
+        "MessageEN": "<system> Message transmission error!\u200b\u200b"
     },
     {
         "MessageId": 101070187,
@@ -159,7 +159,7 @@
         "ImagePath": "",
         "MessageJP": "ユウカ（パジャマ）の絆イベントへ",
         "MessageKR": "유우카(파자마)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往優香（睡衣）的羈絆劇情",
+        "MessageEN": "Go to Yuuka (Pajamas)'s Bond Story"
     }
 ]

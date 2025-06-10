@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生。そろそろ私たちの間に ",
         "MessageKR": "슬슬 저희 사이의 '증표'가",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我認為現在",
+        "MessageEN": "I believe it is about time"
     },
     {
         "MessageId": 100620250,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "「証」が必要な頃だと思いますので",
         "MessageKR": "필요해진 시점이라고 보여지기에",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是我們之間需要「信物」的時候了",
+        "MessageEN": "for us to designate a \"symbol\" of our relationship."
     },
     {
         "MessageId": 100620251,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "お話をさせていただきたく",
         "MessageKR": "오늘은 그에 관련된 말씀을 드리고자 합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天想跟您討論這件事情",
+        "MessageEN": "I am here to discuss that with you today."
     },
     {
         "MessageId": 100620260,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "ど、どういうこと！？「証」って何！？",
         "MessageKR": "여전히 영문을 모르겠어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我不太明白你的意思！",
+        "MessageEN": "What does that even mean?"
     },
     {
         "MessageId": 100620270,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "大丈夫です",
         "MessageKR": "괜찮습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不必擔心",
+        "MessageEN": "It's okay."
     },
     {
         "MessageId": 100620271,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "私がわかっていれば良いので",
         "MessageKR": "선생님께서 모르셔도, 제가 알고 있기에.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師不明白也沒關係，只要我明白就行了",
+        "MessageEN": "Even if you do not understand, I do."
     },
     {
         "MessageId": 100620280,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "トキさん……？",
         "MessageKR": "토키야……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "季……？",
+        "MessageEN": "Toki...?"
     },
     {
         "MessageId": 100610287,
