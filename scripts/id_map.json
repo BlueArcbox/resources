@@ -1875,6 +1875,22 @@
             true
         ]
     },
+    "10121": {
+        "kivo_id": 533,
+        "gamekee_id": 667848,
+        "avatar": "https://static.kivo.wiki/images/students/勘解由小路 紫/泳装/Student_Portrait_CH0301_Collection.png",
+        "momotalk": "向着沙滩，起跳！",
+        "name_en": "Yukari",
+        "name_jp": "ユカリ（水着）",
+        "name_zh": "紫（泳装）",
+        "nicknames": [
+            "油咖喱"
+        ],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
     "13000": {
         "kivo_id": 24,
         "gamekee_id": 66752,
@@ -2091,6 +2107,20 @@
         "name_en": "Momiji",
         "name_jp": "モミジ",
         "name_zh": "红叶",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "13014": {
+        "kivo_id": 535,
+        "gamekee_id": 667850,
+        "avatar": "https://static.kivo.wiki/images/students/不破 莲华/泳装/Student_Portrait_CH0302_Collection.png",
+        "momotalk": "大海即青春！",
+        "name_en": "Renge",
+        "name_jp": "レンゲ（水着）",
+        "name_zh": "莲华（泳装）",
         "nicknames": [],
         "sticker_download_flag": [
             true,
@@ -3079,6 +3109,20 @@
         "name_en": "Niya",
         "name_jp": "ニヤ",
         "name_zh": "尼娅",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20047": {
+        "kivo_id": 534,
+        "gamekee_id": 667849,
+        "avatar": "https://static.kivo.wiki/images/students/桐生 桔梗/泳装/Student_Portrait_CH0300_Collection.png",
+        "momotalk": "落花流水",
+        "name_en": "Kikyou",
+        "name_jp": "キキョウ（水着）",
+        "name_zh": "桔梗（泳装）",
         "nicknames": [],
         "sticker_download_flag": [
             true,

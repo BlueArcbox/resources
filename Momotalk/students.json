@@ -10131,5 +10131,93 @@
             "ItemId": 10029,
             "ItemType": "バンド"
         }
+    },
+    {
+        "Id": 10121,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10121.webp"
+        ],
+        "Name": {
+            "jp": "ユカリ（水着）",
+            "kr": "유카리(수영복)",
+            "zh": "紫（泳装）"
+        },
+        "Bio": {
+            "jp": "びーちでびゅー、ですの！",
+            "kr": "소녀, 여름 바다에 데뷔~우와요!",
+            "zh": "向着沙滩，起跳！"
+        },
+        "Nickname": [
+            "Yukari",
+            "油咖喱"
+        ],
+        "Birthday": "6/16",
+        "Age": "15歳",
+        "School": "Hyakkiyako",
+        "Club": "Hyakkayouran",
+        "Star": 3,
+        "Released": true,
+        "Related": {
+            "ItemId": 10081,
+            "ItemType": "水着"
+        }
+    },
+    {
+        "Id": 13014,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/13014.webp"
+        ],
+        "Name": {
+            "jp": "レンゲ（水着）",
+            "kr": "렌게(수영복)",
+            "zh": "莲华（泳装）"
+        },
+        "Bio": {
+            "jp": "海って青春だよな！",
+            "kr": "바다에서 청춘하자고!",
+            "zh": "大海即青春！"
+        },
+        "Nickname": [
+            "Renge"
+        ],
+        "Birthday": "7/23",
+        "Age": "16歳",
+        "School": "Hyakkiyako",
+        "Club": "Hyakkayouran",
+        "Star": 2,
+        "Released": true,
+        "Related": {
+            "ItemId": 10082,
+            "ItemType": "水着"
+        }
+    },
+    {
+        "Id": 20047,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/20047.webp"
+        ],
+        "Name": {
+            "jp": "キキョウ（水着）",
+            "kr": "키쿄(수영복)",
+            "zh": "桔梗（泳装）"
+        },
+        "Bio": {
+            "jp": "落花流水",
+            "kr": "낙화유수",
+            "zh": "落花流水"
+        },
+        "Nickname": [
+            "Kikyou"
+        ],
+        "Birthday": "8/8",
+        "Age": "16歳",
+        "School": "Hyakkiyako",
+        "Club": "Hyakkayouran",
+        "Star": 3,
+        "Released": true,
+        "Related": {
+            "ItemId": 10083,
+            "ItemType": "水着"
+        }
     }
 ]
