@@ -3,8 +3,8 @@
         "CharacterId": 10111,
         "MessageJP": "ネル（制服）",
         "MessageKR": "네루(교복)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "寧瑠（制服）",
+        "MessageEN": "Neru (School)"
     },
     {
         "MessageId": 101100010,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "あー",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah."
     },
     {
         "MessageId": 101110020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "ったく",
         "MessageKR": "어색해",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好尷尬",
+        "MessageEN": "It's awkward."
     },
     {
         "MessageId": 101110030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "慣れねぇな",
         "MessageKR": "적응이 안 되네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我還不太能適應",
+        "MessageEN": "I can't get used to it."
     },
     {
         "MessageId": 101110040,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "何か問題でもあったの？",
         "MessageKR": "무슨 문제라도 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼了嗎？",
+        "MessageEN": "Is there a problem?"
     },
     {
         "MessageId": 101110050,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "先生に相談するほどじゃねぇけど",
         "MessageKR": "뭐 선생이 신경 쓸 건 아니지만",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然這不是老師需要擔心的事",
+        "MessageEN": "Well, nothing for you to worry about, Sensei, but"
     },
     {
         "MessageId": 101110060,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "……そうだな",
         "MessageKR": "음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "Um..."
     },
     {
         "MessageId": 101110061,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "時間があったら会えないか？",
         "MessageKR": "혹시 시간 있으면 잠깐 만날 수 있을까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果有時間的話，可以見個面嗎",
+        "MessageEN": "Can we meet if you happen to have time?"
     },
     {
         "MessageId": 101110062,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "ちっと聞きたいことがあってな",
         "MessageKR": "뭣 좀 물어볼 게 있어서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我有點事想問你",
+        "MessageEN": "I've got something to ask."
     },
     {
         "MessageId": 101100077,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "ネル（制服）の絆イベントへ",
         "MessageKR": "네루(교복)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往寧瑠（制服）的羈絆劇情",
+        "MessageEN": "Go to Neru (School)'s Bond Story"
     },
     {
         "MessageId": 101110070,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "今日は楽しかったぞ、先生！",
         "MessageKR": "오늘은 재밌었어, 선생!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天玩得真開心，老師！",
+        "MessageEN": "Today was fun, Sensei!"
     },
     {
         "MessageId": 101110080,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "まさか、話しかけるまで気づかれないなんて",
         "MessageKR": "설마 내가 말 걸기 전까지 못 알아보는 녀석들이 태반이라니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒想到大部分的人，在我開口前都認不出我",
+        "MessageEN": "The way most people didn't recognize me until I talked to them."
     },
     {
         "MessageId": 101110081,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "こんなの初めてだ",
         "MessageKR": "이런 경험은 처음이야",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我還是第一次有這樣的經驗呢",
+        "MessageEN": "I've really never experienced that before."
     },
     {
         "MessageId": 101110090,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "楽しかったなら何よりだよ",
         "MessageKR": "즐거워하는 것 같아 다행이네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "很高興看到你這麼開心",
+        "MessageEN": "I'm glad you're having fun."
     },
     {
         "MessageId": 101110100,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "次の休みも試してみるか？",
         "MessageKR": "앞으로 휴일은 다 이런 느낌이려나?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "之後的假日會不會都有這種感覺？",
+        "MessageEN": "Is this how days off are going to feel from now on?"
     },
     {
         "MessageId": 101110101,
@@ -195,7 +195,7 @@
         "ImagePath": "",
         "MessageJP": "楽しくなってきたぜ！",
         "MessageKR": "좀 재밌어지기 시작했다고?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好像越來越有趣了呢？",
+        "MessageEN": "I'm starting to enjoy them, you know?"
     }
 ]

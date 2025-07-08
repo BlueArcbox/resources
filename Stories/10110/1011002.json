@@ -3,8 +3,8 @@
         "CharacterId": 10110,
         "MessageJP": "セイア",
         "MessageKR": "세이아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "聖亞",
+        "MessageEN": "Seia"
     },
     {
         "MessageId": 101090120,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、手を借りられないだろうか",
         "MessageKR": "선생님, 혹시 나중에 시간 괜찮으실까요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，之後有時間嗎？",
+        "MessageEN": "Sensei, do you have a moment later?"
     },
     {
         "MessageId": 101100130,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "お見舞いに来て欲しいのだが……",
         "MessageKR": "아무래도 선생님의 간호가 필요할 것 같아서요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我想我需要老師的照顧",
+        "MessageEN": "I think I'm going to need your medical skills."
     },
     {
         "MessageId": 101100140,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "「体調が悪い」って言ってくれればいいのに",
         "MessageKR": "'아프다'고는 말하지 않는구나.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你沒有直接說「生病了」呢",
+        "MessageEN": "Let me guess, you're \"sick\"?"
     },
     {
         "MessageId": 101100140,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "もしかして「例の件」だったりする……？",
         "MessageKR": "이게 새로운 '변명'인 거구나.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這就是你的新「藉口」嗎",
+        "MessageEN": "Is that the excuse we're going with this time?"
     },
     {
         "MessageId": 101100150,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "当たらずと雖も遠からず……",
         "MessageKR": "뭐, 그렇습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "大致上是這樣沒錯",
+        "MessageEN": "Well, yes."
     },
     {
         "MessageId": 101100160,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "心の内を詳らかにするのは躊躇われてね……",
         "MessageKR": "네. '아프다'고 직접 말할 순 없으니까요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，我不能直接說「生病了」",
+        "MessageEN": "I can't properly say I'm sick, I suppose."
     },
     {
         "MessageId": 101100170,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "嘘は言っていないつもりだ",
         "MessageKR": "거짓말을 할 순 없기도 하고,",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "除了不該說謊之外",
+        "MessageEN": "I can't lie, and besides,"
     },
     {
         "MessageId": 101100171,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "直截な言葉選びをしたら、必要以上に心配するだろう、君は",
         "MessageKR": "'아프다'고 말을 해버리면, 지나치게 걱정하실 것 같아서요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果用「生病了」當藉口，可能會讓你過於擔心",
+        "MessageEN": "you'd worry too much if I told you that."
     },
     {
         "MessageId": 101100180,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "それも、すぐ飛んできかねない程に",
         "MessageKR": "조금 의아하고 아주 약간 불안해하는 정도.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "略帶疑惑和些許不安",
+        "MessageEN": "I only want you SLIGHTLY worried, and a little dubious."
     },
     {
         "MessageId": 101100181,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "その温度感で心配されるのも、やぶさかではないが……",
         "MessageKR": "그 정도가 딱 제가 바라는 온도감이라고 할 수 있겠네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這大概就是我希望的溫度",
+        "MessageEN": "Right around that level."
     },
     {
         "MessageId": 101100190,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "ともあれ、バレてしまっては仕方がない。",
         "MessageKR": "하지만 그마저도 이미 탄로나 버렸군요. 그러니 이제 어쩔 수 없습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過既然被看穿也沒辦法了",
+        "MessageEN": "But you found me out too early. Well, so it goes."
     },
     {
         "MessageId": 101100200,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 101100201,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "暇な時にでも、来てくれるかい？",
         "MessageKR": "조만간, 한가하실 때 찾아와 주세요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請在有空的時候來找我吧",
+        "MessageEN": "Please swing by soon when you're free."
     },
     {
         "MessageId": 101090217,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "セイアの絆イベントへ",
         "MessageKR": "세이아의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往聖亞的羈絆劇情",
+        "MessageEN": "Go to Seia's Bond Story"
     },
     {
         "MessageId": 101100210,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "お菓子はお気に召しただろうか",
         "MessageKR": "드시고 간 디저트는 입맛에 맞으셨을지 모르겠네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不知道甜點合不合你的胃口",
+        "MessageEN": "Did you enjoy the desserts?"
     },
     {
         "MessageId": 101100220,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "口に合えば良かったのだが",
         "MessageKR": "나름대로 최고의 재료로 최고의 장인들께 부탁드려 만든 것이었습니다만",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然那是用最好的材料，請最好的師傅製作的",
+        "MessageEN": "They were made by the best patissiers, using the best ingredients."
     },
     {
         "MessageId": 101100230,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "本当に最高だったよ！",
         "MessageKR": "정말 최고였어. 내 거랑 달리!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真的很棒。跟我的完全不一樣！",
+        "MessageEN": "They were the best. Mine, not so much."
     },
     {
         "MessageId": 101100230,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "トリニティの最高峰は伊達じゃないね！",
         "MessageKR": "내가 사 간 것과 너무 비교되네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我買的甜點完全被比過去了呢",
+        "MessageEN": "The ones I brought were, um..."
     },
     {
         "MessageId": 101100240,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "あの後に頂いたけれど",
         "MessageKR": "그런 말씀 마세요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請別這麼說",
+        "MessageEN": "Oh, please don't say that."
     },
     {
         "MessageId": 101100241,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "先生のお菓子も間違いなく最高の物だったよ",
         "MessageKR": "사 주신 것들도 틀림없이 최고의 디저트랍니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師的甜點也無疑是最高等級",
+        "MessageEN": "The ones you bought were also the best, undeniably."
     },
     {
         "MessageId": 101100250,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "心配する必要はないさ",
         "MessageKR": "네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "I see."
     },
     {
         "MessageId": 101100251,
@@ -279,7 +279,7 @@
         "ImagePath": "",
         "MessageJP": "他でもない、私が保証するのだからね",
         "MessageKR": "지금 혀가, 그렇게 평가를 내리고 있네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這就是現在，我的舌頭所給予的評價",
+        "MessageEN": "That's what my tongue's saying right now, anyway."
     }
 ]

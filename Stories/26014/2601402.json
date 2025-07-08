@@ -3,8 +3,8 @@
         "CharacterId": 26014,
         "MessageJP": "カリン（制服）",
         "MessageKR": "카린(교복)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "花凛（制服）",
+        "MessageEN": "Karin (School)"
     },
     {
         "MessageId": 260130070,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、起きてるか？",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Hey Sensei"
     },
     {
         "MessageId": 260140080,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "こんな時間にどうしたの？",
         "MessageKR": "이른 시간에 연락했네?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這麼早有什麼事嗎？",
+        "MessageEN": "You're up early, huh?"
     },
     {
         "MessageId": 260140090,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "えっと",
         "MessageKR": "음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔嗯",
+        "MessageEN": "Um..."
     },
     {
         "MessageId": 260140091,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "すまない",
         "MessageKR": "미안해",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "抱歉",
+        "MessageEN": "Sorry."
     },
     {
         "MessageId": 260140100,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "実は……休日であることを忘れて",
         "MessageKR": "그게",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個",
+        "MessageEN": "The thing is"
     },
     {
         "MessageId": 260140101,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "いつもの時間に起きてしまったんだ",
         "MessageKR": "휴일인 걸 깜빡하고 일찍 일어났거든",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我忘記今天是假日，所以就照常早起了",
+        "MessageEN": "I forgot it was my day off and woke up early."
     },
     {
         "MessageId": 260140110,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "規則的な生活をしてると、そうなるよね……",
         "MessageKR": "평일에 익숙해지면 종종 그렇지…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果太習慣平時的生活，有時候就會這樣……",
+        "MessageEN": "Happens sometimes when you get used to regular hours..."
     },
     {
         "MessageId": 260140120,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "正直、時間を持て余してしまってて……",
         "MessageKR": "그래서 그냥 멍한 상태",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我現在還有點恍惚",
+        "MessageEN": "So I'm just spaced out."
     },
     {
         "MessageId": 260140121,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "先生さえよければ、シャーレに行ってもいいか？",
         "MessageKR": "다음은 뭘 해야 할지 막막해서…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不知道接下來該做什麼……",
+        "MessageEN": "I'm not sure what to do next..."
     },
     {
         "MessageId": 260140130,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "いいよ。待ってるね",
         "MessageKR": "그럼 샬레에 와서 쉬는 건 어때?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那要不要來夏萊休息？",
+        "MessageEN": "How about coming to Schale to rest then?"
     },
     {
         "MessageId": 260130147,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "カリン（制服）の絆イベントへ",
         "MessageKR": "카린(교복)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往花凛（制服）的羈絆劇情",
+        "MessageEN": "Go to Karin (School)'s Bond Story"
     },
     {
         "MessageId": 260140140,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "今日は楽しかった",
         "MessageKR": "오늘은 즐거웠다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天我很開心",
+        "MessageEN": "I had fun today."
     },
     {
         "MessageId": 260140150,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "それから",
         "MessageKR": "그리고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還有",
+        "MessageEN": "Also"
     },
     {
         "MessageId": 260140151,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "分かってはいたが先生はいつも忙しいのだな",
         "MessageKR": "아까는 미안했다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "剛才真抱歉",
+        "MessageEN": "I'm sorry for earlier."
     },
     {
         "MessageId": 260140160,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "私には「休め」と言うのに……",
         "MessageKR": "선생님에게 내 도움이 필요치 않다고 생각하니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "一想到老師不需要我的幫助",
+        "MessageEN": "I got a bit impatient"
     },
     {
         "MessageId": 260140161,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "先生こそちゃんと休めているのか？",
         "MessageKR": "조금 조급해져서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就有點太著急了",
+        "MessageEN": "after thinking you didn't need my help."
     },
     {
         "MessageId": 260140170,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "カリンのおかげで今日は久々にゆっくりできたよ",
         "MessageKR": "카린의 휴일을 방해하고 싶지 않았어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我不想打擾花凛的假日",
+        "MessageEN": "I didn't want to bother you on your day off, Karin."
     },
     {
         "MessageId": 260140180,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "私が必要な時は、遠慮なく頼って欲しい",
         "MessageKR": "부담 갖지 않아도 된다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒關係，不需要覺得有負擔",
+        "MessageEN": "Feel free to."
     },
     {
         "MessageId": 260140181,
@@ -243,7 +243,7 @@
         "ImagePath": "",
         "MessageJP": "先生の手伝いなら、いつでも歓迎だ",
         "MessageKR": "선생님을 돕는 거라면 언제든 환영이니까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果老師需要幫助的話，我隨時歡迎",
+        "MessageEN": "Anytime you need a hand, just let me know."
     }
 ]

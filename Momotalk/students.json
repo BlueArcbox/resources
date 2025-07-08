@@ -9595,13 +9595,17 @@
             "/api/Avatars/Fandom/Seia_Icon.png"
         ],
         "Name": {
+            "en": "Seia",
             "jp": "セイア",
             "kr": "세이아",
+            "tw": "聖亞",
             "zh": "圣娅"
         },
         "Bio": {
+            "en": "Say what you wanted to say to each other.",
             "jp": "言の葉を紡ぐのは難しいものだね",
             "kr": "하고 싶었던 말을 서로에게",
+            "tw": "彼此傾訴想說的話",
             "zh": "编织言语真是件难事呢"
         },
         "Nickname": [
@@ -9624,13 +9628,17 @@
             "/api/Avatars/Fandom/Asuna_Schoolgirl_Icon.png"
         ],
         "Name": {
+            "en": "Asuna (School)",
             "jp": "アスナ（制服）",
             "kr": "아스나(교복)",
+            "tw": "明日奈（制服）",
             "zh": "明日奈（校服）"
         },
         "Bio": {
+            "en": "Being the best guide for you!",
             "jp": "最高の体験をお届けするよ！",
             "kr": "최고의 가이드를 당신에게!",
+            "tw": "為您提供最好的導覽！",
             "zh": "呈上最棒的体验!"
         },
         "Nickname": [
@@ -9654,13 +9662,17 @@
             "/api/Avatars/Fandom/Karin_Schoolgirl_Icon.png"
         ],
         "Name": {
+            "en": "Karin (School)",
             "jp": "カリン（制服）",
             "kr": "카린(교복)",
+            "tw": "花凛（制服）",
             "zh": "花凛（校服）"
         },
         "Bio": {
+            "en": "Currently on a special mission.",
             "jp": "特殊任務遂行中",
             "kr": "특수 임무 수행 중",
+            "tw": "正在執行特殊任務",
             "zh": "特殊任务执行中"
         },
         "Nickname": [
@@ -9683,13 +9695,17 @@
             "/api/Avatars/Kivo/Released/10111.webp"
         ],
         "Name": {
+            "en": "Neru (School)",
             "jp": "ネル（制服）",
             "kr": "네루(교복)",
+            "tw": "寧瑠（制服）",
             "zh": "妮禄（校服）"
         },
         "Bio": {
+            "en": "This feels so awkward! Ugh!",
             "jp": "はぁ……ダルいなぁ",
             "kr": "어색해~ 아오!",
+            "tw": "好～尷尬哦！",
             "zh": "哈......好麻烦啊"
         },
         "Nickname": [
@@ -9713,13 +9729,17 @@
             "/api/Avatars/Fandom/Rio_Icon.png"
         ],
         "Name": {
+            "en": "Rio",
             "jp": "リオ",
             "kr": "리오",
+            "tw": "莉央",
             "zh": "莉音"
         },
         "Bio": {
+            "en": "Tasklist",
             "jp": "Tasklist",
             "kr": "Tasklist",
+            "tw": "Tasklist",
             "zh": "Tasklist"
         },
         "Nickname": [

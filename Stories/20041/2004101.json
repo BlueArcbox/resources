@@ -3,8 +3,8 @@
         "CharacterId": 20041,
         "MessageJP": "リオ",
         "MessageKR": "리오",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "莉央",
+        "MessageEN": "Rio"
     },
     {
         "MessageId": 200400010,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、届いているかしら",
         "MessageKR": "선생.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 200410020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "リオ！？",
         "MessageKR": "어? 누구?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？是誰？",
+        "MessageEN": "Huh? Who's this?"
     },
     {
         "MessageId": 200410030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ええ、そうよ",
         "MessageKR": "아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah."
     },
     {
         "MessageId": 200410031,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "というか…",
         "MessageKR": "당장은 모르겠구나.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師還不知道吧",
+        "MessageEN": "You wouldn't know."
     },
     {
         "MessageId": 200410040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "少し驚きすぎではなくて？",
         "MessageKR": "나야, 선생. 리오.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我是莉央",
+        "MessageEN": "It's me, Sensei. Rio."
     },
     {
         "MessageId": 200410050,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "リオから連絡もらえるとは思わなくて",
         "MessageKR": "리오?! 지금 어디야??",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "莉央！？你現在在哪裡？？",
+        "MessageEN": "Rio?! Where are you right now?!"
     },
     {
         "MessageId": 200410060,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "先に伝えておくのだけれど、これはサブ端末よ",
         "MessageKR": "이 번호는 임시로 만든 거야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這是我的臨時號碼",
+        "MessageEN": "I'm using a burner phone."
     },
     {
         "MessageId": 200410061,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "連絡先を登録する必要はないわ",
         "MessageKR": "다음에는 바뀔 테니 저장은 하지 마.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "之後就會換掉，所以沒必要保存",
+        "MessageEN": "The number will change next time, so don't bother saving it."
     },
     {
         "MessageId": 200410070,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "サブ端末を使うほどの事態なの……？",
         "MessageKR": "그래도 되는 거야……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還可以這樣嗎……？",
+        "MessageEN": "Are you okay...?"
     },
     {
         "MessageId": 200410080,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "何か問題でもあったかしら",
         "MessageKR": "무슨 문제라도 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有什麼問題嗎？",
+        "MessageEN": "Is there a problem?"
     },
     {
         "MessageId": 200410090,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "通信を追跡されたら困るでしょう？",
         "MessageKR": "이게 합리적이야. 추적당하면 안 되잖아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這麼做是合理的。畢竟我不能被追蹤",
+        "MessageEN": "I'm just being rational. I need to make sure I'm untraceable."
     },
     {
         "MessageId": 200410100,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "……通信会社も大変だなぁって",
         "MessageKR": "통신사 입장도 생각해 줘……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "也為電信公司著想一下吧……",
+        "MessageEN": "The mobile carrier will know where you are, though..."
     },
     {
         "MessageId": 200410110,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "……",
         "MessageKR": "음.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "Mmm."
     },
     {
         "MessageId": 200410111,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "その視点はなかったわ",
         "MessageKR": "거기까지는 생각 못 해봤네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這點我倒沒想到",
+        "MessageEN": "I hadn't thought of that."
     },
     {
         "MessageId": 200410120,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "でも、これが一番合理的なの",
         "MessageKR": "그래도 달리 방법이 없었어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過也沒有其他辦法了",
+        "MessageEN": "But still, I had no choice."
     },
     {
         "MessageId": 200410130,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "それで、一体どうしたの？",
         "MessageKR": "아무튼 무슨 일이라도 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "話說有什麼事嗎？",
+        "MessageEN": "So what's going on?"
     },
     {
         "MessageId": 200410140,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "スーパーにお弁当を買いに来たのだけれど……",
         "MessageKR": "저녁 세일 도시락을 사러 나왔는데……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我出來買晚上特價的便當……",
+        "MessageEN": "I went out to buy some discount dinner bento..."
     },
     {
         "MessageId": 200410150,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "臨時休業中で……少し来てくれないかしら",
         "MessageKR": "갑자기, 마트가 당일 휴무라고 해서……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "結果發現超市今天休息……",
+        "MessageEN": "But the store turned out to be closed today..."
     },
     {
         "MessageId": 200400167,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "リオの絆イベントへ",
         "MessageKR": "리오의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往莉央的羈絆劇情",
+        "MessageEN": "Go to Rio's Bond Story"
     },
     {
         "MessageId": 200410160,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "まだ起きているかしら？",
         "MessageKR": "선생? 아직 깨어 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師？你還醒著嗎？",
+        "MessageEN": "Sensei? Are you still awake?"
     },
     {
         "MessageId": 200410170,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "どうしたの？",
         "MessageKR": "무슨 일이야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼了？",
+        "MessageEN": "What's up?"
     },
     {
         "MessageId": 200410180,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "貴方に言われた料理機能搭載アバンギャルド君を完成させてみたの",
         "MessageKR": "선생 말대로, 요리하는 아방가르드 군을 만들었는데…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我按照老師的建議，製作了會煮飯的前衛君……",
+        "MessageEN": "I made that cooking Avant Guard like you said..."
     },
     {
         "MessageId": 200410190,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "おお、ちゃんと動いてる？",
         "MessageKR": "잘 작동해?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "能順利運作嗎？",
+        "MessageEN": "Does it work?"
     },
     {
         "MessageId": 200410200,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "ええ、一応",
         "MessageKR": "잘 작동하긴 하는데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可以是可以",
+        "MessageEN": "It does. It works well."
     },
     {
         "MessageId": 200410201,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "ただ、先生の手料理と違って",
         "MessageKR": "뭔가, 선생이 만들어준 것 같은 요리가 나왔어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過製作出來的料理，總感覺好像是老師做的",
+        "MessageEN": "But it made something that looks like it was made by you."
     },
     {
         "MessageId": 200410210,
@@ -327,8 +327,8 @@
         "ImagePath": "",
         "MessageJP": "……味の感想が出てこなくて",
         "MessageKR": "맛없지는 않지만, 맛있지도 않은 그런 거……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然不難吃，卻也說不上好吃的那種……",
+        "MessageEN": "Not bad, but not tasty either..."
     },
     {
         "MessageId": 200410220,
@@ -339,8 +339,8 @@
         "ImagePath": "",
         "MessageJP": "また作ってあげるから、一人でもちゃんと食べてね",
         "MessageKR": "몸에 좋으니까, 먹어 두자……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那對身體有幫助，所以還是吃了吧……",
+        "MessageEN": "It's good for you, though, so let's share it."
     },
     {
         "MessageId": 200410230,
@@ -351,8 +351,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとう",
         "MessageKR": "알았어……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我知道了……",
+        "MessageEN": "Okay..."
     },
     {
         "MessageId": 200410240,
@@ -363,8 +363,8 @@
         "ImagePath": "",
         "MessageJP": "二日に一回くらい、お弁当でも良いかしら？",
         "MessageKR": "그래도 이틀에 한 번 정도는, 도시락 먹으면 안 될까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那可以偶爾吃便當嗎？大概兩天一次就好了",
+        "MessageEN": "Related to that, is it okay to eat discount bento, like, every other day?"
     },
     {
         "MessageId": 200410250,
@@ -375,8 +375,8 @@
         "ImagePath": "",
         "MessageJP": "せめて三日に一回で……",
         "MessageKR": "3일",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "三天一次",
+        "MessageEN": "Every THREE days."
     },
     {
         "MessageId": 200410260,
@@ -387,7 +387,7 @@
         "ImagePath": "",
         "MessageJP": "……分かったわ",
         "MessageKR": "알았어……\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……知道了",
+        "MessageEN": "Okay...\u200b"
     }
 ]

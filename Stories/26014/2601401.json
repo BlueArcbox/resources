@@ -3,8 +3,8 @@
         "CharacterId": 26014,
         "MessageJP": "カリン（制服）",
         "MessageKR": "카린(교복)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "花凛（制服）",
+        "MessageEN": "Karin (School)"
     },
     {
         "MessageId": 260130010,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、お疲れ様",
         "MessageKR": "임무가 끝났다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "任務告一段落了",
+        "MessageEN": "The mission's complete."
     },
     {
         "MessageId": 260140020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "任務が一段落したから",
         "MessageKR": "앞으로 며칠 동안은 휴일이지만",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "接下來幾天雖然是假日",
+        "MessageEN": "I'm off for the next few days,"
     },
     {
         "MessageId": 260140021,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "今日から数日、お休みになったんだ",
         "MessageKR": "교복을 입고 지낼 것 같다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但我應該會繼續穿著制服",
+        "MessageEN": "but I think I'll keep wearing my school uniform."
     },
     {
         "MessageId": 260140030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "お休み、いいなぁ……",
         "MessageKR": "휴일이라니 잘됐네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "能放假真不錯呢",
+        "MessageEN": "I'm glad you have some time off."
     },
     {
         "MessageId": 260140040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "普段、休日は何をするの？",
         "MessageKR": "쉬는 날엔 보통 뭘 해?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你放假時通常會做什麼呢？",
+        "MessageEN": "What do you typically do on days like this?"
     },
     {
         "MessageId": 260140050,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "うーん",
         "MessageKR": "음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔嗯",
+        "MessageEN": "Um..."
     },
     {
         "MessageId": 260140051,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "いつもは……任務の時と変わらないな",
         "MessageKR": "뭘 하지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "會做什麼呢？",
+        "MessageEN": "Well, what should I do?"
     },
     {
         "MessageId": 260140060,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "……ちょっとそっちに行ってもいい？",
         "MessageKR": "……저한테 물어보셔도?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……為什麼問我？",
+        "MessageEN": "...Why are you asking me?"
     },
     {
         "MessageId": 260130067,
@@ -123,7 +123,7 @@
         "ImagePath": "",
         "MessageJP": "カリン（制服）の絆イベントへ",
         "MessageKR": "카린(교복)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往花凛（制服）的羈絆劇情",
+        "MessageEN": "Go to Karin (School)'s Bond Story"
     }
 ]

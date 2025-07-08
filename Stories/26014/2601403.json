@@ -3,8 +3,8 @@
         "CharacterId": 26014,
         "MessageJP": "カリン（制服）",
         "MessageKR": "카린(교복)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "花凛（制服）",
+        "MessageEN": "Karin (School)"
     },
     {
         "MessageId": 260130190,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Hey Sensei"
     },
     {
         "MessageId": 260140200,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "私なりの休日の過ごし方を思いついたんだ",
         "MessageKR": "희소식이다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我有個好消息",
+        "MessageEN": "Good news."
     },
     {
         "MessageId": 260140210,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "やったね！",
         "MessageKR": "희소식?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好消息？",
+        "MessageEN": "Good news?"
     },
     {
         "MessageId": 260140220,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "それで…もしよかったら……",
         "MessageKR": "아이디어가 떠올랐다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我想到了一個主意",
+        "MessageEN": "I got an idea."
     },
     {
         "MessageId": 260140221,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "先生にも一緒に来てもらいたいんだけど……",
         "MessageKR": "특별한 휴일을 보낼 아이디어가",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "一個度過特別假日的主意",
+        "MessageEN": "An idea to spend a special day off."
     },
     {
         "MessageId": 260140230,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "喜んで行かせてもらうよ",
         "MessageKR": "뭔지는 몰라도, 내가 힘껏 도와줄게!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然不知道是什麼，但我會盡力幫忙！",
+        "MessageEN": "Whatever you have in mind, I'll do my best to lend a hand!"
     },
     {
         "MessageId": 260140240,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとう",
         "MessageKR": "고마워",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝你",
+        "MessageEN": "Thank you."
     },
     {
         "MessageId": 260140241,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "先生が一緒なら、きっと楽しい",
         "MessageKR": "선생님의 도움은 언제나 환영이니까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我隨時歡迎老師的協助",
+        "MessageEN": "Your help is always welcome."
     },
     {
         "MessageId": 260140250,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "じゃあ、これから登校するから",
         "MessageKR": "지금부터 등교할 생각이라서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我現在正準備去上學",
+        "MessageEN": "I'm about to head out to school."
     },
     {
         "MessageId": 260140251,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "迎えに来てもらえるか？",
         "MessageKR": "함께할 생각이 있다면, 우리 집 앞으로 와주면 좋겠다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果你想一起的話，就到我家門口來吧",
+        "MessageEN": "So if you want to join me, it would be nice to meet up in front of my house."
     },
     {
         "MessageId": 260140260,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "……え？",
         "MessageKR": "……등교?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……上學？",
+        "MessageEN": "...Your special day off is at school?"
     },
     {
         "MessageId": 260130267,
@@ -159,7 +159,7 @@
         "ImagePath": "",
         "MessageJP": "カリン（制服）の絆イベントへ",
         "MessageKR": "카린(교복)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往花凛（制服）的羈絆劇情",
+        "MessageEN": "Go to Karin (School)'s Bond Story"
     }
 ]

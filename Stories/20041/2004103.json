@@ -3,8 +3,8 @@
         "CharacterId": 20041,
         "MessageJP": "リオ",
         "MessageKR": "리오",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "莉央",
+        "MessageEN": "Rio"
     },
     {
         "MessageId": 200400390,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "色々あったけれど",
         "MessageKR": "여러 가지 사정으로.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為各種原因",
+        "MessageEN": "Due to various circumstances"
     },
     {
         "MessageId": 200410400,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "ようやく落ち着いてきたわ",
         "MessageKR": "요즘은 그렇게 바쁘지 않아져서.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "最近比較沒那麼忙了",
+        "MessageEN": "I'm not as busy nowadays."
     },
     {
         "MessageId": 200410410,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "それで、前にしていたことを",
         "MessageKR": "예전에 하던 걸 계속하면 어떨까, 하고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以我在想",
+        "MessageEN": "So I was thinking about"
     },
     {
         "MessageId": 200410411,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "再開しようと思っているのだけれど",
         "MessageKR": "생각하고 있어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要不要繼續完成之前做的事",
+        "MessageEN": "going back to something I used to do."
     },
     {
         "MessageId": 200410420,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "前にしていたこと？",
         "MessageKR": "예전에 하던 거?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "之前做的事？",
+        "MessageEN": "Something you used to do?"
     },
     {
         "MessageId": 200410430,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "オブジェクトの制作よ",
         "MessageKR": "조형물 같은 걸 만드는 거.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我指的是製作雕塑品",
+        "MessageEN": "Making things like sculptures."
     },
     {
         "MessageId": 200410440,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "インダストリアルデザイン、と言った方が分かりやすいかしら",
         "MessageKR": "산업 디자인이라든가.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "或者也能說是工業設計",
+        "MessageEN": "Like industrial designs."
     },
     {
         "MessageId": 200410450,
@@ -110,9 +110,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "でもアジトだと",
-        "MessageKR": "그렇지만 여기는 아무래도",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "그렇지만 여기는 아무래도 ",
+        "MessageTW": "但是基地這裡 ",
+        "MessageEN": "But I don't have much space "
     },
     {
         "MessageId": 200410460,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "スペースの確保が難しいわね",
         "MessageKR": "아지트 공간이 넉넉하지 못해서 말이지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "空間實在不太充裕",
+        "MessageEN": "here in the hideout."
     },
     {
         "MessageId": 200410461,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "換気の問題も……",
         "MessageKR": "환기 문제도 있고.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "通風也是個問題",
+        "MessageEN": "There's also a ventilation issue."
     },
     {
         "MessageId": 200410470,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "じゃあ、シャーレに来る？",
         "MessageKR": "그럼 샬레로 올래?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那要來夏萊嗎？",
+        "MessageEN": "Would you like to come to Schale, then?"
     },
     {
         "MessageId": 200410480,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "……",
         "MessageKR": "어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？",
+        "MessageEN": "Huh?"
     },
     {
         "MessageId": 200410490,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "迷惑ではなくて？",
         "MessageKR": "그래도, 돼?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可以嗎？",
+        "MessageEN": "Can I?"
     },
     {
         "MessageId": 200410500,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "大丈夫だよ！",
         "MessageKR": "나는 괜찮은데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我不介意哦",
+        "MessageEN": "I'm okay with it."
     },
     {
         "MessageId": 200410510,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "その……ありがとう",
         "MessageKR": "그.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個",
+        "MessageEN": "Um..."
     },
     {
         "MessageId": 200410511,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "前回と同じように",
         "MessageKR": "고마워.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝",
+        "MessageEN": "Thank you."
     },
     {
         "MessageId": 200410520,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "荷物の受取もお願いできると",
         "MessageKR": "그러면 예전처럼.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼再麻煩你像之前那樣",
+        "MessageEN": "Then just like last time,"
     },
     {
         "MessageId": 200410530,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "助かるのだけれど",
         "MessageKR": "배달 대행, 부탁할게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "幫我收個東西",
+        "MessageEN": "I'll ask you to pick things up for me."
     },
     {
         "MessageId": 200400537,
@@ -243,7 +243,7 @@
         "ImagePath": "",
         "MessageJP": "リオの絆イベントへ",
         "MessageKR": "리오의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往莉央的羈絆劇情",
+        "MessageEN": "Go to Rio's Bond Story"
     }
 ]

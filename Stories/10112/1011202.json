@@ -3,8 +3,8 @@
         "CharacterId": 10112,
         "MessageJP": "アスナ（制服）",
         "MessageKR": "아스나(교복)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "明日奈（制服）",
+        "MessageEN": "Asuna (School)"
     },
     {
         "MessageId": 101110130,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "そろそろお昼休みだね",
         "MessageKR": "곧 점심시간이네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "快到午餐時間了",
+        "MessageEN": "It's almost lunch."
     },
     {
         "MessageId": 101120140,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "もうお腹空いちゃったよ",
         "MessageKR": "이때쯤이면 배가 고파져",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "肚子也有點餓了",
+        "MessageEN": "I always get hungry around this time."
     },
     {
         "MessageId": 101120150,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "私はいつでも空いてる……",
         "MessageKR": "나는 항상 고픈데……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我隨時都很餓……",
+        "MessageEN": "I'm always hungry..."
     },
     {
         "MessageId": 101120160,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "あははっ",
         "MessageKR": "아하하",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊哈哈",
+        "MessageEN": "Ahaha"
     },
     {
         "MessageId": 101120161,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "何それ",
         "MessageKR": "뭐야 그게",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "什麼啦",
+        "MessageEN": "What are you saying?"
     },
     {
         "MessageId": 101120170,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "アスナはお昼何食べるの？",
         "MessageKR": "아스나는 점심 뭐 먹어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "明日奈午餐吃什麼呢？",
+        "MessageEN": "What are you getting for lunch, Asuna?"
     },
     {
         "MessageId": 101120180,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "うーん",
         "MessageKR": "음\\~ 글쎄",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯～這個嘛",
+        "MessageEN": "Hmm... Let's see."
     },
     {
         "MessageId": 101120181,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "考え中！",
         "MessageKR": "고민 중!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "目前還在考慮！",
+        "MessageEN": "Thinking about it!"
     },
     {
         "MessageId": 101110187,
@@ -123,7 +123,7 @@
         "ImagePath": "",
         "MessageJP": "アスナ（制服）の絆イベントへ",
         "MessageKR": "아스나(교복)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往明日奈（制服）的羈絆劇情",
+        "MessageEN": "Go to Asuna (School)'s Bond Story"
     }
 ]

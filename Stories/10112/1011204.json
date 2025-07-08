@@ -3,8 +3,8 @@
         "CharacterId": 10112,
         "MessageJP": "アスナ（制服）",
         "MessageKR": "아스나(교복)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "明日奈（制服）",
+        "MessageEN": "Asuna (School)"
     },
     {
         "MessageId": 101110230,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "公園にいるんだけど",
         "MessageKR": "지금 언덕 공원인데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我現在在山丘公園",
+        "MessageEN": "I'm at the hill park right now,"
     },
     {
         "MessageId": 101120240,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "先生にそっくりな雲を見つけたんだ",
         "MessageKR": "선생님이랑 닮은 구름 있어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "發現了一朵很像老師的雲",
+        "MessageEN": "and there's a cloud that looks like you, Sensei."
     },
     {
         "MessageId": 101120241,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "あははっ",
         "MessageKR": "아하하",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊哈哈",
+        "MessageEN": "Ahaha"
     },
     {
         "MessageId": 101120250,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "散歩してるの？",
         "MessageKR": "아스나는 산책 중?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "明日奈在散步嗎？",
+        "MessageEN": "Are you taking a walk, Asuna?"
     },
     {
         "MessageId": 101120260,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "うん！",
         "MessageKR": "응응",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯嗯",
+        "MessageEN": "Yup"
     },
     {
         "MessageId": 101120270,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "それでね",
         "MessageKR": "어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Uh..."
     },
     {
         "MessageId": 101120280,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "何かあったの？",
         "MessageKR": "아스나, 별일 없지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "明日奈，你還好嗎？",
+        "MessageEN": "Did something happen?"
     },
     {
         "MessageId": 101120290,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "アスナ？",
         "MessageKR": "아스나?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "明日奈？",
+        "MessageEN": "Asuna?"
     },
     {
         "MessageId": 101110307,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "アスナ（制服）の絆イベントへ",
         "MessageKR": "아스나(교복)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往明日奈（制服）的羈絆劇情",
+        "MessageEN": "Go to Asuna (School)'s Bond Story"
     },
     {
         "MessageId": 101120300,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "せんせ～！",
         "MessageKR": "선생님\\~!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師～！",
+        "MessageEN": "Sensei!"
     },
     {
         "MessageId": 101120310,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "心配してくれてありがとう",
         "MessageKR": "오늘 아스나 찾으러 와줘서 고마워",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝你今天來找明日奈",
+        "MessageEN": "Thank you for coming to see me today."
     },
     {
         "MessageId": 101120311,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "それと、スマホも！",
         "MessageKR": "핸드폰도 같이 찾아줘서 고마워",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "也謝謝你幫我找到手機",
+        "MessageEN": "And for finding my phone."
     },
     {
         "MessageId": 101120320,
@@ -170,9 +170,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "見つかって良かったね",
-        "MessageKR": "응, 이렇게 모모톡할 수 있어서 다행이야",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "응, 이렇게 모모톡 할 수 있어서 다행이야",
+        "MessageTW": "嗯，能這樣用MomoTalk聊天真是太好了",
+        "MessageEN": "Yeah, I'm glad we can MomoTalk like this."
     },
     {
         "MessageId": 101120330,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "うん！\u200b",
         "MessageKR": "맞아맞아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒錯沒錯",
+        "MessageEN": "Right right."
     },
     {
         "MessageId": 101120331,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "もう落とさないように気をつける",
         "MessageKR": "이제 안 잃어버리게 조심해야지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我之後會注意別再弄丟了",
+        "MessageEN": "I'll be careful to not lose it again,"
     },
     {
         "MessageId": 101120340,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "先生が一緒に探してくれたスマホだから！",
         "MessageKR": "선생님이 같이 찾아준 핸드폰이니까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "畢竟是老師和我一起找回來的手機",
+        "MessageEN": "since we found it together."
     },
     {
         "MessageId": 101120341,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "お家に着いたら眠くなってきちゃった",
         "MessageKR": "근데 집 오니까 엄청 졸려",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "一回到家就好想睡哦",
+        "MessageEN": "I'm really sleepy now that I'm home"
     },
     {
         "MessageId": 101120350,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "今日はお疲れ様",
         "MessageKR": "오늘 고생했으니까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "畢竟今天很辛苦嘛",
+        "MessageEN": "You had it rough today."
     },
     {
         "MessageId": 101120360,
@@ -242,9 +242,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "おやすみ、アスナ",
-        "MessageKR": "잘자, 아스나",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "잘 자, 아스나",
+        "MessageTW": "晚安，明日奈",
+        "MessageEN": "Goodnight, Asuna."
     },
     {
         "MessageId": 101120370,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "えへへ",
         "MessageKR": "응! 헤헤",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯！嘿嘿",
+        "MessageEN": "Yeah! Heehee."
     },
     {
         "MessageId": 101120371,
@@ -266,8 +266,8 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "うん、おやすみなさい！",
-        "MessageKR": "선생님도 잘자\\~!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "선생님도 잘 자\\~!!",
+        "MessageTW": "老師也晚安～！！",
+        "MessageEN": "Goodnight, Sensei!"
     }
 ]

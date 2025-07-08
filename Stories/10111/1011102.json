@@ -3,8 +3,8 @@
         "CharacterId": 10111,
         "MessageJP": "ネル（制服）",
         "MessageKR": "네루(교복)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "寧瑠（制服）",
+        "MessageEN": "Neru (School)"
     },
     {
         "MessageId": 101100110,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "よお、先生",
         "MessageKR": "여 선생",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "喲，老師",
+        "MessageEN": "Yo, Sensei."
     },
     {
         "MessageId": 101110120,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "忙しいか？",
         "MessageKR": "바빠?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "在忙嗎？",
+        "MessageEN": "Busy?"
     },
     {
         "MessageId": 101110130,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "今日は暇だよ",
         "MessageKR": "오늘은 한가해.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天還挺閒的",
+        "MessageEN": "I'm free today."
     },
     {
         "MessageId": 101110140,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "ちょうど良かった",
         "MessageKR": "그거 좋네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那就好",
+        "MessageEN": "Ah, nice."
     },
     {
         "MessageId": 101110141,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "せっかくの休みだし",
         "MessageKR": "아직 휴일도 꽤 남았단 말이지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "假期還剩不少時間",
+        "MessageEN": "I still have some days off."
     },
     {
         "MessageId": 101110150,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "いつもと違う一日にしようと思ってな",
         "MessageKR": "그래서 선생만 괜찮다면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果老師不介意的話",
+        "MessageEN": "So, if you're okay with it..."
     },
     {
         "MessageId": 101110160,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "もしかして、今日も制服？",
         "MessageKR": "특별한 휴일을 보내고 싶은 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "想度過一個特別的假期嗎？",
+        "MessageEN": "You have something special in mind for today?"
     },
     {
         "MessageId": 101110170,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "おっ",
         "MessageKR": "뭐",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這個嘛",
+        "MessageEN": "Well"
     },
     {
         "MessageId": 101110171,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "話が早いな",
         "MessageKR": "비슷하달까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可以這麼說吧",
+        "MessageEN": "Something like that."
     },
     {
         "MessageId": 101110180,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "今から出かけようぜ",
         "MessageKR": "아무튼 얼굴이나 보자고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總之我們見個面吧",
+        "MessageEN": "Let's talk in person or something."
     },
     {
         "MessageId": 101100187,
@@ -147,7 +147,7 @@
         "ImagePath": "",
         "MessageJP": "ネル（制服）の絆イベントへ",
         "MessageKR": "네루(교복)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往寧瑠（制服）的羈絆劇情",
+        "MessageEN": "Go to Neru (School)'s Bond Story"
     }
 ]

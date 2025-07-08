@@ -3,8 +3,8 @@
         "CharacterId": 10110,
         "MessageJP": "セイア",
         "MessageKR": "세이아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "聖亞",
+        "MessageEN": "Seia"
     },
     {
         "MessageId": 101090010,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Hey Sensei"
     },
     {
         "MessageId": 101100020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "手すきの時で構わない",
         "MessageKR": "혹시 괜찮으시다면, 조만간 트리니티에 방문해 주실 수 있을까요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果可以的話，近期能來三一一趟嗎？",
+        "MessageEN": "If you don't mind, could you visit Trinity soon?"
     },
     {
         "MessageId": 101100030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "トリニティに来てはもらえないだろうか",
         "MessageKR": "선생님께서 다급하지 않으신 시간대로……. 부탁드릴게요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "在老師方便的時候就行了……拜託你了",
+        "MessageEN": "Sometime when you're not busy... Please."
     },
     {
         "MessageId": 101100040,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "もちろん大丈夫だけど……どうしたの？",
         "MessageKR": "당연히 괜찮지만……. 왜 그래?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然沒問題……不過怎麼了嗎？",
+        "MessageEN": "Of course I can...but what's going on?"
     },
     {
         "MessageId": 101100040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "何かあったの？ ",
         "MessageKR": "세이아? 무슨 일 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "聖亞？發生什麼事了嗎？",
+        "MessageEN": "Seia? Did something happen?"
     },
     {
         "MessageId": 101100050,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "……済まないが",
         "MessageKR": "……죄송합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……抱歉",
+        "MessageEN": "...Forgive me."
     },
     {
         "MessageId": 101100051,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "モモトークで話すには適さない話題なんだ",
         "MessageKR": "그 부분은 지금은 말씀드릴 수 없어요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在還不能說",
+        "MessageEN": "I can't tell you right now."
     },
     {
         "MessageId": 101100060,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "できれば内密に願いたい",
         "MessageKR": "또, 다른 분들께는 비밀로 부탁드립니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "另外，這件事還請對其他人保密",
+        "MessageEN": "Also, please keep this a secret from others too."
     },
     {
         "MessageId": 101100061,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "待っているよ",
         "MessageKR": "오실 때를 기다리겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我會等著你的",
+        "MessageEN": "I'll be waiting for you then."
     },
     {
         "MessageId": 101090077,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "セイアの絆イベントへ",
         "MessageKR": "세이아의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往聖亞的羈絆劇情",
+        "MessageEN": "Go to Seia's Bond Story"
     },
     {
         "MessageId": 101100070,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "無事に帰ったころかな",
         "MessageKR": "깨어나고 보니 먼저 돌아가셨군요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我醒來之後，發現你已經先離開了",
+        "MessageEN": "When I woke up, I saw you'd left."
     },
     {
         "MessageId": 101100080,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "呼びつけておいて、何のお構いもできず",
         "MessageKR": "오실 때도 인사드리지 못했는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "來的時候沒能好好打招呼",
+        "MessageEN": "I couldn't greet you when you got here,"
     },
     {
         "MessageId": 101100081,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "申し訳ない",
         "MessageKR": "가실 때도 자는 모습으로 보내다니, 죄송할 따름입니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就連走的時候都還在睡覺，實在抱歉",
+        "MessageEN": "and then I was sleeping when you took off. I'm sorry about that."
     },
     {
         "MessageId": 101100090,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "気にしないで",
         "MessageKR": "간만에 푹 자서 좋았어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我難得舒服地睡了一覺",
+        "MessageEN": "It was nice getting a decent sleep, though."
     },
     {
         "MessageId": 101100090,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "おかげで私も、久々にぐっすり眠れたよ",
         "MessageKR": "침대가 굉장히 편했어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "床睡起來非常舒服哦",
+        "MessageEN": "The bed's very comfortable."
     },
     {
         "MessageId": 101100100,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "そうか",
         "MessageKR": "네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "I see."
     },
     {
         "MessageId": 101100110,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "ではまた",
         "MessageKR": "그럼 다음에 또",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼下次",
+        "MessageEN": "So I'll find a different excuse"
     },
     {
         "MessageId": 101100111,
@@ -231,7 +231,7 @@
         "ImagePath": "",
         "MessageJP": "次は違う口実を用意するとしよう",
         "MessageKR": "다른 변명으로, 뵙겠습니다. 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "再以其他藉口見面吧，老師",
+        "MessageEN": "to see you next time, Sensei."
     }
 ]

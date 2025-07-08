@@ -3,8 +3,8 @@
         "CharacterId": 10112,
         "MessageJP": "アスナ（制服）",
         "MessageKR": "아스나(교복)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "明日奈（制服）",
+        "MessageEN": "Asuna (School)"
     },
     {
         "MessageId": 101110010,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "ご主人様は、よくバス乗るの？",
         "MessageKR": "주인님은 버스 자주 타?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "主人常搭公車嗎？",
+        "MessageEN": "Do you ride the bus often, Master?"
     },
     {
         "MessageId": 101120020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "まあまあかな？",
         "MessageKR": "그럭저럭?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "普普通通吧？",
+        "MessageEN": "Sometimes?"
     },
     {
         "MessageId": 101120030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "私も！",
         "MessageKR": "나도나도",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我也是我也是",
+        "MessageEN": "Me too, me too."
     },
     {
         "MessageId": 101120031,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "登下校の時に乗ってるんだけど",
         "MessageKR": "등교할 때랑 하교할 때마다 타는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "上學和放學的時候都會搭",
+        "MessageEN": "I ride the bus to school and I take it back home."
     },
     {
         "MessageId": 101120032,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "いつも人が多いんだよね～",
         "MessageKR": "항상 사람이 많아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "車上的人總是很多",
+        "MessageEN": "And there are always so many people."
     },
     {
         "MessageId": 101120040,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "たしかに、その時間帯は……",
         "MessageKR": "그렇지 아무래도……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "畢竟……",
+        "MessageEN": "Yeah. I suppose..."
     },
     {
         "MessageId": 101120040,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "仕方ないかもね……",
         "MessageKR": "그 시간대라면……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那種時段通常都……",
+        "MessageEN": "If it's around that time..."
     },
     {
         "MessageId": 101120050,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "うんうん",
         "MessageKR": "응응",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯嗯",
+        "MessageEN": "Yeah yeah."
     },
     {
         "MessageId": 101120051,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "やっぱり大変だよね？",
         "MessageKR": "역시 주인님도 아는구나 그 느낌",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "果然主人也懂那種感覺",
+        "MessageEN": "So you know that feeling too, Master."
     },
     {
         "MessageId": 101110067,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "アスナ（制服）の絆イベントへ",
         "MessageKR": "아스나(교복)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往明日奈（制服）的羈絆劇情",
+        "MessageEN": "Go to Asuna (School)'s Bond Story"
     },
     {
         "MessageId": 101120060,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "あ",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah."
     },
     {
         "MessageId": 101120070,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "さっき言い忘れちゃったんだけど",
         "MessageKR": "내릴 때 깜빡하고 말을 못 했는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下車的時候忘記說了",
+        "MessageEN": "I forgot to say this when I got off"
     },
     {
         "MessageId": 101120071,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "先生のシャツに、ファンデついちゃってたかも",
         "MessageKR": "선생님 셔츠에 내 화장품 묻었어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師的襯衫上，好像沾到我的化妝品了",
+        "MessageEN": "but my makeup got on your shirt, Sensei."
     },
     {
         "MessageId": 101120080,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "あ、本当だ",
         "MessageKR": "아, 정말이네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，真的耶",
+        "MessageEN": "Oh, you're right."
     },
     {
         "MessageId": 101120080,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "あれだけ密着してたら……",
         "MessageKR": "역시 너무 가까웠나……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "果然太靠近了嗎……",
+        "MessageEN": "Maybe I got too comfy..."
     },
     {
         "MessageId": 101120090,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "ごめんね、私のせいで",
         "MessageKR": "미안\\~ 내가 너무 기대느라",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "抱歉～是我靠太近了",
+        "MessageEN": "Sorry! I leaned on you too much."
     },
     {
         "MessageId": 101120091,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "学校が終わったら、お洗濯してあげる！",
         "MessageKR": "그거 아스나가 세탁해 줄게",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那就讓明日奈來幫你洗吧",
+        "MessageEN": "I'll straighten everything up for you."
     },
     {
         "MessageId": 101120100,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "んー",
         "MessageKR": "앗 그런데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，不過",
+        "MessageEN": "Oh, but"
     },
     {
         "MessageId": 101120101,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "それならメイド服に着替えないといけないのかな",
         "MessageKR": "그러려면 메이드복을 입어야 하는",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那樣的話就得穿女僕裝了呢",
+        "MessageEN": "I have to wear my maid uniform if I want to do that..."
     },
     {
         "MessageId": 101120110,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "制服とメイド服",
         "MessageKR": "흠",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯……",
+        "MessageEN": "Hm..."
     },
     {
         "MessageId": 101120111,
@@ -267,19 +267,19 @@
         "ImagePath": "",
         "MessageJP": "先生はどっちが好き？",
         "MessageKR": "교복이 좋아 메이드복이 좋아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "話說老師喜歡制服還是女僕裝呢？",
+        "MessageEN": "Do you prefer the school uniform or the maid uniform?"
     },
     {
         "MessageId": 101120120,
         "Flag": 2,
         "Type": 3,
         "NextId": -1,
-        "MessageType": "None",
+        "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "ど、どういう意味！？",
         "MessageKR": "무슨 의미인지 모르겠어……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我不明白你的意思……",
+        "MessageEN": "I'm not sure what you mean..."
     }
 ]

@@ -3,8 +3,8 @@
         "CharacterId": 10110,
         "MessageJP": "セイア",
         "MessageKR": "세이아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "聖亞",
+        "MessageEN": "Seia"
     },
     {
         "MessageId": 101090260,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "往々にして時間の感覚は可変するものだが……",
         "MessageKR": "벌써 저녁이라니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "已經晚上了呢",
+        "MessageEN": "It's already evening"
     },
     {
         "MessageId": 101100270,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "もう夕方なのだね",
         "MessageKR": "오늘 하루는 정말 시간이 빨리 갔군요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天的時間過得還真快",
+        "MessageEN": "Time really flew by today."
     },
     {
         "MessageId": 101100280,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "忙しかった？ ",
         "MessageKR": "일이 많았어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你的工作很多嗎？",
+        "MessageEN": "Did you have a lot of work?"
     },
     {
         "MessageId": 101100280,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "仕事が多くて大変だった？",
         "MessageKR": "바쁜 날이었어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天很忙嗎？",
+        "MessageEN": "Did you have a busy day?"
     },
     {
         "MessageId": 101100290,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "いや、今日は本を読んでいた",
         "MessageKR": "아니요. 그런 건 아니었습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不，不是那樣的",
+        "MessageEN": "No, nothing of the kind."
     },
     {
         "MessageId": 101100291,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "もし仕事だったなら、もっと長く感じていただろう",
         "MessageKR": "오히려 일할 때보다 더 빠르게 갔으니까요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "讀書的時候……",
+        "MessageEN": "In fact, time flew faster than when I would work."
     },
     {
         "MessageId": 101100300,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "読書に夢中だと……",
         "MessageKR": "책을 볼 때에는…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "時間反而比工作時過得更快",
+        "MessageEN": "When I'm reading books..."
     },
     {
         "MessageId": 101100301,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "1日が48時間でも足りなく感じてしまうね",
         "MessageKR": "정말 하루가 48시간이라도 부족할 것 같네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "感覺一天就算有48小時也不夠呢",
+        "MessageEN": "the days go by two, three times as fast."
     },
     {
         "MessageId": 101090317,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "セイアの絆イベントへ",
         "MessageKR": "세이아의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往聖亞的羈絆劇情",
+        "MessageEN": "Go to Seia's Bond Story"
     },
     {
         "MessageId": 101100310,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "今日も世話になった",
         "MessageKR": "오늘 일은 정말 감사드립니다. 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天真是感激不盡，老師",
+        "MessageEN": "Thank you so much for today, Sensei."
     },
     {
         "MessageId": 101100311,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "これからの読書はより一層楽しくなりそうだ",
         "MessageKR": "원래도 좋아하는 책인데, 즐거움이 배로 늘었군요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那原本就是我喜歡的書，現在感覺又多了一層樂趣呢",
+        "MessageEN": "I already liked the book, so it made me twice as happy."
     },
     {
         "MessageId": 101100320,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "私も楽しかったよ",
         "MessageKR": "나도 좋았어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我也很開心哦",
+        "MessageEN": "I enjoyed it too."
     },
     {
         "MessageId": 101100320,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "いつでも呼んでね",
         "MessageKR": "필요하면 언제든 말해줘.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有需要的話隨時跟我說",
+        "MessageEN": "Let me know whenever if you need me."
     },
     {
         "MessageId": 101100330,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとう",
         "MessageKR": "네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "I see."
     },
     {
         "MessageId": 101100331,
@@ -195,7 +195,7 @@
         "ImagePath": "",
         "MessageJP": "近いうちに、必ず",
         "MessageKR": "꼭 그렇게 하겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我一定會的",
+        "MessageEN": "I will."
     }
 ]

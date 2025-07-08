@@ -3,8 +3,8 @@
         "CharacterId": 10112,
         "MessageJP": "アスナ（制服）",
         "MessageKR": "아스나(교복)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "明日奈（制服）",
+        "MessageEN": "Asuna (School)"
     },
     {
         "MessageId": 101110190,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "そういえば",
         "MessageKR": "그러고 보니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "話說回來",
+        "MessageEN": "Now that I think about it..."
     },
     {
         "MessageId": 101120200,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "最近いろんなところで",
         "MessageKR": "요즘 여기저기서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "最近好像總是在各種地方",
+        "MessageEN": "I've been running into you a lot lately, Sensei"
     },
     {
         "MessageId": 101120201,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "先生と会う気がする！",
         "MessageKR": "선생님이랑 마주치는 것 같지 않아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "遇到老師呢？",
+        "MessageEN": "don't you agree?"
     },
     {
         "MessageId": 101120210,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "そうだね",
         "MessageKR": "그러게 말야",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是啊",
+        "MessageEN": "That's true."
     },
     {
         "MessageId": 101120210,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "またどこかで会えるかもね",
         "MessageKR": "어디서 마주칠지 예상이 안 돼",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "無法預測會在哪裡碰見呢",
+        "MessageEN": "I never know when I'll run into you next."
     },
     {
         "MessageId": 101120220,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "あははっ",
         "MessageKR": "아하하",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊哈哈",
+        "MessageEN": "Ahaha"
     },
     {
         "MessageId": 101120221,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "思いがけない出会いって",
         "MessageKR": "예상치 못한 만남이라",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為是意想不到的相遇",
+        "MessageEN": "An unexpected encounter..."
     },
     {
         "MessageId": 101120222,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "面白いよね！",
         "MessageKR": "더 재미있지\\~!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以更有趣了～！",
+        "MessageEN": "Those are always fun!"
     },
     {
         "MessageId": 101110227,
@@ -123,7 +123,7 @@
         "ImagePath": "",
         "MessageJP": "アスナ（制服）の絆イベントへ",
         "MessageKR": "아스나(교복)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往明日奈（制服）的羈絆劇情",
+        "MessageEN": "Go to Asuna (School)'s Bond Story"
     }
 ]
