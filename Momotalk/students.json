@@ -438,58 +438,6 @@
         "Related": null
     },
     {
-        "Id": 342,
-        "Avatar": [
-            "/api/Avatars/Kivo/Unreleased/Rei.webp",
-            "/gamekee/w_500/h_500/829/43637/2023/11/28/827199.png"
-        ],
-        "Name": {
-            "en": "Rei",
-            "jp": "レイ",
-            "kr": "레이",
-            "tw": "莉",
-            "zh": "莱依"
-        },
-        "Bio": {
-            "en": "Want strength for long hits, not cardio!",
-            "jp": "長打に強さが欲しい、カーディオ耐久ではない！",
-            "kr": "장타에 강함이 필요하지, 심폐 운동이 아니야!",
-            "tw": "想要遠距離擊球的力量，而不是心肺耐力！",
-            "zh": "想要远距离击球的力量，而不是心肺耐力！"
-        },
-        "Nickname": [
-            "Rei",
-            "丽"
-        ],
-        "School": "Millennium",
-        "Club": "Gym Training Department",
-        "Released": false,
-        "Related": null
-    },
-    {
-        "Id": 126,
-        "Avatar": [
-            "/api/Avatars/Kivo/Unreleased/Niya.webp",
-            "/api/Avatars/Fandom/Niya_Icon.png"
-        ],
-        "Name": {
-            "en": "Niya",
-            "jp": "ニヤ",
-            "kr": "니야",
-            "tw": "尼亞",
-            "zh": "尼娅"
-        },
-        "Bio": {},
-        "Nickname": [
-            "Niya",
-            "妮娅"
-        ],
-        "School": "Hyakkiyako",
-        "Club": "Onmyobu",
-        "Released": false,
-        "Related": null
-    },
-    {
         "Id": 386,
         "Avatar": [
             "/api/Avatars/Kivo/Unreleased/Niyaniya.webp",
@@ -520,35 +468,6 @@
             "Dr. Niyaniya"
         ],
         "School": "Hyakkiyako",
-        "Released": false,
-        "Related": null
-    },
-    {
-        "Id": 254,
-        "Avatar": [
-            "/api/Avatars/Kivo/Unreleased/Nagusa.webp",
-            "/api/Avatars/Fandom/Nagusa_Icon.png"
-        ],
-        "Name": {
-            "en": "Nagusa",
-            "jp": "ナグサ",
-            "kr": "나구사",
-            "tw": "名草",
-            "zh": "名草"
-        },
-        "Bio": {
-            "en": "Cosplayer, go to the ends of the earth for the perfect shot",
-            "jp": "完璧なショットのために",
-            "kr": "코스플레이어, 완벽한 촬영을 위해 끝없는 세계를 돌아다닌다",
-            "tw": "Cosplayer，鏡頭下走遍天涯海角",
-            "zh": "cosplayer、为镜头到天涯海角"
-        },
-        "Nickname": [
-            "Nagusa",
-            "白色三角形"
-        ],
-        "School": "Hyakkiyako",
-        "Club": "Hyakkayouran",
         "Released": false,
         "Related": null
     },
@@ -1033,70 +952,6 @@
             "姐贵"
         ],
         "Club": "Seven Prisoners",
-        "Released": false,
-        "Related": null
-    },
-    {
-        "Id": 365,
-        "Avatar": [
-            "/api/Avatars/Kivo/Unreleased/Hikari.webp",
-            "/api/Avatars/Fandom/Hikari_Icon.png",
-            "/gamekee/w_550/h_550/829/43637/2024/3/11/529345.png"
-        ],
-        "Name": {
-            "en": "Hikari",
-            "jp": "ヒカリ",
-            "kr": "히카리",
-            "tw": "光明",
-            "zh": "光"
-        },
-        "Bio": {
-            "en": "Construction is smooth, but administration is... Meh",
-            "jp": "工事はうまくいきましたが、管理が……ですね",
-            "kr": "공사는 잘 됐지만, 관리는... 아니라고",
-            "tw": "施工順利，不過管理嘛...哼",
-            "zh": "施工顺利，不过管理嘛...哼"
-        },
-        "Nickname": [
-            "Hikari",
-            "蜜瓜雪糕",
-            "光明",
-            "小光"
-        ],
-        "School": "Highlander",
-        "Club": "Central Control Center",
-        "Released": false,
-        "Related": null
-    },
-    {
-        "Id": 366,
-        "Avatar": [
-            "/api/Avatars/Kivo/Unreleased/Nozomi.webp",
-            "/api/Avatars/Fandom/Nozomi_Icon.png",
-            "/gamekee/w_550/h_550/829/43637/2024/3/11/736958.png"
-        ],
-        "Name": {
-            "en": "Nozomi",
-            "jp": "ノゾミ",
-            "kr": "노조미",
-            "tw": "希望",
-            "zh": "望"
-        },
-        "Bio": {
-            "en": "Pyahaha~ Don't mind don't mind. ",
-            "jp": "ぴゃはは~ 気にしない、気にしない",
-            "kr": "피아하하~ 신경 쓰지 마세요, 신경 쓰지 마세요",
-            "tw": "哈哈~ 別在意別在意",
-            "zh": "哈哈~ 别在意别在意"
-        },
-        "Nickname": [
-            "Nozomi",
-            "蜜瓜雪糕",
-            "希望",
-            "小望"
-        ],
-        "School": "Highlander",
-        "Club": "Central Control Center",
         "Released": false,
         "Related": null
     },
@@ -2706,9 +2561,7 @@
         "Id": 10009,
         "Avatar": [
             "/api/Avatars/Kivo/Released/10009.webp",
-            "/api/Avatars/Kivo/Unreleased/Izumi_New_Year.webp",
-            "/api/Avatars/Fandom/Izumi_Icon.png",
-            "/api/Avatars/Fandom/Izumi_New_Year_Icon.png"
+            "/api/Avatars/Fandom/Izumi_Icon.png"
         ],
         "Name": {
             "en": "Izumi",
@@ -2762,7 +2615,9 @@
         "Nickname": [
             "Shiroko",
             "xcw",
-            "小仓唯"
+            "小仓唯",
+            "bank",
+            "抢银行"
         ],
         "Birthday": "5/16",
         "Age": "16歳",
@@ -3274,7 +3129,8 @@
             "祖冲之",
             "优华",
             "📪",
-            "📮"
+            "📮",
+            "100kg"
         ],
         "Birthday": "3/14",
         "Age": "16歳",
@@ -3593,7 +3449,9 @@
         "Id": 23001,
         "Avatar": [
             "/api/Avatars/Kivo/Released/23001.webp",
-            "/api/Avatars/Fandom/Fuuka_Icon.png"
+            "/api/Avatars/Fandom/Fuuka_Icon.png",
+            "/api/Avatars/Kivo/Unreleased/fuuka.png",
+            "/api/Avatars/Fandom/Fuuka_Casual_Icon.png"
         ],
         "Name": {
             "en": "Fuuka",
@@ -4900,8 +4758,7 @@
         "Id": 10029,
         "Avatar": [
             "/api/Avatars/Kivo/Released/10029.webp",
-            "/api/Avatars/Fandom/Natsu_Icon.png",
-            "/api/Avatars/Fandom/Natsu_Band_Icon.png"
+            "/api/Avatars/Fandom/Natsu_Icon.png"
         ],
         "Name": {
             "en": "Natsu",
@@ -6181,12 +6038,9 @@
         "Id": 10048,
         "Avatar": [
             "/api/Avatars/Kivo/Released/10048.webp",
-            "/api/Avatars/Kivo/Unreleased/锭前 纱织_礼服.png",
             "/api/Avatars/Fandom/Saori_Icon.png",
             "/api/Avatars/Fandom/Saori_Unmask_Icon.png",
-            "/api/Avatars/Fandom/Saori_Helmet_Icon.png",
-            "/api/Avatars/Fandom/Saori_Dress_Icon.png",
-            "/api/Avatars/Gamekee/378377.png"
+            "/api/Avatars/Fandom/Saori_Helmet_Icon.png"
         ],
         "Name": {
             "en": "Saori",
@@ -9789,7 +9643,8 @@
     {
         "Id": 10113,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/10113.webp"
+            "/api/Avatars/Kivo/Released/10113.webp",
+            "/api/Avatars/Fandom/Sena_Casual_Icon.png"
         ],
         "Name": {
             "jp": "セナ（私服）",
@@ -9818,7 +9673,8 @@
     {
         "Id": 10114,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/10114.webp"
+            "/api/Avatars/Kivo/Released/10114.webp",
+            "/api/Avatars/Fandom/Juri_Part_Timer_Icon.png"
         ],
         "Name": {
             "jp": "ジュリ（アルバイト）",
@@ -9848,7 +9704,8 @@
     {
         "Id": 20043,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/20043.webp"
+            "/api/Avatars/Kivo/Released/20043.webp",
+            "/api/Avatars/Fandom/Izumi_New_Year_Icon.png"
         ],
         "Name": {
             "jp": "イズミ（正月）",
@@ -9877,7 +9734,9 @@
     {
         "Id": 10115,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/10115.webp"
+            "/api/Avatars/Kivo/Released/10115.webp",
+            "/gamekee/w_500/h_500/829/43637/2023/11/28/827199.png",
+            "/api/Avatars/Fandom/Rei_Icon.png"
         ],
         "Name": {
             "jp": "レイ",
@@ -9903,7 +9762,8 @@
     {
         "Id": 20044,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/20044.webp"
+            "/api/Avatars/Kivo/Released/20044.webp",
+            "/api/Avatars/Fandom/Sumire_Part_Timer_Icon.png"
         ],
         "Name": {
             "jp": "スミレ（アルバイト）",
@@ -9933,7 +9793,9 @@
     {
         "Id": 10116,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/10116.webp"
+            "/api/Avatars/Kivo/Released/10116.webp",
+            "/api/Avatars/Fandom/Saori_Dress_Icon.png",
+            "/api/Avatars/Gamekee/378377.png"
         ],
         "Name": {
             "jp": "サオリ（ドレス）",
@@ -9962,7 +9824,9 @@
     {
         "Id": 10117,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/10117.webp"
+            "/api/Avatars/Kivo/Released/10117.webp",
+            "/api/Avatars/Fandom/Hikari_Icon.png",
+            "/gamekee/w_550/h_550/829/43637/2024/3/11/529345.png"
         ],
         "Name": {
             "jp": "ヒカリ",
@@ -9990,7 +9854,9 @@
     {
         "Id": 10118,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/10118.webp"
+            "/api/Avatars/Kivo/Released/10118.webp",
+            "/api/Avatars/Fandom/Nozomi_Icon.png",
+            "/gamekee/w_550/h_550/829/43637/2024/3/11/736958.png"
         ],
         "Name": {
             "jp": "ノゾミ",
@@ -10018,7 +9884,8 @@
     {
         "Id": 16017,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/16017.webp"
+            "/api/Avatars/Kivo/Released/16017.webp",
+            "/api/Avatars/Fandom/Aoba_Icon.png"
         ],
         "Name": {
             "jp": "アオバ",
@@ -10044,7 +9911,8 @@
     {
         "Id": 20045,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/20045.webp"
+            "/api/Avatars/Kivo/Released/20045.webp",
+            "/api/Avatars/Fandom/Pina_Guide_Icon.png"
         ],
         "Name": {
             "jp": "フィーナ（ガイド）",
@@ -10073,7 +9941,8 @@
     {
         "Id": 10119,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/10119.webp"
+            "/api/Avatars/Kivo/Released/10119.webp",
+            "/api/Avatars/Fandom/Nagusa_Icon.png"
         ],
         "Name": {
             "jp": "ナグサ",
@@ -10100,7 +9969,8 @@
     {
         "Id": 20046,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/20046.webp"
+            "/api/Avatars/Kivo/Released/20046.webp",
+            "/api/Avatars/Fandom/Niya_Icon.png"
         ],
         "Name": {
             "jp": "ニヤ",
@@ -10113,7 +9983,8 @@
             "zh": "业务相关请随时联络副部长~"
         },
         "Nickname": [
-            "Niya"
+            "Niya",
+            "妮娅"
         ],
         "Birthday": "1/1",
         "Age": "17歳",
@@ -10126,7 +9997,8 @@
     {
         "Id": 10120,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/10120.webp"
+            "/api/Avatars/Kivo/Released/10120.webp",
+            "/api/Avatars/Fandom/Natsu_Band_Icon.png"
         ],
         "Name": {
             "jp": "ナツ（バンド）",
@@ -10155,7 +10027,8 @@
     {
         "Id": 10121,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/10121.webp"
+            "/api/Avatars/Kivo/Released/10121.webp",
+            "/api/Avatars/Fandom/Yukari_Swimsuit_Icon.png"
         ],
         "Name": {
             "jp": "ユカリ（水着）",
@@ -10185,7 +10058,8 @@
     {
         "Id": 13014,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/13014.webp"
+            "/api/Avatars/Kivo/Released/13014.webp",
+            "/api/Avatars/Fandom/Renge_Swimsuit_Icon.png"
         ],
         "Name": {
             "jp": "レンゲ（水着）",
@@ -10214,7 +10088,8 @@
     {
         "Id": 20047,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/20047.webp"
+            "/api/Avatars/Kivo/Released/20047.webp",
+            "/api/Avatars/Fandom/Kikyou_Swimsuit_Icon.png"
         ],
         "Name": {
             "jp": "キキョウ（水着）",

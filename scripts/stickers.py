@@ -30,6 +30,7 @@ FUCK_GAMEKEE_ALIAS = {
     10111: 173926,  # ネル（制服）
     20041: 173927,  # リオ
     20043: 650981,  # イズミ（正月）
+    10116: 654558,  # サオリ（ドレス）
 }
 
 # URL replacement patterns for local storage
