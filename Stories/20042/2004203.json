@@ -3,8 +3,8 @@
         "CharacterId": 20042,
         "MessageJP": "マキ（キャンプ）",
         "MessageKR": "마키(캠핑)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真紀（露營）",
+        "MessageEN": "Maki (Camp)"
     },
     {
         "MessageId": 200410250,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師～",
+        "MessageEN": "Sensei!"
     },
     {
         "MessageId": 200420260,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今週末も時間ある？",
         "MessageKR": "이번 주 주말도 시간 괜찮아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這個週末你也有空嗎？",
+        "MessageEN": "Are you free this weekend too?"
     },
     {
         "MessageId": 200420270,
@@ -50,9 +50,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "D.U.近くで有名なキャンプ場があるらしいんだ",
-        "MessageKR": "다른 게 아니라 D.U.에서 머지 않은 곳에 유명한 캠핑장이 있다고 하는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "다른 게 아니라 D.U.에서 멀지 않은 곳에 유명한 캠핑장이 있다고 하는데",
+        "MessageTW": "我聽說在離D.U.不遠的地方有個知名的露營區",
+        "MessageEN": "I heard of a really popular campground not far from the D.U."
     },
     {
         "MessageId": 200420271,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "良かったら一緒に行かない？",
         "MessageKR": "괜찮다면 같이 캠핑이나 다녀오지 않을래?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果可以的話，要不要一起去露營？",
+        "MessageEN": "So would you like to go camping together?"
     },
     {
         "MessageId": 200420280,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "……そのキャンプ場で、限定モンスターが出るとか？",
         "MessageKR": "…그 캠핑장에서 게임과 관련된 아이템을 받을 수 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……在那個露營區能獲得遊戲相關的道具嗎？",
+        "MessageEN": "...Is there a game-related item that you can acquire at said campground?"
     },
     {
         "MessageId": 200420290,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "え、どうして分かったの？",
         "MessageKR": "앗, 어떻게 알았어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦，你怎麼會知道？",
+        "MessageEN": "Ah. How'd you know?"
     },
     {
         "MessageId": 200420291,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "もしかして、先生もARムシクイーンやってるの？",
         "MessageKR": "혹시 선생님도 무시퀸 AR 시작한 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "難道老師也開始玩甲蟲皇后AR了嗎？",
+        "MessageEN": "Are you playing Mushiqueen AR too, Sensei?"
     },
     {
         "MessageId": 200420300,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "マキがキャンプの話をするとしたら……",
         "MessageKR": "아니, 마키가 갑자기 캠핑을 권한다면…",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒有，只是真紀居然突然會邀請我去露營……",
+        "MessageEN": "No, I just figured that if you're bringing up camping..."
     },
     {
         "MessageId": 200420300,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "ゲームに関することかなって思ったんだ",
         "MessageKR": "게임과 관련된 일일 거라고 생각해서.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "感覺十之八九跟遊戲有關",
+        "MessageEN": "...it's probably game-related."
     },
     {
         "MessageId": 200420310,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "あっ、ひどい！",
         "MessageKR": "그런 편견을 가지고 있었다니, 너무해!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼對我有這種偏見呢，好過分！",
+        "MessageEN": "It's so mean of you to stereotype me like that!"
     },
     {
         "MessageId": 200420311,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "……まあ、そうなんだけど",
         "MessageKR": "…틀린 말은 아니었지만.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……不過其實也沒說錯啦",
+        "MessageEN": "...You're not wrong, though."
     },
     {
         "MessageId": 200420320,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "それで、今週末は空いてる？",
         "MessageKR": "그래서 이번 주말에 시간 내 줄 수 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以這個週末能麻煩你空出時間嗎？",
+        "MessageEN": "Anyways, can you make time for me this weekend?"
     },
     {
         "MessageId": 200420330,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "一人だと危ないかもしれないし……",
         "MessageKR": "초보자에게 솔로 캠핑은 위험할 수 있으니까…",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為單人露營對初學者可能有點危險……",
+        "MessageEN": "Solo camping is really dangerous for beginners, after all..."
     },
     {
         "MessageId": 200420340,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "私も同行するね",
         "MessageKR": "안전을 위해서라도 나도 함께 동행할게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "為了安全起見，我也跟你一起去吧",
+        "MessageEN": "I'll join you, only for safety reasons."
     },
     {
         "MessageId": 200420350,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとう、先生！",
         "MessageKR": "고마워, 선생님!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝你，老師！",
+        "MessageEN": "Thank you, Sensei!"
     },
     {
         "MessageId": 200410357,
@@ -207,7 +207,7 @@
         "ImagePath": "",
         "MessageJP": "マキ（キャンプ）の絆イベントへ",
         "MessageKR": "마키(캠핑)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往真紀（露營）的羈絆劇情",
+        "MessageEN": "Go to Maki (Camp)'s Bond Story"
     }
 ]

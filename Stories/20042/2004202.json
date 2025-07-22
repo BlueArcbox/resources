@@ -3,8 +3,8 @@
         "CharacterId": 20042,
         "MessageJP": "マキ（キャンプ）",
         "MessageKR": "마키(캠핑)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真紀（露營）",
+        "MessageEN": "Maki (Camp)"
     },
     {
         "MessageId": 200410130,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 200420140,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今週末の予定って決まってる？",
         "MessageKR": "혹시 이번 주 주말에 시간 괜찮아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你這週末有空嗎？",
+        "MessageEN": "Are you free this weekend by any chance?"
     },
     {
         "MessageId": 200420150,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "特に予定はないけど、何かあったの？",
         "MessageKR": "응. 특별한 일정은 없는데…… 왜?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，沒有特別的安排……怎麼了嗎？",
+        "MessageEN": "I don't have anything special going on... Why?"
     },
     {
         "MessageId": 200420160,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "えっとね",
         "MessageKR": "음 그게",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就是啊",
+        "MessageEN": "Um, weeell"
     },
     {
         "MessageId": 200420170,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "近くの山に登ろうと思ったんだけど、一人だと寂しくて",
         "MessageKR": "근처의 산에 등산을 가려 했는데 혼자는 조금 심심해서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我想去附近爬山，但一個人去有點無聊",
+        "MessageEN": "I wanted to go hiking on this nearby mountain, but it'd be way too boring by myself."
     },
     {
         "MessageId": 200420171,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "良かったら、一緒に来てくれない？",
         "MessageKR": "혹시 괜찮다면 가볍게 같이 다녀오지 않을래?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以如果你沒事的話，要不要一起去？",
+        "MessageEN": "Do you think you'd be down to come with me?"
     },
     {
         "MessageId": 200420180,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "マキが……",
         "MessageKR": "마키가……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真紀居然……",
+        "MessageEN": "Maki..."
     },
     {
         "MessageId": 200420180,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "……登山を！？",
         "MessageKR": "……등산을?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……要去爬山！？",
+        "MessageEN": "...and hiking?!"
     },
     {
         "MessageId": 200420190,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "なに、その反応は……",
         "MessageKR": "왜 그런 반응을 보이는 거야",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這是什麼反應",
+        "MessageEN": "What's with that reaction?!"
     },
     {
         "MessageId": 200420191,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "前にも山で会ったことあるのに",
         "MessageKR": "전에도 종종 휴일에 밖에서 만난 적은 있었잖아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "之前假日的時候，我們不也常常在外面碰到嗎？",
+        "MessageEN": "We've met up outdoors before, haven't we?!"
     },
     {
         "MessageId": 200420200,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "ごめんごめん、でも……",
         "MessageKR": "미안, 미안. 하지만……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "抱歉抱歉。只是……",
+        "MessageEN": "Sorry, sorry. It's just that..."
     },
     {
         "MessageId": 200420210,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "電子機器とかグラフィティが関係ないのに",
         "MessageKR": "전자기기나 그래피티와 관련된 일도 아닌데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這好像還是真紀第一次約我出去",
+        "MessageEN": "It feels like this is your first time asking me to go outside."
     },
     {
         "MessageId": 200420210,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "マキから誘ってくれるなんて珍しいような",
         "MessageKR": "마키가 밖에 나가자고 한 건 처음인 것 같아서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "而且還是因為電子設備和塗鴉無關的事",
+        "MessageEN": "You only ever want to go graffiti or get electronics."
     },
     {
         "MessageId": 200420220,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "うーん",
         "MessageKR": ";;",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "QAQ",
+        "MessageEN": "…"
     },
     {
         "MessageId": 200420230,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "それはそうかも……",
         "MessageKR": "그건 그렇긴 하지만",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "確實是那樣沒錯",
+        "MessageEN": "Fine, I guess that's true, but still...!"
     },
     {
         "MessageId": 200420240,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "とにかく、オッケーってことで良いでしょ？",
         "MessageKR": "여하튼 시간은 괜찮은 거지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總之你有時間對吧？",
+        "MessageEN": "Anyways, you have time, right?"
     },
     {
         "MessageId": 200420241,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "じゃあ、また週末ね！",
         "MessageKR": "그럼 주말에 보자, 선생님!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那就週末見囉，老師！",
+        "MessageEN": "I'll see you this weekend, Sensei!"
     },
     {
         "MessageId": 200410247,
@@ -231,7 +231,7 @@
         "ImagePath": "",
         "MessageJP": "マキ（キャンプ）の絆イベントへ",
         "MessageKR": "마키(캠핑)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往真紀（露營）的羈絆劇情",
+        "MessageEN": "Go to Maki (Camp)'s Bond Story"
     }
 ]

@@ -3,8 +3,8 @@
         "CharacterId": 20042,
         "MessageJP": "マキ（キャンプ）",
         "MessageKR": "마키(캠핑)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真紀（露營）",
+        "MessageEN": "Maki (Camp)"
     },
     {
         "MessageId": 200410010,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、聞いて",
         "MessageKR": "선생님, 내 말 좀 들어봐.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，你聽我說",
+        "MessageEN": "Listen to me, Sensei."
     },
     {
         "MessageId": 200420020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "どう考えてもひどくない？",
         "MessageKR": "아무리 생각해도 너무하다니까, 정말!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這實在是，不管怎麼想都太過分了！",
+        "MessageEN": "No matter how I look at it, this is too much!"
     },
     {
         "MessageId": 200420030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "どうしたの？",
         "MessageKR": "무슨 일이야, 마키?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "發生什麼事了嗎，真紀？",
+        "MessageEN": "What's going on, Maki?"
     },
     {
         "MessageId": 200420040,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "先生もスタディーエリアの広さは知ってるでしょ",
         "MessageKR": "선생님도 밀레니엄에 자주 오니 우리 학습관이 얼마나 넓은지는 알고 있잖아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師常來千年，應該知道我們的研究區域有多大吧",
+        "MessageEN": "You've been to Millennium a lot, Sensei! You've seen how big our study center is!"
     },
     {
         "MessageId": 200420050,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "あそこの落ち葉を一人で掃除しろって",
         "MessageKR": "그런데 세미나에서 그 넓은 학습관에 떨어진 낙엽들을",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可是研討會卻要我一個人在這麼大的研究區域",
+        "MessageEN": "Seminar's making me sweep up all the fallen leaves"
     },
     {
         "MessageId": 200420051,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "セミナーに言われたの！",
         "MessageKR": "나 혼자서 치우라는 거야!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "把落葉全部清掉！",
+        "MessageEN": "in that giant study center, all by myself!"
     },
     {
         "MessageId": 200420060,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "いくら、私たちを目の敵にしてるからってひどいと思わない？",
         "MessageKR": "아무리 베리타스가 세미나에 미운털이 자주 박혔다고는 하지만, 이건 너무한 거 아니야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然我也聽說過貝里塔斯不受研討會的歡迎，但這也太過分了吧？",
+        "MessageEN": "I get that Seminar isn't Veritas' biggest fan, but isn't that way over the top?"
     },
     {
         "MessageId": 200420070,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "たしかに一人だと大変だね……",
         "MessageKR": "확실히 마키 혼자 하기에는 어려운 일이긴 한데…",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要真紀一個人做，確實是有點強人所難……",
+        "MessageEN": "They're making you do such a difficult task by yourself, Maki?"
     },
     {
         "MessageId": 200420080,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "いきなり掃除をするよう言われたの？",
         "MessageKR": "갑자기 아무런 전조도 없이 낙엽 청소를 시킨 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼會突然要你去清理落葉呢？",
+        "MessageEN": "They told you to do this for no reason?"
     },
     {
         "MessageId": 200420090,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "実は……",
         "MessageKR": "음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔嗯",
+        "MessageEN": "Um..."
     },
     {
         "MessageId": 200420100,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "ミレニアムのモノレールにグラフィティを描いたら",
         "MessageKR": "사실 세미나에 불려 가기 전에",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "其實在被叫去研討會之前",
+        "MessageEN": "Weeell, before Seminar assigned me here..."
     },
     {
         "MessageId": 200420101,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと怒られて……",
         "MessageKR": "학원 모노레일에 그린 그래피티 때문에 살짝 잔소리를 듣긴 했는데……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我因為在學園的單軌列車上塗鴉，所以被念了一下……",
+        "MessageEN": "...I did get in a tiny bit of trouble for graffiting the school's monorails."
     },
     {
         "MessageId": 200420110,
@@ -170,9 +170,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "もしかして、それのせいかな？",
-        "MessageKR": "설마 그것 때문이려구",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "설마 그것 때문이려구 ",
+        "MessageTW": "應該跟這件事沒關係吧",
+        "MessageEN": "I doubt that's the reason though. "
     },
     {
         "MessageId": 200420120,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "そうだと思うよ……",
         "MessageKR": "그것 때문인 것 같은데……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "八成就是因為這件事吧……",
+        "MessageEN": "I think that's exactly the reason..."
     },
     {
         "MessageId": 200410127,
@@ -195,7 +195,7 @@
         "ImagePath": "",
         "MessageJP": "マキ（キャンプ）の絆イベントへ",
         "MessageKR": "마키(캠핑)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往真紀（露營）的羈絆劇情",
+        "MessageEN": "Go to Maki (Camp)'s Bond Story"
     }
 ]

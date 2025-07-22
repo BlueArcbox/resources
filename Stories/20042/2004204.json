@@ -3,8 +3,8 @@
         "CharacterId": 20042,
         "MessageJP": "マキ（キャンプ）",
         "MessageKR": "마키(캠핑)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真紀（露營）",
+        "MessageEN": "Maki (Camp)"
     },
     {
         "MessageId": 200410360,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "今年もそろそろ終わっちゃうね",
         "MessageKR": "그러고 보니 올해도 거의 다 끝났네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "話說今年也快結束了呢",
+        "MessageEN": "Now that I think about it, this year's almost over."
     },
     {
         "MessageId": 200420370,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "やりたいことがいっぱいあったはずなのに",
         "MessageKR": "뭔가 하고 싶었던 게 잔뜩 있었던 것 같은데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "明明還有很多事情想做的說",
+        "MessageEN": "It still feels like there were lots of things I wanted to do."
     },
     {
         "MessageId": 200420371,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "あっという間の一年だったよ",
         "MessageKR": "시간이 너무 빠른 것 같아\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "時間也過得太快了吧～",
+        "MessageEN": "Time just flies by!"
     },
     {
         "MessageId": 200420380,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "本当にね……",
         "MessageKR": "동감이야…",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我也有同感……",
+        "MessageEN": "I agree..."
     },
     {
         "MessageId": 200420380,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "今年中に終わらせなくちゃいけない仕事が……",
         "MessageKR": "올해의 일이 아직 잔뜩 남아 있는데…",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今年還有好多事沒完成……",
+        "MessageEN": "There's still so much work left to do this year..."
     },
     {
         "MessageId": 200420390,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "そういえば、セミナーも忙しそうにしてたような",
         "MessageKR": "그러고 보니 세미나도 올해의 업무를 정리하느라 정신이 없어 보이던데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這麼說來，研討會好像也正忙著整理今年的工作",
+        "MessageEN": "Now that I think about it, Seminar was super-busy taking care of year-end stuff."
     },
     {
         "MessageId": 200420391,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "先生、あたしにも何か手伝わせてよ！",
         "MessageKR": "샬레는 어때? 혹시 도와줄 거 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "夏萊那邊還好嗎？需不需要幫忙？",
+        "MessageEN": "How about Schale? Is there anything I can help with?"
     },
     {
         "MessageId": 200420400,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "じゃあ、次の当番で領収書の整理をお願いしようかな",
         "MessageKR": "그럼 다음 당번 때 영수증 정리를 도와줄 수 있을까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那下次當值日生的時候，可以幫我整理收據嗎？",
+        "MessageEN": "Can you help me sort receipts during your next Student Rep shift?"
     },
     {
         "MessageId": 200420400,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "領収書の整理がまったく進んでないんだよね……",
         "MessageKR": "연말 정산에 필요한 영수증 정리가 아직이라.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "年底要結算的收據，我到現在都還沒整理完",
+        "MessageEN": "There are still receipts to sort for year-end settlement."
     },
     {
         "MessageId": 200420410,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "分かった、やってみるね",
         "MessageKR": "알겠어. 다음에 가면 도와줄게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "知道了，下次我去會幫忙的",
+        "MessageEN": "Okay. I'll help you the next time I'm the Student Rep."
     },
     {
         "MessageId": 200420420,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "……あれ？",
         "MessageKR": "응?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯？",
+        "MessageEN": "Huh?"
     },
     {
         "MessageId": 200420421,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "その締切、今日までじゃなかった？",
         "MessageKR": "그러고 보니 샬레의 영수증 정리 마감일은 오늘까지 아니었어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "話說，夏萊的收據結算截止日期不是今天嗎？",
+        "MessageEN": "Thinking about it, isn't Schale's expense deadline today?"
     },
     {
         "MessageId": 200420430,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "次の当番じゃ間に合わないような……",
         "MessageKR": "그런데 다음 당번 때 정리한다니…",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你怎麼說下次當值日生的時候再整理……",
+        "MessageEN": "But if you wait for the next time I'm on duty..."
     },
     {
         "MessageId": 200420440,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "これ、ユウカ先輩は知ってるの？",
         "MessageKR": "혹시 유우카 선배는 그 사실 알고 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這件事情，優香前輩他知道嗎？",
+        "MessageEN": "Does Yuuka know about this?"
     },
     {
         "MessageId": 200420450,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "……",
         "MessageKR": "…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……",
+        "MessageEN": "..."
     },
     {
         "MessageId": 200420460,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "内緒にしてくれないかな……？",
         "MessageKR": "비밀로 해주면 안 될까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "能幫我保密嗎？",
+        "MessageEN": "Can you keep it a secret?"
     },
     {
         "MessageId": 200420470,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "ふふっ",
         "MessageKR": "후후",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵",
+        "MessageEN": "Fufu."
     },
     {
         "MessageId": 200420471,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "妖怪MAXの限定トロピカル味が飲みたくなってきたなぁ～",
         "MessageKR": "어쩐지 요괴 MAX 한정 트로피컬 맛이 먹고 싶은 기분인데\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不知道為什麼，突然好想喝妖怪MAX的限定熱帶口味哦～",
+        "MessageEN": "For some reason, I'm in a mood for limited Frenzy MAX Tropical flavor..."
     },
     {
         "MessageId": 200420480,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "……当番の日までに用意しておくね",
         "MessageKR": "…다음 당번 때까지 준비해 두겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……下次當值日生之前，我會幫你準備好的",
+        "MessageEN": "...I'll have it ready by your next Student Rep shift."
     },
     {
         "MessageId": 200410487,
@@ -255,7 +255,7 @@
         "ImagePath": "",
         "MessageJP": "マキ（キャンプ）の絆イベントへ",
         "MessageKR": "마키(캠핑)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往真紀（露營）的羈絆劇情",
+        "MessageEN": "Go to Maki (Camp)'s Bond Story"
     }
 ]

@@ -9617,13 +9617,17 @@
             "/api/Avatars/Fandom/Maki_Camp_Icon.png"
         ],
         "Name": {
+            "en": "Maki (Camp)",
             "jp": "マキ（キャンプ）",
             "kr": "마키(캠핑)",
+            "tw": "真紀（露營）",
             "zh": "真纪（露营）"
         },
         "Bio": {
+            "en": "I'm Cold and Booored",
             "jp": "ネットがないのは嫌！",
             "kr": "춥고 심심해~",
+            "tw": "好冷好無聊～",
             "zh": "没有网真糟糕！"
         },
         "Nickname": [

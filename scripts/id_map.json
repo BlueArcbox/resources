@@ -1800,6 +1800,7 @@
     },
     "10116": {
         "kivo_id": 356,
+        "gamekee_id": 654558,
         "avatar": "https://static.kivo.wiki/images/students/锭前 纱织/礼服/Student_Portrait_CH0259_Collection.png",
         "momotalk": "这、这是工作需要所以......！",
         "name_en": "Saori",
@@ -1808,7 +1809,7 @@
         "nicknames": [],
         "sticker_download_flag": [
             true,
-            false
+            true
         ]
     },
     "10117": {
