@@ -1892,6 +1892,47 @@
             true
         ]
     },
+    "10122": {
+        "kivo_id": 545,
+        "avatar": "https://static.kivo.wiki/images/students/圣园 未花/泳装/Student_Portrait_CH0294_Collection.png",
+        "momotalk": "",
+        "name_en": "Mika",
+        "name_jp": "ミカ（水着）",
+        "name_zh": "未花（泳装）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
+    "10123": {
+        "kivo_id": 543,
+        "gamekee_id": 671018,
+        "avatar": "https://static.kivo.wiki/images/students/百合园 圣娅/泳装/Student_Portrait_CH0295_Collection.png",
+        "momotalk": "是时候从童话中醒来了",
+        "name_en": "Seia",
+        "name_jp": "セイア（水着）",
+        "name_zh": "圣娅（泳装）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10124": {
+        "kivo_id": 541,
+        "gamekee_id": 671015,
+        "avatar": "https://static.kivo.wiki/images/students/羽川 莲见/泳装/Student_Portrait_CH0291_Collection.png",
+        "momotalk": "业务相关的联络，请通过momotalk。",
+        "name_en": "Hasumi",
+        "name_jp": "ハスミ（水着）",
+        "name_zh": "莲见（泳装）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
     "13000": {
         "kivo_id": 24,
         "gamekee_id": 66752,
@@ -3130,6 +3171,19 @@
             true
         ]
     },
+    "20048": {
+        "kivo_id": 544,
+        "avatar": "https://static.kivo.wiki/images/students/桐藤 渚/泳装/Student_Portrait_CH0293_Collection.png",
+        "momotalk": "",
+        "name_en": "Nagisa",
+        "name_jp": "ナギサ（水着）",
+        "name_zh": "渚（泳装）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
     "23000": {
         "kivo_id": 10,
         "gamekee_id": 66274,
@@ -3493,6 +3547,23 @@
         "name_jp": "カリン（制服）",
         "name_zh": "花凛（校服）",
         "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "26015": {
+        "kivo_id": 542,
+        "gamekee_id": 671014,
+        "avatar": "https://static.kivo.wiki/images/students/仲正 一花/泳装/Student_Portrait_CH0292_Collection.png",
+        "momotalk": "出差执行任务中！",
+        "name_en": "Ichika",
+        "name_jp": "イチカ（水着）",
+        "name_zh": "一花（泳装）",
+        "nicknames": [
+            "大号杂鱼酱",
+            "水一花"
+        ],
         "sticker_download_flag": [
             true,
             true

@@ -10118,5 +10118,152 @@
             "ItemId": 10083,
             "ItemType": "水着"
         }
+    },
+    {
+        "Id": 10123,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10123.webp"
+        ],
+        "Name": {
+            "jp": "セイア（水着）",
+            "kr": "세이아(수영복)",
+            "zh": "圣娅（泳装）"
+        },
+        "Bio": {
+            "jp": "おとぎ話から目覚める時がきた",
+            "kr": "동화 속에서 갓 깨어나려는 우리들의",
+            "zh": "是时候从童话中醒来了"
+        },
+        "Nickname": [
+            "Seia"
+        ],
+        "Birthday": "9/29",
+        "Age": "17歳",
+        "School": "Trinity",
+        "Club": "TeaParty",
+        "Star": 3,
+        "Released": true,
+        "Related": {
+            "ItemId": 10110,
+            "ItemType": "水着"
+        }
+    },
+    {
+        "Id": 10124,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10124.webp"
+        ],
+        "Name": {
+            "jp": "ハスミ（水着）",
+            "kr": "하스미(수영복)",
+            "zh": "莲见（泳装）"
+        },
+        "Bio": {
+            "jp": "業務関連のご連絡は、モモトークでお願いします。",
+            "kr": "업무 관련은 아무 때나 모모톡 부탁드립니다.",
+            "zh": "业务相关的联络，请通过momotalk。"
+        },
+        "Nickname": [
+            "Hasumi"
+        ],
+        "Birthday": "12/12",
+        "Age": "17歳",
+        "School": "Trinity",
+        "Club": "Justice",
+        "Star": 3,
+        "Released": true,
+        "Related": {
+            "ItemId": 13003,
+            "ItemType": "水着"
+        }
+    },
+    {
+        "Id": 26015,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/26015.webp"
+        ],
+        "Name": {
+            "jp": "イチカ（水着）",
+            "kr": "이치카(수영복)",
+            "zh": "一花（泳装）"
+        },
+        "Bio": {
+            "jp": "任務で出張中っす！",
+            "kr": "업무차 출장 중입니다!",
+            "zh": "出差执行任务中！"
+        },
+        "Nickname": [
+            "Ichika",
+            "水一花",
+            "大号杂鱼酱"
+        ],
+        "Birthday": "11/11",
+        "Age": "16歳",
+        "School": "Trinity",
+        "Club": "Justice",
+        "Star": 1,
+        "Released": true,
+        "Related": {
+            "ItemId": 10077,
+            "ItemType": "水着"
+        }
+    },
+    {
+        "Id": 10122,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10122.webp"
+        ],
+        "Name": {
+            "jp": "ミカ（水着）",
+            "kr": "미카(수영복)",
+            "zh": "未花（泳装）"
+        },
+        "Bio": {
+            "jp": "一緒に泳いでくれる人募集！",
+            "kr": "같이 수영할 사람 모집 중!",
+            "zh": ""
+        },
+        "Nickname": [
+            "Mika"
+        ],
+        "Birthday": "5/8",
+        "Age": "17歳",
+        "School": "Trinity",
+        "Club": "TeaParty",
+        "Star": 3,
+        "Released": true,
+        "Related": {
+            "ItemId": 10059,
+            "ItemType": "水着"
+        }
+    },
+    {
+        "Id": 20048,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/20048.webp"
+        ],
+        "Name": {
+            "jp": "ナギサ（水着）",
+            "kr": "나기사(수영복)",
+            "zh": "渚（泳装）"
+        },
+        "Bio": {
+            "jp": "業務に関する連絡はセイアさんにお願いします。",
+            "kr": "당분간 업무 관련 문의는 세이아 씨에게로 부탁드립니다.",
+            "zh": ""
+        },
+        "Nickname": [
+            "Nagisa"
+        ],
+        "Birthday": "7/4",
+        "Age": "17歳",
+        "School": "Trinity",
+        "Club": "TeaParty",
+        "Star": 3,
+        "Released": true,
+        "Related": {
+            "ItemId": 20024,
+            "ItemType": "水着"
+        }
     }
 ]
