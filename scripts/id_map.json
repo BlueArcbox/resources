@@ -1894,6 +1894,7 @@
     },
     "10122": {
         "kivo_id": 545,
+        "gamekee_id": 671319,
         "avatar": "https://static.kivo.wiki/images/students/圣园 未花/泳装/Student_Portrait_CH0294_Collection.png",
         "momotalk": "",
         "name_en": "Mika",
@@ -1902,7 +1903,7 @@
         "nicknames": [],
         "sticker_download_flag": [
             true,
-            false
+            true
         ]
     },
     "10123": {
@@ -3173,6 +3174,7 @@
     },
     "20048": {
         "kivo_id": 544,
+        "gamekee_id": 671362,
         "avatar": "https://static.kivo.wiki/images/students/桐藤 渚/泳装/Student_Portrait_CH0293_Collection.png",
         "momotalk": "",
         "name_en": "Nagisa",
@@ -3181,7 +3183,7 @@
         "nicknames": [],
         "sticker_download_flag": [
             true,
-            false
+            true
         ]
     },
     "23000": {
