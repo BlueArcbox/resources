@@ -3,8 +3,8 @@
         "CharacterId": 10114,
         "MessageJP": "ジュリ（アルバイト）",
         "MessageKR": "주리(아르바이트)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "茱莉（打工）",
+        "MessageEN": "Juri (Part-Timer)"
     },
     {
         "MessageId": 101130010,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "こんにちは、先生",
         "MessageKR": "안녕하세요. 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你好，老師",
+        "MessageEN": "Hello, Sensei."
     },
     {
         "MessageId": 101140020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "私、アルバイトを始めたんです！",
         "MessageKR": "저, 아르바이트를 시작했어요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我，開始打工了！",
+        "MessageEN": "I started working part time!"
     },
     {
         "MessageId": 101140030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "何のバイト？",
         "MessageKR": "아르바이트? 어떤 일인데?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "打工？是什麼樣的工作？",
+        "MessageEN": "Part time? Doing what?"
     },
     {
         "MessageId": 101140040,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "近くのカフェのホール担当になりました",
         "MessageKR": "근처 카페에서, 웨이트리스를 해 보기로 했거든요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我決定在附近的咖啡廳嘗試當服務生",
+        "MessageEN": "I decided to try doing waitress work at a nearby cafe."
     },
     {
         "MessageId": 101140050,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "その……先生",
         "MessageKR": "저, 선생님?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個，老師",
+        "MessageEN": "Um, Sensei?"
     },
     {
         "MessageId": 101140051,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "もし、よろしければ……",
         "MessageKR": "혹시 괜찮으시면…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果可以的話……",
+        "MessageEN": "If you don't mind..."
     },
     {
         "MessageId": 101140060,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ちょうど気分転換がしたかったんだ",
         "MessageKR": "참으로 우연찮게도 지금 이 순간.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真巧，就在這一瞬間……",
+        "MessageEN": "What a coincidence. I like that cafe!"
     },
     {
         "MessageId": 101140070,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "後でお邪魔しようかな",
         "MessageKR": "카페에…… 가고 싶어졌다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我突然……很想去咖啡廳！",
+        "MessageEN": "I feel the urge to...go to a cafe!"
     },
     {
         "MessageId": 101140080,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "……！？",
         "MessageKR": "네? 그 말씀은…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？老師的意思是……",
+        "MessageEN": "What? That means..."
     },
     {
         "MessageId": 101140090,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとうございます、先生！",
         "MessageKR": "감사합니다. 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "非常謝謝你，老師",
+        "MessageEN": "Thank you, Sensei."
     },
     {
         "MessageId": 101140100,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "お待ちしておりますね",
         "MessageKR": "기다릴게요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼我等你",
+        "MessageEN": "I'll be waiting."
     },
     {
         "MessageId": 101130107,
@@ -159,7 +159,7 @@
         "ImagePath": "",
         "MessageJP": "ジュリ（アルバイト）の絆イベントへ",
         "MessageKR": "주리(아르바이트)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往茱莉（打工）的羈絆劇情",
+        "MessageEN": "Go to Juri (Part-Timer)'s Bond Story"
     }
 ]

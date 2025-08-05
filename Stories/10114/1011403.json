@@ -3,8 +3,8 @@
         "CharacterId": 10114,
         "MessageJP": "ジュリ（アルバイト）",
         "MessageKR": "주리(아르바이트)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "茱莉（打工）",
+        "MessageEN": "Juri (Part-Timer)"
     },
     {
         "MessageId": 101130220,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生！今お忙しいですか？",
         "MessageKR": "선생님! 지금 혹시 많이 바쁘신가요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師！你現在在忙嗎？",
+        "MessageEN": "Sensei! Are you busy right now?"
     },
     {
         "MessageId": 101140230,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "通販サイトから買ったおもちゃを開封してるところだよ",
         "MessageKR": "마침 장난감 택배를 풀어 보고 있었어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我正好在拆玩具的包裹",
+        "MessageEN": "I was just unboxing a toy package."
     },
     {
         "MessageId": 101140240,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "そ、そうでしたか",
         "MessageKR": "그, 그러신가요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是，是嗎？",
+        "MessageEN": "I-Is that so?"
     },
     {
         "MessageId": 101140241,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "忙しそうですね……",
         "MessageKR": "그렇다면 어떤 의미로는 매우 바쁘신 것이…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼從某種意義來說，應該算是非常忙吧……",
+        "MessageEN": "Then you must be very busy, in a way..."
     },
     {
         "MessageId": 101140250,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ううん、むしろ暇だよ",
         "MessageKR": "완전히 한가하다는 뜻이었습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是我非常有空的意思哦",
+        "MessageEN": "It meant I was very free."
     },
     {
         "MessageId": 101140260,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "そうでしたか！",
         "MessageKR": "그러시군요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原來是這樣啊！",
+        "MessageEN": "I see!"
     },
     {
         "MessageId": 101140270,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "その",
         "MessageKR": "…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……",
+        "MessageEN": "..."
     },
     {
         "MessageId": 101140271,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "저, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個，老師",
+        "MessageEN": "Um, Sensei..."
     },
     {
         "MessageId": 101140280,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "もし、よろしければ……",
         "MessageKR": "폐가 되지 않는다면, 이지만…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果不會麻煩到老師的話，那個……",
+        "MessageEN": "If you don't mind..."
     },
     {
         "MessageId": 101140290,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "私を匿っていただきたいんです！",
         "MessageKR": "저 좀 숨겨 주세요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請讓我躲一下！",
+        "MessageEN": "Please hide me somewhere!"
     },
     {
         "MessageId": 101140300,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "……え？",
         "MessageKR": "……뭐?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……咦？",
+        "MessageEN": "...What?"
     },
     {
         "MessageId": 101130307,
@@ -159,7 +159,7 @@
         "ImagePath": "",
         "MessageJP": "ジュリ（アルバイト）の絆イベントへ",
         "MessageKR": "주리(아르바이트)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往茱莉（打工）的羈絆劇情",
+        "MessageEN": "Go to Juri (Part-Timer)'s Bond Story"
     }
 ]

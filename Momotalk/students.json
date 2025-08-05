@@ -9651,13 +9651,17 @@
             "/api/Avatars/Fandom/Sena_Casual_Icon.png"
         ],
         "Name": {
+            "en": "Sena (Casual)",
             "jp": "セナ（私服）",
             "kr": "세나(사복)",
+            "tw": "瀬奈（私服）",
             "zh": "濑名（私服）"
         },
         "Bio": {
+            "en": "I'm off today.",
             "jp": "今日はオフの日です。",
             "kr": "오늘은 오프입니다.",
+            "tw": "今天是休假日",
             "zh": "今日休息。"
         },
         "Nickname": [
@@ -9681,13 +9685,17 @@
             "/api/Avatars/Fandom/Juri_Part_Timer_Icon.png"
         ],
         "Name": {
+            "en": "Juri (Part-Timer)",
             "jp": "ジュリ（アルバイト）",
             "kr": "주리(아르바이트)",
+            "tw": "茱莉（打工）",
             "zh": "朱莉（打工）"
         },
         "Bio": {
+            "en": "Practicing cooking even at my part-time job!",
             "jp": "料理の練習、頑張ります！",
             "kr": "아르바이트 중에도 요리 연습!",
+            "tw": "打工中也要繼續料理練習！",
             "zh": "料理练习，加油！"
         },
         "Nickname": [

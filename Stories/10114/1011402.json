@@ -3,8 +3,8 @@
         "CharacterId": 10114,
         "MessageJP": "ジュリ（アルバイト）",
         "MessageKR": "주리(아르바이트)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "茱莉（打工）",
+        "MessageEN": "Juri (Part-Timer)"
     },
     {
         "MessageId": 101130110,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 101140120,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "せんせえ……",
         "MessageKR": "선생니임…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師……",
+        "MessageEN": "Senseiii..."
     },
     {
         "MessageId": 101140130,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ジュリ、大丈夫？",
         "MessageKR": "주리? 괜찮아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "茱莉？你還好嗎？",
+        "MessageEN": "Juri? Are you okay?"
     },
     {
         "MessageId": 101140140,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "昨日もよく眠れませんでした……",
         "MessageKR": "잠을 제대로 못 잤어요…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我沒有睡好……",
+        "MessageEN": "I didn't get a good night's sleep..."
     },
     {
         "MessageId": 101140150,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "いよいよウェイトレス選抜大会が来たと思うと……",
         "MessageKR": "오늘이 웨이트리스 선발 대회라는 걸 생각했더니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "一想到今天是服務生選拔大會",
+        "MessageEN": "When I remembered that the waitress competition was today,"
     },
     {
         "MessageId": 101140160,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "緊張してしまい……",
         "MessageKR": "너무 긴장이 되어서…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我就緊張得不得了……",
+        "MessageEN": "I got too nervous..."
     },
     {
         "MessageId": 101140170,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "もしミスでもしたら……どうしましょう？",
         "MessageKR": "제가 잘 해내지 못하면…… 어떡하죠?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要是我表現不好的話……該怎麼辦？",
+        "MessageEN": "What if...I don't do so well?"
     },
     {
         "MessageId": 101140180,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "今は結果を気にしないでおこう",
         "MessageKR": "결과에 너무 신경 쓰지 말자…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "先別太在意結果……",
+        "MessageEN": "Let's not worry too much about the results..."
     },
     {
         "MessageId": 101140180,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "もしうまくいかなくても、悔いは残さないようにね",
         "MessageKR": "잘 안돼도 좋으니까, 후회만 남기지 말자.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不順利也沒關係，重點是不要留下遺憾哦",
+        "MessageEN": "It's fine even if it doesn't work out, do your best and you'll have no regrets."
     },
     {
         "MessageId": 101140190,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "はい……頑張ってみます",
         "MessageKR": "네…… 노력해 볼게요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是……我會努力的",
+        "MessageEN": "Yes... I'll try."
     },
     {
         "MessageId": 101140200,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "その、もしもの時は……",
         "MessageKR": "혹시 뭔가 잘 안되면……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果出了什麼差錯……",
+        "MessageEN": "But if things don't work out..."
     },
     {
         "MessageId": 101140210,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "私の手を、握ってくれませんか……？",
         "MessageKR": "그때는, 제 손을 잡아 주세요…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那時候，可以握住我的手嗎……",
+        "MessageEN": "When that happens, please hold my hand..."
     },
     {
         "MessageId": 101130217,
@@ -171,7 +171,7 @@
         "ImagePath": "",
         "MessageJP": "ジュリ（アルバイト）の絆イベントへ",
         "MessageKR": "주리(아르바이트)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往茱莉（打工）的羈絆劇情",
+        "MessageEN": "Go to Juri (Part-Timer)'s Bond Story"
     }
 ]
