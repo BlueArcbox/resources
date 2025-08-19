@@ -3,8 +3,8 @@
         "CharacterId": 20043,
         "MessageJP": "イズミ（正月）",
         "MessageKR": "이즈미(새해)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "泉（正月）",
+        "MessageEN": "Izumi (New Year)"
     },
     {
         "MessageId": 200420010,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "あけましておめでとう～！",
         "MessageKR": "새해 복 많이 먹어 선생님!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "新年快樂～老師！",
+        "MessageEN": "Yummy New Year, Sensei!"
     },
     {
         "MessageId": 200430020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "あけましておめでとう、イズミ",
         "MessageKR": "응. 이즈미도 새해 복 많이 받아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，泉也新年快樂",
+        "MessageEN": "Yeah. Happy New Year to you too, Izumi."
     },
     {
         "MessageId": 200430030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "年が明けたね！",
         "MessageKR": "그래서 말인데 선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "說到這個，老師",
+        "MessageEN": "That said, Sensei."
     },
     {
         "MessageId": 200430031,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "元旦といえば……アレ！",
         "MessageKR": "새해가 되었잖아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "新年到了對吧？",
+        "MessageEN": "It's New Year's, right?"
     },
     {
         "MessageId": 200430040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "先生は、何のことだと思う？",
         "MessageKR": "새해에서 가장 중요한 건 뭘까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "說到新的一年，最重要的是什麼呢？",
+        "MessageEN": "What's the most important thing in a new year?"
     },
     {
         "MessageId": 200430050,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "イズミが言うくらいだし……食べ物？",
         "MessageKR": "이즈미는 뭐라고 생각해?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "泉覺得是什麼？",
+        "MessageEN": "What do you think, Izumi?"
     },
     {
         "MessageId": 200430060,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "せいかーい！でもでも、普通のじゃないよ？",
         "MessageKR": "그야 물론",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那當然",
+        "MessageEN": "Well of course..."
     },
     {
         "MessageId": 200430061,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "お正月にしか食べられない特別なヤツ！",
         "MessageKR": "새해를 맞이하는 새로운 맛의 음식이지!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是新年的新滋味囉！",
+        "MessageEN": "Foods with new flavors to celebrate the new year!"
     },
     {
         "MessageId": 200420067,
@@ -123,7 +123,7 @@
         "ImagePath": "",
         "MessageJP": "イズミ（正月）の絆イベントへ",
         "MessageKR": "이즈미(새해)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往泉（正月）的羈絆劇情",
+        "MessageEN": "Go to Izumi (New Year)'s Bond Story"
     }
 ]

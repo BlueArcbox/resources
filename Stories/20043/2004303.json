@@ -3,8 +3,8 @@
         "CharacterId": 20043,
         "MessageJP": "イズミ（正月）",
         "MessageKR": "이즈미(새해)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "泉（正月）",
+        "MessageEN": "Izumi (New Year)"
     },
     {
         "MessageId": 200420120,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 200430130,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "この後って時間ある？",
         "MessageKR": "오후에 시간 괜찮아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下午有空嗎？",
+        "MessageEN": "Are you free this afternoon?"
     },
     {
         "MessageId": 200430140,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "どうしたの？",
         "MessageKR": "응. 문제없는데. 왜?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，怎麼了嗎？",
+        "MessageEN": "Yeah, I should be. Why?"
     },
     {
         "MessageId": 200430150,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "この間のスペシャルおせち",
         "MessageKR": "저번에 말이지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為之前",
+        "MessageEN": "The thing is, it bothered me that"
     },
     {
         "MessageId": 200430151,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "先生はあんまり食べてなかったから気になっちゃって",
         "MessageKR": "선생님이 많이 못 먹은 게 마음에 걸려서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師都沒怎麼吃，讓我一直很在意",
+        "MessageEN": "you weren't able to enjoy lots of food last time."
     },
     {
         "MessageId": 200430160,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "え、気にしなくて大丈夫だよ！",
         "MessageKR": "에이, 신경 안 써도 된다니까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哎呀，你不必放在心上",
+        "MessageEN": "You don't have to worry about that."
     },
     {
         "MessageId": 200430170,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "気にするよ！",
         "MessageKR": "하지만 신경 쓰이는걸!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但是我很在意！",
+        "MessageEN": "But it's still bothering me!"
     },
     {
         "MessageId": 200430180,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "食べてもらいたかったし……",
         "MessageKR": "그래서 말이야",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以呢",
+        "MessageEN": "So"
     },
     {
         "MessageId": 200430181,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "だから、今日の冒険は",
         "MessageKR": "많이 고민한 끝에",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我經過深思熟慮",
+        "MessageEN": "After putting a lot of thought into it..."
     },
     {
         "MessageId": 200430182,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "とっておきのサプライズを用意したんだ！",
         "MessageKR": "조금 이것저것 준비해 봤어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "準備了一些東西",
+        "MessageEN": "I tried preparing a few things."
     },
     {
         "MessageId": 200430190,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "楽しみにしててね！",
         "MessageKR": "그러면 오후에 봐!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那我們下午見！",
+        "MessageEN": "I'll see you in the afternoon then!"
     },
     {
         "MessageId": 200420207,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "イズミ（正月）の絆イベントへ",
         "MessageKR": "이즈미(새해)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往泉（正月）的羈絆劇情",
+        "MessageEN": "Go to Izumi (New Year)'s Bond Story"
     },
     {
         "MessageId": 200430200,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "送ってくれてありがとう、先生！",
         "MessageKR": "바래다줘서 고마워, 선생님!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝老師送我回來！",
+        "MessageEN": "Thank you for escorting me, Sensei!"
     },
     {
         "MessageId": 200430210,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "どういたしまして",
         "MessageKR": "별말씀을",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不客氣",
+        "MessageEN": "Anytime."
     },
     {
         "MessageId": 200430220,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "でも、ちょっと寒くなかった？",
         "MessageKR": "그런데 조금 춥거나 하지 않았어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "話說，老師不覺得有點冷嗎？",
+        "MessageEN": "But you must've been cold out there!"
     },
     {
         "MessageId": 200430230,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "イズミと一緒だったから、全然寒くなかったよ",
         "MessageKR": "이즈미와 같이 있다 보니까, 하나도 안 추웠어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "和泉在一起，一點都不冷哦",
+        "MessageEN": "I wasn't cold at all with you around, Izumi."
     },
     {
         "MessageId": 200430240,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "私も！",
         "MessageKR": "응! 나도 그랬어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯！我也是！",
+        "MessageEN": "Same!"
     },
     {
         "MessageId": 200430241,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "不思議だよね",
         "MessageKR": "신기하지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "很神奇吧？",
+        "MessageEN": "Amazing, right?"
     },
     {
         "MessageId": 200430250,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "先生と一緒にいると、毎日が新鮮なんだ",
         "MessageKR": "선생님과 같이 있으면 모든 순간이 새로워",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "和老師在一起的每一刻都很新鮮",
+        "MessageEN": "Every moment with you feels like a fresh experience!"
     },
     {
         "MessageId": 200430251,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "新しい味に出会えた時みたい！",
         "MessageKR": "마치 새로운 맛을 찾았을 때처럼!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就像發現新滋味的時候一樣！",
+        "MessageEN": "Like when I hit on a new flavor!"
     },
     {
         "MessageId": 200430260,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "また一緒に",
         "MessageKR": "다음에 또 함께",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下次也一起",
+        "MessageEN": "Let's go on another"
     },
     {
         "MessageId": 200430261,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "美食の冒険に出かけようね！",
         "MessageKR": "미식 모험 떠나자!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "去美食冒險吧！",
+        "MessageEN": "dining adventure soon!"
     },
     {
         "MessageId": 200430270,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "できれば普通の冒険がいいかな……",
         "MessageKR": "나는 적당한 모험이 좋아……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我可能喜歡安全一點的冒險……",
+        "MessageEN": "I prefer regular adventures..."
     },
     {
         "MessageId": 200430280,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "あれ？",
         "MessageKR": "그래?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是嗎？",
+        "MessageEN": "Is that so?"
     },
     {
         "MessageId": 200430281,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "分かった！",
         "MessageKR": "알았어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "知道了！",
+        "MessageEN": "Got it!"
     },
     {
         "MessageId": 200430290,
@@ -327,8 +327,8 @@
         "ImagePath": "",
         "MessageJP": "じゃあ、先生は普通の冒険で！",
         "MessageKR": "그러면 선생님은 적당한 모험으로!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那老師就走安全路線吧！",
+        "MessageEN": "Regular adventure it is, Sensei!"
     },
     {
         "MessageId": 200430291,
@@ -339,8 +339,8 @@
         "ImagePath": "",
         "MessageJP": "おやすみ、先生",
         "MessageKR": "잘 자 선생님!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師晚安！",
+        "MessageEN": "Good night!"
     },
     {
         "MessageId": 200430300,
@@ -351,8 +351,8 @@
         "ImagePath": "",
         "MessageJP": "イズミもおやすみ",
         "MessageKR": "그래. 이즈미도.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "泉也晚安",
+        "MessageEN": "Good night, Izumi."
     },
     {
         "MessageId": 200430310,
@@ -363,7 +363,7 @@
         "ImagePath": "",
         "MessageJP": "うん！",
         "MessageKR": "응!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯！",
+        "MessageEN": "Talk to you later!"
     }
 ]

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生！今日の約束、ちゃんと覚えてますよね？",
         "MessageKR": "선생님! 오늘 약속 기억하고 계시죠?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師！你還記得我們今天的約定吧？",
+        "MessageEN": "Sensei! Do you remember the promise you made me?"
     },
     {
         "MessageId": 101150180,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "野球の試合を観に行くんだよね？",
         "MessageKR": "기억하고 있어. 야구 경기를 보러 가기로 했었지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我記得。要一起去看棒球比賽對吧？",
+        "MessageEN": "Of course. To go watch a baseball game today."
     },
     {
         "MessageId": 101150180,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "よく2枚もチケット取れたね",
         "MessageKR": "기억하고 있어. 뱀장어로 하늘을 날기로 했었지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我記得。要一起騎鰻魚飛上天對吧？",
+        "MessageEN": "Obviously! We're gonna go fly on an eel!"
     },
     {
         "MessageId": 101150190,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "先生と一緒に行けて嬉しいです！",
         "MessageKR": "네! 기억해 주셔서 기뻐요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒錯！真高興老師還記得！",
+        "MessageEN": "Yay! You remembered!"
     },
     {
         "MessageId": 101150200,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "今日の試合は本当にすごいカードなんですよ！",
         "MessageKR": "기대하셔도 좋을 거예요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天的比賽很值得期待哦！",
+        "MessageEN": "I hope you're ready for this!"
     },
     {
         "MessageId": 101150201,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "期待してくださいね！",
         "MessageKR": "오늘 경기는 정말 대단할 거거든요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "一定會非常精彩的！",
+        "MessageEN": "Today's going to be AWESOME!"
     },
     {
         "MessageId": 101150220,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "先着順……1秒の差が命運を分ける熾烈な競争……",
         "MessageKR": "네……? 그건 도대체 무슨……. 그 광경은 뭔가 보고 싶을 지도…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦……？那是什麼東西……雖然好像有點想看看那個畫面……",
+        "MessageEN": "What the...?! I mean, that'd be pretty cool, but"
     },
     {
         "MessageId": 101150230,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "ですが、なんとか掴むことができました",
         "MessageKR": "아니, 잠깐! 그게 아니잖아요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "等一下！不是啦！",
+        "MessageEN": "Wait, hold on! No, that's not it!"
     },
     {
         "MessageId": 101150231,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "これも日頃の練習の結果ですかね",
         "MessageKR": "같이 야구 경기를 보러 가기로 한 날이라고요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我們不是約好今天一起去看棒球比賽嗎！",
+        "MessageEN": "We're supposed to go watch a baseball game today!"
     },
     {
         "MessageId": 101150240,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "それでは先生",
         "MessageKR": "그러면, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼老師",
+        "MessageEN": "Got it, Sensei?!"
     },
     {
         "MessageId": 101150250,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "ブラウンズ・ソックス・スタジアムでお待ちしてます",
         "MessageKR": "브라운 삭스 스타디움에서 만나요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我們棕襪運動場見！",
+        "MessageEN": "Meet me at the Brown Sox Stadium!"
     },
     {
         "MessageId": 101150251,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "遅れたらペナルティですからね！",
         "MessageKR": "늦으시면 안 돼요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不可以遲到哦！",
+        "MessageEN": "Don't be late!"
     },
     {
         "MessageId": 101140257,

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生！今日は野球部の用具点検の日です！",
         "MessageKR": "선생님! 오늘은 야구부의 장비 정비일이에요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師！今天是棒球部的器材整備日！",
+        "MessageEN": "Sensei! The baseball club is doing equipment maintenance today!"
     },
     {
         "MessageId": 101150270,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "用具点検？",
         "MessageKR": "장비 정비일?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "器材整備日？",
+        "MessageEN": "You all know how to do equipment maintenance?"
     },
     {
         "MessageId": 101150280,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "グラブとかを手作業でメンテナンスするの？",
         "MessageKR": "야구 장비를 일일이 손으로 정비하는 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要親手修理棒球器材嗎？",
+        "MessageEN": "You do all that maintenance by hand?!"
     },
     {
         "MessageId": 101150290,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "いえ、それはまた別の日です",
         "MessageKR": "아뇨, 아뇨. 제가 장비를 직접 정비하는 건 아니에요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不不不，不是由我自己修理器材",
+        "MessageEN": "No, no! We don't do it ourselves!"
     },
     {
         "MessageId": 101150300,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "壊れてしまった用具を修理工場に送るので",
         "MessageKR": "수선 공장에 보내기 위해서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只是在送到修繕工廠之前",
+        "MessageEN": "We just check the equipment's condition"
     },
     {
         "MessageId": 101150301,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "今日は、その前にチェックするんです",
         "MessageKR": "손상된 장비들의 상태를 살펴보는 정도니까요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "檢查一下器材受損的情況而已",
+        "MessageEN": "to see what needs to be sent to the repair shop."
     },
     {
         "MessageId": 101150310,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "見学に行ってもいい？",
         "MessageKR": "구경 가도 돼?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我可以去看看嗎？",
+        "MessageEN": "Can I come watch?"
     },
     {
         "MessageId": 101150320,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "えっ？",
         "MessageKR": "어? 정말요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯？真的嗎？",
+        "MessageEN": "Huh? Really?"
     },
     {
         "MessageId": 101150330,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "私はもちろん歓迎ですけど……",
         "MessageKR": "저야 좋지만…… 괜찮으시겠어요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我當然很歡迎，可是……老師沒關係嗎？",
+        "MessageEN": "That'd be really cool, but...are you sure?"
     },
     {
         "MessageId": 101150340,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "正直、見ててもそんなに楽しいものじゃないと思いますよ？",
         "MessageKR": "그렇게 즐겁지도, 재미있지도 않을 텐데요…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為不是什麼好玩或開心的事……",
+        "MessageEN": "I can't imagine it'd be all that entertaining to watch."
     },
     {
         "MessageId": 101150350,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "そういうのは気にしないよ",
         "MessageKR": "그런 건 별로 신경 안 써.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我不介意哦",
+        "MessageEN": "I don't mind at all."
     },
     {
         "MessageId": 101150360,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "そうなんですか？",
         "MessageKR": "그러면…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼……",
+        "MessageEN": "In that case..."
     },
     {
         "MessageId": 101150361,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "それじゃあ、ぜひ！",
         "MessageKR": "네. 와 주세요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，就麻煩你囉",
+        "MessageEN": "Yes. Please come."
     },
     {
         "MessageId": 101150362,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "へへっ",
         "MessageKR": "헤헤.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嘿嘿",
+        "MessageEN": "Heehee."
     },
     {
         "MessageId": 101150370,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "お待ちしてますね！",
         "MessageKR": "기다릴게요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我等你！",
+        "MessageEN": "I'll be waiting!"
     },
     {
         "MessageId": 101140377,

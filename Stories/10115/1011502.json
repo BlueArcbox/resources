@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "おはようございます、先生！",
         "MessageKR": "안녕하세요. 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你好，老師",
+        "MessageEN": "Hi, Sensei."
     },
     {
         "MessageId": 101150090,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "先日は色々助けていただいて、本当にありがとうございました！",
         "MessageKR": "예전에는 여러모로 도움을 주셔서 감사합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "之前承蒙老師多方照顧，真的非常感謝",
+        "MessageEN": "Thanks for all your help last time."
     },
     {
         "MessageId": 101150100,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "役に立てたなら何よりだけど……",
         "MessageKR": "어…… 응. 도움이 되었다면야…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯……有幫到忙就好……",
+        "MessageEN": "Oh...of course... If that's what you call helpful..."
     },
     {
         "MessageId": 101150110,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "実はですね、先生",
         "MessageKR": "그래서 말인데요, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以說呢，老師",
+        "MessageEN": "Yes! Which is precisely why"
     },
     {
         "MessageId": 101150120,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "バッティングを上達させるには",
         "MessageKR": "타격 훈련 말고도",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "除了打擊訓練之外",
+        "MessageEN": "besides hitting practice"
     },
     {
         "MessageId": 101150121,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ただ打撃練習をするだけじゃ足りないと思うんです",
         "MessageKR": "아뇨, 정확히는 타격 훈련을 위해",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不，準確來說是為了訓練打擊能力",
+        "MessageEN": "Wait, wait, no. To bolster my hitting practice,"
     },
     {
         "MessageId": 101150122,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "他の特訓も必要だと気づきまして",
         "MessageKR": "다른 훈련을 해 볼 필요성을 느꼈어요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我認為有必要嘗試其他訓練",
+        "MessageEN": "I need to try different types of training!"
     },
     {
         "MessageId": 101150130,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "他の特訓？",
         "MessageKR": "어떤 훈련인데?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "例如什麼樣的訓練？",
+        "MessageEN": "What kind of training?"
     },
     {
         "MessageId": 101150140,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "そうなんです",
         "MessageKR": "그러니까…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "簡單來說……",
+        "MessageEN": "Well..."
     },
     {
         "MessageId": 101150150,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "説明するより見てもらった方が早いかと",
         "MessageKR": "직접 보시겠어요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師要不要直接過來看看？",
+        "MessageEN": "Do you want to come see for yourself?"
     },
     {
         "MessageId": 101150160,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "前も言いましたが練習場は見学自由ですので",
         "MessageKR": "전에도 말씀드렸던 것이지만.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我之前也說過",
+        "MessageEN": "Like I said,"
     },
     {
         "MessageId": 101150161,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "先生のご都合の良いときにお越しください",
         "MessageKR": "밀레니엄 야구부의 훈련장은, 언제나 견학이 가능하니까요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "千年棒球部的訓練場隨時都開放參觀！",
+        "MessageEN": "The Millennium Baseball Club's training ground is always open to guests!"
     },
     {
         "MessageId": 101140167,

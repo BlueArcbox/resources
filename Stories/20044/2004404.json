@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "おはようございます、トレーナー",
         "MessageKR": "안녕하십니까. 트레이너.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你好啊，指導員",
+        "MessageEN": "Hello, Trainer."
     },
     {
         "MessageId": 200440450,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "もしスケジュールに余裕があるようでしたら",
         "MessageKR": "큰 의미 없이 인사를 드려 보고 있는 것입니다만.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒什麼別的意思，只是想跟你打個招呼而已",
+        "MessageEN": "No issues this time. I just wanted to say hi."
     },
     {
         "MessageId": 200440460,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "そんなときこそ、体を動かす絶好のチャンスです",
         "MessageKR": "괜찮으시다면 저희 트레이닝 센터에서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果方便的話，要不要來我們訓練中心",
+        "MessageEN": "Also, if you were interested, I wanted to invite you to"
     },
     {
         "MessageId": 200440461,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "お時間があれば、ぜひジムまでお越しください！",
         "MessageKR": "함께 몸이라도 풀어 보시는 건 어떨까 해서요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "一起活動一下身體呢？",
+        "MessageEN": "come to the training center and do some warm-ups."
     },
     {
         "MessageId": 200440470,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "スミレ、大変なことになってるよ！",
         "MessageKR": "그것도 좋지만, 지금 큰일 났어, 스미레!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有空的話我也很想這麼做，但現在事情非同小可，堇！",
+        "MessageEN": "Sure, sure! But first, there's an emergency, Sumire!"
     },
     {
         "MessageId": 200440480,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "大変なこと？",
         "MessageKR": "음?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯？",
+        "MessageEN": "Hm?"
     },
     {
         "MessageId": 200440490,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "トレーナーがそこまで慌てるとは珍しいですね",
         "MessageKR": "트레이너께서 이렇게 다급한 반응을 보이시는 건",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "在我印象中，這好像是我第一次看到",
+        "MessageEN": "I've never seen you speak with such urgency."
     },
     {
         "MessageId": 200440491,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "何があったのですか？",
         "MessageKR": "적어도 제 기억에는 없었던 일인 것 같군요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "指導員這麼慌張的樣子呢",
+        "MessageEN": "At least not from what I can recall."
     },
     {
         "MessageId": 200440500,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "今、ネット中がスミレの話題で大騒ぎだよ！",
         "MessageKR": "지금 온 인터넷이 스미레 이야기로 난리라니까!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在整個網路上都在瘋狂討論堇的事情！",
+        "MessageEN": "The whole internet is talking about you!"
     },
     {
         "MessageId": 200440510,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "……私が？",
         "MessageKR": "저…… 요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我……？",
+        "MessageEN": "Me...?"
     },
     {
         "MessageId": 200440511,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "いったい何があったのでしょう？",
         "MessageKR": "도대체 무슨 일이길래요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "究竟發生什麼事了？",
+        "MessageEN": "What's going on?"
     },
     {
         "MessageId": 200440520,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと話そう",
         "MessageKR": "일단 만나서 이야기하자!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總之先見面再說吧！",
+        "MessageEN": "Let's meet up and talk!"
     },
     {
         "MessageId": 200440530,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "私の記憶が正しければ、",
         "MessageKR": "제 기억이 맞다면…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果我沒記錯的話……",
+        "MessageEN": "I also cannot recall"
     },
     {
         "MessageId": 200440531,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "トレーナーからお誘いいただくのは",
         "MessageKR": "트레이너께서 저를 먼저 만나자고 하는 것은",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "指導員主動說要見我",
+        "MessageEN": "Trainer being the one"
     },
     {
         "MessageId": 200440532,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "非常に珍しいことですね",
         "MessageKR": "매우 드문 일인 듯합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "似乎是極為罕見的情況呢",
+        "MessageEN": "to initiate a meetup."
     },
     {
         "MessageId": 200440540,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "これは嬉しい体験です",
         "MessageKR": "어떤 의미로는 저에게 있어서도, 기념할만한 사건이군요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "在某種層面上，這對我來說也是十分值得紀念的事件",
+        "MessageEN": "In a way, it's a memorable event for me."
     },
     {
         "MessageId": 200440541,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "胸が高鳴るのを感じることですし……",
         "MessageKR": "조금 기대가 되기도 합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "而且也稍微有點期待",
+        "MessageEN": "I'm even looking forward to it a bit."
     },
     {
         "MessageId": 200440550,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "すぐに向かいます！",
         "MessageKR": "그러면 사양하지 않고, 그렇게 하도록 하겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼我就不客氣了，待會見",
+        "MessageEN": "In that case, let's do that."
     },
     {
         "MessageId": 200430557,

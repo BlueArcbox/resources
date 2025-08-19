@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "おはようございます、先生！",
         "MessageKR": "안녕하세요. 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你好，老師",
+        "MessageEN": "Hello, Sensei."
     },
     {
         "MessageId": 101150020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "ミレニアムサイエンススクール野球部、野正レイです！",
         "MessageKR": "노마사 레이, 인사드립니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "野正莉，向你報到！",
+        "MessageEN": "It's Nomasa Rei!"
     },
     {
         "MessageId": 101150030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "おはよう、レイ",
         "MessageKR": "안녕. 레이.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗨，莉",
+        "MessageEN": "Hi, Rei. What're you up to?"
     },
     {
         "MessageId": 101150040,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "最近調子はどう？",
         "MessageKR": "그러고 보니 레이는 수업이 끝나면 뭐 해?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "話說莉平常放學後都在做什麼呢？",
+        "MessageEN": "What do you usually do after class, Rei?"
     },
     {
         "MessageId": 101150050,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ホームランに向けて頑張ってます",
         "MessageKR": "너무 당연한 것을 물으시네요, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼問這種問題呢，老師",
+        "MessageEN": "Isn't that obvious?"
     },
     {
         "MessageId": 101150060,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "今日も野球の練習をする予定です",
         "MessageKR": "그거야 당연히, 야구 훈련이죠!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然是練習棒球囉！",
+        "MessageEN": "Baseball practice! Duh!"
     },
     {
         "MessageId": 101150070,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "あっ、そうだ",
         "MessageKR": "아, 그렇네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，說得也是",
+        "MessageEN": "Ah, right."
     },
     {
         "MessageId": 101150071,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "よかったら先生も見に来ませんか？",
         "MessageKR": "선생님께서도 한 번 보러 오시겠어요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師要不要來看看？",
+        "MessageEN": "Do you want to come watch sometime?"
     },
     {
         "MessageId": 101150072,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "練習場は見学自由ですので",
         "MessageKR": "밀레니엄 야구부의 훈련장은, 언제나 견학이 가능하거든요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "千年棒球部的訓練場，隨時都開放參觀哦",
+        "MessageEN": "The Millennium Baseball Club's training ground is always open to guests!"
     },
     {
         "MessageId": 101140077,

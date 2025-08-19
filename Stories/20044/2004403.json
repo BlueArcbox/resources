@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "トレーナー、こんにちは",
         "MessageKR": "트레이너.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "指導員",
+        "MessageEN": "Trainer."
     },
     {
         "MessageId": 200440380,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今お時間よろしいですか？",
         "MessageKR": "지금 잠깐 괜찮으실지요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可以打擾你一下嗎？",
+        "MessageEN": "Do you have a moment?"
     },
     {
         "MessageId": 200440390,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "もちろん。何かあったの？",
         "MessageKR": "물론이지. 무슨 일이라도 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然可以。有什麼事嗎？",
+        "MessageEN": "Of course. What's up?"
     },
     {
         "MessageId": 200440400,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "実は相談したいことがありまして……",
         "MessageKR": "이전 저희가 찾았던 그 스타디움에서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "其實是我們之前去的那個運動場",
+        "MessageEN": "The manager from the stadium we went to last time"
     },
     {
         "MessageId": 200440401,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "以前働いていた、スタジアムのマネージャーさんから連絡があったんです。",
         "MessageKR": "매니저분이 연락을 주셨습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那邊的經理主動聯絡了我",
+        "MessageEN": "reached out to me."
     },
     {
         "MessageId": 200440410,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "そこで、トレーナーにも見てもらいたいものが",
         "MessageKR": "그런데 여기에서, 트레이너의 조언을 구하고 싶은 부분이 있어서요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以我希望能尋求指導員的建議",
+        "MessageEN": "And I'd like your advice on something."
     },
     {
         "MessageId": 200440420,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "スタジアムのマネージャーから……？",
         "MessageKR": "스타디움 매니저로부터의 연락……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "運動場的經理聯絡你……？",
+        "MessageEN": "The stadium manager...? Okay, I'm coming."
     },
     {
         "MessageId": 200440430,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "分かった。すぐに行くよ！",
         "MessageKR": "알았어. 지금 갈게!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "知道了。我馬上過去！",
+        "MessageEN": "I'm on my way!"
     },
     {
         "MessageId": 200430437,

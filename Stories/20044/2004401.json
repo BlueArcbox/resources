@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "こんにちは、トレーナー",
         "MessageKR": "트레이너.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "指導員",
+        "MessageEN": "Trainer."
     },
     {
         "MessageId": 200440020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "いま何をされていますか？",
         "MessageKR": "계십니까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你在嗎？",
+        "MessageEN": "Are you there?"
     },
     {
         "MessageId": 200440030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ベッドで横になってるよ",
         "MessageKR": "지금 침대에 누워 있어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我現在正躺在床上",
+        "MessageEN": "I'm lying down on my bed right now."
     },
     {
         "MessageId": 200440040,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "そうでしたか",
         "MessageKR": "그렇군요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我知道了",
+        "MessageEN": "I see."
     },
     {
         "MessageId": 200440050,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "よろしければ",
         "MessageKR": "이왕 누우신 김에",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "既然躺下來了",
+        "MessageEN": "Maybe I should"
     },
     {
         "MessageId": 200440051,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "その姿勢で行えるトレーニングを",
         "MessageKR": "그 상태에서 할 수 있는 트레이닝을",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那我就來說明一下",
+        "MessageEN": "teach you some exercises"
     },
     {
         "MessageId": 200440052,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ご紹介しましょうか？",
         "MessageKR": "소개해 드리는 건 어떨까 하는 생각이 들었습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "躺著的狀態下可以做什麼訓練吧",
+        "MessageEN": "you can do while lying down."
     },
     {
         "MessageId": 200440060,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "ここから出来るトレーニングが！？",
         "MessageKR": "트레이닝 이야기를 하려고 부른 거야?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "找我就是為了說訓練的事嗎！？",
+        "MessageEN": "Did you text me to talk about exercises?!"
     },
     {
         "MessageId": 200440070,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "ありますよ。ですが……",
         "MessageKR": "아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah."
     },
     {
         "MessageId": 200440071,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "今回はトレーニングの話ではなく",
         "MessageKR": "그건 아닙니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不是那樣的",
+        "MessageEN": "No, not at all."
     },
     {
         "MessageId": 200440080,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "報告のためにご連絡しました",
         "MessageKR": "아르바이트를 시작하게 되어서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "其實是因為我要開始打工了",
+        "MessageEN": "I wanted to tell you"
     },
     {
         "MessageId": 200440081,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "実は、アルバイトを始めることになったんです",
         "MessageKR": "그 사실을 알려드릴까 해서요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以想先跟老師說一聲",
+        "MessageEN": "that I began a part-time job."
     },
     {
         "MessageId": 200440090,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "どうしてアルバイトを？",
         "MessageKR": "무슨 일로?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼突然要打工呢？",
+        "MessageEN": "What for?"
     },
     {
         "MessageId": 200440100,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "欲しかった新型のトレーニングマシンがセール中なんです",
         "MessageKR": "지금 새로, 특가로 출시된 트레이닝 머신이 있어서요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為最近有一款新型的訓練機正在特價",
+        "MessageEN": "There is a sale on a recently released machine I want."
     },
     {
         "MessageId": 200440101,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "ですが、購入資金が足りず……",
         "MessageKR": "그걸 당장 구입하기에는 자금이 약간 모자라서 말이죠.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但我現在的資金不足，沒辦法直接買下來",
+        "MessageEN": "But I don't have the funds to purchase it at the moment."
     },
     {
         "MessageId": 200440110,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "そんなに高いの？",
         "MessageKR": "얼마길래?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要多少錢？",
+        "MessageEN": "How much is it?"
     },
     {
         "MessageId": 200440120,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "はい……本来、60万円のところ……",
         "MessageKR": "45만 엔입니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "45萬",
+        "MessageEN": "It's 450,000 yen."
     },
     {
         "MessageId": 200440121,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "セール価格で45万円です",
         "MessageKR": "원가는 60만 엔이고요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原價是60萬元",
+        "MessageEN": "Original price was 600,000 yen."
     },
     {
         "MessageId": 200440130,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "高っ！",
         "MessageKR": "비싸!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好貴！",
+        "MessageEN": "So expensive!"
     },
     {
         "MessageId": 200440140,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "備品として予算を申請してみたら？",
         "MessageKR": "그 정도라면, 예산을 신청하면 되지 않아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這個金額的話，沒辦法申請預算嗎？",
+        "MessageEN": "Shouldn't you just get it expensed by the school?"
     },
     {
         "MessageId": 200440150,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "それでは時間がかかりすぎますし",
         "MessageKR": "그러면 시간이 너무 걸립니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那樣會花太多時間",
+        "MessageEN": "The paperwork would take too long."
     },
     {
         "MessageId": 200440151,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "セール期間が終わってしまいます",
         "MessageKR": "특가 기간도 끝나 버리겠죠.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "等預算撥下來的時候，特價早就結束了",
+        "MessageEN": "The sale is only going on for a limited time."
     },
     {
         "MessageId": 200440160,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "それに、このアルバイト",
         "MessageKR": "무엇보다 이 아르바이트는,",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "而且最重要的是",
+        "MessageEN": "As an added benefit, my part-time job"
     },
     {
         "MessageId": 200440161,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "トレーニングも兼ねられて一石二鳥なんですよ",
         "MessageKR": "신체 단련을 겸할 수 있어서 일석이조이기까지 합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這份打工還能兼顧鍛鍊身體，簡直是一舉兩得",
+        "MessageEN": "serves as a form of physical training. It's killing two birds with one stone."
     },
     {
         "MessageId": 200440170,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "そんなアルバイトがあったとは……！",
         "MessageKR": "그런 아르바이트가 있었단 말인가……!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有這種打工嗎……！",
+        "MessageEN": "What kind of part-time work...?"
     },
     {
         "MessageId": 200440180,
@@ -327,8 +327,8 @@
         "ImagePath": "",
         "MessageJP": "もし、興味がおありでしたら",
         "MessageKR": "아무래도 직접 보여드리는 게 좋겠군요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "看來直接讓老師看看比較快呢",
+        "MessageEN": "It would be easier to show you."
     },
     {
         "MessageId": 200440181,
@@ -339,8 +339,8 @@
         "ImagePath": "",
         "MessageJP": "今度、アスレチックスタジアムに来てください",
         "MessageKR": "애슬레틱 스타디움에서 만나면 좋을 것 같습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我們在田徑運動場見吧",
+        "MessageEN": "We can meet at the Athletic Stadium."
     },
     {
         "MessageId": 200430197,
@@ -363,8 +363,8 @@
         "ImagePath": "",
         "MessageJP": "良い報告があります、トレーナー",
         "MessageKR": "좋은 결과가 있었습니다. 트레이너.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "事情有了一個很好的結果，指導員",
+        "MessageEN": "I have good results to share with you, Trainer."
     },
     {
         "MessageId": 200440200,
@@ -375,8 +375,8 @@
         "ImagePath": "",
         "MessageJP": "これは最高の成果と言えるでしょう",
         "MessageKR": "아뇨. 어쩌면 최고의 결과라고도 할 수 있겠군요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不，就算說是最好的結果也不為過",
+        "MessageEN": "No. The best results."
     },
     {
         "MessageId": 200440210,
@@ -387,8 +387,8 @@
         "ImagePath": "",
         "MessageJP": "最高の成果って？",
         "MessageKR": "어떻게 됐길래?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼說呢？",
+        "MessageEN": "What happened?"
     },
     {
         "MessageId": 200440220,
@@ -399,8 +399,8 @@
         "ImagePath": "",
         "MessageJP": "以前お話ししていたトレーニングマシン",
         "MessageKR": "일전에 말씀드린 그 트레이닝 머신을.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就是我之前提過的那款訓練機",
+        "MessageEN": "It's about the workout machine I wanted."
     },
     {
         "MessageId": 200440221,
@@ -411,8 +411,8 @@
         "ImagePath": "",
         "MessageJP": "無事、現金で購入しました！",
         "MessageKR": "일시불로 구입할 수 있게 되었습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我可以一次付清買下來了",
+        "MessageEN": "I was able to pay for it upfront."
     },
     {
         "MessageId": 200440230,
@@ -423,8 +423,8 @@
         "ImagePath": "",
         "MessageJP": "あんな高いものを！？",
         "MessageKR": "일시불?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "一次付清！？",
+        "MessageEN": "Upfront?!"
     },
     {
         "MessageId": 200440240,
@@ -435,8 +435,8 @@
         "ImagePath": "",
         "MessageJP": "ええ",
         "MessageKR": "네. 트레이너.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒錯，指導員",
+        "MessageEN": "Yes, Trainer."
     },
     {
         "MessageId": 200440250,
@@ -447,8 +447,8 @@
         "ImagePath": "",
         "MessageJP": "やはり、汗を流し、その対価を得るのは素晴らしいことですね！",
         "MessageKR": "노동의 대가란 이렇게나 좋은 것이군요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原來所謂的勞動，能換來這麼好的成果啊",
+        "MessageEN": "It's pleasant to be able to enjoy the fruits of your own labor."
     },
     {
         "MessageId": 200440260,
@@ -459,8 +459,8 @@
         "ImagePath": "",
         "MessageJP": "だからこそ、不思議なのですが……",
         "MessageKR": "그렇지만 트레이닝 역시",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過這跟訓練其實也差不多",
+        "MessageEN": "Training is similar."
     },
     {
         "MessageId": 200440261,
@@ -471,8 +471,8 @@
         "ImagePath": "",
         "MessageJP": "トレーニングも「体を動かして頑張る」という点では同じなのに",
         "MessageKR": "몸을 힘들게 한다는 점에서는 비슷할 텐데…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "明明都一樣會讓身體勞累……",
+        "MessageEN": "It tires out your body, but has many benefits."
     },
     {
         "MessageId": 200440270,
@@ -483,8 +483,8 @@
         "ImagePath": "",
         "MessageJP": "どうして皆さん、あんなにも避けるのでしょう？",
         "MessageKR": "왜 다들, 그렇게 트레이닝을 기피하는 걸까요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "為什麼大家只逃避訓練呢？",
+        "MessageEN": "So why do people go to such lengths to avoid training?"
     },
     {
         "MessageId": 200440280,
@@ -495,7 +495,7 @@
         "ImagePath": "",
         "MessageJP": "さ、さあ……何でだろうね",
         "MessageKR": "그, 글쎄…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這，這個嘛……",
+        "MessageEN": "I-I wonder..."
     }
 ]

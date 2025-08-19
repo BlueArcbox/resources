@@ -3,8 +3,8 @@
         "CharacterId": 20043,
         "MessageJP": "イズミ（正月）",
         "MessageKR": "이즈미(새해)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "泉（正月）",
+        "MessageEN": "Izumi (New Year)"
     },
     {
         "MessageId": 200420070,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生はいつもお正月に何食べてるの？",
         "MessageKR": "선생님은 새해에 어떤 음식을 먹어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師新年的時候都吃什麼呢？",
+        "MessageEN": "What kind of food do you usually have for New Year's, Sensei?"
     },
     {
         "MessageId": 200430080,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "あんまりこだわりはないかも？",
         "MessageKR": "그냥, 적당히 있는 거?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就……順其自然？",
+        "MessageEN": "Just things I have around me, I guess?"
     },
     {
         "MessageId": 200430080,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "一応今年は、オードブルを注文したよ",
         "MessageKR": "나름대로 주문한 새해 특별 음식?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "特別訂購的新年料理？",
+        "MessageEN": "I guess some special New Year's food delivery?"
     },
     {
         "MessageId": 200430090,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "そっかぁ",
         "MessageKR": "그런가아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這樣啊",
+        "MessageEN": "Is that so...?"
     },
     {
         "MessageId": 200430091,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "でもせっかくの新年だし、特別なものを食べるのもいいよね！",
         "MessageKR": "그래도 새해니까, 특별한 걸 먹으면 더욱 행복할 텐데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可是畢竟是新年，吃點特別的東西才會讓幸福加倍吧",
+        "MessageEN": "But you'll feel much happier if you eat something special for the new year."
     },
     {
         "MessageId": 200430100,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "オードブルいいね！",
         "MessageKR": "와아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哇",
+        "MessageEN": "Whoa"
     },
     {
         "MessageId": 200430101,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "先生は作るんじゃなくて注文派なんだ",
         "MessageKR": "선생님도 그런 거 하는구나",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原來老師也會做這種事啊",
+        "MessageEN": "So you do something like that too, Sensei"
     },
     {
         "MessageId": 200430110,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "私も今年は……",
         "MessageKR": "그래서 말인데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "而我……",
+        "MessageEN": "On that note..."
     },
     {
         "MessageId": 200430111,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "お正月料理に挑戦してみたんだ！",
         "MessageKR": "나도 선생님에게 보여 주고 싶은",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "也準備了新年料理",
+        "MessageEN": "I prepared a New Year dish"
     },
     {
         "MessageId": 200430112,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "先生に見てもらえたら嬉しいな",
         "MessageKR": "새해 요리를 준비해 봤어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "想讓老師看看！",
+        "MessageEN": "that I wanted to show you!"
     },
     {
         "MessageId": 200420117,
@@ -147,7 +147,7 @@
         "ImagePath": "",
         "MessageJP": "イズミ（正月）の絆イベントへ",
         "MessageKR": "이즈미(새해)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往泉（正月）的羈絆劇情",
+        "MessageEN": "Go to Izumi (New Year)'s Bond Story"
     }
 ]

@@ -9720,13 +9720,17 @@
             "/api/Avatars/Fandom/Izumi_New_Year_Icon.png"
         ],
         "Name": {
+            "en": "Izumi (New Year)",
             "jp": "イズミ（正月）",
             "kr": "이즈미(새해)",
+            "tw": "泉（正月）",
             "zh": "泉（正月）"
         },
         "Bio": {
+            "en": "Life and flavor, they're both adventures!",
             "jp": "食も人生も冒険だよね！",
             "kr": "인생도 맛도, 모험!",
+            "tw": "人生跟美食都是冒險！",
             "zh": "美食与人生，都是一场冒险！"
         },
         "Nickname": [

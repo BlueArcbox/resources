@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "トレーナー",
         "MessageKR": "트레이너.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "指導員",
+        "MessageEN": "Trainer."
     },
     {
         "MessageId": 200440300,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "生きていく上で大切なものとは何でしょうか？  ",
         "MessageKR": "살아가는 데 있어 중요한 것은, 뭐라고 생각하시나요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你覺得生活中，什麼是最重要的呢？",
+        "MessageEN": "What do you think is the most important thing in life?"
     },
     {
         "MessageId": 200440310,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "お休み!",
         "MessageKR": "휴식!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "休息！",
+        "MessageEN": "Rest!"
     },
     {
         "MessageId": 200440310,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "あとは、ゲームとか！",
         "MessageKR": "게임!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "遊戲！",
+        "MessageEN": "Gaming!"
     },
     {
         "MessageId": 200440320,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "休息はたしかに大事です",
         "MessageKR": "확실히 휴식은 중요하지요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "休息的確很重要呢",
+        "MessageEN": "Rest really is important."
     },
     {
         "MessageId": 200440330,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "無理にトレーニングを続けると、怪我のリスクが高まりますし",
         "MessageKR": "휴식을 고려하지 않은 트레이닝은, 부상 위험뿐만 아니라",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果只顧著訓練而忽略休息的話，除了有受傷的風險之外",
+        "MessageEN": "Training without proper rest can not only increase risk of injury,"
     },
     {
         "MessageId": 200440331,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "筋肉の成長を妨げてしまいますから",
         "MessageKR": "근성장 자체를 저해하기도 하니까요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "也會阻礙肌肉的成長",
+        "MessageEN": "but also deter your muscle growth."
     },
     {
         "MessageId": 200440340,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "ゲーム、ですか……？",
         "MessageKR": "게임, 이요……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "遊戲……？",
+        "MessageEN": "Gaming, you say...?"
     },
     {
         "MessageId": 200440341,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "ストレス発散の手段ということでしょうか",
         "MessageKR": "스트레스 관리의 일환이라는 것으로 이해하면 될까요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是作為紓解壓力的一環是嗎？",
+        "MessageEN": "Perhaps it's a tactic to manage stress?"
     },
     {
         "MessageId": 200440350,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "たしかに、ストレスは体調に影響を及ぼします",
         "MessageKR": "확실히 스트레스가 관리되지 않으면, 신체에 부담이 가게 됩니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒有適時放鬆壓力，確實會對身體造成負擔",
+        "MessageEN": "That's true... Stress takes a great toll on your body if left unchecked."
     },
     {
         "MessageId": 200440360,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "ですが、私が思うに……",
         "MessageKR": "그렇지만 저는 아무래도",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過我還是覺得",
+        "MessageEN": "But for me,"
     },
     {
         "MessageId": 200440361,
@@ -158,9 +158,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "やはり「健康」こそが、生きる上で最も大事なことかと",
-        "MessageKR": "건강'만큼 중요한 것이 없다는 생각이 드는군요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "'건강'만큼 중요한 것이 없다는 생각이 드는군요.",
+        "MessageTW": "生活中沒有什麼比「健康」更重要了",
+        "MessageEN": "there's nothing more important than health."
     },
     {
         "MessageId": 200430367,
