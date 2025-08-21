@@ -10277,5 +10277,57 @@
             "ItemId": 20024,
             "ItemType": "水着"
         }
+    },
+    {
+        "Id": 10125,
+        "Avatar": [
+            "/kivo/students/白尾 绘里/original/Student_Portrait_CH0304_Collection.png"
+        ],
+        "Name": {
+            "jp": "エリ",
+            "kr": "에리",
+            "zh": "绘里"
+        },
+        "Bio": {
+            "jp": "魔法はいつでもあなたと共に！",
+            "kr": "언제나 마법이 함께 하길!",
+            "zh": "魔法不论何时都与你同在！"
+        },
+        "Nickname": [
+            "Eri"
+        ],
+        "Birthday": "10/31",
+        "Age": "16歳",
+        "School": "WildHunt",
+        "Club": "OccultClub",
+        "Star": 3,
+        "Released": true,
+        "Related": null
+    },
+    {
+        "Id": 10126,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10126.webp"
+        ],
+        "Name": {
+            "jp": "カノエ",
+            "kr": "카노에",
+            "zh": "庚"
+        },
+        "Bio": {
+            "jp": "私の声……聴いてみるぅ？",
+            "kr": "내 목소리…… 들어볼래?",
+            "zh": "我的声音……不想听听看吗？"
+        },
+        "Nickname": [
+            "Kanoe"
+        ],
+        "Birthday": "11/2",
+        "Age": "17歳",
+        "School": "WildHunt",
+        "Club": "OccultClub",
+        "Star": 3,
+        "Released": true,
+        "Related": null
     }
 ]

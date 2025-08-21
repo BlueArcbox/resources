@@ -1934,6 +1934,34 @@
             true
         ]
     },
+    "10125": {
+        "kivo_id": 549,
+        "gamekee_id": 674546,
+        "avatar": "https://static.kivo.wiki/images/students/白尾 绘里/original/Student_Portrait_CH0304_Collection.png",
+        "momotalk": "魔法不论何时都与你同在！",
+        "name_en": "Eri",
+        "name_jp": "エリ",
+        "name_zh": "绘里",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10126": {
+        "kivo_id": 548,
+        "gamekee_id": 674557,
+        "avatar": "https://static.kivo.wiki/images/students/板垣 庚/original/Student_Portrait_CH0306_Collection.png",
+        "momotalk": "我的声音……不想听听看吗？",
+        "name_en": "Kanoe",
+        "name_jp": "カノエ",
+        "name_zh": "庚",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
     "13000": {
         "kivo_id": 24,
         "gamekee_id": 66752,
