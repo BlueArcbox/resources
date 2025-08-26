@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 130130410,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "ごめんなさい",
         "MessageKR": "죄송한데요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不好意思",
+        "MessageEN": "I'm sorry."
     },
     {
         "MessageId": 130130411,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "今日はお会いできません",
         "MessageKR": "오늘 찾아뵙기로 한 약속, 못 지킬 것 같아요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我今天好像無法依照約定去拜訪你了",
+        "MessageEN": "Can't meet up today anymore"
     },
     {
         "MessageId": 130130420,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "ど、どうしたの！？",
         "MessageKR": "갑자기 왜?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼這麼突然？",
+        "MessageEN": "Why?"
     },
     {
         "MessageId": 130130430,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "図書館で大切な……",
         "MessageKR": "도서관에서 중요한",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我在圖書館弄丟了一樣重要的",
+        "MessageEN": "I lost something important"
     },
     {
         "MessageId": 130130440,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "いやちょっとした……",
         "MessageKR": "아니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "no"
     },
     {
         "MessageId": 130130441,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "落とし物を……",
         "MessageKR": "사소한 걸 잃어버려서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "弄丟了一樣小東西",
+        "MessageEN": "something trivial in the library."
     },
     {
         "MessageId": 130130450,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "……探さないと",
         "MessageKR": "그걸 우선 찾아야 할 것 같아요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "得找到才行",
+        "MessageEN": "So I need to find that first."
     },
     {
         "MessageId": 130130460,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "私も手伝うよ",
         "MessageKR": "그러면 나도 도와줄게",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那我也來幫忙吧",
+        "MessageEN": "I'll help you then."
     },
     {
         "MessageId": 130130470,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "えっ？",
         "MessageKR": "네?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？",
+        "MessageEN": "Pardon?"
     },
     {
         "MessageId": 130130471,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "先生が、ですか？",
         "MessageKR": "선생님이 직접요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師要親自幫忙嗎？",
+        "MessageEN": "You will?"
     },
     {
         "MessageId": 130120477,

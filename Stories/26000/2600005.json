@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、いかがお過ごしですか？",
         "MessageKR": "모처럼의 휴일이네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天是難得的休假",
+        "MessageEN": "I finally have a day off."
     },
     {
         "MessageId": 260000470,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "私は今日、久しぶりのお休みでして……",
         "MessageKR": "선생님께서는 어떠신가요, 시간?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請問老師今天有空嗎？",
+        "MessageEN": "What about you, Sensei? Are you busy today?"
     },
     {
         "MessageId": 260000480,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "私も休み！",
         "MessageKR": "우연인걸, 나도 오늘은 쉬어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真巧，我今天也正好休息",
+        "MessageEN": "What a coincidence. I'm also off today."
     },
     {
         "MessageId": 260000480,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "今日は羽目を外すんだ……！",
         "MessageKR": "그럼 나도 땡땡이 좀 쳐볼까!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那我也來偷懶一下吧！",
+        "MessageEN": "Time to slack off!"
     },
     {
         "MessageId": 260000490,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ふふ",
         "MessageKR": "후후",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵",
+        "MessageEN": "Fufu."
     },
     {
         "MessageId": 260000491,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "それはよかったです",
         "MessageKR": "듣기 좋은 이야기네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "聽起來真不錯呢",
+        "MessageEN": "That's nice to hear."
     },
     {
         "MessageId": 260000500,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "……",
         "MessageKR": ";;;;",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……",
+        "MessageEN": ";;;;"
     },
     {
         "MessageId": 260000501,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "……ほどほどにしてくださいね",
         "MessageKR": "그건 좀……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那似乎有點……",
+        "MessageEN": "That's a bit..."
     },
     {
         "MessageId": 260000510,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "突然のメッセージ、失礼しました",
         "MessageKR": "아무튼 잠시 실례했습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總之，不好意思打擾了",
+        "MessageEN": "Anyways, pardon me."
     },
     {
         "MessageId": 260000520,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "良い一日を　～チナツ～",
         "MessageKR": "좋은 하루 되시길 바랍니다. -치나츠",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "祝老師有美好的一天　～千夏～",
+        "MessageEN": "I hope you have a wonderful day. - Chinatsu"
     },
     {
         "MessageId": 259990537,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "お疲れ様でした、先生",
         "MessageKR": "고생 많으셨습니다, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真是辛苦您了，老師",
+        "MessageEN": "Great job, Sensei."
     },
     {
         "MessageId": 260000540,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "お休みの日なのに、お仕事をさせてしまいましたね……",
         "MessageKR": "모처럼 내신 시간인데 결국 일만 시켜 드린 셈이 됐네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "難得老師有時間休息，我卻讓老師一直工作",
+        "MessageEN": "I ended up making you work on your day off."
     },
     {
         "MessageId": 260000550,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "おかげで、充実した休日になったよ",
         "MessageKR": "그렇지 않아. 기력 쪽은 오히려 회복됐어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "別這麼說，我反而恢復了元氣",
+        "MessageEN": "It's okay! I feel energized!"
     },
     {
         "MessageId": 260000550,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "体力は使ったけど、気力が回復した！",
         "MessageKR": "체력은 썼어도 마음이 회복됐달까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然消耗了體力，但心靈卻回復了",
+        "MessageEN": "My stamina is spent, but I think my mind has recovered."
     },
     {
         "MessageId": 260000560,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "そうでしたか",
         "MessageKR": "그렇습니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這樣啊",
+        "MessageEN": "Is that so?"
     },
     {
         "MessageId": 260000561,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "では、次の休日は体力の回復に当てましょう",
         "MessageKR": "그러면 이제 체력을 회복해야 할 시간이네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼現在是時候想辦法恢復體力了",
+        "MessageEN": "Well, we'll still have to recover your stamina as well."
     },
     {
         "MessageId": 260000570,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "ふふっ",
         "MessageKR": "후후. 마침 잘 됐습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵，這樣正好",
+        "MessageEN": "Fufu. Perfect timing."
     },
     {
         "MessageId": 260000571,
@@ -243,7 +243,7 @@
         "ImagePath": "",
         "MessageJP": "近いうちに、お伺いします　～チナツ～",
         "MessageKR": "금방 찾아뵙도록 하겠습니다. -치나츠",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我馬上就去找您　～千夏～",
+        "MessageEN": "I'll visit you soon then. - Chinatsu"
     }
 ]

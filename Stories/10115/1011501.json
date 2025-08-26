@@ -3,8 +3,8 @@
         "CharacterId": 10115,
         "MessageJP": "レイ",
         "MessageKR": "레이",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "莉",
+        "MessageEN": "Rei"
     },
     {
         "MessageId": 101140010,
@@ -99,7 +99,7 @@
         "ImagePath": "",
         "MessageJP": "あっ、そうだ",
         "MessageKR": "아, 그렇네요.",
-        "MessageTW": "啊，說得也是",
+        "MessageTW": "啊，對了",
         "MessageEN": "Ah, right."
     },
     {
@@ -135,7 +135,7 @@
         "ImagePath": "",
         "MessageJP": "レイの絆イベントへ",
         "MessageKR": "레이의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往莉的羈絆劇情",
+        "MessageEN": "Go to Rei's Bond Story"
     }
 ]

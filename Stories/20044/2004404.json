@@ -3,8 +3,8 @@
         "CharacterId": 20044,
         "MessageJP": "スミレ（アルバイト）",
         "MessageKR": "스미레(아르바이트)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "堇（打工）",
+        "MessageEN": "Sumire (Part-Timer)"
     },
     {
         "MessageId": 200430440,
@@ -39,7 +39,7 @@
         "ImagePath": "",
         "MessageJP": "もしスケジュールに余裕があるようでしたら",
         "MessageKR": "큰 의미 없이 인사를 드려 보고 있는 것입니다만.",
-        "MessageTW": "沒什麼別的意思，只是想跟你打個招呼而已",
+        "MessageTW": "其實也沒什麼事，只是想跟你打個招呼而已",
         "MessageEN": "No issues this time. I just wanted to say hi."
     },
     {
@@ -64,7 +64,7 @@
         "MessageJP": "お時間があれば、ぜひジムまでお越しください！",
         "MessageKR": "함께 몸이라도 풀어 보시는 건 어떨까 해서요.",
         "MessageTW": "一起活動一下身體呢？",
-        "MessageEN": "come to the training center and do some warm-ups."
+        "MessageEN": "do warm ups with me at the training center."
     },
     {
         "MessageId": 200440470,
@@ -135,7 +135,7 @@
         "ImagePath": "",
         "MessageJP": "……私が？",
         "MessageKR": "저…… 요?",
-        "MessageTW": "我……？",
+        "MessageTW": "討論我……？",
         "MessageEN": "Me...?"
     },
     {
@@ -232,7 +232,7 @@
         "MessageJP": "すぐに向かいます！",
         "MessageKR": "그러면 사양하지 않고, 그렇게 하도록 하겠습니다.",
         "MessageTW": "那麼我就不客氣了，待會見",
-        "MessageEN": "In that case, let's do that."
+        "MessageEN": "In that case, I'll see you soon."
     },
     {
         "MessageId": 200430557,
@@ -243,7 +243,7 @@
         "ImagePath": "",
         "MessageJP": "スミレ（アルバイト）の絆イベントへ",
         "MessageKR": "스미레(아르바이트)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往堇（打工）的羈絆劇情",
+        "MessageEN": "Go to Sumire (Part-Timer)'s Bond Story"
     }
 ]

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、悪いんだが……",
         "MessageKR": "선생님. 미안한데 말이지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，不好意思",
+        "MessageEN": "Sensei. Sorry to ask this."
     },
     {
         "MessageId": 200140330,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっとシャーレの休憩室を見てくれないか？",
         "MessageKR": "혹시 휴게실에 책 하나 있나 찾아봐 줄 수 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "能幫我看看休息室有沒有一本書嗎？",
+        "MessageEN": "But by chance, did I leave a book in the lounge?"
     },
     {
         "MessageId": 200140340,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "テーブルの上に本があると思うんだが",
         "MessageKR": "아마도 테이블 위에 있을 텐데, 있으면 보관해 줘.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "應該在桌上才對，如果有看到的請幫我收起來",
+        "MessageEN": "It might be on a table. If you find it, please keep it safe for me."
     },
     {
         "MessageId": 200140350,
@@ -62,9 +62,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "「空井」と書いてあるから、すぐにわかるはずだ",
-        "MessageKR": "소라이' 라고 이름 적혀있어서 한눈에 알아볼 수 있을 거야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "‘소라이’ 라고 이름 적혀있어서 한눈에 알아볼 수 있을 거야.",
+        "MessageTW": "上面寫著「空井」的名字，應該一眼就能認出來",
+        "MessageEN": "It has \"Sorai\" written on it, so you'll know right away."
     },
     {
         "MessageId": 200140360,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "あったら保管しておいてくれ。取りに行く！",
         "MessageKR": "알았지? 이따가 샬레에 들릴 때 받아 갈게!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "知道了嗎？我等等到夏萊的時候再跟你拿！",
+        "MessageEN": "Got it? I'll pick it up when I visit Schale later!"
     },
     {
         "MessageId": 200130377,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "今日のことは忘れろ",
         "MessageKR": "선생님, 오늘은 아무것도 못 본 거야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，你今天什麼都沒看到",
+        "MessageEN": "Sensei. You saw nothing today."
     },
     {
         "MessageId": 200140380,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "もし情報が漏れたら、武力行使も辞さない",
         "MessageKR": "정보 누설하면, 무력행사도 불사할 거야!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要是洩露情報的話，我可是會不惜動用武力的哦！",
+        "MessageEN": "If you spill anything, I'll resort to brute force!"
     },
     {
         "MessageId": 200140390,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "油性ペン、落ちないね……",
         "MessageKR": "이거 유성펜이라서 잘 안 지워지더라.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這是簽字筆，不太容易擦掉耶",
+        "MessageEN": "That was permanent marker, so it didn't wash off easily."
     },
     {
         "MessageId": 200140400,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "いい気味だ！",
         "MessageKR": "쌤통이네!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你活該！",
+        "MessageEN": "You had it coming!"
     },
     {
         "MessageId": 200140410,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "サキが書き込んだなら、私も大事な教範かな？",
         "MessageKR": "사키가 글씨를 써주니까 교범이 된 것 같네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為咲希幫忙寫字，感覺好像變成教戰手冊了呢",
+        "MessageEN": "Looks like it became a manual because you wrote it, Saki."
     },
     {
         "MessageId": 200140420,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "なっに　を",
         "MessageKR": "ㄹㄴㅇ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你在胡說",
+        "MessageEN": "asdf"
     },
     {
         "MessageId": 200140421,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "い言っ",
         "MessageKR": "ㄴㅇㄹ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "八道什麼",
+        "MessageEN": "asdfa"
     },
     {
         "MessageId": 200140430,
@@ -183,7 +183,7 @@
         "ImagePath": "",
         "MessageJP": "……迫撃砲の味を体験したいのか！？",
         "MessageKR": "박격포 들고 갈 테니까 기다려.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "想嚐嚐迫擊砲的滋味是吧，你給我等著",
+        "MessageEN": "I'm heading over with a mortar. Wait right there."
     }
 ]

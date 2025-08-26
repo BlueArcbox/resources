@@ -9755,13 +9755,17 @@
             "/api/Avatars/Fandom/Rei_Icon.png"
         ],
         "Name": {
+            "en": "Rei",
             "jp": "レイ",
             "kr": "레이",
+            "tw": "莉",
             "zh": "莱依"
         },
         "Bio": {
+            "en": "First, gonna get that 0.10 batting average!",
             "jp": "まずは打率1割を！",
             "kr": "우선은 1할을 목표로",
+            "tw": "先以一成打擊率為目標！",
             "zh": "先把打击率拉到1成！"
         },
         "Nickname": [
@@ -9782,13 +9786,17 @@
             "/api/Avatars/Fandom/Sumire_Part_Timer_Icon.png"
         ],
         "Name": {
+            "en": "Sumire (Part-Timer)",
             "jp": "スミレ（アルバイト）",
             "kr": "스미레(아르바이트)",
+            "tw": "堇（打工）",
             "zh": "堇（打工）"
         },
         "Bio": {
+            "en": "Would you like a protein drink?",
             "jp": "ドリンク、いかがですか？",
             "kr": "단백질 드링크, 어떠세요?",
+            "tw": "要不要來杯飲料呀？",
             "zh": "来杯饮料吧？"
         },
         "Nickname": [

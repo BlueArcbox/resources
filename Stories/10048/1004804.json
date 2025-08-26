@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、知っていたらでいいんだが",
         "MessageKR": "선생. 혹시나 알고 있다면 말인데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，我想老師說不定會知道",
+        "MessageEN": "Sensei. This may be a long shot, but I have a question."
     },
     {
         "MessageId": 100480330,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "腕の立つ修理工はいるか？",
         "MessageKR": "좋은 수리공을 알고 있나?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請問你有認識手藝不錯的修理工嗎？",
+        "MessageEN": "Would you happen to know a skilled repairman?"
     },
     {
         "MessageId": 100480331,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "装備が壊れてしまってな",
         "MessageKR": "꼭 고치고 싶은 장비가 있다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我有設備想要修理",
+        "MessageEN": "I have a piece of equipment I'm really hoping can be fixed..."
     },
     {
         "MessageId": 100480340,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "どのタイプの装備？",
         "MessageKR": "응? 어떤 종류의 장비야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯？是什麼種類的設備？",
+        "MessageEN": "Hm? What is it?"
     },
     {
         "MessageId": 100480350,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "それは……",
         "MessageKR": "그건…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這……",
+        "MessageEN": "That's..."
     },
     {
         "MessageId": 100480360,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "……説明が難しいな",
         "MessageKR": "여기서 말하긴 좀 복잡하군.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "說來話長，在這裡有點難解釋",
+        "MessageEN": "It's a bit complicated to explain over MomoTalk."
     },
     {
         "MessageId": 100480370,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "話したほうが早い",
         "MessageKR": "내가 그쪽으로 가겠다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我過去找你",
+        "MessageEN": "I'll head to where you are,"
     },
     {
         "MessageId": 100480371,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "シャーレに向かう",
         "MessageKR": "만나서 이야기하지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "直接見面談吧",
+        "MessageEN": "so we can speak in person."
     },
     {
         "MessageId": 100470377,

@@ -3,8 +3,8 @@
         "CharacterId": 20044,
         "MessageJP": "スミレ（アルバイト）",
         "MessageKR": "스미레(아르바이트)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "堇（打工）",
+        "MessageEN": "Sumire (Part-Timer)"
     },
     {
         "MessageId": 200430010,
@@ -351,8 +351,8 @@
         "ImagePath": "",
         "MessageJP": "スミレ（アルバイト）の絆イベントへ",
         "MessageKR": "스미레(아르바이트)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往堇（打工）的羈絆劇情",
+        "MessageEN": "Go to Sumire (Part-Timer)'s Bond Story"
     },
     {
         "MessageId": 200440190,
@@ -399,7 +399,7 @@
         "ImagePath": "",
         "MessageJP": "以前お話ししていたトレーニングマシン",
         "MessageKR": "일전에 말씀드린 그 트레이닝 머신을.",
-        "MessageTW": "就是我之前提過的那款訓練機",
+        "MessageTW": "之前提過的那款訓練機",
         "MessageEN": "It's about the workout machine I wanted."
     },
     {
@@ -459,7 +459,7 @@
         "ImagePath": "",
         "MessageJP": "だからこそ、不思議なのですが……",
         "MessageKR": "그렇지만 트레이닝 역시",
-        "MessageTW": "不過這跟訓練其實也差不多",
+        "MessageTW": "不過這其實跟訓練也相差無幾",
         "MessageEN": "Training is similar."
     },
     {

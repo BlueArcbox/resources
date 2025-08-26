@@ -3,8 +3,8 @@
         "CharacterId": 20044,
         "MessageJP": "スミレ（アルバイト）",
         "MessageKR": "스미레(아르바이트)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "堇（打工）",
+        "MessageEN": "Sumire (Part-Timer)"
     },
     {
         "MessageId": 200430290,
@@ -171,7 +171,7 @@
         "ImagePath": "",
         "MessageJP": "スミレ（アルバイト）の絆イベントへ",
         "MessageKR": "스미레(아르바이트)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往堇（打工）的羈絆劇情",
+        "MessageEN": "Go to Sumire (Part-Timer)'s Bond Story"
     }
 ]
