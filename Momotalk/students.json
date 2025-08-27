@@ -901,33 +901,6 @@
         "Related": null
     },
     {
-        "Id": 253,
-        "Avatar": [
-            "/api/Avatars/Kivo/Unreleased/Akira.webp",
-            "/api/Avatars/Fandom/Akira_Icon.png"
-        ],
-        "Name": {
-            "en": "Akira",
-            "jp": "アキラ",
-            "kr": "아키라",
-            "tw": "晶",
-            "zh": "晶"
-        },
-        "Bio": {
-            "en": "Hidden myself behind a mask...",
-            "jp": "マスクの奥に隠れて...",
-            "kr": "마스크 뒤에 숨어있어...",
-            "tw": "藏於面具之後...",
-            "zh": "藏于面具之后..."
-        },
-        "Nickname": [
-            "Akira"
-        ],
-        "Club": "Seven Prisoners",
-        "Released": false,
-        "Related": null
-    },
-    {
         "Id": 385,
         "Avatar": [
             "/api/Avatars/Kivo/Unreleased/Akemi.webp",
@@ -1002,6 +975,71 @@
             "䌷"
         ],
         "School": "Wild Hunt Academy of Arts",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 253,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/Akira.webp",
+            "/api/Avatars/Fandom/Akira_Icon.png",
+            "/api/Avatars/Kivo/Unreleased/清澄 晶_制服.png"
+        ],
+        "Name": {
+            "en": "Akira",
+            "jp": "アキラ",
+            "kr": "아키라",
+            "tw": "晶",
+            "zh": "晶"
+        },
+        "Bio": {
+            "en": "Hidden myself behind a mask...",
+            "jp": "マスクの奥に隠れて...",
+            "kr": "마스크 뒤에 숨어있어...",
+            "tw": "藏於面具之後...",
+            "zh": "藏于面具之后..."
+        },
+        "Nickname": [
+            "Akira"
+        ],
+        "School": "WildHunt",
+        "Club": "Seven Prisoners",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 550,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/衣斐 莱娜_original.png"
+        ],
+        "Name": {
+            "en": "Rena",
+            "jp": "レナ",
+            "zh": "莱娜"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Rena"
+        ],
+        "School": "WildHunt",
+        "Released": false,
+        "Related": null
+    },
+    {
+        "Id": 554,
+        "Avatar": [
+            "/api/Avatars/Kivo/Unreleased/美代_original.png"
+        ],
+        "Name": {
+            "en": "Miyo",
+            "jp": "ミヨ",
+            "zh": "美代"
+        },
+        "Bio": {},
+        "Nickname": [
+            "Miyo"
+        ],
+        "School": "WildHunt",
         "Released": false,
         "Related": null
     },
@@ -6763,7 +6801,8 @@
         "Id": 10060,
         "Avatar": [
             "/api/Avatars/Kivo/Released/10060.webp",
-            "/api/Avatars/Fandom/Megu_Icon.png"
+            "/api/Avatars/Fandom/Megu_Icon.png",
+            "/api/Avatars/Kivo/Unreleased/鬼怒川 霞_泳装.png"
         ],
         "Name": {
             "en": "Megu",
@@ -7835,7 +7874,8 @@
         "Id": 10078,
         "Avatar": [
             "/api/Avatars/Kivo/Released/10078.webp",
-            "/api/Avatars/Fandom/Kasumi_Icon.png"
+            "/api/Avatars/Fandom/Kasumi_Icon.png",
+            "/api/Avatars/Kivo/Unreleased/鬼怒川 霞_泳装.png"
         ],
         "Name": {
             "en": "Kasumi",
@@ -10214,8 +10254,7 @@
         },
         "Nickname": [
             "Ichika",
-            "水一花",
-            "大号杂鱼酱"
+            "水一花"
         ],
         "Birthday": "11/11",
         "Age": "16歳",
@@ -10241,7 +10280,7 @@
         "Bio": {
             "jp": "一緒に泳いでくれる人募集！",
             "kr": "같이 수영할 사람 모집 중!",
-            "zh": ""
+            "zh": "诚招一起游泳的人！"
         },
         "Nickname": [
             "Mika"
@@ -10270,7 +10309,7 @@
         "Bio": {
             "jp": "業務に関する連絡はセイアさんにお願いします。",
             "kr": "당분간 업무 관련 문의는 세이아 씨에게로 부탁드립니다.",
-            "zh": ""
+            "zh": "业务相关事务请联络圣娅同学。"
         },
         "Nickname": [
             "Nagisa"
@@ -10289,7 +10328,7 @@
     {
         "Id": 10125,
         "Avatar": [
-            "/kivo/students/白尾 绘里/original/Student_Portrait_CH0304_Collection.png"
+            "/api/Avatars/Kivo/Released/10125.webp"
         ],
         "Name": {
             "jp": "エリ",
