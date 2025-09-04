@@ -10376,5 +10376,34 @@
         "Star": 3,
         "Released": true,
         "Related": null
+    },
+    {
+        "Id": 20049,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/20049.webp"
+        ],
+        "Name": {
+            "jp": "ミサキ（水着）",
+            "kr": "미사키(수영복)",
+            "zh": "美咲（泳装）"
+        },
+        "Bio": {
+            "jp": "少しでも、晴れるといいな……。",
+            "kr": "조금이지만, 날이 맑았으면.",
+            "zh": "稍微放晴一些的话，就好了呢……"
+        },
+        "Nickname": [
+            "Misaki"
+        ],
+        "Birthday": "1/13",
+        "Age": "16歳",
+        "School": "Arius",
+        "Club": "AriusSqud",
+        "Star": 3,
+        "Released": true,
+        "Related": {
+            "ItemId": 10041,
+            "ItemType": "水着"
+        }
     }
 ]

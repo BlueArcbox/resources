@@ -3214,6 +3214,19 @@
             true
         ]
     },
+    "20049": {
+        "kivo_id": 384,
+        "avatar": "https://static.kivo.wiki/images/students/戒野 美咲/泳装/Student_Portrait_CH0268_Collection.png",
+        "momotalk": "稍微放晴一些的话，就好了呢……",
+        "name_en": "Misaki",
+        "name_jp": "ミサキ（水着）",
+        "name_zh": "美咲（泳装）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
     "23000": {
         "kivo_id": 10,
         "gamekee_id": 66274,
