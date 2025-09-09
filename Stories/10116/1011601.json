@@ -3,8 +3,8 @@
         "CharacterId": 10116,
         "MessageJP": "サオリ（ドレス）",
         "MessageKR": "사오리(드레스)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沙織（禮服）",
+        "MessageEN": "Saori (Dress)"
     },
     {
         "MessageId": 101150010,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、今は忙しいだろうか？",
         "MessageKR": "선생. 혹시 바쁜가?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，你現在忙嗎？",
+        "MessageEN": "Sensei. Are you occupied at this moment?"
     },
     {
         "MessageId": 101160020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "全然！",
         "MessageKR": "아니! 전혀!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不會！完全不忙！",
+        "MessageEN": "No! Not at all!"
     },
     {
         "MessageId": 101160020,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ちょうど暇だったところ！",
         "MessageKR": "마침 한가한 참이었어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我正好很閒！",
+        "MessageEN": "I happen to be super free!"
     },
     {
         "MessageId": 101160030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "そ、そうか",
         "MessageKR": "그, 그렇군.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這，這樣啊",
+        "MessageEN": "...I see."
     },
     {
         "MessageId": 101160040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "先生に直接アドバイスをもらいたいことがあってな",
         "MessageKR": "선생의 조언이 필요하다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我需要老師的建議",
+        "MessageEN": "I require your advice."
     },
     {
         "MessageId": 101160041,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "すまないが、シャーレに行ってもいいか？",
         "MessageKR": "미안하지만……. 잠시 샬레에 들러도 괜찮겠나?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不好意思……我可以到夏萊坐坐嗎？",
+        "MessageEN": "I apologize in advance for the inconvenience, but may I pay you a visit at Schale?"
     },
     {
         "MessageId": 101160050,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "もちろん！",
         "MessageKR": "물론이지!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然！",
+        "MessageEN": "Of course!"
     },
     {
         "MessageId": 101160050,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "いつでも歓迎だよ！",
         "MessageKR": "상담은 언제나 환영이야!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要諮詢的話隨時歡迎！",
+        "MessageEN": "Consultations are always welcome!"
     },
     {
         "MessageId": 101160060,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "……了解",
         "MessageKR": "……알겠다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……我明白了",
+        "MessageEN": "...Understood."
     },
     {
         "MessageId": 101160061,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "すぐに向かう",
         "MessageKR": "그럼 곧 가지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那我馬上過去",
+        "MessageEN": "I'll be there soon then."
     },
     {
         "MessageId": 101150077,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "サオリ（ドレス）の絆イベントへ",
         "MessageKR": "사오리(드레스)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往沙織（禮服）的羈絆劇情",
+        "MessageEN": "Go to Saori (Dress)'s Bond Story"
     },
     {
         "MessageId": 101160070,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "先生、私だ",
         "MessageKR": "선생. 나다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，是我",
+        "MessageEN": "Sensei. It's me."
     },
     {
         "MessageId": 101160080,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "色々試したおかげで",
         "MessageKR": "뭔가 많은 일이 있었던 것 같지만…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然發生了很多事……",
+        "MessageEN": "It was a whirlwind of activity..."
     },
     {
         "MessageId": 101160081,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "自然なポーズが分かってきた気がする",
         "MessageKR": "덕분에 자연스러운 포즈에 대해 알게 되었다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過多虧老師，我瞭解到了什麼是自然的姿勢",
+        "MessageEN": "Thanks to your tutelage, I have a better understanding of natural poses."
     },
     {
         "MessageId": 101160090,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "……ありがとう",
         "MessageKR": "그러니까…… 감사하다는 말이다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以……我想跟老師說聲謝謝",
+        "MessageEN": "The thing I am attempting to communicate is...thank you."
     },
     {
         "MessageId": 101160100,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "この借りはいつか必ず返す",
         "MessageKR": "이 빚은 언젠가 갚도록 하지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總有一天，我會報答這份人情的",
+        "MessageEN": "I will repay you."
     },
     {
         "MessageId": 101160110,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "サオリの写真が撮れるならそれで……",
         "MessageKR": "나는 사오리의 사진이면 되는데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我只要有沙織的照片就滿足了",
+        "MessageEN": "A photo of you will do."
     },
     {
         "MessageId": 101160120,
@@ -231,7 +231,7 @@
         "ImagePath": "",
         "MessageJP": "ダメだ！",
         "MessageKR": "그건 안 된다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個不行！",
+        "MessageEN": "Absolutely not!"
     }
 ]

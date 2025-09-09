@@ -40,7 +40,7 @@
         "MessageJP": "あっ、先生の場合は本ではなく……",
         "MessageKR": "아, 책을 보는 게 아니라……",
         "MessageTW": "啊，如果是老師的話應該不是書……",
-        "MessageEN": "Oh, I don't really read..."
+        "MessageEN": "Ah, in your case it isn't books..."
     },
     {
         "MessageId": 260040097,
@@ -52,7 +52,7 @@
         "MessageJP": "お仕事の書類、でしょうか？",
         "MessageKR": "업무를 보고 계시려나요?",
         "MessageTW": "是工作的文件，對吧？",
-        "MessageEN": "Then, do you work?"
+        "MessageEN": "Work documents, right?"
     },
     {
         "MessageId": 260040100,

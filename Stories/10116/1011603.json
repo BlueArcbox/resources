@@ -3,8 +3,8 @@
         "CharacterId": 10116,
         "MessageJP": "サオリ（ドレス）",
         "MessageKR": "사오리(드레스)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沙織（禮服）",
+        "MessageEN": "Saori (Dress)"
     },
     {
         "MessageId": 101150290,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 101160300,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今日、時間はあるだろうか",
         "MessageKR": "오늘 일정 괜찮나?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請問你今天有空嗎？",
+        "MessageEN": "Do you have time today?"
     },
     {
         "MessageId": 101160310,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "もちろん！",
         "MessageKR": "물론이지!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然！",
+        "MessageEN": "Of course!"
     },
     {
         "MessageId": 101160310,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "サオリのための時間ならいくらでも！",
         "MessageKR": "사오리를 위한 일정은 항상 비어 있어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只要是為了沙織，我的行程隨時都可以空下來！",
+        "MessageEN": "My schedule is always open for you!"
     },
     {
         "MessageId": 101160320,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "そうか",
         "MessageKR": "그렇군.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這樣啊",
+        "MessageEN": "I see."
     },
     {
         "MessageId": 101160330,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "モデルのバイト代が入ったので",
         "MessageKR": "모델 아르바이트의 대금이 들어왔다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我收到之前模特兒打工的酬勞了",
+        "MessageEN": "I received my paycheck for my part-time modelling work."
     },
     {
         "MessageId": 101160331,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "今まで世話になった分お礼がしたい",
         "MessageKR": "그래서 그동안 신세 진 것에 대한 은혜를 갚고 싶은데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以想報答老師這段時間對我的關照",
+        "MessageEN": "I was hoping to use it to repay you for all you've done."
     },
     {
         "MessageId": 101160332,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "こういう時は高級料理をふるまうと聞いた",
         "MessageKR": "이럴 땐 비싼 식당에서 비싼 음식을 사주는 거라 들었어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我曾聽說這種時候，通常會去高級餐廳請對方吃高級料理",
+        "MessageEN": "I've heard that, in situations like this, I should buy you an expensive meal at an expensive restaurant."
     },
     {
         "MessageId": 101160340,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "私は普通のお店が好きだなあ",
         "MessageKR": "난 비싼 음식보다 간단한 게 더 좋은데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "跟昂貴的料理相比，我更喜歡簡單家常一點的",
+        "MessageEN": "Simple meals are best!"
     },
     {
         "MessageId": 101160350,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "そうなのか？しかし……",
         "MessageKR": "음, 그런가? 하지만…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔嗯，是嗎？可是……",
+        "MessageEN": "Hm, is that so? But..."
     },
     {
         "MessageId": 101160360,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "大事なのは気持ちだから！",
         "MessageKR": "가격보단 마음이 중요한 거야!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "心意比價格更重要哦！",
+        "MessageEN": "It's the thought that counts!!"
     },
     {
         "MessageId": 101160370,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "そうか……分かった",
         "MessageKR": "……그래. 알겠다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……嗯，我知道了",
+        "MessageEN": "...Understood."
     },
     {
         "MessageId": 101160371,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "では、先生がよく行く飲食街を教えてくれ",
         "MessageKR": "그럼, 선생이 평소에 자주 가는 식당 거리에서 만나지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼，我們就約在老師常去的美食街吧",
+        "MessageEN": "In that case, let us meet at that food street you frequent often, Sensei."
     },
     {
         "MessageId": 101160380,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "そこで待っている",
         "MessageKR": "약속 시간에 맞춰 기다리고 있겠어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我會在約定時間等老師來的",
+        "MessageEN": "I'll see you soon."
     },
     {
         "MessageId": 101150397,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "サオリ（ドレス）の絆イベントへ",
         "MessageKR": "사오리(드레스)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往沙織（禮服）的羈絆劇情",
+        "MessageEN": "Go to Saori (Dress)'s Bond Story"
     },
     {
         "MessageId": 101160390,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "先生\u200b",
         "MessageKR": "선생.\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師\u200b",
+        "MessageEN": "Sensei.\u200b"
     },
     {
         "MessageId": 101160400,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "その……今日はすごく楽しかった",
         "MessageKR": "그…… 오늘은 정말 즐거웠다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個……今天真的很開心",
+        "MessageEN": "I...I had a good time today."
     },
     {
         "MessageId": 101160401,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "料理も素晴らしいものだった",
         "MessageKR": "선생의 요리도 훌륭했어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師的料理也很棒",
+        "MessageEN": "And your dish was very good."
     },
     {
         "MessageId": 101160410,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "お礼をしたかったのに",
         "MessageKR": "오늘은 내가 보답하려 했는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天本來是我要好好報答老師才對",
+        "MessageEN": "I had hoped to treat you out today,"
     },
     {
         "MessageId": 101160411,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "また世話になってしまったな",
         "MessageKR": "또 신세를 지고 말았군.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "結果又麻煩老師了",
+        "MessageEN": "yet somehow, I ended up being the one who benefitted."
     },
     {
         "MessageId": 101160420,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "こちらこそ！気にしないで！",
         "MessageKR": "아니야. 신세는 내가 졌는걸.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "別這麼說，收到好處的是我才對",
+        "MessageEN": "Not at all. I enjoyed it."
     },
     {
         "MessageId": 101160430,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "次こそ私にお礼をさせてくれ",
         "MessageKR": "다음에는 정말 제대로 대접하겠다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下次我一定會好好招待老師",
+        "MessageEN": "I'll treat you properly next time."
     },
     {
         "MessageId": 101160440,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "それと、念のため言っておくが",
         "MessageKR": "아…… 그리고 혹시나 해서 또 강조한다만.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊……為了以防萬一，我再強調一次",
+        "MessageEN": "Ah... And I would like to emphasize that you should not EVER"
     },
     {
         "MessageId": 101160441,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "今日の写真は、絶対ほかの人に見せたらダメだぞ",
         "MessageKR": "오늘 찍은 사진, 절대로 다른 사람은 보여주면 안 된다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天拍的照片，絕對不能給其他人看哦",
+        "MessageEN": "show anyone the photo from today."
     },
     {
         "MessageId": 101160442,
@@ -315,7 +315,7 @@
         "ImagePath": "",
         "MessageJP": "絶対に、だ",
         "MessageKR": "절대로다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "絕對不行",
+        "MessageEN": "Never."
     }
 ]
