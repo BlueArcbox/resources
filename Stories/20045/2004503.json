@@ -3,8 +3,8 @@
         "CharacterId": 20045,
         "MessageJP": "フィーナ（ガイド）",
         "MessageKR": "피나(가이드)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "菲娜（導覽員）",
+        "MessageEN": "Pina (Guide)"
     },
     {
         "MessageId": 200440260,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "フィーナ（ガイド）の絆イベントへ",
         "MessageKR": "피나(가이드)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往菲娜（導覽員）的羈絆劇情",
+        "MessageEN": "Go to Pina (Guide)'s Bond Story"
     },
     {
         "MessageId": 200450290,

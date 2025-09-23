@@ -9897,13 +9897,17 @@
             "/gamekee/w_550/h_550/829/43637/2024/3/11/529345.png"
         ],
         "Name": {
+            "en": "Hikari",
             "jp": "ヒカリ",
             "kr": "히카리",
+            "tw": "光",
             "zh": "光"
         },
         "Bio": {
+            "en": "↑↑↓↓←→←→",
             "jp": "↑↑↓↓←→←→",
             "kr": "↑↑↓↓←→←→",
+            "tw": "↑↑↓↓←→←→",
             "zh": "↑↑↓↓←→←→"
         },
         "Nickname": [
@@ -9927,13 +9931,17 @@
             "/gamekee/w_550/h_550/829/43637/2024/3/11/736958.png"
         ],
         "Name": {
+            "en": "Nozomi",
             "jp": "ノゾミ",
             "kr": "노조미",
+            "tw": "希望",
             "zh": "望"
         },
         "Bio": {
+            "en": "High-Speed Express Runaway Train!!",
             "jp": "急行快速、爆走特急～！！",
             "kr": "급속쾌속폭주질주~!!",
+            "tw": "急速快速暴走疾馳～！！",
             "zh": "急行快速，暴走特急～！！"
         },
         "Nickname": [
@@ -9956,13 +9964,17 @@
             "/api/Avatars/Fandom/Aoba_Icon.png"
         ],
         "Name": {
+            "en": "Aoba",
             "jp": "アオバ",
             "kr": "아오바",
+            "tw": "青葉",
             "zh": "青叶"
         },
         "Bio": {
+            "en": "Life is disaster",
             "jp": "Life is disaster.",
             "kr": "Life is disaster",
+            "tw": "Life is disaster",
             "zh": "Life is disaster."
         },
         "Nickname": [
@@ -9983,13 +9995,17 @@
             "/api/Avatars/Fandom/Pina_Guide_Icon.png"
         ],
         "Name": {
+            "en": "Pina (Guide)",
             "jp": "フィーナ（ガイド）",
             "kr": "피나(가이드)",
+            "tw": "菲娜（導覽員）",
             "zh": "菲娜（导游）"
         },
         "Bio": {
+            "en": "For today, I'm the guide!",
             "jp": "本日のガイドはワタシデース！",
             "kr": "오늘의 가이드는 저입니다!",
+            "tw": "今天的導覽員就是我！",
             "zh": "今天的导游就是我啦—！"
         },
         "Nickname": [

@@ -3,8 +3,8 @@
         "CharacterId": 16017,
         "MessageJP": "アオバ",
         "MessageKR": "아오바",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "青葉",
+        "MessageEN": "Aoba"
     },
     {
         "MessageId": 160160330,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "アオバの絆イベントへ",
         "MessageKR": "아오바의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往青葉的羈絆劇情",
+        "MessageEN": "Go to Aoba's Bond Story"
     },
     {
         "MessageId": 160170410,
