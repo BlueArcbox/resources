@@ -10029,13 +10029,17 @@
             "/api/Avatars/Fandom/Nagusa_Icon.png"
         ],
         "Name": {
+            "en": "Nagusa",
             "jp": "ナグサ",
             "kr": "나구사",
+            "tw": "名草",
             "zh": "名草"
         },
         "Bio": {
+            "en": "I can do this",
             "jp": "大丈夫、私は……。",
             "kr": "나는 할 수 있다",
+            "tw": "我做得到",
             "zh": "我，没问题的……。"
         },
         "Nickname": [
@@ -10057,13 +10061,17 @@
             "/api/Avatars/Fandom/Niya_Icon.png"
         ],
         "Name": {
+            "en": "Niya",
             "jp": "ニヤ",
             "kr": "니야",
+            "tw": "仁耶",
             "zh": "尼娅"
         },
         "Bio": {
+            "en": "Please contact the VP regarding work consultations.",
             "jp": "業務に関してはお気軽に副部長まで～",
             "kr": "업무 상담은 부담 없이 부부장에게 부탁드립니다.",
+            "tw": "業務問題請放心向副部長洽詢",
             "zh": "业务相关请随时联络副部长~"
         },
         "Nickname": [

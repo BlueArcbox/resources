@@ -3,8 +3,8 @@
         "CharacterId": 10119,
         "MessageJP": "ナグサ",
         "MessageKR": "나구사",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "名草",
+        "MessageEN": "Nagusa"
     },
     {
         "MessageId": 101180380,
@@ -183,7 +183,7 @@
         "ImagePath": "",
         "MessageJP": "ナグサの絆イベントへ",
         "MessageKR": "나구사의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往名草的羈絆劇情",
+        "MessageEN": "Go to Nagusa's Bond Story"
     }
 ]
