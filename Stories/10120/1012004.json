@@ -3,8 +3,8 @@
         "CharacterId": 10120,
         "MessageJP": "ナツ（バンド）",
         "MessageKR": "나츠(밴드)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "夏（樂團）",
+        "MessageEN": "Natsu (Band)"
     },
     {
         "MessageId": 101190170,
@@ -75,7 +75,7 @@
         "ImagePath": "",
         "MessageJP": "ナツ（バンド）の絆イベントへ",
         "MessageKR": "나츠(밴드)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往夏（樂團）的羈絆劇情",
+        "MessageEN": "Go to Natsu (Band)'s Bond Story"
     }
 ]

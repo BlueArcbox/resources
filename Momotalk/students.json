@@ -10093,13 +10093,17 @@
             "/api/Avatars/Fandom/Natsu_Band_Icon.png"
         ],
         "Name": {
+            "en": "Natsu (Band)",
             "jp": "ナツ（バンド）",
             "kr": "나츠(밴드)",
+            "tw": "夏（樂團）",
             "zh": "夏（乐队）"
         },
         "Bio": {
+            "en": "Drums of Antinomy",
             "jp": "ドラム=アンチノミー",
             "kr": "드럼=안티노미",
+            "tw": "鼓＝Antinomy",
             "zh": "鼓=矛盾"
         },
         "Nickname": [
