@@ -10127,13 +10127,17 @@
             "/api/Avatars/Fandom/Yukari_Swimsuit_Icon.png"
         ],
         "Name": {
+            "en": "Yukari (Swimsuit)",
             "jp": "ユカリ（水着）",
             "kr": "유카리(수영복)",
+            "tw": "紫（泳裝）",
             "zh": "紫（泳装）"
         },
         "Bio": {
+            "en": "It's my summer sea debut!",
             "jp": "びーちでびゅー、ですの！",
-            "kr": "소녀, 여름 바다에 데뷔~우와요!",
+            "kr": "소녀, 여름 바다에 데뷔~이와요!",
+            "tw": "小女子，夏日海邊出～道！",
             "zh": "向着沙滩，起跳！"
         },
         "Nickname": [
@@ -10158,13 +10162,17 @@
             "/api/Avatars/Fandom/Renge_Swimsuit_Icon.png"
         ],
         "Name": {
+            "en": "Renge (Swimsuit)",
             "jp": "レンゲ（水着）",
             "kr": "렌게(수영복)",
+            "tw": "蓮華（泳裝）",
             "zh": "莲华（泳装）"
         },
         "Bio": {
+            "en": "Let's \"youth it up\" at the sea!",
             "jp": "海って青春だよな！",
             "kr": "바다에서 청춘하자고!",
+            "tw": "在海邊享受青春吧！",
             "zh": "大海即青春！"
         },
         "Nickname": [
@@ -10188,13 +10196,17 @@
             "/api/Avatars/Fandom/Kikyou_Swimsuit_Icon.png"
         ],
         "Name": {
+            "en": "Kikyou (Swimsuit)",
             "jp": "キキョウ（水着）",
             "kr": "키쿄(수영복)",
+            "tw": "桔梗（泳裝）",
             "zh": "桔梗（泳装）"
         },
         "Bio": {
+            "en": "Falling flowers and flowing water",
             "jp": "落花流水",
             "kr": "낙화유수",
+            "tw": "落花流水",
             "zh": "落花流水"
         },
         "Nickname": [
