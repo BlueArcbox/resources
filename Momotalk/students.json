@@ -1026,24 +1026,6 @@
         "Related": null
     },
     {
-        "Id": 554,
-        "Avatar": [
-            "/api/Avatars/Kivo/Unreleased/美代_original.png"
-        ],
-        "Name": {
-            "en": "Miyo",
-            "jp": "ミヨ",
-            "zh": "美代"
-        },
-        "Bio": {},
-        "Nickname": [
-            "Miyo"
-        ],
-        "School": "WildHunt",
-        "Released": false,
-        "Related": null
-    },
-    {
         "Id": 170,
         "Avatar": [
             "/api/Avatars/Beatrice.webp",
@@ -1231,41 +1213,6 @@
         "Nickname": [
             "Nameless_Priests"
         ],
-        "Released": false,
-        "Related": null
-    },
-    {
-        "Id": 134,
-        "Avatar": [
-            "/api/Avatars/Kivo/Unreleased/Rabu.webp",
-            "/api/Avatars/Fandom/Rabu_Icon.png",
-            "/api/Avatars/Fandom/Rabu_Swimsuit_Icon.png"
-        ],
-        "Name": {
-            "en": "Rabu",
-            "jp": "ラブ",
-            "kr": "라브",
-            "tw": "良舞",
-            "zh": "兰舞"
-        },
-        "Bio": {
-            "en": "After all, I am Rabu, the Helmet Gangster officer!",
-            "jp": "ヘルメット団のリーダーだからね！",
-            "kr": "라브, 헬멧 거니스트 오피셜!",
-            "tw": "畢竟我是蘭舞，鋼盔團的領隊！",
-            "zh": "毕竟我是兰舞，钢盔团的领队！"
-        },
-        "Nickname": [
-            "Rabu",
-            "love",
-            "Helmet",
-            "Sukeban",
-            "不良少女",
-            "不良学生",
-            "钢盔团"
-        ],
-        "School": "Sukeban",
-        "Club": "Helmet Gang",
         "Released": false,
         "Related": null
     },
@@ -3801,7 +3748,8 @@
         "Id": 26004,
         "Avatar": [
             "/api/Avatars/Kivo/Released/26004.webp",
-            "/api/Avatars/Fandom/Shimiko_Icon.png"
+            "/api/Avatars/Fandom/Shimiko_Icon.png",
+            "/api/Avatars/Kivo/Unreleased/圆堂 志美子_魔法少女.png"
         ],
         "Name": {
             "en": "Shimiko",
@@ -10449,5 +10397,206 @@
             "ItemId": 10041,
             "ItemType": "水着"
         }
+    },
+    {
+        "Id": 10127,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10127.webp"
+        ],
+        "Name": {
+            "en": "Miyo",
+            "jp": "ミヨ",
+            "kr": "미요",
+            "zh": "美代"
+        },
+        "Bio": {
+            "jp": "校則は守りましょう……。",
+            "kr": "교칙을 지킵시다…….",
+            "zh": "一起遵守校规吧……。"
+        },
+        "Nickname": [
+            "Miyo"
+        ],
+        "Birthday": "8/26",
+        "Age": "16歳",
+        "School": "WildHunt",
+        "Club": "FreeTradeCartel",
+        "Star": 3,
+        "Released": true
+    },
+    {
+        "Id": 10128,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10128.webp"
+        ],
+        "Name": {
+            "en": "Fuyu",
+            "jp": "フユ",
+            "kr": "후유",
+            "zh": "冬"
+        },
+        "Bio": {
+            "jp": "メディア、アート、テクネー",
+            "kr": "테크네, 미디움, 아트",
+            "zh": "媒体，艺术，技术"
+        },
+        "Nickname": [
+            "Fuyu",
+            "冬优"
+        ],
+        "Birthday": "9/5",
+        "Age": "16歳",
+        "School": "WildHunt",
+        "Club": "FreeTradeCartel",
+        "Star": 3,
+        "Released": true
+    },
+    {
+        "Id": 20050,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/20050.webp"
+        ],
+        "Name": {
+            "en": "Ritsu",
+            "jp": "リツ",
+            "kr": "리츠",
+            "zh": "律"
+        },
+        "Bio": {
+            "jp": "縞模様の大理石どこー！",
+            "kr": "",
+            "zh": "哪里有带条纹的大理石——！"
+        },
+        "Nickname": [
+            "Ritsu"
+        ],
+        "Birthday": "3/6",
+        "Age": "15歳",
+        "School": "WildHunt",
+        "Club": "FreeTradeCartel",
+        "Star": 3,
+        "Released": true
+    },
+    {
+        "Id": 20051,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/20051.webp"
+        ],
+        "Name": {
+            "en": "Reisa (Magical)",
+            "jp": "レイサ (マジカル)",
+            "kr": "레이사(매지컬)",
+            "zh": "玲纱（魔法）"
+        },
+        "Bio": {
+            "jp": "The ♡ of Magical Girl",
+            "kr": "The ♡ of Magical Girl",
+            "zh": "The ♡ of Magical Girl"
+        },
+        "Nickname": [
+            "Reisa",
+            "魔芋"
+        ],
+        "Birthday": "5/31",
+        "Age": "15歳",
+        "School": "Trinity",
+        "Club": "TrinityVigilance",
+        "Star": 3,
+        "Released": true,
+        "Related": {
+            "ItemId": 10068,
+            "ItemType": "マジカル"
+        }
+    },
+    {
+        "Id": 10129,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10129.webp"
+        ],
+        "Name": {
+            "en": "Suzumi (Magical)",
+            "jp": "スズミ (マジカル)",
+            "kr": "스즈미(매지컬)",
+            "zh": "铃美（魔法）"
+        },
+        "Bio": {
+            "jp": "今日は平穏な一日でありますように……",
+            "kr": "오늘은 평안한 하루이기를……",
+            "zh": "希望今天也是平稳的一天……"
+        },
+        "Nickname": [
+            "Suzumi",
+            "魔闪"
+        ],
+        "Birthday": "8/31",
+        "Age": "16歳",
+        "School": "Trinity",
+        "Club": "TrinityVigilance",
+        "Star": 3,
+        "Released": true,
+        "Related": {
+            "ItemId": 16003,
+            "ItemType": "マジカル"
+        }
+    },
+    {
+        "Id": 16018,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/16018.webp",
+            "/api/Avatars/Fandom/Rabu_Icon.png",
+            "/api/Avatars/Fandom/Rabu_Swimsuit_Icon.png"
+        ],
+        "Name": {
+            "jp": "ラブ",
+            "kr": "라브",
+            "zh": "兰舞",
+            "tw": "良舞"
+        },
+        "Bio": {
+            "jp": "ジャブジャブヘルメット団、団員募集中！",
+            "kr": "퐁당퐁당 헬멧단, 단원 모집 중!",
+            "zh": "哗啦哗啦钢盔团，期待您的加入！"
+        },
+        "Nickname": [
+            "Rabu",
+            "love",
+            "Helmet",
+            "Sukeban",
+            "不良少女",
+            "不良学生",
+            "钢盔团"
+        ],
+        "Birthday": "5/6",
+        "Age": "16歳",
+        "School": "Trinity",
+        "Club": "EmptyClub",
+        "Star": 1,
+        "Released": true
+    },
+    {
+        "Id": 10130,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10130.webp"
+        ],
+        "Name": {
+            "jp": "スバル",
+            "kr": "스바루",
+            "zh": "昴"
+        },
+        "Bio": {
+            "jp": "",
+            "kr": "",
+            "zh": "每日一小步"
+        },
+        "Nickname": [
+            "Subaru",
+            "486"
+        ],
+        "Birthday": "3/9",
+        "Age": "17歳",
+        "School": "Arius",
+        "Club": "",
+        "Star": 3,
+        "Released": true
     }
 ]
