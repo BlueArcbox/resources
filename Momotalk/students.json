@@ -8687,9 +8687,11 @@
             "zh": "桃井（女仆）"
         },
         "Bio": {
+            "en": "Maid gamer...for life?",
             "jp": "メイドゲーマー……一筋？",
             "kr": "메이드 게이머 외길… 인생?",
-            "zh": "女仆玩家……专精？"
+            "zh": "女仆玩家……专精？",
+            "tw": "女僕玩家的……一本道人生？"
         },
         "Nickname": [
             "Momoi"
@@ -8719,9 +8721,11 @@
             "zh": "绿（女仆）"
         },
         "Bio": {
+            "en": "I'll put in my all today as well.",
             "jp": "今日も精進します。",
             "kr": "오늘도 정진하겠습니다.",
-            "zh": "今天也要努力精进。"
+            "zh": "今天也要努力精进。",
+            "tw": "今天也會持續精進"
         },
         "Nickname": [
             "Midori"
@@ -8751,9 +8755,11 @@
             "zh": "芹香（泳装）"
         },
         "Bio": {
+            "en": "On vacation!!",
             "jp": "休暇中！！！！！！！",
             "kr": "휴가 중!!!!!!!",
-            "zh": "休假中！！！！！！！"
+            "zh": "休假中！！！！！！！",
+            "tw": "休假中！！！！！！！"
         },
         "Nickname": [
             "Serika",
@@ -8784,9 +8790,11 @@
             "zh": "叶渚（泳装）"
         },
         "Bio": {
+            "en": "Service, sensitivity, and sincerity.",
             "jp": "奉仕、傾聴、誠実",
             "kr": "봉사, 경청, 성실",
-            "zh": "服务、倾听、诚实"
+            "zh": "服务、倾听、诚实",
+            "tw": "奉獻、傾聽、誠實"
         },
         "Nickname": [
             "Kanna"
@@ -8816,8 +8824,10 @@
             "zh": "吹雪（泳装）"
         },
         "Bio": {
+            "en": "What happened to my summer vacation...?",
             "jp": "私のバカンス……どこ……",
             "kr": "나의 피서는 어디에…....",
+            "tw": "我的避暑天堂跑哪去了……",
             "zh": "我的休假……哪去了……"
         },
         "Nickname": [
@@ -8848,8 +8858,10 @@
             "zh": "桐乃（泳装）"
         },
         "Bio": {
+            "tw": "On a lifeguard mission!",
             "jp": "ライフセーバーの任務中です！",
             "kr": "라이프가드 임무 중입니다!",
+            "en": "正在執行救生員任務！",
             "zh": "正在担任救生员！"
         },
         "Nickname": [
@@ -8880,8 +8892,10 @@
             "zh": "萌绘（泳装）"
         },
         "Bio": {
+            "en": "I need a missile...an enormous one...",
             "jp": "ミサイル……もっと大きなミサイル……",
             "kr": "미사일이 필요해… 엄청나게 큰 미사일이…",
+            "tw": "需要導彈……超大的導彈……",
             "zh": "导弹……更大的导弹……"
         },
         "Nickname": [
@@ -8912,8 +8926,10 @@
             "zh": "星野（临战）"
         },
         "Bio": {
+            "en": "Napping - Please call in case of an emergency!",
             "jp": "お昼寝中。急ぎのときは電話して～",
             "kr": "낮잠 중~ 긴급상황은 전화로 부탁!",
+            "tw": "午睡中～有急事就打給我～",
             "zh": "午睡中。急事请打电话~"
         },
         "Nickname": [
@@ -8950,8 +8966,10 @@
             "zh": "白子*恐怖"
         },
         "Bio": {
+            "en": "Recruiting a cycling party... (2/5)",
             "jp": "ライディング仲間募集中……（２/５）",
             "kr": "사이클링 파티 모집 중… (2/5)",
+            "tw": "自行車夥伴招募中……(2/5)",
             "zh": "自行车伙伴招募中…… (2/5)"
         },
         "Nickname": [
@@ -8975,38 +8993,6 @@
         }
     },
     {
-        "Id": 26013,
-        "Avatar": [
-            "/api/Avatars/Kivo/Released/26013.webp",
-            "/api/Avatars/Fandom/Atsuko_Swimsuit_Icon.png"
-        ],
-        "Name": {
-            "en": "Atsuko (Swimsuit)",
-            "jp": "アツコ（水着）",
-            "kr": "아츠코(수영복)",
-            "tw": "敦子（泳裝）",
-            "zh": "亚津子（泳装）"
-        },
-        "Bio": {
-            "jp": "人物写真を撮る練習してる",
-            "kr": "인물 사진 연습 중",
-            "zh": "正在练习拍摄人物照片"
-        },
-        "Nickname": [
-            "Atsuko"
-        ],
-        "Birthday": "1/20",
-        "Age": "15歳",
-        "School": "Arius",
-        "Club": "AriusSqud",
-        "Star": 1,
-        "Released": true,
-        "Related": {
-            "ItemId": 10042,
-            "ItemType": "水着"
-        }
-    },
-    {
         "Id": 10101,
         "Avatar": [
             "/api/Avatars/Kivo/Released/10101.webp",
@@ -9020,8 +9006,10 @@
             "zh": "纱织（泳装）"
         },
         "Bio": {
+            "en": "Always open to job inquiries.",
             "jp": "助っ人のお問い合わせは常時受けつけています",
             "kr": "구인 문의는 언제나 받고 있습니다.",
+            "tw": "隨時歡迎雇主諮詢",
             "zh": "随时接受求助者咨询"
         },
         "Nickname": [
@@ -9052,8 +9040,10 @@
             "zh": "日和（泳装）"
         },
         "Bio": {
+            "en": "Summer... Beach... Is this a dream?",
             "jp": "夏……海……もしかして夢！？",
             "kr": "여름…… 바다…… 혹시 꿈?",
+            "tw": "夏天……大海……難道這是夢嗎？",
             "zh": "夏天......大海......难道这是梦！？"
         },
         "Nickname": [
@@ -9071,6 +9061,40 @@
         }
     },
     {
+        "Id": 26013,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/26013.webp",
+            "/api/Avatars/Fandom/Atsuko_Swimsuit_Icon.png"
+        ],
+        "Name": {
+            "en": "Atsuko (Swimsuit)",
+            "jp": "アツコ（水着）",
+            "kr": "아츠코(수영복)",
+            "tw": "敦子（泳裝）",
+            "zh": "亚津子（泳装）"
+        },
+        "Bio": {
+            "en": "Practicing portrait photography",
+            "jp": "人物写真を撮る練習してる",
+            "kr": "인물 사진 연습 중",
+            "tw": "正在練習拍攝人物照",
+            "zh": "正在练习拍摄人物照片"
+        },
+        "Nickname": [
+            "Atsuko"
+        ],
+        "Birthday": "1/20",
+        "Age": "15歳",
+        "School": "Arius",
+        "Club": "AriusSqud",
+        "Star": 1,
+        "Released": true,
+        "Related": {
+            "ItemId": 10042,
+            "ItemType": "水着"
+        }
+    },
+    {
         "Id": 10103,
         "Avatar": [
             "/api/Avatars/Kivo/Released/10103.webp",
@@ -9084,8 +9108,10 @@
             "zh": "玛丽娜（旗袍）"
         },
         "Bio": {
+            "en": "I'm so...exposed, in this outfit...",
             "jp": "この服は……少し露出が……",
             "kr": "이케쿠라 마리나",
+            "tw": "這件衣服……暴露度有點……",
             "zh": "这件衣服……是不是有点太暴露了……"
         },
         "Nickname": [
@@ -9118,8 +9144,10 @@
             "zh": "智惠（旗袍）"
         },
         "Bio": {
+            "en": "Relaxing and touring",
             "jp": "休憩もかねてお散歩しています",
             "kr": "사시로 토모에",
+            "tw": "正在休息兼探訪中",
             "zh": "我正在散步，顺便休息一下"
         },
         "Nickname": [
@@ -9152,8 +9180,10 @@
             "zh": "丽情"
         },
         "Bio": {
+            "en": "If you want to train, ask me anytime.",
             "jp": "修行でしたらいつでも",
             "kr": "수행을 바라신다면 언제든지",
+            "tw": "若要修行隨時奉陪",
             "zh": "要修行随时奉陪"
         },
         "Nickname": [
@@ -9183,8 +9213,10 @@
             "zh": "妃咲"
         },
         "Bio": {
+            "en": "Sincerity from the heart.",
             "jp": "正心誠意",
             "kr": "성의정심",
+            "tw": "正心誠意",
             "zh": "正心诚意"
         },
         "Nickname": [
@@ -9215,8 +9247,10 @@
             "zh": "玛丽（偶像）"
         },
         "Bio": {
+            "en": "May strength be with this song",
             "jp": "この歌が届きますように",
             "kr": "이 노래에 힘이 깃들기를",
+            "tw": "願這首歌能充滿力量",
             "zh": "愿这首歌能够传递给您"
         },
         "Nickname": [
@@ -9247,8 +9281,10 @@
             "zh": "樱子（偶像）"
         },
         "Bio": {
+            "en": "This is the divine move.",
             "jp": "これが新たな一歩",
             "kr": "이것이 바로 신의 한 수",
+            "tw": "這就是神之一手",
             "zh": "这是崭新的一步"
         },
         "Nickname": [
@@ -9279,8 +9315,10 @@
             "zh": "美弥（偶像）"
         },
         "Bio": {
+            "en": "Please show your love to the Remedial Knights!",
             "jp": "救護騎士団の応援を何卒よろしくお願いします！",
             "kr": "구호기사단, 많이 사랑해 주세요!",
+            "tw": "請多多支持救護騎士團！",
             "zh": "请多多为救护骑士团应援！"
         },
         "Nickname": [
@@ -9296,6 +9334,37 @@
             "ItemId": 10058,
             "ItemType": "アイドル"
         }
+    },
+    {
+        "Id": 20040,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/20040.webp",
+            "/api/Avatars/Fandom/Satsuki_Icon.png"
+        ],
+        "Name": {
+            "en": "Satsuki",
+            "jp": "サツキ",
+            "kr": "사츠키",
+            "tw": "皐月",
+            "zh": "皋月"
+        },
+        "Bio": {
+            "en": "Recruiting test subjects/Inquire at P.S.",
+            "jp": "被験者を常時募集しているわ／お問い合わせは万魔殿まで",
+            "kr": "실험체 상시 모집/문의는 만마전에",
+            "tw": "隨時招募實驗對象/詳情請洽萬魔殿",
+            "zh": "长期征集受试者 / 详情请咨询万魔殿"
+        },
+        "Nickname": [
+            "Satsuki"
+        ],
+        "Birthday": "4/10",
+        "Age": "17歳",
+        "School": "Gehenna",
+        "Club": "PandemoniumSociety",
+        "Star": 3,
+        "Released": true,
+        "Related": null
     },
     {
         "Id": 10107,
@@ -9323,37 +9392,6 @@
         ],
         "Birthday": "9/22",
         "Age": "16歳",
-        "School": "Gehenna",
-        "Club": "PandemoniumSociety",
-        "Star": 3,
-        "Released": true,
-        "Related": null
-    },
-    {
-        "Id": 20040,
-        "Avatar": [
-            "/api/Avatars/Kivo/Released/20040.webp",
-            "/api/Avatars/Fandom/Satsuki_Icon.png"
-        ],
-        "Name": {
-            "en": "Satsuki",
-            "jp": "サツキ",
-            "kr": "사츠키",
-            "tw": "皐月",
-            "zh": "皋月"
-        },
-        "Bio": {
-            "en": "Recruiting test subjects/Inquire at P.S.",
-            "jp": "被験者を常時募集しているわ／お問い合わせは万魔殿まで",
-            "kr": "실험체 상시 모집/문의는 만마전에",
-            "tw": "隨時招募實驗對象/詳情請洽萬魔殿",
-            "zh": "长期征集受试者 / 详情请咨询万魔殿"
-        },
-        "Nickname": [
-            "Satsuki"
-        ],
-        "Birthday": "4/10",
-        "Age": "17歳",
         "School": "Gehenna",
         "Club": "PandemoniumSociety",
         "Star": 3,
@@ -10069,37 +10107,36 @@
         }
     },
     {
-        "Id": 10121,
+        "Id": 20047,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/10121.webp",
-            "/api/Avatars/Fandom/Yukari_Swimsuit_Icon.png"
+            "/api/Avatars/Kivo/Released/20047.webp",
+            "/api/Avatars/Fandom/Kikyou_Swimsuit_Icon.png"
         ],
         "Name": {
-            "en": "Yukari (Swimsuit)",
-            "jp": "ユカリ（水着）",
-            "kr": "유카리(수영복)",
-            "tw": "紫（泳裝）",
-            "zh": "紫（泳装）"
+            "en": "Kikyou (Swimsuit)",
+            "jp": "キキョウ（水着）",
+            "kr": "키쿄(수영복)",
+            "tw": "桔梗（泳裝）",
+            "zh": "桔梗（泳装）"
         },
         "Bio": {
-            "en": "It's my summer sea debut!",
-            "jp": "びーちでびゅー、ですの！",
-            "kr": "소녀, 여름 바다에 데뷔~이와요!",
-            "tw": "小女子，夏日海邊出～道！",
-            "zh": "向着沙滩，起跳！"
+            "en": "Falling flowers and flowing water",
+            "jp": "落花流水",
+            "kr": "낙화유수",
+            "tw": "落花流水",
+            "zh": "落花流水"
         },
         "Nickname": [
-            "Yukari",
-            "油咖喱"
+            "Kikyou"
         ],
-        "Birthday": "6/16",
-        "Age": "15歳",
+        "Birthday": "8/8",
+        "Age": "16歳",
         "School": "Hyakkiyako",
         "Club": "Hyakkayouran",
         "Star": 3,
         "Released": true,
         "Related": {
-            "ItemId": 10081,
+            "ItemId": 10083,
             "ItemType": "水着"
         }
     },
@@ -10138,36 +10175,37 @@
         }
     },
     {
-        "Id": 20047,
+        "Id": 10121,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/20047.webp",
-            "/api/Avatars/Fandom/Kikyou_Swimsuit_Icon.png"
+            "/api/Avatars/Kivo/Released/10121.webp",
+            "/api/Avatars/Fandom/Yukari_Swimsuit_Icon.png"
         ],
         "Name": {
-            "en": "Kikyou (Swimsuit)",
-            "jp": "キキョウ（水着）",
-            "kr": "키쿄(수영복)",
-            "tw": "桔梗（泳裝）",
-            "zh": "桔梗（泳装）"
+            "en": "Yukari (Swimsuit)",
+            "jp": "ユカリ（水着）",
+            "kr": "유카리(수영복)",
+            "tw": "紫（泳裝）",
+            "zh": "紫（泳装）"
         },
         "Bio": {
-            "en": "Falling flowers and flowing water",
-            "jp": "落花流水",
-            "kr": "낙화유수",
-            "tw": "落花流水",
-            "zh": "落花流水"
+            "en": "It's my summer sea debut!",
+            "jp": "びーちでびゅー、ですの！",
+            "kr": "소녀, 여름 바다에 데뷔~이와요!",
+            "tw": "小女子，夏日海邊出～道！",
+            "zh": "向着沙滩，起跳！"
         },
         "Nickname": [
-            "Kikyou"
+            "Yukari",
+            "油咖喱"
         ],
-        "Birthday": "8/8",
-        "Age": "16歳",
+        "Birthday": "6/16",
+        "Age": "15歳",
         "School": "Hyakkiyako",
         "Club": "Hyakkayouran",
         "Star": 3,
         "Released": true,
         "Related": {
-            "ItemId": 10083,
+            "ItemId": 10081,
             "ItemType": "水着"
         }
     },
