@@ -10215,13 +10215,17 @@
             "/api/Avatars/Kivo/Released/10123.webp"
         ],
         "Name": {
+            "en": "Seia (Swimsuit)",
             "jp": "セイア（水着）",
             "kr": "세이아(수영복)",
+            "tw": "聖亞（泳裝）",
             "zh": "圣娅（泳装）"
         },
         "Bio": {
-            "jp": "おとぎ話から目覚める時がきた",
+            "en": "Waking up to a fairy tale...",
+            "jp": "おとぎ話からようやく目を覚まそうとしているのかもしれないね。",
             "kr": "동화 속에서 갓 깨어나려는 우리들의",
+            "tw": "彷彿剛從童話中甦醒的我們",
             "zh": "是时候从童话中醒来了"
         },
         "Nickname": [
@@ -10244,13 +10248,17 @@
             "/api/Avatars/Kivo/Released/10124.webp"
         ],
         "Name": {
+            "en": "Hasumi (Swimsuit)",
             "jp": "ハスミ（水着）",
             "kr": "하스미(수영복)",
+            "tw": "蓮實（泳裝）",
             "zh": "莲见（泳装）"
         },
         "Bio": {
+            "en": "Feel free to MomoTalk if it's work-related.",
             "jp": "業務関連のご連絡は、モモトークでお願いします。",
-            "kr": "업무 관련은 아무 때나 모모톡 부탁드립니다.",
+            "kr": "업무 관련은 아무 때나 모모톡 부탁 드립니다.",
+            "tw": "如有業務相關事宜，請隨時透過MomoTalk聯絡",
             "zh": "业务相关的联络，请通过momotalk。"
         },
         "Nickname": [
@@ -10273,13 +10281,17 @@
             "/api/Avatars/Kivo/Released/26015.webp"
         ],
         "Name": {
+            "en": "Ichika (Swimsuit)",
             "jp": "イチカ（水着）",
             "kr": "이치카(수영복)",
+            "tw": "一花（泳裝）",
             "zh": "一花（泳装）"
         },
         "Bio": {
+            "en": "On a business trip!",
             "jp": "任務で出張中っす！",
             "kr": "업무차 출장 중입니다!",
+            "tw": "因公出差中！",
             "zh": "出差执行任务中！"
         },
         "Nickname": [
@@ -10303,13 +10315,17 @@
             "/api/Avatars/Kivo/Released/10122.webp"
         ],
         "Name": {
+            "en": "Mika (Swimsuit)",
             "jp": "ミカ（水着）",
             "kr": "미카(수영복)",
+            "tw": "彌香（泳裝）",
             "zh": "未花（泳装）"
         },
         "Bio": {
+            "en": "Looking for some swimming partners!",
             "jp": "一緒に泳いでくれる人募集！",
             "kr": "같이 수영할 사람 모집 중!",
+            "tw": "正在招募一起游泳的對象！",
             "zh": "诚招一起游泳的人！"
         },
         "Nickname": [
@@ -10332,13 +10348,17 @@
             "/api/Avatars/Kivo/Released/20048.webp"
         ],
         "Name": {
+            "en": "Nagisa (Swimsuit)",
             "jp": "ナギサ（水着）",
             "kr": "나기사(수영복)",
+            "tw": "渚（泳裝）",
             "zh": "渚（泳装）"
         },
         "Bio": {
+            "en": "Kindly redirect work-related queries to Seia.",
             "jp": "業務に関する連絡はセイアさんにお願いします。",
             "kr": "당분간 업무 관련 문의는 세이아 씨에게로 부탁드립니다.",
+            "tw": "近期業務方面的詢問，請與聖亞同學洽談",
             "zh": "业务相关事务请联络圣娅同学。"
         },
         "Nickname": [
