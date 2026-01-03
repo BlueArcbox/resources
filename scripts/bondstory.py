@@ -286,7 +286,7 @@ def process_student_story(chat_list: list, student: dict):
                 break
     last_message_id = data[-1]["MessageId"]
     for item in data:
-        if item["MessageId"] == last_message_id:
+        if item["MessageId"] == last_message_id or item["NextGroupId"] == 0:
             item["NextId"] = -1
 
     # Add a Type field
