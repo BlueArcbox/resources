@@ -209,7 +209,7 @@ class StudentSyncGithub:
         endpoints = {
             # Character data
             "character": {
-                "jp": f"{GITHUB_RAW_BASE}/jp/Excel/CharacterExcelTable.json",
+                "jp": f"{GITHUB_RAW_BASE}/jp/DB/CharacterExcelTable.json",
                 "global": f"{GITHUB_RAW_BASE}/global/Excel/CharacterExcelTable.json",
             },
             # Localization data
@@ -219,7 +219,7 @@ class StudentSyncGithub:
             },
             # Profile data
             "profile": {
-                "jp": f"{GITHUB_RAW_BASE}/jp/Excel/LocalizeCharProfileExcelTable.json",
+                "jp": f"{GITHUB_RAW_BASE}/jp/DB/LocalizeCharProfileExcelTable.json",
                 "global": f"{GITHUB_RAW_BASE}/global/Excel/LocalizeCharProfileExcelTable.json",
             },
         }

@@ -76,7 +76,7 @@ fallback_table = None
 def download_fallback_table():
     global fallback_table
     logger.info("Download jp LocalizeCharProfileExcelTable")
-    req = requests.get(f"{BASE_URL}/jp/Excel/LocalizeCharProfileExcelTable.json").json()
+    req = requests.get(f"{BASE_URL}/jp/DB/LocalizeCharProfileExcelTable.json").json()
     logger.info("✅ Get fallback_table")
     return {
         str(student["CharacterId"]): {
@@ -94,7 +94,7 @@ def download_raw_data():
     endpoints = {
         # Character data
         "character": {
-            "jp": f"{BASE_URL}/jp/Excel/CharacterExcelTable.json",
+            "jp": f"{BASE_URL}/jp/DB/CharacterExcelTable.json",
             "global": f"{BASE_URL}/global/Excel/CharacterExcelTable.json",
         },
         # Localization data
@@ -164,10 +164,8 @@ def download_story_data():
         excel_table_list: array of excel_tables, the bond story data
     """
     urls = [
-        f"{BASE_URL}/jp/Excel/AcademyMessanger1ExcelTable.json",
-        f"{BASE_URL}/jp/Excel/AcademyMessanger2ExcelTable.json",
-        f"{BASE_URL}/global/Excel/AcademyMessanger1ExcelTable.json",
-        f"{BASE_URL}/global/Excel/AcademyMessanger2ExcelTable.json",
+        f"{BASE_URL}/jp/DB/AcademyMessangerExcelTable.json",
+        f"{BASE_URL}/global/DB/AcademyMessangerExcelTable.json",
     ]
 
     excel_table_list = [requests.get(url).json() for url in urls]
