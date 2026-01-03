@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "センセイのご指導のもと、ガイドとして成長することができマシタ！",
         "MessageKR": "선생님의 가르침을 받아 피나, 성장했습니다-!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "承蒙老師的教導，菲娜終於有所成長！",
+        "MessageEN": "Your teachings have helped me grow again!"
     },
     {
         "MessageId": 200450360,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "おかげでフィーナは、任侠ガイドとして認められつつありマス！",
         "MessageKR": "이제는 실수도 하지 않고 어엿한 임협으로 인정받고 있습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在已經是名得到認可、當之無愧的任俠，不會再出錯了！",
+        "MessageEN": "I am now a full-fledged gangster who doesn't make mistakes!"
     },
     {
         "MessageId": 200450370,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "今日が最後のツアーデス！ぜひセンセイもいかがデスカ！？",
         "MessageKR": "오늘이 마지막 투어이기에 선생님도 함께 해주셨으면 좋겠습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天是我最後一次導覽，希望老師也能一起參加！",
+        "MessageEN": "Today's our very last tour, so I hope you'll join!"
     },
     {
         "MessageId": 200450371,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "不肖フィーナ！最後まで全力でおもてなしいたしマスッッッ！",
         "MessageKR": "그럼 그때 뵙겠습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那我們到時候見！",
+        "MessageEN": "I'll see you then!"
     },
     {
         "MessageId": 200440387,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "お頭",
         "MessageKR": "두목",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "頭兒",
+        "MessageEN": "Boss."
     },
     {
         "MessageId": 200450390,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "Oh イヤ",
         "MessageKR": "아니 그게",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊不對",
+        "MessageEN": "No. I mean"
     },
     {
         "MessageId": 200450391,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "センセイ！フィーナデス",
         "MessageKR": "선생님, 피나입니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，我是菲娜",
+        "MessageEN": "Sensei, this is Pina."
     },
     {
         "MessageId": 200450400,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "商店街からの任務、何とかやり遂げることができマシタ！",
         "MessageKR": "이것으로 상점가에서 부탁받은 일은 무사히 마치게 되었습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這樣一來，商店街那邊委託的工作就算是完成了！",
+        "MessageEN": "I have successfully fulfilled the shopping district's request!"
     },
     {
         "MessageId": 200450401,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "センセイが見守ってくださったおかげデス",
         "MessageKR": "선생님이 지켜봐 주셔서 막막했지만 해냈습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然有點不知所措，幸好在老師的關照下順利做到了",
+        "MessageEN": "I would never have overcome this difficulty without your watchful assistance!"
     },
     {
         "MessageId": 200450410,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "フィーナ、次はガイドじゃなくて",
         "MessageKR": "피나, 다음에는 가이드가 아닌",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "希望下次菲娜可以和老師兩人",
+        "MessageEN": "Next time, I desire to"
     },
     {
         "MessageId": 200450411,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "一緒に旅するお客さんとシテ",
         "MessageKR": "함께 여행하는 여행객으로서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "一起遊覽百鬼夜行",
+        "MessageEN": "travel around Hyakkiyako with just the two of us,"
     },
     {
         "MessageId": 200450412,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "センセイと二人で百鬼夜行を巡りたいな～……ナンテ",
         "MessageKR": "선생님과 둘이서 백귀야행을 돌아보고 싶은…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不是以導覽員的身分，而是作為遊客……",
+        "MessageEN": "not as guides, but as two tourists exploring the area."
     },
     {
         "MessageId": 200450420,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "……い、今の申し出は忘れてクダサイ！",
         "MessageKR": "아 아닙니다! 잊어주세요!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒，沒什麼！請忘了我剛剛說的話吧！！",
+        "MessageEN": "N-Nevermind! Please forget I said that!!!"
     },
     {
         "MessageId": 200450430,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "それも楽しそう！",
         "MessageKR": "그것도 재미있겠는걸",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那樣一定也很好玩",
+        "MessageEN": "That sounds fun too."
     },
     {
         "MessageId": 200450440,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "！！",
         "MessageKR": "!!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "！！！",
+        "MessageEN": "!!!"
     },
     {
         "MessageId": 200450441,
@@ -219,20 +219,20 @@
         "ImagePath": "",
         "MessageJP": "フィーナとまた一緒に回ってくれるんデスカ！？",
         "MessageKR": "피나와 함께 또 시간을 가져주신다니!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老，老師竟然還願意跟菲娜一起共度時光！！",
+        "MessageEN": "To say that you'll spend time with me again!!"
     },
     {
         "MessageId": 200450450,
         "Flag": 1,
         "Type": 0,
-        "NextId": 200450451,
+        "NextId": -1,
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "ありがとうございマス！",
         "MessageKR": "가 감사합니다!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "非，非常謝謝老師！！",
+        "MessageEN": "Th-Thank you!!"
     },
     {
         "MessageId": 200450451,
@@ -243,7 +243,7 @@
         "ImagePath": "",
         "MessageJP": "またお会いしまショウ！お頭！",
         "MessageKR": "이만 들어가 보겠습니다!! 두목!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那我就先告辭了！！頭兒！！",
+        "MessageEN": "I'll be on my way then, Boss!!"
     }
 ]

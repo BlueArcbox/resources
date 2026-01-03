@@ -184,7 +184,7 @@
         "MessageJP": "うん、またすぐに連絡するね",
         "MessageKR": "응. 다음부턴 출발 전에 연락할게.",
         "MessageTW": "嗯，很快就會連絡你的",
-        "MessageEN": "Okay. Next time, I'll contact you before I leave."
+        "MessageEN": "Okay. I'll make sure to let you know before I come."
     },
     {
         "MessageId": 100350100,
@@ -196,7 +196,7 @@
         "MessageJP": "ああいうウイが見られるのも悪くないかも",
         "MessageKR": "문전박대도 꽤 재밌었어.",
         "MessageTW": "能看到憂的那種樣子好像也不錯",
-        "MessageEN": "I kind of enjoyed the element of surprise."
+        "MessageEN": "Aww, but I liked hearing that side of you, Ui."
     },
     {
         "MessageId": 100350110,

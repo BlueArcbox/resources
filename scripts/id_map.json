@@ -1962,6 +1962,35 @@
             true
         ]
     },
+    "10131": {
+        "kivo_id": 308,
+        "gamekee_id": 598111,
+        "avatar": "https://static.kivo.wiki/images/students/三善 贵音/original/Student_Portrait_CH0229_Collection.png",
+        "momotalk": "★★★★☆",
+        "name_en": "Takane",
+        "name_jp": "タカネ",
+        "name_zh": "贵音",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10132": {
+        "kivo_id": 568,
+        "avatar": "https://static.kivo.wiki/images/students/大野 月咏/礼服/Student_Portrait_CH0297_Collection.png",
+        "momotalk": "为了成为优秀的忍者修行中！",
+        "name_en": "Tsukuyo",
+        "name_jp": "ツクヨ（ドレス）",
+        "name_zh": "月咏（礼服）",
+        "nicknames": [
+            "巨忍"
+        ],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
     "13000": {
         "kivo_id": 24,
         "gamekee_id": 66752,
@@ -3222,6 +3251,35 @@
         "name_jp": "ミサキ（水着）",
         "name_zh": "美咲（泳装）",
         "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
+    "20052": {
+        "kivo_id": 309,
+        "gamekee_id": 598110,
+        "avatar": "https://static.kivo.wiki/images/students/荒槙 八云/original/Student_Portrait_CH0228_Collection.png",
+        "momotalk": "出版，再版，发行",
+        "name_en": "Yakumo",
+        "name_jp": "ヤクモ",
+        "name_zh": "八云",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20053": {
+        "kivo_id": 569,
+        "avatar": "https://static.kivo.wiki/images/students/千鸟 满/礼服/Student_Portrait_CH0296_Collection.png",
+        "momotalk": "【少女忍法帖小满亲】礼服特辑已经上传！",
+        "name_en": "Michiru",
+        "name_jp": "ミチル（ドレス）",
+        "name_zh": "满（礼服）",
+        "nicknames": [
+            "小满"
+        ],
         "sticker_download_flag": [
             true,
             false

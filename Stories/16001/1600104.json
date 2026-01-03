@@ -346,7 +346,7 @@
         "MessageId": 160010410,
         "Flag": 1,
         "Type": 0,
-        "NextId": 160010411,
+        "NextId": -1,
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "じゃあまたね、ご主人様！",

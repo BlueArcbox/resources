@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 101180620,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "へるぷ",
         "MessageKR": "헬ㅊ프",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "幫幫我",
+        "MessageEN": "Haaalp"
     },
     {
         "MessageId": 101180630,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "どうしたの！？",
         "MessageKR": "무슨 일이야!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼了！？",
+        "MessageEN": "What's wrong?!"
     },
     {
         "MessageId": 101180640,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "現場行かなきゃなんだけど",
         "MessageKR": "답사가는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我要去實地考察",
+        "MessageEN": "I'm going on field survey"
     },
     {
         "MessageId": 101180650,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ぼっち",
         "MessageKR": "혼자야ㅜ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "而且還得自己去T_T",
+        "MessageEN": "BY MYSELFFF"
     },
     {
         "MessageId": 101180651,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "たすけて",
         "MessageKR": "도와조",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "救命呀",
+        "MessageEN": "help meee"
     },
     {
         "MessageId": 101180660,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "どこに行けばいい？",
         "MessageKR": "어디로 가면 돼?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要去哪裡找你？",
+        "MessageEN": "Where are you?"
     },
     {
         "MessageId": 101180670,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "よっしゃ",
         "MessageKR": "오왕ㅋㅋㅋ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哦哦www",
+        "MessageEN": "Yay lol"
     },
     {
         "MessageId": 101180680,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "えっとねー",
         "MessageKR": "어디냐면\\~\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "地點是～～",
+        "MessageEN": "It's um"
     },
     {
         "MessageId": 101170697,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "よーし",
         "MessageKR": "이야 선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哇，老師",
+        "MessageEN": "Wow Sensei"
     },
     {
         "MessageId": 101180700,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "おかげでいい報告書書けた",
         "MessageKR": "덕분에 보고서 잘썼어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "多虧你的幫忙，報告寫得很成功哦",
+        "MessageEN": "Thanks to you, my report was sooo good"
     },
     {
         "MessageId": 101180710,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "真面目に仕事してたね",
         "MessageKR": "말한 것치곤 열심이던데?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然嘴上這樣說，其實你還挺認真的嘛？",
+        "MessageEN": "You know, you were working hard too, though."
     },
     {
         "MessageId": 101180720,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "先生もいた分、ちょっとだけ働いたかも？",
         "MessageKR": "대충 한건데?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我只是隨便寫寫而已啊？",
+        "MessageEN": "I wasn't serious tho"
     },
     {
         "MessageId": 101180721,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "てきとーなりにね",
         "MessageKR": "선생님이 있어서 그런가",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "或許是因為有老師陪著我吧",
+        "MessageEN": "Maybe it's because you were with me"
     },
     {
         "MessageId": 101180730,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "とりあえず次も呼ぶから",
         "MessageKR": "그럼 담에 또부른다?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那我下次會再找你哦？",
+        "MessageEN": "I'm gonna call you again, ok?"
     },
     {
         "MessageId": 101180740,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "うん、いつでも",
         "MessageKR": "언제든지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "隨時歡迎",
+        "MessageEN": "Anytime."
     },
     {
         "MessageId": 101180750,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "これからも",
         "MessageKR": "나참",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還真是",
+        "MessageEN": "Heh"
     },
     {
         "MessageId": 101180751,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "よろしく～",
         "MessageKR": "어쩔수없다니까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "拿你沒辦法呢",
+        "MessageEN": "Can't be helped"
     },
     {
         "MessageId": 101180760,
@@ -255,7 +255,7 @@
         "ImagePath": "",
         "MessageJP": "素人先生♪",
         "MessageKR": "울 초짜 선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我們的菜鳥老師",
+        "MessageEN": "Noob Sensei"
     }
 ]

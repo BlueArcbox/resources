@@ -1,0 +1,129 @@
+[
+    {
+        "CharacterId": 10122,
+        "MessageJP": "ミカ（水着）",
+        "MessageKR": "미카(수영복)",
+        "MessageTW": "彌香（泳裝）",
+        "MessageEN": "Mika (Swimsuit)"
+    },
+    {
+        "MessageId": 101210490,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 101220490,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 101220490,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101220500,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生今大丈夫？",
+        "MessageKR": "선생님",
+        "MessageTW": "老師～",
+        "MessageEN": "Sensei"
+    },
+    {
+        "MessageId": 101220500,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101220510,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ちょっとだけ時間ちょうだい！",
+        "MessageKR": "혹시 시간 괜찮아?",
+        "MessageTW": "現在有空嗎？",
+        "MessageEN": "Do you have a minute?"
+    },
+    {
+        "MessageId": 101220510,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101220511,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "実はね……",
+        "MessageKR": "별 건 아니구",
+        "MessageTW": "雖然也不是什麼大事",
+        "MessageEN": "It's nothing serious!"
+    },
+    {
+        "MessageId": 101220511,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101220520,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "……素敵なところを見つけちゃったの！",
+        "MessageKR": "멋진 곳을 찾았거든",
+        "MessageTW": "不過我找到一個很棒的地方",
+        "MessageEN": "I just found this really cool spot."
+    },
+    {
+        "MessageId": 101220520,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101220530,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "急いで来ないと間に合わないかも！",
+        "MessageKR": "지금이 딱 좋은 시간이라서!",
+        "MessageTW": "現在正是最適合的時間！",
+        "MessageEN": "And right now happens to be the perfect time to go see it!"
+    },
+    {
+        "MessageId": 101220530,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101220540,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "わかった、今どこ？",
+        "MessageKR": "어디로 갈까?",
+        "MessageTW": "要去哪裡呢？",
+        "MessageEN": "Where should I meet you?"
+    },
+    {
+        "MessageId": 101220540,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101220541,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "やった！",
+        "MessageKR": "응응!",
+        "MessageTW": "嗯嗯！",
+        "MessageEN": "Okies!"
+    },
+    {
+        "MessageId": 101220541,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101210547,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "えっとね？",
+        "MessageKR": "여기가 어디냐면……",
+        "MessageTW": "就是……",
+        "MessageEN": "The spot is..."
+    },
+    {
+        "MessageId": 101210547,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ミカ（水着）の絆イベントへ",
+        "MessageKR": "미카(수영복)의 인연스토리로",
+        "MessageTW": "前往彌香（泳裝）的羈絆劇情",
+        "MessageEN": "Go to Mika (Swimsuit)'s Bond Story"
+    }
+]

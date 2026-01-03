@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "ごめんなさい",
         "MessageKR": "아, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，老師",
+        "MessageEN": "Ah. Sensei."
     },
     {
         "MessageId": 101190020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "連絡くれてた？",
         "MessageKR": "미안. 혹시 연락했었어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不好意思，你剛剛有找我嗎？",
+        "MessageEN": "Apologies. You called?"
     },
     {
         "MessageId": 101190030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "さっきね",
         "MessageKR": "안녕, 나구사!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗨，名草！",
+        "MessageEN": "Hi, Nagusa! I did!"
     },
     {
         "MessageId": 101190030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "忙しかった？",
         "MessageKR": "응. 많이 바빴던 모양이네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，看來你最近很忙呢",
+        "MessageEN": "You must've been busy!"
     },
     {
         "MessageId": 101190040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "訓練中だったから見てなくて……",
         "MessageKR": "훈련 중이라 잠시 핸드폰을 다른 곳에 두고 있었거든.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我剛才在訓練，所以把手機放在旁邊",
+        "MessageEN": "I did not bring my phone with me to training."
     },
     {
         "MessageId": 101190050,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "急ぎ？",
         "MessageKR": "그보다 무슨 급한 일이라도…?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有什麼急事嗎……？",
+        "MessageEN": "Anyways, is there a matter of concern?"
     },
     {
         "MessageId": 101190051,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "何か用だった？",
         "MessageKR": "혹시 내 도움이 필요한 일이 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還是需要我幫忙？",
+        "MessageEN": "Do you require my assistance?"
     },
     {
         "MessageId": 101190060,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "明日、百鬼夜行に行くんだけど",
         "MessageKR": "급한 일은 아니고, 내일 백귀야행에 잠깐 방문할 예정이거든.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒有什麼急事，只是我明天打算去一趟百鬼夜行",
+        "MessageEN": "Nothing urgent! I'm visiting Hyakkiyako tomorrow!"
     },
     {
         "MessageId": 101190070,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "百花繚乱との協力についても相談させて欲しいんだ",
         "MessageKR": "그때 백화요란의 협력 업무에 관해 잠깐 논의할 수 있을까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "想說能不能聊一下百花繚亂的合作業務",
+        "MessageEN": "Let's discuss our collaboration with the Hyakkaryouran tomorrow!"
     },
     {
         "MessageId": 101190080,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "明日……？",
         "MessageKR": "내일……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "明天……？",
+        "MessageEN": "Tomorrow...?"
     },
     {
         "MessageId": 101190081,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "いいけど……私で大丈夫なの？",
         "MessageKR": "시간을 내는 건 어렵지 않지만, 내가 해도 괜찮을까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "時間方面倒不成問題，但由我來真的可以嗎？",
+        "MessageEN": "I could clear some time, but is that...truly okay?"
     },
     {
         "MessageId": 101190090,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "……大丈夫って？",
         "MessageKR": "……뭐가?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……怎麼說呢？",
+        "MessageEN": "Is what okay?"
     },
     {
         "MessageId": 101190100,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "百花繚乱の大事なことを",
         "MessageKR": "아무것도 아닌 내가",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我只是覺得像我這種不值一提的人",
+        "MessageEN": "I am nobody."
     },
     {
         "MessageId": 101190110,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "私が決めていいのかな……",
         "MessageKR": "백화요란의 중요한 업무를 결정해도 괜찮을지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "決定百花繚亂的重要業務真的沒問題嗎？",
+        "MessageEN": "It would not be right for me to make decisions for the Hyakkaryouran."
     },
     {
         "MessageId": 101190120,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "今の百花繚乱の代表は誰だっけ？",
         "MessageKR": "무슨 소리야. 지금 백화요란의 대표는 나구사잖아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼會，現在百花繚亂的代表可是名草你哦？",
+        "MessageEN": "Huh? Nagusa! You're the Hyakkaryouran's representative!"
     },
     {
         "MessageId": 101190130,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "……そうだった",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah."
     },
     {
         "MessageId": 101190131,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "まだ慣れないんだよね",
         "MessageKR": "미안. 자꾸 잊어버리게 되네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "抱歉，我總是會忘記",
+        "MessageEN": "Apologies. I forgot again."
     },
     {
         "MessageId": 101190140,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "じゃ、また明日",
         "MessageKR": "알겠어. 그럼 내일 보자. 기다리고 있을게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼明天見。我會等你來的",
+        "MessageEN": "Understood. I shall await our meeting tomorrow."
     },
     {
         "MessageId": 101180147,

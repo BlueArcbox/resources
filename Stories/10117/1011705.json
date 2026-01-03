@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "ヒカリ",
         "MessageKR": "히카리",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "光",
+        "MessageEN": "hikari"
     },
     {
         "MessageId": 101170370,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "おやつ減らした",
         "MessageKR": "간식줄였어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有少吃點心",
+        "MessageEN": "lesssnacks"
     },
     {
         "MessageId": 101170380,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "甘いもの",
         "MessageKR": "달달한거",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "甜甜的東西",
+        "MessageEN": "eatless"
     },
     {
         "MessageId": 101170381,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "減った",
         "MessageKR": "조금만먹어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "也只吃一點點",
+        "MessageEN": "sweetfood"
     },
     {
         "MessageId": 101170390,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "頑張ってるね",
         "MessageKR": "훌륭하네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "做得很棒哦",
+        "MessageEN": "Incredible."
     },
     {
         "MessageId": 101170390,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "歯磨きもちゃんとしてる？",
         "MessageKR": "양치도 잘하고 있지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "也有好好刷牙吧？",
+        "MessageEN": "Brushing your teeth properly too?"
     },
     {
         "MessageId": 101170400,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "うん",
         "MessageKR": "응",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "yes"
     },
     {
         "MessageId": 101170401,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "でも",
         "MessageKR": "대신",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要挑戰其他事情",
+        "MessageEN": "instead"
     },
     {
         "MessageId": 101170402,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "ニューチャレンジする",
         "MessageKR": "다른거도전",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "來代替吃甜點",
+        "MessageEN": "newchallenge"
     },
     {
         "MessageId": 101170410,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "どんな？",
         "MessageKR": "무엇을……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "類似什麼……？",
+        "MessageEN": "Challenge what...?"
     },
     {
         "MessageId": 101170420,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "限界を知らないヒカリ選手",
         "MessageKR": "한계를모르는히카리선수",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒有極限的光選手",
+        "MessageEN": "nolimithikari"
     },
     {
         "MessageId": 101170421,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "カッコイイ",
         "MessageKR": "왕멋짐",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "肯定",
+        "MessageEN": "supercool"
     },
     {
         "MessageId": 101170422,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "間違いなし",
         "MessageKR": "확정",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "酷斃了",
+        "MessageEN": "guaranteed"
     },
     {
         "MessageId": 101160427,

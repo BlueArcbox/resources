@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "あ",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah."
     },
     {
         "MessageId": 101200140,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "まはやさあさ",
         "MessageKR": "아ㅏㅏ아아ㅏ아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊啊啊啊啊",
+        "MessageEN": "AAAAAA"
     },
     {
         "MessageId": 101200150,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "せんうせたやく",
         "MessageKR": "선생니ㅁ. 긴급. 연",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師你快",
+        "MessageEN": "Sensei. Emergency!"
     },
     {
         "MessageId": 101200151,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "れんしゅっ室",
         "MessageKR": "연습실로",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "來練習室",
+        "MessageEN": "practice room"
     },
     {
         "MessageId": 101200152,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "はやく",
         "MessageKR": "빨리",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "快點",
+        "MessageEN": "HURRY"
     },
     {
         "MessageId": 101200160,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "え！？",
         "MessageKR": "어?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦！？",
+        "MessageEN": "Huh?!"
     },
     {
         "MessageId": 101190167,

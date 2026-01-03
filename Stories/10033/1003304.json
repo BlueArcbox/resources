@@ -124,7 +124,7 @@
         "MessageJP": "はい、少々必要なものがありまして……ブラックマーケットに行ってこようかと",
         "MessageKR": "네? 다소 필요한 물건이 있어 잠시 블랙마켓에 다녀올까 하여…….",
         "MessageTW": "是的，稍微有些需要的東西……因此打算去一趟黑市",
-        "MessageEN": "Oh, I need something from the black market..."
+        "MessageEN": "Oh, I need something from the Black Market..."
     },
     {
         "MessageId": 100330340,
@@ -136,7 +136,7 @@
         "MessageJP": "ブラックマーケットに一人でかぁ……",
         "MessageKR": "블랙마켓에?! 그것도 와카모 혼자?!",
         "MessageTW": "黑市！？而且還是若藻一個人去！？",
-        "MessageEN": "You're going to the black market alone?!"
+        "MessageEN": "You're going to the Black Market alone?!"
     },
     {
         "MessageId": 100330350,

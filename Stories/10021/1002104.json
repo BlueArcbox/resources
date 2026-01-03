@@ -238,7 +238,7 @@
         "MessageId": 10021670,
         "Flag": 1,
         "Type": 0,
-        "NextId": 10021671,
+        "NextId": -1,
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "ありがとう、先生\u200b",

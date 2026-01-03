@@ -172,7 +172,7 @@
         "MessageJP": "これで合宿に浮き輪を持っていかずに済むかも",
         "MessageKR": "이제 보조 튜브는 필요 없겠지…….",
         "MessageTW": "這樣就不用帶游泳圈去合宿了",
-        "MessageEN": "I don't think I need the support tubes anymore."
+        "MessageEN": "I don't think I need the floaties anymore."
     },
     {
         "MessageId": 100230150,
@@ -208,7 +208,7 @@
         "MessageJP": "浮き輪に描かれてたけど、イオリはアヒルさんが好きなの？",
         "MessageKR": "튜브에 그려진 귀여운 오리는 이오리의 취향이야?",
         "MessageTW": "看游泳圈上的圖案，難道伊織喜歡鴨子？",
-        "MessageEN": "Did you pick that tube because of the cute duck on the side?"
+        "MessageEN": "Did you pick those floaties because of the cute duck on the sides?"
     },
     {
         "MessageId": 100230180,

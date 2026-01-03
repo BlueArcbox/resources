@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "ヒカリ",
         "MessageKR": "히카리",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "光",
+        "MessageEN": "hikari"
     },
     {
         "MessageId": 101170210,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "デンジャラス",
         "MessageKR": "댄져러스",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "危險",
+        "MessageEN": "dangerous"
     },
     {
         "MessageId": 101170211,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "スーパーデンジャラス",
         "MessageKR": "슈퍼댄져러스",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "超級危險",
+        "MessageEN": "superdangerous"
     },
     {
         "MessageId": 101170220,
@@ -62,9 +62,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "もしかしてまたアリが！？",
-        "MessageKR": "혹시 또 개미가?!”",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "혹시 또 개미가?!",
+        "MessageTW": "難道又是螞蟻！？",
+        "MessageEN": "Could it be ants again?!"
     },
     {
         "MessageId": 101170230,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ふん",
         "MessageKR": "훗",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哼",
+        "MessageEN": "heh"
     },
     {
         "MessageId": 101170231,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "アリくらい",
         "MessageKR": "개미쯤",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "螞蟻什麼的",
+        "MessageEN": "justant"
     },
     {
         "MessageId": 101170232,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ヒカリ楽勝",
         "MessageKR": "히카리낙승",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "光輕鬆解決",
+        "MessageEN": "pieceofcake"
     },
     {
         "MessageId": 101170240,
@@ -110,9 +110,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "あれ、じゃあどうしたの？",
-        "MessageKR": "그럼 무슨 일이야?”",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "그럼 무슨 일이야?",
+        "MessageTW": "那是怎麼了呢？",
+        "MessageEN": "Then what's going on?"
     },
     {
         "MessageId": 101170250,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "相手は世界",
         "MessageKR": "세상과맞서는중",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "光正在對抗世界",
+        "MessageEN": "againstworld"
     },
     {
         "MessageId": 101170251,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "簡単な戦いではない",
         "MessageKR": "쉽지않아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真不容易",
+        "MessageEN": "notcake"
     },
     {
         "MessageId": 101170260,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "なんだか壮大だ……。",
         "MessageKR": "뭔가 대단한 걸 하고 있잖아……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好像在做什麼了不起的事……",
+        "MessageEN": "You're up to something really incredible..."
     },
     {
         "MessageId": 101160277,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "sensei"
     },
     {
         "MessageId": 101170271,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "次の冒険先は",
         "MessageKR": "다음모험은",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下次的冒險是",
+        "MessageEN": "nextadventure"
     },
     {
         "MessageId": 101170272,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "ワニプール",
         "MessageKR": "악어수영장",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "鱷魚游泳池",
+        "MessageEN": "gatorpool"
     },
     {
         "MessageId": 101170273,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "準備おっけ？",
         "MessageKR": "자신있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有信心嗎？",
+        "MessageEN": "confident?"
     },
     {
         "MessageId": 101170280,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "どんとこい！",
         "MessageKR": "얼마든지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "儘管放馬過來",
+        "MessageEN": "Anytime."
     },
     {
         "MessageId": 101170290,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "ワニプールでは",
         "MessageKR": "거기는",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那裡",
+        "MessageEN": "overthere"
     },
     {
         "MessageId": 101170291,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "四足歩行しか",
         "MessageKR": "네발로기어야",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要用四肢爬行",
+        "MessageEN": "walkonfour"
     },
     {
         "MessageId": 101170292,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "許されない",
         "MessageKR": "살아남아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "才能存活",
+        "MessageEN": "tolive"
     },
     {
         "MessageId": 101170300,
@@ -267,7 +267,7 @@
         "ImagePath": "",
         "MessageJP": "そ、そっかぁ……",
         "MessageKR": "잠깐, 그건 좀……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "等一下，那實在有點……",
+        "MessageEN": "Wait, that's a bit..."
     }
 ]

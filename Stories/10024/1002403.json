@@ -64,7 +64,7 @@
         "MessageJP": "また補給品とか持っていこうかなって",
         "MessageKR": "미리 쉬는 위치마다 가서 기다리게.",
         "MessageTW": "我想說再幫你帶點補給品什麼的過去",
-        "MessageEN": "So I can meet you wherever you are taking a break."
+        "MessageEN": "So I can meet you wherever you're taking a break."
     },
     {
         "MessageId": 100240280,
@@ -76,7 +76,7 @@
         "MessageJP": "サポーターとして色々手伝えるかなと思って",
         "MessageKR": "서포터 일을 제대로 하려고.",
         "MessageTW": "我想作為一名支持者幫上各種忙",
-        "MessageEN": "I wanted to be a good supporter."
+        "MessageEN": "I wanted to be a good cheerleader."
     },
     {
         "MessageId": 100240290,
@@ -112,7 +112,7 @@
         "MessageJP": "でも、大丈夫？仕事も忙しいのに……",
         "MessageKR": "괜찮아? 일도 바쁠 텐데…….",
         "MessageTW": "但是，沒關係嗎？老師還要忙工作……",
-        "MessageEN": "Are you okay? You must be busy with your work..."
+        "MessageEN": "Will that be okay? You must be busy with your work..."
     },
     {
         "MessageId": 100240300,
@@ -124,7 +124,7 @@
         "MessageJP": "いや、その",
         "MessageKR": "아니",
         "MessageTW": "不，那個",
-        "MessageEN": "No"
+        "MessageEN": "I mean,"
     },
     {
         "MessageId": 100240301,
@@ -136,7 +136,7 @@
         "MessageJP": "もちろん、嫌なわけじゃない",
         "MessageKR": "싫다는 건 아니야. 절대로.",
         "MessageTW": "當然，我不討厭這樣",
-        "MessageEN": "It's not that I mind. Really."
+        "MessageEN": "it's not that I mind. Really."
     },
     {
         "MessageId": 100240310,
@@ -148,7 +148,7 @@
         "MessageJP": "その、私はすごく嬉しいけど……",
         "MessageKR": "선생님만 괜찮다면야 나도 좋지만…….",
         "MessageTW": "應該說，我很開心……",
-        "MessageEN": "I'm fine as long as you're okay."
+        "MessageEN": "I'm fine with it as long as you're okay."
     },
     {
         "MessageId": 100240311,

@@ -64,7 +64,7 @@
         "MessageJP": "でもその辺は、バスも電車も通ってないはずだけど……",
         "MessageKR": "그런데 그 근처는 버스나 전철이 다니지 않을 텐데, 어떻게 가지?",
         "MessageTW": "但是那附近應該沒有公車和電車……",
-        "MessageEN": "But how do we get there? Public transport is shut down."
+        "MessageEN": "But how do we get there? There aren't any bus or train stations nearby."
     },
     {
         "MessageId": 20005140,
@@ -136,7 +136,7 @@
         "MessageJP": "私のせいで、余計に大変なことになってしまって……(；＿；)",
         "MessageKR": "저 때문에 괜한 고생을 하셨으니……\n (；＿；)",
         "MessageTW": "因為我的關係，引起了不必要的麻煩事……(；＿；)",
-        "MessageEN": "You had to do all of that because of me...\n(；＿；)"
+        "MessageEN": "You had to go through all of that because of me...\n(；＿；)"
     },
     {
         "MessageId": 20005170,
@@ -148,7 +148,7 @@
         "MessageJP": "ううん、気にしないで",
         "MessageKR": "괜찮아.",
         "MessageTW": "不會，別放在心上",
-        "MessageEN": "Sure.\u200b"
+        "MessageEN": "It's all right."
     },
     {
         "MessageId": 20005180,

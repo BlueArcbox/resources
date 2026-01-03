@@ -63,7 +63,7 @@
         "ImagePath": "",
         "MessageJP": "えー……",
         "MessageKR": "어……",
-        "MessageTW": "咦――……",
+        "MessageTW": "咦……",
         "MessageEN": "Uhhh..."
     },
     {
@@ -76,7 +76,7 @@
         "MessageJP": "ノータイムでクエスト受注！",
         "MessageKR": "과연, 한 치의 망설임도 없는 빠른 퀘스트 수락!",
         "MessageTW": "竟然毫不猶豫地接受任務！",
-        "MessageEN": "You have to accept the quest quickly, without even a moment of hesitation! "
+        "MessageEN": "You just accepted it like that, without even a moment of hesitation!"
     },
     {
         "MessageId": 130110041,
@@ -88,7 +88,7 @@
         "MessageJP": "さっすが先生！",
         "MessageKR": "그래야 선생님이지!",
         "MessageTW": "不愧是老師！",
-        "MessageEN": "That's what a teacher does!"
+        "MessageEN": "That's Sensei for you!"
     },
     {
         "MessageId": 130110050,
@@ -148,7 +148,7 @@
         "MessageJP": "……そうだっけ？",
         "MessageKR": "그랬, 었나?",
         "MessageTW": "……是嗎？",
-        "MessageEN": "Isn't that right...?"
+        "MessageEN": "You're right...I think?"
     },
     {
         "MessageId": 130110080,

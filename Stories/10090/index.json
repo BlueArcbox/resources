@@ -22,5 +22,9 @@
         "MessageKR",
         "MessageTW",
         "MessageEN"
+    ],
+    "1009005": [
+        "MessageJP",
+        "MessageKR"
     ]
 }

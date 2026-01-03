@@ -196,7 +196,7 @@
         "MessageJP": "え？",
         "MessageKR": "네?",
         "MessageTW": "咦？",
-        "MessageEN": "Y-Yes?"
+        "MessageEN": "Huh?"
     },
     {
         "MessageId": 100950301,
@@ -316,6 +316,6 @@
         "MessageJP": "ずっと、先生のお傍に",
         "MessageKR": "네. 오랫동안이요.",
         "MessageTW": "盡可能，越久越好",
-        "MessageEN": "Of course. Forever."
+        "MessageEN": "Yes... Forever."
     }
 ]

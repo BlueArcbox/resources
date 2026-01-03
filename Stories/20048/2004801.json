@@ -1,0 +1,129 @@
+[
+    {
+        "CharacterId": 20048,
+        "MessageJP": "ナギサ（水着）",
+        "MessageKR": "나기사(수영복)",
+        "MessageTW": "渚（泳裝）",
+        "MessageEN": "Nagisa (Swimsuit)"
+    },
+    {
+        "MessageId": 200470010,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 200480010,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 200480010,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200480020,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生",
+        "MessageKR": "선생님",
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
+    },
+    {
+        "MessageId": 200480020,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200480030,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "休暇は楽しまれていますか？",
+        "MessageKR": "휴양은 잘 즐기고 계신지요?",
+        "MessageTW": "正在好好享受度假嗎？",
+        "MessageEN": "Have you been enjoying your vacation?"
+    },
+    {
+        "MessageId": 200480030,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200480040,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "おかげさまで、ゆっくりできてるよ",
+        "MessageKR": "덕분에 푹 쉬고 있어. 고마워.",
+        "MessageTW": "託你的福，我休息得很充分",
+        "MessageEN": "Thanks to you, it's been nice and relaxing!"
+    },
+    {
+        "MessageId": 200480040,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200480041,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "それは良かったです",
+        "MessageKR": "그럼",
+        "MessageTW": "那麼",
+        "MessageEN": "Then"
+    },
+    {
+        "MessageId": 200480041,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200480042,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "よろしければ、静かに……",
+        "MessageKR": "최대한 조용히",
+        "MessageTW": "能請您盡可能安靜地",
+        "MessageEN": "as discreetly as possible"
+    },
+    {
+        "MessageId": 200480042,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200480050,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "かつ速やかに……",
+        "MessageKR": "절대로 들키지 말고",
+        "MessageTW": "在絕對不被發現的情況下",
+        "MessageEN": "without being seen"
+    },
+    {
+        "MessageId": 200480050,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200480060,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "私のテントまでお越しいただけませんか？",
+        "MessageKR": "빠르게 제 텐트로 와 주실 수 있으신가요?",
+        "MessageTW": "盡快到我的帳篷來嗎？",
+        "MessageEN": "Could you please come to my tent?"
+    },
+    {
+        "MessageId": 200480060,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200470067,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "うん？",
+        "MessageKR": "응?",
+        "MessageTW": "嗯？",
+        "MessageEN": "Hm?"
+    },
+    {
+        "MessageId": 200470067,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ナギサ（水着）の絆イベントへ",
+        "MessageKR": "나기사(수영복)의 인연스토리로",
+        "MessageTW": "前往渚（泳裝）的羈絆劇情",
+        "MessageEN": "Go to Nagisa (Swimsuit)'s Bond Story"
+    }
+]

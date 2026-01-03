@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "今日は……大変な1日になりそうですけど……",
         "MessageKR": "오늘은 큰일이네요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天真的很不妙",
+        "MessageEN": "I have a huge problem today"
     },
     {
         "MessageId": 160170520,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "修理の仕事が山積みで",
         "MessageKR": "정비 일감이 너무 많아서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "整備工作堆積如山",
+        "MessageEN": "There's so much work"
     },
     {
         "MessageId": 160170521,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "徹夜になっちゃうかも……です",
         "MessageKR": "아마 밤샘을 해야 할지도……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "說不定得熬夜了……",
+        "MessageEN": "that I might have to pull an all-nighter..."
     },
     {
         "MessageId": 160170530,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "私に手伝えることはあるかな？",
         "MessageKR": "내가 도울 수 있을까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我能幫上什麼忙嗎？",
+        "MessageEN": "Could I help?"
     },
     {
         "MessageId": 160170540,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "えっ？",
         "MessageKR": "네?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？",
+        "MessageEN": "Pardon?"
     },
     {
         "MessageId": 160170541,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "せ、せんせ。・；：が？ ",
         "MessageKR": "선생님ㄲ서 ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師嗎 ",
+        "MessageEN": "Sensei wou "
     },
     {
         "MessageId": 160170550,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "い、いえっ",
         "MessageKR": "아 아니요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒，沒關係",
+        "MessageEN": "N-No"
     },
     {
         "MessageId": 160170560,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "べ、別にそういう意味で",
         "MessageKR": "아녜요 그런 의미로",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我，我說這些",
+        "MessageEN": "I didn't"
     },
     {
         "MessageId": 160170561,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "言った訳じゃゃあああああく",
         "MessageKR": "한 말이ㅣ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒有那個",
+        "MessageEN": "mean that"
     },
     {
         "MessageId": 160170562,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "あゃお）！",
         "MessageKR": "아니라",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "意思",
+        "MessageEN": "when I said"
     },
     {
         "MessageId": 160170570,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "！！！",
         "MessageKR": "!!!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "！！！！",
+        "MessageEN": "!!!"
     },
     {
         "MessageId": 160170580,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "二人でやれば、すぐ終わるかも",
         "MessageKR": "돕게 해줄래? 금방 끝날지도 모르잖아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "能讓我幫忙嗎？說不定很快就弄完了",
+        "MessageEN": "Two people are faster than one."
     },
     {
         "MessageId": 160170590,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "あ",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah"
     },
     {
         "MessageId": 160170591,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "あああぁ！・・）ぁあぁあ",
         "MessageKR": "으으ㅏㅏ아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊唔啊啊",
+        "MessageEN": "Aaaaaaaaaah"
     },
     {
         "MessageId": 160170600,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "そ、それなら……",
         "MessageKR": "그 그렇다면……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那，那麼……",
+        "MessageEN": "iiin that case."
     },
     {
         "MessageId": 160160617,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "今布団に入ったんですけど",
         "MessageKR": "자려고 누웠는데요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我剛躺下來準備睡覺",
+        "MessageEN": "I laid down to go to sleep,"
     },
     {
         "MessageId": 160170620,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "明日が",
         "MessageKR": "역시나 오늘도",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "果然今天也",
+        "MessageEN": "and today as well, I'm really"
     },
     {
         "MessageId": 160170621,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "楽しみです……！",
         "MessageKR": "내일이 기대돼요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "讓我很期待明天的到來",
+        "MessageEN": "looking forward to tomorrow."
     },
     {
         "MessageId": 160170630,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "うん、私も",
         "MessageKR": "응. 나도.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，我也是",
+        "MessageEN": "Yeah. Me too."
     },
     {
         "MessageId": 160170640,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "これも",
         "MessageKR": "네에",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是",
+        "MessageEN": "Yes."
     },
     {
         "MessageId": 160170650,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "全て",
         "MessageKR": "모두",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這一切",
+        "MessageEN": "It's all"
     },
     {
         "MessageId": 160170651,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "先生のおかげです",
         "MessageKR": "선생님 덕분이에요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "都多虧了老師",
+        "MessageEN": "thanks to you."
     },
     {
         "MessageId": 160170660,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "私は何もしてないよ",
         "MessageKR": "난 딱히 한 게 없는걸",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我沒有特別做什麼",
+        "MessageEN": "I really didn't do much."
     },
     {
         "MessageId": 160170660,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "アオバが頑張ったからだね",
         "MessageKR": "모두 아오바의 마음이 만들어낸 거야",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "全部都是青葉用心創造出來的成果哦",
+        "MessageEN": "It was all you and your heart, Aoba."
     },
     {
         "MessageId": 160170670,
@@ -327,8 +327,8 @@
         "ImagePath": "",
         "MessageJP": "えへへ",
         "MessageKR": "ㅎㅎㅎ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵呵",
+        "MessageEN": "Heeheehee."
     },
     {
         "MessageId": 160170671,
@@ -339,8 +339,8 @@
         "ImagePath": "",
         "MessageJP": "そうかも知れないですけど",
         "MessageKR": "그럴지도요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "也許是吧",
+        "MessageEN": "Perhaps."
     },
     {
         "MessageId": 160170680,
@@ -351,8 +351,8 @@
         "ImagePath": "",
         "MessageJP": "でも、嬉しいです",
         "MessageKR": "그래도 감사해요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過還是很謝謝老師",
+        "MessageEN": "But still, thank you."
     },
     {
         "MessageId": 160170690,
@@ -363,8 +363,8 @@
         "ImagePath": "",
         "MessageJP": "本当に……ありがとうございます ",
         "MessageKR": "정말로. ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真的很感謝",
+        "MessageEN": "Really. "
     },
     {
         "MessageId": 160170700,
@@ -375,7 +375,7 @@
         "ImagePath": "",
         "MessageJP": "おやすみなさい",
         "MessageKR": "안녕히 주무세요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "晚安",
+        "MessageEN": "Good night."
     }
 ]

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "ハンマーを握ると",
         "MessageKR": "망치를 쥐면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "手握鐵鎚時",
+        "MessageEN": "If you wield a hammer"
     },
     {
         "MessageId": 101200020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "世のすべてが釘に見え",
         "MessageKR": "세상 모든 문제가 못으로 보이는 법.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "世間的所有問題看起來都像釘子",
+        "MessageEN": "every problem becomes a nail"
     },
     {
         "MessageId": 101200030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ドラムスティックを握れば",
         "MessageKR": "드럼 스틱을 쥐니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "而當手握鼓棒時",
+        "MessageEN": "When I hold drumsticks"
     },
     {
         "MessageId": 101200031,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "世のすべてがドラムに見えてくる",
         "MessageKR": "세상 모든 게 두들길 것으로 보이네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "世間的一切都像能敲打的東西呢",
+        "MessageEN": "everything in the world looks like it can be hit"
     },
     {
         "MessageId": 101200040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "……ストレス溜まってる？",
         "MessageKR": "…혹시 스트레스를 풀 뭔가가 필요한 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……難道你需要找東西發洩壓力？",
+        "MessageEN": "...Do you need to relieve your stress?"
     },
     {
         "MessageId": 101200040,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "練習大変……？",
         "MessageKR": "혹시 뭔가 두들길 게 필요한 거야……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還是你只是想找個東西來敲……？",
+        "MessageEN": "Would you like something to hit...?"
     },
     {
         "MessageId": 101200050,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ノンノン",
         "MessageKR": "아냐 아냐, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "非也非也，老師",
+        "MessageEN": "Oh, Sensei..."
     },
     {
         "MessageId": 101200051,
@@ -110,9 +110,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "これは「ドラマー」柚鳥ナツの感想",
-        "MessageKR": "이것은 ‘드러머’ 유토리 나츠로서의 감상.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "이것은 '드러머' 유토리 나츠로서의 감상.",
+        "MessageTW": "這是「鼓手」柚鳥夏的感想",
+        "MessageEN": "I'm simply describing how I currently feel."
     },
     {
         "MessageId": 101200060,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "……だけど、それも悪くないかも",
         "MessageKR": "하지만 스트레스 해소라는 핑계도 좋은 것 같군.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過拿紓壓當藉口似乎也不錯",
+        "MessageEN": "But...perhaps I am a little stressed."
     },
     {
         "MessageId": 101200061,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "じゃあ、例のお店に集合～",
         "MessageKR": "그러니까 그 가게 앞에서 보자고.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼，就在那間店門口見吧",
+        "MessageEN": "So meet me in front of our spot."
     },
     {
         "MessageId": 101200070,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "え？",
         "MessageKR": "네?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？",
+        "MessageEN": "What?"
     },
     {
         "MessageId": 101190077,

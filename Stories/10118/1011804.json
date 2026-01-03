@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 101180460,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今日の当番",
         "MessageKR": "오늘 당번",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你猜今天的值日生",
+        "MessageEN": "You know who's"
     },
     {
         "MessageId": 101180461,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "誰か知ってる？",
         "MessageKR": "누구게?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是誰呢？",
+        "MessageEN": "student rep today?"
     },
     {
         "MessageId": 101180470,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "えーっと……",
         "MessageKR": "누구더라?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天是誰呢？",
+        "MessageEN": "Who is it?"
     },
     {
         "MessageId": 101180480,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "それがなんと",
         "MessageKR": "그건 바로",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那就是",
+        "MessageEN": "It's"
     },
     {
         "MessageId": 101180490,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ノゾミでしょ？",
         "MessageKR": "노조미",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "希望",
+        "MessageEN": "Nozomi"
     },
     {
         "MessageId": 101180500,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "のぞ",
         "MessageKR": "노ㅈ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "希……",
+        "MessageEN": "Nozo"
     },
     {
         "MessageId": 101180510,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "知ってんのかよ！",
         "MessageKR": "정답!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "答對了！",
+        "MessageEN": "Correct!"
     },
     {
         "MessageId": 101180520,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと眠いけど",
         "MessageKR": "쫌 피곤하지만",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然有點累",
+        "MessageEN": "I'm purrrty tired"
     },
     {
         "MessageId": 101180521,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "なるはやで向かいまーす",
         "MessageKR": "최대한 빨리갈게",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但我會盡快過去的",
+        "MessageEN": "But I'll be there ASAP"
     },
     {
         "MessageId": 101170537,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "あー",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah"
     },
     {
         "MessageId": 101180540,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "まじで",
         "MessageKR": "진짜",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真的是",
+        "MessageEN": "I really"
     },
     {
         "MessageId": 101180541,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "寝すぎた",
         "MessageKR": "너무많이잣다ㅠ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "睡太久了QQ",
+        "MessageEN": "slept too much T_T"
     },
     {
         "MessageId": 101180550,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "疲れは取れた？",
         "MessageKR": "피로는 좀 풀렸지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "疲勞有稍微減輕嗎？",
+        "MessageEN": "Do you feel better now?"
     },
     {
         "MessageId": 101180560,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "ちょー元気",
         "MessageKR": "쌩쌩 그자체ㅋ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在簡直是生龍活虎w",
+        "MessageEN": "Full energy lol"
     },
     {
         "MessageId": 101180570,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "夜寝れなかったらどうしよ",
         "MessageKR": "밤에 잠 안오면 어쩌지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這樣晚上睡不著怎麼辦？",
+        "MessageEN": "What if I can't fall asleep tonight?"
     },
     {
         "MessageId": 101180580,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "それも困っちゃうね",
         "MessageKR": "그럼 또 큰일인데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那就又要完蛋了呢",
+        "MessageEN": "That would suckkk too"
     },
     {
         "MessageId": 101180590,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "じょーだんでーす",
         "MessageKR": "장난이야",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "開玩笑的",
+        "MessageEN": "Just kiddin'"
     },
     {
         "MessageId": 101180600,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "わたし秒で寝れるしー",
         "MessageKR": "나 머리만 대면 바로 잠듬",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我是一碰到枕頭就能睡著的人",
+        "MessageEN": "My head hits the pillow, 'n' I'm OUT"
     },
     {
         "MessageId": 101180601,
@@ -267,7 +267,7 @@
         "ImagePath": "",
         "MessageJP": "先生もあんま無理せずねー",
         "MessageKR": "선생님도 무리하지마",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師也不要太勉強自己哦",
+        "MessageEN": "Don't overwork yourself too hard, Sensei!"
     }
 ]

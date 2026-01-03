@@ -52,7 +52,7 @@
         "MessageJP": "私の戦術的直感がそう告げてるの",
         "MessageKR": "내 전술적 직감이 말해주고 있어.",
         "MessageTW": "我的戰術直覺是這麼告訴我的",
-        "MessageEN": "My tactical intuition is telling me."
+        "MessageEN": "My tactical intuition is telling me"
     },
     {
         "MessageId": 10021461,
@@ -64,7 +64,7 @@
         "MessageJP": "きっとまだ、この夏には何かがあるって",
         "MessageKR": "분명 여기엔 뭔가가 더 있다고 말이야.",
         "MessageTW": "這個夏天一定還少了什麼",
-        "MessageEN": "That there is something else here."
+        "MessageEN": "that there is something else here."
     },
     {
         "MessageId": 10021470,
@@ -124,7 +124,7 @@
         "MessageJP": "「戦術」と「戦略」ってややこしいよね……",
         "MessageKR": "방금 전엔 '전술적'이라고 했던 거 같은데……",
         "MessageTW": "「戰術」和「戰略」很複雜呢……",
-        "MessageEN": "Didn't you just say 'tactical'?"
+        "MessageEN": "Didn't you just say 'tactical' earlier?"
     },
     {
         "MessageId": 10021500,

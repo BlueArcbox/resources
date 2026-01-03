@@ -160,7 +160,7 @@
         "MessageJP": "そうでしたか……無慈悲な太陽の熱を避けられるのは良いことですが……",
         "MessageKR": "그러하신가요…. 무자비한 여름의 열기를 피할 수 있는 것은 다행이지만.",
         "MessageTW": "是這樣啊……雖然可以躲避陽光無情的照射是件好事……",
-        "MessageEN": "I see... I'm glad you're out of the heat during this merciless summer, but..."
+        "MessageEN": "I see... I'm glad you're out of the heat during this merciless summer,"
     },
     {
         "MessageId": 100430101,
@@ -172,7 +172,7 @@
         "MessageJP": "つまりあなた様にとって今日は、全く夏らしくない一日になってしまうのですね……",
         "MessageKR": "그래서야 당신께 오늘은 전혀 여름답지 않은 하루가 되어버릴 터.",
         "MessageTW": "也就是今天對閣下來說，會是個完全不像夏季的一天呢……",
-        "MessageEN": "...then you won't get to see the beautiful day."
+        "MessageEN": "but then you won't get to see the beautiful day."
     },
     {
         "MessageId": 100430110,
@@ -184,7 +184,7 @@
         "MessageJP": "ええ……それは、あまりにも……",
         "MessageKR": "네에. 과연 그런 것이로군요.",
         "MessageTW": "沒錯……那樣，也太……",
-        "MessageEN": "Yes, indeed."
+        "MessageEN": "Ah, I get it now."
     },
     {
         "MessageId": 100430120,
@@ -208,7 +208,7 @@
         "MessageJP": "よくわかりました",
         "MessageKR": "잘 알겠습니다.",
         "MessageTW": "我明白了",
-        "MessageEN": "I've got it!"
+        "MessageEN": "I understand what needs to be done, Sensei."
     },
     {
         "MessageId": 100430131,

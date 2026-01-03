@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "せんせーヘルプ",
         "MessageKR": "선생님도와줘",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師幫幫我",
+        "MessageEN": "senseihelp"
     },
     {
         "MessageId": 101170020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "こんにちは、ヒカリ",
         "MessageKR": "안녕, 히카리",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗨，光",
+        "MessageEN": "Hi, Hikari."
     },
     {
         "MessageId": 101170020,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "どうしたの？",
         "MessageKR": "무슨 일 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼了嗎？",
+        "MessageEN": "What's going on?"
     },
     {
         "MessageId": 101170030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "きんきゅー",
         "MessageKR": "왕큰일",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "糟糕",
+        "MessageEN": "superbigproblem"
     },
     {
         "MessageId": 101170031,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ひますぎ",
         "MessageKR": "히카리심심",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "光好無聊",
+        "MessageEN": "hikaribooored"
     },
     {
         "MessageId": 101170032,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "刺激求む",
         "MessageKR": "자극필요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "需要刺激",
+        "MessageEN": "needexcitement"
     },
     {
         "MessageId": 101170040,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ごめん、今は手が離せなくて……",
         "MessageKR": "미안하지만 지금은 도와줄 수가 없겠는데……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "抱歉，我現在幫不上忙……",
+        "MessageEN": "Sorry, but I can't help you right now..."
     },
     {
         "MessageId": 101170050,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "なんで",
         "MessageKR": "왜",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "為什麼",
+        "MessageEN": "why"
     },
     {
         "MessageId": 101170051,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "やだ",
         "MessageKR": "어째서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "為什麼嘛",
+        "MessageEN": "whyyy"
     },
     {
         "MessageId": 101170052,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "なんで\u200b",
         "MessageKR": "왜ㅐㅐㅐ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "為什麼啦～～～",
+        "MessageEN": "whyyyyyy"
     },
     {
         "MessageId": 101170060,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "出張に行かなきゃ……",
         "MessageKR": "출장 가고 있거든",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我正在出差……",
+        "MessageEN": "I'm on a business trip."
     },
     {
         "MessageId": 101170070,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "えー",
         "MessageKR": "우우",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗚嗚",
+        "MessageEN": "boo"
     },
     {
         "MessageId": 101170071,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "早く終わらせて",
         "MessageKR": "빨리끝내ㅐ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "快點結束嘛",
+        "MessageEN": "finishquickquickkk"
     },
     {
         "MessageId": 101160087,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "sensei"
     },
     {
         "MessageId": 101170090,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "次も",
         "MessageKR": "다음에도",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下次也要",
+        "MessageEN": "takehikaritrain"
     },
     {
         "MessageId": 101170091,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "ヒカリの列車乗って",
         "MessageKR": "히카리열차타",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "搭光的列車哦",
+        "MessageEN": "nexttimetoo"
     },
     {
         "MessageId": 101170100,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "そうしようかな？",
         "MessageKR": "그럴까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可以嗎？",
+        "MessageEN": "Should I?"
     },
     {
         "MessageId": 101170110,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "うん",
         "MessageKR": "응",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "yes"
     },
     {
         "MessageId": 101170111,
@@ -255,7 +255,7 @@
         "ImagePath": "",
         "MessageJP": "またあそぼ",
         "MessageKR": "또놀자",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "再一起玩吧",
+        "MessageEN": "letsplayagain"
     }
 ]

@@ -148,7 +148,7 @@
         "MessageJP": "あ？そうだったか？",
         "MessageKR": "그, 그랬던가?",
         "MessageTW": "啊？是嗎？",
-        "MessageEN": "D-Did I say that? "
+        "MessageEN": "W-Was that the case?"
     },
     {
         "MessageId": 100080078,
@@ -160,7 +160,7 @@
         "MessageJP": "そう言われるとそんな気もしてきたな……",
         "MessageKR": "그랬던 거 같기도 하고…….",
         "MessageTW": "這麼一說，好像有這麼一回事……",
-        "MessageEN": "Maybe I did..."
+        "MessageEN": "Maybe it was..."
     },
     {
         "MessageId": 100080075,

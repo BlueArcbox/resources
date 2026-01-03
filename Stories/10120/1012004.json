@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "力を出すために",
         "MessageKR": "힘을 내기 위해서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "為了使出力量",
+        "MessageEN": "To exert power"
     },
     {
         "MessageId": 101200180,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "力を抜かなければならないなんて",
         "MessageKR": "힘을 빼야 한다니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就必須先放下力量",
+        "MessageEN": "one must exhaust power"
     },
     {
         "MessageId": 101200190,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "このアンチノミーも、ドラマーの背負うべき宿命なのか……",
         "MessageKR": "이 안티노미 또한 드러머가 짊어져야 할 숙명인 것일까……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這種矛盾，難道是鼓手必須背負的宿命嗎……",
+        "MessageEN": "Is this antinomy the fate of all drummers?"
     },
     {
         "MessageId": 101200200,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "え……？",
         "MessageKR": "……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……？",
+        "MessageEN": "...?"
     },
     {
         "MessageId": 101190207,

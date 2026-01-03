@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "おーい",
         "MessageKR": "똑똑@@",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咚咚咚",
+        "MessageEN": "knockknock@@"
     },
     {
         "MessageId": 101180020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "せんせー",
         "MessageKR": "선생님?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師？",
+        "MessageEN": "Sensei?"
     },
     {
         "MessageId": 101180030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "どちら様でしょうか？",
         "MessageKR": "그런 사람 없는데요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你找錯人了",
+        "MessageEN": "No such person here."
     },
     {
         "MessageId": 101180040,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "まじ？",
         "MessageKR": "머지;;",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "奇怪@@",
+        "MessageEN": "Wha;;"
     },
     {
         "MessageId": 101180050,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "間違えた？",
         "MessageKR": "선생님번호인데??",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這明明是老師的號碼啊？？",
+        "MessageEN": "Isn't this your number?!"
     },
     {
         "MessageId": 101180060,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "冗談冗談",
         "MessageKR": "선생님 맞아. 장난친 거야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我是老師沒錯。剛才是開玩笑的",
+        "MessageEN": "I was just kidding. It's me, Sensei."
     },
     {
         "MessageId": 101180070,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "なんだよ！",
         "MessageKR": "아오ㅋㅋ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哦哦～ww",
+        "MessageEN": "Ugh lol"
     },
     {
         "MessageId": 101180080,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "暇かなーって",
         "MessageKR": "걍심심해서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我只是因為無聊",
+        "MessageEN": "Texted you"
     },
     {
         "MessageId": 101180090,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "連絡したのに",
         "MessageKR": "말걸어봄",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "想找個人聊天",
+        "MessageEN": "Cuz I was booored! Bored!"
     },
     {
         "MessageId": 101180100,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "私は出張に行くとこ",
         "MessageKR": "오늘은 운행 없어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天沒有發車嗎？",
+        "MessageEN": "No train operations today?"
     },
     {
         "MessageId": 101180110,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "へぇ",
         "MessageKR": "ㄴㄴ안그래도",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不不",
+        "MessageEN": "Well, yeah"
     },
     {
         "MessageId": 101180120,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "私もこれから出発",
         "MessageKR": "곧 출발",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在正準備要發車",
+        "MessageEN": "About to depart"
     },
     {
         "MessageId": 101170127,

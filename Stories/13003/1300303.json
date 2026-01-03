@@ -124,7 +124,7 @@
         "MessageJP": "今日もお疲れ様でした",
         "MessageKR": "오늘은 고생하셨습니다.",
         "MessageTW": "今天也辛苦了",
-        "MessageEN": "You did a lot today."
+        "MessageEN": "You did so much for me today."
     },
     {
         "MessageId": 130030193,
@@ -136,7 +136,7 @@
         "MessageJP": "なんだか今日は、何もしていないような気もしますが",
         "MessageKR": "어쩐지 아무것도 안 한 것 같지만.",
         "MessageTW": "總覺得今天沒做什麼事",
-        "MessageEN": "I don't feel like I did anything."
+        "MessageEN": "I suppose we didn't actually do much besides talk, but..."
     },
     {
         "MessageId": 130030200,

@@ -38,9 +38,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "私は百鬼夜行連合学院、「お祭り運営委員会」組のフィーナと申しやす！",
-        "MessageKR": "저는 백귀야행 학원, <마츠리 운영 관리파>의 피나라고 함다!",
+        "MessageKR": "저는 백귀야행 학원, <마츠리운영관리파>의 피나라고 함다!",
         "MessageTW": "我是百鬼夜行聯合學園「節慶營運管理部」組的菲娜！",
-        "MessageEN": "I'm Pina of the Festival Department at Hyakkiyako Academy."
+        "MessageEN": "I'm Pina of the Festival Operations Gang at Hyakkiyako Academy."
     },
     {
         "MessageId": 160040021,

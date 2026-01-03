@@ -97,7 +97,7 @@
         "NextId": 100340321,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "ちょっと、百貨店で買いたいものがありまして。",
+        "MessageJP": "ちょっと、百貨店で買いたいものがありまして",
         "MessageKR": "후후, 이번에 백화점에서 사고 싶은 물건이 좀 있는데.",
         "MessageTW": "我想在百貨店買點東西",
         "MessageEN": "There's something I've had my eye on at the store."
@@ -169,7 +169,7 @@
         "NextId": 100330347,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "それでは、百貨店の前でお待ちしておりますね。",
+        "MessageJP": "それでは、百貨店の前でお待ちしておりますね",
         "MessageKR": "그럼 백화점 앞에서 기다리고 있을게요.",
         "MessageTW": "那麼，我在百貨店前等您哦",
         "MessageEN": "I'll meet you at the department store!"

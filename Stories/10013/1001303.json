@@ -109,7 +109,7 @@
         "NextId": 100130188,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "あのう、その……。",
+        "MessageJP": "あのう、その……",
         "MessageKR": "그, 저기…….",
         "MessageTW": "這個，那個……",
         "MessageEN": "Oh, um..."
@@ -121,7 +121,7 @@
         "NextId": 100130195,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "えっと……。",
+        "MessageJP": "えっと……",
         "MessageKR": "그러니까…….",
         "MessageTW": "那個……",
         "MessageEN": "So..."
@@ -136,7 +136,7 @@
         "MessageJP": "きえぇぇぇああああぁぁぁぁああｒｒｒｒｒｒｒｒ",
         "MessageKR": "캬아아아아아아아아아ㅏㅏㅏㅏㅏ",
         "MessageTW": "嘰啊啊啊啊啊啊ｒｒｒｒｒｒｒｒ",
-        "MessageEN": "Kyaaaaahaha!"
+        "MessageEN": "Kyaaaaaaahhh!"
     },
     {
         "MessageId": 100130202,
@@ -145,7 +145,7 @@
         "NextId": -1,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "な、なんでもありません……。",
+        "MessageJP": "な、なんでもありません……",
         "MessageKR": "아, 아무것도 아닙니다…….",
         "MessageTW": "什，什麼都沒有……",
         "MessageEN": "I-It's nothing..."

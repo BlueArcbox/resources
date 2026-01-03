@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "逢魔が時。朔月は天守の端に懸かりしも、民草、愚かなりて鬼を恐れず",
         "MessageKR": "때는 오우마가토키.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "時值黃昏",
+        "MessageEN": "When twilight reigns supreme"
     },
     {
         "MessageId": 200460700,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "これすなわち、天命衰えし不吉の兆しなり",
         "MessageKR": "삭월이 천수각 끝에 걸리고, 사람이 어리석어 귀신을 두려워하지 않으니, 이는 천명이 쇠한 흉조로다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "殘月掛在千手閣頂，人心愚昧，不再畏懼鬼神，此乃天命衰敗的不祥之兆",
+        "MessageEN": "The new moon hangs upon the ridges of Tenshukaku. People are foolish to indulge a fear of ghosts. A dark omen, heralding the decline of heaven's mandate."
     },
     {
         "MessageId": 200460710,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ニヤ？",
         "MessageKR": "니야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "仁耶？",
+        "MessageEN": "Niya?"
     },
     {
         "MessageId": 200460720,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "それは古の物語。歴史より伝承、真実より虚構なり",
         "MessageKR": "케케묵은 옛이야기. 역사보다는 설화, 진실보다는 허구로 여겨지는 과거의 일.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "陳舊的往事。被世人認定為傳說而非歷史，虛構而非真實",
+        "MessageEN": "An old story. Folklore, rather than history. The past morphs into fiction."
     },
     {
         "MessageId": 200460730,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "されど、鬼の名を呼びしこと、憚られんや",
         "MessageKR": "그럼에도 여전히 사람들은 귀신의 이름을 입에 담길 꺼리죠.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "即便如此，人們依舊忌諱提及鬼神之名",
+        "MessageEN": "Yes, people find their tongues laden when they attempt to speak of ghosts."
     },
     {
         "MessageId": 200460740,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "どういう意味……？",
         "MessageKR": "조금 전부터 무슨 말인지 모르겠어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我從剛才就聽不懂你在說什麼了",
+        "MessageEN": "I'm not following what you're saying."
     },
     {
         "MessageId": 200460750,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "簡単なことですよ、先生",
         "MessageKR": "간단합니다. 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "事情很簡單，老師",
+        "MessageEN": "It's simple, Sensei."
     },
     {
         "MessageId": 200460760,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "なぜ鬼が恐れられるのか。なぜ私たちが「鬼の行列」の名を冠するのか",
         "MessageKR": "사람들이 어째서 귀신을 두려워하는지, 백귀야행이 어째서 귀신의 행렬이라 불리는지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "人們為何會害怕鬼神，百鬼夜行為何會被稱為鬼神的行列",
+        "MessageEN": "The reason why people are afraid of ghosts, the reason why Hyakkiyako is called the \"Parade of Ghosts.\""
     },
     {
         "MessageId": 200460761,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "このキヴォトスに、今一度知らしめようと思いまして",
         "MessageKR": "온 키보토스에 재차 상기시켜 주기로 했습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我們決定再次告訴整個奇普托斯",
+        "MessageEN": "I've decided to remind Kivotos of memories long forgotten."
     },
     {
         "MessageId": 200460762,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "夜は、まだ始まったばかりです",
         "MessageKR": "밤은 이제 막 시작했을 뿐입니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "夜晚，現在才正要開始",
+        "MessageEN": "The night has just begun."
     },
     {
         "MessageId": 200450777,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "さっき嘘だって言ったキヴォトス征服計画",
         "MessageKR": "선생님, 아까 거짓말이라 했던 키보토스 정복 계획.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，剛才說是騙人的那個奇普托斯征服計畫",
+        "MessageEN": "Sensei, I was lying about my plans to take over Kivotos."
     },
     {
         "MessageId": 200460780,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "あれ、実は本当なんですよ～",
         "MessageKR": "사실은 진짜랍니다\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "其實是真的哦～",
+        "MessageEN": "Or...it's all true! Heehee"
     },
     {
         "MessageId": 200460790,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "？",
         "MessageKR": "?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "？",
+        "MessageEN": "?"
     },
     {
         "MessageId": 200460800,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "嘘だって言ったほうが嘘だったという「どんでん返し」みたいな？",
         "MessageKR": "거짓말이라 했던 쪽이 거짓말이라는, 그런 반전이네요\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "也就是「都是騙人的」這句話其實才是謊言的反轉～",
+        "MessageEN": "The greatest plot twist of all: a lie that was a lie."
     },
     {
         "MessageId": 200460810,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "今からでも、私の一声で百鬼夜行の軍勢が動き出すかも～",
         "MessageKR": "그래서 지금도 제 호령 한 번이면 백귀야행의 군세가 출격할지도\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以現在只要我一聲令下，百鬼夜行的軍勢就會出征～",
+        "MessageEN": "Even now, Hyakkiyako's forces might sally forth with a single command from me."
     },
     {
         "MessageId": 200460811,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "しないかも～？",
         "MessageKR": "안 할지도\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "也可能不會～",
+        "MessageEN": "Or not!"
     },
     {
         "MessageId": 200460820,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "それはさすがに嘘でしょ！",
         "MessageKR": "아니, 이건 거짓말이지!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "等一下，這肯定是騙人的吧！",
+        "MessageEN": "No, this one's a lie!"
     },
     {
         "MessageId": 200460820,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "嘘だよね……？",
         "MessageKR": "왜 이런 거짓말을 하는 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "為什麼要說這種謊話？",
+        "MessageEN": "Why are you pulling my leg...?"
     },
     {
         "MessageId": 200460830,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "にゃははっ♪",
         "MessageKR": "그야……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這個嘛……？",
+        "MessageEN": "Well...?"
     },
     {
         "MessageId": 200460840,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "やっぱり先生は面白いですねぇ",
         "MessageKR": "재밌잖아요\\~?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為很好玩～？",
+        "MessageEN": "Because it's fun?"
     },
     {
         "MessageId": 200460850,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "先生はおもちゃではありません",
         "MessageKR": "심장이 철렁한다고!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "心臟都快跳出來了！",
+        "MessageEN": "You're giving me heart problems!"
     },
     {
         "MessageId": 200460850,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "先生で遊ぶんじゃありません",
         "MessageKR": "선생님은 장난감이 아닙니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不要把老師當玩具",
+        "MessageEN": "I am not your plaything!"
     },
     {
         "MessageId": 200460860,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "にゃははっ！",
         "MessageKR": "냐하하\\~ 뭐 그렇죠.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "喵哈哈～也是啦",
+        "MessageEN": "Nyahaha, yep, you're right."
     },
     {
         "MessageId": 200460870,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "私をどう評価するか",
         "MessageKR": "이런 말썽꾸러기 학생을 어떻게 생각하실지는\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "像我這種惹麻煩的學生會被老師如何看待～",
+        "MessageEN": "In regards to how you view this troublemaking student of yours"
     },
     {
         "MessageId": 200460871,
@@ -327,8 +327,8 @@
         "ImagePath": "",
         "MessageJP": "それは先生ご自身のことですしぃ？",
         "MessageKR": "선생님께 맡겨두려고요\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就交給老師決定囉～",
+        "MessageEN": "I'll leave that to you"
     },
     {
         "MessageId": 200460880,
@@ -339,8 +339,8 @@
         "ImagePath": "",
         "MessageJP": "私はいつも通り、流れに身を任せるだけです",
         "MessageKR": "저는 늘 그렇듯이 흘러가는 대로 두려고요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我還是跟平時一樣，順其自然就好",
+        "MessageEN": "and, as usual, I'll just go with the flow."
     },
     {
         "MessageId": 200460890,
@@ -351,8 +351,8 @@
         "ImagePath": "",
         "MessageJP": "またいきなり呼ばれるのかな……。",
         "MessageKR": "늘 그렇듯이……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "跟平時一樣……？",
+        "MessageEN": "Your \"usual\" doesn't inspire confidence..."
     },
     {
         "MessageId": 200460890,
@@ -363,8 +363,8 @@
         "ImagePath": "",
         "MessageJP": "厄介ごとの気配がするな……。",
         "MessageKR": "엄청 참견하겠다는 뜻 아냐?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那不就是打算大肆插手的意思嗎？",
+        "MessageEN": "You're going to stick your nose where it doesn't belong!"
     },
     {
         "MessageId": 200460900,
@@ -375,8 +375,8 @@
         "ImagePath": "",
         "MessageJP": "そこも含めて、いつも通りですよ♪",
         "MessageKR": "냐하하\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "喵哈哈～",
+        "MessageEN": "Nyahaha!"
     },
     {
         "MessageId": 200460910,
@@ -387,7 +387,7 @@
         "ImagePath": "",
         "MessageJP": "にゃはっ♪",
         "MessageKR": "그런 부분까지 평소처럼 하렵니다\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然連這個部分也要跟平時一樣囉～",
+        "MessageEN": "I'll simply do as I always have."
     }
 ]

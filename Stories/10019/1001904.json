@@ -148,7 +148,7 @@
         "MessageJP": "とりあえず、スズメとかにしておく？",
         "MessageKR": "아무튼 그럼 아즈사는 참새?",
         "MessageTW": "姑且先用麻雀之類的吧？",
-        "MessageEN": "Are you a bird, Azusa?"
+        "MessageEN": "What are you, then? Sparrow?"
     },
     {
         "MessageId": 100190470,
@@ -172,7 +172,7 @@
         "MessageJP": "うん",
         "MessageKR": "참새인가.",
         "MessageTW": "嗯",
-        "MessageEN": "A bird?"
+        "MessageEN": "Sparrow?"
     },
     {
         "MessageId": 100190472,

@@ -226,7 +226,7 @@
         "MessageId": 160160440,
         "Flag": 1,
         "Type": 0,
-        "NextId": 160160441,
+        "NextId": -1,
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "必要でしたら、いつでも仰ってください",

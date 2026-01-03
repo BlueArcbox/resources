@@ -64,7 +64,7 @@
         "MessageJP": "やっぱりそうですよね……",
         "MessageKR": "네…… 역시 그게 맞지만……",
         "MessageTW": "我想也是呢……",
-        "MessageEN": "Yeah... That would be the right thing to do, but... "
+        "MessageEN": "Yes... That would be the right thing to do, but..."
     },
     {
         "MessageId": 130030245,
@@ -88,7 +88,7 @@
         "MessageJP": "すみません、ご心配をおかけしてしまいました",
         "MessageKR": "역시 아무것도 아닙니다. 선생님.",
         "MessageTW": "不好意思，讓您擔心了",
-        "MessageEN": "It's nothing serious, Sensei."
+        "MessageEN": "Please don't worry, Sensei."
     },
     {
         "MessageId": 130030259,
@@ -100,7 +100,7 @@
         "MessageJP": "ありがとうございます、先生",
         "MessageKR": "또 심려를 끼쳐드렸네요.",
         "MessageTW": "謝謝您，老師",
-        "MessageEN": "I made you worry again."
+        "MessageEN": "It shouldn't be anything serious."
     },
     {
         "MessageId": 130020267,

@@ -1,0 +1,69 @@
+[
+    {
+        "CharacterId": 20048,
+        "MessageJP": "ナギサ（水着）",
+        "MessageKR": "나기사(수영복)",
+        "MessageTW": "渚（泳裝）",
+        "MessageEN": "Nagisa (Swimsuit)"
+    },
+    {
+        "MessageId": 200470130,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 200480130,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 200480130,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200480140,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生",
+        "MessageKR": "선생님",
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
+    },
+    {
+        "MessageId": 200480140,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200480150,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "私のことは、お気になさらずに……",
+        "MessageKR": "저에 대해서는 걱정하지 않으셔도 됩니다.",
+        "MessageTW": "關於我的事，您不用擔心",
+        "MessageEN": "Please don't spare your concerns for me."
+    },
+    {
+        "MessageId": 200480150,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200470157,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "え……？",
+        "MessageKR": "응……?",
+        "MessageTW": "嗯……？",
+        "MessageEN": "Huh?"
+    },
+    {
+        "MessageId": 200470157,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ナギサ（水着）の絆イベントへ",
+        "MessageKR": "나기사(수영복)의 인연스토리로",
+        "MessageTW": "前往渚（泳裝）的羈絆劇情",
+        "MessageEN": "Go to Nagisa (Swimsuit)'s Bond Story"
+    }
+]

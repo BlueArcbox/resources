@@ -76,7 +76,7 @@
         "MessageJP": "その反応は失礼だね……",
         "MessageKR": "실례야.",
         "MessageTW": "那種反應真失禮啊……",
-        "MessageEN": "I'm sorry."
+        "MessageEN": "Rude, much?"
     },
     {
         "MessageId": 200000390,
@@ -88,7 +88,7 @@
         "MessageJP": "こういう時は、やっぱり……",
         "MessageKR": "이럴 때는 역시……",
         "MessageTW": "這種時候，果然……",
-        "MessageEN": "This is the perfect time for..."
+        "MessageEN": "Anyway, this is the perfect time for..."
     },
     {
         "MessageId": 200000397,
@@ -184,7 +184,7 @@
         "MessageJP": "先生。肩が濡れてたの、見てたよ",
         "MessageKR": "선생님. 어깨가 젖는 거, 봤어.",
         "MessageTW": "老師。我看到你肩膀濕了",
-        "MessageEN": "Your shoulder is getting all wet, Sensei."
+        "MessageEN": "Your shoulder got all wet, Sensei."
     },
     {
         "MessageId": 200000426,

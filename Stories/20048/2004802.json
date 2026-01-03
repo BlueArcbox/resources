@@ -1,0 +1,117 @@
+[
+    {
+        "CharacterId": 20048,
+        "MessageJP": "ナギサ（水着）",
+        "MessageKR": "나기사(수영복)",
+        "MessageTW": "渚（泳裝）",
+        "MessageEN": "Nagisa (Swimsuit)"
+    },
+    {
+        "MessageId": 200470070,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 200480070,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 200480070,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200480080,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生、大きなヤシの木の横に",
+        "MessageKR": "그러고 보니 선생님",
+        "MessageTW": "話說老師",
+        "MessageEN": "By the way, Sensei"
+    },
+    {
+        "MessageId": 200480080,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200480090,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ベージュのテントを見かけませんでしたか？",
+        "MessageKR": "큰 야자수 옆에 설치된 베이지색 텐트 보셨나요?",
+        "MessageTW": "請問您有看到設置在大棕櫚樹旁的米色帳篷嗎？",
+        "MessageEN": "Did you happen to see the beige tent, located by the giant palm tree?"
+    },
+    {
+        "MessageId": 200480090,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200480100,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "あ、さっき見たよ",
+        "MessageKR": "아, 지금 발견 했어.",
+        "MessageTW": "啊，現在看到了",
+        "MessageEN": "Ah, I just saw it."
+    },
+    {
+        "MessageId": 200480100,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200480101,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "言い忘れていたのですが",
+        "MessageKR": "깜박하고 말씀드리지 않았는데",
+        "MessageTW": "剛才忘了跟您說",
+        "MessageEN": "It slipped my mind,"
+    },
+    {
+        "MessageId": 200480101,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200480110,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "中にあるものはご自由にお使いください",
+        "MessageKR": "그 안에 있는 것들은 자유롭게 쓰셔도 된답니다.",
+        "MessageTW": "裡面的東西都可以自由使用哦",
+        "MessageEN": "but please feel free to make use of the amenities in there."
+    },
+    {
+        "MessageId": 200480110,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200480120,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "皆さんで楽しむために用意したのですが、まだ誰も使ってないようで……",
+        "MessageKR": "다들 즐기실 수 있도록 준비한 것입니다만, 아직 아무도 사용하지 않은 것 같아서…….",
+        "MessageTW": "本來是為了讓大家都能享受而準備的，可惜似乎還沒有人用過……",
+        "MessageEN": "I brought it for everyone's enjoyment, and yet no one seems to be interested..."
+    },
+    {
+        "MessageId": 200480120,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200470127,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "一体何が入ってるの……？",
+        "MessageKR": "대체 안에 뭐가 들어 있길래……?",
+        "MessageTW": "裡面究竟放了什麼……？",
+        "MessageEN": "Just what is in there...?"
+    },
+    {
+        "MessageId": 200470127,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ナギサ（水着）の絆イベントへ",
+        "MessageKR": "나기사(수영복)의 인연스토리로",
+        "MessageTW": "前往渚（泳裝）的羈絆劇情",
+        "MessageEN": "Go to Nagisa (Swimsuit)'s Bond Story"
+    }
+]

@@ -28,7 +28,7 @@
         "MessageJP": "こんにちは、先",
         "MessageKR": "안녕하세요 선",
         "MessageTW": "你好呀，老",
-        "MessageEN": "Hello"
+        "MessageEN": "Hello Se"
     },
     {
         "MessageId": 101020020,
@@ -40,7 +40,7 @@
         "MessageJP": "生。えへへ",
         "MessageKR": "생님. 헤헤",
         "MessageTW": "師，耶嘿嘿",
-        "MessageEN": "Sensei. Heehee."
+        "MessageEN": "nsei. Heehee."
     },
     {
         "MessageId": 101020030,
@@ -64,7 +64,7 @@
         "MessageJP": "相変わらずWi-Fiの調子が悪そうだね……",
         "MessageKR": "여전히 와이파이 상태가 안 좋구나…….",
         "MessageTW": "你那邊的Wi-Fi還是一如既往地糟糕呢……",
-        "MessageEN": "Looks like you still have bad wi-fi..."
+        "MessageEN": "Looks like you still have bad Wi-Fi..."
     },
     {
         "MessageId": 101020040,
@@ -76,7 +76,7 @@
         "MessageJP": "今いる廃墟は蒸し暑いですし、Wi-Fiもすぐ途切れますけど……",
         "MessageKR": "여름이라서 은신처도 덥고, 와이파이도 끊기고…….",
         "MessageTW": "到了夏天之後，我們的藏身處就越來越熱，甚至連Wi-Fi也常常斷掉……",
-        "MessageEN": "My hideout is broiling in the summer heat, AND the wi-fi's bad..."
+        "MessageEN": "My hideout is broiling in the summer heat, AND the Wi-Fi's bad..."
     },
     {
         "MessageId": 101020041,
@@ -100,7 +100,7 @@
         "MessageJP": "海に行くことになったんですから！",
         "MessageKR": "바다에 가기로 했",
         "MessageTW": "因為我們很快就",
-        "MessageEN": "I can!"
+        "MessageEN": "Because we're go"
     },
     {
         "MessageId": 101020060,
@@ -112,7 +112,7 @@
         "MessageJP": "何より",
         "MessageKR": "으니까요!",
         "MessageTW": "要去海邊了！",
-        "MessageEN": "Because we're going to the beach!"
+        "MessageEN": "ing to the beach!"
     },
     {
         "MessageId": 101020070,

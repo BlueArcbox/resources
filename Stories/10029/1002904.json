@@ -154,7 +154,7 @@
         "MessageId": 100290320,
         "Flag": 1,
         "Type": 0,
-        "NextId": 100290321,
+        "NextId": -1,
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "これからも、何かあったらよろしくー",

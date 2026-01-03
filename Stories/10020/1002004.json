@@ -148,7 +148,7 @@
         "MessageJP": "たまにはシャーレの方に来てみる？",
         "MessageKR": "슬슬 그쪽에서 오는 게 맞지 않을까 싶은데.",
         "MessageTW": "偶爾換你來夏萊這邊如何？",
-        "MessageEN": "I really think you should be making your way over here."
+        "MessageEN": "You know, I'd really like it if you came to visit me instead."
     },
     {
         "MessageId": 100200280,
@@ -172,7 +172,7 @@
         "MessageJP": "な、ななな何を言ってるの！？",
         "MessageKR": "무, 무무무 무슨 소리야",
         "MessageTW": "說，說說說什麼呢！？",
-        "MessageEN": "What are you talking about?"
+        "MessageEN": "What are you getting at?!"
     },
     {
         "MessageId": 100200291,
@@ -184,7 +184,7 @@
         "MessageJP": "そ、そういう風に誘導しても無駄だから",
         "MessageKR": "그런 식으로 유도해도 소용없어",
         "MessageTW": "你，你想誘導我也是沒用的",
-        "MessageEN": "Resist all you want. It won't work."
+        "MessageEN": "That sorta thing won't work on me, okay??"
     },
     {
         "MessageId": 100200300,
@@ -298,7 +298,7 @@
         "MessageId": 100200340,
         "Flag": 1,
         "Type": 0,
-        "NextId": 100200341,
+        "NextId": -1,
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "……",
@@ -316,6 +316,6 @@
         "MessageJP": "……もう寝ちゃった？",
         "MessageKR": "……자?",
         "MessageTW": "……已經睡了嗎？",
-        "MessageEN": "...Huh?"
+        "MessageEN": "...Are you asleep?"
     }
 ]

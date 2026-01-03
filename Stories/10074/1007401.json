@@ -64,7 +64,7 @@
         "MessageJP": "どうかしたの？",
         "MessageKR": "음? 하나코?",
         "MessageTW": "嗯？花子？",
-        "MessageEN": "Um... Hanako?"
+        "MessageEN": "Huh? Hanako?"
     },
     {
         "MessageId": 100740040,
@@ -232,7 +232,7 @@
         "MessageJP": "たしかに、そう言いましたが……",
         "MessageKR": "괜찮다고 말씀드린 건 맞는 걸요",
         "MessageTW": "我確實這麼說過沒錯……",
-        "MessageEN": "Sure, I told you it would be okay..."
+        "MessageEN": "Sure, I told you it would be okay,"
     },
     {
         "MessageId": 100740120,
@@ -244,7 +244,7 @@
         "MessageJP": "それは2人きりの時だけですよ？",
         "MessageKR": "'둘이 있을 때'라고 말씀드렸잖아요?",
         "MessageTW": "但也說過僅限「兩人獨處的時候」不是嗎？",
-        "MessageEN": "but didn't I also say \"when the two of us are together\"?"
+        "MessageEN": "but didn't I also say when it was \"just us two\"?"
     },
     {
         "MessageId": 100740121,

@@ -28,7 +28,7 @@
         "MessageJP": "美食の探究は今日も続く……予定だったのですが",
         "MessageKR": "미식에 대한 탐구는 오늘도 계속될 예정……이지만,",
         "MessageTW": "今天也會繼續美食的探索……本來是這麼計畫的",
-        "MessageEN": "I was planning to continue my gastronomical quest, but..."
+        "MessageEN": "I was planning to continue my gastronomic quest, but"
     },
     {
         "MessageId": 100020029,
@@ -88,7 +88,7 @@
         "MessageJP": "先生、少々お手伝いしていただけませんでしょうか？",
         "MessageKR": "물론 선생님의 도움이 필요할 것 같네요.",
         "MessageTW": "老師，能稍微幫個忙嗎？",
-        "MessageEN": "I was just about to ask for help."
+        "MessageEN": "I was just about to ask you for help."
     },
     {
         "MessageId": 100020054,

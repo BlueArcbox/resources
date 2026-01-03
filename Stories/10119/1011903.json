@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "気のせいかもしれないけど",
         "MessageKR": "요즈음은 기분 탓인지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不知道是不是我的錯覺",
+        "MessageEN": "I may be imagining things"
     },
     {
         "MessageId": 101190390,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "最近、夜間のトラブルが増えた気がする",
         "MessageKR": "해가 진 어두운 때에 말썽을 부리는 망량즈가 늘어난 것 같아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "最近在天黑後鬧事的妖怪劇團好像變多了",
+        "MessageEN": "however it would appear the Mouryo have been operating at night, as of late."
     },
     {
         "MessageId": 101190400,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "百花繚乱も大変だね",
         "MessageKR": "날이 더워진 탓이려나?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可能是因為天氣變熱的關係吧？",
+        "MessageEN": "Maybe because it's been so hot!"
     },
     {
         "MessageId": 101190400,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "ナグサも夜道には気をつけるんだよ",
         "MessageKR": "불량 학생들도 더위는 어쩔 수 없을 테니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "畢竟就連不良學生也沒辦法對抗炎熱啊",
+        "MessageEN": "Not even they can cause trouble in the heat!"
     },
     {
         "MessageId": 101190410,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "大丈夫",
         "MessageKR": "……그럴지도 모르겠네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……或許是吧",
+        "MessageEN": "...Perhaps."
     },
     {
         "MessageId": 101190420,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "これが私たちの役割だし",
         "MessageKR": "그 외에도 밤 중에는 지켜보는 사람이 적으니까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "況且夜裡看守的人比較少",
+        "MessageEN": "The streets echo abandoned under the moon's light as well,"
     },
     {
         "MessageId": 101190421,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "夜はあんまり人、いないし。夜目は利くほうだから",
         "MessageKR": "어둠을 틈타 나쁜 일을 저지르기도 좋지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要摸黑做壞事也更容易",
+        "MessageEN": "allowing them to carry out their illicit activities with ease."
     },
     {
         "MessageId": 101190430,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "でも、問題が起きたら面倒だし",
         "MessageKR": "그래서 당분간은 야간 순찰 빈도를 조금 늘려보려 해",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以我打算暫時增加夜間巡邏的頻率",
+        "MessageEN": "To combat this, I intend to increase the frequency of night patrols."
     },
     {
         "MessageId": 101190440,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "しばらくは夜のパトロールを増やした方が良さそう",
         "MessageKR": "어두운 밤에 위험한 장난을 치다 다치는 학생이 나오면 곤란하니까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不然要是有人因為晚上的惡作劇受傷就麻煩了",
+        "MessageEN": "We cannot allow a student to harm themselves during the dark of night."
     },
     {
         "MessageId": 101190450,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "今日は仕事の目途がつきそうなんだけど",
         "MessageKR": "백화요란도 고생이 많네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "百花繚亂真辛苦呢",
+        "MessageEN": "The Hyakkaryouran sure has it rough."
     },
     {
         "MessageId": 101190460,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "よかったら私も行っていい？",
         "MessageKR": "나구사도 어두운 밤길은 조심해야 해.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "名草你也要小心哦",
+        "MessageEN": "You have to be careful too, Nagusa!"
     },
     {
         "MessageId": 101190470,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "そう？",
         "MessageKR": "괜찮아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒事的",
+        "MessageEN": "Worry not."
     },
     {
         "MessageId": 101190480,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "じゃあ、また後で",
         "MessageKR": "이래 봬도 밤눈은 꽤 밝은 편이거든.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "其實我的夜視力意外的還不錯哦",
+        "MessageEN": "My nighttime vision is excellent."
     },
     {
         "MessageId": 101180487,

@@ -262,7 +262,7 @@
         "MessageId": 100050560,
         "Flag": 1,
         "Type": 0,
-        "NextId": 100050561,
+        "NextId": -1,
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "次は別の物を見せてあげるよ",

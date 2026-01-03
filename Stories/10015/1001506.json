@@ -1,0 +1,141 @@
+[
+    {
+        "CharacterId": 10015,
+        "MessageJP": "アリス",
+        "MessageKR": "아리스",
+        "MessageTW": "愛麗絲",
+        "MessageEN": "Aris"
+    },
+    {
+        "MessageId": 1001490410,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 1001500410,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 1001500410,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 1001500420,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生",
+        "MessageKR": "선생님.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 1001500420,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 1001500430,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "今って忙しいですか？",
+        "MessageKR": "바쁘십니까?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 1001500430,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 1001500440,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "全然大丈夫！",
+        "MessageKR": "아리스가 부르면 바쁘지 않아!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 1001500440,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 1001500441,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "良かったです！",
+        "MessageKR": "와아!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 1001500441,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 1001500442,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "実はアリス",
+        "MessageKR": "그러면 말이에요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 1001500442,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 1001500450,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生に見せたいものがあります！",
+        "MessageKR": "아리스는 선생님께 보여드리고 싶은 것이 있습니다!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 1001500450,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 1001500460,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "見せたいもの……？",
+        "MessageKR": "나에게 보여주고 싶은 것?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 1001500460,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 1001500461,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "はい！",
+        "MessageKR": "네.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 1001500461,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 1001490467,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ゲーム開発部の部室で、待ってますね！",
+        "MessageKR": "게임개발부실에서 기다리고 있겠습니다!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 1001490467,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "アリスの絆イベントへ",
+        "MessageKR": "아리스의 인연스토리로",
+        "MessageTW": "前往愛麗絲的羈絆劇情",
+        "MessageEN": "Go to Aris's Bond Story"
+    }
+]

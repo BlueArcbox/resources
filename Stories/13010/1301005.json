@@ -100,7 +100,7 @@
         "MessageJP": "何か勘違いされてるかもしれませんが……",
         "MessageKR": "무언가 오해를 하신 모양인데,",
         "MessageTW": "你可能有什麼誤會……",
-        "MessageEN": "Well, shows how much you know about me. "
+        "MessageEN": "You seem to have a misconception about me,"
     },
     {
         "MessageId": 130100370,
@@ -112,7 +112,7 @@
         "MessageJP": "私も他の生徒たちと同じくらい、ゲームは普通に好きですよ",
         "MessageKR": "저도 다른 학생들만큼 게임을 좋아하는 편이에요.",
         "MessageTW": "我也跟其他學生一樣，基本上是喜歡遊戲的",
-        "MessageEN": "I like games just as much as the other students."
+        "MessageEN": "but I like games just as much as the other students."
     },
     {
         "MessageId": 130100377,

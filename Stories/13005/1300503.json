@@ -136,7 +136,7 @@
         "MessageJP": "……脳にガツン！って来る感じだった",
         "MessageKR": "……뭔가 인상적이었어.",
         "MessageTW": "……腦袋被狠狠重擊一樣的感覺",
-        "MessageEN": "It was quite impressive."
+        "MessageEN": "It was quite...impressive."
     },
     {
         "MessageId": 130050150,
@@ -148,7 +148,7 @@
         "MessageJP": "……アバンギャルドな感じだった",
         "MessageKR": "……뭔가 전위적이었어.",
         "MessageTW": "……感覺挺前衛的",
-        "MessageEN": "It was quite avant-garde."
+        "MessageEN": "It was quite...avant-garde."
     },
     {
         "MessageId": 130050163,
@@ -172,7 +172,7 @@
         "MessageJP": "2ndアルバムは1stアルバムに比べて歌詞は分かりやすくなったけど、",
         "MessageKR": "2집 앨범은 1집 앨범에 비해 가사는 많이 순화되었지만,",
         "MessageTW": "第二張專輯的歌詞比第一張容易理解",
-        "MessageEN": "Their second album's lyrics are much more refined than their first,"
+        "MessageEN": "Their second album's lyrics are much tamer than their first,"
     },
     {
         "MessageId": 130050177,
@@ -184,7 +184,7 @@
         "MessageJP": "サウンドはますます激しくなってるから、こっちの方が好きって人は多くて",
         "MessageKR": "사운드가 거칠어서 진짜 헤비메탈 팬들은 이쪽을 더 좋아하는 편이지.",
         "MessageTW": "但聲音更加強烈，所以更多人喜歡這張",
-        "MessageEN": "but the sound is really heavy, so metal fans tend to prefer the second album."
+        "MessageEN": "but the sound is really heavy, so metalheads tend to prefer the second album."
     },
     {
         "MessageId": 130050174,

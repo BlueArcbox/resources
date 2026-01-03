@@ -40,7 +40,7 @@
         "MessageJP": "うん、いるよ",
         "MessageKR": "있는데.",
         "MessageTW": "我在",
-        "MessageEN": "Yes. It's me!"
+        "MessageEN": "Yes. I'm here!"
     },
     {
         "MessageId": 200390030,
@@ -160,7 +160,7 @@
         "MessageJP": "其方が生徒の期待に応える教育者であるのなら",
         "MessageKR": "그대가 학생을 저버리지 않는 교육자라면.",
         "MessageTW": "若汝自認是名不會辜負學生期待的教育家",
-        "MessageEN": "As an educator who would never fail one of their students"
+        "MessageEN": "I trust you are an educator who would never fail one of their students"
     },
     {
         "MessageId": 200390110,

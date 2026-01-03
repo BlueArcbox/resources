@@ -1,0 +1,117 @@
+[
+    {
+        "CharacterId": 10128,
+        "MessageJP": "フユ",
+        "MessageKR": "후유",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101270010,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 101280010,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 101280010,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101280020,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "お久しぶりです、先生",
+        "MessageKR": "오랜만입니다, 선생님.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101280020,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101280021,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "明日は外出の予定なので",
+        "MessageKR": "명일 외출이 예정되어 있는데, ",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101280021,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101280030,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ご入り用のものがありましたら、承りますよ",
+        "MessageKR": "혹 필요하신 물건이 있다면 주문받겠습니다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101280030,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101280040,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ううん……特にないよ",
+        "MessageKR": "……아냐 괜찮아.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101280040,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101280041,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "承知しました",
+        "MessageKR": "후후, 그럼 다음에 다시 여쭤보겠습니다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101280041,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101280050,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "それでは、またのご利用をお待ちしております！",
+        "MessageKR": "다음에도 저희 특수교역부를 이용해 주세요!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101280050,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101270057,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "まだ利用したことないよ……！？",
+        "MessageKR": "애초에 이용한 적이 없는데요……!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101270057,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "フユの絆イベントへ",
+        "MessageKR": "후유의 인연스토리로",
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
+    }
+]

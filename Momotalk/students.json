@@ -10656,5 +10656,117 @@
         "Club": "",
         "Star": 3,
         "Released": true
+    },
+    {
+        "Id": 10131,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10131.webp"
+        ],
+        "Name": {
+            "jp": "タカネ",
+            "kr": "타카네",
+            "zh": "贵音"
+        },
+        "Bio": {
+            "jp": "★★★★☆",
+            "kr": "★★★★☆",
+            "zh": "★★★★☆"
+        },
+        "Nickname": [
+            "Takane"
+        ],
+        "Birthday": "6/18",
+        "Age": "16歳",
+        "School": "RedWinter",
+        "Club": "PublishingDepartment",
+        "Star": 3,
+        "Released": true,
+        "Related": null
+    },
+    {
+        "Id": 20052,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/20052.webp"
+        ],
+        "Name": {
+            "jp": "ヤクモ",
+            "kr": "야쿠모",
+            "zh": "八云"
+        },
+        "Bio": {
+            "jp": "出版、重版、流通",
+            "kr": "출판. 증쇄. 유통.",
+            "zh": "出版，再版，发行"
+        },
+        "Nickname": [
+            "Yakumo"
+        ],
+        "Birthday": "5/18",
+        "Age": "17歳",
+        "School": "RedWinter",
+        "Club": "PublishingDepartment",
+        "Star": 3,
+        "Released": true,
+        "Related": null
+    },
+    {
+        "Id": 10132,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10132.webp"
+        ],
+        "Name": {
+            "jp": "ツクヨ（ドレス）",
+            "kr": "츠쿠요(드레스)",
+            "zh": "月咏（礼服）"
+        },
+        "Bio": {
+            "jp": "立派な忍者を目指して修行中、です！",
+            "kr": "결국에는, 어엿한 닌자가 될 거니까요!",
+            "zh": "为了成为优秀的忍者修行中！"
+        },
+        "Nickname": [
+            "Tsukuyo",
+            "巨忍"
+        ],
+        "Birthday": "4/5",
+        "Age": "15歳",
+        "School": "Hyakkiyako",
+        "Club": "NinpoKenkyubu",
+        "Star": 3,
+        "Released": true,
+        "Related": {
+            "ItemId": 10040,
+            "ItemType": "ドレス"
+        }
+    },
+    {
+        "Id": 20053,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/20053.webp"
+        ],
+        "Name": {
+            "jp": "ミチル（ドレス）",
+            "kr": "미치루(드레스)",
+            "zh": "满（礼服）"
+        },
+        "Bio": {
+            "jp": "「少女忍法帖ミチルっち」ドレス特集アップしたよ！",
+            "kr": "<소녀인법첩 미치룻치> 드레스 특집 업로드 완료!",
+            "zh": "【少女忍法帖小满亲】礼服特辑已经上传！"
+        },
+        "Nickname": [
+            "Michiru",
+            "小满"
+        ],
+        "Birthday": "2/22",
+        "Age": "17歳",
+        "School": "Hyakkiyako",
+        "Club": "NinpoKenkyubu",
+        "Star": 3,
+        "Released": true,
+        "Related": {
+            "ItemId": 16009,
+            "ItemType": "ドレス"
+        }
     }
 ]

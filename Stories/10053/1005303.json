@@ -76,7 +76,7 @@
         "MessageJP": "まあ、人並みには\nそこまで熱心に応援しているわけではありませんが……",
         "MessageKR": "뭐, 그렇게 열성적인 팬이라고 하긴 어렵지만……",
         "MessageTW": "這個嘛，和普通人相比\n我可能不是這麼熱衷……",
-        "MessageEN": "I wouldn't call myself a fan..."
+        "MessageEN": "I wouldn't call myself a fan,"
     },
     {
         "MessageId": 100530211,
@@ -88,7 +88,7 @@
         "MessageJP": "ミレニアムのチームが出場する時は、応援くらいしています",
         "MessageKR": "밀레니엄의 팀이 출전할 때는 가볍게 응원 정도는 한답니다.",
         "MessageTW": "但千年的隊伍出場時，還是會幫他們加油",
-        "MessageEN": "But I'm always rooting for the Millennium team."
+        "MessageEN": "but I'm always rooting for the Millennium team."
     },
     {
         "MessageId": 100520217,

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "お頭！",
         "MessageKR": "두목!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "頭兒！",
+        "MessageEN": "Boss!"
     },
     {
         "MessageId": 200450020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "いえ、センセイ！",
         "MessageKR": "아니, 스승님!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊不，老師！",
+        "MessageEN": "I mean, Master!"
     },
     {
         "MessageId": 200450030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "フィーナデース！",
         "MessageKR": "피나입니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我是菲娜！",
+        "MessageEN": "It's me, Pina!"
     },
     {
         "MessageId": 200450040,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "久しぶりだね、フィーナ",
         "MessageKR": "안녕, 피나. 오래간만이네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗨，菲娜。好久不見了呢",
+        "MessageEN": "Hi, Pina. It's been a while."
     },
     {
         "MessageId": 200450050,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ご無沙汰しておりマス！",
         "MessageKR": "네! 피나입니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是的！我是菲娜！",
+        "MessageEN": "Yes! Pina, reporting!"
     },
     {
         "MessageId": 200450060,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "実はフィーナ、この度不死鳥の如く生まれ変わったんデス！",
         "MessageKR": "다름이 아니라 피나, 마치 불사조와 같이 새로 태어났기에",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這次之所以聯絡，是因為菲娜就像不死鳥一樣重獲新生了",
+        "MessageEN": "I, Pina, have risen from the ashes like a phoenix!"
     },
     {
         "MessageId": 200450061,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "新たな姿をお見せシタク、ご連絡しマシタ！",
         "MessageKR": "이 자랑스러운 모습을 보여드리고자 연락 드렸습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以希望能讓老師見到值得引以為傲的一面！",
+        "MessageEN": "And I wanted to contact you to express my great pride!"
     },
     {
         "MessageId": 200450070,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "ぜひ、百鬼夜行にお越しクダサイ！",
         "MessageKR": "백귀야행에 오시면 꼭 피나를 찾아주세요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果有到百鬼夜行來的話，記得來找菲娜哦！",
+        "MessageEN": "So come find me when you're at Hyakkiyako!"
     },
     {
         "MessageId": 200450071,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "お待ちしておりマス！",
         "MessageKR": "꼭 입니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "一定要！",
+        "MessageEN": "It's a promise!"
     },
     {
         "MessageId": 200440087,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "やっちまいマシタ……",
         "MessageKR": "아쉽습니다아…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真可惜……",
+        "MessageEN": "What a shame..."
     },
     {
         "MessageId": 200450090,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "百鬼夜行の魅力を骨の髄までアピールできるチャンスだったのに……",
         "MessageKR": "백귀야행의 구석구석 매력을 잘 어필할 기회였는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "本來是個能展現百鬼夜行各個角落獨特魅力的好機會",
+        "MessageEN": "This was the perfect opportunity to put the true charms of Hyakkiyako on display."
     },
     {
         "MessageId": 200450091,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "無念デス",
         "MessageKR": "잘 알려드리지 못해서 아쉽습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "結果沒能好好介紹給老師，實在太可惜了！",
+        "MessageEN": "And I squandered it!"
     },
     {
         "MessageId": 200450100,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "仕方ないよ。犬は自由に遊びに行ったりするものだから",
         "MessageKR": "강아지는 다른 곳으로 놀러 가고 낙서는 지워지니까…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "狗狗跑去別的地方玩，塗鴉也被擦掉了……",
+        "MessageEN": "Puppies are free to move as they please...and graffiti is only temporary..."
     },
     {
         "MessageId": 200450110,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "焦ってそんな基本的なことを忘れるナンテ……",
         "MessageKR": "마음만 앞서서 그런 기본적인 것을 생각하지 못했습니다앗…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "都怪我太急著表現，結果忽略了最基本的事情……",
+        "MessageEN": "My excitement overwhelmed my common sense..."
     },
     {
         "MessageId": 200450120,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "でも、一生懸命なフィーナは素敵だったよ",
         "MessageKR": "그래도 피나의 마음가짐은 멋지다고 생각해.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "菲娜有這份心就已經很棒了哦",
+        "MessageEN": "Regardless, your determined mindset is amazing, Pina."
     },
     {
         "MessageId": 200450130,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "！！",
         "MessageKR": "!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "！！",
+        "MessageEN": "!!!"
     },
     {
         "MessageId": 200450131,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "恐縮デス！お頭！",
         "MessageKR": "황송합니다 선생님!!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝老師！！！",
+        "MessageEN": "I'm grateful, Sensei!!!"
     },
     {
         "MessageId": 200450140,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "おかげで、冷静さを取り戻せマシタ！",
         "MessageKR": "그리고 선생님께서 도와주신 덕분에 다시 냉정해질 수 있었습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "而且也是多虧了老師幫忙，我才能重新冷靜下來",
+        "MessageEN": "And I'm also grateful that I was able to return to my senses, thanks to you!"
     },
     {
         "MessageId": 200450141,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "次こそは、百鬼夜行の名物を、しっかり紹介します！",
         "MessageKR": "다음부터는 좀 더 안정적인 볼거리를 안내해야겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下次一定會找狀況穩定一點的名勝，帶老師去參觀的",
+        "MessageEN": "Next time, I shall guide you to the most stable of landmarks!"
     },
     {
         "MessageId": 200450150,
@@ -267,7 +267,7 @@
         "ImagePath": "",
         "MessageJP": "不肖フィーナ、全力でリベンジデス！",
         "MessageKR": "힘내겠습니다!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我會加油！！",
+        "MessageEN": "I'll do my complete best!"
     }
 ]

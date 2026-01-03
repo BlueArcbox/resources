@@ -1,0 +1,117 @@
+[
+    {
+        "CharacterId": 20052,
+        "MessageJP": "ヤクモ",
+        "MessageKR": "야쿠모",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200510100,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 200520100,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 200520100,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200520110,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "『レッドウィンター出版部がシャーレと私的な領域で接触する",
+        "MessageKR": "<붉은겨울의 출판부가 샬레와 사적 영역으로 접촉하는>",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200520110,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200520111,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "その歴史的出会いについてのダダイズムテーゼ』",
+        "MessageKR": "<그 역사적인 만남에 대한 다다이즘적 테제>",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200520111,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200520120,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "次の記事の題名です。いかがですか？",
+        "MessageKR": "이번 원고 제목인데 어떠신가요",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200520120,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200520130,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "重い！",
+        "MessageKR": "부담스러워!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200520130,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200520131,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "記念すべきシャーレ訪問日を機に",
+        "MessageKR": "나름대로 중요한 부분이라고 생각해서",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200520131,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200520140,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "大々的な特集を組む予定だったんですけど",
+        "MessageKR": "특집 코너까지 준비할 생각이었는데요오",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200520140,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200510147,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ふつうに当番に来て……",
+        "MessageKR": "그냥 편하게 당번으로 와 다오……",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200510147,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ヤクモの絆イベントへ",
+        "MessageKR": "야쿠모의 인연스토리로",
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
+    }
+]

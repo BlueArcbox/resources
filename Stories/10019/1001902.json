@@ -49,7 +49,7 @@
         "NextId": 100190190,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "今からのムササビの巣に向かう予定だ",
+        "MessageJP": "今からムササビの巣に向かう予定だ",
         "MessageKR": "지금부터 청설모굴에 방문할 예정이다.",
         "MessageTW": "現在打算去鼯鼠的巢穴",
         "MessageEN": "I'll be visiting Squirrel very soon."
@@ -100,7 +100,7 @@
         "MessageJP": "せんせ",
         "MessageKR": "아니.",
         "MessageTW": "老",
-        "MessageEN": "Nah."
+        "MessageEN": "No."
     },
     {
         "MessageId": 100190211,
@@ -232,7 +232,7 @@
         "MessageJP": "気持ちよさそうに寝てたから、静かにお暇させてもらった",
         "MessageKR": "안전은 확인했으니 우선 돌아왔어.",
         "MessageTW": "看你睡得很舒服，我就悄悄離開了",
-        "MessageEN": "I've confirmed the safety, so I've returned."
+        "MessageEN": "I've confirmed your safety measures, so I've returned."
     },
     {
         "MessageId": 100190260,
@@ -268,7 +268,7 @@
         "MessageJP": "うん",
         "MessageKR": "응.",
         "MessageTW": "嗯",
-        "MessageEN": "Fine..."
+        "MessageEN": "Yes..."
     },
     {
         "MessageId": 100190280,

@@ -310,7 +310,7 @@
         "MessageId": 260050500,
         "Flag": 1,
         "Type": 0,
-        "NextId": 260050501,
+        "NextId": -1,
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "次はちゃんと大事にしなさいよ？",

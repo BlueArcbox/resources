@@ -196,7 +196,7 @@
         "MessageJP": "サポーターとして、全力で支えさせてもらうね……",
         "MessageKR": "서포터로 충분합니다…….",
         "MessageTW": "我會作為支持者，全力支持你哦……",
-        "MessageEN": "Can't I go back to just being a supporter?"
+        "MessageEN": "Can't I go back to just being your cheerleader?"
     },
     {
         "MessageId": 100240410,
@@ -226,7 +226,7 @@
         "MessageId": 100240420,
         "Flag": 1,
         "Type": 0,
-        "NextId": 100240421,
+        "NextId": -1,
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "じゃあ……これからも、サポーターとして",

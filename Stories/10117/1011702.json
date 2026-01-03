@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生って",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "sensei"
     },
     {
         "MessageId": 101170130,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "趣味ある？",
         "MessageKR": "취미있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有什麼興趣嗎？",
+        "MessageEN": "havehobby?"
     },
     {
         "MessageId": 101170140,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "・ｘ・",
         "MessageKR": "궁금",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "光很好奇",
+        "MessageEN": "curious"
     },
     {
         "MessageId": 101170150,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "どうだろ……",
         "MessageKR": "글쎄……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這個嘛……",
+        "MessageEN": "Well..."
     },
     {
         "MessageId": 101170150,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "仕事でないことは確か……",
         "MessageKR": "일단 업무는 아닌 듯……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "反正不是工作就對了……",
+        "MessageEN": "Not work, at the very least..."
     },
     {
         "MessageId": 101170160,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ヒカリも",
         "MessageKR": "히카리",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "光",
+        "MessageEN": "hikari"
     },
     {
         "MessageId": 101170161,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "同じく",
         "MessageKR": "마찬가지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "也一樣",
+        "MessageEN": "same"
     },
     {
         "MessageId": 101170170,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "ヒカリは何か趣味あるの？",
         "MessageKR": "히카리는 취미가 뭔데?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "光的興趣是什麼呢？",
+        "MessageEN": "What's Hikari's hobby?"
     },
     {
         "MessageId": 101170180,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師\u200b",
+        "MessageEN": "sensei\u200b"
     },
     {
         "MessageId": 101170181,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "アリ",
         "MessageKR": "개미",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "螞蟻",
+        "MessageEN": "like"
     },
     {
         "MessageId": 101170182,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "好き？",
         "MessageKR": "좋아해?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "喜歡嗎？",
+        "MessageEN": "ant?"
     },
     {
         "MessageId": 101170190,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "どういうこと……！？",
         "MessageKR": "뭔가 특이한 소재가 나왔는데?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "話題怎麼突然變得怪怪的？",
+        "MessageEN": "That's a pretty unique topic..."
     },
     {
         "MessageId": 101160197,

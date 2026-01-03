@@ -100,7 +100,7 @@
         "MessageJP": "もしかして私、頼りないのでしょうか？",
         "MessageKR": "혹시 다들 제가 미덥지 못한 걸까요?",
         "MessageTW": "是不是因為我這個人很不可靠呢？",
-        "MessageEN": "Is it because I'm doing a good job?"
+        "MessageEN": "Is it because I'm not doing a good job?"
     },
     {
         "MessageId": 100360120,
@@ -244,7 +244,7 @@
         "MessageJP": "すごく、救われた気分です",
         "MessageKR": "그",
         "MessageTW": "心裡相當欣慰",
-        "MessageEN": "So um..."
+        "MessageEN": "So, um..."
     },
     {
         "MessageId": 100360190,

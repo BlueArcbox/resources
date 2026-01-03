@@ -148,7 +148,7 @@
         "MessageJP": "本当に「処理」なんかじゃないからね",
         "MessageKR": "노파심에 다시 한번 말하니까 진짜 '처리' 같은 거 아냐",
         "MessageTW": "真的不是要你「處理」什麼的",
-        "MessageEN": "I don't want you to think I was just getting it over with or anything."
+        "MessageEN": "I know I already told you this, but I wasn't trying to get rid of it or anything."
     },
     {
         "MessageId": 100490480,
@@ -244,7 +244,7 @@
         "MessageJP": "からかってたんだよね？猫のくだり",
         "MessageKR": "역시 놀리는 거 맞았던 거지? 고양이 이야기.",
         "MessageTW": "是開玩笑的吧？貓的部份",
-        "MessageEN": "You were teasing me with that cat story, right?"
+        "MessageEN": "You were teasing me with that talk about a cat's tongue, right?"
     },
     {
         "MessageId": 100490540,
@@ -274,7 +274,7 @@
         "MessageId": 100490550,
         "Flag": 2,
         "Type": 0,
-        "NextId": 100490551,
+        "NextId": -1,
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "……",

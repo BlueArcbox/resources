@@ -64,7 +64,7 @@
         "MessageJP": "メイドの仕事で、大事なことを忘れてたの！",
         "MessageKR": "메이드의 일과에 대해",
         "MessageTW": "關於女僕的工作",
-        "MessageEN": "There's something I've been forgetting this whole time..."
+        "MessageEN": "There's something I've been forgetting this whole time"
     },
     {
         "MessageId": 100940222,
@@ -76,7 +76,7 @@
         "MessageJP": "さっきそれを思い出して……",
         "MessageKR": "쭉 잊고 있었던 것이 있었어…….",
         "MessageTW": "我發現有件事被我忘得一乾二淨了……",
-        "MessageEN": "About a maid's daily duties..."
+        "MessageEN": "about a maid's daily duties..."
     },
     {
         "MessageId": 100940230,
@@ -430,7 +430,7 @@
         "MessageId": 100940430,
         "Flag": 1,
         "Type": 0,
-        "NextId": 100940431,
+        "NextId": -1,
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "そうだね",

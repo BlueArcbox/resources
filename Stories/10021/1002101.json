@@ -28,7 +28,7 @@
         "MessageJP": "先生、急いで確認したいことがある",
         "MessageKR": "선생님. 한 가지 확인할 게 있어.",
         "MessageTW": "老師，有件事想盡快和你確認一下",
-        "MessageEN": "There's something to I want to check, Sensei."
+        "MessageEN": "There's something I want to check, Sensei."
     },
     {
         "MessageId": 10021020,
@@ -88,7 +88,7 @@
         "MessageJP": "ただ、よく考えてみたら、この辺りもそんなに安全ではないから",
         "MessageKR": "하지만 생각해보니 이곳도 그리 안전하진 않으니까.",
         "MessageTW": "只是仔細想想，這附近並不是那麼安全",
-        "MessageEN": "After further evaluation, I don't believe that place is safe either."
+        "MessageEN": "After further evaluation, I don't believe this beach is safe either."
     },
     {
         "MessageId": 10021051,
@@ -208,7 +208,7 @@
         "MessageJP": "確かに、もう少し肩の力を抜いても良いかもしれない",
         "MessageKR": "아주 조금은 안전할지도.",
         "MessageTW": "稍微放鬆一下確實不壞",
-        "MessageEN": "That location might actually be safe."
+        "MessageEN": "This place might actually be safe."
     },
     {
         "MessageId": 10021110,
@@ -220,7 +220,7 @@
         "MessageJP": "おかげさまで、少しは楽しめそうだ",
         "MessageKR": "덕분에 조금은 편하게 이곳을 즐길 수 있겠어.",
         "MessageTW": "託你的福，我好像能稍微享受現況了",
-        "MessageEN": "You should be able to stay there without worrying too much, then."
+        "MessageEN": "We should be able to stay here without worrying too much, then."
     },
     {
         "MessageId": 10021111,

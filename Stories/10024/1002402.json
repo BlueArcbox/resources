@@ -196,7 +196,7 @@
         "MessageJP": "カバンの中に入れてると、どうしても飲み物はぬるくなっちゃうし",
         "MessageKR": "역시 가방 안에 든 것들은 시간이 지나면서 조금씩 식으니까.",
         "MessageTW": "飲料放在背包裡總是會變溫的",
-        "MessageEN": "Since the stuff in my bag heats up after a while"
+        "MessageEN": "The stuff in my bag gets warm after a while."
     },
     {
         "MessageId": 100240200,
@@ -208,7 +208,7 @@
         "MessageJP": "持ってきてくれたドリンク、すっごく冷たくて嬉しかった",
         "MessageKR": "막 챙겨 온 드링크가 훨씬 시원한 것 같아.",
         "MessageTW": "老師幫我帶來的飲料非常冰涼，我很開心",
-        "MessageEN": "The drink I just got is cooler than those."
+        "MessageEN": "So the drink you just gave me is a lot cooler."
     },
     {
         "MessageId": 100240201,
@@ -244,7 +244,7 @@
         "MessageJP": "そういえばさっき先生に渡したタオル、良ければ……",
         "MessageKR": "그러고 보니 나에게서 받아 간 타올은 어떻게 됐어?",
         "MessageTW": "這麼說來，剛才給老師的毛巾，如果可以的話……",
-        "MessageEN": "What happened to the towel I gave you before?"
+        "MessageEN": "What happened to the towel I gave you earlier?"
     },
     {
         "MessageId": 100240220,

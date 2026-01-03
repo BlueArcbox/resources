@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "ヒカリ",
         "MessageKR": "히카리",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "光",
+        "MessageEN": "hikari"
     },
     {
         "MessageId": 101170320,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今日やすみ",
         "MessageKR": "오늘비번",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天休假",
+        "MessageEN": "offtoday"
     },
     {
         "MessageId": 101170330,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "いいなぁ",
         "MessageKR": "오 부럽구만.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真羨慕",
+        "MessageEN": "Oh. I'm jealous."
     },
     {
         "MessageId": 101170340,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "シャーレに",
         "MessageKR": "샬레에서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我要在夏萊",
+        "MessageEN": "wantsleepover"
     },
     {
         "MessageId": 101170341,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "泊まる",
         "MessageKR": "자고갈래",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "過夜",
+        "MessageEN": "schalesleepover"
     },
     {
         "MessageId": 101170350,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "急に！？",
         "MessageKR": "갑자기?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這麼突然！？",
+        "MessageEN": "Right now?!"
     },
     {
         "MessageId": 101160357,

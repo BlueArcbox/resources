@@ -28,7 +28,7 @@
         "MessageJP": "海はいいよね",
         "MessageKR": "음",
         "MessageTW": "大海真是好呀",
-        "MessageEN": "Well.."
+        "MessageEN": "Well..."
     },
     {
         "MessageId": 100450260,
@@ -172,7 +172,7 @@
         "MessageJP": "鯨もジャンプするって聞いたんだけど",
         "MessageKR": "고래도",
         "MessageTW": "鯨魚也會躍出水面",
-        "MessageEN": "the whales"
+        "MessageEN": "whales"
     },
     {
         "MessageId": 100450322,
@@ -268,7 +268,7 @@
         "MessageJP": "まあ、でも",
         "MessageKR": "뭐, 그냥",
         "MessageTW": "嘛，不過",
-        "MessageEN": "Well..."
+        "MessageEN": "Well...\u200b"
     },
     {
         "MessageId": 100450371,

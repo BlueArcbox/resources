@@ -1,0 +1,117 @@
+[
+    {
+        "CharacterId": 20050,
+        "MessageJP": "リツ",
+        "MessageKR": "리츠",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200490050,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 200500050,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 200500050,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200500060,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "せんせーせんせーせんせー",
+        "MessageKR": "선생님선생님선생님",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200500060,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200500070,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生は何色が好き？",
+        "MessageKR": "선생님은 무슨 색을 좋아해?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200500070,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200500080,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "なにの色か、によるかな……？",
+        "MessageKR": "무엇의 색인지에 따라 다르지……?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200500080,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200500081,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "おっけー！",
+        "MessageKR": "아항!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200500081,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200500090,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "じゃあボクが決めちゃうね！",
+        "MessageKR": "그럼 그냥 이쪽에서 정해야겠다!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200500090,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200500100,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "え？何を？",
+        "MessageKR": "예? 뭘요?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200500100,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200490107,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "リツ？",
+        "MessageKR": "리츠?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200490107,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "リツの絆イベントへ",
+        "MessageKR": "리츠의 인연스토리로",
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
+    }
+]

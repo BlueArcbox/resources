@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "あの～先生～？",
         "MessageKR": "저기\\~ 선생님\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個～老師～",
+        "MessageEN": "Um, Sensei."
     },
     {
         "MessageId": 200460230,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "大変申し上げにくいのですが……",
         "MessageKR": "저번 이후로 얼마 안 되어서 참 송구하네요\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "距離上次見面沒多久就又麻煩您，實在過意不去～",
+        "MessageEN": "While I'm very aware it hasn't been very long since our last crisis..."
     },
     {
         "MessageId": 200460240,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "実は……また、すご〜く困ったことになっていまして〜",
         "MessageKR": "조금 곤란한 상황에 부닥쳐서요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我現在遇到了一點棘手的狀況",
+        "MessageEN": "I'm in a bit of a pinch."
     },
     {
         "MessageId": 200460250,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "部室まで来ていただけませんか？",
         "MessageKR": "혹시 음양부실까지 와 주실 수 있을까요\\~?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "能請您到陰陽部部室來一趟嗎～？",
+        "MessageEN": "Would you be able to come to the Yin-Yang Club room?"
     },
     {
         "MessageId": 200460260,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "二度も同じ手には引っかかりません",
         "MessageKR": "두 번은 안 당합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我才不會再上當第二次",
+        "MessageEN": "I'm not falling for this twice."
     },
     {
         "MessageId": 200460260,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "同じ手口とは大胆な……",
         "MessageKR": "태연하게 똑같은 수법을…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "居然還敢若無其事地用同一招……",
+        "MessageEN": "Turning around and employing the same exact tactic..."
     },
     {
         "MessageId": 200460270,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "あらら……そうですか……",
         "MessageKR": "그렇군요. 잘 알았습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原來如此，我明白了",
+        "MessageEN": "I see. I understand."
     },
     {
         "MessageId": 200460280,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "先生も、もう私を信じてくれないんですね……",
         "MessageKR": "선생님께서도 절 믿어주지 않으시는군요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "連老師也不願意相信我了啊",
+        "MessageEN": "If even you don't trust me..."
     },
     {
         "MessageId": 200460290,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "でも、誰にも助けてもらえないのも、結局は自分の蒔いた種……",
         "MessageKR": "이것은 제 평소 행실과 품성의 문제. 설령 누구도 절 돕지 않는다 해도 그건 돌고 돌아서 온 저 자신의 업보…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這都是我平時的行為與品性的問題。\n就算沒有人願意幫助我，那也是因果報應……",
+        "MessageEN": "The problem clearly lies with me and my attitude. I suppose I can only call this karma..."
     },
     {
         "MessageId": 200460291,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "失礼しました、さようなら",
         "MessageKR": "실례했습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "失禮了",
+        "MessageEN": "My apologies."
     },
     {
         "MessageId": 200460300,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "待って、本当だったの！？",
         "MessageKR": "잠깐, 진짜였어?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "等等，所以是真的嗎！？",
+        "MessageEN": "Wait, you're being serious?!"
     },
     {
         "MessageId": 200460300,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "すぐ行くよ！！",
         "MessageKR": "바로 갈게!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我馬上過去！",
+        "MessageEN": "I'll be right there!"
     },
     {
         "MessageId": 200450317,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "これでも",
         "MessageKR": "선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 200460320,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "ちゃんとやることはやってるんですよ？",
         "MessageKR": "이래 봬도 해야 할 일은 전부 하고 있답니다\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "別看我這樣，該做的事都有做唷～",
+        "MessageEN": "Despite how it looks, everything that needs to be done, gets done."
     },
     {
         "MessageId": 200460330,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "嘘だぁ",
         "MessageKR": "엑.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真假",
+        "MessageEN": "Eh."
     },
     {
         "MessageId": 200460330,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "本当にぃ？",
         "MessageKR": "진짜?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真的嗎？",
+        "MessageEN": "Really?"
     },
     {
         "MessageId": 200460340,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "カホがね",
         "MessageKR": "카호가요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是佳穗做的",
+        "MessageEN": "By Kaho."
     },
     {
         "MessageId": 200460350,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "やっぱり！",
         "MessageKR": "안 하잖아!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以你根本沒做嘛！",
+        "MessageEN": "So not by you!"
     },
     {
         "MessageId": 200460360,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "過程がどうあれ、仕事が片付けば同じじゃないですかぁ",
         "MessageKR": "누구의 손을 거치든, 일 자체는 해결되고 있으니…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不管是由誰的手來完成，反正事情終究是解決了嘛……",
+        "MessageEN": "Does it matter who, as long as it gets done...?"
     },
     {
         "MessageId": 200460370,
@@ -267,7 +267,7 @@
         "ImagePath": "",
         "MessageJP": "私ってほんと、運がいいですねぇ～にゃははは～！",
         "MessageKR": "이야\\~ 저는 운이 참 좋네요. 냐하하\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哎呀～我的運氣真好呢。喵哈哈～",
+        "MessageEN": "Yeap. I'm a lucky one! Nyahaha!"
     }
 ]

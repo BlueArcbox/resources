@@ -100,7 +100,7 @@
         "MessageJP": "そうか",
         "MessageKR": "뭐",
         "MessageTW": "這樣啊",
-        "MessageEN": "Well..."
+        "MessageEN": "Well,"
     },
     {
         "MessageId": 100080390,
@@ -124,7 +124,7 @@
         "MessageJP": "せっかく休みなんだからよ",
         "MessageKR": "시간 괜찮으면 지금 나올래?",
         "MessageTW": "既然難得有空",
-        "MessageEN": "What's your schedule look like?"
+        "MessageEN": "What does schedule look like?"
     },
     {
         "MessageId": 100080400,

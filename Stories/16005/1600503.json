@@ -250,7 +250,7 @@
         "MessageId": 16005320,
         "Flag": 1,
         "Type": 0,
-        "NextId": 16005321,
+        "NextId": -1,
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "これからも、よろしくお願いいたします",

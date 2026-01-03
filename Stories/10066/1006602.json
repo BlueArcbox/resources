@@ -64,7 +64,7 @@
         "MessageJP": "メイドレベルを上げる新たな方法です",
         "MessageKR": "그것은 바로, 메이드 레벨을 올리는 새로운 방법입니다.",
         "MessageTW": "是提高女僕等級的新方法",
-        "MessageEN": "Yes. I have found a way to level up my maid skill."
+        "MessageEN": "Yes. I have found a way to raise my maid level."
     },
     {
         "MessageId": 100660090,
@@ -112,7 +112,7 @@
         "MessageJP": "それを勉強することです！！",
         "MessageKR": "그것을 공부하는 겁니다, 선생님!",
         "MessageTW": "愛麗絲要學習這些！",
-        "MessageEN": "And I will learn... Just what is a maid? What is a maid's duties?"
+        "MessageEN": "And I will learn... Just what is a maid? What are a maid's duties?"
     },
     {
         "MessageId": 100660120,
@@ -124,7 +124,7 @@
         "MessageJP": "ちょうどいい資料も見つけましたので",
         "MessageKR": "그리고 아리스는, 그러기 위한 자료를 찾아내고야 말았으니까요!",
         "MessageTW": "正好發現了適合的資料",
-        "MessageEN": "You see, I have discovered a great treasure. A hoard of maid documents!"
+        "MessageEN": "You see, I have discovered a great treasure. A hoard of maid study materials!"
     },
     {
         "MessageId": 100660130,
@@ -136,7 +136,7 @@
         "MessageJP": "メイドの……資料……？",
         "MessageKR": "메이드 자료?!",
         "MessageTW": "女僕的……資料……？",
-        "MessageEN": "Maid documents?!"
+        "MessageEN": "Maid...study materials?!"
     },
     {
         "MessageId": 100650137,

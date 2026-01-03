@@ -52,7 +52,7 @@
         "MessageJP": "こんにちは、ノノミ",
         "MessageKR": "의미심장한 부름이다.",
         "MessageTW": "妳好，野乃美",
-        "MessageEN": "Well, you see..."
+        "MessageEN": "Do you need anything?"
     },
     {
         "MessageId": 100440030,
@@ -88,7 +88,7 @@
         "MessageJP": "よろしければ先生もご一緒しませんか？",
         "MessageKR": "지금부터 피크닉 자리를 물색하러 갈 생각인데, 같이 가실래요?",
         "MessageTW": "可以的話老師要一起去嗎？",
-        "MessageEN": "I'd like to have a picnic. Will you come with me?"
+        "MessageEN": "So I'd like to have a picnic. Will you come with me?"
     },
     {
         "MessageId": 100440050,

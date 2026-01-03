@@ -130,7 +130,7 @@
         "MessageId": 130060231,
         "Flag": 1,
         "Type": 0,
-        "NextId": 130060238,
+        "NextId": -1,
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "次は絶っ対に成功させてみせるから、",

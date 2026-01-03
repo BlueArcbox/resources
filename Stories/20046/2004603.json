@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "お助けを～",
         "MessageKR": "선생님……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師……？",
+        "MessageEN": "Sensei...?"
     },
     {
         "MessageId": 200460390,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "またもや大変なことになってしまいまして……",
         "MessageKR": "이것이 참…… 큰일이 나버려서요\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這次……真的出大事了～",
+        "MessageEN": "Well... I have a real problem."
     },
     {
         "MessageId": 200460400,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "文章で説明するのが難しいので",
         "MessageKR": "자세한 설명은 드리기 어렵고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "詳細情況有點難說明",
+        "MessageEN": "I can't give details over text."
     },
     {
         "MessageId": 200460401,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "部室までいらしていただければと",
         "MessageKR": "주소를 보낼게요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我把地址傳給您",
+        "MessageEN": "Just meet me at this address."
     },
     {
         "MessageId": 200460410,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "私だって学習するんだから",
         "MessageKR": "유감스럽게도 인간에겐 학습 능력이란 게 있단다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可惜人類是會學習的生物",
+        "MessageEN": "Unfortunately, people have this thing called an \"ability to learn.\""
     },
     {
         "MessageId": 200460420,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "二度あることは三度あるって言うし",
         "MessageKR": "세 번은 안 당할 거야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我不會再上當第三次的",
+        "MessageEN": "I won't fall for it three times!!"
     },
     {
         "MessageId": 200460430,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "同じ手に三回も引っかからないよ",
         "MessageKR": "진짜로.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "絕對",
+        "MessageEN": "Seriously."
     },
     {
         "MessageId": 200460440,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "ニヤ？",
         "MessageKR": "니야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "仁耶？",
+        "MessageEN": "Niya?"
     },
     {
         "MessageId": 200460450,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "え、本当に……？",
         "MessageKR": "지금 갈게!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我馬上過去！",
+        "MessageEN": "I'm on my way!"
     },
     {
         "MessageId": 200450467,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "いやぁ～",
         "MessageKR": "이야\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哎呀～",
+        "MessageEN": "Wow..."
     },
     {
         "MessageId": 200460470,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "やっぱり先生、やるときはやる人なんですね",
         "MessageKR": "역시 선생님, 혼낼 때는 무섭네요\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師生氣的時候果然很可怕呢～",
+        "MessageEN": "You really ARE scary when you're lecturing someone."
     },
     {
         "MessageId": 200460480,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "ちゃんと反省しましたか？",
         "MessageKR": "제대로 반성했습니까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有好好反省嗎？",
+        "MessageEN": "Have you reflected on your actions?"
     },
     {
         "MessageId": 200460490,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "はい～",
         "MessageKR": "네\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有～",
+        "MessageEN": "Yeah, yeah!"
     },
     {
         "MessageId": 200460491,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "それはもうたっぷりと",
         "MessageKR": "반성했어요\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我好好反省了～",
+        "MessageEN": "1000000% yes."
     },
     {
         "MessageId": 200460500,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "……まだお説教が必要ですか？",
         "MessageKR": "……또 설교하러 갈 거야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……我又要去說教了哦",
+        "MessageEN": "...I'm going to scold you again."
     },
     {
         "MessageId": 200460510,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "ひゃっ",
         "MessageKR": "엑.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呀啊",
+        "MessageEN": "Ack"
     },
     {
         "MessageId": 200460520,
@@ -231,7 +231,7 @@
         "ImagePath": "",
         "MessageJP": "……じゃなくて、百鬼夜行はいつでも先生のご訪問をお待ちしております♪",
         "MessageKR": "……이 아니라, 백귀야행은 언제나 선생님의 방문을 환영하고 있답니다\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……不對，百鬼夜行隨時都歡迎老師的到訪唷～",
+        "MessageEN": "...We at Hyakkiyako always look forward to the esteemed Schale's Sensei's visits."
     }
 ]

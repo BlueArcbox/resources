@@ -148,7 +148,7 @@
         "MessageJP": "帰り道とか平気？誰かいる？",
         "MessageKR": "아스나 한정으론 괜히 더 걱정되는걸.",
         "MessageTW": "回去的路上還好吧？有人在嗎？",
-        "MessageEN": "I'd be worried if it was anyone but you."
+        "MessageEN": "That just makes me even more worried, especially since it's you."
     },
     {
         "MessageId": 100280080,
@@ -172,7 +172,7 @@
         "MessageJP": "心配してくれてありがと、でも大丈夫！",
         "MessageKR": "걱정해주는 거야? 하지만 정말로 괜찮으니까!",
         "MessageTW": "謝謝你的關心，但是沒問題的！",
-        "MessageEN": "You're not even a little worried? But you're right, I'm fine!"
+        "MessageEN": "Aww, you're worried about me? But really, I'll be fine!"
     },
     {
         "MessageId": 100280090,

@@ -28,7 +28,7 @@
         "MessageJP": "先生、こん",
         "MessageKR": "선생님 안",
         "MessageTW": "老師，你",
-        "MessageEN": "Sensei"
+        "MessageEN": "Sens"
     },
     {
         "MessageId": 101020240,
@@ -40,7 +40,7 @@
         "MessageJP": "にちは、ヒヨリです",
         "MessageKR": "녕하세요 히요리에요",
         "MessageTW": "好，我是日和",
-        "MessageEN": "Hi, it's Hiyori."
+        "MessageEN": "ei, it's Hiyori."
     },
     {
         "MessageId": 101020250,
@@ -148,7 +148,7 @@
         "MessageJP": "落ち着いて、ヒヨリ。Wi-Fiのせいだから！",
         "MessageKR": "진정해, 히요리. 와이파이 때문이니까!",
         "MessageTW": "日和你先冷靜，剛才是Wi-Fi的關係啦！",
-        "MessageEN": "It's probably just bad wi-fi."
+        "MessageEN": "It's probably just bad Wi-Fi."
     },
     {
         "MessageId": 101020310,

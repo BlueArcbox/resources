@@ -1,0 +1,105 @@
+[
+    {
+        "CharacterId": 10128,
+        "MessageJP": "フユ",
+        "MessageKR": "후유",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101270060,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 101280060,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 101280060,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101280070,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生",
+        "MessageKR": "선생님",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101280070,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101280080,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "投石機は、なぜ壊れやすいのでしょう？",
+        "MessageKR": "투석기는 어째서 이토록 잘 망가지는 것일까요?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101280080,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101280090,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "攻城戦でもやってるの……？",
+        "MessageKR": "공성전이라도 벌이고 있니……?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101280090,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101280100,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "いえ、もっと素敵なことですよ。",
+        "MessageKR": "아뇨, 좀 더 멋진 것을 하고 있습니다. ",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101280100,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101280110,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "……特殊交易部の活動？",
+        "MessageKR": "……특수교역의 용도로 쓰고 있었구나.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101280110,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101270117,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "その通りです！よくご存知で！",
+        "MessageKR": "역시 선생님! 잘 알고 계시군요!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101270117,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "フユの絆イベントへ",
+        "MessageKR": "후유의 인연스토리로",
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
+    }
+]

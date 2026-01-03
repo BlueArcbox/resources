@@ -214,7 +214,7 @@
         "MessageId": 100890370,
         "Flag": 1,
         "Type": 0,
-        "NextId": 100890371,
+        "NextId": -1,
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "そうね",

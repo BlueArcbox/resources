@@ -1,0 +1,93 @@
+[
+    {
+        "CharacterId": 20050,
+        "MessageJP": "リツ",
+        "MessageKR": "리츠",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200490010,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 200500010,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 200500010,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200500020,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "やっほ！",
+        "MessageKR": "안녕 선생님!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200500020,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200500030,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "薄葉リツだよ！",
+        "MessageKR": "우스바 리츠입니다!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200500030,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200500040,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "明日の当番はリツだったね！",
+        "MessageKR": "맞아, 리츠가 내일 당번이었지?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200500040,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200500041,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "そういうこと！",
+        "MessageKR": "맞습니다!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200500041,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200490047,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "よろしくね！先生！",
+        "MessageKR": "내일 봐! 선생님!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200490047,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "リツの絆イベントへ",
+        "MessageKR": "리츠의 인연스토리로",
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
+    }
+]

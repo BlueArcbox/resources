@@ -346,7 +346,7 @@
         "MessageId": 101060720,
         "Flag": 1,
         "Type": 0,
-        "NextId": 101060721,
+        "NextId": -1,
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "本日もありがとうございました",

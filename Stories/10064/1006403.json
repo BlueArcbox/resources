@@ -40,7 +40,7 @@
         "MessageJP": "近くのお寺で便利屋のみんなに、お守りを買おうと思う",
         "MessageKR": "가까운 사찰에서 흥신소 직원들에게 선물할 부적을 구입할까 하는데……",
         "MessageTW": "我想去附近的寺廟買些御守送給便利屋的大家",
-        "MessageEN": "I'm gonna go to a temple nearby to get talismans for the other Problem Solver members."
+        "MessageEN": "I'm gonna go to a temple nearby to get amulets for the other Problem Solver members."
     },
     {
         "MessageId": 100640171,
@@ -64,7 +64,7 @@
         "MessageJP": "どんなお守りが欲しい？",
         "MessageKR": "혹시 특별히 필요한 부적이라도 있어?",
         "MessageTW": "你想要什麼樣的御守？",
-        "MessageEN": "What kind of talisman do you need?"
+        "MessageEN": "What kind of amulet do you need?"
     },
     {
         "MessageId": 100640190,
@@ -88,7 +88,7 @@
         "MessageJP": "会心ダメージ値を上げてくれるお守り！",
         "MessageKR": "치명 데미지 수치를 높여주는 부적!",
         "MessageTW": "可以提高暴擊傷害的御守！",
-        "MessageEN": "One that helps my Crit DMG rate!"
+        "MessageEN": "One that helps my Crit DMG!"
     },
     {
         "MessageId": 100640200,
@@ -136,7 +136,7 @@
         "MessageJP": "私もカヨコと選びたいな",
         "MessageKR": "나도 직접 보고 구입하고 싶은데……",
         "MessageTW": "我也想跟佳世子一起選",
-        "MessageEN": "I actually wanted to check out the talismans too."
+        "MessageEN": "I actually wanted to check out the amulets too."
     },
     {
         "MessageId": 100640220,

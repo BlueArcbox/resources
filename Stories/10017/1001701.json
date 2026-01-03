@@ -76,7 +76,7 @@
         "MessageJP": "あれ……特別友好章って、この前も貰わなかったっけ？",
         "MessageKR": "특별 학생 우호 훈장은 지난번에도 받지 않았어?",
         "MessageTW": "咦……特別友好章不是已經拿過了嗎？",
-        "MessageEN": "Wait, didn't you get the Special Student Friendship Medal last time too?"
+        "MessageEN": "Wait, didn't I get the Special Student Friendship Medal last time too?"
     },
     {
         "MessageId": 100170040,
@@ -100,7 +100,7 @@
         "MessageJP": "勲章の種類を間違えるとはけしからん",
         "MessageKR": "훈장의 종류를 벌써부터 헷갈리면 어쩌자는 건가.",
         "MessageTW": "勳章的種類可不能弄錯",
-        "MessageEN": "The names of these medals are so confusing..."
+        "MessageEN": "How could you get the names mixed up?"
     },
     {
         "MessageId": 100170050,

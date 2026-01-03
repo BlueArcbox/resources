@@ -1,0 +1,105 @@
+[
+    {
+        "CharacterId": 10131,
+        "MessageJP": "タカネ",
+        "MessageKR": "타카네",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101300150,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 101310150,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 101310150,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101310160,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生！",
+        "MessageKR": "선생님!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101310160,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101310161,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "本日、ですわ",
+        "MessageKR": "오늘이에요!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101310161,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101310170,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "お忘れではありませんわよね？",
+        "MessageKR": "기억하고 계시죠?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101310170,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101310180,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "私もすごく楽しみにしていたよ",
+        "MessageKR": "당연하지. 누구랑 한 약속인데.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101310180,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101310181,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "はい！",
+        "MessageKR": "네!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101310181,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101300187,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "それでは、出版部の部室でお待ちしておりますわね",
+        "MessageKR": "그러면 일단 출판부로 와 주시면 될 것 같아요!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101300187,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "タカネの絆イベントへ",
+        "MessageKR": "타카네의 인연스토리로",
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
+    }
+]

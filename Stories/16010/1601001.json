@@ -40,7 +40,7 @@
         "MessageJP": "何もしてないかな……",
         "MessageKR": "아무것도 안 하는데……",
         "MessageTW": "什麼都不做吧……",
-        "MessageEN": "Nothing in particular..."
+        "MessageEN": "Just resting and doing nothing, I guess..."
     },
     {
         "MessageId": 160100020,
@@ -76,7 +76,7 @@
         "MessageJP": "先生が休日を楽しんでるみたいで良かった",
         "MessageKR": "선생님이 제대로 휴일을 즐기고 있는 것 같아서 다행이야.",
         "MessageTW": "看來老師有好好地享受假日，真是太好了",
-        "MessageEN": "I was hoping to hear that you enjoyed your days off."
+        "MessageEN": "I'm glad to hear that you're enjoying your days off."
     },
     {
         "MessageId": 160100040,
@@ -136,7 +136,7 @@
         "MessageJP": "うーん、私はどうだろ……",
         "MessageKR": "내가 주말에 하는 일이라면……",
         "MessageTW": "唔──嗯，我的話……",
-        "MessageEN": "My weekends are usually filled with..."
+        "MessageEN": "My weekends are usually filled with"
     },
     {
         "MessageId": 160100080,
@@ -148,7 +148,7 @@
         "MessageJP": "だいたい何かを作ってるよ",
         "MessageKR": "역시 무언가를 만드는 것이려나.",
         "MessageTW": "大概都是在製作些什麼吧",
-        "MessageEN": "engineering and tinkering, of course. Oh, and sometimes even drafting!"
+        "MessageEN": "tinkering around and making things, I guess."
     },
     {
         "MessageId": 160090087,

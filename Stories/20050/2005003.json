@@ -1,0 +1,129 @@
+[
+    {
+        "CharacterId": 20050,
+        "MessageJP": "リツ",
+        "MessageKR": "리츠",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200490110,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 200500110,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 200500110,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200500120,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "シャーレの前ついたよー！",
+        "MessageKR": "나 이제 샬레 앞!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200500120,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200500130,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "何してる？",
+        "MessageKR": "선생님은 뭐 해?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200500130,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200500140,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "いきなりどうしたの！？",
+        "MessageKR": "갑자기?!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200500140,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200500141,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "服買いにいこって話したじゃん？",
+        "MessageKR": "저번에 같이 옷 사러 가자고 했었잖아!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200500141,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200500150,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "もしかして忙しい？",
+        "MessageKR": "혹시 바빠, 선생님?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200500150,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200500160,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "忙しい……",
+        "MessageKR": "당연히 바쁘지.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200500160,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200500170,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "だからこそ、行くよ。",
+        "MessageKR": "당장 가자.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200500170,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200490177,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "えっ？",
+        "MessageKR": "엥?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200490177,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "リツの絆イベントへ",
+        "MessageKR": "리츠의 인연스토리로",
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
+    }
+]

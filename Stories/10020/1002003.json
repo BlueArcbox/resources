@@ -64,7 +64,7 @@
         "MessageJP": "どういうこと……？",
         "MessageKR": "갑자기 또 무슨 소릴……",
         "MessageTW": "什麼意思……？",
-        "MessageEN": "What are you talking about..."
+        "MessageEN": "I have no idea what you're talking about."
     },
     {
         "MessageId": 100200140,
@@ -100,7 +100,7 @@
         "MessageJP": "知らんぷりしても無駄なんだから",
         "MessageKR": "시치미 떼도 소용없어……",
         "MessageTW": "裝作不知道也沒用",
-        "MessageEN": "It doesn't matter..."
+        "MessageEN": "You can't fool me..."
     },
     {
         "MessageId": 100200160,
@@ -160,7 +160,7 @@
         "MessageJP": "うん、仕方ない",
         "MessageKR": "그런 고로",
         "MessageTW": "唔，沒辦法",
-        "MessageEN": "You just..."
+        "MessageEN": "That's why"
     },
     {
         "MessageId": 100200181,
@@ -172,7 +172,7 @@
         "MessageJP": "今すぐに来て",
         "MessageKR": "지금 바로 나와줘야겠어.",
         "MessageTW": "現在馬上過來",
-        "MessageEN": "I want to see you now."
+        "MessageEN": "you need to come see me right away."
     },
     {
         "MessageId": 100200182,

@@ -106,7 +106,7 @@
         "MessageId": 100320230,
         "Flag": 1,
         "Type": 0,
-        "NextId": 100320231,
+        "NextId": -1,
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "これから先もずっと",

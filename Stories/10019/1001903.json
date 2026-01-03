@@ -88,7 +88,7 @@
         "MessageJP": "うん",
         "MessageKR": "응.",
         "MessageTW": "嗯",
-        "MessageEN": "Fine..."
+        "MessageEN": "Yes..."
     },
     {
         "MessageId": 100190330,
@@ -124,7 +124,7 @@
         "MessageJP": "よし、ではすぐにでも始めよう",
         "MessageKR": "좋아. 그럼 곧바로 시작하자.",
         "MessageTW": "好，那就馬上開始吧",
-        "MessageEN": "Fine, let's begin."
+        "MessageEN": "Good. Let's begin."
     },
     {
         "MessageId": 100190350,
@@ -220,7 +220,7 @@
         "MessageJP": "いや",
         "MessageKR": "아니.",
         "MessageTW": "不",
-        "MessageEN": "Nah."
+        "MessageEN": "No."
     },
     {
         "MessageId": 100190390,
@@ -244,6 +244,6 @@
         "MessageJP": "ただ、呼んでみただけ",
         "MessageKR": "그냥 보내 본 것뿐이야.",
         "MessageTW": "只是想試著呼叫一下",
-        "MessageEN": "Nah, I just felt like texting."
+        "MessageEN": "I just felt like texting."
     }
 ]

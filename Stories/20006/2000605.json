@@ -274,7 +274,7 @@
         "MessageId": 200060380,
         "Flag": 1,
         "Type": 0,
-        "NextId": 200060381,
+        "NextId": -1,
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "今日は助かったのだ、ありがとう！",

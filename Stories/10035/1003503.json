@@ -40,7 +40,7 @@
         "MessageJP": "少々ご提案したいこと、と言いますか……",
         "MessageKR": "제안하고 싶은 일이 생겼습니다만……. 혹시 괜찮으실까요?",
         "MessageTW": "該說我有個提案嗎……",
-        "MessageEN": "I have a suggestion. Would you like to hear it?"
+        "MessageEN": "I have a proposal. Would you like to hear it?"
     },
     {
         "MessageId": 100350270,
@@ -52,7 +52,7 @@
         "MessageJP": "「提案」？",
         "MessageKR": "갑자기 '제안'이라고?",
         "MessageTW": "「提案」？",
-        "MessageEN": "A suggestion? Sure."
+        "MessageEN": "A proposal? Sure."
     },
     {
         "MessageId": 100350270,

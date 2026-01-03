@@ -1,0 +1,129 @@
+[
+    {
+        "CharacterId": 10123,
+        "MessageJP": "セイア（水着）",
+        "MessageKR": "세이아(수영복)",
+        "MessageTW": "聖亞（泳裝）",
+        "MessageEN": "Seia (Swimsuit)"
+    },
+    {
+        "MessageId": 101220010,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 101230010,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 101230010,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101230020,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "今、お手すきかい？",
+        "MessageKR": "선생님",
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
+    },
+    {
+        "MessageId": 101230020,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101230021,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "少々急を要する事態になってしまった",
+        "MessageKR": "혹시 지금 시간 괜찮으실까요?",
+        "MessageTW": "現在方便打擾一下嗎？",
+        "MessageEN": "Could I borrow some of your time?"
+    },
+    {
+        "MessageId": 101230021,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101230030,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "都合がつくと助かるのだが",
+        "MessageKR": "조금…. 다급한 일이 생겨서요.",
+        "MessageTW": "發生了……一點緊急的事",
+        "MessageEN": "I have...something of an emergency."
+    },
+    {
+        "MessageId": 101230030,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101230040,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "大丈夫だけど、どうしたの？",
+        "MessageKR": "괜찮지만…. 무슨 일이야?",
+        "MessageTW": "可以是可以……怎麼了？",
+        "MessageEN": "Yes, of course, but...what's happening?"
+    },
+    {
+        "MessageId": 101230030,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101230040,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "シャーレで待ってればいい？",
+        "MessageKR": "다급한 일? 지금 온다는 거지?",
+        "MessageTW": "緊急的事？你現在要過來嗎？",
+        "MessageEN": "An emergency? Where are you?"
+    },
+    {
+        "MessageId": 101230040,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101230041,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "察しが良くて助かるよ",
+        "MessageKR": "지금 출발할 테니,",
+        "MessageTW": "我立刻出發",
+        "MessageEN": "I'll come over right now."
+    },
+    {
+        "MessageId": 101230041,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101230050,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "すぐに向かうとしよう",
+        "MessageKR": "오래 걸리진 않을 거예요.",
+        "MessageTW": "不會花費太多時間",
+        "MessageEN": "It won't take long to get to Schale."
+    },
+    {
+        "MessageId": 101230050,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101220057,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "なに、長くは待たせないさ",
+        "MessageKR": "그럼 그때 뵙도록 하겠습니다.",
+        "MessageTW": "那麼待會見",
+        "MessageEN": "I'll see you soon."
+    },
+    {
+        "MessageId": 101220057,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "セイア（水着）の絆イベントへ",
+        "MessageKR": "세이아(수영복)의 인연스토리로",
+        "MessageTW": "前往聖亞（泳裝）的羈絆劇情",
+        "MessageEN": "Go to Seia (Swimsuit)'s Bond Story"
+    }
+]

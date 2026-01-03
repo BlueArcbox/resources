@@ -136,7 +136,7 @@
         "MessageJP": "偶然",
         "MessageKR": "우연히",
         "MessageTW": "是指",
-        "MessageEN": "But with a little serendipity..."
+        "MessageEN": "But with a little serendipity,"
     },
     {
         "MessageId": 230070481,
@@ -148,7 +148,7 @@
         "MessageJP": "機会があればお会いしたいという話ですから",
         "MessageKR": "기회가 닿는다면의 이야기니까요.",
         "MessageTW": "有機會偶遇的話",
-        "MessageEN": "Our paths will cross, hopefully."
+        "MessageEN": "our paths will cross, hopefully."
     },
     {
         "MessageId": 230060497,

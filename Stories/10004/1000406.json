@@ -112,7 +112,7 @@
         "MessageJP": "私が先生に会いたいだけだし……",
         "MessageKR": "아, 물론, 어디까지나 내 개인의 바람이고.",
         "MessageTW": "啊，當然這只是我個人的想法而已",
-        "MessageEN": "Ah, it was just a personal wish..."
+        "MessageEN": "Of course, it's just a personal wish..."
     },
     {
         "MessageId": 100040501,
@@ -124,7 +124,7 @@
         "MessageJP": "忙しいなら、無理には……",
         "MessageKR": "선생님이 곤란하다면 결코 억지를 부리려는 건….",
         "MessageTW": "假如老師不願意的話，我也不會強迫你……",
-        "MessageEN": "I don't want to trouble you, so don't feel any kind of pressured."
+        "MessageEN": "I don't want to trouble you, so don't feel pressured."
     },
     {
         "MessageId": 100040510,

@@ -76,7 +76,7 @@
         "MessageJP": "私の方も、年末も美食の探究をしていることに変わりはありませんが……",
         "MessageKR": "신년에도 미식에 대한 탐구는 계속될 예정…… 이지만.",
         "MessageTW": "我在年末也依然進行著對美食的探究……",
-        "MessageEN": "I'm planning to continue my gastronomical quest in the New Year, and..."
+        "MessageEN": "I'm planning to continue my gastronomic quest in the New Year..."
     },
     {
         "MessageId": 100570042,
@@ -88,7 +88,7 @@
         "MessageJP": "美食において、季節や雰囲気も重要な要素の一つ",
         "MessageKR": "시기와 분위기 역시, 미식의 중요한 요소 중 하나이겠지요.",
         "MessageTW": "但是對美食來說，季節和氣氛也是重要的要素之一",
-        "MessageEN": "Naturally, timing and atmosphere are also important elements of gastronomy."
+        "MessageEN": "That being said, timing and atmosphere are also important elements of gastronomy."
     },
     {
         "MessageId": 100570050,

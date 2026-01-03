@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "拝啓",
         "MessageKR": "샬레의 선생님, 매번 신세 지고 있습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "夏萊的老師，承蒙您的照顧",
+        "MessageEN": "I'm always in your debt, Schale's Sensei."
     },
     {
         "MessageId": 200460020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "時下ますますご清栄のこととお慶び申し上げます",
         "MessageKR": "음양부의 부장을 맡고 있는 아마치 니야라 합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我是擔任陰陽部部長的仁耶",
+        "MessageEN": "This is Amachi Niya, president of the Yin-Yang Club."
     },
     {
         "MessageId": 200460030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "平素より格別のご高配を賜り",
         "MessageKR": "부족한 몸이나 향후에도 모쪼록 잘 부탁드립니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖說我能力不足，今後還請您多多指教",
+        "MessageEN": "Though I have many shortcomings, I look forward to working with you."
     },
     {
         "MessageId": 200460040,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "なんか反応に困っちゃうな",
         "MessageKR": "선생님, 반응하기 힘든데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師我，有點不知道該怎麼反應",
+        "MessageEN": "What's happening here...?"
     },
     {
         "MessageId": 200460040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ニヤが記憶喪失に……！？",
         "MessageKR": "니야가 기억을 잃었다……?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "仁耶失憶了嗎……！？",
+        "MessageEN": "Did you lose your memories?!?!"
     },
     {
         "MessageId": 200460050,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "にゃははっ！ちょっと悪ふざけが過ぎましたかねぇ？",
         "MessageKR": "냐하하핫\\~ 조금 짓궂었으려나요\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "喵哈哈～是不是有點壞心眼了呢～",
+        "MessageEN": "Nyahahaha! Just a little bit of mischief!"
     },
     {
         "MessageId": 200460060,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "にゃははっ！さすが先生、良い反応です♪",
         "MessageKR": "냐하하핫\\~ 역시 선생님, 한치의 기대도 저버리지 않는 반응이시네요\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "喵哈哈～不愧是老師，反應完全沒讓我失望呢～",
+        "MessageEN": "Nyahahaha! True to form, you always have the best reactions!"
     },
     {
         "MessageId": 200460070,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "ご挨拶くらい、形だけでもと思いまして",
         "MessageKR": "첫인사에는 형식미란 게 있다 보니\\~ 이래 보여도 제법 신경 쓴답니다\\~?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "初次打招呼的時候還是要注重形式嘛～\n別看我這樣，其實我還挺在意這種細節的唷～？",
+        "MessageEN": "First greetings have to have an air of formality to them, you know! So I put some effort in this time!"
     },
     {
         "MessageId": 200460080,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "そんなことだろうと思ったよ！",
         "MessageKR": "그런 건 줄 알았어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我就知道是這樣！",
+        "MessageEN": "I knew you were messing with me!"
     },
     {
         "MessageId": 200460090,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "ところで先生",
         "MessageKR": "그나저나 샬레의 선생님이라고 하시면 역시\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "話說夏萊的老師您～",
+        "MessageEN": "Anyways, Schale's Sensei"
     },
     {
         "MessageId": 200460091,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "可愛いかわい～い生徒のピンチ……",
         "MessageKR": "귀엽디\\~ 귀여운\\~ 학생들이 처한 곤경을\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "果然是個當可愛～又可愛的學生們遭遇困境的時候～",
+        "MessageEN": "you're very well known for not being able to ignore"
     },
     {
         "MessageId": 200460092,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "救いたくないですかぁ？",
         "MessageKR": "모른 척 지나치지 못하는 걸로 유명하시지요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "絕對無法坐視不管的人對吧？",
+        "MessageEN": "your cute and adorable students, right?"
     },
     {
         "MessageId": 200460100,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "何かあったの？",
         "MessageKR": "무슨 일 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "發生什麼事了？",
+        "MessageEN": "Is something going on?"
     },
     {
         "MessageId": 200460100,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "嫌な予感が……",
         "MessageKR": "불길한 도입부…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這個開場白感覺不太妙……",
+        "MessageEN": "An ominous intro..."
     },
     {
         "MessageId": 200460110,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "にゃは～",
         "MessageKR": "냐하\\~ 그게 말이죠오\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "喵哈～事情是這樣的～",
+        "MessageEN": "Nyaha! The thing is..."
     },
     {
         "MessageId": 200460120,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "実は、ちょ～っと困ったことになりまして……",
         "MessageKR": "조금 곤란한 일이 있어서요\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我現在遇到了一點小麻煩～",
+        "MessageEN": "I have something of a problem."
     },
     {
         "MessageId": 200460130,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "誰かに追われているんですよねぇ",
         "MessageKR": "지금 누군가에게 쫓기고 있거든요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有人正在追趕我呢",
+        "MessageEN": "I'm being pursued!!"
     },
     {
         "MessageId": 200450147,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "にゃは～\u200b",
         "MessageKR": "냐하\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "喵哈～",
+        "MessageEN": "Nyaha..."
     },
     {
         "MessageId": 200460150,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "おかげさまで、今日はお説教なしでした～",
         "MessageKR": "덕분에 오늘은 잔소리 없이 끝났네요\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "多虧老師的幫忙，今天總算沒被唸了呢～",
+        "MessageEN": "Thanks for helping me get out of that scolding!"
     },
     {
         "MessageId": 200460160,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "さすが頼れる大人♪",
         "MessageKR": "역시 믿을 수 있는 어른\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "您果然是值得信賴的大人～",
+        "MessageEN": "As expected from a trustworthy adult!"
     },
     {
         "MessageId": 200460170,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "先生がいてくだされば、全部丸く収まりますねぇ",
         "MessageKR": "선생님이 계시면 모든 게 해결되네요\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只要有老師在，一切都能解決呢～",
+        "MessageEN": "Everything works out with you around!"
     },
     {
         "MessageId": 200460180,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "サボるのもほどほどにね",
         "MessageKR": "그런 뜻으로 쓰는 말이 아닙니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我其實沒有這個意思",
+        "MessageEN": "Don't try to pull that right now..."
     },
     {
         "MessageId": 200460180,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "あんまり後輩たちを心配させないであげて",
         "MessageKR": "후배들을 너무 걱정시키지 마.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "別讓後輩們太擔心囉",
+        "MessageEN": "Stop worrying your underclassmen all the time."
     },
     {
         "MessageId": 200460190,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "にゃはっ♪",
         "MessageKR": "냐하하하\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "喵哈哈哈～",
+        "MessageEN": "Nyahahaha..."
     },
     {
         "MessageId": 200460200,
@@ -327,8 +327,8 @@
         "ImagePath": "",
         "MessageJP": "ニヤ？",
         "MessageKR": "대답은요……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "回答呢……？",
+        "MessageEN": "That's your answer...?"
     },
     {
         "MessageId": 200460210,
@@ -339,7 +339,7 @@
         "ImagePath": "",
         "MessageJP": "にゃははは～",
         "MessageKR": "냐하하하\\~\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "喵哈哈哈～\u200b",
+        "MessageEN": "Nyahahaha...\u200b"
     }
 ]

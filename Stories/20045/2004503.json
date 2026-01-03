@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "こんにちは、センセイ！",
         "MessageKR": "선생님, 피나입니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，我是菲娜！",
+        "MessageEN": "Sensei, Pina here!"
     },
     {
         "MessageId": 200450270,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今日のフィーナは、一味違いマス！",
         "MessageKR": "오늘은 불초 피나가 자신있는!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不才菲娜，今天真的很有信心！",
+        "MessageEN": "Today's the day where I, Pina the expert,"
     },
     {
         "MessageId": 200450271,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "プロフェッショナルとして輝く日デスカラ！",
         "MessageKR": "그야말로 전문가로서 활약할 수 있는 날입니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我會以專家的身分發揮專業！",
+        "MessageEN": "can achieve great things!"
     },
     {
         "MessageId": 200450280,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "一皮むけた姿を、ぜひセンセイに見てほしいデス！",
         "MessageKR": "피나의 한층 달라진 모습을 부디 선생님께서 봐주셨으면 합니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "希望能讓老師看到菲娜更上一層樓的樣子！",
+        "MessageEN": "I wish to show you the ways I've grown and changed!"
     },
     {
         "MessageId": 200450281,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "それでは、渦巻映画村でお待ちしておりマス！",
         "MessageKR": "피나, 영화촌에서 기다리고 있겠습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "菲娜會在電影村等老師來！",
+        "MessageEN": "Therefore, I'll await you most eagerly at the movie village!"
     },
     {
         "MessageId": 200440297,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ウゥッ、まだ顔が熱いデス……",
         "MessageKR": "우으… 아직도 얼굴이 화끈거립니다…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗚嗚……臉還是在發燙……",
+        "MessageEN": "Ugh... My face still feels hot..."
     },
     {
         "MessageId": 200450300,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "次からはもっと気を引き締めて参りマス……",
         "MessageKR": "다음부터는 더더욱 자중해야겠습니다…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我下次一定要更謹言慎行……",
+        "MessageEN": "I'll be infinitely more careful next time..."
     },
     {
         "MessageId": 200450310,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "みんな楽しんでたし、大丈夫だよ",
         "MessageKR": "다들 좋아했으니까 안심하자.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "大家都很開心，你不用擔心",
+        "MessageEN": "You shouldn't worry. Everyone enjoyed it!"
     },
     {
         "MessageId": 200450320,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "フィーナには、みんなを盛り上げる才能があると思う",
         "MessageKR": "피나가 사람들을 이끄는 재주가 있어서 좋다고 생각해.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我覺得菲娜有帶動遊客的才能，真的很優秀",
+        "MessageEN": "You have a great talent for leading others."
     },
     {
         "MessageId": 200450330,
@@ -146,9 +146,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "！！ ",
-        "MessageKR": "!! ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "!!",
+        "MessageTW": "！！",
+        "MessageEN": "!!!"
     },
     {
         "MessageId": 200450331,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "それなら安心デス！",
         "MessageKR": "그렇다면 다행입니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那真是太好了！",
+        "MessageEN": "What a relief!"
     },
     {
         "MessageId": 200450340,
@@ -171,7 +171,7 @@
         "ImagePath": "",
         "MessageJP": "エヘヘ……不肖フィーナ、今日の失敗を糧に、任侠の道を究めマス！",
         "MessageKR": "에헤헤… 오늘의 실수를 거울삼아 내일은 더 진화하겠습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嘿嘿嘿……我會以今天的失誤為鑑，鞭策自己繼續進步！",
+        "MessageEN": "Heeheehee. I will carry today's lessons into the future!"
     }
 ]

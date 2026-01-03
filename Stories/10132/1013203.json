@@ -1,0 +1,117 @@
+[
+    {
+        "CharacterId": 10132,
+        "MessageJP": "ツクヨ（ドレス）",
+        "MessageKR": "츠쿠요(드레스)",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101310180,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 101320180,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 101320180,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101320190,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生",
+        "MessageKR": "선생님",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101320190,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101320200,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "お昼ご飯、もう食べましたか……？",
+        "MessageKR": "혹시 점심 식사하셨나요……!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101320200,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101320210,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ま、まだ朝の8時だから……",
+        "MessageKR": "……지금 오전 8시인데?!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101320210,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101320220,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "つまり、食べてないと……！",
+        "MessageKR": "다, 다행이다……!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101320220,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101320221,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "では",
+        "MessageKR": "그럼 혹시",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101320221,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101320222,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "お昼は二人で",
+        "MessageKR": "점심시간…… ",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101320222,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101310227,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "食べに行きませんか……？",
+        "MessageKR": "내주실 수 있으신가요……!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101310227,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ツクヨ（ドレス）の絆イベントへ",
+        "MessageKR": "츠쿠요(드레스)의 인연스토리로",
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
+    }
+]

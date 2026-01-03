@@ -37,7 +37,7 @@
         "NextId": 130030020,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "ちょっと個人的に聞いていただきたいたいことがありまして……",
+        "MessageJP": "聞いていただきたいことがありまして……",
         "MessageKR": "개인적으로 선생님께 문의드리고 싶은 게 있습니다만,",
         "MessageTW": "我有點私事想要詢問您……",
         "MessageEN": "There's something I'd like to ask you personally."
@@ -184,7 +184,7 @@
         "MessageJP": "いえ、な、なんでもありません",
         "MessageKR": "아, 아무것도 아닙니다.",
         "MessageTW": "不，沒，沒什麼",
-        "MessageEN": "I-It's nothing."
+        "MessageEN": "A-Actually, never mind."
     },
     {
         "MessageId": 130030077,

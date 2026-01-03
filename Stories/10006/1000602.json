@@ -76,7 +76,7 @@
         "MessageJP": "……は？何を言ってるんだ？",
         "MessageKR": "……하아? 무슨 소리를 하는 거야?",
         "MessageTW": "……啥？你在說什麼？",
-        "MessageEN": "\\*sigh\\* What are you talking about?"
+        "MessageEN": "HUH?! What are you talking about?"
     },
     {
         "MessageId": 100060114,
@@ -112,7 +112,7 @@
         "MessageJP": "校庭とか",
         "MessageKR": "게헨나 학원 교정.",
         "MessageTW": "中庭之類的",
-        "MessageEN": "At Gehenna."
+        "MessageEN": "At the campus."
     },
     {
         "MessageId": 100060135,
@@ -148,7 +148,7 @@
         "MessageJP": "なんか、怪しいな……",
         "MessageKR": "어쩐지 수상한데…….",
         "MessageTW": "總覺得很可疑……",
-        "MessageEN": "That's strange..."
+        "MessageEN": "You're being awfully suspicious..."
     },
     {
         "MessageId": 100050157,

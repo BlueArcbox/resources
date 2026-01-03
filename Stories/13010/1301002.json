@@ -40,7 +40,7 @@
         "MessageJP": "ちょっと私の力では計算できない、難しい問題に直面していまして……",
         "MessageKR": "그게 제 능력으로는 도저히 계산하기 어려운 문제와 맞닥뜨려서…….",
         "MessageTW": "我碰到一個難題，有點超出我的計算能力……",
-        "MessageEN": "I've got a problem that's even beyond me..."
+        "MessageEN": "I've got a problem that's beyond even me..."
     },
     {
         "MessageId": 130100160,
@@ -64,7 +64,7 @@
         "MessageJP": "いえ、その、そういった件ではなく……",
         "MessageKR": "아뇨, 그렇지 않아요.",
         "MessageTW": "不，那個，不是那種事……",
-        "MessageEN": "No, it's not like that."
+        "MessageEN": "No, that's not true."
     },
     {
         "MessageId": 130100172,
@@ -76,7 +76,7 @@
         "MessageJP": "先生のお力が必要なんです",
         "MessageKR": "어른인 선생님의 도움이 꼭 필요해요!",
         "MessageTW": "我需要老師的幫助",
-        "MessageEN": "What I really need is help from an adult!"
+        "MessageEN": "I really need help from an adult!"
     },
     {
         "MessageId": 130100180,

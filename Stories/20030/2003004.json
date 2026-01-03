@@ -1,0 +1,141 @@
+[
+    {
+        "CharacterId": 20030,
+        "MessageJP": "ハルナ（体操服）",
+        "MessageKR": "하루나(체육복)",
+        "MessageTW": "羽留奈（體育服）",
+        "MessageEN": "Haruna (Track)"
+    },
+    {
+        "MessageId": 200290340,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 200300340,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 200300340,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200300350,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "会場はすごい熱気ですわね",
+        "MessageKR": "회장의 열기가 엄청나군요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200300350,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200300360,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生もご多忙なことでしょう",
+        "MessageKR": "선생님께서도 많이 바쁘실 것 같습니다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200300360,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200300370,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "大丈夫、ちょうど一段落ついたところだよ",
+        "MessageKR": "큰 일들은 어느 정도 지나갔어.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200300370,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200300371,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ふむ……なるほど",
+        "MessageKR": "그렇군요",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200300371,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200300380,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "では、もしよろしければ……",
+        "MessageKR": "그러면 지금 혹시 시간 괜찮으실까요",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200300380,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200300390,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "今から会える？",
+        "MessageKR": "잠시 만날까?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200300390,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200300391,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "あら",
+        "MessageKR": "어머나.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200300391,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200300400,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生から誘ってくださるとは",
+        "MessageKR": "선생님께서 먼저 권해 주실 줄은.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200300400,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200290407,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "では、お待ちしております",
+        "MessageKR": "그러면 기다리고 있겠습니다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200290407,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ハルナ（体操服）の絆イベントへ",
+        "MessageKR": "하루나(체육복)의 인연스토리로",
+        "MessageTW": "前往羽留奈（體育服）的羈絆劇情",
+        "MessageEN": "Go to Haruna (Track)'s Bond Story"
+    }
+]

@@ -226,7 +226,7 @@
         "MessageId": 260000570,
         "Flag": 1,
         "Type": 0,
-        "NextId": 260000571,
+        "NextId": -1,
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "ふふっ",

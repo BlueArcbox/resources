@@ -28,7 +28,7 @@
         "MessageJP": "これから自治区のパトロールをするんだけど",
         "MessageKR": "오늘은 자치구 순찰 예정인데",
         "MessageTW": "我今天要去自治區巡邏",
-        "MessageEN": "I'm going to patrol the District today"
+        "MessageEN": "I'm going to patrol the district today"
     },
     {
         "MessageId": 100980090,
@@ -280,7 +280,7 @@
         "MessageJP": "昔、似たようなことをしたことがあってね",
         "MessageKR": "어제 자치구를 돌아다니면서 사람들 도와준 거",
         "MessageTW": "我們昨天不是去自治區巡邏，順便幫助有困難的人嗎？",
-        "MessageEN": "About helping people around the District last night"
+        "MessageEN": "about helping people around the district last night"
     },
     {
         "MessageId": 100980250,

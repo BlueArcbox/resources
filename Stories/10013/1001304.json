@@ -64,7 +64,7 @@
         "MessageJP": "どうかした？",
         "MessageKR": "괜찮아. 무슨 일이야?",
         "MessageTW": "怎麼了嗎？",
-        "MessageEN": "Sure. What's going on?"
+        "MessageEN": "It's all right. What's going on?"
     },
     {
         "MessageId": 100130240,
@@ -208,7 +208,7 @@
         "MessageJP": "何卒ご了承いただけますと",
         "MessageKR": "모쪼록 양해를 부탁드립니다.",
         "MessageTW": "還望您見諒",
-        "MessageEN": "D-Do you get it?"
+        "MessageEN": "I hope you can understand..."
     },
     {
         "MessageId": 100130310,
@@ -274,7 +274,7 @@
         "MessageId": 100130340,
         "Flag": 1,
         "Type": 0,
-        "NextId": 100130341,
+        "NextId": -1,
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "……\u200b",

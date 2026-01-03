@@ -40,7 +40,7 @@
         "MessageJP": "思ったより金額があったので、余ったお金で部員のみんなへのプレゼントもできました",
         "MessageKR": "생각보다 높은 액수를 받아서 남는 돈으로 부원들에게 선물도 할 수 있었답니다.",
         "MessageTW": "因為金額比想像的多，所以想用剩下的錢買禮物給部員們",
-        "MessageEN": "I got a lot more than I expected, so I bought presents for our team members with my leftover cash."
+        "MessageEN": "I got a lot more than I expected, so I bought presents for our club members with the leftover cash."
     },
     {
         "MessageId": 100180320,
@@ -214,7 +214,7 @@
         "MessageId": 100180410,
         "Flag": 2,
         "Type": 0,
-        "NextId": 100180411,
+        "NextId": -1,
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "確かに何でもと言いましたが、そんなことにせっかくのフリーパスを使わないでください……！",

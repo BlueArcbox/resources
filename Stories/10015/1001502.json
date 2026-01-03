@@ -64,7 +64,7 @@
         "MessageJP": "レベルアップおめでとう！",
         "MessageKR": "축하해! 레벨업!",
         "MessageTW": "恭喜升級！",
-        "MessageEN": "Congratulations on leveling!"
+        "MessageEN": "Congratulations on leveling up!"
     },
     {
         "MessageId": 1001500110,
@@ -112,7 +112,7 @@
         "MessageJP": "それでは今日も冒険に出ます、先生も一緒に行きませんか？",
         "MessageKR": "그래서 이번에도 다시 모험을 떠날 건데, 파티에 합류하시겠습니까?",
         "MessageTW": "那麼今天也要去冒險，老師也一起去嗎？",
-        "MessageEN": "So when we go on the next adventure, you have to join the party, okay?"
+        "MessageEN": "That is why you should join my party. I am just about to set off on a new adventure!"
     },
     {
         "MessageId": 1001500140,

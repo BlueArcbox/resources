@@ -76,7 +76,7 @@
         "MessageJP": "純粋に。生徒として、先生に",
         "MessageKR": "순수하게. 학생으로서. 선생님한테.",
         "MessageTW": "單純是，以學生和老師的身分",
-        "MessageEN": "Just a student-to-teacher thing."
+        "MessageEN": "Just an innocent student-to-teacher thing."
     },
     {
         "MessageId": 100200040,
@@ -100,7 +100,7 @@
         "MessageJP": "そこまで強調しなくても……",
         "MessageKR": "굳이 그걸 강조하시는 이유는……",
         "MessageTW": "不用那麼強調……",
-        "MessageEN": "Do you really need to emphasize that..."
+        "MessageEN": "Do you really need to emphasize the innocent part?"
     },
     {
         "MessageId": 100200050,
@@ -148,7 +148,7 @@
         "MessageJP": "強調とかじゃないから",
         "MessageKR": "강조한 거 아냐 절대 아냐",
         "MessageTW": "我沒有要強調什麼",
-        "MessageEN": "I didn't mean to come off that way."
+        "MessageEN": "I didn't mean to come off that way. Not at all."
     },
     {
         "MessageId": 100200070,

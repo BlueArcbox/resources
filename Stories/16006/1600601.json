@@ -40,7 +40,7 @@
         "MessageJP": "夏なんだから、夏っぽい料理を食べに行かないと！",
         "MessageKR": "이벤트 음식을 먹으러 가야 해!",
         "MessageTW": "既然是夏天，當然就要吃夏天的料理！",
-        "MessageEN": "I need to go try the specialties!"
+        "MessageEN": "We need to go try the specialties!"
     },
     {
         "MessageId": 160060030,
@@ -49,7 +49,7 @@
         "NextId": 160060040,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "夏っぽい料理かぁ……。",
+        "MessageJP": "夏っぽい料理かぁ……",
         "MessageKR": "갑자기 이벤트 음식……?",
         "MessageTW": "夏天的料理啊……",
         "MessageEN": "Specialties...?"
@@ -64,7 +64,7 @@
         "MessageJP": "うん、行こう！仕事してばっかりで疲れた！",
         "MessageKR": "이즈미가 먹으러 가자면 가야지!",
         "MessageTW": "嗯，走吧！一直工作好累啊！",
-        "MessageEN": "Yeah, and so do I!"
+        "MessageEN": "If that's what you want, then we will!"
     },
     {
         "MessageId": 160060040,

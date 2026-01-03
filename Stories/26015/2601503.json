@@ -1,0 +1,153 @@
+[
+    {
+        "CharacterId": 26015,
+        "MessageJP": "イチカ（水着）",
+        "MessageKR": "이치카(수영복)",
+        "MessageTW": "一花（泳裝）",
+        "MessageEN": "Ichika (Swimsuit)"
+    },
+    {
+        "MessageId": 260140260,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 260150260,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 260150260,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 260150270,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生",
+        "MessageKR": "선생님",
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
+    },
+    {
+        "MessageId": 260150270,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 260150280,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "寝てます？",
+        "MessageKR": "주무십니까?",
+        "MessageTW": "你睡了嗎？",
+        "MessageEN": "Are you asleep?"
+    },
+    {
+        "MessageId": 260150280,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 260150290,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "起きてるよ！",
+        "MessageKR": "아니, 깨 있어.",
+        "MessageTW": "沒有，我醒著",
+        "MessageEN": "No, I'm awake."
+    },
+    {
+        "MessageId": 260150280,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 260150310,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "待ってました！",
+        "MessageKR": "이 메시지만을 기다리고 있었습니다.",
+        "MessageTW": "這則訊息我等很久了",
+        "MessageEN": "I've been waiting for your message!"
+    },
+    {
+        "MessageId": 260150290,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 260150300,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "じゃあ",
+        "MessageKR": "그러면",
+        "MessageTW": "那麼",
+        "MessageEN": "In that case"
+    },
+    {
+        "MessageId": 260150300,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 260150320,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ちょっとお時間、いいっすか？",
+        "MessageKR": "잠깐 시간 괜찮습니까?",
+        "MessageTW": "可以佔用你一點時間嗎？",
+        "MessageEN": "Do you have some time?"
+    },
+    {
+        "MessageId": 260150310,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 260150311,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "はは",
+        "MessageKR": "하하",
+        "MessageTW": "哈哈",
+        "MessageEN": "Haha"
+    },
+    {
+        "MessageId": 260150311,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 260150320,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "またまた～",
+        "MessageKR": "과장도 심하십니다",
+        "MessageTW": "老師也太誇張了",
+        "MessageEN": "You're so dramatic."
+    },
+    {
+        "MessageId": 260150320,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 260150330,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "宿の前で会おうね",
+        "MessageKR": "응. 숙소 앞 해변에서 보자.",
+        "MessageTW": "在住處前的海邊見吧",
+        "MessageEN": "Let's meet at the beach out front!"
+    },
+    {
+        "MessageId": 260150330,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 260140337,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "はーい",
+        "MessageKR": "넵",
+        "MessageTW": "好",
+        "MessageEN": "Got it"
+    },
+    {
+        "MessageId": 260140337,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "イチカ（水着）の絆イベントへ",
+        "MessageKR": "이치카(수영복)의 인연스토리로",
+        "MessageTW": "前往一花（泳裝）的羈絆劇情",
+        "MessageEN": "Go to Ichika (Swimsuit)'s Bond Story"
+    }
+]

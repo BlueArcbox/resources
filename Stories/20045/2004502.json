@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "お頭！おはようございマス！",
         "MessageKR": "선생님! 피나 인사드립니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師！菲娜向老師問好！",
+        "MessageEN": "Hello, Sensei! Pina here!"
     },
     {
         "MessageId": 200450170,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "本日はバスツアーのガイドを務めるのデスが……",
         "MessageKR": "오늘은 버스 가이드 투어를 합니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我今天擔任巴士之旅的導覽員！",
+        "MessageEN": "Today, I'm a guide on a bus tour!"
     },
     {
         "MessageId": 200450180,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "まだ空席がありマスので、ぜひご参加を！",
         "MessageKR": "자리가 하나 비어서 그러는데, 선생님께서도 함께 어떠신가요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "剛好還有一個空位，老師要不要一起來呢！",
+        "MessageEN": "In a stroke of fate, we have an empty seat! Would you like to join?"
     },
     {
         "MessageId": 200450181,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "フィーナの任侠流ガイドに、乞うご期待！デス！",
         "MessageKR": "피나의 활약을 보여드리겠습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "菲娜要讓老師看到專業的一面！",
+        "MessageEN": "You can see what I'm capable of!"
     },
     {
         "MessageId": 200440197,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "今日はフィーナのPerfectなガイドをお見せするつもりだのに……！",
         "MessageKR": "오늘은 피나의 멋지고 Perfect한 모습을 보여드릴 자신이 있었는데!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "菲娜今天原本自信滿滿，一定要讓老師看到出色又Perfect的樣子！",
+        "MessageEN": "I was...so excited to show you a cool and perfect side of myself today."
     },
     {
         "MessageId": 200450200,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "またしてもミスしてしまいマシタ……。",
         "MessageKR": "피나가 이번에도 실수했습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "結果菲娜這次又失誤了！",
+        "MessageEN": "But, alas! I blundered today too!"
     },
     {
         "MessageId": 200450201,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "お頭に顔向けできマセン……！",
         "MessageKR": "선생님께 면목이 없습니다!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真的無顏面對老師！！",
+        "MessageEN": "I have no excuses!!!"
     },
     {
         "MessageId": 200450210,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "しかも、そんなフィーナをかばってくれるナンテ……",
         "MessageKR": "무엇보다 이 부족한 피나를 대신 감싸주시니…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "而且菲娜這麼不爭氣，老師竟然還護著我……",
+        "MessageEN": "And you had to go out of the way to cover for the incompetent, lacking me..."
     },
     {
         "MessageId": 200450211,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "不肖フィーナ、感激デス！",
         "MessageKR": "불초 피나는 눈물이 납니다!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不才菲娜感激涕零！！",
+        "MessageEN": "I, Pina, am in tears!!!"
     },
     {
         "MessageId": 200450220,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "でも、正直に話すフィーナの姿は、すごくカッコよかった",
         "MessageKR": "피나가 솔직하게 말하는 모습이 더 멋졌어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "坦率說出自己心情的菲娜很值得敬佩哦",
+        "MessageEN": "Your honesty and vulnerability were really inspiring."
     },
     {
         "MessageId": 200450220,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "私も見習わなきゃって思ったよ",
         "MessageKR": "오히려 내가 한 수 배웠는걸",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "反而是我從你身上學到了一課",
+        "MessageEN": "I learned a lot from you today!"
     },
     {
         "MessageId": 200450230,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "！！",
         "MessageKR": "!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "！！",
+        "MessageEN": "!!!"
     },
     {
         "MessageId": 200450231,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "お頭がフィーナを見習うなんて……恐縮デス！！",
         "MessageKR": "배웠다니요!! 스승님께 이 피나가 어찌 감히!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "快別這麼說！！菲娜實在承擔不起！！",
+        "MessageEN": "Master learned something from me?! How can this be?!"
     },
     {
         "MessageId": 200450240,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "でも、カッコいいって言われるのは……正直、スゴく嬉しいデス！",
         "MessageKR": "그렇지만 멋지다는 말을 들으니…… 어쩔 수 없이 기쁩니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過聽到老師說我值得敬佩……還是不由得感到開心！",
+        "MessageEN": "Hearing you say that...I feel happiness beyond understanding!"
     },
     {
         "MessageId": 200450250,
@@ -207,7 +207,7 @@
         "ImagePath": "",
         "MessageJP": "不肖フィーナ、より一層精進して参りマス！",
         "MessageKR": "선생님의 격려를 가슴에 새기고 피나는 더 진화하겠습니다!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "菲娜會將老師的鼓勵銘記在心，繼續提升自己的！！",
+        "MessageEN": "I'll take your encouragement to the depths of my heart and become even better!"
     }
 ]

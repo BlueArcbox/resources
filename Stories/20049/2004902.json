@@ -1,0 +1,129 @@
+[
+    {
+        "CharacterId": 20049,
+        "MessageJP": "ミサキ（水着）",
+        "MessageKR": "미사키(수영복)",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200480150,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 200490150,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 200490150,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200490160,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "また浜辺で一人なんだけど",
+        "MessageKR": "또 해변에 혼자 남았어.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200490160,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200490161,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "あ",
+        "MessageKR": "아",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200490161,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200490170,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "もう泳がないからね",
+        "MessageKR": "수영은 안 할 거니까 권유하지 마.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200490170,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200490180,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "海の楽しみ方は他にもあるよ",
+        "MessageKR": "해변을 즐기는 데는 여러 가지 방법이 있지.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200490180,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200490190,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "砂で遊ぶとかね",
+        "MessageKR": "예를 들면…… 해변의 모래를 이용한 놀이라든가.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200490190,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200490191,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "……「砂遊び」をしろ、と？",
+        "MessageKR": "모래 장난이라도 하라는 거야?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200490191,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200490200,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "子供扱いしないで",
+        "MessageKR": "애도 아니고.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200490200,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200480207,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "一緒にやったらきっと楽しいと思うんだけどな",
+        "MessageKR": "해 보면 생각이 달라질걸?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200480207,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ミサキ（水着）の絆イベントへ",
+        "MessageKR": "미사키(수영복)의 인연스토리로",
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
+    }
+]

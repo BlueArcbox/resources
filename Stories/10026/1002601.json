@@ -172,7 +172,7 @@
         "MessageJP": "服が破れる前に来てくれ",
         "MessageKR": "와서 좀 봐줘 봐.",
         "MessageTW": "在我把衣服撕破前過來吧",
-        "MessageEN": "so come and look."
+        "MessageEN": "so come and help me."
     },
     {
         "MessageId": 100260090,
@@ -220,7 +220,7 @@
         "MessageJP": "今日はあんがとな",
         "MessageKR": "아까 한 말에 대답을 해주지.",
         "MessageTW": "今天謝了",
-        "MessageEN": "Let me clarify what I said earlier."
+        "MessageEN": "Remember what you said to me earlier?"
     },
     {
         "MessageId": 100260110,

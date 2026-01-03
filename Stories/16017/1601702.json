@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生……",
         "MessageKR": "선생님……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師……",
+        "MessageEN": "Sensei..."
     },
     {
         "MessageId": 160170210,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "アオバ……です",
         "MessageKR": "아오바입니다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我是青葉",
+        "MessageEN": "It's Aoba."
     },
     {
         "MessageId": 160170211,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "急で申し訳ないのですが……",
         "MessageKR": "갑자기 죄송합니다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "很抱歉突然打擾您",
+        "MessageEN": "I'm sorry, this is out of nowhere."
     },
     {
         "MessageId": 160170220,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "もしお忙しくないのでしたら……",
         "MessageKR": "혹시 괜찮으시다면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果老師願意的話",
+        "MessageEN": "But if you don't mind,"
     },
     {
         "MessageId": 160170221,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "手伝っていただきたいことが……",
         "MessageKR": "오늘 조금 도움을 구하고자……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天有點事想請老師幫忙……",
+        "MessageEN": "I was wondering if I could get a bit of your help today..."
     },
     {
         "MessageId": 160170230,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "もちろん。どこに行けばいい？",
         "MessageKR": "물론이지! 어디로 갈까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然好！我該去哪裡呢？",
+        "MessageEN": "Of course! Where do you need me?"
     },
     {
         "MessageId": 160170240,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "あっ……！",
         "MessageKR": "앗",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah!"
     },
     {
         "MessageId": 160170250,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとうございます！",
         "MessageKR": "가 감사합니다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝，謝謝老師",
+        "MessageEN": "Th-Thank you"
     },
     {
         "MessageId": 160170251,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "こんなにすぐ返事をいただけるなんて；＠・！；！",
         "MessageKR": "이렇게 기꺼이ㅣ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "答應得這麼爽快@\\#$@",
+        "MessageEN": "for always being so helpful."
     },
     {
         "MessageId": 160170260,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "それで……場所がですね……",
         "MessageKR": "이곳의 위치는……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "地方是在……",
+        "MessageEN": "The location would be..."
     },
     {
         "MessageId": 160160277,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 160170271,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "今日は本当にありがとうございました",
         "MessageKR": "오늘 정말 감사했어요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天真的很謝謝您",
+        "MessageEN": "Thank you so much for today."
     },
     {
         "MessageId": 160170280,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "私ばかり助けてもらっているので",
         "MessageKR": "받기만 할 수는 없으니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為總是只有我在接受幫助",
+        "MessageEN": "I can't always be receiving help from you."
     },
     {
         "MessageId": 160170281,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "何かお力になれることがあれば",
         "MessageKR": "제가 필요한 일이 있다면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果老師有需要我的地方",
+        "MessageEN": "So if there's ever anything I can do,"
     },
     {
         "MessageId": 160170290,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "遠慮なく呼んでほしいですけど",
         "MessageKR": "꼭 불러주세요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請一定要跟我說",
+        "MessageEN": "please just let me know"
     },
     {
         "MessageId": 160170300,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "うん。分かったよ",
         "MessageKR": "응, 알겠어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，我知道了",
+        "MessageEN": "Yes, I will."
     },
     {
         "MessageId": 160170310,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "アオバも、今日はお疲れ様",
         "MessageKR": "아오바도 오늘 고생 많았어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "青葉今天也辛苦了",
+        "MessageEN": "Thank you for the hard work today, Aoba."
     },
     {
         "MessageId": 160170320,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "こちらこそ、先生のおかげで助かりました",
         "MessageKR": "네 저야말로 덕분에",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不會，是我應該謝謝老師才對",
+        "MessageEN": "No, I'm the grateful one."
     },
     {
         "MessageId": 160170321,
@@ -255,7 +255,7 @@
         "ImagePath": "",
         "MessageJP": "それでは、今日はこれで",
         "MessageKR": "그럼 이만 들어가 보겠습니다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼，我今天就先告辭了",
+        "MessageEN": "I'll talk to you later then"
     }
 ]

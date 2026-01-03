@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "あの～",
         "MessageKR": "저\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個～",
+        "MessageEN": "Um..."
     },
     {
         "MessageId": 200460540,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "本当に来てくださるんですか～？",
         "MessageKR": "진짜 오시나요……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師真的要來嗎……？",
+        "MessageEN": "You're really coming here...?"
     },
     {
         "MessageId": 200460550,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "うん",
         "MessageKR": "응.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "Yeah."
     },
     {
         "MessageId": 200460550,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "そうです",
         "MessageKR": "그렇습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒錯",
+        "MessageEN": "That's right."
     },
     {
         "MessageId": 200460560,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "最近お忙しいって聞いてますけど～",
         "MessageKR": "요즘 일 때문에 바쁘시다고\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "最近您不是因為工作很忙嗎～",
+        "MessageEN": "Aren't you just absolutely swamped by work?"
     },
     {
         "MessageId": 200460570,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "もっとお仕事に集中された方が良いのでは〜？",
         "MessageKR": "저에게 쓰시는 시간을 아끼셔서 조금이라도 일에 보태시는 게 어떠신지\\~?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要不要把陪我的時間省下來，拿去多幫點忙呢～？",
+        "MessageEN": "You should cut back on quality time with me and focus on that..."
     },
     {
         "MessageId": 200460580,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "これも先生の仕事です",
         "MessageKR": "선생님은 이게 일입니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這就是老師的工作",
+        "MessageEN": "You are my work."
     },
     {
         "MessageId": 200450597,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "お説教か撫でられるかの二択だなんて",
         "MessageKR": "이 무슨 폭거인가요…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這未免有點過於極端了……",
+        "MessageEN": "Ah, such tyranny..."
     },
     {
         "MessageId": 200460600,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "先生の陰と陽は極端ですねぇ",
         "MessageKR": "설교 아니면 쓰다듬의 양자택일이라뇨.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "居然只能在說教和摸頭之間二選一",
+        "MessageEN": "Having to choose between scolding or praising..."
     },
     {
         "MessageId": 200460610,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "どうして正直に言わなかったの？",
         "MessageKR": "왜 솔직하게 말 안 한 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "為什麼不老實說？",
+        "MessageEN": "Why can't you just be honest with me?"
     },
     {
         "MessageId": 200460610,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "手伝えたかもしれないのに",
         "MessageKR": "도와줄 수 있었는데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我明明可以幫你的",
+        "MessageEN": "I would've helped if you'd told me."
     },
     {
         "MessageId": 200460620,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "はてさて、何をおっしゃるのやら",
         "MessageKR": "갑자기 무슨 말씀인지 도통 짐작이 안 가네요\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "突然說這些，我完全聽不懂呢～",
+        "MessageEN": "Hm, what exactly do you mean?"
     },
     {
         "MessageId": 200460630,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "何度も言いますが、私は何もしてませんよ～？",
         "MessageKR": "마치 제가 뭐라도 한 것처럼 말씀하시지만, 저는 아무것도 하지 않았는데요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然老師說得好像我做了什麼，但我什麼都沒做唷？",
+        "MessageEN": "I don't appreciate the accusations, especially when I've done nothing!"
     },
     {
         "MessageId": 200460640,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "エキストラ部としての正式な部活申請を促して",
         "MessageKR": "망량즈에게 정식 동아리 신청을 귀띔하고.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "提醒妖怪劇團們正式申請社團",
+        "MessageEN": "You tipped off the Mouryo about the official club application"
     },
     {
         "MessageId": 200460650,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "商人会に折り紙部を紹介して",
         "MessageKR": "상인회에게 종이 공예를 소개하고.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "把摺紙部介紹給了商會",
+        "MessageEN": "introduced origami art to the merchant guild"
     },
     {
         "MessageId": 200460660,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "エキストラ部の部室を街中に割り当てたよね？",
         "MessageKR": "엑스트라 동아리 부실을 시내로 배정했잖아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還把臨演部的部室安排到了市區對吧？",
+        "MessageEN": "and you gave the Extra club a club room downtown, right?"
     },
     {
         "MessageId": 200460670,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "にｐ＠「；：",
         "MessageKR": "ㄴ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "喵",
+        "MessageEN": "Nya"
     },
     {
         "MessageId": 200460671,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "にゃは～これは驚いた",
         "MessageKR": "냐하\\~ 그럴싸한 시나리오네요\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "喵哈～這個劇本聽起來還真是煞有其事～",
+        "MessageEN": "Nyahaha... What a story you tell!"
     },
     {
         "MessageId": 200460680,
@@ -255,7 +255,7 @@
         "ImagePath": "",
         "MessageJP": "先生は小説家にもなれそうですねぇ",
         "MessageKR": "깜짝 놀랐답니다\\~?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就連我也嚇了一跳呢～？",
+        "MessageEN": "I'm surprised, you know?"
     }
 ]

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "雪女って知ってる？",
         "MessageKR": "선생님, 설녀의 이야기를 들어본 적 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，你聽過雪女的故事嗎？",
+        "MessageEN": "Sensei, have you yet heard tales of the snow maiden?"
     },
     {
         "MessageId": 101190500,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "美人な妖怪として描かれることが多いんだけど",
         "MessageKR": "어느 설화에나 설녀는 미녀로 그려지는 경우가 많던데……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "在故事裡面，雪女大多被描繪成美女……",
+        "MessageEN": "She is depicted as a blossoming beauty in many a folklore tale."
     },
     {
         "MessageId": 101190501,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "なんでなんだろう？",
         "MessageKR": "특별한 이유라도 있는 걸까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有什麼特別的原因嗎？",
+        "MessageEN": "I am curious as to why she's described that way."
     },
     {
         "MessageId": 101190510,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "細かい理由はいろいろあると思うけど……",
         "MessageKR": "여러 가지 이유가 있겠지만……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原因應該有很多……",
+        "MessageEN": "A lot of reasons...but I can think of one in particular."
     },
     {
         "MessageId": 101190520,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "分かりやすく、目を引きやすいからじゃない？",
         "MessageKR": "눈길을 끌기 쉬워서가 아닐까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可能是因為比較容易吸引目光吧？",
+        "MessageEN": "Maybe because \"beauty\" tends to draw people's attention?"
     },
     {
         "MessageId": 101190530,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "たしかに",
         "MessageKR": "확실히, 그럴지도 모르겠네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "確實有可能",
+        "MessageEN": "Because \"beauty\" is appealing... I see."
     },
     {
         "MessageId": 101190531,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "人をだますなら美人の方が便利だよね",
         "MessageKR": "시선을 쉽게 끄는 매력적인 외모의 소유자가 아니라면 어떤 함정을 파 놓는다 하더라도 행인이 쉽게 걸려들지 않을 테니까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果缺少能吸引目光的魅力外貌，無論設下什麼陷阱都很難讓人輕易中招吧",
+        "MessageEN": "People will not fall for a trap with no honey. As such, a \"blossoming beauty\" would be an appropriate lure."
     },
     {
         "MessageId": 101190540,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "……もし私が妖怪だったら、大妖怪になってたかも",
         "MessageKR": "그런 의미에서 나는 요괴가 되지 않아서 다행이라고 생각해",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "從這個角度來看，我沒變成妖怪真是太好了",
+        "MessageEN": "I find myself grateful that I am not a youkai."
     },
     {
         "MessageId": 101190550,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "その意気やよし！",
         "MessageKR": "자신감 넘치는 그 태도 보기 좋습니다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "充滿自信的態度很不錯哦",
+        "MessageEN": "I like that confidence!"
     },
     {
         "MessageId": 101180557,

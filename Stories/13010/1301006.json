@@ -52,7 +52,7 @@
         "MessageJP": "危険な世界の香りが……",
         "MessageKR": "위험한 세계의 향기가…….",
         "MessageTW": "有種危險世界的味道……",
-        "MessageEN": "It makes me realize how people see numbers..."
+        "MessageEN": "That sounds like a dangerous world..."
     },
     {
         "MessageId": 130100410,
@@ -64,7 +64,7 @@
         "MessageJP": "危険、ですかね？",
         "MessageKR": "위험, 한가요?",
         "MessageTW": "會危險，嗎？",
-        "MessageEN": "Maybe calling their world view dangerous would be too much but..."
+        "MessageEN": "Would you call it dangerous?"
     },
     {
         "MessageId": 130100411,
@@ -76,7 +76,7 @@
         "MessageJP": "私はそうは思いませんが",
         "MessageKR": "저는 그렇게 생각하지 않는데요.",
         "MessageTW": "我不這麼認為",
-        "MessageEN": "Yeah... I wouldn't say dangerous..."
+        "MessageEN": "I wouldn't go that far..."
     },
     {
         "MessageId": 130100420,

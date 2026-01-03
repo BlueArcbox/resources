@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "芸術が人生なのではない",
         "MessageKR": "예술이 인생을 모방하는 것이 아니라",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不是藝術模仿人生",
+        "MessageEN": "Art does not imitate life."
     },
     {
         "MessageId": 101200090,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "人生が芸術なのだ",
         "MessageKR": "인생이 예술을 모방하는 것.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "而是人生模仿藝術",
+        "MessageEN": "Life imitates art, right?"
     },
     {
         "MessageId": 101200100,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "時には他の芸術に触れることも肝要……",
         "MessageKR": "그런 의미에서 견학이 필요해 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "從這個角度來說，是否該實地考察一下呢，老師",
+        "MessageEN": "Sensei, I need a study trip."
     },
     {
         "MessageId": 101200110,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "じゃあ、映画館に集合～",
         "MessageKR": "그러니까 그 영화관 앞에서 보자고.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼，就在那間電影院門口見吧",
+        "MessageEN": "So meet me in front of the movie theater."
     },
     {
         "MessageId": 101200120,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "え？",
         "MessageKR": "네?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？",
+        "MessageEN": "Huh?"
     },
     {
         "MessageId": 101190127,

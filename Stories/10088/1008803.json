@@ -76,7 +76,7 @@
         "MessageJP": "いや",
         "MessageKR": "아니",
         "MessageTW": "不",
-        "MessageEN": "Well..."
+        "MessageEN": "Well,"
     },
     {
         "MessageId": 100880191,
@@ -262,7 +262,7 @@
         "MessageId": 100880290,
         "Flag": 1,
         "Type": 0,
-        "NextId": 100880291,
+        "NextId": -1,
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "じゃあ",

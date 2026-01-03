@@ -136,7 +136,7 @@
         "MessageJP": "先生が、そこまで言うのなら……",
         "MessageKR": "선생이 그렇게까지 말한다면야…….",
         "MessageTW": "但既然老師都這麼說了……",
-        "MessageEN": "But if you insist, Sensei."
+        "MessageEN": "But if you insist, Sensei..."
     },
     {
         "MessageId": 100220430,
@@ -148,7 +148,7 @@
         "MessageJP": "今日の午後、付き合ってくれる？",
         "MessageKR": "응. 좋아. 오후엔 같이 어울려줄래?",
         "MessageTW": "今天下午能陪我嗎？",
-        "MessageEN": "Okay, good. Would you spend the afternoon with me?"
+        "MessageEN": "Very well. Would you spend the afternoon with me?"
     },
     {
         "MessageId": 100220431,
@@ -172,7 +172,7 @@
         "MessageJP": "一緒に海に遊びに行くくらいの時間は取れるはず",
         "MessageKR": "그, 할 수 있을 테니까.",
         "MessageTW": "能抽出時間一起去海邊玩",
-        "MessageEN": "Is something...I might be able to do."
+        "MessageEN": "is something...I might be able to do."
     },
     {
         "MessageId": 100220440,
