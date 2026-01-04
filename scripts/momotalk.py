@@ -392,13 +392,15 @@ class StudentSyncKivo:
     def __init__(self) -> None:
         logger.info("🚀 Initializing Kivo sync...")
         kivo_student_list_url = (
-            f"{KIVO_BASE}/?page=1&page_size=10&is_install=true&release_date_sort=desc"
+            "{KIVO_BASE}/?page={PAGE}&page_size=10&is_install=true&release_date_sort=desc"
         )
         try:
             kivo_file = open(ENDPOINTS["KIVO_MAP_JSON"], "r", encoding="utf-8")
-            self.latest_kivo_data = requests.get(kivo_student_list_url).json()["data"][
-                "students"
-            ]
+            self.latest_kivo_data = []
+            for page in range(1, 3):
+                kivo_student_list_url_ = kivo_student_list_url.format(KIVO_BASE=KIVO_BASE, PAGE=page)
+                kivo_student_list = requests.get(kivo_student_list_url_).json()["data"]["students"]
+                self.latest_kivo_data.extend(kivo_student_list)
             self.cached_kivo_data = {
                 int(key): value for key, value in json.load(kivo_file).items()
             }

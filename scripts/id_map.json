@@ -1896,7 +1896,7 @@
         "kivo_id": 545,
         "gamekee_id": 671319,
         "avatar": "https://static.kivo.wiki/images/students/圣园 未花/泳装/Student_Portrait_CH0294_Collection.png",
-        "momotalk": "",
+        "momotalk": "诚招一起游泳的人！",
         "name_en": "Mika",
         "name_jp": "ミカ（水着）",
         "name_zh": "未花（泳装）",
@@ -1956,6 +1956,62 @@
         "name_en": "Kanoe",
         "name_jp": "カノエ",
         "name_zh": "庚",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10127": {
+        "kivo_id": 554,
+        "gamekee_id": 674785,
+        "avatar": "https://static.kivo.wiki/images/students/樱井 美代/original/Student_Portrait_CH0317_Collection.png",
+        "momotalk": "一起遵守校规吧……。",
+        "name_en": "Miyo",
+        "name_jp": "ミヨ",
+        "name_zh": "美代",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10128": {
+        "kivo_id": 560,
+        "gamekee_id": 677898,
+        "avatar": "https://static.kivo.wiki/images/students/若狭 冬优/original/Student_Portrait_CH0318_Collection.png",
+        "momotalk": "媒体，艺术，技术",
+        "name_en": "Fuyu",
+        "name_jp": "フユ",
+        "name_zh": "冬",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10129": {
+        "kivo_id": 563,
+        "gamekee_id": 680458,
+        "avatar": "https://static.kivo.wiki/images/students/守月 铃美/魔法/Student_Portrait_CH0325_Collection.png",
+        "momotalk": "希望今天也是平稳的一天……",
+        "name_en": "Suzumi",
+        "name_jp": "スズミ（マジカル）",
+        "name_zh": "铃美（魔法）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "10130": {
+        "kivo_id": 559,
+        "gamekee_id": 677499,
+        "avatar": "https://static.kivo.wiki/images/students/梯 昴/original/Student_Portrait_CH0309_Collection.png",
+        "momotalk": "每日一小步",
+        "name_en": "Subaru",
+        "name_jp": "スバル",
+        "name_zh": "昴",
         "nicknames": [],
         "sticker_download_flag": [
             true,
@@ -2446,7 +2502,7 @@
         "kivo_id": 136,
         "gamekee_id": 611643,
         "avatar": "https://static.kivo.wiki/images/students/丹花 伊吹/avatar.png",
-        "momotalk": "",
+        "momotalk": "我是格赫娜学园的伊吹！",
         "name_en": "Ibuki",
         "name_jp": "イブキ",
         "name_zh": "伊吹",
@@ -2493,6 +2549,23 @@
         "name_jp": "アオバ",
         "name_zh": "青叶",
         "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "16018": {
+        "kivo_id": 134,
+        "gamekee_id": 161252,
+        "avatar": "https://static.kivo.wiki/images/students/河驹风 兰舞/original/角色头像_CH0166_Collection.png",
+        "momotalk": "哗啦哗啦钢盔团，期待您的加入！",
+        "name_en": "Rabu",
+        "name_jp": "ラブ",
+        "name_zh": "兰舞",
+        "nicknames": [
+            "love",
+            ""
+        ],
         "sticker_download_flag": [
             true,
             true
@@ -3233,7 +3306,7 @@
         "kivo_id": 544,
         "gamekee_id": 671362,
         "avatar": "https://static.kivo.wiki/images/students/桐藤 渚/泳装/Student_Portrait_CH0293_Collection.png",
-        "momotalk": "",
+        "momotalk": "业务相关事务请联络圣娅同学。",
         "name_en": "Nagisa",
         "name_jp": "ナギサ（水着）",
         "name_zh": "渚（泳装）",
@@ -3254,6 +3327,34 @@
         "sticker_download_flag": [
             true,
             false
+        ]
+    },
+    "20050": {
+        "kivo_id": 561,
+        "gamekee_id": 677904,
+        "avatar": "https://static.kivo.wiki/images/students/薄叶 律/original/Student_Portrait_CH0319_Collection.png",
+        "momotalk": "哪里有带条纹的大理石——！",
+        "name_en": "Ritsu",
+        "name_jp": "リツ",
+        "name_zh": "律",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
+        ]
+    },
+    "20051": {
+        "kivo_id": 565,
+        "gamekee_id": 680454,
+        "avatar": "https://static.kivo.wiki/images/students/宇泽 玲纱/魔法少女/Student_Portrait_CH0326_Collection.png",
+        "momotalk": "The ♡ of the Magical Girl",
+        "name_en": "Reisa",
+        "name_jp": "レイサ（マジカル）",
+        "name_zh": "玲纱（魔法）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            true
         ]
     },
     "20052": {

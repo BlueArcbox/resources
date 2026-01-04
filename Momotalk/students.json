@@ -10296,7 +10296,8 @@
         },
         "Nickname": [
             "Ichika",
-            "水一花"
+            "水一花",
+            "大号杂鱼酱"
         ],
         "Birthday": "11/11",
         "Age": "16歳",
@@ -10462,7 +10463,6 @@
             "/api/Avatars/Kivo/Released/10127.webp"
         ],
         "Name": {
-            "en": "Miyo",
             "jp": "ミヨ",
             "kr": "미요",
             "zh": "美代"
@@ -10475,12 +10475,13 @@
         "Nickname": [
             "Miyo"
         ],
-        "Birthday": "8/26",
+        "Birthday": "8/24",
         "Age": "16歳",
         "School": "WildHunt",
         "Club": "FreeTradeCartel",
         "Star": 3,
-        "Released": true
+        "Released": true,
+        "Related": null
     },
     {
         "Id": 10128,
@@ -10488,7 +10489,6 @@
             "/api/Avatars/Kivo/Released/10128.webp"
         ],
         "Name": {
-            "en": "Fuyu",
             "jp": "フユ",
             "kr": "후유",
             "zh": "冬"
@@ -10507,7 +10507,8 @@
         "School": "WildHunt",
         "Club": "FreeTradeCartel",
         "Star": 3,
-        "Released": true
+        "Released": true,
+        "Related": null
     },
     {
         "Id": 20050,
@@ -10515,14 +10516,13 @@
             "/api/Avatars/Kivo/Released/20050.webp"
         ],
         "Name": {
-            "en": "Ritsu",
             "jp": "リツ",
             "kr": "리츠",
             "zh": "律"
         },
         "Bio": {
             "jp": "縞模様の大理石どこー！",
-            "kr": "",
+            "kr": "줄무늬 대리석 구합니당!",
             "zh": "哪里有带条纹的大理石——！"
         },
         "Nickname": [
@@ -10533,38 +10533,8 @@
         "School": "WildHunt",
         "Club": "FreeTradeCartel",
         "Star": 3,
-        "Released": true
-    },
-    {
-        "Id": 20051,
-        "Avatar": [
-            "/api/Avatars/Kivo/Released/20051.webp"
-        ],
-        "Name": {
-            "en": "Reisa (Magical)",
-            "jp": "レイサ (マジカル)",
-            "kr": "레이사(매지컬)",
-            "zh": "玲纱（魔法）"
-        },
-        "Bio": {
-            "jp": "The ♡ of Magical Girl",
-            "kr": "The ♡ of Magical Girl",
-            "zh": "The ♡ of Magical Girl"
-        },
-        "Nickname": [
-            "Reisa",
-            "魔芋"
-        ],
-        "Birthday": "5/31",
-        "Age": "15歳",
-        "School": "Trinity",
-        "Club": "TrinityVigilance",
-        "Star": 3,
         "Released": true,
-        "Related": {
-            "ItemId": 10068,
-            "ItemType": "マジカル"
-        }
+        "Related": null
     },
     {
         "Id": 10129,
@@ -10572,14 +10542,13 @@
             "/api/Avatars/Kivo/Released/10129.webp"
         ],
         "Name": {
-            "en": "Suzumi (Magical)",
-            "jp": "スズミ (マジカル)",
+            "jp": "スズミ（マジカル）",
             "kr": "스즈미(매지컬)",
             "zh": "铃美（魔法）"
         },
         "Bio": {
             "jp": "今日は平穏な一日でありますように……",
-            "kr": "오늘은 평안한 하루이기를……",
+            "kr": "오늘은 평안한 하루가 되기를……",
             "zh": "希望今天也是平稳的一天……"
         },
         "Nickname": [
@@ -10607,12 +10576,11 @@
         "Name": {
             "jp": "ラブ",
             "kr": "라브",
-            "zh": "兰舞",
-            "tw": "良舞"
+            "zh": "兰舞"
         },
         "Bio": {
             "jp": "ジャブジャブヘルメット団、団員募集中！",
-            "kr": "퐁당퐁당 헬멧단, 단원 모집 중!",
+            "kr": "퐁당퐁당 헬멧단, 대 모집 중!",
             "zh": "哗啦哗啦钢盔团，期待您的加入！"
         },
         "Nickname": [
@@ -10629,7 +10597,38 @@
         "School": "Trinity",
         "Club": "EmptyClub",
         "Star": 1,
-        "Released": true
+        "Released": true,
+        "Related": null
+    },
+    {
+        "Id": 20051,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/20051.webp"
+        ],
+        "Name": {
+            "jp": "レイサ（マジカル）",
+            "kr": "레이사(매지컬)",
+            "zh": "玲纱（魔法）"
+        },
+        "Bio": {
+            "jp": "\"The ♡ of the Magical Girl\"",
+            "kr": "The ♡ of the Magical Girl",
+            "zh": "The ♡ of the Magical Girl"
+        },
+        "Nickname": [
+            "Reisa",
+            "魔芋"
+        ],
+        "Birthday": "5/31",
+        "Age": "15歳",
+        "School": "Trinity",
+        "Club": "TrinityVigilance",
+        "Star": 3,
+        "Released": true,
+        "Related": {
+            "ItemId": 10068,
+            "ItemType": "マジカル"
+        }
     },
     {
         "Id": 10130,
@@ -10642,8 +10641,8 @@
             "zh": "昴"
         },
         "Bio": {
-            "jp": "",
-            "kr": "",
+            "jp": "毎日、一歩ずつ",
+            "kr": "하루에 한 걸음씩",
             "zh": "每日一小步"
         },
         "Nickname": [
@@ -10653,9 +10652,10 @@
         "Birthday": "3/9",
         "Age": "17歳",
         "School": "Arius",
-        "Club": "",
+        "Club": "NicomediasTroop",
         "Star": 3,
-        "Released": true
+        "Released": true,
+        "Related": null
     },
     {
         "Id": 10131,
