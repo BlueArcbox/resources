@@ -3,7 +3,6 @@
         "Id": 104,
         "Avatar": [
             "/api/Avatars/Kivo/Unreleased/Arona.webp",
-            "/gamekee/w_252/h_204/829/43637/2022/6/2/909433.png",
             "/api/Avatars/Fandom/Arona_Icon.png"
         ],
         "Name": {
@@ -440,8 +439,7 @@
     {
         "Id": 386,
         "Avatar": [
-            "/api/Avatars/Kivo/Unreleased/Niyaniya.webp",
-            "/gamekee/w_550/h_550/829/399789/2024/6/23/195633.png"
+            "/api/Avatars/Kivo/Unreleased/Niyaniya.webp"
         ],
         "Name": {
             "en": "Professor Smug",
@@ -903,8 +901,7 @@
     {
         "Id": 385,
         "Avatar": [
-            "/api/Avatars/Kivo/Unreleased/Akemi.webp",
-            "/gamekee/w_550/h_550/829/399789/2024/6/23/431433.png"
+            "/api/Avatars/Kivo/Unreleased/Akemi.webp"
         ],
         "Name": {
             "en": "Akemi",
@@ -931,8 +928,7 @@
     {
         "Id": 367,
         "Avatar": [
-            "/api/Avatars/Kivo/Unreleased/suou.webp",
-            "/gamekee/w_589/h_585/829/43637/2024/3/11/475757.png"
+            "/api/Avatars/Kivo/Unreleased/suou.webp"
         ],
         "Name": {
             "en": "Suou",
@@ -1193,8 +1189,7 @@
     {
         "Id": 247,
         "Avatar": [
-            "/api/Avatars/Nameless_Priests.webp",
-            "/gamekee/w_184/h_184/829/43637/2023/2/17/264731.png"
+            "/api/Avatars/Nameless_Priests.webp"
         ],
         "Name": {
             "en": "Nameless Priests",
@@ -1220,9 +1215,7 @@
         "Id": 224,
         "Avatar": [
             "/api/Avatars/Kivo/Unreleased/Helmet.webp",
-            "/api/Avatars/Kivo/Unreleased/Helmet_2.webp",
-            "/gamekee/w_252/h_204/829/43637/2022/6/2/354264.png",
-            "/gamekee/w_252/h_204/829/43637/2022/6/2/101340.png"
+            "/api/Avatars/Kivo/Unreleased/Helmet_2.webp"
         ],
         "Name": {
             "en": "Helmet",
@@ -1251,12 +1244,7 @@
             "/api/Avatars/Kivo/Unreleased/Sukeban2.webp",
             "/api/Avatars/Kivo/Unreleased/Sukeban3.webp",
             "/api/Avatars/Kivo/Unreleased/Sukeban4.webp",
-            "/api/Avatars/Kivo/Unreleased/Sukeban5.webp",
-            "/gamekee/w_252/h_204/829/43637/2022/6/2/703523.png",
-            "/gamekee/w_252/h_204/829/43637/2022/6/2/785318.png",
-            "/gamekee/w_252/h_204/829/43637/2022/6/2/940419.png",
-            "/gamekee/w_252/h_204/829/43637/2022/6/2/518070.png",
-            "/gamekee/w_252/h_204/829/43637/2022/6/2/285541.png"
+            "/api/Avatars/Kivo/Unreleased/Sukeban5.webp"
         ],
         "Name": {
             "en": "Thug",
@@ -1283,12 +1271,7 @@
             "/api/Avatars/Kivo/Unreleased/Kaitenger2.webp",
             "/api/Avatars/Kivo/Unreleased/Kaitenger3.webp",
             "/api/Avatars/Kivo/Unreleased/Kaitenger4.webp",
-            "/api/Avatars/Kivo/Unreleased/Kaitenger5.webp",
-            "/gamekee/w_252/h_204/829/43637/2022/6/2/23158.png",
-            "/gamekee/w_252/h_204/829/43637/2022/6/2/36893.png",
-            "/gamekee/w_252/h_204/829/43637/2022/6/2/228429.png",
-            "/gamekee/w_252/h_204/829/43637/2022/6/2/31089.png",
-            "/gamekee/w_252/h_204/829/43637/2022/6/2/597851.png"
+            "/api/Avatars/Kivo/Unreleased/Kaitenger5.webp"
         ],
         "Name": {
             "en": "Kaitenger",
@@ -1321,12 +1304,7 @@
             "/api/Avatars/Kivo/Unreleased/Student5.webp",
             "/api/Avatars/Kivo/Unreleased/Student6.webp",
             "/api/Avatars/Kivo/Unreleased/Student7.webp",
-            "/api/Avatars/Kivo/Unreleased/Student8.webp",
-            "/gamekee/w_252/h_204/829/43637/2023/7/8/802905.png",
-            "/gamekee/w_252/h_204/829/43637/2023/7/8/121389.png",
-            "/gamekee/w_200/h_200/829/43637/2023/10/9/636523.png",
-            "/gamekee/w_200/h_200/829/43637/2023/10/9/219787.png",
-            "/gamekee/w_200/h_200/829/43637/2023/10/9/20331.png"
+            "/api/Avatars/Kivo/Unreleased/Student8.webp"
         ],
         "Name": {
             "en": "Student",
@@ -1349,24 +1327,7 @@
     {
         "Id": 902,
         "Avatar": [
-            "/api/Avatars/Citizen.webp",
-            "/gamekee/w_252/h_204/829/43637/2022/6/2/724041.png",
-            "/gamekee/w_252/h_204/829/43637/2022/6/2/544764.png",
-            "/gamekee/w_252/h_204/829/43637/2023/7/8/736789.png",
-            "/gamekee/w_200/h_200/829/43637/2023/7/8/113599.png",
-            "/gamekee/w_252/h_204/829/43637/2023/7/8/866011.png",
-            "/gamekee/w_252/h_204/829/43637/2023/7/8/707302.png",
-            "/gamekee/w_252/h_204/829/43637/2023/7/8/61495.png",
-            "/gamekee/w_252/h_204/829/43637/2023/7/8/452498.png",
-            "/gamekee/w_252/h_204/829/43637/2023/7/8/593364.png",
-            "/gamekee/w_252/h_204/829/43637/2023/7/8/973120.png",
-            "/gamekee/w_252/h_204/829/43637/2023/7/8/449563.png",
-            "/gamekee/w_200/h_200/829/43637/2023/7/8/696125.png",
-            "/gamekee/w_200/h_200/829/43637/2023/7/8/482154.png",
-            "/gamekee/w_200/h_200/829/43637/2023/7/8/411855.png",
-            "/gamekee/w_200/h_200/829/43637/2023/7/8/981746.png",
-            "/gamekee/w_252/h_204/829/43637/2023/7/8/228557.png",
-            "/gamekee/w_252/h_204/829/43637/2023/7/8/296416.png"
+            "/api/Avatars/Citizen.webp"
         ],
         "Name": {
             "en": "Citizen",
@@ -1386,11 +1347,7 @@
     {
         "Id": 936,
         "Avatar": [
-            "/api/Avatars/Robot.webp",
-            "/gamekee/w_252/h_204/829/43637/2023/7/9/677592.png",
-            "/gamekee/w_252/h_204/829/43637/2023/7/9/105861.png",
-            "/gamekee/w_252/h_204/829/43637/2023/7/9/604961.png",
-            "/gamekee/w_252/h_204/829/43637/2023/7/9/438385.png"
+            "/api/Avatars/Robot.webp"
         ],
         "Name": {
             "en": "Robot",
@@ -1710,9 +1667,7 @@
         "Id": 209,
         "Avatar": [
             "/api/Avatars/Kivo/Unreleased/Schale1.webp",
-            "/api/Avatars/Kivo/Unreleased/Schale2.webp",
-            "/gamekee/w_200/h_200/829/43637/2023/7/8/144957.png",
-            "/gamekee/w_200/h_200/829/43637/2023/7/8/448379.png"
+            "/api/Avatars/Kivo/Unreleased/Schale2.webp"
         ],
         "Name": {
             "en": "Schale Student",
@@ -1733,8 +1688,7 @@
     {
         "Id": 221,
         "Avatar": [
-            "/api/Avatars/Kivo/Unreleased/Gehenna4.webp",
-            "/gamekee/w_252/h_204/829/43637/2023/7/8/602110.png"
+            "/api/Avatars/Kivo/Unreleased/Gehenna4.webp"
         ],
         "Name": {
             "en": "Gehenna Student",
@@ -1754,8 +1708,7 @@
     {
         "Id": 222,
         "Avatar": [
-            "/api/Avatars/Kivo/Unreleased/Gehenna2.webp",
-            "/gamekee/w_252/h_204/829/43637/2023/7/8/856242.png"
+            "/api/Avatars/Kivo/Unreleased/Gehenna2.webp"
         ],
         "Name": {
             "en": "Pandemonium Society Member",
@@ -1776,8 +1729,7 @@
     {
         "Id": 226,
         "Avatar": [
-            "/api/Avatars/Kivo/Unreleased/Gehenna1.webp",
-            "/gamekee/w_252/h_204/829/43637/2023/7/8/6851.png"
+            "/api/Avatars/Kivo/Unreleased/Gehenna1.webp"
         ],
         "Name": {
             "en": "Prefect Team Member",
@@ -1798,8 +1750,7 @@
     {
         "Id": 191,
         "Avatar": [
-            "/api/Avatars/Kivo/Unreleased/Gehenna5.webp",
-            "/gamekee/w_252/h_204/829/43637/2023/7/8/923176.png"
+            "/api/Avatars/Kivo/Unreleased/Gehenna5.webp"
         ],
         "Name": {
             "en": "Hot Springs Department Member",
@@ -1820,8 +1771,7 @@
     {
         "Id": 218,
         "Avatar": [
-            "/api/Avatars/Kivo/Unreleased/Gehenna3.webp",
-            "/gamekee/w_252/h_204/829/43637/2023/7/8/374292.png"
+            "/api/Avatars/Kivo/Unreleased/Gehenna3.webp"
         ],
         "Name": {
             "en": "Medical Emergency Club Member",
@@ -1843,9 +1793,7 @@
         "Id": 248,
         "Avatar": [
             "/api/Avatars/Kivo/Unreleased/Millennium1.webp",
-            "/api/Avatars/Kivo/Unreleased/Millennium2.webp",
-            "/gamekee/w_252/h_204/829/43637/2023/7/8/793158.png",
-            "/gamekee/w_252/h_204/829/43637/2023/7/8/52322.png"
+            "/api/Avatars/Kivo/Unreleased/Millennium2.webp"
         ],
         "Name": {
             "en": "Millennium Student",
@@ -1866,8 +1814,7 @@
     {
         "Id": 219,
         "Avatar": [
-            "/api/Avatars/Kivo/Unreleased/Trinity2.webp",
-            "/gamekee/w_252/h_204/829/43637/2023/7/8/961729.png"
+            "/api/Avatars/Kivo/Unreleased/Trinity2.webp"
         ],
         "Name": {
             "en": "Trinity Student",
@@ -1892,9 +1839,7 @@
         "Id": 223,
         "Avatar": [
             "/api/Avatars/Kivo/Unreleased/Trinity4.webp",
-            "/api/Avatars/Kivo/Unreleased/Trinity5.webp",
-            "/gamekee/w_252/h_204/829/43637/2023/7/8/470787.png",
-            "/gamekee/w_252/h_204/829/43637/2023/7/8/936072.png"
+            "/api/Avatars/Kivo/Unreleased/Trinity5.webp"
         ],
         "Name": {
             "en": "Tea Party Member",
@@ -1915,8 +1860,7 @@
     {
         "Id": 220,
         "Avatar": [
-            "/api/Avatars/Kivo/Unreleased/Trinity3.webp",
-            "/gamekee/w_252/h_204/829/43637/2023/7/8/694927.png"
+            "/api/Avatars/Kivo/Unreleased/Trinity3.webp"
         ],
         "Name": {
             "en": "The Sisterhood Member",
@@ -1937,8 +1881,7 @@
     {
         "Id": 162,
         "Avatar": [
-            "/api/Avatars/Kivo/Unreleased/Trinity1.webp",
-            "/gamekee/w_200/h_200/829/43637/2023/7/8/642465.png"
+            "/api/Avatars/Kivo/Unreleased/Trinity1.webp"
         ],
         "Name": {
             "en": "Justice Task Force Member",
@@ -1982,10 +1925,7 @@
         "Avatar": [
             "/api/Avatars/Kivo/Unreleased/Hyakkiyako1.webp",
             "/api/Avatars/Kivo/Unreleased/Hyakkiyako2.webp",
-            "/api/Avatars/Kivo/Unreleased/Hyakkiyako3.webp",
-            "/gamekee/w_200/h_200/829/43637/2023/10/27/177708.png",
-            "/gamekee/w_550/h_550/829/43637/2023/10/9/5596.png",
-            "/gamekee/w_550/h_550/829/43637/2023/10/9/497085.png"
+            "/api/Avatars/Kivo/Unreleased/Hyakkiyako3.webp"
         ],
         "Name": {
             "en": "Hyakkiyako Student",
@@ -2006,9 +1946,7 @@
         "Id": 231,
         "Avatar": [
             "/api/Avatars/Kivo/Unreleased/Hyakkiyako4.webp",
-            "/api/Avatars/Kivo/Unreleased/Hyakkiyako5.webp",
-            "/gamekee/w_252/h_204/829/43637/2023/7/8/52113.png",
-            "/gamekee/w_252/h_204/829/43637/2023/7/8/539444.png"
+            "/api/Avatars/Kivo/Unreleased/Hyakkiyako5.webp"
         ],
         "Name": {
             "en": "Street Ghost Troupe Member",
@@ -2050,9 +1988,7 @@
         "Id": 326,
         "Avatar": [
             "/api/Avatars/Kivo/Unreleased/Shanhaijing1.webp",
-            "/api/Avatars/Kivo/Unreleased/Shanhaijing2.webp",
-            "/gamekee/w_550/h_550/829/43637/2023/10/9/703879.png",
-            "/gamekee/w_550/h_550/829/43637/2023/10/9/430199.png"
+            "/api/Avatars/Kivo/Unreleased/Shanhaijing2.webp"
         ],
         "Name": {
             "en": "Shanhaijing Student",
@@ -2072,8 +2008,7 @@
     {
         "Id": 204,
         "Avatar": [
-            "/api/Avatars/Kivo/Unreleased/Shanhaijing4.webp",
-            "/gamekee/w_252/h_204/829/43637/2023/7/8/540339.png"
+            "/api/Avatars/Kivo/Unreleased/Shanhaijing4.webp"
         ],
         "Name": {
             "en": "Xuanlong Office Member",
@@ -2095,8 +2030,7 @@
     {
         "Id": 263,
         "Avatar": [
-            "/api/Avatars/Kivo/Unreleased/Shanhaijing3.webp",
-            "/gamekee/w_200/h_200/829/43637/2023/7/8/924732.png"
+            "/api/Avatars/Kivo/Unreleased/Shanhaijing3.webp"
         ],
         "Name": {
             "en": "Xuanwu Merchant Association Member",
@@ -2119,9 +2053,7 @@
         "Id": 392,
         "Avatar": [
             "/api/Avatars/Kivo/Unreleased/Shanhaijing5.webp",
-            "/api/Avatars/Kivo/Unreleased/Shanhaijing6.webp",
-            "/gamekee/w_297/h_297/829/399789/2024/8/6/394404.png",
-            "/gamekee/w_297/h_297/829/399789/2024/8/6/817830.png"
+            "/api/Avatars/Kivo/Unreleased/Shanhaijing6.webp"
         ],
         "Name": {
             "en": "Beijing Opera Club Member",
@@ -2142,8 +2074,7 @@
     {
         "Id": 234,
         "Avatar": [
-            "/api/Avatars/Kivo/Unreleased/RedWinter1.webp",
-            "/gamekee/w_252/h_204/829/43637/2023/7/9/88211.png"
+            "/api/Avatars/Kivo/Unreleased/RedWinter1.webp"
         ],
         "Name": {
             "en": "Labor Party Member",
@@ -2164,8 +2095,7 @@
     {
         "Id": 199,
         "Avatar": [
-            "/api/Avatars/Kivo/Unreleased/RedWinter2.webp",
-            "/gamekee/w_252/h_204/829/43637/2023/7/9/409008.png"
+            "/api/Avatars/Kivo/Unreleased/RedWinter2.webp"
         ],
         "Name": {
             "en": "State Guard",
@@ -2186,8 +2116,7 @@
     {
         "Id": 200,
         "Avatar": [
-            "/api/Avatars/Kivo/Unreleased/Student.webp",
-            "/gamekee/w_252/h_204/829/43637/2023/7/8/496653.png"
+            "/api/Avatars/Kivo/Unreleased/Student.webp"
         ],
         "Name": {
             "en": "Valkyrie Student",
@@ -9777,7 +9706,6 @@
         "Id": 10115,
         "Avatar": [
             "/api/Avatars/Kivo/Released/10115.webp",
-            "/gamekee/w_500/h_500/829/43637/2023/11/28/827199.png",
             "/api/Avatars/Fandom/Rei_Icon.png"
         ],
         "Name": {
@@ -9879,8 +9807,7 @@
         "Id": 10117,
         "Avatar": [
             "/api/Avatars/Kivo/Released/10117.webp",
-            "/api/Avatars/Fandom/Hikari_Icon.png",
-            "/gamekee/w_550/h_550/829/43637/2024/3/11/529345.png"
+            "/api/Avatars/Fandom/Hikari_Icon.png"
         ],
         "Name": {
             "en": "Hikari",
@@ -9913,8 +9840,7 @@
         "Id": 10118,
         "Avatar": [
             "/api/Avatars/Kivo/Released/10118.webp",
-            "/api/Avatars/Fandom/Nozomi_Icon.png",
-            "/gamekee/w_550/h_550/829/43637/2024/3/11/736958.png"
+            "/api/Avatars/Fandom/Nozomi_Icon.png"
         ],
         "Name": {
             "en": "Nozomi",

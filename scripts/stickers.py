@@ -284,7 +284,8 @@ class StickerFetcher:
         result = []
         for sticker_list in data["gallery"]:
             # if sticker_list["title"] not in ["相关图像", "角色图像", "资料图像", "图像资料"]
-            if "图像" not in sticker_list["title"]:
+            keywords = ["图像", "图集", "画廊", "画集"]
+            if not any(keyword in sticker_list["title"] for keyword in keywords):
                 result += [unquote("https:" + i) for i in sticker_list["images"]]
         self.id_map[student_id]["sticker_download_flag"][0] = True
         logger.info(
@@ -320,7 +321,7 @@ if __name__ == "__main__":
         sticker_flag_kivo, sticker_flag_gamekee = id_map[key]["sticker_download_flag"]
         stickers = []
         if not sticker_flag_kivo or not sticker_flag_gamekee:
-            stickers.extend(sticker.get_gamekee_sticker(key))
+            # stickers.extend(sticker.get_gamekee_sticker(key))
             stickers.extend(sticker.get_kivo_stickers(key))
 
             path = STICKER_DIR / key
