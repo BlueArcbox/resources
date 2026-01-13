@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "マスター……",
         "MessageKR": "마스터…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "御者……",
+        "MessageEN": "Master..."
     },
     {
         "MessageId": 101250380,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "この前の実技試験以来、魔力が全然戻ってこないんです",
         "MessageKR": "저번 실기 시험 이후로 마력이 회복되질 않네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "在上次的實作考試之後，我的魔力就一直無法恢復",
+        "MessageEN": "My magic power still hasn't recovered since the last practical exam."
     },
     {
         "MessageId": 101250381,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "魔導書を開いても、行くべき道がわからず……",
         "MessageKR": "마법서를 펼쳐도 길이 보이지 않고…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就算打開魔導書也看不到道路……",
+        "MessageEN": "And my magic tome has been quiet too..."
     },
     {
         "MessageId": 101250390,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "どうしたらいいんでしょう……？",
         "MessageKR": "이제 어떡하면 좋죠?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我該怎麼辦才好呢？",
+        "MessageEN": "What should I do?"
     },
     {
         "MessageId": 101250400,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "シャーレの近くで気分転換でもする？",
         "MessageKR": "샬레 근처에서 기분전환이라도 할까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要不要到夏萊附近散散心？",
+        "MessageEN": "Maybe you just need a change of pace! At Schale!"
     },
     {
         "MessageId": 101250410,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "おおっ、文面を見ただけで力が湧いてきた気がします！",
         "MessageKR": "오오, 듣기만 해도 힘이 나네요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哦哦，光看就覺得有力氣了！",
+        "MessageEN": "!!! Just the idea of that is rejuvenating me already!"
     },
     {
         "MessageId": 101250411,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ま、まさかこれは……",
         "MessageKR": "이, 이건 설마…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這，這難道是……",
+        "MessageEN": "...Could this be"
     },
     {
         "MessageId": 101250420,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "言葉に魔力を宿す「言霊魔法」！？ ",
         "MessageKR": "말 자체에 마법을 담은 언령 마법?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "將魔法融入言語的言靈魔法嗎！？",
+        "MessageEN": "magic cast through words?"
     },
     {
         "MessageId": 101250421,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "で、ですがこの魔法はとうの昔に失われたはず……！",
         "MessageKR": "그 마법은 오래전에 소멸한 걸로 아는데!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可是那種魔法應該早就消失了才對！",
+        "MessageEN": "I thought such magic was extinct!"
     },
     {
         "MessageId": 101250422,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "マスター、どうやってそんな古代魔法を……！",
         "MessageKR": "마스터가 어떻게 그런 고대의 마법을!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "御者怎麼會懂那種古代魔法呢！",
+        "MessageEN": "How are you casting ancient magic, Master?!"
     },
     {
         "MessageId": 101250430,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "……",
         "MessageKR": "…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……",
+        "MessageEN": "..."
     },
     {
         "MessageId": 101250440,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "はぁぁ……",
         "MessageKR": "하아아…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唉……",
+        "MessageEN": "Ugh."
     },
     {
         "MessageId": 101250441,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "ごめんなさい",
         "MessageKR": "죄송해요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "對不起",
+        "MessageEN": "I'm sorry."
     },
     {
         "MessageId": 101250450,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "いつもならこうして魔法談義をしていれば元気になるのに",
         "MessageKR": "평소엔 이렇게 마법 담론을 하고 있으면 기운이 났었는데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "平常只要聊到魔法理論就會精神滿滿",
+        "MessageEN": "Usually talking about magic is all I need to feel better."
     },
     {
         "MessageId": 101250451,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "今日はどうしても力が入りません……",
         "MessageKR": "왜 이렇게 힘이 안 나지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在卻完全提不起勁呢",
+        "MessageEN": "But I really can't muster any strength."
     },
     {
         "MessageId": 101250452,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "でも、わかりましたマスター",
         "MessageKR": "아무튼 알겠습니다, 마스터.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總之我知道了，御者",
+        "MessageEN": "Anyways, that sounds good to me!"
     },
     {
         "MessageId": 101250460,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "すぐにそちらへ向かいます",
         "MessageKR": "곧 찾아뵐게요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我馬上過去",
+        "MessageEN": "I'll see you soon!"
     },
     {
         "MessageId": 101240477,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "無事にお帰りになりましたか？",
         "MessageKR": "잘 들어가셨습니까, 마스터.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "回去的路上還順利嗎，御者？",
+        "MessageEN": "Did you get home safely, Master?"
     },
     {
         "MessageId": 101250480,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "今日は本当に、たくさんのことを考えさせられて……",
         "MessageKR": "오늘 덕분에 많은 생각을 하게 됐습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天多虧御者，讓我思考了很多",
+        "MessageEN": "You gave me a lot to think about."
     },
     {
         "MessageId": 101250490,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "まさに、魔法のような一日でした",
         "MessageKR": "정말 마법 같은 하루였어요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真的是魔法般的一天",
+        "MessageEN": "It really was a magical day."
     },
     {
         "MessageId": 101250491,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "一気に魔法の熟練度が二段階ほど上がった気分です",
         "MessageKR": "한 번에 두 서클 정도 레벨업을 한 느낌이랄까요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "感覺魔法環等級一口氣提升了2階呢",
+        "MessageEN": "It felt like I leveled up by two circles at once."
     },
     {
         "MessageId": 101250500,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "階十位の「世界創造魔法」は使えそう？",
         "MessageKR": "10서클의 <세계창조 마법>은 쓸 수 있을 것 같아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "能用出第10環的「世界創造魔法」了嗎？",
+        "MessageEN": "Do you think you can use the 10th circle's \"World Creation Magic\"?"
     },
     {
         "MessageId": 101250510,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "さすがにそこまでは……",
         "MessageKR": "아직 그 정도는 아니지만,",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然還沒到那個程度",
+        "MessageEN": "Not to that extent,"
     },
     {
         "MessageId": 101250511,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "ですが、近しい魔法なら、もう使えそうです",
         "MessageKR": "비슷한 마법은 쓸 수 있을 것 같아요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過應該能用出類似的魔法了",
+        "MessageEN": "but I think I can cast something similar."
     },
     {
         "MessageId": 101250520,
@@ -327,8 +327,8 @@
         "ImagePath": "",
         "MessageJP": "キャンバスに、自分だけの世界を描き出す魔法……",
         "MessageKR": "캔버스 안에 저만의 세계를 만드는 마법이요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "也就是在畫布上，創造屬於自己的世界的魔法",
+        "MessageEN": "A magic to create my own world on a canvas."
     },
     {
         "MessageId": 101250530,
@@ -339,8 +339,8 @@
         "ImagePath": "",
         "MessageJP": "にゅふふふ",
         "MessageKR": "뉴후후후.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "妞呵呵呵",
+        "MessageEN": "Nyuhuhu."
     },
     {
         "MessageId": 101250540,
@@ -351,7 +351,7 @@
         "ImagePath": "",
         "MessageJP": "次にお会いする日を、お楽しみに！",
         "MessageKR": "그럼 다음 만남 때까지 기대해 주세요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼，請期待我們下次的見面吧！",
+        "MessageEN": "Well then, please look forward to our next meeting!"
     }
 ]

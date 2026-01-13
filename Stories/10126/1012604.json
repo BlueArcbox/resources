@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、お願いがある",
         "MessageKR": "선생. 부탁이 있어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，我有個請求",
+        "MessageEN": "Sensei. I have a request."
     },
     {
         "MessageId": 101260400,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "絶対に守って欲しい約束",
         "MessageKR": "이 부탁은 꼭 들어줬으면 해.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "一定要答應的那種請求",
+        "MessageEN": "One that I very much hope you'll acquiesce to."
     },
     {
         "MessageId": 101260410,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "内容を教えてもらえるかな",
         "MessageKR": "응? 어떤 부탁인데?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯？什麼請求？",
+        "MessageEN": "Um... What's that?"
     },
     {
         "MessageId": 101260420,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "今日、私を見かけても絶対に無視して",
         "MessageKR": "오늘은 날 보더라도 모른 척해줘.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天就算看到我，也要裝作沒看見",
+        "MessageEN": "Pretend I don't exist! Even if you see me today!"
     },
     {
         "MessageId": 101260421,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "話しかけても、目を合わせてもダメ",
         "MessageKR": "절대 말을 걸어도, 눈을 마주쳐서도 안 돼.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "絕對不能跟我說話，也不能對上眼神",
+        "MessageEN": "Don't even look at me. Let alone speak to me."
     },
     {
         "MessageId": 101260422,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "いい……？",
         "MessageKR": "알겠지……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "知道嗎……？",
+        "MessageEN": "Understood?"
     },
     {
         "MessageId": 101260430,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "今日はワイルドハントに行く予定なんだけど",
         "MessageKR": "오늘 와일드헌트에도 갈 건데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天我也會去狂獵",
+        "MessageEN": "But I'm going to be at Wildhunt..."
     },
     {
         "MessageId": 101260440,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "そこでも無視しなきゃいけないの？",
         "MessageKR": "거기서도 모른 척해야 해?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "在那裡也要裝作沒看見嗎？",
+        "MessageEN": "How am I supposed to pretend to not know you?"
     },
     {
         "MessageId": 101260450,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "場所は関係ない",
         "MessageKR": "어디든 상관없어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "任何地方都一樣",
+        "MessageEN": "Doesn't matter."
     },
     {
         "MessageId": 101260451,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "私の言う通りにして",
         "MessageKR": "그냥 내 말대로 해.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "記得要照我說的做",
+        "MessageEN": "Do as I say."
     },
     {
         "MessageId": 101260460,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "でないと……先生が危ない",
         "MessageKR": "안 그러면…… 선생이 위험해.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不然……老師會有危險",
+        "MessageEN": "Otherwise... You'll be in danger, Sensei."
     },
     {
         "MessageId": 101260470,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "私は真剣に言ってるんだよ",
         "MessageKR": "난 진지하게 말하는 거야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我是認真的",
+        "MessageEN": "I'm serious."
     },
     {
         "MessageId": 101260471,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "分かった……？",
         "MessageKR": "알겠지……?\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "知道了嗎……？",
+        "MessageEN": "Got it...?"
     },
     {
         "MessageId": 101260480,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "う、うん……わかった",
         "MessageKR": "어? 어어…… 알겠어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？嗯……我知道了",
+        "MessageEN": "Um... Got it..."
     },
     {
         "MessageId": 101260490,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "絶対だからね",
         "MessageKR": "그럼 내 말 꼭 지켜.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那一定要遵守哦",
+        "MessageEN": "Then the pact is sealed."
     },
     {
         "MessageId": 101260491,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "安全になったら、また連絡する……",
         "MessageKR": "안전해지면 전화할 테니까…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "等安全之後我會再聯絡……",
+        "MessageEN": "I'll call you when it's safe..."
     },
     {
         "MessageId": 101250497,

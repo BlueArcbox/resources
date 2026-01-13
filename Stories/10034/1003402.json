@@ -25,7 +25,7 @@
         "NextId": 100340170,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "先生、前回に引き続き修行の一環として、今度は家庭料理を作ってみようと思います",
+        "MessageJP": "先生、前回に引き続き修行の一環として、今度は家庭料理を作ってみようと思います。",
         "MessageKR": "선생님, 저번에 이어 이번엔 가정 요리를 수행해볼까 해요.",
         "MessageTW": "老師，繼上次的修行之後，這次我想試著做家庭料理",
         "MessageEN": "Sensei, continuing our previous conversation, I'd like to work on home cooking."
@@ -85,7 +85,7 @@
         "NextId": 100340200,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "それで、よろしければその修行をお手伝いしていただきたく……",
+        "MessageJP": "それで、よろしければその修行をお手伝いしていただきたく……。",
         "MessageKR": "그래서 수행을 도와주셨으면 하고 부탁을.",
         "MessageTW": "所以，如果方便的話希望請老師協助修行……",
         "MessageEN": "I'd like your help with it."

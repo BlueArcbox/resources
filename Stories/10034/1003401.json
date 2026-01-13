@@ -25,7 +25,7 @@
         "NextId": 100340020,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "先生、聞きましたよ",
+        "MessageJP": "先生、聞きましたよ。",
         "MessageKR": "선생님, 이야기를 들었답니다.",
         "MessageTW": "老師，我聽說了唷",
         "MessageEN": "I heard a rumor, Sensei."
@@ -97,7 +97,7 @@
         "NextId": 100340051,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "そうですか……分かりました",
+        "MessageJP": "そうですか……分かりました。",
         "MessageKR": "그렇군요……. 잘 알겠습니다.",
         "MessageTW": "是這樣嗎……我知道了",
         "MessageEN": "Hmm. Okay."
@@ -109,7 +109,7 @@
         "NextId": 100340052,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "これは由々しき事態です……",
+        "MessageJP": "これは由々しき事態です……。",
         "MessageKR": "이건 중대한 문제…….",
         "MessageTW": "這是刻不容緩的事態……",
         "MessageEN": "This is a serious problem."
@@ -121,7 +121,7 @@
         "NextId": 100340060,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "修行部の部員である私が、何とかしないといけませんね",
+        "MessageJP": "修行部の部員である私が、何とかしないといけませんね。",
         "MessageKR": "수행부 부원인 제가 나설 수밖에 없겠군요.",
         "MessageTW": "身為修行部部員的我，必須想點辦法才行呢",
         "MessageEN": "I'm with the Inner Discipline Club. I can't just sit back."
@@ -205,7 +205,7 @@
         "NextId": 100340102,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "私が、大和撫子を目標として精進を重ねる、修行部の部員だからです",
+        "MessageJP": "私が、大和撫子を目標として精進を重ねる、修行部の部員だからです。",
         "MessageKR": "그야 저 미모리. 요조숙녀를 목표로 정진하는 수행부 소속의 수행부원.",
         "MessageTW": "我是以大和撫子為目標持續精進的，修行部的部員",
         "MessageEN": "Well, because I'm a member of the Inner Discipline Club. I'm working towards becoming a proper lady."
@@ -217,7 +217,7 @@
         "NextId": 100340110,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "そしてその一環として、今日は先生を手伝いにお伺いしました",
+        "MessageJP": "そしてその一環として、今日は先生を手伝いにお伺いしました。",
         "MessageKR": "당연히 오늘은 선생님을 돕기 위해 찾아온 거랍니다.",
         "MessageTW": "所以今天才會前去幫助老師",
         "MessageEN": "I'm here to help."
@@ -241,7 +241,7 @@
         "NextId": 100340112,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "いつでも、何なりと。お呼びいただけたら、すぐに参りますので",
+        "MessageJP": "いつでも、何なりと。お呼びいただけたら、すぐに参りますので。",
         "MessageKR": "얼마든지 도와드릴 수 있으니까요.",
         "MessageTW": "無論任何事都會協助您的",
         "MessageEN": "I'll always be there."

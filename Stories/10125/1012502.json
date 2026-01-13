@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "マスター！",
         "MessageKR": "마스터!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "御者！",
+        "MessageEN": "Master!"
     },
     {
         "MessageId": 101250180,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "大変です！",
         "MessageKR": "큰일 났습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "出大事！",
+        "MessageEN": "It's an emergency!"
     },
     {
         "MessageId": 101250181,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "本当に、大変なことになってしまいました！",
         "MessageKR": "정말로 큰일이 나버렸습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真的出大事了！",
+        "MessageEN": "A real, bona fide emergency!"
     },
     {
         "MessageId": 101250190,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "寮監隊に追われてるとか？",
         "MessageKR": "사감대에 쫓기는 중?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "例如被舍監隊追捕？",
+        "MessageEN": "Is the Prefectural Council after you again?"
     },
     {
         "MessageId": 101250200,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "違います！",
         "MessageKR": "아닙니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不是！",
+        "MessageEN": "That's not it!"
     },
     {
         "MessageId": 101250201,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "もっと深刻です！",
         "MessageKR": "정말로 심각한 일이 벌어진 겁니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真的發生了嚴重的事情！",
+        "MessageEN": "I'm serious this time!"
     },
     {
         "MessageId": 101250210,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "まさか、占いでも予見できないなんて……！",
         "MessageKR": "이건 저의 마법서도 예상 못 한 일이에요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "連我的魔導書都沒預測到的那種！",
+        "MessageEN": "Not even my magic tome saw this coming!"
     },
     {
         "MessageId": 101250220,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "いったい何があったの？",
         "MessageKR": "대체 무슨 일인데 그래?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "到底是什麼事？",
+        "MessageEN": "Okay, okay. What's happening?"
     },
     {
         "MessageId": 101250230,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "それがですね",
         "MessageKR": "그게 말이죠…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就是……",
+        "MessageEN": "So you see"
     },
     {
         "MessageId": 101250240,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "今日、絵画の実技試験があるのですが……",
         "MessageKR": "오늘 실기 시험이 있는데…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天有實作考試……",
+        "MessageEN": "I have a practical exam today..."
     },
     {
         "MessageId": 101250241,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "試験会場で",
         "MessageKR": "시험장에…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但是考場……",
+        "MessageEN": "But I can't"
     },
     {
         "MessageId": 101250242,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "帽子の着用が禁止されてるんです……！",
         "MessageKR": "마법 모자를 쓰고 가면 안 된대요…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不能戴魔法帽進去……",
+        "MessageEN": "wear my witch hat to the exam..."
     },
     {
         "MessageId": 101240257,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "…………",
         "MessageKR": "…………",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "…………",
+        "MessageEN": "..."
     },
     {
         "MessageId": 101250260,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "マスター",
         "MessageKR": "안녕하세요, 마스터.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你好，御者",
+        "MessageEN": "Hello, Master."
     },
     {
         "MessageId": 101250261,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "実技試験が……終わりました……",
         "MessageKR": "오늘 실기 시험이 끝났어요…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天的實作考試結束了……",
+        "MessageEN": "I took my practical exam today."
     },
     {
         "MessageId": 101250270,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "どうだった？うまくいった？",
         "MessageKR": "어땠어? 잘 본 것 같아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "感覺怎麼樣？考得還順利嗎？",
+        "MessageEN": "How was it? Did it go well?"
     },
     {
         "MessageId": 101250280,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "にゅ……",
         "MessageKR": "후후…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵……",
+        "MessageEN": "Huhu..."
     },
     {
         "MessageId": 101250281,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "にゅふふふ……",
         "MessageKR": "뉴후후후…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "妞呵呵呵……",
+        "MessageEN": "Nyuhuhu..."
     },
     {
         "MessageId": 101250290,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "マスター\u200b",
         "MessageKR": "마스터.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "御者",
+        "MessageEN": "Master."
     },
     {
         "MessageId": 101250291,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "私、新たな魔法を研究しようと思っているんです",
         "MessageKR": "저, 오늘부로 새로운 마법을 연구하려 해요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我，打算從今天開始研究一項新的魔法",
+        "MessageEN": "I'm going to start investigating a new kind of magic."
     },
     {
         "MessageId": 101250300,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "「忘却魔法」です……",
         "MessageKR": "바로 기억을 지우는 마법이죠.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那就是消除記憶的魔法",
+        "MessageEN": "Magic to erase memories!"
     },
     {
         "MessageId": 101250301,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "それさえあれば……",
         "MessageKR": "그 마법만 있다면……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只要學會了它……",
+        "MessageEN": "If I could do that..."
     },
     {
         "MessageId": 101250302,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "この恥ずかしい記憶を、全て消し去れるんですから！",
         "MessageKR": "부끄러운 기억을 모두 없앨 수 있어요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就能把所有羞恥的記憶全部抹除！",
+        "MessageEN": "I could erase any and all embarrassing memories!"
     },
     {
         "MessageId": 101250310,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "ど、どうやって消すの！？",
         "MessageKR": "어, 어떻게 지우는데?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要，要怎麼抹除？",
+        "MessageEN": "H-How would that magic work?"
     },
     {
         "MessageId": 101250320,
@@ -327,8 +327,8 @@
         "ImagePath": "",
         "MessageJP": "頭に強い物理的衝撃を与えるんです！",
         "MessageKR": "머리에 강한 물리적 충격을 주면 돼요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只要對頭腦施加強烈的物理衝擊就行了！",
+        "MessageEN": "With a big, strong whack to the head!"
     },
     {
         "MessageId": 101250330,
@@ -339,8 +339,8 @@
         "ImagePath": "",
         "MessageJP": "早まらないで！次はきっと大丈夫だよ！",
         "MessageKR": "진정해! 다음엔 잘될 거야!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你先冷靜！下次一定會更好的！",
+        "MessageEN": "It's okay! Next time will be better!"
     },
     {
         "MessageId": 101250340,
@@ -351,8 +351,8 @@
         "ImagePath": "",
         "MessageJP": "……そ、そうでしょうか",
         "MessageKR": "저도 그랬으면 좋겠네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我也希望如此",
+        "MessageEN": "...I hope so."
     },
     {
         "MessageId": 101250341,
@@ -363,8 +363,8 @@
         "ImagePath": "",
         "MessageJP": "はぁぁぁ……",
         "MessageKR": "하아아아…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唉……",
+        "MessageEN": "Ughhh"
     },
     {
         "MessageId": 101250350,
@@ -375,8 +375,8 @@
         "ImagePath": "",
         "MessageJP": "とにかく……今日は本当にありがとうございました",
         "MessageKR": "아무튼 오늘 정말 감사했습니다, 마스터.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總之今天真的非常謝謝你，御者",
+        "MessageEN": "Thank you anyway for today, Master."
     },
     {
         "MessageId": 101250360,
@@ -387,7 +387,7 @@
         "ImagePath": "",
         "MessageJP": "また、近いうちにお会いしましょう……",
         "MessageKR": "다음에 또 뵈어요…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下次再見……",
+        "MessageEN": "Maybe next time..."
     }
 ]

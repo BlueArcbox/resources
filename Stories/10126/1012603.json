@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、今日時間ある？",
         "MessageKR": "선생. 오늘 시간 괜찮아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，今天有空嗎？",
+        "MessageEN": "Sensei. Do you have time today?"
     },
     {
         "MessageId": 101260270,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "いや、なくても空けておいて",
         "MessageKR": "안 괜찮아도 괜찮아야 할 거야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就算沒空也得有空才行",
+        "MessageEN": "Even if you don't, just say yes."
     },
     {
         "MessageId": 101260280,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "いきなりどうしたの？",
         "MessageKR": "가, 갑자기 무슨 일이야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "突，突然怎麼了？",
+        "MessageEN": "Um? Yes, I think?"
     },
     {
         "MessageId": 101260290,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "急ぎで収録のアシスタントが必要になったんだ",
         "MessageKR": "급하게 녹음 보조자가 필요해.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "急需錄音助手",
+        "MessageEN": "My recording assistant cancelled last minute."
     },
     {
         "MessageId": 101260291,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "いつものスタッフさんが急に来れなくなっちゃってね……",
         "MessageKR": "원래 하던 사람이 갑자기 일이 생겨서…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原本的負責人臨時有事……",
+        "MessageEN": "So I need a new one. Right now."
     },
     {
         "MessageId": 101260300,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "先生なら、手伝ってくれるかなって……",
         "MessageKR": "선생이라면 금방 배울 것 같은데…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我想老師應該很快就能學會……",
+        "MessageEN": "I figured you would be able to pick it up quickly."
     },
     {
         "MessageId": 101260301,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "どう？",
         "MessageKR": "어떡할래?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼樣？",
+        "MessageEN": "What do you say?"
     },
     {
         "MessageId": 101260310,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "やってくれる？",
         "MessageKR": "내 녹음 보조…… 해주지 않을래?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你願意……擔任我的錄音助手嗎？",
+        "MessageEN": "Would you like to...be my recording assistant?"
     },
     {
         "MessageId": 101260320,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "うん、任せて！",
         "MessageKR": "도움이 필요하다면 가야지!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "需要幫忙就該去！",
+        "MessageEN": "Yes! I'll be wherever you need me!"
     },
     {
         "MessageId": 101260330,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "イヒヒ",
         "MessageKR": "히히, 그래. 어서 와.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咿嘻。好，那就請你盡快過來吧",
+        "MessageEN": "Heehee, okay. Come now, then."
     },
     {
         "MessageId": 101260331,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "じゃあ、待ってるね",
         "MessageKR": "기다리고 있을 테니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我等你哦",
+        "MessageEN": "I'll be waiting."
     },
     {
         "MessageId": 101250347,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "先生……",
         "MessageKR": "선생…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師……",
+        "MessageEN": "Sensei..."
     },
     {
         "MessageId": 101260350,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "今日は大人しく引き下がったけど",
         "MessageKR": "오늘은 얌전히 물러났지만",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天雖然乖乖放棄了",
+        "MessageEN": "I let you win today,"
     },
     {
         "MessageId": 101260351,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "次はこうはいかないよ",
         "MessageKR": "다음엔 조금 다를 거야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下次可就不一樣了哦",
+        "MessageEN": "but don't expect next time to go your way."
     },
     {
         "MessageId": 101260360,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "お、お手柔らかに……",
         "MessageKR": "사, 살살 부탁해.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還，還請手下留情",
+        "MessageEN": "P-Please go easy on me."
     },
     {
         "MessageId": 101260370,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "じゃあ今日も……",
         "MessageKR": "그럼 오늘도……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼今天也……",
+        "MessageEN": "Hmph. Then..."
     },
     {
         "MessageId": 101260371,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "私のASMRを聞きながらぐっすり眠ってね",
         "MessageKR": "내 ASMR을 들으며 자라고.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "聽著我的ASMR睡吧",
+        "MessageEN": "Listen to my ASMR when you go to sleep again."
     },
     {
         "MessageId": 101260380,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "夢の中で……待ってるよぉ",
         "MessageKR": "꿈속에서…… 다시 만나.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我們……夢裡再見",
+        "MessageEN": "And I'll see you...in your dreams."
     },
     {
         "MessageId": 101260381,
@@ -255,7 +255,7 @@
         "ImagePath": "",
         "MessageJP": "イヒヒ……",
         "MessageKR": "이히히…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咿嘻嘻……",
+        "MessageEN": "Eheehee..."
     }
 ]

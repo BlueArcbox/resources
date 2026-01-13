@@ -49,7 +49,7 @@
         "NextId": 100900120,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "特に急ぎの予定はないかな",
+        "MessageJP": "特に予定はないけど",
         "MessageKR": "큰 일정은 없었지만.",
         "MessageTW": "雖然沒有什麼大事",
         "MessageEN": "I don't have any major plans,"
@@ -61,7 +61,7 @@
         "NextId": 100900120,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "なんだか、百夜堂に行きたい気分かも……",
+        "MessageJP": "なんだか、急に百夜堂に行きたくなったな",
         "MessageKR": "왠지, 갑자기 백야당에 가 보고 싶어졌어.",
         "MessageTW": "但不知為何，我突然想去一趟百夜堂",
         "MessageEN": "but...I have a suspicion I'll be going to Momoyodou."
@@ -73,7 +73,7 @@
         "NextId": 100900130,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "本当ですか！",
+        "MessageJP": "本当ですか！？",
         "MessageKR": "정말이세요?!",
         "MessageTW": "真的嗎！？",
         "MessageEN": "Really?!"
@@ -85,7 +85,7 @@
         "NextId": 100900131,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "私、今日は百夜堂でお仕事なので……、先生が来てくれたらとても嬉しいです！",
+        "MessageJP": "では……ちょうど私も百夜堂で仕事がありますから",
         "MessageKR": "그러면…… 마침 저도 백야당에서 일해야 하니까.",
         "MessageTW": "那麼……剛好我也要去百夜堂工作",
         "MessageEN": "What a coincidence, I have errands there as well!"
@@ -109,7 +109,7 @@
         "NextId": 100900150,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "午後になりそうかな？",
+        "MessageJP": "午後ぐらいでいい？",
         "MessageKR": "오후쯤에 만날까?",
         "MessageTW": "要不要在下午見面？",
         "MessageEN": "Does this afternoon sound good to you?"
@@ -121,7 +121,7 @@
         "NextId": 100900160,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "わかりました！",
+        "MessageJP": "え？",
         "MessageKR": "네?",
         "MessageTW": "咦？",
         "MessageEN": "Yes?"
@@ -133,7 +133,7 @@
         "NextId": 100900161,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "それなら、百夜堂でお会いできそうですね",
+        "MessageJP": "は、はい！",
         "MessageKR": "네, 네!",
         "MessageTW": "啊，好！",
         "MessageEN": "Y-Yes!"
@@ -145,7 +145,7 @@
         "NextId": 100890167,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "お待ちしてます！",
+        "MessageJP": "交代してでも、その時間に合わせますね！",
         "MessageKR": "교대를 해서라도, 그 시간에 맞추도록 할게요!",
         "MessageTW": "就算已經交接，我也會配合那個時間的！",
         "MessageEN": "I'll see you then! Even if I have to switch shifts!"

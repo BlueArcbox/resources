@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "ねえ、先生",
         "MessageKR": "저기, 선생.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個，老師",
+        "MessageEN": "Um, Sensei."
     },
     {
         "MessageId": 101260020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "手伝ってほしいことがあるんだけど……",
         "MessageKR": "도와줬으면…… 하는 일이 있어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我有件事……希望能請你幫忙",
+        "MessageEN": "Could I...get your help with something?"
     },
     {
         "MessageId": 101260030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "どうしたの？",
         "MessageKR": "응? 무슨 일인데?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯？是什麼事？",
+        "MessageEN": "Hm? What is it?"
     },
     {
         "MessageId": 101260040,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "まだ秘密……",
         "MessageKR": "그건…… 비밀.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這……是祕密",
+        "MessageEN": "A...secret."
     },
     {
         "MessageId": 101260041,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "でも、先生にとっても……いいことだと思う",
         "MessageKR": "아마 선생한테도…… 좋은 일일 거야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過對老師來說……應該也是好事",
+        "MessageEN": "But...you'll like it too, Sensei."
     },
     {
         "MessageId": 101260050,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "どう？気になる？",
         "MessageKR": "어때? 궁금하지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼樣？好奇嗎？",
+        "MessageEN": "Doesn't that pique your curiosity?"
     },
     {
         "MessageId": 101260051,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "それなら、直接確かめないとだよねぇ？",
         "MessageKR": "그럼 직접 와서 확인해야겠지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那就得親自過來確認了吧？",
+        "MessageEN": "Don't you want to see?"
     },
     {
         "MessageId": 101260060,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "こっちに来たら、教えてあげるよ",
         "MessageKR": "오면 알려줄게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "來了我就告訴你",
+        "MessageEN": "I'll tell you when you get here."
     },
     {
         "MessageId": 101260061,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "イヒヒ……",
         "MessageKR": "이히히……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咿嘻嘻……",
+        "MessageEN": "Eheehee..."
     },
     {
         "MessageId": 101260070,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "あ、あの？",
         "MessageKR": "저, 저기요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那，那個？",
+        "MessageEN": "H-Hello?"
     },
     {
         "MessageId": 101260070,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "カノエさん？",
         "MessageKR": "카노에 씨?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "鹿江同學？",
+        "MessageEN": "Kanoe?"
     },
     {
         "MessageId": 101250087,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "先生、ちゃんと帰れた？",
         "MessageKR": "선생. 잘 들어갔지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師順利回去了嗎？",
+        "MessageEN": "Sensei. Did you get back safely?"
     },
     {
         "MessageId": 101260090,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "そろそろ前世の記憶も蘇ったかな？",
         "MessageKR": "슬슬 전생의 기억이 떠올랐을까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是不是開始想起前世的記憶了？",
+        "MessageEN": "Are memories of your previous life slowly returning to you?"
     },
     {
         "MessageId": 101260100,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "童心に帰ったような気分だったよ",
         "MessageKR": "동심으로 돌아간 기분이었어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有種重拾童心的感覺",
+        "MessageEN": "Like I was reliving my childhood..."
     },
     {
         "MessageId": 101260110,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "そっか",
         "MessageKR": "계속 그렇게 나온다는 거군.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "看來你還打算繼續裝傻",
+        "MessageEN": "So that's how you're going to play it."
     },
     {
         "MessageId": 101260120,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "いいよ",
         "MessageKR": "좋아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒關係",
+        "MessageEN": "Fine."
     },
     {
         "MessageId": 101260121,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "まだ方法はある",
         "MessageKR": "나도 방법이 있지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我還有其他辦法",
+        "MessageEN": "I have my ways too."
     },
     {
         "MessageId": 101260130,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "じゃあ……また今度ね",
         "MessageKR": "그럼…… 다음에 또 보자고.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼……下次再見",
+        "MessageEN": "Well then... See you next time."
     },
     {
         "MessageId": 101260131,
@@ -255,7 +255,7 @@
         "ImagePath": "",
         "MessageJP": "その時は、本当の私を見せてあげるから",
         "MessageKR": "그땐 내 진짜 모습을 보여줄 테니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "到時候我會讓你看見真正的我",
+        "MessageEN": "I'll show you my true form when we next meet."
     }
 ]

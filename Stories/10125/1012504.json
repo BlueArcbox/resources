@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "マスター。ついに、その時がやってきました",
         "MessageKR": "마스터. 드디어 때가 왔어요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "御者，時機終於到了",
+        "MessageEN": "Master. It's finally time."
     },
     {
         "MessageId": 101250560,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "私の「世界創造魔法」をお見せする時が！",
         "MessageKR": "저만의 세계창조 마법을 보여드릴 때가!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "該讓你見識我的世界創造魔法了！",
+        "MessageEN": "Time to show you my version of world creation magic!"
     },
     {
         "MessageId": 101250570,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "おおっ、ついに来たね！",
         "MessageKR": "오오, 드디어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哦哦，終於！",
+        "MessageEN": "Oooh! Finally!"
     },
     {
         "MessageId": 101250580,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "まだ完成度100％とは言えませんが",
         "MessageKR": "아직 100퍼센트 완벽한 수준은 아닙니다만",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然還沒百分之百完美",
+        "MessageEN": "I haven't completely perfected it,"
     },
     {
         "MessageId": 101250581,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "持てるすべての魔力を注ぎ込んで、準備しておきます",
         "MessageKR": "모든 마력을 끌어모아 준비해 보려 합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但我會傾注所有魔力來準備",
+        "MessageEN": "but I'm going to summon all my magic power and do my best!"
     },
     {
         "MessageId": 101250590,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "それでは学院でお会いしましょう！",
         "MessageKR": "그러면 저희 학원에서 뵙겠습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼我們學院見！",
+        "MessageEN": "Come meet me at the academy!"
     },
     {
         "MessageId": 101240607,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "マスター。今日は本当に、ありがとうございました",
         "MessageKR": "마스터. 오늘 정말 감사했습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "御者，今天真的非常謝謝你",
+        "MessageEN": "Master. Thank you so much for today."
     },
     {
         "MessageId": 101250610,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "おかげで、たっぷり自信が湧いてきました",
         "MessageKR": "덕분에 자신감이 많이 생겼어요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "多虧御者讓我充滿了自信",
+        "MessageEN": "You helped me feel more confident."
     },
     {
         "MessageId": 101250611,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "これで、少しは私も前に進めたってことですよね",
         "MessageKR": "이걸로 저도 한 걸음 앞으로 나아간 거겠죠.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這樣我也算是往前邁進了一步吧",
+        "MessageEN": "It was small, but I took another step forward today!"
     },
     {
         "MessageId": 101250620,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "うん！次の試験は絶対うまくいくよ！",
         "MessageKR": "응! 다음 시험은 잘 볼 수 있을 거야!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯！下次考試一定能考好的！",
+        "MessageEN": "Yes! And your next exam will go great!"
     },
     {
         "MessageId": 101250630,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "もしまた、帽子を脱がなきゃならないなら……",
         "MessageKR": "만약 또 모자를 벗어야 한다면…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果又要脫帽的話……",
+        "MessageEN": "But if I can't wear my hat again..."
     },
     {
         "MessageId": 101250640,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "ふぅぅ……できる限り、頑張ってみます",
         "MessageKR": "후우우, 어떻게든 노력해 보겠어요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呼……我會努力想想辦法的",
+        "MessageEN": "Ughhh. I'll do my best!"
     },
     {
         "MessageId": 101250641,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "ところで、肖像画……ちゃんと持ち帰ってくれました？",
         "MessageKR": "아무튼, 초상화는 잘 가져가셨나요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "話說回來，肖像畫有確實帶回去嗎？",
+        "MessageEN": "Anyways, did you keep the portrait?"
     },
     {
         "MessageId": 101250650,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "うん。よく見える場所に飾っておくよ",
         "MessageKR": "응. 잘 보이는 곳에 걸어둘게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，我會掛在顯眼的地方",
+        "MessageEN": "Yeah! I'll hang it front and center!"
     },
     {
         "MessageId": 101250660,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "にゅふふふ",
         "MessageKR": "뉴후후후.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "妞呵呵呵",
+        "MessageEN": "Nyuhuhu."
     },
     {
         "MessageId": 101250661,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとうございます",
         "MessageKR": "좋습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那就好",
+        "MessageEN": "Excellent."
     },
     {
         "MessageId": 101250670,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "その絵を見るたびに、私のことを思い出してくださいね？",
         "MessageKR": "그 그림을 볼 때마다 저를 떠올리는 겁니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "每次看到那幅畫的時候，記得要想起我哦？",
+        "MessageEN": "Every time you look at it, think of me!"
     },
     {
         "MessageId": 101250680,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "では、またお会いするその日まで！",
         "MessageKR": "그럼 다음 만남을 기약하며.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼，期待下次再見",
+        "MessageEN": "And here's to our next meeting."
     },
     {
         "MessageId": 101250681,
@@ -255,7 +255,7 @@
         "ImagePath": "",
         "MessageJP": "マスターにも、幸福の魔法が降り注ぎますように！",
         "MessageKR": "언제나 행복의 마법이 함께 하기를!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "願幸福的魔法永遠與御者同在！",
+        "MessageEN": "May you be blessed by the magic of happiness!"
     }
 ]

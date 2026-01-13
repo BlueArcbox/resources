@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生は……しっかり断れるタイプ？",
         "MessageKR": "선생은…… 거절을 잘하는 타입?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師……是擅長拒絕的人嗎？",
+        "MessageEN": "Sensei... Are you good at saying \"no\"?"
     },
     {
         "MessageId": 101260150,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "それとも……断れないタイプ？",
         "MessageKR": "아니면 못 하는 타입?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還是不擅長拒絕的人呢？",
+        "MessageEN": "Or is it hard for you?"
     },
     {
         "MessageId": 101260160,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "いきなりどうして？",
         "MessageKR": "응? 갑자기 왜?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯？怎麼突然問這個？",
+        "MessageEN": "What's this about?"
     },
     {
         "MessageId": 101260170,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "イヒ、なんでもない",
         "MessageKR": "히히, 아니야. 그냥 궁금해서.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咿嘻。沒什麼，只是好奇而已",
+        "MessageEN": "Heehee. Pure curiosity."
     },
     {
         "MessageId": 101260171,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "気にしなくていいよ",
         "MessageKR": "신경 쓰지 않아도 돼.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不用在意",
+        "MessageEN": "Nothing to concern yourself with."
     },
     {
         "MessageId": 101260180,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "イヒ……",
         "MessageKR": "히히……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咿嘻……",
+        "MessageEN": "Heehee..."
     },
     {
         "MessageId": 101260181,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "イヒヒヒ……",
         "MessageKR": "이히히히……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咿嘻嘻嘻……",
+        "MessageEN": "Eheeheehee..."
     },
     {
         "MessageId": 101250197,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "私があげたASMR……ちゃんと聞いてる？",
         "MessageKR": "내가 준 ASMR…… 잘 듣고 있지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我給你的ASMR……有仔細聽嗎？",
+        "MessageEN": "Are you listening to the ASMR track?"
     },
     {
         "MessageId": 101260200,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "うん。何度聞いても驚かされるね",
         "MessageKR": "응. 계속 들어도 정말 놀랍네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，聽了之後真的很驚訝",
+        "MessageEN": "Yeah! I can't get tired of it!"
     },
     {
         "MessageId": 101260210,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "今晩は……それを聞きながら寝るんだよ",
         "MessageKR": "오늘 밤엔…… 그걸 듣고 자도록 해.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今晚……就聽著那個睡吧",
+        "MessageEN": "Listen to it when you're going to bed tonight."
     },
     {
         "MessageId": 101260211,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "私のことを想いながら……ね",
         "MessageKR": "날 생각하면서 말이야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "記得要想著我哦",
+        "MessageEN": "And think of me."
     },
     {
         "MessageId": 101260220,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "もし他の声が聞きたいなら言って……",
         "MessageKR": "혹시라도 다른 목소리가 듣고 싶으면 말해……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果還想聽別的聲音就告訴我……",
+        "MessageEN": "If you have requests for other voices, just tell me."
     },
     {
         "MessageId": 101260221,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "すぐ録音して送ってあげるから",
         "MessageKR": "바로 녹음해서 보내줄 테니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我會馬上錄給你的",
+        "MessageEN": "I'll record and send it to you right away."
     },
     {
         "MessageId": 101260230,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "う、うん！でも、今はこれで十分かな！",
         "MessageKR": "지, 지금 것만으로도 충분해!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現，現在這樣就可以了！",
+        "MessageEN": "This one is more than enough!"
     },
     {
         "MessageId": 101260240,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "そう……じゃあ、おやすみ……",
         "MessageKR": "그래…… 그럼 좋은 꿈 꾸고…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這樣啊……那就祝你好夢囉……",
+        "MessageEN": "If you say so. Sweet dreams, then."
     },
     {
         "MessageId": 101260250,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "また明日ね",
         "MessageKR": "다음에 또 보자고.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下次再見",
+        "MessageEN": "And see you next time."
     },
     {
         "MessageId": 101260251,
@@ -231,7 +231,7 @@
         "ImagePath": "",
         "MessageJP": "イヒヒ……",
         "MessageKR": "히히힛……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咿嘻嘻……",
+        "MessageEN": "Heeheehee..."
     }
 ]
