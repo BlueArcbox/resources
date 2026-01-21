@@ -1,0 +1,141 @@
+[
+    {
+        "CharacterId": 10133,
+        "MessageJP": "リオ（臨戦）",
+        "MessageKR": "리오(무장)",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101320450,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 101330450,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 101330450,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101330460,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "今日はAMASの大規模な整備があるから",
+        "MessageKR": "오늘은 격납고가 복잡할 거야.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101330460,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101330461,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "格納庫が少し騒がしくなるわ",
+        "MessageKR": "AMAS들의 대규모 정비가 있거든.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101330461,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101330470,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "施設を使うのなら承知しておいてちょうだい",
+        "MessageKR": "시설 이용에 참고해 줘.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101330470,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101330480,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "見学してもいい？",
+        "MessageKR": "오, 견학해도 돼?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101330480,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101330490,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "見学？",
+        "MessageKR": "견학?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101330490,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101330491,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "面白い作業ではないと思うのだけれど……",
+        "MessageKR": "그렇게 재미있는 작업은 아닌데……",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101330491,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101330500,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "それでも良ければ、私としても助かるわ",
+        "MessageKR": "그래도 보고 싶다면 와도 좋아.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101330500,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101330510,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "単純作業の繰り返しだから",
+        "MessageKR": "단순 반복 작업이라",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101330510,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101320517,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "誰か話し相手がいると気が紛れるの",
+        "MessageKR": "나도 대화 상대가 있으면 좋으니까.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101320517,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "リオ（臨戦）の絆イベントへ",
+        "MessageKR": "리오(무장)의 인연스토리로",
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
+    }
+]

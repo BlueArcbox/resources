@@ -10694,5 +10694,150 @@
             "ItemId": 16009,
             "ItemType": "ドレス"
         }
+    },
+    {
+        "Id": 10133,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10133.webp"
+        ],
+        "Name": {
+            "jp": "リオ（臨戦）",
+            "kr": "리오(무장)",
+            "zh": "莉音（临战）"
+        },
+        "Bio": {
+            "jp": "Tasklist /S",
+            "kr": "Tasklist /S",
+            "zh": "Tasklist /S"
+        },
+        "Nickname": [
+            "Rio"
+        ],
+        "Birthday": "6/6",
+        "Age": "17歳",
+        "School": "Millennium",
+        "Club": "TheSeminar",
+        "Star": 3,
+        "Released": true,
+        "Related": {
+            "ItemId": 20041,
+            "ItemType": "臨戦"
+        }
+    },
+    {
+        "Id": 16019,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/16019.webp"
+        ],
+        "Name": {
+            "jp": "トキ（臨戦）",
+            "kr": "토키(무장)",
+            "zh": "时（临战）"
+        },
+        "Bio": {
+            "jp": "作戦遂行、準備完了",
+            "kr": "작전 수행 준비 완료",
+            "zh": "任务执行，准备就绪"
+        },
+        "Nickname": [
+            "Toki"
+        ],
+        "Birthday": "8/16",
+        "Age": "16歳",
+        "School": "Millennium",
+        "Club": "CleanNClearing",
+        "Star": 1,
+        "Released": true,
+        "Related": {
+            "ItemId": 10062,
+            "ItemType": "臨戦"
+        }
+    },
+    {
+        "Id": 20054,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/20054.webp"
+        ],
+        "Name": {
+            "jp": "ヒマリ（臨戦）",
+            "kr": "히마리(무장)",
+            "zh": "日鞠（临战）"
+        },
+        "Bio": {
+            "jp": "超天才清楚系美少女の活躍にご期待ください",
+            "kr": "이럴 때일수록, 천재병약미소녀의 활약이 필요한 법.",
+            "zh": "敬请期待超天才清楚系美少女的精彩表现"
+        },
+        "Nickname": [
+            "Himari",
+            " "
+        ],
+        "Birthday": "12/10",
+        "Age": "17歳",
+        "School": "Millennium",
+        "Club": "SPTF",
+        "Star": 3,
+        "Released": true,
+        "Related": {
+            "ItemId": 20020,
+            "ItemType": "臨戦"
+        }
+    },
+    {
+        "Id": 10134,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10134.webp"
+        ],
+        "Name": {
+            "jp": "アリス（臨戦）",
+            "kr": "아리스(무장)",
+            "zh": "爱丽丝（临战）"
+        },
+        "Bio": {
+            "jp": "こんにちは！アリスです！",
+            "kr": "안녕하세요. 텐도 아리스입니다.",
+            "zh": ""
+        },
+        "Nickname": [
+            "Aris"
+        ],
+        "Birthday": "3/25",
+        "Age": "??歳",
+        "School": "Millennium",
+        "Club": "GameDev",
+        "Star": 3,
+        "Released": true,
+        "Related": {
+            "ItemId": 10015,
+            "ItemType": "臨戦"
+        }
+    },
+    {
+        "Id": 10135,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10135.webp"
+        ],
+        "Name": {
+            "jp": "ケイ",
+            "kr": "케이",
+            "zh": "Kei"
+        },
+        "Bio": {
+            "jp": "ケイです。よろしくお願いします",
+            "kr": "밀레니엄 사이언스 스쿨, 케이입니다.",
+            "zh": ""
+        },
+        "Nickname": [
+            "Kei",
+            " key",
+            "凯伊"
+        ],
+        "Birthday": "3/25",
+        "Age": "??歳",
+        "School": "Millennium",
+        "Club": "SPTF",
+        "Star": 3,
+        "Released": true,
+        "Related": null
     }
 ]

@@ -1,0 +1,93 @@
+[
+    {
+        "CharacterId": 16019,
+        "MessageJP": "トキ（臨戦）",
+        "MessageKR": "토키(무장)",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 160180060,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 160190060,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 160190060,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 160190070,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "飛鳥馬トキ、ただいま偵察を終えて復帰いたしました",
+        "MessageKR": "아스마 토키, 지금 막 정찰로부터 복귀했습니다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 160190070,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 160190080,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "この後、報告に伺います",
+        "MessageKR": "결과 보고를 위해, 선생님을 찾아뵙도록 하겠습니다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 160190080,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 160190090,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "怪我とかなかった？",
+        "MessageKR": "다치거나 그러지는 않았지?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 160190090,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 160190091,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "心配してくださりありがとうございます",
+        "MessageKR": "걱정해 주셔서 감사합니다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 160190091,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 160180097,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "幸い、本日も無事でした",
+        "MessageKR": "하지만 저는 오늘도 끄떡없었습니다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 160180097,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "トキ（臨戦）の絆イベントへ",
+        "MessageKR": "토키(무장)의 인연스토리로",
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
+    }
+]

@@ -1002,7 +1002,7 @@
     },
     "10062": {
         "kivo_id": 77,
-        "gamekee_id": 584417,
+        "gamekee_id": 690587,
         "avatar": "https://static.kivo.wiki/images/students/飞鸟马 时/avatar.png",
         "momotalk": "日常待机中",
         "name_en": "Toki",
@@ -2047,6 +2047,48 @@
             false
         ]
     },
+    "10133": {
+        "kivo_id": 571,
+        "avatar": "https://static.kivo.wiki/images/students/调月 莉音/临战/Student_Portrait_CH0331_Collection.png",
+        "momotalk": "Tasklist /S",
+        "name_en": "Rio",
+        "name_jp": "リオ（臨戦）",
+        "name_zh": "莉音（临战）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
+    "10134": {
+        "kivo_id": 574,
+        "avatar": "https://static.kivo.wiki/images/students/天童 爱丽丝/临战/aris.png",
+        "momotalk": "",
+        "name_en": "Aris",
+        "name_jp": "アリス（臨戦）",
+        "name_zh": "爱丽丝（临战）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
+    "10135": {
+        "kivo_id": 518,
+        "avatar": "https://static.kivo.wiki/images/students/ Kei/original/未标题-1.png",
+        "momotalk": "",
+        "name_en": "Kei",
+        "name_jp": "ケイ",
+        "name_zh": "Kei",
+        "nicknames": [
+            "凯伊",
+            " key"
+        ],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
     "13000": {
         "kivo_id": 24,
         "gamekee_id": 66752,
@@ -2571,6 +2613,19 @@
             false
         ]
     },
+    "16019": {
+        "kivo_id": 573,
+        "avatar": "https://static.kivo.wiki/images/students/飞鸟马 时/临战/Student_Portrait_CH0333_Collection.png",
+        "momotalk": "任务执行，准备就绪",
+        "name_en": "Toki",
+        "name_jp": "トキ（臨戦）",
+        "name_zh": "时（临战）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
     "20000": {
         "kivo_id": 69,
         "gamekee_id": 67657,
@@ -2882,7 +2937,7 @@
     },
     "20020": {
         "kivo_id": 62,
-        "gamekee_id": 575949,
+        "gamekee_id": 690585,
         "avatar": "https://static.kivo.wiki/images/students/明星 日鞠/avatar.png",
         "momotalk": "千禧年最高峰的超天才清楚系病弱美少女",
         "name_en": "Himari",
@@ -3380,6 +3435,21 @@
         "name_zh": "满（礼服）",
         "nicknames": [
             "小满"
+        ],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
+    "20054": {
+        "kivo_id": 572,
+        "avatar": "https://static.kivo.wiki/images/students/明星 日鞠/临战/Student_Portrait_CH0332_Collection.png",
+        "momotalk": "敬请期待超天才清楚系美少女的精彩表现",
+        "name_en": "Himari",
+        "name_jp": "ヒマリ（臨戦）",
+        "name_zh": "日鞠（临战）",
+        "nicknames": [
+            " "
         ],
         "sticker_download_flag": [
             true,

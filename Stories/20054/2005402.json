@@ -1,0 +1,153 @@
+[
+    {
+        "CharacterId": 20054,
+        "MessageJP": "ヒマリ（臨戦）",
+        "MessageKR": "히마리(무장)",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200530040,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 200540040,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 200540040,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200540050,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "もしもーし",
+        "MessageKR": "똑똑똑",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200540050,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200540060,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "もしかしてお昼寝されていますか？",
+        "MessageKR": "일어나세요 선생님",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200540060,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200540061,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "起きてください、先生",
+        "MessageKR": "점심도 드셨을 테고",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200540061,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200540070,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "そろそろお昼休みが終わりますよ",
+        "MessageKR": "정오 휴식 시간도 끝나 간답니다",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200540070,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200540080,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "うぅぅ……",
+        "MessageKR": "으어어어……",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200540070,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200540080,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "いま起きました……",
+        "MessageKR": "일어납니다…… 일어났어요……",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200540080,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200540081,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "良かったです",
+        "MessageKR": "네",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200540081,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200540090,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "リフレッシュできていれば良いのですが",
+        "MessageKR": "감사합니다",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200540090,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200540091,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "午後の業務も頑張りましょう",
+        "MessageKR": "그러면 오후 업무도",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200540091,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200530097,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "私もお手伝いに参りますので",
+        "MessageKR": "함께 힘내 봐요",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200530097,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ヒマリ（臨戦）の絆イベントへ",
+        "MessageKR": "히마리(무장)의 인연스토리로",
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
+    }
+]
