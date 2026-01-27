@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "また浜辺で一人なんだけど",
         "MessageKR": "또 해변에 혼자 남았어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我又一個人待在海灘了",
+        "MessageEN": "I'm alone at the beach again."
     },
     {
         "MessageId": 200490160,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "あ",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah."
     },
     {
         "MessageId": 200490161,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "もう泳がないからね",
         "MessageKR": "수영은 안 할 거니까 권유하지 마.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我不會去游泳的，所以不用勸我了",
+        "MessageEN": "I don't want to swim. Don't even suggest it."
     },
     {
         "MessageId": 200490170,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "海の楽しみ方は他にもあるよ",
         "MessageKR": "해변을 즐기는 데는 여러 가지 방법이 있지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "享受海灘的方法還有很多",
+        "MessageEN": "You are at the BEACH, you know!"
     },
     {
         "MessageId": 200490180,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "砂で遊ぶとかね",
         "MessageKR": "예를 들면…… 해변의 모래를 이용한 놀이라든가.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "比如……玩沙之類的",
+        "MessageEN": "We can make sandcastles!"
     },
     {
         "MessageId": 200490190,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "……「砂遊び」をしろ、と？",
         "MessageKR": "모래 장난이라도 하라는 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要我玩沙子？",
+        "MessageEN": "Are you suggesting I...play in the sand?"
     },
     {
         "MessageId": 200490191,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "子供扱いしないで",
         "MessageKR": "애도 아니고.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我又不是小孩",
+        "MessageEN": "Do I look like a child to you?"
     },
     {
         "MessageId": 200490200,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "一緒にやったらきっと楽しいと思うんだけどな",
         "MessageKR": "해 보면 생각이 달라질걸?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "試過之後說不定會改變想法哦",
+        "MessageEN": "You just have to try it!"
     },
     {
         "MessageId": 200480207,

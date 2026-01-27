@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "他はまだ我慢できるんだけど",
         "MessageKR": "다른 건 그나마 견디겠는데,",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "其他部分還能忍耐",
+        "MessageEN": "I can tolerate anything"
     },
     {
         "MessageId": 200490220,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "この日差しは慣れないね",
         "MessageKR": "햇빛만큼은 익숙해지지 않아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但我還是無法習慣陽光",
+        "MessageEN": "but not the sun."
     },
     {
         "MessageId": 200490230,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "降り注ぐ日差しこそ夏の海の醍醐味だよ！",
         "MessageKR": "하지만 여름의 햇빛이야말로 해변을 즐기는 방법!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "夏天的陽光才是享受海灘的最佳方式！",
+        "MessageEN": "But that's what the beach is all about!"
     },
     {
         "MessageId": 200490240,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "……",
         "MessageKR": "……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……",
+        "MessageEN": "..."
     },
     {
         "MessageId": 200490241,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "今度は何をさせるつもり？",
         "MessageKR": "또 무슨 일을 시키려고.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你又想叫我做什麼？",
+        "MessageEN": "What are you thinking this time?"
     },
     {
         "MessageId": 200490250,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "一緒に日光浴でもしない？",
         "MessageKR": "같이 일광욕하는 건 어때?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要不要一起做日光浴？",
+        "MessageEN": "Let's go sunbathing together!"
     },
     {
         "MessageId": 200490260,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "じゃあね、おつかれさま",
         "MessageKR": "사양할게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我拒絕",
+        "MessageEN": "No."
     },
     {
         "MessageId": 200490270,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "わかった！今から向かうね！",
         "MessageKR": "그럼 해변으로 갈게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那我去海灘找你哦",
+        "MessageEN": "Okay! I'll see you there!"
     },
     {
         "MessageId": 200490280,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "ねえ、私が送ったの読んでる？",
         "MessageKR": "……내 문자 받은 거 맞지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……你有在看我的訊息嗎？",
+        "MessageEN": "...Are you even reading my messages?"
     },
     {
         "MessageId": 200480297,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "結局ずっと曇ってたね",
         "MessageKR": "결국 오후 내내 흐린 날씨였잖아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "結果整個下午都是陰天",
+        "MessageEN": "I guess the clouds had different plans today."
     },
     {
         "MessageId": 200490300,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "これ、日光浴をやったことになるの？",
         "MessageKR": "이게 무슨 일광욕이야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這能算是日光浴嗎？",
+        "MessageEN": "That was hardly the weather for sunbathing."
     },
     {
         "MessageId": 200490310,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "うーん、あれはちょっと想定外……",
         "MessageKR": "으음, 그건 예상외의 사태…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔嗯，這倒是在意料之外……",
+        "MessageEN": "Not even I could've predicted this..."
     },
     {
         "MessageId": 200490320,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "そんなことだろうと思った",
         "MessageKR": "그럴 줄 알았어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我就知道",
+        "MessageEN": "Well I did."
     },
     {
         "MessageId": 200490321,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "結局、得るものがない一日だったね",
         "MessageKR": "결국 아무것도 없었던 하루네, 오늘은.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "結果今天什麼都沒得到呢",
+        "MessageEN": "So as far as I'd say, nothing happened today at all."
     },
     {
         "MessageId": 200490330,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "……\u200b",
         "MessageKR": "…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……\u200b",
+        "MessageEN": "...\u200b"
     },
     {
         "MessageId": 200490340,
@@ -219,7 +219,7 @@
         "ImagePath": "",
         "MessageJP": "先生と話したこと以外は",
         "MessageKR": "선생님이랑 이야기한 거 빼고는.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "除了跟老師聊了幾句之外",
+        "MessageEN": "Besides talking to you, Sensei."
     }
 ]
