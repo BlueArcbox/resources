@@ -1,0 +1,153 @@
+[
+    {
+        "CharacterId": 10135,
+        "MessageJP": "ケイ",
+        "MessageKR": "케이",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101340010,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 101350010,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 101350010,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101350020,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生、少しよろしいですか？",
+        "MessageKR": "선생님.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101350020,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101350030,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "どうしたのケイちゃん？",
+        "MessageKR": "왜 그러니. 케이 쨩.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101350030,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101350031,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ケイちゃんじゃありません",
+        "MessageKR": "케이 쨩 아닙니다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101350031,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101350032,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "まったく……それはともかく",
+        "MessageKR": "어쨌든.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101350032,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101350033,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "無機物を器としている意識体において",
+        "MessageKR": "비탄소 기반의 의식체는",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101350033,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101350040,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ストレス解消はどのように行うべきでしょうか？",
+        "MessageKR": "어떻게 스트레스를 해소해야 할까요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101350040,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101350050,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "いきなり難しい質問をするね……",
+        "MessageKR": "시작부터 너무 난이도가 높은 질문이구나……",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101350050,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101350051,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "そうですよね",
+        "MessageKR": "그렇겠죠.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101350051,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101350060,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生に期待した私がバカでした",
+        "MessageKR": "선생님에게 뭘 기대한 제가 바보였어요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101350060,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101340067,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ひどいよぉ……",
+        "MessageKR": "너무해…….",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101340067,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ケイの絆イベントへ",
+        "MessageKR": "케이의 인연스토리로",
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
+    }
+]

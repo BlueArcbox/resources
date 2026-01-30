@@ -1,0 +1,117 @@
+[
+    {
+        "CharacterId": 10134,
+        "MessageJP": "アリス（臨戦）",
+        "MessageKR": "아리스(무장)",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101330220,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 101340220,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 101340220,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101340230,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ううう",
+        "MessageKR": "우우우……",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101340230,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101340240,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "アリスは勇者失格かもしれません",
+        "MessageKR": "어쩌면, 아리스는 용사 실격일지도 모릅니다…….",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101340240,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101340250,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "アリス？",
+        "MessageKR": "아리스?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101340240,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101340250,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "何かあった？",
+        "MessageKR": "무슨 일이야?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101340250,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101340260,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "アリスは見習い勇者に戻ります……",
+        "MessageKR": "아리스는 견습 모험가로 돌아갑니다…….",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101340260,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101330267,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "今どこにいるの？",
+        "MessageKR": "지금 어디야?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101340260,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101330267,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "すぐ行くから待っててね",
+        "MessageKR": "금방 갈 테니까 기다리고 있어.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101330267,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "アリス（臨戦）の絆イベントへ",
+        "MessageKR": "아리스(무장)의 인연스토리로",
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
+    }
+]

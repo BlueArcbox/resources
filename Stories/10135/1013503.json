@@ -1,0 +1,105 @@
+[
+    {
+        "CharacterId": 10135,
+        "MessageJP": "ケイ",
+        "MessageKR": "케이",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101340220,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 101350220,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 101350220,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101350230,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "せんせ",
+        "MessageKR": "선ㅅㅐ",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101350230,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101350231,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "た",
+        "MessageKR": "니ㅁ",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101350231,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101350240,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "すけて",
+        "MessageKR": "도와",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101350240,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101350250,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "どうしたの！？",
+        "MessageKR": "무슨 일이야?!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101350250,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101350251,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "いま",
+        "MessageKR": "ㅈㅣ금",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101350251,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101340257,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ちょとこまって",
+        "MessageKR": "좀 곤ㄹㅏㄴ",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101340257,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ケイの絆イベントへ",
+        "MessageKR": "케이의 인연스토리로",
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
+    }
+]

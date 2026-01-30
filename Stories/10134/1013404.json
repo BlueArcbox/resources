@@ -1,0 +1,117 @@
+[
+    {
+        "CharacterId": 10134,
+        "MessageJP": "アリス（臨戦）",
+        "MessageKR": "아리스(무장)",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101330270,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 101340270,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 101340270,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101340280,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生！",
+        "MessageKR": "선생님!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101340280,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101340290,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "まだ起きていたのですね！",
+        "MessageKR": "아직 일어나 계시군요!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101340290,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101340300,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "そうだけど……",
+        "MessageKR": "응? 그렇기는 한데…….",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101340290,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101340300,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "どうして分かったの！？",
+        "MessageKR": "어떻게 알았어?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101340300,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101340301,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ふっふっふ！",
+        "MessageKR": "후후!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101340301,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101340310,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "窓の外を見てください！",
+        "MessageKR": "창밖입니다!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101340310,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101330317,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "窓の外？",
+        "MessageKR": "창밖?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101330317,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "アリス（臨戦）の絆イベントへ",
+        "MessageKR": "아리스(무장)의 인연스토리로",
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
+    }
+]
