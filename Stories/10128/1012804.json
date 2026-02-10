@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 101280180,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "よかったら展覧会に行きませんか？",
         "MessageKR": "전시회 가실래요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要不要去看展覽？",
+        "MessageEN": "Would you like to go to an exhibition?"
     },
     {
         "MessageId": 101280190,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "うん？",
         "MessageKR": "응?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？",
+        "MessageEN": "Hm?"
     },
     {
         "MessageId": 101280200,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "では、セイント＆メディカル付属アートセンターのA館で！",
         "MessageKR": "세인트&메디컬 부속 아트 센터 A관입니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "在聖徒&醫療附屬藝術中心A館！",
+        "MessageEN": "It'll be at Saint & Medical Affiliated Art Center Hall A!"
     },
     {
         "MessageId": 101280210,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "行くって言ってないけど！？",
         "MessageKR": "갑자기?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這麼突然！？",
+        "MessageEN": "Right now?!"
     },
     {
         "MessageId": 101270217,

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "承知いたしました",
         "MessageKR": "스케쥴 검토 결과",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "從行程來看",
+        "MessageEN": "After reviewing the schedule,"
     },
     {
         "MessageId": 101270150,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "では、14時からはいかがでしょうか？",
         "MessageKR": "오후 2시가 가장 적절할 것 같습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下午兩點似乎是最適合的",
+        "MessageEN": "I believe 2 PM would be best."
     },
     {
         "MessageId": 101270160,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "うん……？",
         "MessageKR": "응……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯……？",
+        "MessageEN": "Huh...?"
     },
     {
         "MessageId": 101270170,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "あっ",
         "MessageKR": "아 ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah. "
     },
     {
         "MessageId": 101270171,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ごめんなさい",
         "MessageKR": "잘못 보냈다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我傳錯了",
+        "MessageEN": "Wrong person."
     },
     {
         "MessageId": 101270180,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "間違えました。忘れてください",
         "MessageKR": "죄송합니다. 잊어 주세요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不好意思，請忘了吧",
+        "MessageEN": "My apologies. Please ignore that."
     },
     {
         "MessageId": 101260187,

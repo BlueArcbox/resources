@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "会場はすごい熱気ですわね",
         "MessageKR": "회장의 열기가 엄청나군요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "會場的熱度真是驚人呢",
+        "MessageEN": "Such an intense atmosphere."
     },
     {
         "MessageId": 200300350,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "先生もご多忙なことでしょう",
         "MessageKR": "선생님께서도 많이 바쁘실 것 같습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師想必也相當忙碌吧",
+        "MessageEN": "I'm sure you're also very busy, Sensei."
     },
     {
         "MessageId": 200300360,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "大丈夫、ちょうど一段落ついたところだよ",
         "MessageKR": "큰 일들은 어느 정도 지나갔어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "大事差不多都結束了",
+        "MessageEN": "We're done with most of the big events."
     },
     {
         "MessageId": 200300370,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "ふむ……なるほど",
         "MessageKR": "그렇군요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這樣啊",
+        "MessageEN": "I see."
     },
     {
         "MessageId": 200300371,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "では、もしよろしければ……",
         "MessageKR": "그러면 지금 혹시 시간 괜찮으실까요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼，不知道您是否方便",
+        "MessageEN": "Then do you have a moment to spare right now?"
     },
     {
         "MessageId": 200300380,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "今から会える？",
         "MessageKR": "잠시 만날까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在見個面吧？",
+        "MessageEN": "Do you want to meet up?"
     },
     {
         "MessageId": 200300390,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "あら",
         "MessageKR": "어머나.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哎呀",
+        "MessageEN": "Oh my."
     },
     {
         "MessageId": 200300391,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "先生から誘ってくださるとは",
         "MessageKR": "선생님께서 먼저 권해 주실 줄은.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒想到老師會先提出邀請",
+        "MessageEN": "I didn't expect you to ask first."
     },
     {
         "MessageId": 200300400,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "では、お待ちしております",
         "MessageKR": "그러면 기다리고 있겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼，我會等候您的到來",
+        "MessageEN": "Well then, I will be waiting."
     },
     {
         "MessageId": 200290407,

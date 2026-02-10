@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "ご無沙汰しております、先生",
         "MessageKR": "잘 지내셨습니까, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，最近過得好嗎？",
+        "MessageEN": "How have you been doing, Sensei?"
     },
     {
         "MessageId": 101280130,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今週、当番としてお伺いする予定なので",
         "MessageKR": "이번 주에 당번으로 뵙게 될 텐데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這週擔任值日生時會見到面",
+        "MessageEN": "I'll be seeing you as a Student Rep this week,"
     },
     {
         "MessageId": 101280131,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "事前にご連絡させていただきました！",
         "MessageKR": "미리 인사드리겠습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以先提前打聲招呼！",
+        "MessageEN": "so I wanted to say hello in advance!"
     },
     {
         "MessageId": 101280140,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "あれ、フユって今週当番だっけ……？",
         "MessageKR": "……너 이번 주에 당번 일정 없지 않니?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……你這週沒有負責擔任值日生吧？",
+        "MessageEN": "...But you're not scheduled for Student Rep duty this week."
     },
     {
         "MessageId": 101280150,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ふふ",
         "MessageKR": "후후",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵",
+        "MessageEN": "Fufu."
     },
     {
         "MessageId": 101280160,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "フユ……？",
         "MessageKR": "뭔데……!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "什麼情況……！",
+        "MessageEN": "What is it...?!"
     },
     {
         "MessageId": 101270167,

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "안녕하세요 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你好，老師",
+        "MessageEN": "Hello, Sensei."
     },
     {
         "MessageId": 101270290,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "最近よくワイルドハントにいらっしゃるとか",
         "MessageKR": "요즘 와일드헌트에 자주 오셨다고 들었습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "聽說老師最近經常來狂獵",
+        "MessageEN": "I hear you've been visiting Wildhunt a lot lately."
     },
     {
         "MessageId": 101270300,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "うん、芸術品の取引や通関周りの仕事でね",
         "MessageKR": "응, 예술품들의 거래 및 통관과 관련해서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，因為藝術品交易與通關相關的行政事務",
+        "MessageEN": "Yeah, there's been a lot of paperwork to take care of."
     },
     {
         "MessageId": 101270310,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "色々と手続きも多かったんだ",
         "MessageKR": "중간에서 처리해야 할 행정 업무가 많았거든.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有不少手續需要我來處理",
+        "MessageEN": "I've been working on trade and customs for artwork."
     },
     {
         "MessageId": 101270320,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "へえ……",
         "MessageKR": "흐으음……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哼嗯……",
+        "MessageEN": "Hmm..."
     },
     {
         "MessageId": 101270330,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ミヨ？",
         "MessageKR": "응?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯？",
+        "MessageEN": "Hm?"
     },
     {
         "MessageId": 101260347,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "今日訪れたあの建物ですが",
         "MessageKR": "오늘 방문하셨던 그 건물",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天老師去的那棟建築",
+        "MessageEN": "The building you went to today,"
     },
     {
         "MessageId": 101270350,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "紫色の彫刻像を左に曲がると",
         "MessageKR": "보라색 조각상 앞에서 좌회전하면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果在紫色雕像前左轉",
+        "MessageEN": "you can get there faster if you take a left"
     },
     {
         "MessageId": 101270351,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "近道ですよ",
         "MessageKR": "더 빨리 도착하실 수 있어요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可以更快抵達哦",
+        "MessageEN": "in front of the purple statue."
     },
     {
         "MessageId": 101270360,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "あ、うん。ありがとう、ミヨ",
         "MessageKR": "어, 응, 고마워 미요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，嗯。謝謝你，美代",
+        "MessageEN": "Oh, okay... Thanks, Miyo."
     },
     {
         "MessageId": 101270370,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "……ところで、私の移動ルート",
         "MessageKR": "……그런데 제 이동 경로를",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……話說你為什麼",
+        "MessageEN": "How did you know that?"
     },
     {
         "MessageId": 101270380,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "なんで全部知ってるの？",
         "MessageKR": "왜 다 파악하고 계신 거죠……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "會完全掌握我的移動路線……？",
+        "MessageEN": "Do you...know my whole schedule?"
     },
     {
         "MessageId": 101270390,
@@ -183,7 +183,7 @@
         "ImagePath": "",
         "MessageJP": "……ミヨ？",
         "MessageKR": "저기 미요? 미요 쨩……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "美代？美代醬……？",
+        "MessageEN": "Um, Miyo? Miyo...?"
     }
 ]

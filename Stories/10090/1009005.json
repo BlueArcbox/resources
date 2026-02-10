@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生？",
         "MessageKR": "선생님?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師？",
+        "MessageEN": "Sensei?"
     },
     {
         "MessageId": 100900340,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "もういらっしゃってますか？",
         "MessageKR": "계신, 가요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你已經到了嗎？",
+        "MessageEN": "Are you there?"
     },
     {
         "MessageId": 100900350,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "さっき着いたところだよ",
         "MessageKR": "잘 있어\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "再見～",
+        "MessageEN": "I'm here!"
     },
     {
         "MessageId": 100900350,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "今どのあたり？",
         "MessageKR": "지금 어디니\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你現在在哪裡～",
+        "MessageEN": "Where are you?"
     },
     {
         "MessageId": 100900360,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ごめんなさい！",
         "MessageKR": "죄송해요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "對不起！",
+        "MessageEN": "Sorry!"
     },
     {
         "MessageId": 100900361,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと遅れてしまいそうで……",
         "MessageKR": "저 조금 늦을 것 같아요……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我可能會稍微遲到……",
+        "MessageEN": "I'm running a little bit late..."
     },
     {
         "MessageId": 100900370,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "焦らずゆっくりでいいからね",
         "MessageKR": "괜찮으니까 천천히 와\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒關係，慢慢來～",
+        "MessageEN": "It's okay, take your time!"
     },
     {
         "MessageId": 100900380,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "すぐ行きますので！",
         "MessageKR": "금방 가겠습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我馬上就到！",
+        "MessageEN": "I'll be there shortly!"
     },
     {
         "MessageId": 100890397,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "お疲れ様でした、先生",
         "MessageKR": "고생 많으셨어요. 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "辛苦了，老師",
+        "MessageEN": "Good work, Sensei."
     },
     {
         "MessageId": 100900400,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "ウミカもお疲れ様",
         "MessageKR": "우미카도 오늘 수고 많았어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "海花今天也辛苦了",
+        "MessageEN": "You too, Umika."
     },
     {
         "MessageId": 100900410,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "そうだ、人形忘れてない？",
         "MessageKR": "그리고 인형 고마워.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還有，謝謝你的人偶",
+        "MessageEN": "And thanks for the doll."
     },
     {
         "MessageId": 100900420,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "あ……！",
         "MessageKR": "……!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……！",
+        "MessageEN": "...!"
     },
     {
         "MessageId": 100900421,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "その……よければ",
         "MessageKR": "네!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是！",
+        "MessageEN": "Absolutely!"
     },
     {
         "MessageId": 100900430,
@@ -195,7 +195,7 @@
         "ImagePath": "",
         "MessageJP": "その子を、預かっていてもらえると嬉しいです",
         "MessageKR": "감사합니다!!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝老師！！！",
+        "MessageEN": "Thank you!!"
     }
 ]

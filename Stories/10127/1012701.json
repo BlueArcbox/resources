@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、桜井ミヨです",
         "MessageKR": "안녕하세요, 선생님. 사쿠라이 미요입니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你好，老師。我是櫻井美代",
+        "MessageEN": "Hello, Sensei. This is Sakurai Miyo."
     },
     {
         "MessageId": 101270020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "明日の当番なのですが……",
         "MessageKR": "내일 제 당번 방문일인데……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "明天是我擔任值日生的日子……",
+        "MessageEN": "I believe I'm on student rep duty tomorrow..."
     },
     {
         "MessageId": 101270030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ご迷惑になりそうでしたら、見送らせていただければと",
         "MessageKR": "혹 불편하시다면, 내일 방문은 취소하도록 하겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果會造成困擾，我可以取消明天的拜訪",
+        "MessageEN": "but I'll cancel if it would inconvenience you."
     },
     {
         "MessageId": 101270040,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "お返事お待ちしております",
         "MessageKR": "메시지 확인 후 회신 부탁드립니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請確認訊息後回覆",
+        "MessageEN": "Looking forward to hearing back from you."
     },
     {
         "MessageId": 101270050,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "気にしなくていい……？",
         "MessageKR": "……예, 알겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……好的，我知道了",
+        "MessageEN": "...Yes, understood."
     },
     {
         "MessageId": 101270051,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "かしこまりました、では今回は……",
         "MessageKR": "인지하였습니다. 그럼 다음에 뵙겠습니다, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我明白了。那麼後會有期，老師",
+        "MessageEN": "Noted. I will see you next time then, Sensei."
     },
     {
         "MessageId": 101270060,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "いやいや、見送らないで！",
         "MessageKR": "아냐! 취소하지 마! ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不是不是！不要取消！",
+        "MessageEN": "No! Don't cancel! "
     },
     {
         "MessageId": 101270070,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "ミヨに会うのを楽しみにしているよ！！",
         "MessageKR": "너무너무 보고 싶어! 미요 쨩! ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我非常非常想見你耶！美代醬！",
+        "MessageEN": "I really want to see you, Miyo! "
     },
     {
         "MessageId": 101270080,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "ひゃうぅ……",
         "MessageKR": "흐에에……!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦咦……！",
+        "MessageEN": "Eeeh...!"
     },
     {
         "MessageId": 101260097,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "すみません、当番だったのに勝手に帰ってしまって……",
         "MessageKR": "멋대로 뛰쳐나간 것, 사과드립니다, 선생님. ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "擅自衝了出來，真是非常抱歉，老師",
+        "MessageEN": "Apologies for running out on my own, Sensei. "
     },
     {
         "MessageId": 101270100,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "気晴らしに出かけたくなるときもあるよね",
         "MessageKR": "괜찮아, 글 쓰다 보면 그럴 수 있지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒關係。寫作時會這樣很正常",
+        "MessageEN": "It's fine, things happen when you're writing."
     },
     {
         "MessageId": 101270110,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとうございます……",
         "MessageKR": "이해해 주셔서 감사합니다…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝老師理解……",
+        "MessageEN": "Thank you for your understanding..."
     },
     {
         "MessageId": 101270120,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "それで、あの二人は戦車部隊に勝てるの？",
         "MessageKR": "그런데 그래서 누가 이기는 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "話說最後是誰贏了？",
+        "MessageEN": "But, do those two end up winning?"
     },
     {
         "MessageId": 101270130,
@@ -195,7 +195,7 @@
         "ImagePath": "",
         "MessageJP": "うああああああああああああ",
         "MessageKR": "으아아아아아아아아아아아아아아아아아아아아아아아아아아아아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊",
+        "MessageEN": "Aaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
     }
 ]

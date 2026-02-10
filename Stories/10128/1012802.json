@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 101280070,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "投石機は、なぜ壊れやすいのでしょう？",
         "MessageKR": "투석기는 어째서 이토록 잘 망가지는 것일까요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "投石機為什麼這麼容易壞呢？",
+        "MessageEN": "Why do catapults break so easily?"
     },
     {
         "MessageId": 101280080,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "攻城戦でもやってるの……？",
         "MessageKR": "공성전이라도 벌이고 있니……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你們是在打攻城戰嗎……？",
+        "MessageEN": "Are you waging a siege...?"
     },
     {
         "MessageId": 101280090,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "いえ、もっと素敵なことですよ。",
         "MessageKR": "아뇨, 좀 더 멋진 것을 하고 있습니다. ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不，我們在做更帥氣的事",
+        "MessageEN": "No. Something even cooler. "
     },
     {
         "MessageId": 101280100,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "……特殊交易部の活動？",
         "MessageKR": "……특수교역의 용도로 쓰고 있었구나.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……原來是用在特殊交易上啊",
+        "MessageEN": "...Free Trade Cartel business?"
     },
     {
         "MessageId": 101280110,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "その通りです！よくご存知で！",
         "MessageKR": "역시 선생님! 잘 알고 계시군요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不愧是老師！果然很懂嘛！",
+        "MessageEN": "That's right, Sensei! You're on the mark!"
     },
     {
         "MessageId": 101270117,

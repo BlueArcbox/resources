@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "お久しぶりです、先生",
         "MessageKR": "오랜만입니다, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好久不見，老師",
+        "MessageEN": "Long time no see, Sensei."
     },
     {
         "MessageId": 101280020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "明日は外出の予定なので",
         "MessageKR": "명일 외출이 예정되어 있는데, ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "明天我預計會外出",
+        "MessageEN": "I have an outing scheduled for tomorrow, "
     },
     {
         "MessageId": 101280021,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ご入り用のものがありましたら、承りますよ",
         "MessageKR": "혹 필요하신 물건이 있다면 주문받겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有什麼需要的話可以提前告訴我，我來幫你準備",
+        "MessageEN": "I'll take orders if you need anything."
     },
     {
         "MessageId": 101280030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "ううん……特にないよ",
         "MessageKR": "……아냐 괜찮아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……不用了，沒關係",
+        "MessageEN": "...No, it's okay."
     },
     {
         "MessageId": 101280040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "承知しました",
         "MessageKR": "후후, 그럼 다음에 다시 여쭤보겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵，那我就下次再問吧",
+        "MessageEN": "Fufu, I'll ask you again next time then."
     },
     {
         "MessageId": 101280041,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "それでは、またのご利用をお待ちしております！",
         "MessageKR": "다음에도 저희 특수교역부를 이용해 주세요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今後也請多多利用我們特殊交易部！",
+        "MessageEN": "We, at the Free Trade Cartel, look forward to your continued business!"
     },
     {
         "MessageId": 101280050,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "まだ利用したことないよ……！？",
         "MessageKR": "애초에 이용한 적이 없는데요……!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我根本沒用過啊……！",
+        "MessageEN": "We've never even started business!"
     },
     {
         "MessageId": 101270057,

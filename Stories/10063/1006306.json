@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "うぅ……先生……",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 100630620,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "助けてください……",
         "MessageKR": "한 번만 더 도와주세요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "再幫我一次吧",
+        "MessageEN": "Help me PLS... this is the last time, I promise!!"
     },
     {
         "MessageId": 100630621,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "全然見つからないんです！",
         "MessageKR": "그 엄청난 탐색 능력으로……!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "用你那驚人的探索能力……！",
+        "MessageEN": "I need your incredible talent in finding things!"
     },
     {
         "MessageId": 100630630,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "今度は何を探してるの？",
         "MessageKR": "\"이번에는 무엇을 찾으시나요?\"",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這次要找什麼？",
+        "MessageEN": "What are you looking for this time?"
     },
     {
         "MessageId": 100630640,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "その",
         "MessageKR": "그",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個",
+        "MessageEN": "So, um..."
     },
     {
         "MessageId": 100630641,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "落とし物を……",
         "MessageKR": "잃어버린 게 하나 있어서…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有東西弄丟了……",
+        "MessageEN": "There's this thing I lost..."
     },
     {
         "MessageId": 100620657,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "ひいいっ！？",
         "MessageKR": "크아아아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呀啊啊",
+        "MessageEN": "Aaaaaa"
     },
     {
         "MessageId": 100630660,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "な、なんですかここは！",
         "MessageKR": "여기 공기 이상해요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這裡的空氣好奇怪！",
+        "MessageEN": "The air feels weird here!"
     },
     {
         "MessageId": 100630670,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "말해봐요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "告訴我",
+        "MessageEN": "Tell me"
     },
     {
         "MessageId": 100630671,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "私に言いたいこと",
         "MessageKR": "나한테",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你為什麼",
+        "MessageEN": "Why did you"
     },
     {
         "MessageId": 100630672,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "ないですか？",
         "MessageKR": "왜 그랬어요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要這樣對我",
+        "MessageEN": "do this to me?!"
     },
     {
         "MessageId": 100630680,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "講座が終わったら、ゲームセンターに行こうか",
         "MessageKR": "교육 끝나면 오락실이나 가자.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "課程結束後去遊戲中心吧",
+        "MessageEN": "Let's go to the arcade when you're done with class."
     },
     {
         "MessageId": 100630690,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "嫌です！",
         "MessageKR": "싫거든요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "才不要！",
+        "MessageEN": "Don't wanna!"
     },
     {
         "MessageId": 100630700,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "いや、嫌なわけじゃなくて",
         "MessageKR": "아니 싫은 건 아닌데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不，也不是討厭的意思",
+        "MessageEN": "Well, not that I don't want to"
     },
     {
         "MessageId": 100630710,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "とにかく、嫌です！！",
         "MessageKR": "싫거든요!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "才不要！！",
+        "MessageEN": "but DON'T WANNA."
     },
     {
         "MessageId": 100630720,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "私が奢るから",
         "MessageKR": "돈은 내가 낼게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不然錢我來付",
+        "MessageEN": "I'm paying."
     },
     {
         "MessageId": 100630730,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "……",
         "MessageKR": "…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……",
+        "MessageEN": "..."
     },
     {
         "MessageId": 100630731,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "……後悔しませんね？",
         "MessageKR": "……그 말에 후회하지 않으시죠?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……你不會後悔吧？",
+        "MessageEN": "...You're not going to regret saying that, are you?"
     },
     {
         "MessageId": 100630740,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "……するかも",
         "MessageKR": "……이제 해야 할 것 같은데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……好像開始後悔了",
+        "MessageEN": "...I might now."
     },
     {
         "MessageId": 100630750,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "XDXD……",
         "MessageKR": "ㅋㅋ……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "XDXD……",
+        "MessageEN": "lol"
     },
     {
         "MessageId": 100630751,
@@ -279,7 +279,7 @@
         "ImagePath": "",
         "MessageJP": "では、1時間後に！",
         "MessageKR": "그럼 한 시간 뒤에 봐요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那一小時後見！",
+        "MessageEN": "I'll see you in an hour!"
     }
 ]

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "覚えているか",
         "MessageKR": "기억하고 있는가",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你還記得嗎",
+        "MessageEN": "Hunter!"
     },
     {
         "MessageId": 130110320,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "狩人よ！",
         "MessageKR": "사냥꾼이여!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "獵人啊！",
+        "MessageEN": "Do you remember?!"
     },
     {
         "MessageId": 130110330,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "もちろんだよ、相棒……",
         "MessageKR": "기억하고 있다마다, 파트너…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然記得囉，夥伴……",
+        "MessageEN": "Of course I do, partner."
     },
     {
         "MessageId": 130110330,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "今こそ狩りのとき……！",
         "MessageKR": "바야흐로, 우리의 헌팅이 시작된다…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在正是狩獵開始之時……",
+        "MessageEN": "And now, our hunt begins..."
     },
     {
         "MessageId": 130110340,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "いざ行かん！",
         "MessageKR": "좋아! 바로 그 자세야!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "很好！就是這個氣勢！",
+        "MessageEN": "Yeah! That's the spirit!"
     },
     {
         "MessageId": 130110350,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "私の背中は預けたよ！",
         "MessageKR": "오늘은 어디 한번 제대로 달려 보자고!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天就來好好狩獵一番吧！",
+        "MessageEN": "Let's go for a full run today!"
     },
     {
         "MessageId": 130100357,

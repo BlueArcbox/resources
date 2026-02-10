@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 101270200,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "少しお時間いいですか？",
         "MessageKR": "혹시 시간 있으신가요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請問現在有空嗎？",
+        "MessageEN": "Do you have a moment?"
     },
     {
         "MessageId": 101270210,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "あ、空けておきます……！",
         "MessageKR": "없더라도 내겠습니다……!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就算沒有也會擠出時間……！",
+        "MessageEN": "I'll find some time! Somehow!"
     },
     {
         "MessageId": 101270220,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "空けておきますから……！",
         "MessageKR": "그러니 목숨만은……!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以拜託饒我一命吧……！",
+        "MessageEN": "Please have mercy!"
     },
     {
         "MessageId": 101270230,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "……ど、どうしたんですか？",
         "MessageKR": "……대체 선생님 머릿속에서 저는 어떤 이미지인 거죠?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……我在老師的腦海裡究竟是什麼形象呢？",
+        "MessageEN": "...Is that how you see me?"
     },
     {
         "MessageId": 101260247,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "すみません、先生……",
         "MessageKR": "죄송합니다 선생님……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "對不起，老師……",
+        "MessageEN": "I'm sorry, Sensei..."
     },
     {
         "MessageId": 101270241,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "引っ張り回してしまって……",
         "MessageKR": "뭔가 제멋대로 선생님을 끌고 다닌 것 같아서……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好像有種隨意將老師呼來喚去的感覺……",
+        "MessageEN": "It feels like I dragged you around all day..."
     },
     {
         "MessageId": 101270250,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "ううん、楽しかったよ",
         "MessageKR": "아냐, 나도 즐거웠어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒關係，我也很開心哦",
+        "MessageEN": "Don't be, I had fun too."
     },
     {
         "MessageId": 101270260,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとうございます",
         "MessageKR": "감사합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝老師",
+        "MessageEN": "Thank you."
     },
     {
         "MessageId": 101270261,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "では、その",
         "MessageKR": "그러면 그",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼……",
+        "MessageEN": "Then um,"
     },
     {
         "MessageId": 101270270,
@@ -159,7 +159,7 @@
         "ImagePath": "",
         "MessageJP": "また次も……",
         "MessageKR": "다음에도……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下次也……",
+        "MessageEN": "next time too..."
     }
 ]
