@@ -10839,5 +10839,64 @@
         "Star": 3,
         "Released": true,
         "Related": null
+    },
+    {
+        "Id": 10136,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10136.webp"
+        ],
+        "Name": {
+            "jp": "エイミ（臨戦）",
+            "kr": "에이미(무장)",
+            "zh": "艾米（临战）"
+        },
+        "Bio": {
+            "jp": "いま対応中",
+            "kr": "대응 중",
+            "zh": "正在处理中"
+        },
+        "Nickname": [
+            "Eimi",
+            "临战艾米"
+        ],
+        "Birthday": "5/1",
+        "Age": "15歳",
+        "School": "Millennium",
+        "Club": "SPTF",
+        "Star": 3,
+        "Released": true,
+        "Related": {
+            "ItemId": 10001,
+            "ItemType": "臨戦"
+        }
+    },
+    {
+        "Id": 20055,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/20055.webp"
+        ],
+        "Name": {
+            "jp": "ユズ（臨戦）",
+            "kr": "유즈(무장)",
+            "zh": "柚子（临战）"
+        },
+        "Bio": {
+            "jp": "500 Internal Server Error",
+            "kr": "500 Internal Server Error",
+            "zh": "500 Internal Server Error"
+        },
+        "Nickname": [
+            "Yuzu"
+        ],
+        "Birthday": "8/12",
+        "Age": "16歳",
+        "School": "Millennium",
+        "Club": "GameDev",
+        "Star": 3,
+        "Released": true,
+        "Related": {
+            "ItemId": 10018,
+            "ItemType": "臨戦"
+        }
     }
 ]

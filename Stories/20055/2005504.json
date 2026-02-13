@@ -1,0 +1,105 @@
+[
+    {
+        "CharacterId": 20055,
+        "MessageJP": "ユズ（臨戦）",
+        "MessageKR": "유즈(무장)",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200540320,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 200550320,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 200550320,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200550330,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "最近はVRゲームにもだんだん慣れてきました",
+        "MessageKR": "선생님, 이제는 VR 게임도 점점 익숙해지는 것 같아요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200550330,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200550340,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "だいぶ身体もスムーズに動くようになってきて……",
+        "MessageKR": "몸의 움직임도 예전보다 훨씬 덜 삐걱거리는 것 같고…….",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200550340,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200550350,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "もうUZQueenを止められるゲームジャンルは、なくなってしまったね……",
+        "MessageKR": "이제 UZQueen을 막을 수 있는 게임 장르는 없어져 버렸군…….",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200550350,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200550351,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "そ",
+        "MessageKR": "그",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200550351,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200550360,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "そんな",
+        "MessageKR": "으아아",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200550360,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200540367,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "もう……からかわないでください！",
+        "MessageKR": "놀리지 마세요……!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200540367,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ユズ（臨戦）の絆イベントへ",
+        "MessageKR": "유즈(무장)의 인연스토리로",
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
+    }
+]

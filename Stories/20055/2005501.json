@@ -1,0 +1,153 @@
+[
+    {
+        "CharacterId": 20055,
+        "MessageJP": "ユズ（臨戦）",
+        "MessageKR": "유즈(무장)",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200540010,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 200550010,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 200550010,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200550020,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生、わたし……もう",
+        "MessageKR": "선생님",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200550020,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200550021,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ロッカーに、入れなくなっちゃいました……",
+        "MessageKR": "저, 더 이상 캐비닛에 들어갈 수 없게 되었어요…….",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200550021,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200550030,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "本当は入りたいのに",
+        "MessageKR": "사실 들어가고 싶은데",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200550030,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200550040,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "でも、身体が……",
+        "MessageKR": "들어가고 싶지 않아요…….",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200550040,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200550050,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ユズがロッカーに入れなく……？",
+        "MessageKR": "유즈가…… 캐비닛을 거부한다고……?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200550050,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200550060,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ちょっとそっちに行くね！",
+        "MessageKR": "당장 갈게.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200550060,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200550061,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "え？",
+        "MessageKR": "예?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200550061,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200550062,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "い、いえ、来ていただくほどの……",
+        "MessageKR": "아니 그게 그 그렇게까진",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200550062,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200550070,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "うう……",
+        "MessageKR": "아니 오실 필요까지는 없는데 그",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200550070,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200540077,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "……お願い、します",
+        "MessageKR": "……부탁드려요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200540077,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ユズ（臨戦）の絆イベントへ",
+        "MessageKR": "유즈(무장)의 인연스토리로",
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
+    }
+]

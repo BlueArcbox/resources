@@ -1,0 +1,129 @@
+[
+    {
+        "CharacterId": 10136,
+        "MessageJP": "エイミ（臨戦）",
+        "MessageKR": "에이미(무장)",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101350070,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 101360070,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 101360070,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101360080,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "夕飯どうだった？",
+        "MessageKR": "저녁 맛있었어?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101360080,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101360090,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "普通……かな",
+        "MessageKR": "맛있지도, 없지도 않은…… 그런 정도였을까……",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101360090,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101360091,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "カロリーも栄養バランスもバッチリだと思ったけど……",
+        "MessageKR": "솔직한 감상이네.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101360091,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101360100,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "これから運動するし……",
+        "MessageKR": "나는 열량이 충분해서 좋았다고 생각하지만.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101360100,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101360110,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "何かするの？",
+        "MessageKR": "에이미는 이제 뭐 할 거야?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101360110,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101360111,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "うん。今から",
+        "MessageKR": "아마도",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101360111,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101360120,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "夜間の偵察に出ようと思って",
+        "MessageKR": "야간 색적에 나가지 않을까 해.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101360120,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101350127,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "なんで？",
+        "MessageKR": "야간…… 뭐?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101350127,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "エイミ（臨戦）の絆イベントへ",
+        "MessageKR": "에이미(무장)의 인연스토리로",
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
+    }
+]

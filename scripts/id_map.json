@@ -2089,6 +2089,21 @@
             false
         ]
     },
+    "10136": {
+        "kivo_id": 576,
+        "avatar": "https://static.kivo.wiki/images/students/ 和泉元 艾米/临战/Student_Portrait_CH0337_Collection.png",
+        "momotalk": "正在处理中",
+        "name_en": "Eimi",
+        "name_jp": "エイミ（臨戦）",
+        "name_zh": "艾米（临战）",
+        "nicknames": [
+            "临战艾米"
+        ],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
     "13000": {
         "kivo_id": 24,
         "gamekee_id": 66752,
@@ -3451,6 +3466,19 @@
         "nicknames": [
             " "
         ],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
+    "20055": {
+        "kivo_id": 577,
+        "avatar": "https://static.kivo.wiki/images/students/花冈 柚子/临战/Student_Portrait_CH0336_Collection.png",
+        "momotalk": "500 Internal Server Error",
+        "name_en": "Yuzu",
+        "name_jp": "ユズ（臨戦）",
+        "name_zh": "柚子（临战）",
+        "nicknames": [],
         "sticker_download_flag": [
             true,
             false
