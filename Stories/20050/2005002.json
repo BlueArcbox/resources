@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "せんせーせんせーせんせー",
         "MessageKR": "선생님선생님선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師老師老師",
+        "MessageEN": "Sensei Sensei Sensei"
     },
     {
         "MessageId": 200500060,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "先生は何色が好き？",
         "MessageKR": "선생님은 무슨 색을 좋아해?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師喜歡什麼顏色？",
+        "MessageEN": "What color do you like, Sensei?"
     },
     {
         "MessageId": 200500070,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "なにの色か、によるかな……？",
         "MessageKR": "무엇의 색인지에 따라 다르지……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可能要看你指的是什麼東西……？",
+        "MessageEN": "I guess it depends on what it's for...?"
     },
     {
         "MessageId": 200500080,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "おっけー！",
         "MessageKR": "아항!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊哈！",
+        "MessageEN": "Aha!"
     },
     {
         "MessageId": 200500081,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "じゃあボクが決めちゃうね！",
         "MessageKR": "그럼 그냥 이쪽에서 정해야겠다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "看來只能由我來決定了呢！",
+        "MessageEN": "I'm just going to pick!"
     },
     {
         "MessageId": 200500090,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "え？何を？",
         "MessageKR": "예? 뭘요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？決定什麼？",
+        "MessageEN": "Eh? Pick what?"
     },
     {
         "MessageId": 200500100,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "リツ？",
         "MessageKR": "리츠?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "律？",
+        "MessageEN": "Ritsu?"
     },
     {
         "MessageId": 200490107,

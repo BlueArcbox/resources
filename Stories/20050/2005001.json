@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "やっほ！",
         "MessageKR": "안녕 선생님!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗨，老師！",
+        "MessageEN": "Hello, Sensei!"
     },
     {
         "MessageId": 200500020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "薄葉リツだよ！",
         "MessageKR": "우스바 리츠입니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我是薄葉律！",
+        "MessageEN": "This is Usuba Ritsu!"
     },
     {
         "MessageId": 200500030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "明日の当番はリツだったね！",
         "MessageKR": "맞아, 리츠가 내일 당번이었지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "對了，你是明天的值日生吧？",
+        "MessageEN": "Oh right, you're on Student Rep duty tomorrow?"
     },
     {
         "MessageId": 200500040,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "そういうこと！",
         "MessageKR": "맞습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒錯！",
+        "MessageEN": "That's right!"
     },
     {
         "MessageId": 200500041,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "よろしくね！先生！",
         "MessageKR": "내일 봐! 선생님!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "明天見囉！老師！",
+        "MessageEN": "I'll see you tomorrow, Sensei!"
     },
     {
         "MessageId": 200490047,

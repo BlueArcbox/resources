@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "シャーレの前ついたよー！",
         "MessageKR": "나 이제 샬레 앞!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我現在在夏萊前面！",
+        "MessageEN": "I'm in front of Schale right now!"
     },
     {
         "MessageId": 200500120,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "何してる？",
         "MessageKR": "선생님은 뭐 해?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師你在做什麼呢？",
+        "MessageEN": "What are you up to, Sensei?"
     },
     {
         "MessageId": 200500130,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "いきなりどうしたの！？",
         "MessageKR": "갑자기?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這麼突然！？",
+        "MessageEN": "Right now?!"
     },
     {
         "MessageId": 200500140,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "服買いにいこって話したじゃん？",
         "MessageKR": "저번에 같이 옷 사러 가자고 했었잖아!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我們上次不是說好要一起去買衣服嗎！",
+        "MessageEN": "I said we should go shopping for clothes, remember?"
     },
     {
         "MessageId": 200500141,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "もしかして忙しい？",
         "MessageKR": "혹시 바빠, 선생님?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "難道你現在很忙嗎，老師？",
+        "MessageEN": "Are you busy, Sensei?"
     },
     {
         "MessageId": 200500150,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "忙しい……",
         "MessageKR": "당연히 바쁘지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然很忙",
+        "MessageEN": "Of course I'm busy."
     },
     {
         "MessageId": 200500160,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "だからこそ、行くよ。",
         "MessageKR": "당장 가자.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以馬上出發吧",
+        "MessageEN": "Let's run away."
     },
     {
         "MessageId": 200500170,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "えっ？",
         "MessageKR": "엥?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？",
+        "MessageEN": "Huh?"
     },
     {
         "MessageId": 200490177,
