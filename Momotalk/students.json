@@ -10898,5 +10898,34 @@
             "ItemId": 10018,
             "ItemType": "臨戦"
         }
+    },
+    {
+        "Id": 20056,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/20056.webp"
+        ],
+        "Name": {
+            "jp": "コユキ（パジャマ）",
+            "kr": "코유키(파자마)",
+            "zh": "小雪（睡衣）"
+        },
+        "Bio": {
+            "jp": "事実ですけど、私のせいじゃありません！",
+            "kr": "제가 한 건 맞는데 제 잘못은 아니라고요!",
+            "zh": "虽然事实的确是这样，但真的不是我的错！"
+        },
+        "Nickname": [
+            "Koyuki"
+        ],
+        "Birthday": "2/14",
+        "Age": "15歳",
+        "School": "Millennium",
+        "Club": "TheSeminar",
+        "Star": 3,
+        "Released": true,
+        "Related": {
+            "ItemId": 10063,
+            "ItemType": "パジャマ"
+        }
     }
 ]

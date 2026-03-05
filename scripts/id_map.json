@@ -17,7 +17,7 @@
     },
     "10001": {
         "kivo_id": 158,
-        "gamekee_id": 690663,
+        "gamekee_id": 68820,
         "avatar": "https://static.kivo.wiki/images/students/和泉元 艾米/avatar.png",
         "momotalk": "在此输入状态信息",
         "name_en": "Eimi",
@@ -290,7 +290,7 @@
     },
     "10018": {
         "kivo_id": 81,
-        "gamekee_id": 690661,
+        "gamekee_id": 77109,
         "avatar": "https://static.kivo.wiki/images/students/花冈 柚子/avatar.png",
         "momotalk": "404 NOT FOUND",
         "name_en": "Yuzu",
@@ -1016,7 +1016,7 @@
     },
     "10063": {
         "kivo_id": 101,
-        "gamekee_id": 585462,
+        "gamekee_id": 643792,
         "avatar": "https://static.kivo.wiki/images/students/黑崎 小雪/avatar.png",
         "momotalk": "诶呀，难道这是我的错吗......？",
         "name_en": "Koyuki",
@@ -3478,6 +3478,19 @@
         "name_en": "Yuzu",
         "name_jp": "ユズ（臨戦）",
         "name_zh": "柚子（临战）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
+    "20056": {
+        "kivo_id": 508,
+        "avatar": "https://static.kivo.wiki/images/students/黑崎 小雪/睡衣/Student_Portrait_CH0310_Collection.png",
+        "momotalk": "虽然事实的确是这样，但真的不是我的错！",
+        "name_en": "Koyuki",
+        "name_jp": "コユキ（パジャマ）",
+        "name_zh": "小雪（睡衣）",
         "nicknames": [],
         "sticker_download_flag": [
             true,
