@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "こんにちは、先生。スズミです",
         "MessageKR": "안녕하세요, 선생님. 스즈미입니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "您好，老師。我是鈴美",
+        "MessageEN": "Hello, Sensei. This is Suzumi."
     },
     {
         "MessageId": 101290020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "お変わりなくお過ごしでしょうか？",
         "MessageKR": "잘 지내시지요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "近來都還順利嗎？",
+        "MessageEN": "How have you been doing?"
     },
     {
         "MessageId": 101290030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "スズミ！元気してる？",
         "MessageKR": "안녕, 스즈미. 잘 지냈어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你好呀，鈴美。最近過得好嗎？",
+        "MessageEN": "Hi, Suzumi. How is it going?"
     },
     {
         "MessageId": 101290040,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "はい、おかげさまで",
         "MessageKR": "네. 덕분에 잘 지냈습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是的，托您的福過得很好",
+        "MessageEN": "Things have been going well, thanks to you."
     },
     {
         "MessageId": 101290041,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ひとつ、お聞きしたいのですが……",
         "MessageKR": "다름이 아니라, 여쭤보고 싶은 게 있어서 연락드렸습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "其實我有件事想向您請教",
+        "MessageEN": "I'm reaching out because I have a question."
     },
     {
         "MessageId": 101290042,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "シャーレの休憩施設は、何時まで利用可能でしょうか",
         "MessageKR": "샬레의 휴게시설은 몇 시까지 이용 가능한가요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請問夏萊的休息設施可以使用到幾點呢？",
+        "MessageEN": "How late is Schale's lounge open?"
     },
     {
         "MessageId": 101290050,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "特に決まってないよ",
         "MessageKR": "딱히 정해진 시간은 없어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒有特別限制時間哦",
+        "MessageEN": "There's no set business hours."
     },
     {
         "MessageId": 101290050,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "好きなだけいて大丈夫だよ",
         "MessageKR": "마음껏 써도 돼!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "想怎麼用就怎麼用！",
+        "MessageEN": "It's open whenever you need!"
     },
     {
         "MessageId": 101290060,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "承知しました",
         "MessageKR": "그렇군요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原來如此",
+        "MessageEN": "I see."
     },
     {
         "MessageId": 101290061,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "利用にあたって、何か注意点はありますか？",
         "MessageKR": "이용에 있어 주의할 사항이 있을까요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "使用時有需要注意的事項嗎？",
+        "MessageEN": "Is there anything I should know if I do use it?"
     },
     {
         "MessageId": 101290070,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "帰るときは電気を消す、ぐらいかな",
         "MessageKR": "이용이 끝나면 소등하는 것 정도려나.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "大概就是用完之後要記得關燈吧",
+        "MessageEN": "Hm... Turn the lights off on your way out!"
     },
     {
         "MessageId": 101290080,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "承知しました\u200b",
         "MessageKR": "참고가 되었습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我明白了",
+        "MessageEN": "Noted."
     },
     {
         "MessageId": 101290081,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとうございます",
         "MessageKR": "감사합니다. 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝您，老師",
+        "MessageEN": "Thank you, Sensei."
     },
     {
         "MessageId": 101280097,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "先生、その",
         "MessageKR": "선생님, 그.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，那個",
+        "MessageEN": "Sensei, umm."
     },
     {
         "MessageId": 101290100,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "繰り返しになりますが……",
         "MessageKR": "다시 말씀드립니다만…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "再跟您強調一次……",
+        "MessageEN": "I'm just going to say it again..."
     },
     {
         "MessageId": 101290101,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "あの格好は、私個人の好みとは無関係です！",
         "MessageKR": "방금 보셨던 것은 제 개인적인 취향이 아닙니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "剛才您看到的並不是我的個人嗜好！",
+        "MessageEN": "But what you saw has no relation at all to my personal preferences!"
     },
     {
         "MessageId": 101290110,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "私は好きだよ、あれ！",
         "MessageKR": "난 취향인데!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過我很喜歡唷！",
+        "MessageEN": "I liked it though!"
     },
     {
         "MessageId": 101290120,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "えfs\\#'8k6avb$",
         "MessageKR": "ㄴㅀㅇ&23ㅂ어ㄹ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "(@$\\*(&@\\#$",
+        "MessageEN": "asdjkhdkast"
     },
     {
         "MessageId": 101290121,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "すみません",
         "MessageKR": "죄송합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不好意思",
+        "MessageEN": "My apologies."
     },
     {
         "MessageId": 101290122,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "スマホを落としました",
         "MessageKR": "휴대전화를 떨어뜨렸습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "剛才不小心把手機弄掉了",
+        "MessageEN": "I dropped my phone."
     },
     {
         "MessageId": 101290130,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "あくまでも自警団任務の延長ですので！",
         "MessageKR": "어디까지나 자경단 임무의 연장입니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這純粹只是自衛隊任務的延伸！",
+        "MessageEN": "It is simply an extension of Vigilante Crew missions!"
     },
     {
         "MessageId": 101290131,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "誤解しないでくださいね！",
         "MessageKR": "오해하지 말아 주세요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以請您不要誤會！",
+        "MessageEN": "Please don't misunderstand!"
     },
     {
         "MessageId": 101290140,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "分かった！",
         "MessageKR": "오케이!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "OK！",
+        "MessageEN": "Got it!"
     },
     {
         "MessageId": 101290150,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "……あと",
         "MessageKR": "……다른 이야기지만,",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……話說回來",
+        "MessageEN": "...And this is a different topic,"
     },
     {
         "MessageId": 101290151,
@@ -327,8 +327,8 @@
         "ImagePath": "",
         "MessageJP": "褒めてくださり、ありがとうございました",
         "MessageKR": "칭찬해 주셔서, 감사합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝您剛才的稱讚",
+        "MessageEN": "but thank you for your compliments."
     },
     {
         "MessageId": 101290160,
@@ -339,7 +339,7 @@
         "ImagePath": "",
         "MessageJP": "では、また……",
         "MessageKR": "다음에 뵙겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下次再見",
+        "MessageEN": "I'll see you next time."
     }
 ]

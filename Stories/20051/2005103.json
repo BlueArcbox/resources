@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 200510550,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "「ドレスコード」って何でしょう？",
         "MessageKR": "'드레스코드'라는 것은 뭘까요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請問「Dress Code」是什麼意思呢？",
+        "MessageEN": "How do you define a \"dress code\"?"
     },
     {
         "MessageId": 200510560,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "時と場所に合わせた服を着ること、かな？",
         "MessageKR": "때와 장소에 맞게 옷을 입는 것 아닐까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "應該是指穿著符合場合的衣服吧？",
+        "MessageEN": "Appropriate clothes for the time and place, I guess?"
     },
     {
         "MessageId": 200510570,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "ということは",
         "MessageKR": "그렇다면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼",
+        "MessageEN": "Does that mean"
     },
     {
         "MessageId": 200510580,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ある目的のために着ている服も",
         "MessageKR": "목적이 일치하는 옷은",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "穿著目的相符的衣服",
+        "MessageEN": "clothes that have a function"
     },
     {
         "MessageId": 200510590,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ドレスコードに沿っていることになりますか？",
         "MessageKR": "드레스코드가 맞는 옷일까요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "算是符合Dress Code嗎？",
+        "MessageEN": "are also following the dress code?"
     },
     {
         "MessageId": 200510600,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "なるんじゃないかな",
         "MessageKR": "그렇지 않을까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "應該算吧？",
+        "MessageEN": "I guess so?"
     },
     {
         "MessageId": 200510610,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "なるほど",
         "MessageKR": "그렇군요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原來如此",
+        "MessageEN": "I see."
     },
     {
         "MessageId": 200510620,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "分かりました……",
         "MessageKR": "알겠습니다…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我明白了……",
+        "MessageEN": "Got it..."
     },
     {
         "MessageId": 200510630,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "？",
         "MessageKR": "?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "？",
+        "MessageEN": "?"
     },
     {
         "MessageId": 200500647,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "完璧だったのに！",
         "MessageKR": "완벽했었는데!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "明明很完美的說！！",
+        "MessageEN": "It was perfect!!"
     },
     {
         "MessageId": 200510650,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "最後で台無しでした！",
         "MessageKR": "마지막에 망쳤습니다!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "最後居然搞砸了！！",
+        "MessageEN": "But I messed up at the end!!"
     },
     {
         "MessageId": 200510660,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "それくらい大丈夫だよ！",
         "MessageKR": "그 정도는 괜찮지, 뭐!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這種程度無傷大雅！",
+        "MessageEN": "You barely did!"
     },
     {
         "MessageId": 200510670,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "すっごくカッコよかったよ！",
         "MessageKR": "충분히 멋졌어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "已經夠帥氣了哦！",
+        "MessageEN": "You were still cool!"
     },
     {
         "MessageId": 200510680,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "でも、パーフェクトに活躍したかったです",
         "MessageKR": "퍼펙트하게 활약했어야 했는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "本來應該表現得更完美的",
+        "MessageEN": "I should've been perfect!"
     },
     {
         "MessageId": 200510690,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "次こそ！",
         "MessageKR": "다음에는 기필코!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下次我一定！！",
+        "MessageEN": "Next time for sure!"
     },
     {
         "MessageId": 200510700,
@@ -231,7 +231,7 @@
         "ImagePath": "",
         "MessageJP": "スーパーパーフェクトな活躍をおみせします！",
         "MessageKR": "슈퍼- 퍼펙트하게 활약하겠습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要拿出超～級完美的表現！",
+        "MessageEN": "I'll make sure to be super perfect!"
     }
 ]

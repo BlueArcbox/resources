@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、いま暇？",
         "MessageKR": "선생, 지금 한가해?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，現在有空嗎？",
+        "MessageEN": "Sensei, are you free right now?"
     },
     {
         "MessageId": 160180480,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "暇じゃなくてもちょっと来て！",
         "MessageKR": "한가하지 않아도 나와!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒空也出來一下吧！",
+        "MessageEN": "Even if you're not, you should come out!"
     },
     {
         "MessageId": 160180490,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "えっ、何かあったの！？",
         "MessageKR": "엥? 왜?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？怎麼了嗎？",
+        "MessageEN": "Huh? Why?"
     },
     {
         "MessageId": 160180500,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "いえ、ただの散歩のお誘いよ",
         "MessageKR": "왜냐니, 그냥 산책 좀 같이하자는 건데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒怎麼不怎麼的，只是邀你一起散步",
+        "MessageEN": "Do you need a reason? Let's just go for a walk."
     },
     {
         "MessageId": 160180501,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "近くを通りがかったから、何してるかなって",
         "MessageKR": "마침 근처 지나고 있어서 생각났거든.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我剛好路過附近就突然想到",
+        "MessageEN": "I'm in the area right now."
     },
     {
         "MessageId": 160180510,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "あ、今忙しいのかしら",
         "MessageKR": "아, 설마 바빠?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，你該不會很忙吧？",
+        "MessageEN": "Ah, are you busy?"
     },
     {
         "MessageId": 160180511,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "それなら大丈夫……さっきのは冗談よ",
         "MessageKR": "진짜 바쁘면 안 나와도 돼, 위에 말은 농담이야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果真的在忙就不用勉強，剛才那句只是開開玩笑而已",
+        "MessageEN": "I was joking earlier. You don't have to if you're busy."
     },
     {
         "MessageId": 160180520,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "いま仕事なくなったとこ",
         "MessageKR": "방금 일 다 없어졌어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "剛才的工作全都消失了",
+        "MessageEN": "All my work just disappeared."
     },
     {
         "MessageId": 160180530,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "今日の分の書類、全部食べちゃった",
         "MessageKR": "오늘 처리할 서류, 다 먹어버렸어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我把今天要處理的文件全部吃掉了",
+        "MessageEN": "I ate all the paperwork for today."
     },
     {
         "MessageId": 160180540,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "あんた、ほんとに大人！？",
         "MessageKR": "선생, 어른 맞아?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，你真的是大人嗎！？",
+        "MessageEN": "Are you sure you're an adult, Sensei?!"
     },
     {
         "MessageId": 160180550,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "じゃあ来れるってことでいいのかしら",
         "MessageKR": "그러면 진짜 나올 수 있는 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以現在真的能出來嗎？",
+        "MessageEN": "Does that mean you can come out now, though?"
     },
     {
         "MessageId": 160180560,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "下で待ってるわよ？",
         "MessageKR": "어…… 밑에서 기다린다?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那……我在樓下等你？",
+        "MessageEN": "Uh... I'll be waiting downstairs then!"
     },
     {
         "MessageId": 160180570,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "走らずに歩いてきて！？",
         "MessageKR": "뛰지 마!! 걸어서 와!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "別用跑的！！慢慢走過來！！",
+        "MessageEN": "And don't run!! Walk!!"
     },
     {
         "MessageId": 160180571,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "あー……遅かったわね",
         "MessageKR": "아니 또 뛰어오네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不是吧，又跑過來了",
+        "MessageEN": "And you're running again."
     },
     {
         "MessageId": 160170587,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "調べたわよ！？",
         "MessageKR": "검색해 봤거든?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我查過了哦！？",
+        "MessageEN": "I just searched!"
     },
     {
         "MessageId": 160180590,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "あそこは下水じゃなくて、雨水が流れ込む排水溝！",
         "MessageKR": "하수도가 아니라 우수관이라잖아!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那不是下水道，是雨水管！！",
+        "MessageEN": "It's a storm drain, not a sewer!"
     },
     {
         "MessageId": 160180591,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "ただの雨水だから！！",
         "MessageKR": "빗물! 빗물이 모인 거라잖아!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雨水！是雨水聚集的地方！！",
+        "MessageEN": "Rain water! It was rain water!!"
     },
     {
         "MessageId": 160180592,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "汚い水じゃないから！！",
         "MessageKR": "더러운 물 아니야!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不是髒水！！",
+        "MessageEN": "Not dirty water!!!"
     },
     {
         "MessageId": 160180600,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "いや、私は何も……",
         "MessageKR": "아니 난 딱히 뭐라 하진 않았는데…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我又沒說什麼……",
+        "MessageEN": "I really didn't say anything..."
     },
     {
         "MessageId": 160180610,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "せっかくいい事したのに、もう！",
         "MessageKR": "기왕 좋은 일 했는데 김새게 진짜!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "難得做了件好事，不要掃興啦！！",
+        "MessageEN": "Ugh! What a letdown!"
     },
     {
         "MessageId": 160180620,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "優しいラブ、本当にかっこよかった！",
         "MessageKR": "좋은 일 하는 라브는 엄청 멋있었어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "做好事的良舞超帥的哦！",
+        "MessageEN": "I thought you looked really cool, Rabu!"
     },
     {
         "MessageId": 160180630,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "もし気になるなら、私も排水溝でジャブジャブしてくるよ！",
         "MessageKR": "정 신경 쓰이면 나도 하수도에 퐁당, 하고 들어갈게!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要是你真的介意的話，我也可以跳進下水道嘩啦嘩啦哦！",
+        "MessageEN": "If it really bothers you, I'll also splash, right into the sewers!"
     },
     {
         "MessageId": 160180640,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "神聖なジャブジャブの名をそんなことで使うな！！",
         "MessageKR": "신성한 퐁당을 그런데 쓰지 마!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "別把神聖的嘩啦嘩啦用在這種地方啦！！",
+        "MessageEN": "Don't you use the word splash like that!!"
     },
     {
         "MessageId": 160180641,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "あと、排水溝じゃないってば！",
         "MessageKR": "그리고, 하수도 아니라니까!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "而且就跟你說那不是下水道了！",
+        "MessageEN": "Also, it wasn't a sewer!"
     },
     {
         "MessageId": 160180642,
@@ -327,8 +327,8 @@
         "ImagePath": "",
         "MessageJP": "褒めてくれるのは嬉しいけど！",
         "MessageKR": "멋있다는 건 고마운데!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過謝謝你說我帥氣！",
+        "MessageEN": "Thank you for saying it was cool, but still!"
     },
     {
         "MessageId": 160180650,
@@ -339,8 +339,8 @@
         "ImagePath": "",
         "MessageJP": "……",
         "MessageKR": "…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……",
+        "MessageEN": "..."
     },
     {
         "MessageId": 160180660,
@@ -351,8 +351,8 @@
         "ImagePath": "",
         "MessageJP": "それと、今日見たもの、うちの子たちに言わないでよ？",
         "MessageKR": "아, 그렇다고 다른 애들한테 오늘 본 거 말하면 안 된다?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，今天看到的事不能跟其他孩子們說哦？",
+        "MessageEN": "And don't tell ANYONE about today?"
     },
     {
         "MessageId": 160180661,
@@ -363,7 +363,7 @@
         "ImagePath": "",
         "MessageJP": "分かったわね！？",
         "MessageKR": "알겠지?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "知道了嗎！？",
+        "MessageEN": "Okay?!"
     }
 ]

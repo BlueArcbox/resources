@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "突然のご連絡失礼いたします",
         "MessageKR": "실례합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不好意思",
+        "MessageEN": "Excuse me."
     },
     {
         "MessageId": 160180020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "シャーレの先生のご連絡先で、お間違いないでしょうか？",
         "MessageKR": "혹시, 샬레의 선생님 맞으실까요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請問您是夏萊的老師嗎？",
+        "MessageEN": "Is this Schale's Sensei?"
     },
     {
         "MessageId": 160180030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "そうですが……",
         "MessageKR": "네? 맞는데요…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？是我沒錯……",
+        "MessageEN": "Yes, that's me..."
     },
     {
         "MessageId": 160180030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "ラブ？",
         "MessageKR": "라브니?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "良舞？",
+        "MessageEN": "Is this Rabu?"
     },
     {
         "MessageId": 160180040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "なんだ、合ってるじゃない。よかった",
         "MessageKR": "뭐야, 맞았네. 혹시나 다른 사람 연락처인가 해서.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "什麼嘛，果然沒錯啊。我還以為是存錯聯絡人了呢",
+        "MessageEN": "Oh, it IS right. I just wanted to make sure."
     },
     {
         "MessageId": 160180050,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "丁寧なラブってなんだか新鮮だね",
         "MessageKR": "공손한 라브……. 신선해!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有禮貌的良舞……真新鮮！",
+        "MessageEN": "Polite Rabu... That's new!"
     },
     {
         "MessageId": 160180050,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "スクショ撮っとかなきゃ！",
         "MessageKR": "스크린샷 찍어서 보관할래!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我要截圖保存下來！",
+        "MessageEN": "I'm going to take a screenshot of this!"
     },
     {
         "MessageId": 160180060,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "はぁ？",
         "MessageKR": "뭐야??",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "什麼？？",
+        "MessageEN": "Huh??"
     },
     {
         "MessageId": 160180061,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "うちってそんな失礼な奴だと思われてたの？",
         "MessageKR": "내가 그렇게 버릇없어 보여?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我看起來有那麼沒禮貌嗎？",
+        "MessageEN": "Do I really seem that rude?!"
     },
     {
         "MessageId": 160180062,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "最低限のマナーくらいあるわよ",
         "MessageKR": "최소한의 예의는 있다고!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "至少還有基本的禮儀吧！！",
+        "MessageEN": "I have basic manners!"
     },
     {
         "MessageId": 160180070,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "まあいいわ",
         "MessageKR": "아무튼.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "算了",
+        "MessageEN": "Anyway..."
     },
     {
         "MessageId": 160180080,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "さっきシャーレの前を通った時に",
         "MessageKR": "마침 샬레 앞을 지나가는데, 모모톡 저장해둔 게 생각났어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我剛好路過夏萊，突然想到之前在MomoTalk存的聯絡人",
+        "MessageEN": "I was just passing by Schale, and I remembered that I saved your contact."
     },
     {
         "MessageId": 160180081,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "そういえばモモトーク交換してたことを思い出したの",
         "MessageKR": "그래서 그냥 한번 확인차 연락해 봤어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以才想說要做個確認，隨便聯絡看看",
+        "MessageEN": "So I'm saying hi."
     },
     {
         "MessageId": 160180090,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "まあ忙しいだろうし、シャーレにいないかもしれないけど",
         "MessageKR": "선생은 바빠서 없을 수도 있겠지만, 생각이 나더라구.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然老師可能很忙或正好不在，不過我還是想試試看",
+        "MessageEN": "You're probably not even here, but I wanted to message you anyway."
     },
     {
         "MessageId": 160180100,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "それじゃまた",
         "MessageKR": "그럼 나중",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼下次──",
+        "MessageEN": "I'll see you later"
     },
     {
         "MessageId": 160180101,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "ってまさか……あれって先生じゃないわよね？",
         "MessageKR": "지금 현관에서 달려오는 거, 선생이야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在從玄關跑過來的人是老師嗎？",
+        "MessageEN": "Uh, Sensei? Are you the one running out the door, towards me, right now?"
     },
     {
         "MessageId": 160180102,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "ちょ",
         "MessageKR": "아니 잠ㄲ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "喂不是先等",
+        "MessageEN": "Wait hold"
     },
     {
         "MessageId": 160170117,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "シャーレに初めて行ったけど、不思議な感じ",
         "MessageKR": "샬레, 처음 들어가 봤는데 신기했어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "第一次進到夏萊，感覺還真神奇",
+        "MessageEN": "That was my first time going inside Schale. That was cool."
     },
     {
         "MessageId": 160180120,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "いいものを見せてもらったわね",
         "MessageKR": "덕분에 좋은 구경했어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "託你的福，見識到了不少好東西",
+        "MessageEN": "I liked it."
     },
     {
         "MessageId": 160180130,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "楽しんでくれたならなにより",
         "MessageKR": "뭘 그런 거 가지고!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這不算什麼！",
+        "MessageEN": "I'm so glad!"
     },
     {
         "MessageId": 160180140,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "……まさか、仲良くなるなんてね",
         "MessageKR": "신기하네, 선생하고 친해질 거라곤 생각 못 했는데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真是不可思議，沒想到會跟老師變熟啊",
+        "MessageEN": "How odd, I didn't really expect to get close with you, Sensei."
     },
     {
         "MessageId": 160180150,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "……",
         "MessageKR": "…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……",
+        "MessageEN": "..."
     },
     {
         "MessageId": 160180160,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "仲良くなった、は言い過ぎか",
         "MessageKR": "아니, 친하단 말은 좀 호들갑인가.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不，說熟好像有點太誇張了吧",
+        "MessageEN": "Eh, \"close\" might be pushing it."
     },
     {
         "MessageId": 160180161,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "とにかく、楽しかったわ",
         "MessageKR": "어쨌건, 오늘 즐거웠어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總之，我今天玩得很開心",
+        "MessageEN": "Anyways, I had fun today."
     },
     {
         "MessageId": 160180170,
@@ -327,8 +327,8 @@
         "ImagePath": "",
         "MessageJP": "毎日遊びに来てほしいくらいだよ",
         "MessageKR": "라브가 매일 놀러 오면 좋겠어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "希望良舞每天都能來玩！",
+        "MessageEN": "I hope you visit every day, Rabu!"
     },
     {
         "MessageId": 160180180,
@@ -339,8 +339,8 @@
         "ImagePath": "",
         "MessageJP": "いつでも歓迎！",
         "MessageKR": "언제든지 찾아와!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "隨時都可以來找我哦！",
+        "MessageEN": "Feel free to drop by anytime!"
     },
     {
         "MessageId": 160180190,
@@ -351,8 +351,8 @@
         "ImagePath": "",
         "MessageJP": "調子いいんだから",
         "MessageKR": "그런 속 좋은 말을 잘도 하네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你還真會說好聽話",
+        "MessageEN": "You say that like it's easy."
     },
     {
         "MessageId": 160180200,
@@ -363,8 +363,8 @@
         "ImagePath": "",
         "MessageJP": "……\u200b",
         "MessageKR": "음,",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯……？",
+        "MessageEN": "Well..."
     },
     {
         "MessageId": 160180201,
@@ -375,7 +375,7 @@
         "ImagePath": "",
         "MessageJP": "言ったわね？",
         "MessageKR": "진짜지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是真的嗎？",
+        "MessageEN": "You mean it, right?"
     }
 ]

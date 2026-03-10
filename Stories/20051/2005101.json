@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、レイサです！",
         "MessageKR": "선생님, 레이사입니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，我是澪紗！",
+        "MessageEN": "Sensei, this is Reisa!"
     },
     {
         "MessageId": 200510020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "お小遣いを賢く使うには、どうしたらいいですか？",
         "MessageKR": "용돈을 어떻게 써야 현명하게 쓸 수 있을까요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請問零用錢要怎麼花才聰明呢？",
+        "MessageEN": "How can I spend my allowance wisely?"
     },
     {
         "MessageId": 200510030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "予算を決めて使うようにすると良いよ",
         "MessageKR": "아무래도 계획적인 소비가 제일 좋지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "果然還是有計劃的消費最好",
+        "MessageEN": "You need a budget plan!"
     },
     {
         "MessageId": 200510040,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "優先順位をつけて、無駄遣いを防ごう",
         "MessageKR": "우선순위를 정해서 쓰는 게 좋아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "建議先決定優先順序再花錢哦",
+        "MessageEN": "Identify your priorities!"
     },
     {
         "MessageId": 200510050,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "なるほど！",
         "MessageKR": "그렇군요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原來如此！",
+        "MessageEN": "I see!"
     },
     {
         "MessageId": 200510060,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "必要なものだけ買う！ってことですね！",
         "MessageKR": "그러면 필요한 물건만 사야겠네요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以是只買必要的東西就好對吧！",
+        "MessageEN": "Then I should only buy what I really need!"
     },
     {
         "MessageId": 200510070,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "レイサは飲み込みが早いね",
         "MessageKR": "레이사는 역시 이해가 빠르네!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "澪紗果然理解得很快！",
+        "MessageEN": "You're quick to catch on, Reisa!"
     },
     {
         "MessageId": 200510080,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "えへへ",
         "MessageKR": "음핫핫",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "耶嘿嘿",
+        "MessageEN": "Mwahaha!"
     },
     {
         "MessageId": 200510090,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "じゃあ、これは必要なものでいいですよね？",
         "MessageKR": "그러면 이건 필요한 것일까요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼，這個算是必要的東西嗎？",
+        "MessageEN": "Then is this something that I need?"
     },
     {
         "MessageId": 200510100,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "「まほリバ　テルミットピンク　フレンドシップフュージョンコスチューム」",
         "MessageKR": "<마법리버 테르밋 핑크 프렌드쉽 퓨전 코스튬>",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "「魔法liber Thermite Pink Friendship Fusion Costume」",
+        "MessageEN": "\"Magicaliber Thermite Pink Friendship Fusion Costume\""
     },
     {
         "MessageId": 200510110,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "相場の半額で出てました！",
         "MessageKR": "시가의 절반 가격으로 올라왔습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在只賣市價的一半！",
+        "MessageEN": "There's a listing that's half off the original price!"
     },
     {
         "MessageId": 200510120,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "相場の半額！？！？！？",
         "MessageKR": "시가의 절반?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "市價的一半！？",
+        "MessageEN": "Half off?!"
     },
     {
         "MessageId": 200510130,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "実質タダじゃん！！買いだよ！！！！",
         "MessageKR": "사실상 공짜 아니야?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那不就跟免費一樣嗎！？",
+        "MessageEN": "Isn't that a steal?!"
     },
     {
         "MessageId": 200510140,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "そうですよね！先生に相談してよかったです！",
         "MessageKR": "역시 선생님께 여쭤보길 잘했습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "問老師是果然是正確的！",
+        "MessageEN": "I'm glad I asked you for advice!"
     },
     {
         "MessageId": 200510150,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "マジカル賢い～！です！",
         "MessageKR": "매지컬- 현명한 소비!!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "Magical～聰明消費！！！",
+        "MessageEN": "Magical! Good spending!!"
     },
     {
         "MessageId": 200500167,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "先生、レイサです",
         "MessageKR": "선생님, 레이사입니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，我是澪紗",
+        "MessageEN": "Sensei, this is Reisa."
     },
     {
         "MessageId": 200510170,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "家についた？",
         "MessageKR": "잘 들어갔어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "順利回家了嗎？",
+        "MessageEN": "Did you get home okay?"
     },
     {
         "MessageId": 200510180,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "はい、おかげさまで！",
         "MessageKR": "넵, 덕분에 잘 들어가서 옷도 갈아입었습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是的。幸虧有老師的幫忙，\n已經順利回家換好衣服了！",
+        "MessageEN": "Yeah, I'm back home, and I got changed too!"
     },
     {
         "MessageId": 200510190,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "上着は洗ってからお返しします！",
         "MessageKR": "외투는 세탁해서 돌려드리겠습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "外套會等洗好之後再還給老師！",
+        "MessageEN": "I'll wash your jacket and return it to you!"
     },
     {
         "MessageId": 200510200,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "急がなくて大丈夫だからね",
         "MessageKR": "서두르지 않아도 오케이야!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不用急，慢慢來也OK哦！",
+        "MessageEN": "No need to rush!"
     },
     {
         "MessageId": 200510210,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "先生はいつも優しいです！",
         "MessageKR": "선생님은 항상 상냥하십니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師總是很溫柔呢！",
+        "MessageEN": "You're always kind, Sensei!"
     },
     {
         "MessageId": 200510220,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "変身の呪いを解いてくださり、ありがとうございます！",
         "MessageKR": "변신의 저주에 걸렸는데 풀어주셔서 감사합니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝你幫我解除變身的詛咒！",
+        "MessageEN": "Thank you for dispelling my transformation curse!"
     },
     {
         "MessageId": 200510230,
@@ -303,7 +303,7 @@
         "ImagePath": "",
         "MessageJP": "へへへっ",
         "MessageKR": "우헤헤",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嘿嘿嘿",
+        "MessageEN": "Heeheehee"
     }
 ]

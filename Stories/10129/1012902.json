@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、スズミです",
         "MessageKR": "선생님. 스즈미입니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，我是鈴美",
+        "MessageEN": "It's Suzumi, Sensei."
     },
     {
         "MessageId": 101290180,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "お聞きしたいことがありまして……",
         "MessageKR": "다름이 아니라, 여쭤볼 게 있습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "其實我有件事想向您請教",
+        "MessageEN": "I have a question."
     },
     {
         "MessageId": 101290181,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "服がすこし、破れてしまったのですが",
         "MessageKR": "옷이 살짝 뜯어졌습니다만…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為衣服稍微有點裂開了……",
+        "MessageEN": "My clothes have a tear."
     },
     {
         "MessageId": 101290182,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "先生がよく使われるお直し店などありましたら、教えていただけますか？",
         "MessageKR": "혹시 선생님께서 자주 가시는 수선집이 있을까요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請問老師有常去的修補店嗎？",
+        "MessageEN": "I was wondering if you know a good tailor."
     },
     {
         "MessageId": 101290190,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "シャーレの近くにいいお店があるよ！",
         "MessageKR": "샬레 근처에 수선집이 있어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "夏萊附近有間修補店",
+        "MessageEN": "There's one near Schale."
     },
     {
         "MessageId": 101290190,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "お世話になってるお店があるよ！",
         "MessageKR": "잘 가는 가게가 있어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有間我常去的店哦！",
+        "MessageEN": "I'm a regular at a shop nearby!"
     },
     {
         "MessageId": 101290200,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとうございます",
         "MessageKR": "감사합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝您",
+        "MessageEN": "Thank you."
     },
     {
         "MessageId": 101290201,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "先生のおすすめなら、間違いないですね",
         "MessageKR": "이런 수선집은 역시 검증된 곳을 찾고 싶었습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "果然修補店還是要找可靠的地方",
+        "MessageEN": "I wanted to find a tailoring shop I knew I could trust."
     },
     {
         "MessageId": 101290202,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "また今度、お会いできたら嬉しいです",
         "MessageKR": "다음에 뵐 수 있으면 좋겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "希望下次能再見到您",
+        "MessageEN": "I look forward to seeing you."
     },
     {
         "MessageId": 101280217,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 101290220,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "さきほどの動画",
         "MessageKR": "아까 찍으신 영상",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "剛才拍的影片",
+        "MessageEN": "The video you took earlier..."
     },
     {
         "MessageId": 101290221,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "まだ残ってますでしょうか",
         "MessageKR": "아직 남아있나요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還在嗎？",
+        "MessageEN": "Do you still have it?"
     },
     {
         "MessageId": 101290230,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "消そうとしていたところだけど",
         "MessageKR": "이제 지우려고 했는데, 무슨 일이니?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我正打算刪掉，怎麼了嗎？",
+        "MessageEN": "I was just about to erase it. Why?"
     },
     {
         "MessageId": 101290230,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "消さないでおく？",
         "MessageKR": "지우지 말까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還是乾脆不刪了？",
+        "MessageEN": "Should I not erase it?"
     },
     {
         "MessageId": 101290240,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "いえ！そうではなく！",
         "MessageKR": "아니, 그게 아닙니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我，我不是那個意思！",
+        "MessageEN": "No, that's not it!"
     },
     {
         "MessageId": 101290241,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "もちろん、消していただきたいのですが！",
         "MessageKR": "당연히 지우셔야 하지만!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然要刪掉！！",
+        "MessageEN": "Of course, you should erase it!!"
     },
     {
         "MessageId": 101290250,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "ただその……服の欠陥は",
         "MessageKR": "혹시 그,",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只是，那個……",
+        "MessageEN": "But um"
     },
     {
         "MessageId": 101290251,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "動画のほうが、見つけやすいかなと",
         "MessageKR": "옷에 하자가 있나…… 싶어서.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我想確認衣服有沒有瑕疵……",
+        "MessageEN": "Are there any...tears or defects in the outfit?"
     },
     {
         "MessageId": 101290260,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "着用時に気づけなかったところも",
         "MessageKR": "영상으로 찍힌 걸 보면 더 알아보기 좋을 듯합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果看影片的話會更容易確認",
+        "MessageEN": "I thought it'd be easier to see in the video."
     },
     {
         "MessageId": 101290261,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "一目でわかりますから",
         "MessageKR": "네, 제가 볼 수 없는 부분도 잘 보일 테니까요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "畢竟有些角度自己無法看清楚",
+        "MessageEN": "Since I'd be able to see it from different angles."
     },
     {
         "MessageId": 101290262,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "それだけですので",
         "MessageKR": "그 목적뿐입니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就只是這樣而已",
+        "MessageEN": "That's the only reason."
     },
     {
         "MessageId": 101290270,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "さきほどの動画を、送っていただけますでしょうか",
         "MessageKR": "그러니, 아까 찍은 영상. 보내주시면 감사하겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以，如果能把剛才拍的影片傳給我就太感謝了",
+        "MessageEN": "So, if you could send me the video you took..."
     },
     {
         "MessageId": 101290271,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "私に送った後は、消してください！",
         "MessageKR": "물론, 보낸 다음엔 지워주셔야 합니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然，傳完之後請一定要刪掉！",
+        "MessageEN": "You should still erase it after you send it, though!"
     },
     {
         "MessageId": 101290272,
@@ -315,7 +315,7 @@
         "ImagePath": "",
         "MessageJP": "絶対にです！",
         "MessageKR": "꼭입니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "一定要！",
+        "MessageEN": "It's a promise!"
     }
 ]

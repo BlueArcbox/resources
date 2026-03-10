@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、スズミです",
         "MessageKR": "선생님. 스즈미입니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，我是鈴美",
+        "MessageEN": "It's Suzumi, Sensei."
     },
     {
         "MessageId": 101290450,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今週末のご予定をうかがっても良いでしょうか",
         "MessageKR": "혹시, 주말에 바쁘신가요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請問您這個週末有空嗎？",
+        "MessageEN": "By any chance, are you busy this weekend?"
     },
     {
         "MessageId": 101290460,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "特にないかな",
         "MessageKR": "별다른 일정은 없단다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒什麼特別的安排",
+        "MessageEN": "I don't have anything scheduled!"
     },
     {
         "MessageId": 101290470,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "そうなのですね",
         "MessageKR": "그렇군요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原來如此",
+        "MessageEN": "I see."
     },
     {
         "MessageId": 101290471,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "もしよろしければ、私と一緒に",
         "MessageKR": "혹시 그러면 이번 주말에,",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼如果您不介意的話",
+        "MessageEN": "In that case, would you"
     },
     {
         "MessageId": 101290472,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "遊園地に行きませんか？",
         "MessageKR": "같이 유원지에 가주실 수 있을까요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "能請您陪我去遊樂園嗎？",
+        "MessageEN": "go to an amusement park with me this weekend?"
     },
     {
         "MessageId": 101290480,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "よろこんで！",
         "MessageKR": "오, 좋아!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哦～好啊！",
+        "MessageEN": "Ooh, sounds great!"
     },
     {
         "MessageId": 101290490,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "そう言っていただけて嬉しいです",
         "MessageKR": "감사합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝您",
+        "MessageEN": "Thank you."
     },
     {
         "MessageId": 101290491,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "いつもご快諾くださりありがとうございます",
         "MessageKR": "갑작스러운 제안에도 늘 기쁘게 받아주셔서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總是欣然接受我突然的提議",
+        "MessageEN": "Thank you for always fulfilling"
     },
     {
         "MessageId": 101290492,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "それでは、集合場所は後ほど改めて",
         "MessageKR": "항상 감사합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真的非常感謝",
+        "MessageEN": "my sudden requests."
     },
     {
         "MessageId": 101280507,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "先生、スズミです\u200b",
         "MessageKR": "선생님. 스즈미입니다.\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，我是鈴美\u200b",
+        "MessageEN": "It's Suzumi, Sensei.\u200b"
     },
     {
         "MessageId": 101290510,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "改めて。いつも温かいお言葉をくださり本当にありがとうございます",
         "MessageKR": "항상 제게 힘을 주셔서 감사합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真的由衷感謝您總是帶給我很多力量",
+        "MessageEN": "Thank you for always supporting me."
     },
     {
         "MessageId": 101290511,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "とても励みになりました",
         "MessageKR": "특히, 요새 더 힘이 되었습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "尤其最近更是如此",
+        "MessageEN": "Especially lately."
     },
     {
         "MessageId": 101290520,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "……",
         "MessageKR": "…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……",
+        "MessageEN": "..."
     },
     {
         "MessageId": 101290521,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "これからもよろしくお願いします",
         "MessageKR": "앞으로도 잘 부탁드립니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今後也請您多多指教",
+        "MessageEN": "I look forward to our continued work together."
     },
     {
         "MessageId": 101290530,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "こちらこそよろしくね、スズミ！",
         "MessageKR": "스즈미, 나야말로 잘 부탁해!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "鈴美，我也請你多多指教哦！",
+        "MessageEN": "The honor's mine, Suzumi!"
     },
     {
         "MessageId": 101290540,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "これからも、守ってくれる？テルミットホワイト！",
         "MessageKR": "앞으로도 지켜줄래? 테르밋 화이트!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "之後也會守護我嗎？Thermite White！",
+        "MessageEN": "Will you continue to protect me, Thermite White?"
     },
     {
         "MessageId": 101290550,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "せ、先生！それは任務で仕方なく言っているだけで……！",
         "MessageKR": "그건 어쩔 수 없이 한 역할극입니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那只是不得已的角色扮演！",
+        "MessageEN": "I had no choice but to role play back then!"
     },
     {
         "MessageId": 101290551,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "……\u200b",
         "MessageKR": "…….\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……\u200b",
+        "MessageEN": "...\u200b"
     },
     {
         "MessageId": 101290560,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "もちろん、いついかなる時でも",
         "MessageKR": "물론, 언제 어느 때라도",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然，無論何時何地",
+        "MessageEN": "Of course, no matter where or when,"
     },
     {
         "MessageId": 101290561,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "先生は私がお守りしますが",
         "MessageKR": "선생님은 제가 지켜드리겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我都一定會守護老師您的",
+        "MessageEN": "I'll protect you, Sensei."
     },
     {
         "MessageId": 101290570,
@@ -291,7 +291,7 @@
         "ImagePath": "",
         "MessageJP": "……またお会いしましょう",
         "MessageKR": "……또 뵙겠습니다. 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……下次再見，老師",
+        "MessageEN": "...Until then, Sensei."
     }
 ]

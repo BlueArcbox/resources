@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "66307366979",
         "MessageKR": "66307366979",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "66307366979",
+        "MessageEN": "66307366979"
     },
     {
         "MessageId": 200510250,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "レイサ？",
         "MessageKR": "이게 뭐니?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這是什麼？",
+        "MessageEN": "What is this?"
     },
     {
         "MessageId": 200510260,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "はっ",
         "MessageKR": "헉",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦",
+        "MessageEN": "Oh."
     },
     {
         "MessageId": 200510270,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "あっ",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah."
     },
     {
         "MessageId": 200510280,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "すみません！間違えました！",
         "MessageKR": "선생님 모모톡이었군요!!!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原來這是老師的MomoTalk！！！！",
+        "MessageEN": "I didn't know this was my chat with you!"
     },
     {
         "MessageId": 200510290,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "先生のモモトークに送ってしまいました！",
         "MessageKR": "자신에게 보내기로 보낸 줄 알았는데!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我本來是想傳給自己的說！！",
+        "MessageEN": "I thought I sent it to myself!!"
     },
     {
         "MessageId": 200510300,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "週末のイベントの予約番号を",
         "MessageKR": "주말에 행사가 있어서 예약 번호를 저장해두려고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為週末有個活動",
+        "MessageEN": "There's an event this weekend,"
     },
     {
         "MessageId": 200510310,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "自分に送るつもりが……",
         "MessageKR": "그래서 제게 보낸 거였습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我才會打算把預約的號碼傳給自己",
+        "MessageEN": "so I was trying to send myself my reservation number."
     },
     {
         "MessageId": 200510320,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "お！何のイベント？",
         "MessageKR": "오, 무슨 행사?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哦～是什麼活動呢？",
+        "MessageEN": "Oh, what kind of event?"
     },
     {
         "MessageId": 200510330,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "魔法少女のオンリーイベントです",
         "MessageKR": "별건 아니고, 마법소녀 온리전이라는 행사입니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "其實也沒什麼，只是魔法少女的Only展而已",
+        "MessageEN": "It's nothing crazy! It's the Magical Girl Convention."
     },
     {
         "MessageId": 200510340,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "魔法少女モノのファンが集まってグッズを売ったり、コスプレをする",
         "MessageKR": "마법소녀물만 잔뜩 모여서 굿즈도 팔고, 코스프레도 하고,",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "除了會聚集很多魔法少女作品，還會販售周邊或Cosplay",
+        "MessageEN": "It's an event centered around"
     },
     {
         "MessageId": 200510350,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "そんなイベントです！",
         "MessageKR": "그런 행사입니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就是這樣的活動！",
+        "MessageEN": "magical girls, with merch, cosplays, and all that!"
     },
     {
         "MessageId": 200510360,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "自警団として、パトロールに行かねばと思いまして！",
         "MessageKR": "자경단이라면 순찰 한번 돌아야 할 것 같아서요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "身為自衛隊的一員，感覺應該過去巡邏一下！",
+        "MessageEN": "I thought the Vigilante Crew should help with security!"
     },
     {
         "MessageId": 200510370,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "私も行きたいな！",
         "MessageKR": "헉 나도 갈래!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這樣啊，那我也要去！",
+        "MessageEN": "Oh! I want to go too!"
     },
     {
         "MessageId": 200510380,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "今からでも間に合う？",
         "MessageKR": "아직 티켓 남아있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還有票嗎？",
+        "MessageEN": "Do they still have tickets left?"
     },
     {
         "MessageId": 200510390,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "！！",
         "MessageKR": "!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "！！",
+        "MessageEN": "!!"
     },
     {
         "MessageId": 200510400,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "もちろんです！",
         "MessageKR": "물론입니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然有！",
+        "MessageEN": "Of course!"
     },
     {
         "MessageId": 200510410,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "先生も行きますか！",
         "MessageKR": "선생님도 오시나요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師也要參加嗎！",
+        "MessageEN": "Wow! You're really coming too?"
     },
     {
         "MessageId": 200510420,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "「行く」じゃない。",
         "MessageKR": "'간다'기보다는……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "與其說是「參加」……",
+        "MessageEN": "More than that..."
     },
     {
         "MessageId": 200510430,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "「参戦」……するとしようか！",
         "MessageKR": "'강림'이라 해다오.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不如說是「參戰」吧！",
+        "MessageEN": "I'm...descending..."
     },
     {
         "MessageId": 200510440,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "カッコいい！！",
         "MessageKR": "캬.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哇！",
+        "MessageEN": "Whoa."
     },
     {
         "MessageId": 200510450,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "いいですね！！",
         "MessageKR": "좋습니다!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "太棒了！！",
+        "MessageEN": "Sounds perfect!!"
     },
     {
         "MessageId": 200510460,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "私も完全武装で向かいます！！",
         "MessageKR": "완전 무장으로 가겠습니다!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那我也會全副武裝過去的！！",
+        "MessageEN": "I'll go all out and dress up too!"
     },
     {
         "MessageId": 200500477,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "先生！",
         "MessageKR": "선생님!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師！",
+        "MessageEN": "Sensei!"
     },
     {
         "MessageId": 200510480,
@@ -327,8 +327,8 @@
         "ImagePath": "",
         "MessageJP": "今日はとても楽しかったです！",
         "MessageKR": "오늘 너무 즐거웠습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天真的很開心！",
+        "MessageEN": "I had so much fun today!"
     },
     {
         "MessageId": 200510490,
@@ -339,8 +339,8 @@
         "ImagePath": "",
         "MessageJP": "先生が背中を押してくださったから",
         "MessageKR": "제가 용기를 못 낼 때마다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "每次我鼓不起勇氣的時候",
+        "MessageEN": "Thank you for supporting me"
     },
     {
         "MessageId": 200510500,
@@ -351,8 +351,8 @@
         "ImagePath": "",
         "MessageJP": "私も勇気を出すことができました！",
         "MessageKR": "항상 도와주셔서 감사합니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝你總是幫助我！",
+        "MessageEN": "and pushing me to try things!"
     },
     {
         "MessageId": 200510510,
@@ -363,8 +363,8 @@
         "ImagePath": "",
         "MessageJP": "レイサのためなら、なんでもするからね！",
         "MessageKR": "레이사가 기쁘다면 얼마든지!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只要澪紗開心，我隨時都樂意幫忙！",
+        "MessageEN": "Whatever makes you happy, Reisa!"
     },
     {
         "MessageId": 200510520,
@@ -375,8 +375,8 @@
         "ImagePath": "",
         "MessageJP": "えへへ",
         "MessageKR": "우헤",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "耶嘿嘿",
+        "MessageEN": "Heehee"
     },
     {
         "MessageId": 200510530,
@@ -387,7 +387,7 @@
         "ImagePath": "",
         "MessageJP": "またお会いしましょう！",
         "MessageKR": "다음에 또 뵙겠습니닷!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下次再見！！",
+        "MessageEN": "I'll see you next time then!"
     }
 ]

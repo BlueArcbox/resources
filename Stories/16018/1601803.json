@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、私だけど",
         "MessageKR": "선생. 나 라브인데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，我是良舞",
+        "MessageEN": "Sensei. Rabu here."
     },
     {
         "MessageId": 160180350,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今どこにいるかはともかく、走ってないわよね？",
         "MessageKR": "지금 어디든지 간에 뛰어오는 거 아니지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不管你現在在哪，應該不會又朝我跑過來吧？",
+        "MessageEN": "You're not going to come barreling out of nowhere again, are you?"
     },
     {
         "MessageId": 160180360,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "とりあえずロビーまで走ったけど……",
         "MessageKR": "일단 뛰었는데…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我已經開跑了……",
+        "MessageEN": "I'm on my way."
     },
     {
         "MessageId": 160180370,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "もしかして、先生って結構バカ？",
         "MessageKR": "진짜 바보야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你真的是笨蛋嗎？",
+        "MessageEN": "Are you really an idiot?"
     },
     {
         "MessageId": 160180380,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "まあいいわ。この前、ブラックマーケットでいいものを見つけたんだけど",
         "MessageKR": "다른 게 아니고, 블랙마켓에서 좋은 걸 찾았거든.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "先不說這個，其實我在黑市找到了好東西",
+        "MessageEN": "Anyways, I got something good from the Black Market."
     },
     {
         "MessageId": 160180381,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "あ、危険なやつじゃなくて、役に立つものよ",
         "MessageKR": "위험한 그런 거 아니고, 진짜 유용한 거야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不是危險的東西，真的很有幫助",
+        "MessageEN": "It's nothing dangerous. It's something really useful."
     },
     {
         "MessageId": 160180382,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "もしかしたら先生の役に立つかもって",
         "MessageKR": "선생한테 혹시 도움 될까 해서 알려주려고 하는데,",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "想說也許能幫到老師，所以才跟你說一聲",
+        "MessageEN": "And so I thought you might like it."
     },
     {
         "MessageId": 160180390,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "？",
         "MessageKR": "?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "？",
+        "MessageEN": "?"
     },
     {
         "MessageId": 160180391,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "また走ってる？",
         "MessageKR": "또 뛰어오는 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "又要跑過來嗎？",
+        "MessageEN": "Are you running again?"
     },
     {
         "MessageId": 160180392,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "ねえ",
         "MessageKR": "아니지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不是吧？",
+        "MessageEN": "No, right?"
     },
     {
         "MessageId": 160180400,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "先生？",
         "MessageKR": "선생??",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師？？",
+        "MessageEN": "Sensei???"
     },
     {
         "MessageId": 160170417,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 160180420,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "あの自販機おかしいわ",
         "MessageKR": "그 자판기 이상한가 봐.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那台販賣機好像怪怪的",
+        "MessageEN": "That vending machine is weird."
     },
     {
         "MessageId": 160180421,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "うち、リンゴジュースにしたんだけど",
         "MessageKR": "난 분명 사과주스를 뽑았는데,",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我買的明明是蘋果汁",
+        "MessageEN": "I'm sure I got apple juice,"
     },
     {
         "MessageId": 160180422,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "パインみたいな味がする",
         "MessageKR": "파인애플 같은 맛이 나네…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "結果喝起來卻有鳳梨的味道……",
+        "MessageEN": "but it tasted like pineapple..."
     },
     {
         "MessageId": 160180430,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "傷んでるのかしら？先生は大丈夫？",
         "MessageKR": "상했나? 선생은 괜찮아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是不是壞掉了啊？老師沒事吧？",
+        "MessageEN": "Maybe it was expired? How about you, Sensei?"
     },
     {
         "MessageId": 160180431,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "お腹とか壊してない？",
         "MessageKR": "배탈 안 났어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有沒有喝壞肚子？",
+        "MessageEN": "You didn't get food poisoning, did you?"
     },
     {
         "MessageId": 160180440,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "私のパインジュースはリンゴの味がするよ",
         "MessageKR": "그러게, 내 파인애플주스는 사과 맛이 나던데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我的鳳梨汁喝起來是蘋果的味道耶",
+        "MessageEN": "Huh, my pineapple juice tasted like apples."
     },
     {
         "MessageId": 160180450,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "そう？変ね……",
         "MessageKR": "그래? 이상하네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是嗎？真奇怪",
+        "MessageEN": "Is that so? That's weird."
     },
     {
         "MessageId": 160180460,
@@ -267,7 +267,7 @@
         "ImagePath": "",
         "MessageJP": "ってちょっと！？",
         "MessageKR": "아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah."
     }
 ]

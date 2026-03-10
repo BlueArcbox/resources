@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、今大丈夫かしら",
         "MessageKR": "선생, 시간 괜찮아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，現在有空嗎？",
+        "MessageEN": "Sensei, do you have a second?"
     },
     {
         "MessageId": 160180220,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "ああ、忙しいなら気にしないで",
         "MessageKR": "아, 바쁘면 어쩔 수 없구.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，如果在忙的話就算了",
+        "MessageEN": "Ah, don't worry about it if you're busy."
     },
     {
         "MessageId": 160180230,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "こんにちは、ラブ",
         "MessageKR": "라브, 안녕.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗨，良舞",
+        "MessageEN": "Hi, Rabu."
     },
     {
         "MessageId": 160180230,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "どうしたの？",
         "MessageKR": "무슨 일이니?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼了嗎？",
+        "MessageEN": "What's going on?"
     },
     {
         "MessageId": 160180240,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "今日はやけに落ち着いてるじゃない",
         "MessageKR": "뭐야, 오늘은 좀 차분하네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哦，今天還挺冷靜的嘛",
+        "MessageEN": "You seem a lot more chill today."
     },
     {
         "MessageId": 160180250,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "さっき、先生を見かけたんだけど",
         "MessageKR": "별건 아니고, 지금 지나가는데 선생님이 보였어서.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "其實也沒什麼，只是剛才路過的時候看到老師",
+        "MessageEN": "Nothing. I just saw you while I was out"
     },
     {
         "MessageId": 160180251,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "疲れてるように見えたわよ。ちゃんと寝",
         "MessageKR": "좀 피곤해 보이던데, 요새 잠은 잘ㄹ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "看起來有點累的樣子，最近有好好睡──",
+        "MessageEN": "You seemed tired, are you getting enough"
     },
     {
         "MessageId": 160180252,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "この足音……また走ってきてる！？",
         "MessageKR": "또 달려오는 거야?!!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "又跑過來了嗎！？！？",
+        "MessageEN": "Are you running at me again?!?!"
     },
     {
         "MessageId": 160170267,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "先生って",
         "MessageKR": "선생.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 160180270,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "いつもあんなこと言ってるの？",
         "MessageKR": "맨날 그런 식이야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你每次都這樣嗎？",
+        "MessageEN": "Are you always like this?"
     },
     {
         "MessageId": 160180280,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "冗談抜きに？",
         "MessageKR": "장난으로 그런 말 하는 건 아니지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不是在開玩笑？",
+        "MessageEN": "You're not joking?"
     },
     {
         "MessageId": 160180290,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "もちろん！",
         "MessageKR": "장난 아니야!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不是！",
+        "MessageEN": "I'm not joking!"
     },
     {
         "MessageId": 160180290,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "いつもそう思ってるからね！",
         "MessageKR": "항상 그렇게 생각하는걸?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我一直都是這麼想的！",
+        "MessageEN": "This is how I am!"
     },
     {
         "MessageId": 160180300,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "はぁ、いいわもう",
         "MessageKR": "말을 말자 진짜.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "算了，不說這些了",
+        "MessageEN": "Forget it."
     },
     {
         "MessageId": 160180301,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "でも、うちの子たちの前では言わないでよ？",
         "MessageKR": "우리 애들 앞에서는 그런 말 하지 마!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "在我家的孩子們面前可別說這種話哦！",
+        "MessageEN": "Don't say that in front of my gang, okay?!"
     },
     {
         "MessageId": 160180310,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "もちろん",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah."
     },
     {
         "MessageId": 160180311,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "他の子の前でもね。もし言ったら",
         "MessageKR": "다른 사람들 앞에서는 당연히 하지 말고!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然在其他人面前也別說！",
+        "MessageEN": "Or in front of anyone else, really!"
     },
     {
         "MessageId": 160180312,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "あ、これは ",
         "MessageKR": "아니 그러니까 내 말은",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "等等，剛才那句話",
+        "MessageEN": "I mean, what I'm trying to say is"
     },
     {
         "MessageId": 160180320,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "他の子にあんなこと言わないように、って意味じゃなくて！",
         "MessageKR": "다른 애들한테 그런 말 하지 말란 게 아니라!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不是要你不能對其他孩子說這種話的意思！",
+        "MessageEN": "You shouldn't ever say it again!"
     },
     {
         "MessageId": 160180330,
@@ -267,7 +267,7 @@
         "ImagePath": "",
         "MessageJP": "あーもう！なんでもない！！",
         "MessageKR": "됐어!!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "算了！不說了啦！！！",
+        "MessageEN": "Forget it!!"
     }
 ]

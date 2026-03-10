@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、レイサです",
         "MessageKR": "선생님, 레이사입니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，我是澪紗",
+        "MessageEN": "Sensei, this is Reisa."
     },
     {
         "MessageId": 200510720,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "先日ファスナーを直していただいたときの備品",
         "MessageKR": "혹시, 저번에 써주셨던 공구",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請問之前的那個工具",
+        "MessageEN": "By any chance, do you still"
     },
     {
         "MessageId": 200510730,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "まだありますか？",
         "MessageKR": "아직도 있으신가요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在還在嗎？",
+        "MessageEN": "have the tool you used last time?"
     },
     {
         "MessageId": 200510740,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "もちろん！どうしたの？",
         "MessageKR": "당연히 있지. 왜 그러니?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然在囉。怎麼了嗎？",
+        "MessageEN": "Of course I do. What's the matter?"
     },
     {
         "MessageId": 200510750,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "同じ過ちを繰り返してしまう私って",
         "MessageKR": "한번 당한 일을 한 번 더 당하는 것은",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "會犯相同錯誤的人",
+        "MessageEN": "Fool me once, shame on you"
     },
     {
         "MessageId": 200510760,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "バカ……ですよね……",
         "MessageKR": "바보……겠지요…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "果然是個笨蛋……對吧……",
+        "MessageEN": "Fool me twice, shame on me..."
     },
     {
         "MessageId": 200510770,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "まさか……？",
         "MessageKR": "설마, 저번처럼……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "難道又跟上次一樣……？",
+        "MessageEN": "Is this...deja vu?"
     },
     {
         "MessageId": 200510780,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "またファスナーが……？",
         "MessageKR": "또 지퍼가 고장 난 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是拉鍊壞掉了嗎？",
+        "MessageEN": "The zipper broke?"
     },
     {
         "MessageId": 200510790,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "……",
         "MessageKR": "……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……",
+        "MessageEN": "..."
     },
     {
         "MessageId": 200510800,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "シャーレに伺います……",
         "MessageKR": "샬레로 찾아뵙겠습니다…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我這就過去夏萊……",
+        "MessageEN": "I'll come to Schale..."
     },
     {
         "MessageId": 200500817,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "先生！",
         "MessageKR": "선생님!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師！",
+        "MessageEN": "Sensei!"
     },
     {
         "MessageId": 200510820,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "おかげさまで危機は去りました！",
         "MessageKR": "이제 저는 더 이상 옷에 갇히지 않습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我再也不會被衣服困住了！",
+        "MessageEN": "I will never be trapped in the outfit again!"
     },
     {
         "MessageId": 200510830,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "もうファスナーが壊れることはありません！",
         "MessageKR": "지퍼가 더 이상 고장 나지 않거든요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為拉鍊再也不會壞了！",
+        "MessageEN": "As the zipper won't break anymore!"
     },
     {
         "MessageId": 200510840,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "私は無敵です！",
         "MessageKR": "무적 그 자체입니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "簡直無敵！",
+        "MessageEN": "I'm invincible!"
     },
     {
         "MessageId": 200510850,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "お！どうやったの？",
         "MessageKR": "오, 어떻게 고쳤는데?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哦，你是怎麼修好的？",
+        "MessageEN": "Oh? How did you fix it?"
     },
     {
         "MessageId": 200510860,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "ふふ、簡単なことです",
         "MessageKR": "후후, 간단합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵，很簡單",
+        "MessageEN": "Fufu, it's simple."
     },
     {
         "MessageId": 200510870,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "ファスナーを外して、全部ボタンにしました！",
         "MessageKR": "지퍼를 떼어내고 다 단추로 바꿨습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我把拉鍊拆掉，全部換成鈕扣了！",
+        "MessageEN": "I took the zipper out and replaced it with buttons!"
     },
     {
         "MessageId": 200510880,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "それだと、一人で着れなくなるんじゃ……",
         "MessageKR": "그러면 혼자서 못 입는 거 아니야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那樣不就沒辦法自己穿上了嗎？",
+        "MessageEN": "Doesn't that mean you can't put it on by yourself?"
     },
     {
         "MessageId": 200510890,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "え……",
         "MessageKR": "어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Um..."
     },
     {
         "MessageId": 200510900,
@@ -267,7 +267,7 @@
         "ImagePath": "",
         "MessageJP": "えっ？",
         "MessageKR": "어??",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊？？",
+        "MessageEN": "Oh??"
     }
 ]
