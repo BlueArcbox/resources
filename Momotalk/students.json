@@ -10927,5 +10927,57 @@
             "ItemId": 10063,
             "ItemType": "パジャマ"
         }
+    },
+    {
+        "Id": 10137,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10137.webp"
+        ],
+        "Name": {
+            "jp": "コノカ",
+            "kr": "코노카",
+            "zh": "心华"
+        },
+        "Bio": {
+            "jp": "機種変したんで、連絡先飛んでまーす",
+            "kr": "폰 바꿔서 연락처 날아갔습니다.",
+            "zh": "换了手机，联络方式都逃走啦。"
+        },
+        "Nickname": [
+            "konoka"
+        ],
+        "Birthday": "8/19",
+        "Age": "16歳",
+        "School": "Valkyrie",
+        "Club": "PublicPeaceBureau",
+        "Star": 3,
+        "Released": true,
+        "Related": null
+    },
+    {
+        "Id": 10138,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10138.webp"
+        ],
+        "Name": {
+            "jp": "レナ",
+            "kr": "레나",
+            "zh": "莱娜"
+        },
+        "Bio": {
+            "jp": "オカルトなんて絶対信じないんだから！",
+            "kr": "미신 따위 안 믿어!",
+            "zh": "神秘学什么的我绝对不信！"
+        },
+        "Nickname": [
+            "Rena"
+        ],
+        "Birthday": "9/21",
+        "Age": "15歳",
+        "School": "WildHunt",
+        "Club": "OccultClub",
+        "Star": 3,
+        "Released": true,
+        "Related": null
     }
 ]

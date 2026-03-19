@@ -1,0 +1,81 @@
+[
+    {
+        "CharacterId": 10137,
+        "MessageJP": "コノカ",
+        "MessageKR": "코노카",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101360320,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 101370320,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 101370320,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101370330,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ちわーっす、先生",
+        "MessageKR": "안녕하십니까? 선생님.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101370330,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101370340,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "今日のラッキー行動は、「バディと一緒に行動する」だそうです！",
+        "MessageKR": "오늘의 운세는 '버디가 있어야 한다', 랍니다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101370340,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101370341,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "てなわけで、今日一日あたしのバディになってくれませんか？",
+        "MessageKR": "그래서 말인데, 오늘 하루 버디가 되어주시는 건 어떻겠습니까?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101370341,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101360347,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "よろしくお願いします！",
+        "MessageKR": "기대하겠습니다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101360347,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "コノカの絆イベントへ",
+        "MessageKR": "코노카의 인연스토리로",
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
+    }
+]

@@ -2104,6 +2104,32 @@
             false
         ]
     },
+    "10137": {
+        "kivo_id": 378,
+        "avatar": "https://static.kivo.wiki/images/students/志真 心华/original/Student_Portrait_CH0264_Collection.png",
+        "momotalk": "换了手机，联络方式都逃走啦。",
+        "name_en": "konoka",
+        "name_jp": "コノカ",
+        "name_zh": "心华",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
+    "10138": {
+        "kivo_id": 550,
+        "avatar": "https://static.kivo.wiki/images/students/衣斐 莱娜/original/rena.png",
+        "momotalk": "神秘学什么的我绝对不信！",
+        "name_en": "Rena",
+        "name_jp": "レナ",
+        "name_zh": "莱娜",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
     "13000": {
         "kivo_id": 24,
         "gamekee_id": 66752,
