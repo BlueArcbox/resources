@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "こちらの番号……",
         "MessageKR": "확인차 연락드립니다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請容我確認一下",
+        "MessageEN": "Just checking."
     },
     {
         "MessageId": 101300020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "先生のもので合っていますか？",
         "MessageKR": "이 번호",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這個號碼",
+        "MessageEN": "This number"
     },
     {
         "MessageId": 101300021,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "確認のために、ご連絡しました",
         "MessageKR": "선생님 번호 맞는 거죠?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是老師沒錯吧？",
+        "MessageEN": "is Sensei, right?"
     },
     {
         "MessageId": 101300030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "合ってるよ、大丈夫",
         "MessageKR": "맞답니다. 스바루 학생.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒錯哦，昴同學",
+        "MessageEN": "That's correct, Subaru."
     },
     {
         "MessageId": 101300040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "よかったです",
         "MessageKR": "다행이네요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "太好了",
+        "MessageEN": "That's a relief."
     },
     {
         "MessageId": 101300050,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "近況をご報告します",
         "MessageKR": "다음은 현황 보고입니다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "接下來是現況報告",
+        "MessageEN": "Next up, status report."
     },
     {
         "MessageId": 101300051,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "色々あって",
         "MessageKR": "어쩌다 보니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "由於各種原因",
+        "MessageEN": "I ended up"
     },
     {
         "MessageId": 101300052,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "アリウスの見回りをすることになりました",
         "MessageKR": "아리우스의 순찰을 맡게 되었어요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我接下了奧利斯的巡邏工作",
+        "MessageEN": "taking over patrols in Arius."
     },
     {
         "MessageId": 101300060,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "見回り？",
         "MessageKR": "순찰?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "巡邏？",
+        "MessageEN": "Patrols?"
     },
     {
         "MessageId": 101300070,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "はい",
         "MessageKR": "네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是的",
+        "MessageEN": "Yes."
     },
     {
         "MessageId": 101300071,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "取り急ぎ、ご報告までに",
         "MessageKR": "그렇게 되었다고만 알아주세요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就當作是這樣吧",
+        "MessageEN": "Just updating you."
     },
     {
         "MessageId": 101300080,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "そっか",
         "MessageKR": "그렇구만.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原來如此",
+        "MessageEN": "I see."
     },
     {
         "MessageId": 101300090,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "じゃあ早速",
         "MessageKR": "그렇다면 이렇게 인연이 통했으니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼這也算是有緣",
+        "MessageEN": "So that means..."
     },
     {
         "MessageId": 101300100,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "アリウスに行かないとね！",
         "MessageKR": "아리우스에 한번 들러야겠네!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我就去奧利斯看看吧！",
+        "MessageEN": "I should pay a visit to Arius!"
     },
     {
         "MessageId": 101300110,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "え？",
         "MessageKR": "네?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？",
+        "MessageEN": "What? You're coming here?"
     },
     {
         "MessageId": 101300111,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "どうしてですか？",
         "MessageKR": "그건 도대체 무슨 논리인가요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這是什麼邏輯？",
+        "MessageEN": "I'm not following your logic!"
     },
     {
         "MessageId": 101290117,

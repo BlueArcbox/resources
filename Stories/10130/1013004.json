@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "こんにちは、先生",
         "MessageKR": "안녕하세요 선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你好，老師",
+        "MessageEN": "Hello Sensei."
     },
     {
         "MessageId": 101300300,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今日は休日ですが、いかがお過ごしでしょう？",
         "MessageKR": "오늘은 공휴일인데 쉬시나요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天是假日，老師也在休息嗎？",
+        "MessageEN": "Are you off for today?"
     },
     {
         "MessageId": 101300310,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "昨日なんとか仕事片づけたから……",
         "MessageKR": "다행히 어제 야근을 해 둬서……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "幸虧昨天有加班……",
+        "MessageEN": "Only because I worked OT yesterday."
     },
     {
         "MessageId": 101300310,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "今日は休めるんだ……",
         "MessageKR": "오늘은 쉴 수 있어……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天才可以休息……",
+        "MessageEN": "I can finally...take a break..."
     },
     {
         "MessageId": 101300320,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "大人は仕事を終わらせないと休めないんですね……",
         "MessageKR": "어른은 일을 끝내지 않으면 쉴 수도 없는 거군요……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原來大人沒把工作做完就不能休息啊……",
+        "MessageEN": "So adults can't take a break unless they've finished their work..."
     },
     {
         "MessageId": 101300330,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "つらい……子供になろうかな",
         "MessageKR": "응애 나도 어린이 될래",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗚嗚，我也想當個孩子",
+        "MessageEN": "Waaah, I want to be a child too."
     },
     {
         "MessageId": 101300330,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "スバルせんぱーい、おやつちょーだい",
         "MessageKR": "스바루 선배 간식 줘요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "昴前輩～我想吃零食",
+        "MessageEN": "Gib me snacks, Subaru..."
     },
     {
         "MessageId": 101300340,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "何言ってるんですか！？もう……",
         "MessageKR": "남사스럽게 무슨 말씀이세요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "別說那種令人害羞的話！",
+        "MessageEN": "Act your age!"
     },
     {
         "MessageId": 101300341,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "私の方はですね",
         "MessageKR": "하여간에 정말이지……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真是的……",
+        "MessageEN": "Seriously..."
     },
     {
         "MessageId": 101300350,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "この間のバイト代のおかげで",
         "MessageKR": "예전 아르바이트 추가 수당 덕분에",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為之前打工的額外津貼",
+        "MessageEN": "I got a bit of pocket money"
     },
     {
         "MessageId": 101300351,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと余裕ができたのですが",
         "MessageKR": "약간 돈이 생겼어요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在手頭上稍微有點錢了",
+        "MessageEN": "from my last job."
     },
     {
         "MessageId": 101300352,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "何に使えばいいのかと",
         "MessageKR": "그런데 이걸로 뭘 해야 할지 모르겠네요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但是不知道該拿來做什麼",
+        "MessageEN": "But I'm not sure what I want to do with it."
     },
     {
         "MessageId": 101300360,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "何かしたいこととか、欲しいものはない？",
         "MessageKR": "뭔가 하고 싶은 거나 사고 싶은 거 없어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有什麼想做的事或想買的東西嗎？",
+        "MessageEN": "Is there anything you want to do or buy?"
     },
     {
         "MessageId": 101300370,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "え？",
         "MessageKR": "네?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？",
+        "MessageEN": "What?"
     },
     {
         "MessageId": 101300380,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "あー",
         "MessageKR": "어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Uh..."
     },
     {
         "MessageId": 101300390,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "うーん",
         "MessageKR": "음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔嗯",
+        "MessageEN": "Mm"
     },
     {
         "MessageId": 101300391,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "んー……",
         "MessageKR": "그게",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這個嘛",
+        "MessageEN": "Well"
     },
     {
         "MessageId": 101300392,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "ないことも",
         "MessageKR": "없지는",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "其實",
+        "MessageEN": "It's not like"
     },
     {
         "MessageId": 101300393,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "ないんですが",
         "MessageKR": "않은데요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "倒也不是沒有",
+        "MessageEN": "there's nothing..."
     },
     {
         "MessageId": 101290407,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "しばらく風に当たっていたせいか",
         "MessageKR": "저녁 바람을 너무 맞았더니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可能是因為吹了太多晚風",
+        "MessageEN": "That was too much evening breeze."
     },
     {
         "MessageId": 101300401,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "体が冷えた気がします",
         "MessageKR": "뭔가 으슬으슬하네요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "感覺身體有點冷",
+        "MessageEN": "I'm cold."
     },
     {
         "MessageId": 101300410,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "責任とってください、先生",
         "MessageKR": "책임져 주세요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請你負起責任",
+        "MessageEN": "Are you going to take responsibility?"
     },
     {
         "MessageId": 101300420,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "どのように責任を取りましょう！？",
         "MessageKR": "……어떻게 책임지면 되나요……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我該怎麼負責……？",
+        "MessageEN": "...How should I do that...?"
     },
     {
         "MessageId": 101300430,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "冗談です",
         "MessageKR": "농담이에요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "開玩笑的",
+        "MessageEN": "I'm just kidding."
     },
     {
         "MessageId": 101300440,
@@ -327,8 +327,8 @@
         "ImagePath": "",
         "MessageJP": "その代わり",
         "MessageKR": "그 대신",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過相對地",
+        "MessageEN": "But instead,"
     },
     {
         "MessageId": 101300441,
@@ -339,8 +339,8 @@
         "ImagePath": "",
         "MessageJP": "またショッピングに付き合ってくださいね",
         "MessageKR": "다음에도 같이 쇼핑 가 주세요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下次請再陪我去逛街哦",
+        "MessageEN": "please go shopping with me next time too."
     },
     {
         "MessageId": 101300442,
@@ -351,7 +351,7 @@
         "ImagePath": "",
         "MessageJP": "今度は別の曲を練習しておくので",
         "MessageKR": "그때는 다른 곡을 연습해 올 테니까요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "到時候我會練好其他曲子的",
+        "MessageEN": "I'll practice another song for then."
     }
 ]

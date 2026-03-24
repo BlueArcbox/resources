@@ -52,7 +52,7 @@
         "MessageJP": "専門分野だよ",
         "MessageKR": "거의 박사지 뭐.",
         "MessageTW": "幾乎是博士等級了吧",
-        "MessageEN": "I have a PhD in it."
+        "MessageEN": "I have a PhD in them."
     },
     {
         "MessageId": 101290300,
@@ -64,7 +64,7 @@
         "MessageJP": "得意分野だよ",
         "MessageKR": "거의 석사지 뭐.",
         "MessageTW": "幾乎是碩士等級了吧",
-        "MessageEN": "I have a Master's on it."
+        "MessageEN": "I have a Master's in them."
     },
     {
         "MessageId": 101290310,

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "おはようございます、先生",
         "MessageKR": "안녕하세요 선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你好，老師",
+        "MessageEN": "Hello Sensei"
     },
     {
         "MessageId": 101300130,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今日はスバルが当番の日だね！",
         "MessageKR": "드디어 스바루가 당번으로 오는구나!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "終於輪到昴當值日生了呢！",
+        "MessageEN": "You're finally coming to be a Student Rep!"
     },
     {
         "MessageId": 101300140,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "そうですね",
         "MessageKR": "그러게 말이에요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就是說啊",
+        "MessageEN": "I suppose."
     },
     {
         "MessageId": 101300150,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "シャーレでのお仕事について",
         "MessageKR": "샬레의 당번에 대해서는",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我對夏萊值日生的工作",
+        "MessageEN": "I've done my research"
     },
     {
         "MessageId": 101300151,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "事前にいろいろ調べておきました",
         "MessageKR": "여러 가지로 조사해 보았습니다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "做了各種調查",
+        "MessageEN": "regarding being a Student Rep for Schale."
     },
     {
         "MessageId": 101300152,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "準備はできています",
         "MessageKR": "그러니까 저는 준비 만전이에요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以已經做好準備了",
+        "MessageEN": "So I'm well prepared."
     },
     {
         "MessageId": 101300160,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと緊張してる？",
         "MessageKR": "긴장돼?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "會緊張嗎？",
+        "MessageEN": "Are you nervous?"
     },
     {
         "MessageId": 101300170,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "いいえ",
         "MessageKR": "전혀요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼會呢",
+        "MessageEN": "No."
     },
     {
         "MessageId": 101300171,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "全くしていませんよ",
         "MessageKR": "절대로요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "絕對沒有",
+        "MessageEN": "Not at all."
     },
     {
         "MessageId": 101300172,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "緊張なんてするわけないじゃないですか",
         "MessageKR": "제가 그럴 리 없잖습니까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我怎麼可能會緊張呢",
+        "MessageEN": "Why would I be?"
     },
     {
         "MessageId": 101300173,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "私のこと、見くびってませんか？",
         "MessageKR": "저를 뭐로 보시는 건가요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師把我當成什麼人了",
+        "MessageEN": "Who do you take me for?"
     },
     {
         "MessageId": 101300180,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "そっか",
         "MessageKR": "그렇구나\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這樣啊～",
+        "MessageEN": "Riiiiight!"
     },
     {
         "MessageId": 101300180,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "そういうことにしとくね！",
         "MessageKR": "그런 걸로 할게\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就當作是這樣吧～",
+        "MessageEN": "Sure, sure!"
     },
     {
         "MessageId": 101300190,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "先生……？",
         "MessageKR": "선생님……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師……？",
+        "MessageEN": "Sensei...?"
     },
     {
         "MessageId": 101290197,

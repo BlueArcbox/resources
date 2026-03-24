@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "学園の方針といいますか……",
         "MessageKR": "학교 방침이라고 해야 할까요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "該說是學園的方針嗎",
+        "MessageEN": "I suppose you could call it school policy,"
     },
     {
         "MessageId": 101300210,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "アルバイトをすることになりました",
         "MessageKR": "아르바이트를 하게 되었습니다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我開始打工了",
+        "MessageEN": "but I got a part-time job."
     },
     {
         "MessageId": 101300220,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "スバルがアルバイト！！？",
         "MessageKR": "스바루의 아르바이트?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "昴在打工！？",
+        "MessageEN": "Subaru?! A part-timer?!"
     },
     {
         "MessageId": 101300230,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "驚きすぎですって！",
         "MessageKR": "너무 호들갑 떨지 마세요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請不要這麼驚訝",
+        "MessageEN": "Don't be so overdramatic."
     },
     {
         "MessageId": 101300231,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "恥ずかしいからやめてください！",
         "MessageKR": "부담스럽다니까요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這樣會讓我更有壓力的",
+        "MessageEN": "It's burdensome."
     },
     {
         "MessageId": 101290247,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "当たり前のことをやっただけなのに、追加で報酬を頂いてしまいました",
         "MessageKR": "할 일을 한 것뿐인데 추가 수당을 주네요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "明明只是做了該做的事，卻還給我額外的津貼",
+        "MessageEN": "I was just doing my job, and I got a bonus."
     },
     {
         "MessageId": 101300241,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "外の世界ってよく分かりません……",
         "MessageKR": "바깥이란 알다가도 모르겠어요……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "外面的世界真是難以理解……",
+        "MessageEN": "I don't think I fully understand the outside world..."
     },
     {
         "MessageId": 101300250,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "ああいうことができる子は、なかなかいないから……",
         "MessageKR": "할 일을 하는 사람조차도 귀하기 때문 아닐까……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可能是因為能把份內工作做好的人很稀少吧……",
+        "MessageEN": "It might be rare to find people who actually work hard..."
     },
     {
         "MessageId": 101300260,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "……それでちゃんと回ってるんですか？世の中って",
         "MessageKR": "……세상이 그러고도 돌아가요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……這樣世界還能運轉嗎？",
+        "MessageEN": "...And the world still functions?"
     },
     {
         "MessageId": 101300270,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "……そうだね、意外と",
         "MessageKR": "………의외로?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……意外地還可以？",
+        "MessageEN": "...Surprisingly?"
     },
     {
         "MessageId": 101300280,
@@ -159,7 +159,7 @@
         "ImagePath": "",
         "MessageJP": "ま、ますますよく分からなくなりました……",
         "MessageKR": "삶에 대한 믿음을 좀 주세요……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請給我一點對生活的信心吧……",
+        "MessageEN": "Please give me some faith in life..."
     }
 ]

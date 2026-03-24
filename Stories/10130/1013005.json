@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "こんにちは、先生",
         "MessageKR": "안녕하세요 선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你好，老師",
+        "MessageEN": "Hello, Sensei"
     },
     {
         "MessageId": 101300460,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "見回り中ですが、連絡してみました",
         "MessageKR": "순찰 중 인사드립니다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "在巡邏途中向你問好",
+        "MessageEN": "I'm on patrol, but I wanted to say hello."
     },
     {
         "MessageId": 101300470,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "今日も頑張ってるんだ？",
         "MessageKR": "오늘도 순찰?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天也在巡邏嗎？",
+        "MessageEN": "You're on patrol today too?"
     },
     {
         "MessageId": 101300480,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "大事なことですから",
         "MessageKR": "그렇죠 중요한 일이니까요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒錯，因為這是重要的事",
+        "MessageEN": "Yes, it's important work."
     },
     {
         "MessageId": 101300481,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "後輩たちを ",
         "MessageKR": "그리고 순찰하면서 만나는 후배들에게",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "而且巡邏時遇到的後輩們",
+        "MessageEN": "And I can check on anyone I run into"
     },
     {
         "MessageId": 101300482,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "見てあげないといけませんし",
         "MessageKR": "이것저것 챙겨 주기도 해야 하고요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "也得照顧一下才行",
+        "MessageEN": "while on patrol."
     },
     {
         "MessageId": 101300490,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "スバル自身のことは？",
         "MessageKR": "스바루를 위해서는?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那昴自己呢？",
+        "MessageEN": "Then who takes care of you, Subaru?"
     },
     {
         "MessageId": 101300500,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "え？",
         "MessageKR": "네?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？",
+        "MessageEN": "Hm?"
     },
     {
         "MessageId": 101300501,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "あまり考えたことがありませんでした",
         "MessageKR": "그런 건 그다지 생각해 본 적 없는데요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這點我倒是沒想過",
+        "MessageEN": "I don't think about stuff like that."
     },
     {
         "MessageId": 101290517,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "少し考えてみたのですが",
         "MessageKR": "생각해 봤는데요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我在思考一件事情",
+        "MessageEN": "I've been wondering..."
     },
     {
         "MessageId": 101300520,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "ハーモニカでヘビーメタルは吹けないんでしょうか",
         "MessageKR": "헤비메탈을 하모니카로 불 수는 없을까요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "能不能用口琴吹奏重金屬呢？",
+        "MessageEN": "Is it possible to play heavy metal with a harmonica?"
     },
     {
         "MessageId": 101300530,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "えっと、教師たるもの",
         "MessageKR": "어…… 교사 된 입장으로서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這個嘛……雖然身為老師",
+        "MessageEN": "Um...as a teacher..."
     },
     {
         "MessageId": 101300530,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "できないことはない、と言いたいところだけど……",
         "MessageKR": "세상에 불가능한 일은 없다고 해야겠지만……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "應該要說世上沒有不可能才對……",
+        "MessageEN": "I'd like to say nothing's impossible..."
     },
     {
         "MessageId": 101300540,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "なるほど",
         "MessageKR": "지금 분명 불가능한 일은 없다고 하셨죠",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以並不是不可能對吧",
+        "MessageEN": "You mean it? Nothing's impossible?"
     },
     {
         "MessageId": 101300541,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "先生がそう言うなら……",
         "MessageKR": "좋아요 이것도 다 선생님 책임이니까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好，那麼這也是老師的責任",
+        "MessageEN": "Okay, I'm trusting you."
     },
     {
         "MessageId": 101300542,
@@ -219,7 +219,7 @@
         "ImagePath": "",
         "MessageJP": "いつか絶対、ハーモニカでヘビーメタルを吹いてみせます！",
         "MessageKR": "언젠가 하모니카로 헤비메탈을 들려드리고 말 테니까요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總有一天，我一定會用口琴吹重金屬給老師聽的",
+        "MessageEN": "So I'll make sure I put on a heavy metal harmonica performance for you one day."
     }
 ]
