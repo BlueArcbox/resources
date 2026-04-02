@@ -10979,5 +10979,34 @@
         "Star": 3,
         "Released": true,
         "Related": null
+    },
+    {
+        "Id": 20057,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/20057.webp"
+        ],
+        "Name": {
+            "jp": "アカネ（制服）",
+            "kr": "아카네(교복)",
+            "zh": "茜（制服）"
+        },
+        "Bio": {
+            "jp": "ToDoリストを書く。宿題も忘れずに。",
+            "kr": "할 일 적어 두기. 숙제 잊지 말 것.",
+            "zh": "写To Do（待做）清单。作业也别忘了。"
+        },
+        "Nickname": [
+            "Akane"
+        ],
+        "Birthday": "4/1",
+        "Age": "16歳",
+        "School": "Millennium",
+        "Club": "CleanNClearing",
+        "Star": 3,
+        "Released": true,
+        "Related": {
+            "ItemId": 13000,
+            "ItemType": "制服"
+        }
     }
 ]

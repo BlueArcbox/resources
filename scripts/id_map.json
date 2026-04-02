@@ -2132,7 +2132,7 @@
     },
     "13000": {
         "kivo_id": 24,
-        "gamekee_id": 66752,
+        "gamekee_id": 645973,
         "avatar": "https://static.kivo.wiki/images/students/室笠 茜/avatar.png",
         "momotalk": "享受一杯热红茶的悠闲",
         "name_en": "Akane",
@@ -3517,6 +3517,19 @@
         "name_en": "Koyuki",
         "name_jp": "コユキ（パジャマ）",
         "name_zh": "小雪（睡衣）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
+    "20057": {
+        "kivo_id": 517,
+        "avatar": "https://static.kivo.wiki/images/students/室笠 茜/制服/Student_Portrait_CH0307_Collection.png",
+        "momotalk": "写To Do（待做）清单。作业也别忘了。",
+        "name_en": "Akane",
+        "name_jp": "アカネ（制服）",
+        "name_zh": "茜（制服）",
         "nicknames": [],
         "sticker_download_flag": [
             true,
