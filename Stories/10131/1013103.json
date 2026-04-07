@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先日はアイスホッケーを一緒に鑑賞してくださり、ありがとうございました",
         "MessageKR": "일전에, 아이스하키 함께 봐주셔서 감사했습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "之前能和我一起看冰上曲棍球，真的非常感謝",
+        "MessageEN": "I appreciate you watching hockey with me."
     },
     {
         "MessageId": 101310200,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "ですが",
         "MessageKR": "그렇지만",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過",
+        "MessageEN": "But..."
     },
     {
         "MessageId": 101310210,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "あの日いろいろとあったことについては",
         "MessageKR": "그날 있었던 일에 대해서는",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "關於那天發生的事……",
+        "MessageEN": "About...that..."
     },
     {
         "MessageId": 101310211,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "私……本当に申し訳なく思っております……",
         "MessageKR": "제가, 죄송합니다…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我真的很抱歉……",
+        "MessageEN": "I'm sorry..."
     },
     {
         "MessageId": 101310220,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "気にしなくていいよ。私も楽しかったし",
         "MessageKR": "괜찮아. 나도 재미있었어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒關係。反正我也挺開心的",
+        "MessageEN": "It's fine. I had fun too."
     },
     {
         "MessageId": 101310230,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "そ、そうですか？",
         "MessageKR": "그래서 말인데요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以……",
+        "MessageEN": "REGARDLESS!"
     },
     {
         "MessageId": 101310240,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "それで、なのですが！お詫びも兼ねて",
         "MessageKR": "그 답례 겸 사죄드리는 의미에서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "作為回禮和對您的歉意",
+        "MessageEN": "To return your graciousness and issue a proper apology..."
     },
     {
         "MessageId": 101310241,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "今日は私からお昼をご馳走したいと思いまして",
         "MessageKR": "점심을 대접해 드릴까 해서요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我想招待您吃一頓午餐！",
+        "MessageEN": "I was thinking I could make you lunch?"
     },
     {
         "MessageId": 101310250,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "タカネの手料理！？",
         "MessageKR": "타카네의 요리?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是貴音親手做的料理嗎！？",
+        "MessageEN": "Takane's cooking?!"
     },
     {
         "MessageId": 101310260,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "ええ",
         "MessageKR": "네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是的",
+        "MessageEN": "Yes."
     },
     {
         "MessageId": 101310261,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "ちょうど今日は「もやし祭」の日でもありますし",
         "MessageKR": "마침 곧 콩나물 축제를 하는 날이어서요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "正好也快到豆芽祭的日子了",
+        "MessageEN": "A bean sprout festival is about to start...if you're interested."
     },
     {
         "MessageId": 101310270,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "もやし……まつり？",
         "MessageKR": "콩나물…… 축제?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "豆芽……祭？",
+        "MessageEN": "A festival...just for bean sprouts?"
     },
     {
         "MessageId": 101300277,

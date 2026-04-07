@@ -28,7 +28,7 @@
         "MessageJP": "あの、先生",
         "MessageKR": "저, 선생님",
         "MessageTW": "那個，老師",
-        "MessageEN": "Um, S-Sensei."
+        "MessageEN": "Um, Sensei."
     },
     {
         "MessageId": 100390140,
@@ -40,7 +40,7 @@
         "MessageJP": "今日、RABBIT小隊の任務が早く終わったので",
         "MessageKR": "오늘은 그게 RABBIT 소대의 일이 일찍 끝나서",
         "MessageTW": "今天RABBIT小隊的任務結束得比較早",
-        "MessageEN": "R-RABBIT Squad stuff ended early today."
+        "MessageEN": "RABBIT Squad stuff ended early today."
     },
     {
         "MessageId": 100390141,
@@ -52,7 +52,7 @@
         "MessageJP": "思ったより、早く到着できるかもしれません",
         "MessageKR": "당번 업무에 일찍 갈 수 있을 것 같아요.",
         "MessageTW": "所以應該能早一點到",
-        "MessageEN": "I-I can probably get to Schale early..."
+        "MessageEN": "I can probably get to Schale early..."
     },
     {
         "MessageId": 100390150,
@@ -64,7 +64,7 @@
         "MessageJP": "なので、その",
         "MessageKR": "혹시",
         "MessageTW": "所以，那個",
-        "MessageEN": "D-Do you know..."
+        "MessageEN": "Do you know..."
     },
     {
         "MessageId": 100390151,
@@ -76,7 +76,7 @@
         "MessageJP": "何か買い物とか、必要なものがあれば……",
         "MessageKR": "샬레에 방문하기 전에 따로 해야 할 일이 있을까요?",
         "MessageTW": "如果有什麼要買的東西，或是需要什麼的話……",
-        "MessageEN": "Do I needa do a-anything before I go?"
+        "MessageEN": "Do I need to do anything before I go?"
     },
     {
         "MessageId": 100390160,
@@ -112,7 +112,7 @@
         "MessageJP": "お休み中でしょうか……？",
         "MessageKR": "혹시 주무시나요?",
         "MessageTW": "睡著了嗎……？",
-        "MessageEN": "A-Are you sleeping?"
+        "MessageEN": "Are you sleeping?"
     },
     {
         "MessageId": 100380187,
@@ -148,7 +148,7 @@
         "MessageJP": "すみません……",
         "MessageKR": "그 목걸이 때문에 뭔가 큰 곤경을 겪으셨다고 들었어요…….",
         "MessageTW": "不好意思……",
-        "MessageEN": "I-I heard you got in trouble b-because of the necklace..."
+        "MessageEN": "I heard you got in trouble because of the necklace..."
     },
     {
         "MessageId": 100390191,
@@ -172,7 +172,7 @@
         "MessageJP": "やっぱり私は役立たずです……ごめんなさい……",
         "MessageKR": "역시 저는 쓸모없는 아이예요…….",
         "MessageTW": "我果然是個沒用的孩子……對不起……",
-        "MessageEN": "I knew it. I'm just n-no good..."
+        "MessageEN": "I knew it. I'm just no good..."
     },
     {
         "MessageId": 100390210,
@@ -196,7 +196,7 @@
         "MessageJP": "はい……",
         "MessageKR": "하지만 그렇게 주목을 받았던 건 난생처음이라……",
         "MessageTW": "好的……",
-        "MessageEN": "N-No one's ever noticed me like that before..."
+        "MessageEN": "No one's ever noticed me like that before..."
     },
     {
         "MessageId": 100390221,
@@ -232,7 +232,7 @@
         "MessageJP": "シャーレにいる時だけ、首輪を付けるというのは……？",
         "MessageKR": "최소한 샬레에 있을 때만 목걸이를 차고 있으면 안 될까요?",
         "MessageTW": "只在夏萊戴著項圈可以嗎……？",
-        "MessageEN": "C-Can...I at least wear it in Schale?"
+        "MessageEN": "Can...I at least wear it in Schale?"
     },
     {
         "MessageId": 100390250,

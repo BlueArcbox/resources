@@ -40,7 +40,7 @@
         "MessageJP": "何だか私、最近失敗ばっかりで……",
         "MessageKR": "소대 내에서 저지르는 실수가 잦아진 것 같아서……",
         "MessageTW": "總覺得最近我總是在失敗……",
-        "MessageEN": "I've been making more m-mistakes than usual..."
+        "MessageEN": "I've been making more mistakes than usual..."
     },
     {
         "MessageId": 100390271,
@@ -52,7 +52,7 @@
         "MessageJP": "やっぱり私はRABBIT小隊のお荷物です、役立たずなんです……",
         "MessageKR": "역시 저는 쓸모없는 아이인가 봐요……",
         "MessageTW": "我果然是RABBIT小隊的負擔，是沒用隊員……",
-        "MessageEN": "I'm d-done for..."
+        "MessageEN": "I'm done for..."
     },
     {
         "MessageId": 100390280,
@@ -100,7 +100,7 @@
         "MessageJP": "正式な訓練を受けてから、ずいぶん経ちますし……立派と言えるのかどうか……",
         "MessageKR": "정식 훈련을 받은 지도 너무 오래되어서……",
         "MessageTW": "距離上次接受正式的訓練已經過了很久了……還能稱得上是優秀嗎……",
-        "MessageEN": "I h-haven't actually trained in so long..."
+        "MessageEN": "I haven't actually trained in so long..."
     },
     {
         "MessageId": 100390311,
@@ -112,7 +112,7 @@
         "MessageJP": "昔より技術が落ちてるかもしれません……",
         "MessageKR": "예전처럼 총을 쏠 수 있을지도 모르겠어요",
         "MessageTW": "技術可能已經退步很多了……",
-        "MessageEN": "Wh-What if I'm n-no good now?"
+        "MessageEN": "What if I'm no good now?"
     },
     {
         "MessageId": 100390320,
@@ -124,7 +124,7 @@
         "MessageJP": "……先生、よろしければ",
         "MessageKR": "……선생님, 괜찮으시다면",
         "MessageTW": "……老師，可以的話",
-        "MessageEN": "Sensei... D-Do you think..."
+        "MessageEN": "Sensei... Do you think..."
     },
     {
         "MessageId": 100390321,

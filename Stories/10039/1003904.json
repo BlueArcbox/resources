@@ -28,7 +28,7 @@
         "MessageJP": "先日の訓練は、ありがとうございました。",
         "MessageKR": "지난번의 훈련으로",
         "MessageTW": "之前的訓練，非常感謝你",
-        "MessageEN": "Since w-we last trained..."
+        "MessageEN": "Since we last trained..."
     },
     {
         "MessageId": 100390340,
@@ -40,7 +40,7 @@
         "MessageJP": "少し、精度が良くなった気がします",
         "MessageKR": "사격 실력은 다소 좋아진 것 같지만……",
         "MessageTW": "感覺準度稍微提升了一點",
-        "MessageEN": "I think I g-got a little better."
+        "MessageEN": "I think I got a little better."
     },
     {
         "MessageId": 100390350,
@@ -52,7 +52,7 @@
         "MessageJP": "ですが……何だか最近は、色々と悪い方向に考えがちで……",
         "MessageKR": "그래도 자꾸 나쁜 생각이 떠올라서 곤란해져요.",
         "MessageTW": "但是……總覺得最近，思考有點負面……",
-        "MessageEN": "But I c-can't stop being negative..."
+        "MessageEN": "But I can't stop being negative..."
     },
     {
         "MessageId": 100390351,
@@ -64,7 +64,7 @@
         "MessageJP": "気分も落ち込みがちなんです……",
         "MessageKR": "자꾸 기분도 우울해지고……",
         "MessageTW": "情緒也有點低落……",
-        "MessageEN": "I get r-really depressed..."
+        "MessageEN": "I get really depressed..."
     },
     {
         "MessageId": 100390360,
@@ -124,7 +124,7 @@
         "MessageJP": "ちょっと試してみます",
         "MessageKR": "이 체질도 조금 나아질지도 모르겠어요…….",
         "MessageTW": "我會試試看的",
-        "MessageEN": "Will make me feel b-better..."
+        "MessageEN": "Will make me feel better..."
     },
     {
         "MessageId": 100380397,

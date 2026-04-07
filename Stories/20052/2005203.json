@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 200520160,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "レッドウィンターへの出張は、たしか今日まででしたよね？",
         "MessageKR": "붉은겨울 출장이 오늘 끝나신다고 하셨죠?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "您來赤冬出差的行程到今天為止對吧？",
+        "MessageEN": "You said you were leaving Red Winter today, correct?"
     },
     {
         "MessageId": 200520170,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "うん。列車に乗って帰るところだよ",
         "MessageKR": "맞아. 그리고 기차를 타고 돌아가려고.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒錯。我正打算搭列車回去",
+        "MessageEN": "Yeah. I'll catch the train back."
     },
     {
         "MessageId": 200520180,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "はい？",
         "MessageKR": "네……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦……？",
+        "MessageEN": "Really...?"
     },
     {
         "MessageId": 200520181,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "レッドウィンターの列車、ですか……？",
         "MessageKR": "우리 학원 기차요……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是我們學園的列車嗎……？",
+        "MessageEN": "OUR school's train...?"
     },
     {
         "MessageId": 200520190,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "何か問題でもあるの？",
         "MessageKR": "? 무슨 문제라도 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有什麼問題嗎？",
+        "MessageEN": "? Is there a problem?"
     },
     {
         "MessageId": 200520200,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "うーん……",
         "MessageKR": "으음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔嗯……",
+        "MessageEN": "Mmm..."
     },
     {
         "MessageId": 200520201,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "とりあえず",
         "MessageKR": "일단",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總之",
+        "MessageEN": "Well"
     },
     {
         "MessageId": 200520202,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "私がお送りしましょう",
         "MessageKR": "제가 마중이라도 나가겠습니다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我先去為老師送行吧",
+        "MessageEN": "I'll see you off. How about that?"
     },
     {
         "MessageId": 200510217,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "帰宅されましたか？",
         "MessageKR": "잘 들어가셨습니까. 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "平安到家了嗎，老師",
+        "MessageEN": "Did you get back safely, Sensei?"
     },
     {
         "MessageId": 200520220,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "今日は先生のおかげで楽しかったです",
         "MessageKR": "덕분에 좋은 구경했네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "託您的福，我看見了很美的風景",
+        "MessageEN": "I had a great time, all thanks to you."
     },
     {
         "MessageId": 200520230,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "よかった！",
         "MessageKR": "그건 다행이네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那真是太好了",
+        "MessageEN": "That's nice to hear."
     },
     {
         "MessageId": 200520240,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "よく考えたら問題の根源は",
         "MessageKR": "생각해 보니 문제의 원인은",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "仔細想想，問題的根源",
+        "MessageEN": "But, as I consider it, I think it's clear that the root of the problem"
     },
     {
         "MessageId": 200520241,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "ダイヤにある気もするんですが",
         "MessageKR": "결국 우리 학원의 열차 시간표 때문이었던 것 같기도 한데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好像還是出在我們學園的列車時刻表上",
+        "MessageEN": "is in our academy's shoddy train schedule."
     },
     {
         "MessageId": 200520250,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "おや",
         "MessageKR": "잠깐만요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "等等",
+        "MessageEN": "Wait, now."
     },
     {
         "MessageId": 200520251,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "もしレッドウィンターの鉄道が永遠にダメだったら",
         "MessageKR": "그러면 붉은겨울의 철도가 계속 엉망이면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要是赤冬的鐵路一直都這麼糟糕的話",
+        "MessageEN": "Does that mean that if the Red Winter's railroad continues to be terrible"
     },
     {
         "MessageId": 200520260,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "先生が列車の旅に永遠に付き合ってくださる、という……？",
         "MessageKR": "선생님이 다음에 또 열차 여행을 시켜 주신다는 뜻이 되지 않을까요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是不是代表老師下次還會跟我一起來場列車之旅呢？",
+        "MessageEN": "you'll take me on another train trip?"
     },
     {
         "MessageId": 200520270,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "さすがにナシ",
         "MessageKR": "되겠니.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼可能",
+        "MessageEN": "No way."
     },
     {
         "MessageId": 200520280,
@@ -255,7 +255,7 @@
         "ImagePath": "",
         "MessageJP": "ですよね……",
         "MessageKR": "그렇겠죠오……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "說的也是……",
+        "MessageEN": "A likely story..."
     }
 ]

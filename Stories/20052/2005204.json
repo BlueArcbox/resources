@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "いますか",
         "MessageKR": "계신가요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "在嗎",
+        "MessageEN": "Are you there?"
     },
     {
         "MessageId": 200520300,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei? Answer, please."
     },
     {
         "MessageId": 200520310,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "いるよ～",
         "MessageKR": "있는데\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "在哦～",
+        "MessageEN": "I'm heeere."
     },
     {
         "MessageId": 200520320,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "はい",
         "MessageKR": "네에",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "關於",
+        "MessageEN": "Okay"
     },
     {
         "MessageId": 200520321,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "事業",
         "MessageKR": "사업",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "事業",
+        "MessageEN": "I have business"
     },
     {
         "MessageId": 200520330,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "いや",
         "MessageKR": "아니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不對",
+        "MessageEN": "no"
     },
     {
         "MessageId": 200520331,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "出版部のことで",
         "MessageKR": "출판부 일로",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "關於出版部的事",
+        "MessageEN": "Publishing Department work"
     },
     {
         "MessageId": 200520332,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "相談といいますか",
         "MessageKR": "상담이라고 해야 할지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "該說是諮詢嗎",
+        "MessageEN": "that requires consultation"
     },
     {
         "MessageId": 200520340,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "第三者の意見も参考にしたく",
         "MessageKR": "제3자의 의견을 구하고 싶어서 그러는데요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我想請教一下第三方的意見",
+        "MessageEN": "an informed, outside opinion"
     },
     {
         "MessageId": 200520350,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "出版部に行くね！",
         "MessageKR": "출판부로 가면 되지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "去出版部找你就行了嗎？",
+        "MessageEN": "You want me to come to the Publishing Department?"
     },
     {
         "MessageId": 200520360,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "えっ",
         "MessageKR": "네?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？",
+        "MessageEN": "Hm?"
     },
     {
         "MessageId": 200520370,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "はい\u200b",
         "MessageKR": "네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是的",
+        "MessageEN": "Yes."
     },
     {
         "MessageId": 200520380,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとうございます",
         "MessageKR": "감사합니다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝您",
+        "MessageEN": "That's what I meant. Thank you."
     },
     {
         "MessageId": 200520381,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "結論を明瞭に伝えるその話法",
         "MessageKR": "중간 과정을 생략하는 화법",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這種直接省略過程的說話方式",
+        "MessageEN": "A concise speech style..."
     },
     {
         "MessageId": 200520390,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "私も見習わなければ",
         "MessageKR": "저도 배워야겠네요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我也得學起來才行呢",
+        "MessageEN": "I should practice that too."
     },
     {
         "MessageId": 200510407,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "先生\u200b",
         "MessageKR": "선생님\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師\u200b",
+        "MessageEN": "Sensei?"
     },
     {
         "MessageId": 200520410,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "なんで",
         "MessageKR": "이거",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "為什麼這個",
+        "MessageEN": "Why"
     },
     {
         "MessageId": 200520411,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "売れてるんですかこれ",
         "MessageKR": "왜 장사가 잘되는 거죠",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "會賣得這麼好啊",
+        "MessageEN": "am I SELLING SO MUCH?"
     },
     {
         "MessageId": 200520420,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "うまくいったね！",
         "MessageKR": "어른 말을 잘 들으면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所謂不聽大人言",
+        "MessageEN": "Good things happen"
     },
     {
         "MessageId": 200520420,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "私の予想通り！",
         "MessageKR": "자다가도 떡이 생기는 법이란다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "吃虧在眼前嘛！",
+        "MessageEN": "when you listen to an experienced adult."
     },
     {
         "MessageId": 200520430,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "なんだか悔しいですね",
         "MessageKR": "뭔가 조금 분하네요……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總覺得有點不甘心……",
+        "MessageEN": "That's infuriating..."
     },
     {
         "MessageId": 200520431,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "ですが成果は成果です",
         "MessageKR": "하지만 매출 결과를 부정해서는 안 되는 법이니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過銷售成果是不容否認的事實",
+        "MessageEN": "But I can't deny the hard numbers"
     },
     {
         "MessageId": 200520440,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "うーん",
         "MessageKR": "으음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔嗯……",
+        "MessageEN": "Mmm..."
     },
     {
         "MessageId": 200520441,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "次は「レッドベア」の特別インタビューとして",
         "MessageKR": "다음에는 <붉은 곰>의 특별 인터뷰로",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "話說下次的《赤熊》特別專訪",
+        "MessageEN": "I was wondering if I could interview the great Sensei"
     },
     {
         "MessageId": 200520442,
@@ -327,8 +327,8 @@
         "ImagePath": "",
         "MessageJP": "先生との対談特集を組みたいのですが～",
         "MessageKR": "선생님과의 대담 특집을 잡을까 하는데요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我打算來做個跟老師的對談特輯～",
+        "MessageEN": "for our next feature in the Red Bear."
     },
     {
         "MessageId": 200520450,
@@ -339,8 +339,8 @@
         "ImagePath": "",
         "MessageJP": "丁重にお断りします、編集長",
         "MessageKR": "정중하게 거절하겠습니다. 편집장님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請容我鄭重拒絕，總編",
+        "MessageEN": "I respectfully decline, Chief Editor."
     },
     {
         "MessageId": 200520460,
@@ -351,8 +351,8 @@
         "ImagePath": "",
         "MessageJP": "そういうと思ってました",
         "MessageKR": "그러실 줄 알았지만요……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然早就料到您會這麼說……",
+        "MessageEN": "That's what I thought..."
     },
     {
         "MessageId": 200520461,
@@ -363,8 +363,8 @@
         "ImagePath": "",
         "MessageJP": "まあこれからもお世話になります",
         "MessageKR": "그래도 종종 찾아뵙겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過我還是會經常去拜訪的",
+        "MessageEN": "But still, I'll have to visit you now and then"
     },
     {
         "MessageId": 200520470,
@@ -375,8 +375,8 @@
         "ImagePath": "",
         "MessageJP": "事業相談でも",
         "MessageKR": "아이디어를 위해서든",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可能是為了尋找靈感",
+        "MessageEN": "Whether it's for editorial inspiration"
     },
     {
         "MessageId": 200520471,
@@ -387,8 +387,8 @@
         "ImagePath": "",
         "MessageJP": "それ以外でも",
         "MessageKR": "아니면 그냥이든요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "也可能沒什麼理由",
+        "MessageEN": "...or simply for the sake of it."
     },
     {
         "MessageId": 200520480,
@@ -399,8 +399,8 @@
         "ImagePath": "",
         "MessageJP": "いつでも遊びにきてね",
         "MessageKR": "언제든 와도 돼.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "隨時都歡迎你來哦",
+        "MessageEN": "Drop by anytime."
     },
     {
         "MessageId": 200520490,
@@ -411,7 +411,7 @@
         "ImagePath": "",
         "MessageJP": "ええ、文字通りそうさせていただきますとも。ムフフ",
         "MessageKR": "그 말 후회하시면 안 되니까요\\~?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "之後可不能反悔哦～？",
+        "MessageEN": "Famous last words."
     }
 ]

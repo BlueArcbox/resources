@@ -28,7 +28,7 @@
         "MessageJP": "あの",
         "MessageKR": "저, 선생님",
         "MessageTW": "那個",
-        "MessageEN": "Um, S-Sensei."
+        "MessageEN": "Um, Sensei."
     },
     {
         "MessageId": 100390020,
@@ -52,7 +52,7 @@
         "MessageJP": "よろしければ、なのですが……",
         "MessageKR": "괜찮으시다면",
         "MessageTW": "如果可以的話……",
-        "MessageEN": "If y-you don't mind..."
+        "MessageEN": "If you don't mind..."
     },
     {
         "MessageId": 100390040,
@@ -64,7 +64,7 @@
         "MessageJP": "今週末、少しお時間を……",
         "MessageKR": "이번 주말에 잠깐 시간을 내 주실 수 있으신가요?",
         "MessageTW": "這個週末，能占用你一點時間嗎……",
-        "MessageEN": "C-Can you hang out with me this weekend?"
+        "MessageEN": "Can you hang out with me this weekend?"
     },
     {
         "MessageId": 100390050,
@@ -88,7 +88,7 @@
         "MessageJP": "その",
         "MessageKR": "그게",
         "MessageTW": "這個",
-        "MessageEN": "Th-The thing is.."
+        "MessageEN": "The thing is..."
     },
     {
         "MessageId": 100390061,
@@ -112,7 +112,7 @@
         "MessageJP": "アウトドアショップに、行きたいのですが……",
         "MessageKR": "이번 주말에 시내의 캠핑용품 매장에 새로운 도구를 사러 가려 했는데……",
         "MessageTW": "我想要去戶外用品店……",
-        "MessageEN": "I-I wanna buy some stuff at the c-camping store..."
+        "MessageEN": "I wanna buy some stuff at the camping store..."
     },
     {
         "MessageId": 100390080,
@@ -124,7 +124,7 @@
         "MessageJP": "RABBIT小隊のみんなは、その……",
         "MessageKR": "소대에 손이 남는 사람이 저밖에 없는 것 같아서요……",
         "MessageTW": "但是RABBIT小隊的大家都，那個……",
-        "MessageEN": "But no one in the squad is f-free..."
+        "MessageEN": "But no one in the squad is free..."
     },
     {
         "MessageId": 100390081,
@@ -136,7 +136,7 @@
         "MessageJP": "ひとりではあれなので……よろしければ、一緒に……",
         "MessageKR": "선생님이 좀 도와주실 수 없을까요…….",
         "MessageTW": "一個人去的話有點……如果不介意的話，可不可以一起……",
-        "MessageEN": "S-So...could you help me..."
+        "MessageEN": "So...could you help me..."
     },
     {
         "MessageId": 100390090,
@@ -160,7 +160,7 @@
         "MessageJP": "あ、いえ、お願いしたいのは荷物持ちではなくて……",
         "MessageKR": "그건 아니지만……",
         "MessageTW": "啊，不，想拜託你的不是搬東西……",
-        "MessageEN": "N-No... You see..."
+        "MessageEN": "No... You see..."
     },
     {
         "MessageId": 100390101,

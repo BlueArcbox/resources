@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "問題：",
         "MessageKR": "다음 중 붉은겨울에서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請從下列的選項中",
+        "MessageEN": "Pop quiz. Of the following,"
     },
     {
         "MessageId": 200520020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "以下のうち、レッドウィンターで生き残るために",
         "MessageKR": "출판부가 살아남기 위해",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "選擇出版部想在赤冬生存下去",
+        "MessageEN": "select what the Publishing Department must do"
     },
     {
         "MessageId": 200520021,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "出版部が取るべき行動は？（4点）",
         "MessageKR": "해야 하는 일을 고르시오. (4점)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "必須採取的行動。(4分)",
+        "MessageEN": "to survive at Red Winter. (4 pts)"
     },
     {
         "MessageId": 200520030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "1.読書啓蒙週間を作る",
         "MessageKR": "1. 독서 권장하기",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "1.推廣閱讀",
+        "MessageEN": "1. Encourage literacy"
     },
     {
         "MessageId": 200520031,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "2.電子書籍化プロジェクトを進行する",
         "MessageKR": "2. 전자책 스캔하기",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "2.紙本書電子化",
+        "MessageEN": "2. Convert written material to digital"
     },
     {
         "MessageId": 200520032,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "3.通信線路設備工事をする",
         "MessageKR": "3. 통신선 설치하기",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "3.架設通訊線路",
+        "MessageEN": "3. Install communication lines"
     },
     {
         "MessageId": 200520040,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "最後は出版部と関係ないんじゃ……？",
         "MessageKR": "3번은 관계없지 않아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "3號跟出版部沒關係吧？",
+        "MessageEN": "What does \\#3 have to do with publishing?"
     },
     {
         "MessageId": 200520050,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "ファイナルアンサーですか？",
         "MessageKR": "그래도 한번 맞춰 보시죠",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總之請猜猜看吧",
+        "MessageEN": "Answer the question"
     },
     {
         "MessageId": 200520060,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "ええっ……ギブアップ",
         "MessageKR": "모르겠는데……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我不知道……",
+        "MessageEN": "I don't know..."
     },
     {
         "MessageId": 200520070,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "ムフフ、そうでしょうとも",
         "MessageKR": "그럴 겁니다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這樣啊",
+        "MessageEN": "Incorrect. As I suspected"
     },
     {
         "MessageId": 200520071,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "正解は――3番なのですから",
         "MessageKR": "정답은, 바로 그 3번이거든요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "正確答案──就是3號",
+        "MessageEN": "The correct answer is 3"
     },
     {
         "MessageId": 200520080,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "うん……？",
         "MessageKR": "어……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦……？",
+        "MessageEN": "Huh...?"
     },
     {
         "MessageId": 200520090,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "解説をご希望の場合は",
         "MessageKR": "자세한 해설을 원하시는 당신을",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果希望了解詳情",
+        "MessageEN": "If you seek more detailed answers, seek out"
     },
     {
         "MessageId": 200520091,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "レッドウィンター出版部までお気軽にどうぞ",
         "MessageKR": "붉은겨울 출판부로 초대합니다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "歡迎蒞臨赤冬出版部",
+        "MessageEN": "the Red Winter Publishing Department!"
     },
     {
         "MessageId": 200510097,

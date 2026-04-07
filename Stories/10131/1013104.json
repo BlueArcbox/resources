@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "ごきげんよう、先生！",
         "MessageKR": "안녕하세요, 선생님!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "貴安，老師！",
+        "MessageEN": "Hello, Sensei!!"
     },
     {
         "MessageId": 101310290,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "なんだかご機嫌だね、タカネ",
         "MessageKR": "뭔가 신나 보이네, 타카네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "感覺你很興奮呢，貴音",
+        "MessageEN": "You seem excited, Takane."
     },
     {
         "MessageId": 101310300,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ええ！とても良いことがありまして……",
         "MessageKR": "네!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是的！",
+        "MessageEN": "With good reason!"
     },
     {
         "MessageId": 101310301,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "先生、ご存じですか？",
         "MessageKR": "그거 아세요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師您知道嗎？",
+        "MessageEN": "Do you know why?"
     },
     {
         "MessageId": 101310302,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "今夜、オーロラが見られるらしいのです！",
         "MessageKR": "오늘 밤, 오로라를 볼 수 있대요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今晚好像能看到極光哦！",
+        "MessageEN": "The aurora should show tonight! The sky is clear!"
     },
     {
         "MessageId": 101310310,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "なので、風景写真を撮りに行こうかと",
         "MessageKR": "그래서 풍경 사진을 찍으러 갈까 하는데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以，我正在考慮要不要去拍風景照",
+        "MessageEN": "I thought I could practice my photography."
     },
     {
         "MessageId": 101310320,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "その……もしよろしければ……",
         "MessageKR": "괜찮으시다면……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果您方便的話……",
+        "MessageEN": "If you are free and interested"
     },
     {
         "MessageId": 101310321,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "ご一緒に、いかがでしょう？",
         "MessageKR": "함께, 어떠세요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要不要一起去呢？",
+        "MessageEN": "would you like to join me?"
     },
     {
         "MessageId": 101310330,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "オーロラの風景写真？",
         "MessageKR": "오로라 풍경 사진?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "拍極光的風景照？",
+        "MessageEN": "Taking photos of the aurora..."
     },
     {
         "MessageId": 101310340,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "ええ",
         "MessageKR": "맞아요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒錯",
+        "MessageEN": "As I said."
     },
     {
         "MessageId": 101310341,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "もちろん、お忙しいのは重々承知ですので……",
         "MessageKR": "물론 너무 힘드시거나",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然如果您覺得太累",
+        "MessageEN": "Of course, if you're feeling overly stressed"
     },
     {
         "MessageId": 101310350,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "ご無理はなさらず……",
         "MessageKR": "혹시",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "或者……",
+        "MessageEN": "or"
     },
     {
         "MessageId": 101310351,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "断っていただいても構いませんわ",
         "MessageKR": "번거로우시다면……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "會造成麻煩的話……",
+        "MessageEN": "if it's too much trouble, that's fine. No pressure..."
     },
     {
         "MessageId": 101310360,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "タカネのお願いだもん、行かないとね！",
         "MessageKR": "타카네의 부탁인데, 가야지!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "既然是貴音的邀請，肯定要去！",
+        "MessageEN": "If Takane says go, then I go!"
     },
     {
         "MessageId": 101310360,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "合法的に残業抜け出せるし、行こうかな！",
         "MessageKR": "합법적으로 야근 탈출 가능한데, 가야지!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "而且能合法躲過加班，當然得去囉！",
+        "MessageEN": "And that means I can leave work early!"
     },
     {
         "MessageId": 101310370,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "そ",
         "MessageKR": "그",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "很",
+        "MessageEN": "Uh..."
     },
     {
         "MessageId": 101310380,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "そんな風に仰っていただけるなんて……",
         "MessageKR": "그렇게 생각해 주시니 감사한데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "很感謝您願意這麼想……",
+        "MessageEN": "I'm happy to hear that"
     },
     {
         "MessageId": 101310381,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "少し……恥ずかしいですけれど",
         "MessageKR": "조금, 부끄럽기도 하네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過……也讓人有點害羞呢",
+        "MessageEN": "even if it's a bit embarrassing."
     },
     {
         "MessageId": 101310390,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "本当に、感謝いたしますわ",
         "MessageKR": "감사합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真的很謝謝您",
+        "MessageEN": "Thank you."
     },
     {
         "MessageId": 101310400,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "ふふっ",
         "MessageKR": "앗",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊……",
+        "MessageEN": "Ah."
     },
     {
         "MessageId": 101310401,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "その気持ち、少しわかりますわ",
         "MessageKR": "그 마음 저도 알 것 같아요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我也能夠理解那種心情",
+        "MessageEN": "I know what you mean, though."
     },
     {
         "MessageId": 101310402,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "締切前になると散歩にでかけたくなりますものね",
         "MessageKR": "마감일 전에는 뭐든 탈출 거리를 찾게 마련이죠.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "在截稿日前，總是會想找出所有能逃離現場的藉口呢",
+        "MessageEN": "Taking any excuse to escape a deadline..."
     },
     {
         "MessageId": 101310410,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "それでは、お待ちしておりますわ",
         "MessageKR": "그러면 기다리겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼我等您",
+        "MessageEN": "Then, I'll be waiting for you."
     },
     {
         "MessageId": 101300417,

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "『レッドウィンター出版部がシャーレと私的な領域で接触する",
         "MessageKR": "<붉은겨울의 출판부가 샬레와 사적 영역으로 접촉하는>",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "〈關於赤冬出版部與夏萊私領域接觸的──",
+        "MessageEN": "Prepare for \"A Dadaistic Thesis on Red Winter's Publishing Department"
     },
     {
         "MessageId": 200520110,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "その歴史的出会いについてのダダイズムテーゼ』",
         "MessageKR": "<그 역사적인 만남에 대한 다다이즘적 테제>",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "──那場歷史性會面的達達主義綱領〉",
+        "MessageEN": "in a Historical and Clandestine Meeting with Schale\""
     },
     {
         "MessageId": 200520111,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "次の記事の題名です。いかがですか？",
         "MessageKR": "이번 원고 제목인데 어떠신가요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "以上是這次稿件的標題，老師覺得怎麼樣呢？",
+        "MessageEN": "How's that for a title?"
     },
     {
         "MessageId": 200520120,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "重い！",
         "MessageKR": "부담스러워!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "也太沉重了吧！",
+        "MessageEN": "It's too much!"
     },
     {
         "MessageId": 200520130,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "記念すべきシャーレ訪問日を機に",
         "MessageKR": "나름대로 중요한 부분이라고 생각해서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為覺得還挺重要的",
+        "MessageEN": "I thought the length contributed to its importance"
     },
     {
         "MessageId": 200520131,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "大々的な特集を組む予定だったんですけど",
         "MessageKR": "특집 코너까지 준비할 생각이었는데요오",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我本來想專門為此企劃一部特輯的說",
+        "MessageEN": "I considered printing a featured section for it..."
     },
     {
         "MessageId": 200520140,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ふつうに当番に来て……",
         "MessageKR": "그냥 편하게 당번으로 와 다오……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只要普通地來當值日生就好……",
+        "MessageEN": "Let's please keep it normal during your Student Rep visit..."
     },
     {
         "MessageId": 200510147,

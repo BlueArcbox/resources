@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生！",
         "MessageKR": "선생님!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師！",
+        "MessageEN": "Sensei!"
     },
     {
         "MessageId": 101310160,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "本日、ですわ",
         "MessageKR": "오늘이에요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就是今天唷！",
+        "MessageEN": "Today is the day!"
     },
     {
         "MessageId": 101310161,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "お忘れではありませんわよね？",
         "MessageKR": "기억하고 계시죠?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "您還記得吧？",
+        "MessageEN": "You remember what we're doing, don't you?"
     },
     {
         "MessageId": 101310170,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "私もすごく楽しみにしていたよ",
         "MessageKR": "당연하지. 누구랑 한 약속인데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然，畢竟是和貴音的約定嘛",
+        "MessageEN": "Of course. I made a promise."
     },
     {
         "MessageId": 101310180,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "はい！",
         "MessageKR": "네!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是！",
+        "MessageEN": "Indubitably!"
     },
     {
         "MessageId": 101310181,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "それでは、出版部の部室でお待ちしておりますわね",
         "MessageKR": "그러면 일단 출판부로 와 주시면 될 것 같아요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼，請您先到出版部來就可以了！",
+        "MessageEN": "Then, please come to the Publishing Department!"
     },
     {
         "MessageId": 101300187,
