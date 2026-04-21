@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 101320240,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "これが最後です……！",
         "MessageKR": "이번이 마지막이에요……!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這次真的是最後一次了……！",
+        "MessageEN": "This will really be the last one...!"
     },
     {
         "MessageId": 101320250,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "えっ？",
         "MessageKR": "응……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯……？",
+        "MessageEN": "Huh...?"
     },
     {
         "MessageId": 101320260,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "その……",
         "MessageKR": "아, 그…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，那個……",
+        "MessageEN": "Ah..."
     },
     {
         "MessageId": 101320261,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "本当の本当の最後に",
         "MessageKR": "제가 진짜 진짜 마지막으로 ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我又有走秀的工作了 ",
+        "MessageEN": "This is really, very, truly the absolute last "
     },
     {
         "MessageId": 101320262,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ファッションショーへ出ようと思います……！",
         "MessageKR": "패션쇼에 나가게 되어서요……!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這次真的真的是最後一次了……！",
+        "MessageEN": "fashion show I'll be in...!"
     },
     {
         "MessageId": 101320270,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "それで……",
         "MessageKR": "혹시…… ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請問…… ",
+        "MessageEN": "Would you... "
     },
     {
         "MessageId": 101320271,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "一緒に行っていただきたくて……",
         "MessageKR": "함께 가 주실 수 있으신가요……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可以陪我一起去嗎……？",
+        "MessageEN": "go with me...?"
     },
     {
         "MessageId": 101320280,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "行こう！",
         "MessageKR": "물론이지!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然！",
+        "MessageEN": "Of course!"
     },
     {
         "MessageId": 101310297,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "先生\u200b",
         "MessageKR": "선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師\u200b",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 101320300,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "先ほどは失礼しました……",
         "MessageKR": "아까는 죄송했어요…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "剛才真的很抱歉……",
+        "MessageEN": "I really am very sorry still..."
     },
     {
         "MessageId": 101320310,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "大丈夫だよ、気にしないで",
         "MessageKR": "괜찮아, 그럴 수 있지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒關係，難免會有這種事嘛",
+        "MessageEN": "It's okay. Things happen sometimes."
     },
     {
         "MessageId": 101320320,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "どんな服装でも",
         "MessageKR": "앞으로는 어떤 옷을 입어도",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "為了保證今後無論穿什麼衣服",
+        "MessageEN": "I will train my ninja skills diligently..."
     },
     {
         "MessageId": 101320321,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "フェンスを越えられるように",
         "MessageKR": "이런 일이 벌어지지 않도록 ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "都不會再發生這種事 ",
+        "MessageEN": "so something like this never happens again "
     },
     {
         "MessageId": 101320322,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "もっと修行します……！",
         "MessageKR": "닌자 기술을 더더욱 연마하겠어요……!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我會更加精進忍術的……！",
+        "MessageEN": "no matter what I'm wearing...!"
     },
     {
         "MessageId": 101320330,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "うん、応援してるね！",
         "MessageKR": "으, 응원할게!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，我也會幫你加油哦！",
+        "MessageEN": "I believe in you!"
     },
     {
         "MessageId": 101320340,
@@ -231,7 +231,7 @@
         "ImagePath": "",
         "MessageJP": "はい、先生！",
         "MessageKR": "네! 선생님!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是！老師！",
+        "MessageEN": "Thank you! Sensei!"
     }
 ]

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "ふふっ",
         "MessageKR": "후후",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵",
+        "MessageEN": "Fufu."
     },
     {
         "MessageId": 200530450,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "ふっふっふっふっふ",
         "MessageKR": "우후후후",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵呵呵",
+        "MessageEN": "Ufufufu"
     },
     {
         "MessageId": 200530460,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ついに分かっちゃったよ、先生殿！",
         "MessageKR": "드디어 알아냈다고, 선생=공!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我終於發現了，老師大人！",
+        "MessageEN": "I finally got it, Honorable Sensei!"
     },
     {
         "MessageId": 200530470,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "\"な、何のこと？\"",
         "MessageKR": "\"응? 대체 뭘……?\"",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "「嗯？發現什麼……？」",
+        "MessageEN": "Hm? Got what...?"
     },
     {
         "MessageId": 200530480,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "それはねー",
         "MessageKR": "그건",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那就是",
+        "MessageEN": "That's"
     },
     {
         "MessageId": 200530481,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ううん",
         "MessageKR": "음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "Mm"
     },
     {
         "MessageId": 200530490,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "やっぱりモモトークじゃなくて ",
         "MessageKR": "역시 모모톡보다는",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "比起用MomoTalk",
+        "MessageEN": "It'd be better to say this in person"
     },
     {
         "MessageId": 200530491,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "直接話したほうが良いかも！",
         "MessageKR": "직접 보고 말하는 게 좋겠어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "果然還是直接見面談比較好！",
+        "MessageEN": "than over MomoTalk!"
     },
     {
         "MessageId": 200530500,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "すぐにそちらへ参ろう！",
         "MessageKR": "곧 찾아가겠소이다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我現在過去找你！",
+        "MessageEN": "I'll be there soon!"
     },
     {
         "MessageId": 200530510,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "待っておれ！",
         "MessageKR": "기다리고 있으라고!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "等我！",
+        "MessageEN": "Wait for me!"
     },
     {
         "MessageId": 200520527,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "先生殿……",
         "MessageKR": "앞으로는",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我以後",
+        "MessageEN": "From now on"
     },
     {
         "MessageId": 200530530,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "安易に流行を取り入れるのはやめるよ……",
         "MessageKR": "엉뚱하게 다른 분야에 손대지 않겠습니다…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不會再隨便接觸其他領域了……",
+        "MessageEN": "I won't venture onto irrelevant topics..."
     },
     {
         "MessageId": 200530540,
@@ -183,7 +183,7 @@
         "ImagePath": "",
         "MessageJP": "真剣に、忍者の道を歩んでいくね……",
         "MessageKR": "우직하게, 오직 닌자의 길만 걸을 것이외다……!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "會一心一意地，堅持忍者之道……！",
+        "MessageEN": "I'll stay firm on my path of ninja...!"
     }
 ]

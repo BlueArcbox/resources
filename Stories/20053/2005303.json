@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "ついに",
         "MessageKR": "마침내",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "終於",
+        "MessageEN": "Finally,"
     },
     {
         "MessageId": 200530320,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "見つけてしまった",
         "MessageKR": "찾아내고야 말았소이다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "被我找到了",
+        "MessageEN": "I have found it."
     },
     {
         "MessageId": 200530330,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "チャンネルを大きくする秘訣を",
         "MessageKR": "나의 채널을 성장시킬 비책을……!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "能讓我的頻道成長的祕訣……！",
+        "MessageEN": "The secret to raise my channel...!"
     },
     {
         "MessageId": 200530331,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "そして、その秘訣を手にする方法を……！",
         "MessageKR": "그리고 그 비책을 얻을 기회를……!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還有獲得那個祕訣的機會……！",
+        "MessageEN": "And the opportunity to learn that secret...!"
     },
     {
         "MessageId": 200530340,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "急にどうしたの……？",
         "MessageKR": "……대체 무슨 일이야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……怎麼回事？",
+        "MessageEN": "...What's going on?"
     },
     {
         "MessageId": 200530350,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ふっふっふ",
         "MessageKR": "후후",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哼哼哼",
+        "MessageEN": "Fufu."
     },
     {
         "MessageId": 200530360,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "なんとなんと",
         "MessageKR": "사실 이번에",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "其實我這次",
+        "MessageEN": "The thing is"
     },
     {
         "MessageId": 200530361,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "ある説明会の、参加資格を貰ったの！",
         "MessageKR": "어떤 설명회에 응모해서 당첨됐거든!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "拿到了某場說明會的入場券！",
+        "MessageEN": "I've been invited to a presentation!"
     },
     {
         "MessageId": 200530370,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "それに参加するとね",
         "MessageKR": "그런데 그 설명회가! 무려!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "而那個說明會……！",
+        "MessageEN": "And the presentation! Is about!"
     },
     {
         "MessageId": 200530380,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "再生数と登録者数を増やす",
         "MessageKR": "조회수와 구독자 수를 폭등시키는……!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "會教大家怎麼讓觀看數和訂閱數暴增的……",
+        "MessageEN": "How to rapidly increase your views and subscribers...!"
     },
     {
         "MessageId": 200530381,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "その秘訣を伝授してくれるんだって！",
         "MessageKR": "그런 비법에 대한 설명회란 말이지!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那種祕訣的說明會！",
+        "MessageEN": "And all the secrets behind it!"
     },
     {
         "MessageId": 200530390,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "……な、なるほど",
         "MessageKR": "어…… 음……. 그렇구나……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哦……嗯……這樣啊……",
+        "MessageEN": "Uh... Mmm... I see..."
     },
     {
         "MessageId": 200520407,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "秘訣は自身の手で、とっておきのを生み出して見せる！",
         "MessageKR": "기다려, 선생 공.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "拭目以待吧，老師大人",
+        "MessageEN": "Just you wait, Honorable Sensei."
     },
     {
         "MessageId": 200530410,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "こうご期待！",
         "MessageKR": "곧 내가 끝내주는 비책을 가지고 돌아올 테니까!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我很快就會帶著超厲害的祕訣回來的！",
+        "MessageEN": "I'll be back with an incredible strategy!"
     },
     {
         "MessageId": 200530420,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "お待ちしておりますぞ、ミチル殿",
         "MessageKR": "기다리고 있겠습니다, 미치루=공",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那我就等你凱旋歸來了，三千留閣下",
+        "MessageEN": "I'll be waiting, Honorable Michiru!"
     },
     {
         "MessageId": 200530430,
@@ -219,7 +219,7 @@
         "ImagePath": "",
         "MessageJP": "にゃははっ、ありがとー先生殿！",
         "MessageKR": "냐하하! 고마워 선생=공!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "喵哈哈！謝謝老師大人！",
+        "MessageEN": "Nyahaha! Thank you, Honorable Sensei!"
     }
 ]

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei?"
     },
     {
         "MessageId": 101320190,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "お昼ご飯、もう食べましたか……？",
         "MessageKR": "혹시 점심 식사하셨나요……!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請問您吃過午餐了嗎……！",
+        "MessageEN": "Have you eaten lunch yet...?"
     },
     {
         "MessageId": 101320200,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ま、まだ朝の8時だから……",
         "MessageKR": "……지금 오전 8시인데?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……現在不是才早上8點嗎！？",
+        "MessageEN": "...Is it not 8 in the morning right now?!"
     },
     {
         "MessageId": 101320210,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "つまり、食べてないと……！",
         "MessageKR": "다, 다행이다……!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "太，太好了……！",
+        "MessageEN": "So you haven't...! What a relief...!"
     },
     {
         "MessageId": 101320220,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "では",
         "MessageKR": "그럼 혹시",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那請問",
+        "MessageEN": "In that case"
     },
     {
         "MessageId": 101320221,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "お昼は二人で",
         "MessageKR": "점심시간…… ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "午餐時間…… ",
+        "MessageEN": "could I borrow a moment "
     },
     {
         "MessageId": 101320222,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "食べに行きませんか……？",
         "MessageKR": "내주실 수 있으신가요……!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可以留給我嗎……！",
+        "MessageEN": "of your lunch hour...?"
     },
     {
         "MessageId": 101310227,

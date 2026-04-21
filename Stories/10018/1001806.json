@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "失くしたものって",
         "MessageKR": "잃어버렸다고 생각한 물건은",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那些以為弄丟的東西",
+        "MessageEN": "A lot of times when you lose things"
     },
     {
         "MessageId": 100180430,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "探し回った結果",
         "MessageKR": "꼭 예상치 못한 의외의 장소에서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "最後常常",
+        "MessageEN": "you end up finding them"
     },
     {
         "MessageId": 100180440,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "予想外の場所にあるんですよね……",
         "MessageKR": "나오는 경우가 많은 것 같아요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "會在意想不到的地方找到呢",
+        "MessageEN": "in the weirdest places, huh?"
     },
     {
         "MessageId": 100180450,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "分かるー！",
         "MessageKR": "아, 알 것 같아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，我懂那種感覺",
+        "MessageEN": "A phenomenon many experience..."
     },
     {
         "MessageId": 100180450,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "リモコンとかね……",
         "MessageKR": "리모콘처럼 자주 쓰는 물건이라면 더더욱……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "尤其像是遙控器這種常用的東西……",
+        "MessageEN": "Remotes especially..."
     },
     {
         "MessageId": 100180460,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "実際には",
         "MessageKR": "물론 실제로는 단순히",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然實際上",
+        "MessageEN": "Tbh"
     },
     {
         "MessageId": 100180461,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "どこに置いたか忘れただけ",
         "MessageKR": "물건을 둔 장소를 잊어버렸을 가능성이",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只是單純忘記把東西放在哪裡的",
+        "MessageEN": "I probably just forgot"
     },
     {
         "MessageId": 100180462,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "なんでしょうけど……",
         "MessageKR": "높지만요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可能性也很高就是了",
+        "MessageEN": "where I left it..."
     },
     {
         "MessageId": 100180470,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "みんな同じ経験をしがちだからか",
         "MessageKR": "하지만 다른 사람들도",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過或許是因為",
+        "MessageEN": "But it's definitely"
     },
     {
         "MessageId": 100180471,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "昔の方はこういう時",
         "MessageKR": "비슷한 경험을 자주 겪었는지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "其他人也經常有類似的經驗",
+        "MessageEN": "not just me"
     },
     {
         "MessageId": 100180480,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "「いたずら好きな妖精さん」",
         "MessageKR": "옛날에는 이런 일이 생기면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "以前我遇到這種事的時候",
+        "MessageEN": "That's where old stories of"
     },
     {
         "MessageId": 100180481,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "……に盗まれてしまった、と",
         "MessageKR": "장난꾸러기 요정이 물건을 훔쳐 갔다고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "都會覺得是愛惡作劇的妖精",
+        "MessageEN": "thieving pixies or other tricksters"
     },
     {
         "MessageId": 100180482,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "考えたそうです",
         "MessageKR": "여겼다네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "把東西偷走了",
+        "MessageEN": "come from."
     },
     {
         "MessageId": 100180490,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "面白い話だね",
         "MessageKR": "흥미로운 이야기네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這個說法很有趣呢",
+        "MessageEN": "That's a fun fact."
     },
     {
         "MessageId": 100180500,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "もしかして……",
         "MessageKR": "그나저나 그런 화제를 꺼내는 걸 보니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "話說，你會提起這個話題",
+        "MessageEN": "So, my best guess would be"
     },
     {
         "MessageId": 100180510,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "何か物でも失くしちゃった？",
         "MessageKR": "뭔가 잃어버린 물건이라도 있는 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "該不會是弄丟了什麼東西吧？",
+        "MessageEN": "that you lost something?"
     },
     {
         "MessageId": 100180520,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "い、いえ",
         "MessageKR": "아뇨",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒有",
+        "MessageEN": "No."
     },
     {
         "MessageId": 100180530,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "何も忘れてません",
         "MessageKR": "……사실 뭔가 잃어버렸다 하더라도",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……而且就算真的弄丟了什麼",
+        "MessageEN": "...Well, maybe I did?"
     },
     {
         "MessageId": 100180531,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "……多分",
         "MessageKR": "지금은 기억할 수 없을 것 같아요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我現在也想不起來了吧",
+        "MessageEN": "Maybe I didn't..."
     },
     {
         "MessageId": 100170537,

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 101320090,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "美術はお好きですか？",
         "MessageKR": "혹시…… 미술 좋아하세요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請問……您喜歡美術嗎？",
+        "MessageEN": "Do you like art...?"
     },
     {
         "MessageId": 101320100,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "急にどうしたの……？",
         "MessageKR": "어…… 글쎄……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔嗯……這個嘛……",
+        "MessageEN": "Uh... Depends?"
     },
     {
         "MessageId": 101320110,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "もしよろしければ",
         "MessageKR": "혹시 싫어하지 않으시면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果不討厭的話",
+        "MessageEN": "If you don't HATE it..."
     },
     {
         "MessageId": 101320111,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "お願いがありまして……",
         "MessageKR": "저 좀 도와주실 수 있으신가요……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可以幫幫我嗎……？",
+        "MessageEN": "could you help me with something art-related...?"
     },
     {
         "MessageId": 101320120,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "何でも言って！",
         "MessageKR": "물론이지! 그런데…… 무엇을?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然！不過……要幫什麼呢？",
+        "MessageEN": "Always! But with what...exactly?"
     },
     {
         "MessageId": 101320130,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "私……",
         "MessageKR": "저……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個……",
+        "MessageEN": "I..."
     },
     {
         "MessageId": 101320131,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "美術予備校へ行くことになったんです……！",
         "MessageKR": "미술 학원에 가야 해서요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我準備要去美術教室了！",
+        "MessageEN": "have to attend an art lesson...!"
     },
     {
         "MessageId": 101320140,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "絵に目覚めた！？",
         "MessageKR": "미술 학원?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "美術教室！？",
+        "MessageEN": "An art lesson?!"
     },
     {
         "MessageId": 101310157,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "先生も無事に帰られましたか？",
         "MessageKR": "잘 들어가셨나요, 선생님?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "平安到家了嗎，老師？",
+        "MessageEN": "Did you get home okay, Sensei?"
     },
     {
         "MessageId": 101320160,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "今日の食事、とても美味しかったです！",
         "MessageKR": "오늘 정말 맛있게 먹었습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天真的吃得很開心！",
+        "MessageEN": "The food was so good today...!"
     },
     {
         "MessageId": 101320161,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "考えてみたら",
         "MessageKR": "그런데 돌아와서 생각해 보니, 저……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過回來後仔細一想……",
+        "MessageEN": "Once I got home, I realized..."
     },
     {
         "MessageId": 101320162,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "何だか、奢っていただいてばかりで……",
         "MessageKR": "매번…… 선생님께 받기만 하는 것 같아서……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好像……每次都是我在接受老師的好意……",
+        "MessageEN": "You're always the one helping me..."
     },
     {
         "MessageId": 101320170,
@@ -195,7 +195,7 @@
         "ImagePath": "",
         "MessageJP": "次は、必ず私が……！",
         "MessageKR": "그러니까…… 다음에는 꼭……!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以……下次一定……！",
+        "MessageEN": "So...for sure...next time...!"
     }
 ]

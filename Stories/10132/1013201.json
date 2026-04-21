@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "ごめんなさい、部長……",
         "MessageKR": "부장님 죄송해요…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "對不起，部長……",
+        "MessageEN": "President, my apologies in advance..."
     },
     {
         "MessageId": 101320020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "次の動画撮影なのですが……",
         "MessageKR": "이번 영상 촬영 말인데……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請問這次的影片拍攝……",
+        "MessageEN": "But would you mind if we changed the date..."
     },
     {
         "MessageId": 101320021,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "日程を調整してもらえますか……？",
         "MessageKR": "날짜를 바꿀 수 있을까요……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可以改期嗎……？",
+        "MessageEN": "for our next video shoot...?"
     },
     {
         "MessageId": 101320030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "いつの間に私が部長に……！？",
         "MessageKR": "나, 인법연구부 부장이었구나……!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我，原來是忍術研究部的部長嗎……！",
+        "MessageEN": "Wow! When did I get promoted to Ninjutsu Research Club President?"
     },
     {
         "MessageId": 101320040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "先生！？",
         "MessageKR": "흐ㅔ에엑 서 선생님?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老老老老師！？",
+        "MessageEN": "ASDFGHKLDSG SENSEI?!"
     },
     {
         "MessageId": 101320041,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ごめんなさい！！",
         "MessageKR": "죄송해요! ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "對不起！ ",
+        "MessageEN": "I'm verryy very sorry! "
     },
     {
         "MessageId": 101320050,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "送信先を間違えてしまいました！",
         "MessageKR": "제가 메시지를 잘못 보냈나 봐요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "抱歉我傳錯人了！",
+        "MessageEN": "I messaged the wrong person...!"
     },
     {
         "MessageId": 101320060,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "なにか急用でも入ったの？",
         "MessageKR": "무슨 일로 참석을 못 하게 된 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你不能參加是有什麼事嗎？",
+        "MessageEN": "How come you can't make it, though?"
     },
     {
         "MessageId": 101320070,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "実は……",
         "MessageKR": "아, 그게……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，那個……",
+        "MessageEN": "Well..."
     },
     {
         "MessageId": 101320071,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "ちょうどその日",
         "MessageKR": "하필 그날 ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那天我正好 ",
+        "MessageEN": "I happen to be... "
     },
     {
         "MessageId": 101320072,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "ファッションモデルのアルバイトをすることになりまして……",
         "MessageKR": "패션모델 알바를 하게 되어서요……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有個時裝秀的打工……",
+        "MessageEN": "working a modeling gig on that day..."
     },
     {
         "MessageId": 101310077,

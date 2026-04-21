@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生殿",
         "MessageKR": "선생 공.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師大人",
+        "MessageEN": "Honorable Sensei."
     },
     {
         "MessageId": 160090600,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "遠い昔の古文書や",
         "MessageKR": "구시대의 고문서라던가  ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你對古時候的古文書  ",
+        "MessageEN": "Ancient records from past eras"
     },
     {
         "MessageId": 160090610,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "古代の記録媒体に ",
         "MessageKR": "혹은 오래된 고대의 기록매체……    ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "或是年代久遠的古代紀錄媒介……    ",
+        "MessageEN": "and old records from ancient times..."
     },
     {
         "MessageId": 160090620,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "興味はお有りだろうか……",
         "MessageKR": "그런 것에 관심이 있는가?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "之類的東西有興趣嗎？",
+        "MessageEN": "Have I piqued your interest?"
     },
     {
         "MessageId": 160090630,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "まさか、エンシェント忍者の……！",
         "MessageKR": "설마 에인션트 닌자의…… ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "該不會是取得了…… ",
+        "MessageEN": "Could it be THAT...?! "
     },
     {
         "MessageId": 160090630,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "あの古代の巻物が！？",
         "MessageKR": "고대 두루마리라도 입수한 건가!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "什麼古代忍者的古代卷軸吧！",
+        "MessageEN": "The ancient ninja's scrolls?!"
     },
     {
         "MessageId": 160090640,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "さっすが先生殿！",
         "MessageKR": "냐하핫! 역시 선생 공이야! ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "喵哈哈！不愧是老師大人！ ",
+        "MessageEN": "I knew you'd say that, Honorable Sensei! "
     },
     {
         "MessageId": 160090641,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "良い反応～！",
         "MessageKR": "그렇게 말해줄 줄 알았어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我就知道你會這麼說！",
+        "MessageEN": "But you're wrong!"
     },
     {
         "MessageId": 160090650,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "でもそれじゃない",
         "MessageKR": "하지만 틀렸어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過猜錯了！",
+        "MessageEN": "Nyahaha! You've fallen into my trap!"
     },
     {
         "MessageId": 160090660,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "この流れで！？",
         "MessageKR": "아니야?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原來不是嗎！？",
+        "MessageEN": "Me?! Wrong?!"
     },
     {
         "MessageId": 160090670,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "正確に言うと",
         "MessageKR": "뭐 굳이 따지자면 ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔嗯，硬要說的話 ",
+        "MessageEN": "Well technically speaking "
     },
     {
         "MessageId": 160090680,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "半分は正解なんだけどねー",
         "MessageKR": "반쯤 맞추기는 한 것이지만……. ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "也算猜中一半就是了…… ",
+        "MessageEN": "you're like half right... "
     },
     {
         "MessageId": 160090690,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "もし気になるなら",
         "MessageKR": "그러니까 혹시 궁금하다면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以如果老師有興趣的話",
+        "MessageEN": "So, if you're curious"
     },
     {
         "MessageId": 160090691,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "商店街まで来て！",
         "MessageKR": "저번의 그 상점가 입구에서 보자고!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就在上次那個商店街的入口見吧！",
+        "MessageEN": "meet me by the shopping district entrance we normally meet at!"
     },
     {
         "MessageId": 160090700,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "待ってるよー、先生殿！",
         "MessageKR": "기다리고 있겠소! 선생 공!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我會等你的！老師大人！",
+        "MessageEN": "I'll be waiting, Honorable Sensei!"
     },
     {
         "MessageId": 160090710,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "（シュバババッ）←素早く走る音",
         "MessageKR": "(슈바바밧) <- 빠르게 달리는 소리",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "（咻咻咻咻）<-快速奔跑的聲音",
+        "MessageEN": "\\*Shubababa\\* <- me running super fast"
     },
     {
         "MessageId": 160090720,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "う、うん……",
         "MessageKR": "그, 그래……. ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，嗯…… ",
+        "MessageEN": "O-Okay... "
     },
     {
         "MessageId": 160080727,

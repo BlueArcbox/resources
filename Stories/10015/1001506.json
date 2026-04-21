@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei!"
     },
     {
         "MessageId": 1001500420,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今って忙しいですか？",
         "MessageKR": "바쁘십니까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請問你現在忙嗎？",
+        "MessageEN": "Are you busy?"
     },
     {
         "MessageId": 1001500430,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "全然大丈夫！",
         "MessageKR": "아리스가 부르면 바쁘지 않아!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只要是愛麗絲找我，我都不忙！",
+        "MessageEN": "Not if you're the one asking, Aris!"
     },
     {
         "MessageId": 1001500440,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "良かったです！",
         "MessageKR": "와아!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哇！",
+        "MessageEN": "Yay!"
     },
     {
         "MessageId": 1001500441,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "実はアリス",
         "MessageKR": "그러면 말이에요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個，其實",
+        "MessageEN": "If that is so"
     },
     {
         "MessageId": 1001500442,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "先生に見せたいものがあります！",
         "MessageKR": "아리스는 선생님께 보여드리고 싶은 것이 있습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "愛麗絲有東西想給老師看！",
+        "MessageEN": "I would like to show you something!"
     },
     {
         "MessageId": 1001500450,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "見せたいもの……？",
         "MessageKR": "나에게 보여주고 싶은 것?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有東西想給我看？",
+        "MessageEN": "Really? What is it?"
     },
     {
         "MessageId": 1001500460,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "はい！",
         "MessageKR": "네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是的",
+        "MessageEN": "You must find out!"
     },
     {
         "MessageId": 1001500461,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "ゲーム開発部の部室で、待ってますね！",
         "MessageKR": "게임개발부실에서 기다리고 있겠습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "愛麗絲會在遊戲開發部的部室等老師！",
+        "MessageEN": "I will await you in the Game Development Department Room!"
     },
     {
         "MessageId": 1001490467,

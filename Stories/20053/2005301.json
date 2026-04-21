@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "ドーモ、先生殿 ",
         "MessageKR": "도-모, 선생=공.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你好，老師大人",
+        "MessageEN": "Domo, Honorable Sensei."
     },
     {
         "MessageId": 200530020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "ドーモ、ミチル殿",
         "MessageKR": "도-모, 미치루 공.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你好，三千留閣下",
+        "MessageEN": "Domo, Honorable Michiru."
     },
     {
         "MessageId": 200530030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "おぉっ！",
         "MessageKR": "오",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哦",
+        "MessageEN": "Oh!"
     },
     {
         "MessageId": 200530040,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "先生殿も忍者らしくなってきたね～",
         "MessageKR": "점점 닌자가 되어가고 있군!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "越來越有忍者風範了呢！",
+        "MessageEN": "You're sounding more like a real ninja every day!"
     },
     {
         "MessageId": 200530041,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "そろそろ忍術研究部に入りたくなった？",
         "MessageKR": "슬슬 인법연구부로 오는 게 어때?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "差不多該加入忍術研究部了吧？",
+        "MessageEN": "Do you want to join the Ninjutsu Research Club?"
     },
     {
         "MessageId": 200530050,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ところで今日はどうしたの？",
         "MessageKR": "그래서 무슨 일이라고, 미치루 공?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "話說有什麼事嗎，三千留閣下？",
+        "MessageEN": "Anyways, what's up, Honorable Michiru?"
     },
     {
         "MessageId": 200530060,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "スルー！？",
         "MessageKR": "은근슬쩍 넘겨 버렸어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "竟然就這樣若無其事地帶過了！",
+        "MessageEN": "Sensei used special technique: dodge the question completely!"
     },
     {
         "MessageId": 200530061,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "うぅ、忍者にも心というものがあるのに……",
         "MessageKR": "우으으, 닌자에게도 마음이라는 것이 있는데…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗚嗚嗚，忍者也是有心的說……",
+        "MessageEN": "Boo. Even ninjas have feelings, you know!"
     },
     {
         "MessageId": 200530070,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "……えっと、新しい忍術を研究してるんだけど",
         "MessageKR": "아무튼, 새로운 인법을 연구 중인데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總之，我正在研究新的忍術",
+        "MessageEN": "Whatever! So, I've been researching a new ninjutsu"
     },
     {
         "MessageId": 200530080,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "上手く行かないんだよねー……",
         "MessageKR": "쉽지 않더라고.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "結果卻不太順利",
+        "MessageEN": "but it hasn't been working all that great."
     },
     {
         "MessageId": 200530081,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと負傷しちゃって",
         "MessageKR": "그 과정에서 부상도 발생하고……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "過程中還受了傷……",
+        "MessageEN": "I actually hurt myself too..."
     },
     {
         "MessageId": 200530090,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "負傷！？",
         "MessageKR": "부상?! 무슨 일이야?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "受傷！？怎麼回事！？",
+        "MessageEN": "What? Where?! What happened?"
     },
     {
         "MessageId": 200530100,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "あ",
         "MessageKR": "응? 아니 별건 아니야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯？沒有啦，其實也不是什麼大事",
+        "MessageEN": "Eh it's nothing."
     },
     {
         "MessageId": 200530101,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "いや別に大したことないっていうか",
         "MessageKR": "아무튼 그래서 말이지……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以說呢……",
+        "MessageEN": "Anyways..."
     },
     {
         "MessageId": 200530110,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "すぐ向かう",
         "MessageKR": "일단 지금 바로 갈게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我現在馬上過去",
+        "MessageEN": "I'm coming. Right now."
     },
     {
         "MessageId": 200530120,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "え？",
         "MessageKR": "엣?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？",
+        "MessageEN": "Eh?"
     },
     {
         "MessageId": 200520137,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "先生殿",
         "MessageKR": "선생 공",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師大人",
+        "MessageEN": "Honorable Sensei."
     },
     {
         "MessageId": 200530131,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "その",
         "MessageKR": "운동복, 잘 입겠소이다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "運動服，我會好好穿的",
+        "MessageEN": "I will make good use of the tracksuit"
     },
     {
         "MessageId": 200530140,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとね",
         "MessageKR": "그리고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個",
+        "MessageEN": "and"
     },
     {
         "MessageId": 200530141,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "買ってもらったのも、大事にするから",
         "MessageKR": "그…… 고마워…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就是……謝謝你……",
+        "MessageEN": "Um... Thank you..."
     },
     {
         "MessageId": 200530142,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "あと、さっきはごめん",
         "MessageKR": "그리고 아까는…… 미안했…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還有剛才……對不……",
+        "MessageEN": "And for earlier... I'm"
     },
     {
         "MessageId": 200530150,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "……いや、やっぱり私は悪くないよね！？",
         "MessageKR": "아냐! 우냐악! 역시 안 미안해!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不！唔喵啊！果然還是一點都不覺得對不起！！",
+        "MessageEN": "You know what?! No! I'm NOT sorry at all"
     },
     {
         "MessageId": 200530160,
@@ -303,7 +303,7 @@
         "ImagePath": "",
         "MessageJP": "（ボンッ！）←煙幕弾の効果音",
         "MessageKR": "(퍼버버벙!) <- 연막탄 터뜨리는 소리",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "（砰啪啪啪！）<-煙霧彈爆炸的聲音",
+        "MessageEN": "(Pooofff!) <- Sound of smoke bomb going off"
     }
 ]
