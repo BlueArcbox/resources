@@ -313,8 +313,8 @@ if __name__ == "__main__":
         id_map = json.loads(f.read())
 
     sort_by_key = lambda table: dict(sorted(table.items()))
-    gamekee = Gamekee()
-    id_map = gamekee.fill_gamekee_id(id_map)
+    # gamekee = Gamekee()
+    # id_map = gamekee.fill_gamekee_id(id_map)
 
     sticker = StickerFetcher(id_map)
     for key in id_map:

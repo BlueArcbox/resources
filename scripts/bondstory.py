@@ -95,7 +95,7 @@ def download_raw_data():
         # Character data
         "character": {
             "jp": f"{BASE_URL}/jp/DB/CharacterExcelTable.json",
-            "global": f"{BASE_URL}/global/Excel/CharacterExcelTable.json",
+            "global": f"{BASE_URL}/global/DB/CharacterExcelTable.json",
         },
         # Localization data
         "etc": {

@@ -3,8 +3,8 @@
         "CharacterId": 10132,
         "MessageJP": "ツクヨ（ドレス）",
         "MessageKR": "츠쿠요(드레스)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "月夜（禮服）",
+        "MessageEN": "Tsukuyo (Dress)"
     },
     {
         "MessageId": 101310180,
@@ -111,7 +111,7 @@
         "ImagePath": "",
         "MessageJP": "ツクヨ（ドレス）の絆イベントへ",
         "MessageKR": "츠쿠요(드레스)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往月夜（禮服）的羈絆劇情",
+        "MessageEN": "Go to Tsukuyo (Dress)'s Bond Story"
     }
 ]

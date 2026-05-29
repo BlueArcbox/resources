@@ -3,8 +3,8 @@
         "CharacterId": 20054,
         "MessageJP": "ヒマリ（臨戦）",
         "MessageKR": "히마리(무장)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "陽葵（武裝）",
+        "MessageEN": "Himari (Armed)"
     },
     {
         "MessageId": 200530010,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "いくら先生といえど",
         "MessageKR": "선생님께서는 아마도 지금",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師您現在",
+        "MessageEN": "I'm sure you're deep asleep"
     },
     {
         "MessageId": 200540020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "こんな時間には眠っていますよね",
         "MessageKR": "푹 주무시고 계시겠죠",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "應該正在熟睡吧",
+        "MessageEN": "at the moment, Sensei."
     },
     {
         "MessageId": 200540021,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "もしも起きているのなら早く寝てください",
         "MessageKR": "사실 저도 예약 모모톡으로",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "其實我也是用預約功能",
+        "MessageEN": "I've scheduled these messages in advance"
     },
     {
         "MessageId": 200540022,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "なお、このメッセージは予約送信です",
         "MessageKR": "보내드리고 있는 것이지만요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "發送MomoTalk給您的",
+        "MessageEN": "through MomoTalk."
     },
     {
         "MessageId": 200540030,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "それでは先生",
         "MessageKR": "그러면 선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼老師",
+        "MessageEN": "Well then, Sensei."
     },
     {
         "MessageId": 200540031,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "明日の朝をどうぞお楽しみに",
         "MessageKR": "시간이 되면 깨워 드릴 테니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "時間到了我會叫醒您的",
+        "MessageEN": "When the time comes, I'll be there to wake you."
     },
     {
         "MessageId": 200540032,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ちゃんと起きてくださいね",
         "MessageKR": "너무 놀라지 말고 일어나 주세요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還請不要太驚訝哦",
+        "MessageEN": "Please don't be too surprised when I do."
     },
     {
         "MessageId": 200530037,
@@ -111,7 +111,7 @@
         "ImagePath": "",
         "MessageJP": "ヒマリ（臨戦）の絆イベントへ",
         "MessageKR": "히마리(무장)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往陽葵（武裝）的羈絆劇情",
+        "MessageEN": "Go to Himari (Armed)'s Bond Story"
     }
 ]

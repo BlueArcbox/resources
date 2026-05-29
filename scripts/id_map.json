@@ -2130,6 +2130,45 @@
             false
         ]
     },
+    "10139": {
+        "kivo_id": 65,
+        "avatar": "https://static.kivo.wiki/images/students/吉野 妮可/original/Student_Portrait_CH0172_Collection.png",
+        "momotalk": "如需使用＜FOX EATS＞服务，请通过 App 预约。",
+        "name_en": "Niko",
+        "name_jp": "ニコ",
+        "name_zh": "妮可",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
+    "10140": {
+        "kivo_id": 66,
+        "avatar": "https://static.kivo.wiki/images/students/高仓 胡桃/original/Student_Portrait_CH0173_Collection.png",
+        "momotalk": "一往无前主义",
+        "name_en": "Kurumi",
+        "name_jp": "クルミ",
+        "name_zh": "胡桃",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
+    "10141": {
+        "kivo_id": 353,
+        "avatar": "https://static.kivo.wiki/images/students/伊草 遥香/礼服/Student_Portrait_CH0247_Collection.png",
+        "momotalk": "正在工作中，难以及时回复",
+        "name_en": "Haruka",
+        "name_jp": "ハルカ（ドレス）",
+        "name_zh": "遥香（礼服）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
     "13000": {
         "kivo_id": 24,
         "gamekee_id": 66752,
@@ -2661,6 +2700,19 @@
         "name_en": "Toki",
         "name_jp": "トキ（臨戦）",
         "name_zh": "时（临战）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
+    "16020": {
+        "kivo_id": 67,
+        "avatar": "https://static.kivo.wiki/images/students/天神山 音葵/original/Student_Portrait_CH0174_Collection.png",
+        "momotalk": "群众中的孤独",
+        "name_en": "Otogi",
+        "name_jp": "オトギ",
+        "name_zh": "音葵",
         "nicknames": [],
         "sticker_download_flag": [
             true,
@@ -3530,6 +3582,34 @@
         "name_en": "Akane",
         "name_jp": "アカネ（制服）",
         "name_zh": "茜（制服）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
+    "20058": {
+        "kivo_id": 159,
+        "avatar": "https://static.kivo.wiki/images/students/旗见 绘里香/original/Student_Portrait_erika_Collection.png",
+        "momotalk": "(• - •)",
+        "name_en": "erika",
+        "name_jp": "エリカ",
+        "name_zh": "绘里香",
+        "nicknames": [
+            "艾丽卡"
+        ],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
+    "20059": {
+        "kivo_id": 352,
+        "avatar": "https://static.kivo.wiki/images/students/浅黄 睦月/礼服/Student_Portrait_CH0246_Collection.png",
+        "momotalk": "正在游玩潜入游戏~",
+        "name_en": "Mutsuki",
+        "name_jp": "ムツキ（ドレス）",
+        "name_zh": "睦月（礼服）",
         "nicknames": [],
         "sticker_download_flag": [
             true,

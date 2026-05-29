@@ -3,8 +3,8 @@
         "CharacterId": 20054,
         "MessageJP": "ヒマリ（臨戦）",
         "MessageKR": "히마리(무장)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "陽葵（武裝）",
+        "MessageEN": "Himari (Armed)"
     },
     {
         "MessageId": 200530040,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "もしもーし",
         "MessageKR": "똑똑똑",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "叩叩叩",
+        "MessageEN": "knock knock"
     },
     {
         "MessageId": 200540050,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "もしかしてお昼寝されていますか？",
         "MessageKR": "일어나세요 선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請起床，老師",
+        "MessageEN": "Wake up, Sensei."
     },
     {
         "MessageId": 200540060,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "起きてください、先生",
         "MessageKR": "점심도 드셨을 테고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "午餐應該已經吃過",
+        "MessageEN": "I'm sure you've already eaten lunch,"
     },
     {
         "MessageId": 200540061,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "そろそろお昼休みが終わりますよ",
         "MessageKR": "정오 휴식 시간도 끝나 간답니다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "午休時間也快結束了",
+        "MessageEN": "and your break is almost over now."
     },
     {
         "MessageId": 200540070,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "うぅぅ……",
         "MessageKR": "으어어어……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗚嗚嗚……",
+        "MessageEN": "Augh..."
     },
     {
         "MessageId": 200540070,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "いま起きました……",
         "MessageKR": "일어납니다…… 일어났어요……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "起來了……我起來了……",
+        "MessageEN": "I'm getting up... I'm up..."
     },
     {
         "MessageId": 200540080,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "良かったです",
         "MessageKR": "네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好的",
+        "MessageEN": "Yes."
     },
     {
         "MessageId": 200540081,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "リフレッシュできていれば良いのですが",
         "MessageKR": "감사합니다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝您",
+        "MessageEN": "Thank you."
     },
     {
         "MessageId": 200540090,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "午後の業務も頑張りましょう",
         "MessageKR": "그러면 오후 업무도",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼下午的工作",
+        "MessageEN": "Then let's do our best"
     },
     {
         "MessageId": 200540091,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "私もお手伝いに参りますので",
         "MessageKR": "함께 힘내 봐요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "一起加油吧",
+        "MessageEN": "this afternoon too."
     },
     {
         "MessageId": 200530097,
@@ -147,7 +147,7 @@
         "ImagePath": "",
         "MessageJP": "ヒマリ（臨戦）の絆イベントへ",
         "MessageKR": "히마리(무장)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往陽葵（武裝）的羈絆劇情",
+        "MessageEN": "Go to Himari (Armed)'s Bond Story"
     }
 ]

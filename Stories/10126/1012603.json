@@ -3,8 +3,8 @@
         "CharacterId": 10126,
         "MessageJP": "カノエ",
         "MessageKR": "카노에",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "鹿江",
+        "MessageEN": "Kanoe"
     },
     {
         "MessageId": 101250260,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "カノエの絆イベントへ",
         "MessageKR": "카노에의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往鹿江的羈絆劇情",
+        "MessageEN": "Go to Kanoe's Bond Story"
     },
     {
         "MessageId": 101260340,

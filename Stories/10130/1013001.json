@@ -3,8 +3,8 @@
         "CharacterId": 10130,
         "MessageJP": "スバル",
         "MessageKR": "스바루",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "昴",
+        "MessageEN": "Subaru"
     },
     {
         "MessageId": 101290010,
@@ -219,7 +219,7 @@
         "ImagePath": "",
         "MessageJP": "スバルの絆イベントへ",
         "MessageKR": "스바루의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往昴的羈絆劇情",
+        "MessageEN": "Go to Subaru's Bond Story"
     }
 ]

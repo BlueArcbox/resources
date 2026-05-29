@@ -390,32 +390,6 @@
         "Related": null
     },
     {
-        "Id": 159,
-        "Avatar": [
-            "/api/Avatars/Kivo/Unreleased/Erika.webp",
-            "/api/Avatars/Fandom/Erika_Icon.png"
-        ],
-        "Name": {
-            "en": "Erika",
-            "jp": "エリカ",
-            "kr": "에리카",
-            "tw": "繪里香",
-            "zh": "绘里香"
-        },
-        "Bio": {},
-        "Nickname": [
-            "Erika",
-            "艾丽卡",
-            "绘梨香"
-        ],
-        "Birthday": "2/1",
-        "Age": "16歳",
-        "School": "Gehenna",
-        "Club": "ShinySparkleSociety",
-        "Released": false,
-        "Related": null
-    },
-    {
         "Id": 515,
         "Avatar": [
             "/api/Avatars/Kivo/Unreleased/Mirai.webp"
@@ -641,62 +615,6 @@
         "Related": null
     },
     {
-        "Id": 308,
-        "Avatar": [
-            "/api/Avatars/Kivo/Unreleased/Takane.webp",
-            "/api/Avatars/Fandom/Takane_Icon.png"
-        ],
-        "Name": {
-            "en": "Takane",
-            "jp": "タカネ",
-            "kr": "타카네",
-            "tw": "貴音",
-            "zh": "贵音"
-        },
-        "Bio": {
-            "en": "...I'm also one of the critics,...",
-            "jp": "……私も評論家です……",
-            "kr": "……나도 평론가예요……",
-            "tw": "...我也是評論家...",
-            "zh": "...我也是一个评论家..."
-        },
-        "Nickname": [
-            "Takane"
-        ],
-        "School": "RedWinter",
-        "Club": "Publishing Department",
-        "Released": false,
-        "Related": null
-    },
-    {
-        "Id": 309,
-        "Avatar": [
-            "/api/Avatars/Kivo/Unreleased/Yakumo.webp",
-            "/api/Avatars/Fandom/Yakumo_Icon.png"
-        ],
-        "Name": {
-            "en": "Yakumo",
-            "jp": "ヤクモ",
-            "kr": "야쿠모",
-            "tw": "八雲",
-            "zh": "八云"
-        },
-        "Bio": {
-            "en": "Publishing Dept. - Books are our business! -Aramaki Yakumo",
-            "jp": "出版部 - 書は我々の商売！ - 新海 八雲",
-            "kr": "출판부 - 책은 우리의 사업! - 신카이 야쿠모",
-            "tw": "出版部 - 書是我们的業務！ - 新海 八雲",
-            "zh": "出版部 - 书是我们的业务！ - 新海 八云"
-        },
-        "Nickname": [
-            "Yakumo"
-        ],
-        "School": "RedWinter",
-        "Club": "Publishing Department",
-        "Released": false,
-        "Related": null
-    },
-    {
         "Id": 964,
         "Avatar": [
             "/api/Avatars/Kivo/Unreleased/Yukino.webp",
@@ -722,120 +640,6 @@
         "Birthday": "10/13",
         "School": "SRT",
         "Club": "FOX Platoon",
-        "Released": false,
-        "Related": null
-    },
-    {
-        "Id": 965,
-        "Avatar": [
-            "/api/Avatars/Kivo/Unreleased/Niko.webp",
-            "/api/Avatars/Fandom/Niko_Icon.png"
-        ],
-        "Name": {
-            "en": "Niko",
-            "jp": "ニコ",
-            "kr": "니코",
-            "tw": "妮可",
-            "zh": "妮可"
-        },
-        "Bio": {
-            "en": "Come get delicious, delicious Oinari-san, right here~",
-            "jp": "おいしい稲荷寿司がありますよ、こちら～",
-            "kr": "맛있는 이나리 스시가 있어요, 여기~",
-            "tw": "有好吃的稻荷壽司哦，這里~",
-            "zh": "有好吃的稻荷寿司哦，这里~"
-        },
-        "Nickname": [
-            "Niko",
-            "仁子"
-        ],
-        "School": "SRT",
-        "Club": "FOX Platoon",
-        "Released": false,
-        "Related": null
-    },
-    {
-        "Id": 966,
-        "Avatar": [
-            "/api/Avatars/Kivo/Unreleased/Kurumi.webp",
-            "/api/Avatars/Fandom/Kurumi_Icon.png"
-        ],
-        "Name": {
-            "en": "Kurumi",
-            "jp": "オトギ",
-            "kr": "쿠루미",
-            "tw": "胡桃",
-            "zh": "胡桃"
-        },
-        "Bio": {
-            "en": "I don't want your egg inarizushi! Salmon roe is better!",
-            "jp": "稲荷寿司はいらない！イクラの方がいい！",
-            "kr": "이나리 스시는 필요 없어요! 소라 알라는 더 좋아요!",
-            "tw": "不要稻荷壽司！要鮭魚子壽司！",
-            "zh": "不要稻荷寿司！要鲑鱼子寿司！"
-        },
-        "Nickname": [
-            "Kurumi"
-        ],
-        "School": "SRT",
-        "Club": "FOX Platoon",
-        "Released": false,
-        "Related": null
-    },
-    {
-        "Id": 967,
-        "Avatar": [
-            "/api/Avatars/Kivo/Unreleased/Otogi.webp",
-            "/api/Avatars/Fandom/Otogi_Icon.png"
-        ],
-        "Name": {
-            "en": "Otogi",
-            "jp": "クルミ",
-            "kr": "오토기",
-            "tw": "音葵",
-            "zh": "音葵"
-        },
-        "Bio": {
-            "en": "It's like the cute sniper makes a mistake because of too many enemies...",
-            "jp": "可愛いスナイパーが敵が多すぎてミスするような…",
-            "kr": "귀여운 스나이퍼가 적이 너무 많아서 실수하는 것처럼…",
-            "tw": "這就像可愛的狙擊手因為敵人太多而犯的錯",
-            "zh": "这就像可爱的狙击手因为敌人太多而犯的错"
-        },
-        "Nickname": [
-            "Otogi"
-        ],
-        "School": "SRT",
-        "Club": "FOX Platoon",
-        "Released": false,
-        "Related": null
-    },
-    {
-        "Id": 378,
-        "Avatar": [
-            "/api/Avatars/Kivo/Unreleased/Konoka.webp"
-        ],
-        "Name": {
-            "en": "Konoka",
-            "jp": "コノカ",
-            "kr": "코노카",
-            "tw": "木乃香",
-            "zh": "心华"
-        },
-        "Bio": {
-            "en": "So, what can I do for you?",
-            "jp": "なにかお手伝いできますか？",
-            "kr": "무슨 일을 도와드릴까요?",
-            "tw": "有什麼事需要我幫忙嗎？",
-            "zh": "有什么事需要我帮忙吗？"
-        },
-        "Nickname": [
-            "Konoka",
-            "木乃香",
-            "心华"
-        ],
-        "School": "Valkyrie",
-        "Club": "PublicPeaceBureau",
         "Released": false,
         "Related": null
     },
@@ -1000,24 +804,6 @@
         ],
         "School": "WildHunt",
         "Club": "Seven Prisoners",
-        "Released": false,
-        "Related": null
-    },
-    {
-        "Id": 550,
-        "Avatar": [
-            "/api/Avatars/Kivo/Unreleased/衣斐 莱娜_original.png"
-        ],
-        "Name": {
-            "en": "Rena",
-            "jp": "レナ",
-            "zh": "莱娜"
-        },
-        "Bio": {},
-        "Nickname": [
-            "Rena"
-        ],
-        "School": "WildHunt",
         "Released": false,
         "Related": null
     },
@@ -2331,7 +2117,7 @@
             "/api/Avatars/Kivo/Unreleased/Hoshino_Terror.webp",
             "/api/Avatars/Fandom/Hoshino_Icon.png",
             "/api/Avatars/Fandom/Hoshino_Robber_Icon.png",
-            "/api/Avatars/Gamekee/147007.png"
+            "/api/Avatars/Fandom/Hoshino Winter Icon.png"
         ],
         "Name": {
             "en": "Hoshino",
@@ -2793,7 +2579,8 @@
             "/api/Avatars/Kivo/Released/13004.webp",
             "/api/Avatars/Fandom/Nonomi_Icon.png",
             "/api/Avatars/Fandom/Nonomi_Robber_Icon.png",
-            "/api/Avatars/Gamekee/469920.png"
+            "/api/Avatars/Fandom/Nonomi Wounded Icon.png",
+            "/api/Avatars/Fandom/Nonomi Winter Icon.png"
         ],
         "Name": {
             "en": "Nonomi",
@@ -2866,11 +2653,7 @@
         "Id": 13006,
         "Avatar": [
             "/api/Avatars/Kivo/Released/13006.webp",
-            "/api/Avatars/Kivo/Unreleased/浅黄 睦月_礼服.png",
-            "/api/Avatars/Kivo/Unreleased/浅黄 睦月_西装.png",
-            "/api/Avatars/Fandom/Mutsuki_Icon.png",
-            "/api/Avatars/Fandom/Mutsuki_Dress_Icon.png",
-            "/api/Avatars/Fandom/Mutsuki_Suit_Icon.png"
+            "/api/Avatars/Fandom/Mutsuki_Icon.png"
         ],
         "Name": {
             "en": "Mutsuki",
@@ -3058,11 +2841,7 @@
         "Id": 16000,
         "Avatar": [
             "/api/Avatars/Kivo/Released/16000.webp",
-            "/api/Avatars/Kivo/Unreleased/伊草 遥香_礼服.png",
-            "/api/Avatars/Kivo/Unreleased/伊草 遥香_西装.png",
-            "/api/Avatars/Fandom/Haruka_Icon.png",
-            "/api/Avatars/Fandom/Haruka_Dress_Icon.png",
-            "/api/Avatars/Fandom/Haruka_Suit_Icon.png"
+            "/api/Avatars/Fandom/Haruka_Icon.png"
         ],
         "Name": {
             "en": "Haruka",
@@ -3329,7 +3108,8 @@
         "Id": 23000,
         "Avatar": [
             "/api/Avatars/Kivo/Released/23000.webp",
-            "/api/Avatars/Fandom/Airi_Icon.png"
+            "/api/Avatars/Fandom/Airi_Icon.png",
+            "/api/Avatars/Fandom/Airi Killer Icon.png"
         ],
         "Name": {
             "en": "Airi",
@@ -3508,7 +3288,8 @@
             "/api/Avatars/Kivo/Released/23005.webp",
             "/api/Avatars/Fandom/Ayane_Icon.png",
             "/api/Avatars/Fandom/Ayane_Robber_Icon.png",
-            "/api/Avatars/Fandom/Ayane_Ark_Uniform_Icon.png"
+            "/api/Avatars/Fandom/Ayane_Ark_Uniform_Icon.png",
+            "/api/Avatars/Fandom/Ayane Wounded Icon.png"
         ],
         "Name": {
             "en": "Ayane",
@@ -3711,7 +3492,8 @@
         "Id": 26005,
         "Avatar": [
             "/api/Avatars/Kivo/Released/26005.webp",
-            "/api/Avatars/Fandom/Yoshimi_Icon.png"
+            "/api/Avatars/Fandom/Yoshimi_Icon.png",
+            "/api/Avatars/Fandom/Yoshimi Mummy Icon.png"
         ],
         "Name": {
             "en": "Yoshimi",
@@ -3884,7 +3666,8 @@
         "Id": 13011,
         "Avatar": [
             "/api/Avatars/Kivo/Released/13011.webp",
-            "/api/Avatars/Fandom/Momoi_Icon.png"
+            "/api/Avatars/Fandom/Momoi_Icon.png",
+            "/api/Avatars/Fandom/Momoi Winter Icon.png"
         ],
         "Name": {
             "en": "Momoi",
@@ -3951,7 +3734,8 @@
         "Id": 10016,
         "Avatar": [
             "/api/Avatars/Kivo/Released/10016.webp",
-            "/api/Avatars/Fandom/Midori_Icon.png"
+            "/api/Avatars/Fandom/Midori_Icon.png",
+            "/api/Avatars/Fandom/Midori Winter Icon.png"
         ],
         "Name": {
             "en": "Midori",
@@ -4673,7 +4457,8 @@
         "Id": 10029,
         "Avatar": [
             "/api/Avatars/Kivo/Released/10029.webp",
-            "/api/Avatars/Fandom/Natsu_Icon.png"
+            "/api/Avatars/Fandom/Natsu_Icon.png",
+            "/api/Avatars/Fandom/Natsu Frankenstein Icon.png"
         ],
         "Name": {
             "en": "Natsu",
@@ -5583,8 +5368,7 @@
         "Avatar": [
             "/api/Avatars/Kivo/Released/10041.webp",
             "/api/Avatars/Fandom/Misaki_Unmask_Icon.png",
-            "/api/Avatars/Fandom/Misaki_Icon.png",
-            "/api/Avatars/Gamekee/834803.png"
+            "/api/Avatars/Fandom/Misaki Mask Icon.png"
         ],
         "Name": {
             "en": "Misaki",
@@ -6786,8 +6570,8 @@
             "/api/Avatars/Kivo/Released/10062.webp",
             "/api/Avatars/Fandom/Toki_Icon.png",
             "/api/Avatars/Fandom/Toki_Mode_2_Icon.png",
-            "/api/Avatars/Fandom/Toki_Abi-Eshufu_Icon.png",
-            "/api/Avatars/Kivo/Unreleased/飞鸟马 时_校服.png"
+            "/api/Avatars/Kivo/Unreleased/飞鸟马 时_校服.png",
+            "/api/Avatars/Fandom/Toki Abi-Eshufu Icon.png"
         ],
         "Name": {
             "en": "Toki",
@@ -6823,7 +6607,7 @@
         "Avatar": [
             "/api/Avatars/Kivo/Released/20024.webp",
             "/api/Avatars/Fandom/Nagisa_Icon.png",
-            "/api/Avatars/Fandom/Nagisa_Icon_3.png"
+            "/api/Avatars/Fandom/Nagisa Old Icon.png"
         ],
         "Name": {
             "en": "Nagisa",
@@ -8388,7 +8172,8 @@
         "Id": 10090,
         "Avatar": [
             "/api/Avatars/Kivo/Released/10090.webp",
-            "/api/Avatars/Fandom/Umika_Icon.png"
+            "/api/Avatars/Fandom/Umika_Icon.png",
+            "/api/Avatars/Fandom/Umika Old Icon.png"
         ],
         "Name": {
             "en": "Umika",
@@ -9401,7 +9186,8 @@
         "Id": 10110,
         "Avatar": [
             "/api/Avatars/Kivo/Released/10110.webp",
-            "/api/Avatars/Fandom/Seia_Icon.png"
+            "/api/Avatars/Fandom/Seia_Icon.png",
+            "/api/Avatars/Fandom/Seia Box Icon.png"
         ],
         "Name": {
             "en": "Seia",
@@ -9501,7 +9287,8 @@
     {
         "Id": 10111,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/10111.webp"
+            "/api/Avatars/Kivo/Released/10111.webp",
+            "/api/Avatars/Fandom/Neru_Schoolgirl_Icon.png"
         ],
         "Name": {
             "en": "Neru (School)",
@@ -9535,7 +9322,8 @@
         "Id": 20041,
         "Avatar": [
             "/api/Avatars/Kivo/Released/20041.webp",
-            "/api/Avatars/Fandom/Rio_Icon.png"
+            "/api/Avatars/Fandom/Rio_Icon.png",
+            "/api/Avatars/Fandom/Rio Winter Icon.png"
         ],
         "Name": {
             "en": "Rio",
@@ -9938,7 +9726,8 @@
         "Id": 10119,
         "Avatar": [
             "/api/Avatars/Kivo/Released/10119.webp",
-            "/api/Avatars/Fandom/Nagusa_Icon.png"
+            "/api/Avatars/Fandom/Nagusa_Icon.png",
+            "/api/Avatars/Fandom/Nagusa Old Icon.png"
         ],
         "Name": {
             "en": "Nagusa",
@@ -9970,7 +9759,8 @@
         "Id": 20046,
         "Avatar": [
             "/api/Avatars/Kivo/Released/20046.webp",
-            "/api/Avatars/Fandom/Niya_Icon.png"
+            "/api/Avatars/Fandom/Niya_Icon.png",
+            "/api/Avatars/Fandom/Niya Wounded Icon.png"
         ],
         "Name": {
             "en": "Niya",
@@ -10138,7 +9928,8 @@
     {
         "Id": 10123,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/10123.webp"
+            "/api/Avatars/Kivo/Released/10123.webp",
+            "/api/Avatars/Fandom/Seia_Swimsuit_Icon.png"
         ],
         "Name": {
             "en": "Seia (Swimsuit)",
@@ -10171,7 +9962,8 @@
     {
         "Id": 10124,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/10124.webp"
+            "/api/Avatars/Kivo/Released/10124.webp",
+            "/api/Avatars/Fandom/Hasumi_Swimsuit_Icon.png"
         ],
         "Name": {
             "en": "Hasumi (Swimsuit)",
@@ -10204,7 +9996,8 @@
     {
         "Id": 26015,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/26015.webp"
+            "/api/Avatars/Kivo/Released/26015.webp",
+            "/api/Avatars/Fandom/Ichika_Swimsuit_Icon.png"
         ],
         "Name": {
             "en": "Ichika (Swimsuit)",
@@ -10239,7 +10032,8 @@
     {
         "Id": 10122,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/10122.webp"
+            "/api/Avatars/Kivo/Released/10122.webp",
+            "/api/Avatars/Fandom/Mika_Swimsuit_Icon.png"
         ],
         "Name": {
             "en": "Mika (Swimsuit)",
@@ -10272,7 +10066,8 @@
     {
         "Id": 20048,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/20048.webp"
+            "/api/Avatars/Kivo/Released/20048.webp",
+            "/api/Avatars/Fandom/Nagisa_Swimsuit_Icon.png"
         ],
         "Name": {
             "en": "Nagisa (Swimsuit)",
@@ -10305,16 +10100,21 @@
     {
         "Id": 10125,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/10125.webp"
+            "/api/Avatars/Kivo/Released/10125.webp",
+            "/api/Avatars/Fandom/Eri_Icon.png"
         ],
         "Name": {
+            "en": "Eri",
             "jp": "エリ",
             "kr": "에리",
+            "tw": "繪梨",
             "zh": "绘里"
         },
         "Bio": {
+            "en": "May magic always be with you!",
             "jp": "魔法はいつでもあなたと共に！",
             "kr": "언제나 마법이 함께 하길!",
+            "tw": "願魔法永遠與你同在！",
             "zh": "魔法不论何时都与你同在！"
         },
         "Nickname": [
@@ -10331,16 +10131,21 @@
     {
         "Id": 10126,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/10126.webp"
+            "/api/Avatars/Kivo/Released/10126.webp",
+            "/api/Avatars/Fandom/Kanoe_Icon.png"
         ],
         "Name": {
+            "en": "Kanoe",
             "jp": "カノエ",
             "kr": "카노에",
+            "tw": "鹿江",
             "zh": "庚"
         },
         "Bio": {
+            "en": "Would you like to...listen to my voice?",
             "jp": "私の声……聴いてみるぅ？",
             "kr": "내 목소리…… 들어볼래?",
+            "tw": "想聽聽……我的聲音嗎？",
             "zh": "我的声音……不想听听看吗？"
         },
         "Nickname": [
@@ -10357,16 +10162,21 @@
     {
         "Id": 20049,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/20049.webp"
+            "/api/Avatars/Kivo/Released/20049.webp",
+            "/api/Avatars/Fandom/Misaki Swimsuit Icon.png"
         ],
         "Name": {
+            "en": "Misaki (Swimsuit)",
             "jp": "ミサキ（水着）",
             "kr": "미사키(수영복)",
+            "tw": "美咲（泳裝）",
             "zh": "美咲（泳装）"
         },
         "Bio": {
+            "en": "I hope the day clears up a bit.",
             "jp": "少しでも、晴れるといいな……。",
             "kr": "조금이지만, 날이 맑았으면.",
+            "tw": "稍微，希望天氣能晴朗一點……",
             "zh": "稍微放晴一些的话，就好了呢……"
         },
         "Nickname": [
@@ -10386,16 +10196,21 @@
     {
         "Id": 10127,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/10127.webp"
+            "/api/Avatars/Kivo/Released/10127.webp",
+            "/api/Avatars/Fandom/Miyo Icon.png"
         ],
         "Name": {
+            "en": "Miyo",
             "jp": "ミヨ",
             "kr": "미요",
+            "tw": "美代",
             "zh": "美代"
         },
         "Bio": {
+            "en": "Let's follow the school rules...",
             "jp": "校則は守りましょう……。",
             "kr": "교칙을 지킵시다…….",
+            "tw": "要遵守校規……",
             "zh": "一起遵守校规吧……。"
         },
         "Nickname": [
@@ -10412,16 +10227,21 @@
     {
         "Id": 10128,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/10128.webp"
+            "/api/Avatars/Kivo/Released/10128.webp",
+            "/api/Avatars/Fandom/Fuyu Icon.png"
         ],
         "Name": {
+            "en": "Fuyu",
             "jp": "フユ",
             "kr": "후유",
+            "tw": "冬",
             "zh": "冬"
         },
         "Bio": {
+            "en": "Techne, Medium, Art",
             "jp": "メディア、アート、テクネー",
             "kr": "테크네, 미디움, 아트",
+            "tw": "技藝、媒介、藝術",
             "zh": "媒体，艺术，技术"
         },
         "Nickname": [
@@ -10439,16 +10259,21 @@
     {
         "Id": 20050,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/20050.webp"
+            "/api/Avatars/Kivo/Released/20050.webp",
+            "/api/Avatars/Fandom/Ritsu Icon.png"
         ],
         "Name": {
+            "en": "Ritsu",
             "jp": "リツ",
             "kr": "리츠",
+            "tw": "律",
             "zh": "律"
         },
         "Bio": {
+            "en": "Looking for striped marble!",
             "jp": "縞模様の大理石どこー！",
             "kr": "줄무늬 대리석 구합니당!",
+            "tw": "我找到了條紋大理石喔！",
             "zh": "哪里有带条纹的大理石——！"
         },
         "Nickname": [
@@ -10465,16 +10290,21 @@
     {
         "Id": 10129,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/10129.webp"
+            "/api/Avatars/Kivo/Released/10129.webp",
+            "/api/Avatars/Fandom/Suzumi Magical Icon.png"
         ],
         "Name": {
+            "en": "Suzumi (Magical)",
             "jp": "スズミ（マジカル）",
             "kr": "스즈미(매지컬)",
+            "tw": "鈴美（魔法少女）",
             "zh": "铃美（魔法）"
         },
         "Bio": {
+            "en": "May today be a peaceful one...",
             "jp": "今日は平穏な一日でありますように……",
             "kr": "오늘은 평안한 하루가 되기를……",
+            "tw": "希望今天能是平安的一天……",
             "zh": "希望今天也是平稳的一天……"
         },
         "Nickname": [
@@ -10500,13 +10330,17 @@
             "/api/Avatars/Fandom/Rabu_Swimsuit_Icon.png"
         ],
         "Name": {
+            "en": "Rabu",
             "jp": "ラブ",
             "kr": "라브",
+            "tw": "良舞",
             "zh": "兰舞"
         },
         "Bio": {
+            "en": "Splash Helmet Gang is recruiting!",
             "jp": "ジャブジャブヘルメット団、団員募集中！",
             "kr": "퐁당퐁당 헬멧단, 대 모집 중!",
+            "tw": "嘩啦嘩啦頭盔團，正在大量招募團員！",
             "zh": "哗啦哗啦钢盔团，期待您的加入！"
         },
         "Nickname": [
@@ -10529,16 +10363,21 @@
     {
         "Id": 20051,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/20051.webp"
+            "/api/Avatars/Kivo/Released/20051.webp",
+            "/api/Avatars/Fandom/Reisa Magical Icon.png"
         ],
         "Name": {
+            "en": "Reisa (Magical)",
             "jp": "レイサ（マジカル）",
             "kr": "레이사(매지컬)",
+            "tw": "澪紗（魔法少女）",
             "zh": "玲纱（魔法）"
         },
         "Bio": {
+            "en": "The ♡ of the Magical Girl",
             "jp": "\"The ♡ of the Magical Girl\"",
             "kr": "The ♡ of the Magical Girl",
+            "tw": "「The ♡ of the Magical Girl」",
             "zh": "The ♡ of the Magical Girl"
         },
         "Nickname": [
@@ -10559,16 +10398,21 @@
     {
         "Id": 10130,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/10130.webp"
+            "/api/Avatars/Kivo/Released/10130.webp",
+            "/api/Avatars/Fandom/Subaru Icon.png"
         ],
         "Name": {
+            "en": "Subaru",
             "jp": "スバル",
             "kr": "스바루",
+            "tw": "昴",
             "zh": "昴"
         },
         "Bio": {
+            "en": "A step a day.",
             "jp": "毎日、一歩ずつ",
             "kr": "하루에 한 걸음씩",
+            "tw": "一天一步",
             "zh": "每日一小步"
         },
         "Nickname": [
@@ -10586,16 +10430,21 @@
     {
         "Id": 10131,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/10131.webp"
+            "/api/Avatars/Kivo/Released/10131.webp",
+            "/api/Avatars/Fandom/Takane_Icon.png"
         ],
         "Name": {
+            "en": "Takane",
             "jp": "タカネ",
             "kr": "타카네",
+            "tw": "貴音",
             "zh": "贵音"
         },
         "Bio": {
+            "en": "★★★★☆",
             "jp": "★★★★☆",
             "kr": "★★★★☆",
+            "tw": "★★★★☆",
             "zh": "★★★★☆"
         },
         "Nickname": [
@@ -10612,16 +10461,21 @@
     {
         "Id": 20052,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/20052.webp"
+            "/api/Avatars/Kivo/Released/20052.webp",
+            "/api/Avatars/Fandom/Yakumo_Icon.png"
         ],
         "Name": {
+            "en": "Yakumo",
             "jp": "ヤクモ",
             "kr": "야쿠모",
+            "tw": "八雲",
             "zh": "八云"
         },
         "Bio": {
+            "en": "Publish, Print, Distribute.",
             "jp": "出版、重版、流通",
             "kr": "출판. 증쇄. 유통.",
+            "tw": "出版、再版、流通",
             "zh": "出版，再版，发行"
         },
         "Nickname": [
@@ -10638,16 +10492,21 @@
     {
         "Id": 10132,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/10132.webp"
+            "/api/Avatars/Kivo/Released/10132.webp",
+            "/api/Avatars/Fandom/Tsukuyo_Dress_Icon.png"
         ],
         "Name": {
+            "en": "Tsukuyo (Dress)",
             "jp": "ツクヨ（ドレス）",
             "kr": "츠쿠요(드레스)",
+            "tw": "月夜（禮服）",
             "zh": "月咏（礼服）"
         },
         "Bio": {
+            "en": "I'll become a full-fledged ninja in the end!",
             "jp": "立派な忍者を目指して修行中、です！",
             "kr": "결국에는, 어엿한 닌자가 될 거니까요!",
+            "tw": "有朝一日，我會成為獨當一面的忍者！",
             "zh": "为了成为优秀的忍者修行中！"
         },
         "Nickname": [
@@ -10668,17 +10527,22 @@
     {
         "Id": 20053,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/20053.webp"
+            "/api/Avatars/Kivo/Released/20053.webp",
+            "/api/Avatars/Fandom/Michiru Dress Icon.png"
         ],
         "Name": {
+            "en": "Michiru (Dress)",
             "jp": "ミチル（ドレス）",
             "kr": "미치루(드레스)",
+            "tw": "三千留（禮服）",
             "zh": "满（礼服）"
         },
         "Bio": {
+            "en": "\"A Girl's Ninja Scroll Michiruchi, Dress Special\" uploaded!",
             "jp": "「少女忍法帖ミチルっち」ドレス特集アップしたよ！",
             "kr": "<소녀인법첩 미치룻치> 드레스 특집 업로드 완료!",
-            "zh": "【少女忍法帖小满亲】礼服特辑已经上传！"
+            "tw": "「少女忍法帖 小小三千留」禮服特輯上傳完成！",
+            "zh": "「少女忍法帖小满亲」礼服特辑已经上传！"
         },
         "Nickname": [
             "Michiru",
@@ -10698,16 +10562,21 @@
     {
         "Id": 10133,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/10133.webp"
+            "/api/Avatars/Kivo/Released/10133.webp",
+            "/api/Avatars/Fandom/Rio Armed Icon.png"
         ],
         "Name": {
+            "en": "Rio (Armed)",
             "jp": "リオ（臨戦）",
             "kr": "리오(무장)",
+            "tw": "莉央（武裝）",
             "zh": "莉音（临战）"
         },
         "Bio": {
+            "en": "Tasklist /S",
             "jp": "Tasklist /S",
             "kr": "Tasklist /S",
+            "tw": "Tasklist /S",
             "zh": "Tasklist /S"
         },
         "Nickname": [
@@ -10727,16 +10596,21 @@
     {
         "Id": 16019,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/16019.webp"
+            "/api/Avatars/Kivo/Released/16019.webp",
+            "/api/Avatars/Fandom/Toki Armed Icon.png"
         ],
         "Name": {
+            "en": "Toki (Armed)",
             "jp": "トキ（臨戦）",
             "kr": "토키(무장)",
+            "tw": "季（武裝）",
             "zh": "时（临战）"
         },
         "Bio": {
+            "en": "Mission preparations complete.",
             "jp": "作戦遂行、準備完了",
             "kr": "작전 수행 준비 완료",
+            "tw": "作戰執行準備完畢",
             "zh": "任务执行，准备就绪"
         },
         "Nickname": [
@@ -10756,21 +10630,25 @@
     {
         "Id": 20054,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/20054.webp"
+            "/api/Avatars/Kivo/Released/20054.webp",
+            "/api/Avatars/Fandom/Himari Armed Icon.png"
         ],
         "Name": {
+            "en": "Himari (Armed)",
             "jp": "ヒマリ（臨戦）",
             "kr": "히마리(무장)",
+            "tw": "陽葵（武裝）",
             "zh": "日鞠（临战）"
         },
         "Bio": {
+            "en": "Times like this call for a super-genius with delicate beauty.",
             "jp": "超天才清楚系美少女の活躍にご期待ください",
             "kr": "이럴 때일수록, 천재병약미소녀의 활약이 필요한 법.",
+            "tw": "請期待超天才清楚系美少女的活躍表現",
             "zh": "敬请期待超天才清楚系美少女的精彩表现"
         },
         "Nickname": [
-            "Himari",
-            " "
+            "Himari"
         ],
         "Birthday": "12/10",
         "Age": "17歳",
@@ -10786,17 +10664,22 @@
     {
         "Id": 10134,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/10134.webp"
+            "/api/Avatars/Kivo/Released/10134.webp",
+            "/api/Avatars/Fandom/Alice_Armed_Icon.png"
         ],
         "Name": {
+            "en": "Aris (Armed)",
             "jp": "アリス（臨戦）",
             "kr": "아리스(무장)",
+            "tw": "愛麗絲（武裝）",
             "zh": "爱丽丝（临战）"
         },
         "Bio": {
+            "en": "Hello, this is Tendou Aris.",
             "jp": "こんにちは！アリスです！",
             "kr": "안녕하세요. 텐도 아리스입니다.",
-            "zh": ""
+            "tw": "你好，我是天童愛麗絲",
+            "zh": "你好！这里是爱丽丝！"
         },
         "Nickname": [
             "Aris"
@@ -10815,17 +10698,24 @@
     {
         "Id": 10135,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/10135.webp"
+            "/api/Avatars/Kivo/Released/10135.webp",
+            "/api/Avatars/Fandom/Kei Icon.png",
+            "/api/Avatars/Fandom/Kei Prototype Icon.png",
+            "/api/Avatars/Fandom/Kei Robot Icon.png"
         ],
         "Name": {
+            "en": "Kei",
             "jp": "ケイ",
             "kr": "케이",
+            "tw": "Kei",
             "zh": "Kei"
         },
         "Bio": {
+            "en": "Kei from Millennium Science School.",
             "jp": "ケイです。よろしくお願いします",
             "kr": "밀레니엄 사이언스 스쿨, 케이입니다.",
-            "zh": ""
+            "tw": "我是Kei。請多指教。",
+            "zh": "我是Kei。请多指教"
         },
         "Nickname": [
             "Kei",
@@ -10843,7 +10733,8 @@
     {
         "Id": 10136,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/10136.webp"
+            "/api/Avatars/Kivo/Released/10136.webp",
+            "/api/Avatars/Fandom/Eimi Armed Icon.png"
         ],
         "Name": {
             "jp": "エイミ（臨戦）",
@@ -10873,7 +10764,8 @@
     {
         "Id": 20055,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/20055.webp"
+            "/api/Avatars/Kivo/Released/20055.webp",
+            "/api/Avatars/Fandom/Yuzu Armed Icon.png"
         ],
         "Name": {
             "jp": "ユズ（臨戦）",
@@ -10902,7 +10794,8 @@
     {
         "Id": 20056,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/20056.webp"
+            "/api/Avatars/Kivo/Released/20056.webp",
+            "/api/Avatars/Fandom/Koyuki Pajamas Icon.png"
         ],
         "Name": {
             "jp": "コユキ（パジャマ）",
@@ -10931,7 +10824,8 @@
     {
         "Id": 10137,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/10137.webp"
+            "/api/Avatars/Kivo/Released/10137.webp",
+            "/api/Avatars/Fandom/Konoka Icon.png"
         ],
         "Name": {
             "jp": "コノカ",
@@ -10944,7 +10838,9 @@
             "zh": "换了手机，联络方式都逃走啦。"
         },
         "Nickname": [
-            "konoka"
+            "konoka",
+            "木乃香",
+            "心华"
         ],
         "Birthday": "8/19",
         "Age": "16歳",
@@ -10957,7 +10853,8 @@
     {
         "Id": 10138,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/10138.webp"
+            "/api/Avatars/Kivo/Released/10138.webp",
+            "/api/Avatars/Fandom/Rena Icon.png"
         ],
         "Name": {
             "jp": "レナ",
@@ -10983,7 +10880,8 @@
     {
         "Id": 20057,
         "Avatar": [
-            "/api/Avatars/Kivo/Released/20057.webp"
+            "/api/Avatars/Kivo/Released/20057.webp",
+            "/api/Avatars/Fandom/Akane Schoolgirl Icon.png"
         ],
         "Name": {
             "jp": "アカネ（制服）",
@@ -11007,6 +10905,179 @@
         "Related": {
             "ItemId": 13000,
             "ItemType": "制服"
+        }
+    },
+    {
+        "Id": 10139,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10139.webp",
+            "/api/Avatars/Fandom/Niko_Icon.png"
+        ],
+        "Name": {
+            "jp": "ニコ",
+            "kr": "니코",
+            "zh": "妮可"
+        },
+        "Bio": {
+            "jp": "＜FOX EATS＞ご利用の場合はアプリから",
+            "kr": "<FOX EATS> 주문은 앱을 이용해 주세요",
+            "zh": "如需使用＜FOX EATS＞服务，请通过 App 预约。"
+        },
+        "Nickname": [
+            "Niko",
+            "仁子"
+        ],
+        "Birthday": "2/11",
+        "Age": "17歳",
+        "School": "SRT",
+        "Club": "FoxSquad",
+        "Star": 3,
+        "Released": true,
+        "Related": null
+    },
+    {
+        "Id": 10140,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10140.webp",
+            "/api/Avatars/Fandom/Kurumi_Icon.png"
+        ],
+        "Name": {
+            "jp": "クルミ",
+            "kr": "쿠루미",
+            "zh": "胡桃"
+        },
+        "Bio": {
+            "jp": "過去は振り返らない主義",
+            "kr": "뒤돌아보지 않을 거야",
+            "zh": "一往无前主义"
+        },
+        "Nickname": [
+            "Kurumi"
+        ],
+        "Birthday": "9/30",
+        "Age": "17歳",
+        "School": "SRT",
+        "Club": "FoxSquad",
+        "Star": 3,
+        "Released": true,
+        "Related": null
+    },
+    {
+        "Id": 16020,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/16020.webp",
+            "/api/Avatars/Fandom/Otogi_Icon.png"
+        ],
+        "Name": {
+            "jp": "オトギ",
+            "kr": "오토기",
+            "zh": "音葵"
+        },
+        "Bio": {
+            "jp": "群衆の中の孤独",
+            "kr": "군중 속의 고독",
+            "zh": "群众中的孤独"
+        },
+        "Nickname": [
+            "Otogi"
+        ],
+        "Birthday": "5/20",
+        "Age": "17歳",
+        "School": "SRT",
+        "Club": "FoxSquad",
+        "Star": 1,
+        "Released": true,
+        "Related": null
+    },
+    {
+        "Id": 20058,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/20058.webp",
+            "/api/Avatars/Fandom/Erika_Icon.png"
+        ],
+        "Name": {
+            "jp": "エリカ",
+            "kr": "에리카",
+            "zh": "绘里香"
+        },
+        "Bio": {
+            "jp": "(• - •)",
+            "kr": "(• - •)",
+            "zh": "(• - •)"
+        },
+        "Nickname": [
+            "erika",
+            "艾丽卡",
+            "绘梨香"
+        ],
+        "Birthday": "2/1",
+        "Age": "16歳",
+        "School": "Gehenna",
+        "Club": "ShinySparkleSociety",
+        "Star": 3,
+        "Released": true,
+        "Related": null
+    },
+    {
+        "Id": 10141,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10141.webp",
+            "/api/Avatars/Fandom/Haruka_Dress_Icon.png",
+            "/api/Avatars/Fandom/Haruka_Suit_Icon.png"
+        ],
+        "Name": {
+            "jp": "ハルカ（ドレス）",
+            "kr": "하루카(드레스)",
+            "zh": "遥香（礼服）"
+        },
+        "Bio": {
+            "jp": "業務中は連絡が取りにくくなります",
+            "kr": "업무 수행 중에는 연락이 어렵습니다.",
+            "zh": "正在工作中，难以及时回复"
+        },
+        "Nickname": [
+            "Haruka"
+        ],
+        "Birthday": "5/13",
+        "Age": "15歳",
+        "School": "Gehenna",
+        "Club": "Kohshinjo68",
+        "Star": 3,
+        "Released": true,
+        "Related": {
+            "ItemId": 16000,
+            "ItemType": "ドレス"
+        }
+    },
+    {
+        "Id": 20059,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/20059.webp",
+            "/api/Avatars/Fandom/Mutsuki_Dress_Icon.png",
+            "/api/Avatars/Fandom/Mutsuki_Suit_Icon.png"
+        ],
+        "Name": {
+            "jp": "ムツキ（ドレス）",
+            "kr": "무츠키(드레스)",
+            "zh": "睦月（礼服）"
+        },
+        "Bio": {
+            "jp": "潜入ごっこ中～",
+            "kr": "잠입 놀이 중이야!",
+            "zh": "正在游玩潜入游戏~"
+        },
+        "Nickname": [
+            "Mutsuki"
+        ],
+        "Birthday": "7/29",
+        "Age": "16歳",
+        "School": "Gehenna",
+        "Club": "Kohshinjo68",
+        "Star": 3,
+        "Released": true,
+        "Related": {
+            "ItemId": 13006,
+            "ItemType": "ドレス"
         }
     }
 ]

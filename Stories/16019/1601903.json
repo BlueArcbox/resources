@@ -3,8 +3,8 @@
         "CharacterId": 16019,
         "MessageJP": "トキ（臨戦）",
         "MessageKR": "토키(무장)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "季（武裝）",
+        "MessageEN": "Toki (Armed)"
     },
     {
         "MessageId": 160180100,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "お聞きしたいことがあるのですが",
         "MessageKR": "선생님은",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 160190110,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "アップグレードについてどう思いますか",
         "MessageKR": "업그레이드라는 개념에 대해 어떻게 생각하십니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "您對升級這個概念有什麼看法呢",
+        "MessageEN": "What are your thoughts on the concept of an \"upgrade\"?"
     },
     {
         "MessageId": 160190120,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "リソースに余裕があれば強化していくもの、かな",
         "MessageKR": "자원이 남게 되면 눌러두는 거?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "資源充裕的話就強化？",
+        "MessageEN": "Something you click when you farm free resources?"
     },
     {
         "MessageId": 160190120,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "他を少し諦めてでも強化していくもの、かな",
         "MessageKR": "다른 걸 조금 포기하더라도 진행시켜야 하는 거?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "即使必須取捨也要強化？",
+        "MessageEN": "Something you need, even at the cost of other comforts?"
     },
     {
         "MessageId": 160190130,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "なるほど",
         "MessageKR": "그렇군요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原來如此",
+        "MessageEN": "I see."
     },
     {
         "MessageId": 160190140,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "良い考え方です",
         "MessageKR": "아마도 게임의 이야기라고 생각합니다만.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "您指的是遊戲的事吧",
+        "MessageEN": "I'm assuming you're talking in context of video games."
     },
     {
         "MessageId": 160190141,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "先生はリソース配分を重視しているのですね",
         "MessageKR": "선생님께서는 자원 분배에 중점을 두시는군요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師很重視資源分配呢",
+        "MessageEN": "So your focus is on resource management."
     },
     {
         "MessageId": 160190150,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "なるほど\u200b",
         "MessageKR": "그렇군요.\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原來如此\u200b",
+        "MessageEN": "I see.\u200b"
     },
     {
         "MessageId": 160190160,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "良い考え方です\u200b",
         "MessageKR": "분명 게임의 이야기라고 생각합니다만.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "您指的是遊戲的事吧\u200b",
+        "MessageEN": "I'm sure you're talking in context of video games."
     },
     {
         "MessageId": 160190161,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "私も似たようなことを考えています",
         "MessageKR": "저도 비슷한 생각을 하고 있습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我也在思考類似的事情",
+        "MessageEN": "I had a similar vein of thought."
     },
     {
         "MessageId": 160190170,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "そして今回のお話はまさしく",
         "MessageKR": "다름이 아니오라",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總之",
+        "MessageEN": "You see..."
     },
     {
         "MessageId": 160190171,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "アップグレードに関するご相談です",
         "MessageKR": "그 업그레이드에 대해 드리고 싶은 말씀이 있습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我想跟您商量有關升級的事",
+        "MessageEN": "There's something I must discuss with you regarding upgrades."
     },
     {
         "MessageId": 160180177,
@@ -171,7 +171,7 @@
         "ImagePath": "",
         "MessageJP": "トキ（臨戦）の絆イベントへ",
         "MessageKR": "토키(무장)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往季（武裝）的羈絆劇情",
+        "MessageEN": "Go to Toki (Armed)'s Bond Story"
     }
 ]

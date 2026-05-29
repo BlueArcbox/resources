@@ -3,8 +3,8 @@
         "CharacterId": 16019,
         "MessageJP": "トキ（臨戦）",
         "MessageKR": "토키(무장)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "季（武裝）",
+        "MessageEN": "Toki (Armed)"
     },
     {
         "MessageId": 160180010,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "おはようございます",
         "MessageKR": "좋은 아침입니다. 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "早安，老師",
+        "MessageEN": "Good morning, Sensei."
     },
     {
         "MessageId": 160190020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "おはよう……の割には少し早いね……",
         "MessageKR": "좋은 아침…… 치고는 조금 이른 것 같지만……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "早安……雖然這麼說，似乎有點太早了呢……",
+        "MessageEN": "Good morning... or is it still nighttime at this point?"
     },
     {
         "MessageId": 160190030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ですが状況が状況ですので",
         "MessageKR": "하지만 이런 상황이니까요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "畢竟現在情況如此",
+        "MessageEN": "Given the circumstances..."
     },
     {
         "MessageId": 160190040,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "それはそうだね……",
         "MessageKR": "그건 그렇지……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "說的也是……",
+        "MessageEN": "True..."
     },
     {
         "MessageId": 160190050,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "では、お待ちしております",
         "MessageKR": "그러면 기다리고 있겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼，我會在這裡等您",
+        "MessageEN": "Well then, I will be waiting."
     },
     {
         "MessageId": 160180057,
@@ -87,7 +87,7 @@
         "ImagePath": "",
         "MessageJP": "トキ（臨戦）の絆イベントへ",
         "MessageKR": "토키(무장)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往季（武裝）的羈絆劇情",
+        "MessageEN": "Go to Toki (Armed)'s Bond Story"
     }
 ]

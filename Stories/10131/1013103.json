@@ -3,8 +3,8 @@
         "CharacterId": 10131,
         "MessageJP": "タカネ",
         "MessageKR": "타카네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "貴音",
+        "MessageEN": "Takane"
     },
     {
         "MessageId": 101300190,
@@ -171,7 +171,7 @@
         "ImagePath": "",
         "MessageJP": "タカネの絆イベントへ",
         "MessageKR": "타카네의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往貴音的羈絆劇情",
+        "MessageEN": "Go to Takane's Bond Story"
     }
 ]

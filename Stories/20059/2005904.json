@@ -1,0 +1,129 @@
+[
+    {
+        "CharacterId": 20059,
+        "MessageJP": "ムツキ（ドレス）",
+        "MessageKR": "무츠키(드레스)",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200580500,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 200590500,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 200590500,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200590510,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生、今日って忙しい？",
+        "MessageKR": "선생님. 오늘 바빠?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200590510,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200590511,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "特に用事がないなら遊びに行かない？",
+        "MessageKR": "별일 없으면 나랑 놀러 가지 않을래?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200590511,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200590520,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "私、行きたい場所があるんだよね",
+        "MessageKR": "나, 가보고 싶은 곳이 있거든!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200590520,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200590530,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "それは行かないとね！",
+        "MessageKR": "그럼 가야지!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200590530,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200590540,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "くふふ、そう言うと思った",
+        "MessageKR": "쿠후후, 그렇게 대답할 줄 알았어.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200590540,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200590541,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "じゃあ早く準備してね",
+        "MessageKR": "그럼 얼른 준비해.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200590541,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200590550,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "今から……",
+        "MessageKR": "지금부터……",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200590550,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200580557,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "オペラハウスに行くよ！",
+        "MessageKR": "오페라 하우스에 갈 거야!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200580557,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ムツキ（ドレス）の絆イベントへ",
+        "MessageKR": "무츠키(드레스)의 인연스토리로",
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
+    }
+]

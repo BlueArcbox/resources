@@ -3,8 +3,8 @@
         "CharacterId": 10133,
         "MessageJP": "リオ（臨戦）",
         "MessageKR": "리오(무장)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "莉央（武裝）",
+        "MessageEN": "Rio (Armed)"
     },
     {
         "MessageId": 101320520,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "どう考えても不足しているの",
         "MessageKR": "으음, 아무리 생각해도 부족해.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔嗯，無論怎麼想都覺得不夠",
+        "MessageEN": "Hmm, no matter how I look at it, it's not enough."
     },
     {
         "MessageId": 101330530,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "もっと完璧に仕上げたいのだけれど……",
         "MessageKR": "좀 더 완벽하게 만들고 싶어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真希望能做得更完美",
+        "MessageEN": "I want it as close to perfect as possible."
     },
     {
         "MessageId": 101330540,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "アバンギャルド君の話？",
         "MessageKR": "아방가르드 군 이야기?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是在說前衛君嗎？",
+        "MessageEN": "The Avant Guard?"
     },
     {
         "MessageId": 101330550,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "それも悪くないわね",
         "MessageKR": "아방가르드 군의 개조도 좋지만……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然改造前衛君也不錯……",
+        "MessageEN": "While I enjoy working on the Avant Guard as well..."
     },
     {
         "MessageId": 101330560,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "けれど今回は私のスーツに関することよ",
         "MessageKR": "이번엔 내 슈트 이야기야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但這次指的是我的戰鬥服",
+        "MessageEN": "This time, I'm speaking of my suit."
     },
     {
         "MessageId": 101330561,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "今のスーツに発熱機能をつければ",
         "MessageKR": "지금 슈트에 발열 기능을 넣는다면…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果能再加入發熱功能的話……",
+        "MessageEN": "If I could install a heater function in some capacity,"
     },
     {
         "MessageId": 101330562,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "もっと色々な状況に対応できるはず",
         "MessageKR": "좀 더 여러 변수에 대응할 수 있겠지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "應該可以應對更多變數才對",
+        "MessageEN": "I'd be better prepared for a wider range of variables."
     },
     {
         "MessageId": 101330570,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "ええ",
         "MessageKR": "그래.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是啊",
+        "MessageEN": "Makes sense."
     },
     {
         "MessageId": 101330571,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "やはりその方が合理的",
         "MessageKR": "역시 그쪽이 합리적이야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "果然那樣比較合理",
+        "MessageEN": "Sounds very rational."
     },
     {
         "MessageId": 101330580,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "今すぐ取りかかるわ",
         "MessageKR": "지금 당장 해야겠어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我馬上開始作業",
+        "MessageEN": "There's no time to waste, then."
     },
     {
         "MessageId": 101320597,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "リオ（臨戦）の絆イベントへ",
         "MessageKR": "리오(무장)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往莉央（武裝）的羈絆劇情",
+        "MessageEN": "Go to Rio (Armed)'s Bond Story"
     },
     {
         "MessageId": 101330590,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "先生、その……",
         "MessageKR": "선생. 그……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，那個……",
+        "MessageEN": "Sensei. Um..."
     },
     {
         "MessageId": 101330600,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "変なところを見せてしまったわね",
         "MessageKR": "본의 아니게 추태를 보였어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "抱歉讓你看到難堪的樣子",
+        "MessageEN": "I wasn't expecting to embarrass myself like that."
     },
     {
         "MessageId": 101330610,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "ごめんなさい",
         "MessageKR": "일단 사과할게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我向你道歉",
+        "MessageEN": "I'm sorry."
     },
     {
         "MessageId": 101330620,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "気にしてないよ！本当に！",
         "MessageKR": "난 괜찮아! 정말로!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我不介意的！真的！",
+        "MessageEN": "I was completely, 100% unfazed! Really!"
     },
     {
         "MessageId": 101330630,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "……本当？",
         "MessageKR": "……정말?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……真的嗎？",
+        "MessageEN": "...Really?"
     },
     {
         "MessageId": 101330631,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "……",
         "MessageKR": "…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……",
+        "MessageEN": "..."
     },
     {
         "MessageId": 101330632,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "それならいいのだけれど……",
         "MessageKR": "……다행이네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……那就好",
+        "MessageEN": "Thank goodness."
     },
     {
         "MessageId": 101330640,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "あんな姿",
         "MessageKR": "사실 그런 모습은……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "其實那種樣子……",
+        "MessageEN": "To be honest, that was the first time"
     },
     {
         "MessageId": 101330650,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "他の誰にも見せたことがなかったから……",
         "MessageKR": "누구에게도 보여준 적 없어서……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我從來沒有讓任何人見過……",
+        "MessageEN": "anyone's seen that side of me."
     },
     {
         "MessageId": 101330660,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "とにかく、今日は手伝ってくれてありがとう",
         "MessageKR": "아무튼 오늘 도와줘서 고마웠어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總之，謝謝你今天的幫忙",
+        "MessageEN": "Anyways, thanks for your help today."
     },
     {
         "MessageId": 101330661,
@@ -279,7 +279,7 @@
         "ImagePath": "",
         "MessageJP": "ゆっくり休んでちょうだい",
         "MessageKR": "푹 쉬고, 다음에 봐.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好好休息吧。下次見",
+        "MessageEN": "Get some rest. I'll see you next time."
     }
 ]

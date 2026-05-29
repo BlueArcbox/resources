@@ -3,8 +3,8 @@
         "CharacterId": 20054,
         "MessageJP": "ヒマリ（臨戦）",
         "MessageKR": "히마리(무장)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "陽葵（武裝）",
+        "MessageEN": "Himari (Armed)"
     },
     {
         "MessageId": 200530100,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "暗くなってきましたね",
         "MessageKR": "저녁이 되었네요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "已經傍晚了呢",
+        "MessageEN": "It's evening."
     },
     {
         "MessageId": 200540110,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "もう夜だね",
         "MessageKR": "그래. 저녁이 되었네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是啊，已經傍晚了呢",
+        "MessageEN": "Yeah. It's already evening."
     },
     {
         "MessageId": 200540120,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ふふ",
         "MessageKR": "후후",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵",
+        "MessageEN": "Fufu."
     },
     {
         "MessageId": 200540121,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "いよいよです",
         "MessageKR": "그렇다는 것은 선생님께",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這就表示可以向老師",
+        "MessageEN": "That means I can"
     },
     {
         "MessageId": 200540122,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "屋外用車椅子の真骨頂を",
         "MessageKR": "제 실외용 휠체어의",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "展示我的室外用輪椅",
+        "MessageEN": "finally showcase the true potential"
     },
     {
         "MessageId": 200540123,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "先生にお見せする時が来ました",
         "MessageKR": "진면목을 보여 드릴 수 있다는 뜻이겠고요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真正實力的意思呢",
+        "MessageEN": "of my Tactical Wheelchair."
     },
     {
         "MessageId": 200540130,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "覚悟はできてるよ……！",
         "MessageKR": "오는가…… 각오는 되어 있다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "來了嗎……我已經準備好了！",
+        "MessageEN": "I see... I'm ready to see it!"
     },
     {
         "MessageId": 200540140,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "やる気に満ちたご返答",
         "MessageKR": "의욕 넘치게 보이는 대답",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "充滿幹勁的回答",
+        "MessageEN": "Thank you for"
     },
     {
         "MessageId": 200540141,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとうございます",
         "MessageKR": "감사합니다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "非常感謝",
+        "MessageEN": "your enthusiastic response."
     },
     {
         "MessageId": 200540150,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "忘れられない思い出をプレゼントいたします",
         "MessageKR": "잊지 못할 기억을 선물해 드릴게요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我會送給您一段難忘的回憶",
+        "MessageEN": "I'll show you something unforgettable."
     },
     {
         "MessageId": 200530167,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "ヒマリ（臨戦）の絆イベントへ",
         "MessageKR": "히마리(무장)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往陽葵（武裝）的羈絆劇情",
+        "MessageEN": "Go to Himari (Armed)'s Bond Story"
     },
     {
         "MessageId": 200540160,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "今日も1日",
         "MessageKR": "오늘 하루",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天一天",
+        "MessageEN": "Thank you"
     },
     {
         "MessageId": 200540170,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "お疲れさまでした",
         "MessageKR": "수고하셨습니다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "辛苦您了",
+        "MessageEN": "for your great work today."
     },
     {
         "MessageId": 200540180,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "長かったような、短かったような……",
         "MessageKR": "길었으면서 짧은 듯한, 짧았으면서 길었던 듯한……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "感覺很長又很短，很短又很長……",
+        "MessageEN": "It felt long yet short..."
     },
     {
         "MessageId": 200540190,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "ふふ\u200b",
         "MessageKR": "후후\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵\u200b",
+        "MessageEN": "Fufu.\u200b"
     },
     {
         "MessageId": 200540191,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "私もそう感じていましたよ",
         "MessageKR": "저도 그렇게 느꼈답니다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我也有同樣的感覺呢",
+        "MessageEN": "I felt similarly."
     },
     {
         "MessageId": 200540200,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "すぐにまた新しい1日が訪れます",
         "MessageKR": "내일은 또 다른 하루가 시작되겠죠",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "明天又會開始新的一天",
+        "MessageEN": "Tomorrow will be a new day."
     },
     {
         "MessageId": 200540201,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "明日には明日の太陽が昇ります",
         "MessageKR": "다음의 태양이 떠오를 테고요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "太陽也會再次升起",
+        "MessageEN": "And a new sun will rise."
     },
     {
         "MessageId": 200540202,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "ゆっくりお休みくださいね",
         "MessageKR": "푹 주무세요 선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請好好休息，老師",
+        "MessageEN": "Good night, Sensei."
     },
     {
         "MessageId": 200540210,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "ヒマリもおやすみ",
         "MessageKR": "히마리도 잘 자",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "陽葵也晚安",
+        "MessageEN": "Good night, Himari."
     },
     {
         "MessageId": 200540220,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "そして明日の ",
         "MessageKR": "그리고 내일의",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還有明天的",
+        "MessageEN": "And please look forward to tomorrow's"
     },
     {
         "MessageId": 200540221,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "超天才病弱美少女ライフスタッフの活躍",
         "MessageKR": "초천재병약미소녀 라이프 스태프 역시",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "超天才病弱美少女生活助理的表現",
+        "MessageEN": "beautiful, delicate genius hacker's"
     },
     {
         "MessageId": 200540222,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "楽しみにしていてくださいね",
         "MessageKR": "기대해 주시고요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "也敬請期待哦",
+        "MessageEN": "life support as well."
     },
     {
         "MessageId": 200540230,
@@ -303,7 +303,7 @@
         "ImagePath": "",
         "MessageJP": "それだけは譲らないんだね……",
         "MessageKR": "그것만은 포기하지 않는구나……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只有這點是不會放棄的呢……",
+        "MessageEN": "So you're not giving up on that..."
     }
 ]

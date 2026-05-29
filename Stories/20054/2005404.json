@@ -3,8 +3,8 @@
         "CharacterId": 20054,
         "MessageJP": "ヒマリ（臨戦）",
         "MessageKR": "히마리(무장)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "陽葵（武裝）",
+        "MessageEN": "Himari (Armed)"
     },
     {
         "MessageId": 200530240,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "私としたことが！",
         "MessageKR": "……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……？",
+        "MessageEN": "...?"
     },
     {
         "MessageId": 200540250,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "先生、すぐに伺います",
         "MessageKR": "선생님, 지금 몇 시인가요?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，請問現在幾點了！？",
+        "MessageEN": "What time is it, Sensei?!"
     },
     {
         "MessageId": 200540260,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "あ、おはよう、ヒマリ",
         "MessageKR": "오, 일어났구만. 히마리.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哦，你醒啦，陽葵",
+        "MessageEN": "Himari! You're finally up."
     },
     {
         "MessageId": 200540260,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "ヒマリが寝坊だなんて珍しいね",
         "MessageKR": "히마리가 늦잠을 자다니 아깝네\\~ 사진 찍어 둘걸\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "陽葵居然會睡過頭～應該拍照留念的～",
+        "MessageEN": "I can't believe you overslept. I should've taken a photo."
     },
     {
         "MessageId": 200540270,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "まさか……",
         "MessageKR": "……!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……！",
+        "MessageEN": "...!"
     },
     {
         "MessageId": 200540271,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "完全無欠超天才病弱美少女ハッカーである私が",
         "MessageKR": "이럴 수가…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼會這樣……",
+        "MessageEN": "How could this happen..."
     },
     {
         "MessageId": 200540272,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "このような失態を……！",
         "MessageKR": "완전무결초천재병약미소녀해커인 제가, 이런 실수를 하다니……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "身為完美無缺超天才病弱美少女駭客的我，居然會犯下這種錯誤……",
+        "MessageEN": "I can't believe a superperfectgeniusdelicatebeauty hacker like me would make such mistake..."
     },
     {
         "MessageId": 200540280,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "ご飯、持っていってあげるね",
         "MessageKR": "식사 가져다줄 테니까 기다리고 있어\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我會把食物帶過去，等我一下哦～",
+        "MessageEN": "I'll bring you your meal, so just wait right there!"
     },
     {
         "MessageId": 200530297,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "ヒマリ（臨戦）の絆イベントへ",
         "MessageKR": "히마리(무장)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往陽葵（武裝）的羈絆劇情",
+        "MessageEN": "Go to Himari (Armed)'s Bond Story"
     },
     {
         "MessageId": 200540290,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "おはようございます",
         "MessageKR": "똑똑똑",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "叩叩叩",
+        "MessageEN": "knock knock"
     },
     {
         "MessageId": 200540300,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "もう起きていらっしゃいますか？",
         "MessageKR": "안녕히 주무셨나요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "您睡得好嗎？",
+        "MessageEN": "Did you sleep well?"
     },
     {
         "MessageId": 200540310,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "いつの間にか自分の部屋に戻ってた……",
         "MessageKR": "어느 사이엔가 내 방에 돌아와 있었어……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不知不覺已經回到自己的房間了……",
+        "MessageEN": "I don't know how I ended up in my room..."
     },
     {
         "MessageId": 200540320,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "あの",
         "MessageKR": "음 그게",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，那個",
+        "MessageEN": "Um, well"
     },
     {
         "MessageId": 200540321,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "それがですね",
         "MessageKR": "그러니까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這是因為",
+        "MessageEN": "So..."
     },
     {
         "MessageId": 200540330,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "エイミが私を起こしに来てくれて",
         "MessageKR": "에이미가 저를 깨우러 와서는",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "英美來叫醒我的時候",
+        "MessageEN": "Eimi came to wake me up"
     },
     {
         "MessageId": 200540331,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "その時に先生をお部屋まで送り届けてくれたんですよ",
         "MessageKR": "선생님을 모시고, 선생님 방으로 데려갔지 뭔가요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "順便把老師送回老師的房間了",
+        "MessageEN": "and took you to your room."
     },
     {
         "MessageId": 200540340,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "そうだったんだ……お礼を言っておくね",
         "MessageKR": "그랬구나……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原來如此……",
+        "MessageEN": "I see..."
     },
     {
         "MessageId": 200540350,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "ええ、きっと喜びます",
         "MessageKR": "자, 자!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那，那麼！",
+        "MessageEN": "Now, now!"
     },
     {
         "MessageId": 200540351,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "では再スタートですよ、先生！ ",
         "MessageKR": "오늘부터 다시 시작이에요, 선생님!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "從今天開始重新出發吧，老師！",
+        "MessageEN": "It's time for another fresh start today, Sensei!"
     },
     {
         "MessageId": 200540360,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "私はまた元気に",
         "MessageKR": "저는 또다시 힘차게",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我會再次充滿活力地",
+        "MessageEN": "Once again, I'll be your exclusive"
     },
     {
         "MessageId": 200540361,
@@ -267,7 +267,7 @@
         "ImagePath": "",
         "MessageJP": "先生だけのライフスタッフに戻りますからね？",
         "MessageKR": "선생님만의 라이프 스태프로 돌아갈 테니까요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "回到老師專屬的生活助理崗位上哦？",
+        "MessageEN": "life support, this time fully energized!"
     }
 ]

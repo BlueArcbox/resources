@@ -3,8 +3,8 @@
         "CharacterId": 10129,
         "MessageJP": "スズミ（マジカル）",
         "MessageKR": "스즈미(매지컬)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "鈴美（魔法少女）",
+        "MessageEN": "Suzumi (Magical)"
     },
     {
         "MessageId": 101280440,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "スズミ（マジカル）の絆イベントへ",
         "MessageKR": "스즈미(매지컬)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往鈴美（魔法少女）的羈絆劇情",
+        "MessageEN": "Go to Suzumi (Magical)'s Bond Story"
     },
     {
         "MessageId": 101290500,

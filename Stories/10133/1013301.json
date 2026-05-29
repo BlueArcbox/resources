@@ -3,8 +3,8 @@
         "CharacterId": 10133,
         "MessageJP": "リオ（臨戦）",
         "MessageKR": "리오(무장)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "莉央（武裝）",
+        "MessageEN": "Rio (Armed)"
     },
     {
         "MessageId": 101320010,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "輸送船での暮らしはどうかしら",
         "MessageKR": "선생. 수송선에서 생활은 어때?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，在運輸船上的生活還好嗎？",
+        "MessageEN": "Sensei. How has life been on the transport ship?"
     },
     {
         "MessageId": 101330020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "不便なことがあれば言ってちょうだい",
         "MessageKR": "불편한 점이 있다면 말해.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果覺得哪裡不方便就告訴我吧",
+        "MessageEN": "Tell me if you experience any discomforts."
     },
     {
         "MessageId": 101330021,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "可能な範囲で改善するわ",
         "MessageKR": "최대한 개선해 볼 테니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我會盡可能改善的",
+        "MessageEN": "I'll do what I can to improve them."
     },
     {
         "MessageId": 101330030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "すごく快適だよ！",
         "MessageKR": "너무 편해!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "超級舒適！",
+        "MessageEN": "I'm living in luxury!"
     },
     {
         "MessageId": 101330030,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "何不自由なく過ごしてるよ！",
         "MessageKR": "덕분에 잘 지내고 있어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "託你的福過得很好！",
+        "MessageEN": "I'm doing well; all thanks to you!"
     },
     {
         "MessageId": 101330040,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "それなら良いのだけれど",
         "MessageKR": "그렇다면 다행이네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那就好",
+        "MessageEN": "I'm happy to hear that."
     },
     {
         "MessageId": 101330050,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "要望はいつでも受け付けているから",
         "MessageKR": "혹시라도 부탁하고 싶은 게 있다면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "假如有什麼需求",
+        "MessageEN": "But don't hesitate to ask"
     },
     {
         "MessageId": 101330060,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "遠慮は不要よ",
         "MessageKR": "언제든 말해줘.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "隨時可以告訴我",
+        "MessageEN": "if there's anything you need, at all."
     },
     {
         "MessageId": 101330070,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "リオは大丈夫？",
         "MessageKR": "리오는 불편한 곳 없지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "莉央有沒有不方便的地方？",
+        "MessageEN": "And you, Rio? How are you holding up?"
     },
     {
         "MessageId": 101330080,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "私？",
         "MessageKR": "응? 나야…… 당연히 그런데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯？我嗎……當然沒問題",
+        "MessageEN": "...? What do you mean? I'm fine."
     },
     {
         "MessageId": 101330081,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "私も特に問題はないわ……",
         "MessageKR": "갑자기 왜?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼突然這麼問？",
+        "MessageEN": "Why do you ask...?"
     },
     {
         "MessageId": 101320097,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "リオ（臨戦）の絆イベントへ",
         "MessageKR": "리오(무장)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往莉央（武裝）的羈絆劇情",
+        "MessageEN": "Go to Rio (Armed)'s Bond Story"
     },
     {
         "MessageId": 101330090,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "メイドロボットの件よ",
         "MessageKR": "메이드 로봇 건이야",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，關於女僕機器人的事",
+        "MessageEN": "Well... the maid robot..."
     },
     {
         "MessageId": 101330100,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "結果を報告するわ",
         "MessageKR": "선생. 보고할게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "向你報告一下結果",
+        "MessageEN": "Delivering my report, Sensei."
     },
     {
         "MessageId": 101330110,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "結論を言うと",
         "MessageKR": "결론만 말해서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "從結論來說",
+        "MessageEN": "To cut to the chase..."
     },
     {
         "MessageId": 101330111,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "メイド服は",
         "MessageKR": "메이드 복 빌리는 건은",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "借女僕裝這件事",
+        "MessageEN": "Borrowing a maid outfit..."
     },
     {
         "MessageId": 101330112,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "借りられなかった",
         "MessageKR": "실패야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "失敗了",
+        "MessageEN": "Failure."
     },
     {
         "MessageId": 101330120,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "とはいえ改めて考えてみたのだけれど",
         "MessageKR": "하지만 논리적으로",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但是從邏輯上來說",
+        "MessageEN": "However. Rationally speaking."
     },
     {
         "MessageId": 101330121,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "家事手伝いのアバンギャルド君を",
         "MessageKR": "가사도우미 아방가르드 군을",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "家事幫手前衛君",
+        "MessageEN": "Is there not a strong argument"
     },
     {
         "MessageId": 101330130,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "メイドロボット「ではない」と",
         "MessageKR": "메이드 로봇 '이 아니다' 라고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要將其定義為「不是」女僕機器人",
+        "MessageEN": "for Avant Guard, who does housekeeping,"
     },
     {
         "MessageId": 101330131,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "定義することは難しいのではないかしら",
         "MessageKR": "정의하는 것은 어렵지 않을까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不是很困難嗎？",
+        "MessageEN": "being a maid robot?"
     },
     {
         "MessageId": 101330140,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "家事を職業にしているのがメイドである",
         "MessageKR": "가사를 직업으로 하는 것이 메이드이다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "以家事為職業的就是女僕",
+        "MessageEN": "A maid is someone who does housekeeping for work."
     },
     {
         "MessageId": 101330150,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "アバンギャルド君は家事をするロボットである",
         "MessageKR": "아방가르드 군은 가사를 하는 로봇이다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "而前衛君是做家事的機器人",
+        "MessageEN": "Avant Guard is a robot that does housekeeping."
     },
     {
         "MessageId": 101330160,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "つまりアバンギャルド君は",
         "MessageKR": "즉 아방가르드 군은",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以前衛君它",
+        "MessageEN": "Therefore, Avant Guard"
     },
     {
         "MessageId": 101330161,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "メイドの役割を担うロボットである",
         "MessageKR": "메이드 역할을 담당하는 로봇이다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是擔任女僕角色的機器人",
+        "MessageEN": "is a maid robot, as it is taking on the same role."
     },
     {
         "MessageId": 101330162,
@@ -327,8 +327,8 @@
         "ImagePath": "",
         "MessageJP": "三段論法に照らし合わせてみても",
         "MessageKR": "3단 논법으로 비추어 봐도",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "即使用三段論法來看",
+        "MessageEN": "Following this syllogism,"
     },
     {
         "MessageId": 101330170,
@@ -339,8 +339,8 @@
         "ImagePath": "",
         "MessageJP": "多くの要素が共通しているとは考えているわ",
         "MessageKR": "많은 요소가 공통하고 있다고 생각해.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我認為也存在很多共通的要素",
+        "MessageEN": "we can draw more similarities between the two."
     },
     {
         "MessageId": 101330180,
@@ -351,7 +351,7 @@
         "ImagePath": "",
         "MessageJP": "私の負けだよ……",
         "MessageKR": "내가 졌어, 리오야…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是我輸了，莉央……",
+        "MessageEN": "You win, Rio... You win."
     }
 ]

@@ -3,8 +3,8 @@
         "CharacterId": 10125,
         "MessageJP": "エリ",
         "MessageKR": "에리",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "繪梨",
+        "MessageEN": "Eri"
     },
     {
         "MessageId": 101240370,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "エリの絆イベントへ",
         "MessageKR": "에리의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往繪梨的羈絆劇情",
+        "MessageEN": "Go to Eri's Bond Story"
     },
     {
         "MessageId": 101250470,
