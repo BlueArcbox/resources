@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、少しよろしいですか？",
         "MessageKR": "선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 101350020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "どうしたのケイちゃん？",
         "MessageKR": "왜 그러니. 케이 쨩.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼了，Kei醬",
+        "MessageEN": "What's wrong, Kei-Kei?"
     },
     {
         "MessageId": 101350030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ケイちゃんじゃありません",
         "MessageKR": "케이 쨩 아닙니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不是Kei醬",
+        "MessageEN": "Don't call me Kei-Kei."
     },
     {
         "MessageId": 101350031,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "まったく……それはともかく",
         "MessageKR": "어쨌든.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總之",
+        "MessageEN": "Anyways."
     },
     {
         "MessageId": 101350032,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "無機物を器としている意識体において",
         "MessageKR": "비탄소 기반의 의식체는",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "非碳基的意識體",
+        "MessageEN": "How is a non-carbon-based conscious being"
     },
     {
         "MessageId": 101350033,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ストレス解消はどのように行うべきでしょうか？",
         "MessageKR": "어떻게 스트레스를 해소해야 할까요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "應該怎麼消除壓力呢",
+        "MessageEN": "supposed to relieve stress?"
     },
     {
         "MessageId": 101350040,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "いきなり難しい質問をするね……",
         "MessageKR": "시작부터 너무 난이도가 높은 질문이구나……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "一開始就問這麼難的問題啊……",
+        "MessageEN": "We're starting with a high-difficulty question!"
     },
     {
         "MessageId": 101350050,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "そうですよね",
         "MessageKR": "그렇겠죠.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "說的也是",
+        "MessageEN": "I suppose."
     },
     {
         "MessageId": 101350051,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "先生に期待した私がバカでした",
         "MessageKR": "선생님에게 뭘 기대한 제가 바보였어요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "期待老師的我才是笨蛋",
+        "MessageEN": "...It's my fault for expecting anything of you, Sensei."
     },
     {
         "MessageId": 101350060,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "ひどいよぉ……",
         "MessageKR": "너무해…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好過分……",
+        "MessageEN": "So mean..."
     },
     {
         "MessageId": 101340067,

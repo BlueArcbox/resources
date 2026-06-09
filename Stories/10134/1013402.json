@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、アリスとパーティーを組んでください！",
         "MessageKR": "아리스가 선생님에게 파티를 신청합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "愛麗絲向老師申請組隊",
+        "MessageEN": "Aris has sent you a party request."
     },
     {
         "MessageId": 101340120,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今日も勇者修行です！",
         "MessageKR": "오늘도 용사 수행입니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天也是勇者修行！",
+        "MessageEN": "We are doing Hero Training today as well!"
     },
     {
         "MessageId": 101340130,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "勇者よ、本当にそれで良いのか？",
         "MessageKR": "용사여, 그런 수행으로 괜찮은가?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "勇者啊，那樣的修行可以嗎？",
+        "MessageEN": "Hero, are you satisfied with such training?"
     },
     {
         "MessageId": 101340140,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "先生？",
         "MessageKR": "선생님?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師？",
+        "MessageEN": "Sensei?"
     },
     {
         "MessageId": 101340150,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "アリスのための秘密特訓を用意したよ！ ",
         "MessageKR": "아리스를 위해서 특별 훈련을 준비했어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我為愛麗絲準備了特別訓練！",
+        "MessageEN": "I've prepared a special training course for you, Aris!"
     },
     {
         "MessageId": 101340150,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "短時間でレベルアップする特訓をしよう！",
         "MessageKR": "단시간 레벨 업을 위한 특훈이다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是能在短時間內升級的特訓哦！",
+        "MessageEN": "It's a fast-leveling super course!"
     },
     {
         "MessageId": 101340160,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "そんな特訓があるのですか！？",
         "MessageKR": "그런 방법이 있는 겁니까?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有那種特訓嗎！？",
+        "MessageEN": "There is such a thing?!"
     },
     {
         "MessageId": 101340161,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "アリス、知りたいです！",
         "MessageKR": "아리스, 알고 싶습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "愛麗絲想知道！",
+        "MessageEN": "Yes, I wish to try it!"
     },
     {
         "MessageId": 101330177,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "先生！",
         "MessageKR": "선생님!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師！",
+        "MessageEN": "Sensei!"
     },
     {
         "MessageId": 101340180,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "本当にすごいです！",
         "MessageKR": "정말 신기합니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真的好神奇！",
+        "MessageEN": "This is amazing!"
     },
     {
         "MessageId": 101340190,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "勇者のアーマーを着ても全然緊張しなくなりました！",
         "MessageKR": "이제 용사의 갑옷을 입고 있어도 전혀 떨리지 않습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在就算穿著勇者的裝甲也完全不會發抖了！",
+        "MessageEN": "I no longer struggle when wearing the hero's armor!"
     },
     {
         "MessageId": 101340200,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "特訓の成果が出たんだね！",
         "MessageKR": "특훈의 성과가 나온 거야!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "特訓的成果出來了！",
+        "MessageEN": "The results of the special training!"
     },
     {
         "MessageId": 101340200,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "アリスが頑張ったからだね！",
         "MessageKR": "아리스가 노력한 덕이지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這都是愛麗絲努力的功勞",
+        "MessageEN": "It's all because you worked hard, Aris."
     },
     {
         "MessageId": 101340210,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "アリスだけではあのような特訓は思いつかなかったと思います！",
         "MessageKR": "아리스 혼자서는 그런 훈련법은 떠올리지 못했을 겁니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "愛麗絲一個人是想不到那種訓練方法的！",
+        "MessageEN": "I would never have thought of such a training method on my own!"
     },
     {
         "MessageId": 101340211,
@@ -207,7 +207,7 @@
         "ImagePath": "",
         "MessageJP": "やっぱり先生はすごいです！",
         "MessageKR": "역시 선생님은 대단합니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師果然很厲害！",
+        "MessageEN": "You are amazing, Sensei!"
     }
 ]

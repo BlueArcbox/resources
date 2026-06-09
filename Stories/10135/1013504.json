@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "ああ",
         "MessageKR": "아니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不是",
+        "MessageEN": "no"
     },
     {
         "MessageId": 101350270,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "もう",
         "MessageKR": "진짜",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真是的",
+        "MessageEN": "seriously"
     },
     {
         "MessageId": 101350271,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "なんですか",
         "MessageKR": "정말이지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這到底",
+        "MessageEN": "For the love of"
     },
     {
         "MessageId": 101350272,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "このバグは",
         "MessageKR": "뭔 버그가",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "什麼Bug",
+        "MessageEN": "THIS BUG"
     },
     {
         "MessageId": 101350280,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "バグ？",
         "MessageKR": "버그라니?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "Bug？",
+        "MessageEN": "A bug?"
     },
     {
         "MessageId": 101350290,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "こっちの話です",
         "MessageKR": "그런 게 있습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "大概就是這樣",
+        "MessageEN": "A THING."
     },
     {
         "MessageId": 101350300,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ん？",
         "MessageKR": "어라",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦",
+        "MessageEN": "Huh"
     },
     {
         "MessageId": 101350301,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "待ってください",
         "MessageKR": "잠깐만",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "等一下",
+        "MessageEN": "Wait"
     },
     {
         "MessageId": 101350310,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "んー",
         "MessageKR": "흠",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "Hm"
     },
     {
         "MessageId": 101350311,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 101350312,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "いま暇してますよね？",
         "MessageKR": "어차피 지금 시간 남죠?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在有空吧？",
+        "MessageEN": "You're free right now."
     },
     {
         "MessageId": 101350313,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと来てください",
         "MessageKR": "오십쇼.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請過來一下",
+        "MessageEN": "Come."
     },
     {
         "MessageId": 101350320,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "えっ？私は予定が……",
         "MessageKR": "어, 어? 난 지금 일정이……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？我現在有行程……",
+        "MessageEN": "Huuuh? I have a lot on my schedule today..."
     },
     {
         "MessageId": 101350330,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "無いのは知っています",
         "MessageKR": "없는 거 압니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我知道你沒有",
+        "MessageEN": "No you don't."
     },
     {
         "MessageId": 101350331,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "それくらい簡単に調べられますから",
         "MessageKR": "그 정도는 조사 가능하니까요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這種程度的事情是可以調查到的",
+        "MessageEN": "Accessing this kind of data is child's play."
     },
     {
         "MessageId": 101350340,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "私のプライベートは！？",
         "MessageKR": "내 사생활은!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我的隱私呢！",
+        "MessageEN": "What happened to personal privacy?!"
     },
     {
         "MessageId": 101350350,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "生徒が第一なんですよね？",
         "MessageKR": "학생 먼저 아니었습니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不是說學生優先嗎？",
+        "MessageEN": "Don't you always put your students first or something?"
     },
     {
         "MessageId": 101350360,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "くっ……",
         "MessageKR": "크윽!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔……！",
+        "MessageEN": "GAH!!"
     },
     {
         "MessageId": 101340367,

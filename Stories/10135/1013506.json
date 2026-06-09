@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "シャーレの前に着きました",
         "MessageKR": "샬레 앞에 다 왔는데, 올라갈게요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "已經到夏萊前面了，我上去囉",
+        "MessageEN": "I'm almost there. I'll let myself in."
     },
     {
         "MessageId": 101350430,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今日の当番はケイちゃん！！",
         "MessageKR": "케이 쨩의 당번!!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "Kei醬當值日生！！！",
+        "MessageEN": "Kei is Schale's Student Rep today!!!"
     },
     {
         "MessageId": 101350440,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "はぁ、本当にもう",
         "MessageKR": "아 진짜 좀.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊啊，真是的",
+        "MessageEN": "Ugh, seriously."
     },
     {
         "MessageId": 101340457,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "寮に着きました",
         "MessageKR": "기숙사, 도착했습니다…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "已經到宿舍了……",
+        "MessageEN": "I'm back at my dorm..."
     },
     {
         "MessageId": 101350460,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "それはよかった",
         "MessageKR": "잘 들어갔구나.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "順利到了呢",
+        "MessageEN": "Glad you made it back safely."
     },
     {
         "MessageId": 101350470,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "はい",
         "MessageKR": "네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是",
+        "MessageEN": "Yes."
     },
     {
         "MessageId": 101350471,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "あ！",
         "MessageKR": "아!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊！",
+        "MessageEN": "Ah!"
     },
     {
         "MessageId": 101350480,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "どうかした？",
         "MessageKR": "왜 그래?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼了？",
+        "MessageEN": "What's wrong?"
     },
     {
         "MessageId": 101350490,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "デイリーやるの忘れてました！",
         "MessageKR": "일퀘 안 했어요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我忘了做每日任務！",
+        "MessageEN": "I forgot to do my dailies!"
     },
     {
         "MessageId": 101350500,
@@ -147,7 +147,7 @@
         "ImagePath": "",
         "MessageJP": "あ、うん……大事なことだからね",
         "MessageKR": "아, 응. 그래. 그거 중요하지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，嗯。是啊，那是很重要的",
+        "MessageEN": "Ah, yeah, right. That's important."
     }
 ]

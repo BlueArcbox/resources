@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "知っていますか？",
         "MessageKR": "선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 101340020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "防具はきちんと装備しなければ意味がありません",
         "MessageKR": "방어구는 제대로 장비하지 않으면 의미가 없습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "防具如果沒有好好裝備就沒有意義了",
+        "MessageEN": "There is no point to armor if you do not properly equip it."
     },
     {
         "MessageId": 101340030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "そうなの？",
         "MessageKR": "갑자기……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這麼突然……？",
+        "MessageEN": "What...?"
     },
     {
         "MessageId": 101340030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "どうしたの？",
         "MessageKR": "무슨 말이야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "什麼意思？",
+        "MessageEN": "What do you mean?"
     },
     {
         "MessageId": 101340040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "RPGの常識です！",
         "MessageKR": "RPG의 상식입니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這是RPG的常識！",
+        "MessageEN": "It is basic RPG knowledge!"
     },
     {
         "MessageId": 101340050,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "そしてアリスは思い出しました！",
         "MessageKR": "하지만, 아리스 깨닫고 말았습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過愛麗絲發現了！",
+        "MessageEN": "However, I have learned something else!"
     },
     {
         "MessageId": 101340051,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "装備するだけではまだ足りないのだと！",
         "MessageKR": "때로는 장비하는 것만으로 충분하지 않다는걸요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有時候光是裝備是不夠的！",
+        "MessageEN": "Sometimes, simply equipping it is not enough!"
     },
     {
         "MessageId": 101330067,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님.\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師\u200b",
+        "MessageEN": "Sensei.\u200b"
     },
     {
         "MessageId": 101340070,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "帰り道、すごい揺れでした",
         "MessageKR": "오는 내내 계속 들썩거렸습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "一路上一直搖搖晃晃的",
+        "MessageEN": "Our way back was very bumpy."
     },
     {
         "MessageId": 101340080,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "ごめん、想像より重くて……",
         "MessageKR": "미안, 너무 무거워서…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "抱歉，因為有點重……",
+        "MessageEN": "Sorry, it was just so heavy..."
     },
     {
         "MessageId": 101340080,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "一応頑張ったんだけど……",
         "MessageKR": "버텨보려 했는데…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我有努力撐住……",
+        "MessageEN": "I did my best to hold out..."
     },
     {
         "MessageId": 101340090,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "いえ、楽しかったので気にしないでください！",
         "MessageKR": "아리스는 재밌었습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "愛麗絲覺得很開心！",
+        "MessageEN": "It was still very fun!"
     },
     {
         "MessageId": 101340091,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "アトラクションに乗っているみたいでした！",
         "MessageKR": "꼭 놀이기구를 타는 것 같았습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就像在坐遊樂設施一樣！",
+        "MessageEN": "Like I was on a roller coaster at an amusement park!"
     },
     {
         "MessageId": 101340100,
@@ -195,7 +195,7 @@
         "ImagePath": "",
         "MessageJP": "それならよかった……",
         "MessageKR": "그렇다면 다행이네…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那就好……",
+        "MessageEN": "I'm happy to hear that..."
     }
 ]

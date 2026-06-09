@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生！",
         "MessageKR": "선생님!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師！",
+        "MessageEN": "Sensei!"
     },
     {
         "MessageId": 101340280,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "まだ起きていたのですね！",
         "MessageKR": "아직 일어나 계시군요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你還醒著呢！",
+        "MessageEN": "You are still awake!"
     },
     {
         "MessageId": 101340290,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "そうだけど……",
         "MessageKR": "응? 그렇기는 한데…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯？是啊……",
+        "MessageEN": "Hm? Yeah, but..."
     },
     {
         "MessageId": 101340290,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "どうして分かったの！？",
         "MessageKR": "어떻게 알았어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你怎麼知道的？",
+        "MessageEN": "How did you know?"
     },
     {
         "MessageId": 101340300,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ふっふっふ！",
         "MessageKR": "후후!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵！",
+        "MessageEN": "Fufu!"
     },
     {
         "MessageId": 101340301,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "窓の外を見てください！",
         "MessageKR": "창밖입니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請看窗外！",
+        "MessageEN": "Look outside the window!"
     },
     {
         "MessageId": 101340310,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "窓の外？",
         "MessageKR": "창밖?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "窗外？",
+        "MessageEN": "Window?"
     },
     {
         "MessageId": 101330317,

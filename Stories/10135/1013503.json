@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "せんせ",
         "MessageKR": "선ㅅㅐ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老",
+        "MessageEN": "Sens"
     },
     {
         "MessageId": 101350230,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "た",
         "MessageKR": "니ㅁ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "師",
+        "MessageEN": "ei"
     },
     {
         "MessageId": 101350231,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "すけて",
         "MessageKR": "도와",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "救",
+        "MessageEN": "help"
     },
     {
         "MessageId": 101350240,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "どうしたの！？",
         "MessageKR": "무슨 일이야?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼了！？",
+        "MessageEN": "What's going on?!"
     },
     {
         "MessageId": 101350250,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "いま",
         "MessageKR": "ㅈㅣ금",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在",
+        "MessageEN": "It's just"
     },
     {
         "MessageId": 101350251,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ちょとこまって",
         "MessageKR": "좀 곤ㄹㅏㄴ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有點困擾",
+        "MessageEN": "bit of troub"
     },
     {
         "MessageId": 101340257,

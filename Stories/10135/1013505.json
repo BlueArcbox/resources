@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "はああ……",
         "MessageKR": "하아아아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唉……",
+        "MessageEN": "Aaaaaah"
     },
     {
         "MessageId": 101350380,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "どうしたの？",
         "MessageKR": "왜 그래?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼了？",
+        "MessageEN": "What's wrong?"
     },
     {
         "MessageId": 101350390,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "いえ",
         "MessageKR": "아뇨.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒什麼",
+        "MessageEN": "Nothing is WRONG."
     },
     {
         "MessageId": 101350391,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "3日と経っていないのにまた部室掃除と思うと",
         "MessageKR": "청소한 지 3일 만에 또 어질러진 부실을 청소하려니.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只是想到打掃完才過了3天，部室就又亂了",
+        "MessageEN": "But it's only been 3 days, and I'm cleaning the club room again."
     },
     {
         "MessageId": 101350392,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "気が滅入ってしまって",
         "MessageKR": "맥이 좀 빠져서요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "覺得有點無力而已",
+        "MessageEN": "I'm tired."
     },
     {
         "MessageId": 101350400,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "掃除？",
         "MessageKR": "부실 청소?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "打掃部室？",
+        "MessageEN": "Cleaning the club room?"
     },
     {
         "MessageId": 101350410,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "まあこっちの話です",
         "MessageKR": "그런 게 있어요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "大概就是這樣",
+        "MessageEN": "It's a thing."
     },
     {
         "MessageId": 101340417,
