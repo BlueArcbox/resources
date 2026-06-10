@@ -2169,6 +2169,19 @@
             false
         ]
     },
+    "10142": {
+        "kivo_id": 537,
+        "avatar": "https://static.kivo.wiki/images/students/御稜 名草/泳装/CH0303_avatar.png",
+        "momotalk": "",
+        "name_en": "Nagusa",
+        "name_jp": "ナグサ（水着）",
+        "name_zh": "名草（泳装）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
     "13000": {
         "kivo_id": 24,
         "gamekee_id": 66752,

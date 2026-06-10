@@ -11079,5 +11079,34 @@
             "ItemId": 13006,
             "ItemType": "ドレス"
         }
+    },
+    {
+        "Id": 10142,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10142.webp"
+        ],
+        "Name": {
+            "jp": "ナグサ（水着）",
+            "kr": "나구사(수영복)",
+            "zh": "名草（泳装）"
+        },
+        "Bio": {
+            "jp": "花が、咲き誇るのを待ってる",
+            "kr": "꽃이 피길 기다리며",
+            "zh": ""
+        },
+        "Nickname": [
+            "Nagusa"
+        ],
+        "Birthday": "12/7",
+        "Age": "17歳",
+        "School": "Hyakkiyako",
+        "Club": "Hyakkayouran",
+        "Star": 3,
+        "Released": true,
+        "Related": {
+            "ItemId": 10119,
+            "ItemType": "水着"
+        }
     }
 ]

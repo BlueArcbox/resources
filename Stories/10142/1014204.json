@@ -1,0 +1,117 @@
+[
+    {
+        "CharacterId": 10142,
+        "MessageJP": "ナグサ（水着）",
+        "MessageKR": "나구사(수영복)",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101410410,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 101420410,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 101420410,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101420420,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "今週はずっといい天気が続くみたいだね",
+        "MessageKR": "선생님. 이번 주는 야외 활동하기 좋은 날씨가 이어진대.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101420420,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101420421,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "それで、先生がよければだけど……",
+        "MessageKR": "그래서 말인데……",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101420421,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101420430,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "週末に会わない？",
+        "MessageKR": "주말에 시간 괜찮아?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101420430,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101420440,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "もちろん！",
+        "MessageKR": "물론이지!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101420430,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101420440,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "私も同じことを考えてたんだ！",
+        "MessageKR": "내가 먼저 물어보려던 참이었어!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101420440,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101420441,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "それじゃ、また海に行こう",
+        "MessageKR": "그럼 또 바다에 가자.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101420441,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101410447,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "また楽しいことがあるかも",
+        "MessageKR": "이번에도 왠지 즐거운 일이 있을 것 같아.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101410447,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ナグサ（水着）の絆イベントへ",
+        "MessageKR": "나구사(수영복)의 인연스토리로",
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
+    }
+]
