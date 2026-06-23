@@ -3,8 +3,8 @@
         "CharacterId": 20055,
         "MessageJP": "ユズ（臨戦）",
         "MessageKR": "유즈(무장)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "柚子（武裝）",
+        "MessageEN": "Yuzu (Armed)"
     },
     {
         "MessageId": 200540320,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "最近はVRゲームにもだんだん慣れてきました",
         "MessageKR": "선생님, 이제는 VR 게임도 점점 익숙해지는 것 같아요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，我現在已經越來越習慣VR遊戲",
+        "MessageEN": "Sensei, I think I'm getting the hang of VR."
     },
     {
         "MessageId": 200550330,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "だいぶ身体もスムーズに動くようになってきて……",
         "MessageKR": "몸의 움직임도 예전보다 훨씬 덜 삐걱거리는 것 같고…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "身體的動作也比以前順暢多了……",
+        "MessageEN": "My movements feel less wobbly. I'm less motion sick..."
     },
     {
         "MessageId": 200550340,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "もうUZQueenを止められるゲームジャンルは、なくなってしまったね……",
         "MessageKR": "이제 UZQueen을 막을 수 있는 게임 장르는 없어져 버렸군…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在已經沒有能阻止UZQueen的遊戲類型了呢……",
+        "MessageEN": "There is no gaming challenge that UZQueen can't conquer!"
     },
     {
         "MessageId": 200550350,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "そ",
         "MessageKR": "그",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒",
+        "MessageEN": "Um"
     },
     {
         "MessageId": 200550351,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "そんな",
         "MessageKR": "으아아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔啊啊",
+        "MessageEN": "Aaaaaa"
     },
     {
         "MessageId": 200550360,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "もう……からかわないでください！",
         "MessageKR": "놀리지 마세요……!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請不要捉弄我……！",
+        "MessageEN": "Don't tease me...!"
     },
     {
         "MessageId": 200540367,
@@ -99,7 +99,7 @@
         "ImagePath": "",
         "MessageJP": "ユズ（臨戦）の絆イベントへ",
         "MessageKR": "유즈(무장)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往柚子（武裝）的羈絆劇情",
+        "MessageEN": "Go to Yuzu (Armed)'s Bond Story"
     }
 ]

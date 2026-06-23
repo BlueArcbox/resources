@@ -3,8 +3,8 @@
         "CharacterId": 10136,
         "MessageJP": "エイミ（臨戦）",
         "MessageKR": "에이미(무장)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "英美（武裝）",
+        "MessageEN": "Eimi (Armed)"
     },
     {
         "MessageId": 101350010,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "おはよう、先生",
         "MessageKR": "잘 잤어, 선생님?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "睡得好嗎，老師？",
+        "MessageEN": "Did you sleep well, Sensei?"
     },
     {
         "MessageId": 101360020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "……先生？",
         "MessageKR": "선생님?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師？",
+        "MessageEN": "Sensei?"
     },
     {
         "MessageId": 101360021,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "起きてる？",
         "MessageKR": "여보세요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有人在嗎？",
+        "MessageEN": "Hello?"
     },
     {
         "MessageId": 101360030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "わあっ",
         "MessageKR": "으어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯？",
+        "MessageEN": "whaa"
     },
     {
         "MessageId": 101360040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "起こしてくれてありがとう、エイミ……",
         "MessageKR": "깨워 줘서 고마워 에이미……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝你叫我起來，英美……",
+        "MessageEN": "Thanks for waking me, Eimi..."
     },
     {
         "MessageId": 101360050,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "よく眠れたみたいだね",
         "MessageKR": "일어났으면 그걸로 됐어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有起來就好",
+        "MessageEN": "Glad you're up."
     },
     {
         "MessageId": 101360060,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "また後で",
         "MessageKR": "조금 있다가 봐.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "待會見",
+        "MessageEN": "I'll see you later."
     },
     {
         "MessageId": 101350067,
@@ -111,7 +111,7 @@
         "ImagePath": "",
         "MessageJP": "エイミ（臨戦）の絆イベントへ",
         "MessageKR": "에이미(무장)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往英美（武裝）的羈絆劇情",
+        "MessageEN": "Go to Eimi (Armed)'s Bond Story"
     }
 ]

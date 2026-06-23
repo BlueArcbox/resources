@@ -3,8 +3,8 @@
         "CharacterId": 10136,
         "MessageJP": "エイミ（臨戦）",
         "MessageKR": "에이미(무장)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "英美（武裝）",
+        "MessageEN": "Eimi (Armed)"
     },
     {
         "MessageId": 101350130,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "せんせ\\#@$%!^?",
         "MessageKR": "선생!\\#@$%!^님?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老!\\#@$%!^師？",
+        "MessageEN": "Sensei!\\#@$%!^?"
     },
     {
         "MessageId": 101360140,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "エイミ？",
         "MessageKR": "에이미?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "英美？",
+        "MessageEN": "Eimi?"
     },
     {
         "MessageId": 101360150,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "よか@^\\#\\*&った",
         "MessageKR": "다@^\\#\\*&행이다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "太@^\\#\\*&好了",
+        "MessageEN": "I'm gl@^\\#\\*&ad."
     },
     {
         "MessageId": 101360151,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "こ\\~-@+;れ",
         "MessageKR": "이거 아마도",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這個大概",
+        "MessageEN": "This is probably"
     },
     {
         "MessageId": 101360152,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "さい\\*&ご\\#SA\\~バッテリー",
         "MessageKR": "마지\\*&\\#SA\\~막 배터리",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "最\\*&\\#SA\\~後電池",
+        "MessageEN": "the la\\*&\\#SAst battery"
     },
     {
         "MessageId": 101360153,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "座標&@ad\\*&転送",
         "MessageKR": "좌표를&@ad\\*&전송",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "傳送&@ad\\*&座標",
+        "MessageEN": "transmitting &@ad\\*&coordinates."
     },
     {
         "MessageId": 101350157,
@@ -99,7 +99,7 @@
         "ImagePath": "",
         "MessageJP": "エイミ（臨戦）の絆イベントへ",
         "MessageKR": "에이미(무장)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往英美（武裝）的羈絆劇情",
+        "MessageEN": "Go to Eimi (Armed)'s Bond Story"
     }
 ]

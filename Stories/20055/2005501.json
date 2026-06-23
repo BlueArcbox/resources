@@ -3,8 +3,8 @@
         "CharacterId": 20055,
         "MessageJP": "ユズ（臨戦）",
         "MessageKR": "유즈(무장)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "柚子（武裝）",
+        "MessageEN": "Yuzu (Armed)"
     },
     {
         "MessageId": 200540010,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、わたし……もう",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei?"
     },
     {
         "MessageId": 200550020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "ロッカーに、入れなくなっちゃいました……",
         "MessageKR": "저, 더 이상 캐비닛에 들어갈 수 없게 되었어요…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我已經沒辦法再進到櫃子裡了……",
+        "MessageEN": "I can no longer get inside the cabinet..."
     },
     {
         "MessageId": 200550021,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "本当は入りたいのに",
         "MessageKR": "사실 들어가고 싶은데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "其實希望可以進去",
+        "MessageEN": "Actually, I want to go in,"
     },
     {
         "MessageId": 200550030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "でも、身体が……",
         "MessageKR": "들어가고 싶지 않아요…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可是卻又不想進去……",
+        "MessageEN": "but I also don't."
     },
     {
         "MessageId": 200550040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ユズがロッカーに入れなく……？",
         "MessageKR": "유즈가…… 캐비닛을 거부한다고……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "柚子居然……會抗拒櫃子……？",
+        "MessageEN": "Yuzu...refusing a cabinet...?"
     },
     {
         "MessageId": 200550050,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっとそっちに行くね！",
         "MessageKR": "당장 갈게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我馬上過去",
+        "MessageEN": "I'm coming over."
     },
     {
         "MessageId": 200550060,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "え？",
         "MessageKR": "예?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？",
+        "MessageEN": "What?"
     },
     {
         "MessageId": 200550061,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "い、いえ、来ていただくほどの……",
         "MessageKR": "아니 그게 그 그렇게까진",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不，那個，其實好像也沒有嚴重到",
+        "MessageEN": "No no wait."
     },
     {
         "MessageId": 200550062,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "うう……",
         "MessageKR": "아니 오실 필요까지는 없는데 그",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "需要老師特地過來",
+        "MessageEN": "You don't have to come but..."
     },
     {
         "MessageId": 200550070,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "……お願い、します",
         "MessageKR": "……부탁드려요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……麻煩你了",
+        "MessageEN": "...please?"
     },
     {
         "MessageId": 200540077,
@@ -147,7 +147,7 @@
         "ImagePath": "",
         "MessageJP": "ユズ（臨戦）の絆イベントへ",
         "MessageKR": "유즈(무장)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往柚子（武裝）的羈絆劇情",
+        "MessageEN": "Go to Yuzu (Armed)'s Bond Story"
     }
 ]

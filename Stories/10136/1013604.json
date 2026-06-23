@@ -3,8 +3,8 @@
         "CharacterId": 10136,
         "MessageJP": "エイミ（臨戦）",
         "MessageKR": "에이미(무장)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "英美（武裝）",
+        "MessageEN": "Eimi (Armed)"
     },
     {
         "MessageId": 101350160,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "今日もお疲れ様、先生",
         "MessageKR": "오늘 하루도 수고. 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天也辛苦了，老師",
+        "MessageEN": "Good work today, Sensei."
     },
     {
         "MessageId": 101360170,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "一日が早いね……",
         "MessageKR": "일과가 끝나 가는구나…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "一天要結束了呢……",
+        "MessageEN": "Another day done..."
     },
     {
         "MessageId": 101360180,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "本当にあっという間だね",
         "MessageKR": "그러게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就是說啊",
+        "MessageEN": "Yeah."
     },
     {
         "MessageId": 101360181,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "特にここだと時間の感覚がおかしくなっちゃう",
         "MessageKR": "시간 감각이란 가끔 제멋대로인 것 같아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "時間感有時候真是隨心所欲呢",
+        "MessageEN": "I feel like my internal clock's been off lately."
     },
     {
         "MessageId": 101360190,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "今日はほとんど室内にいたからね",
         "MessageKR": "오늘은 실내 업무가 대부분이었지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天大部分都是室內工作吧？",
+        "MessageEN": "Maybe it's because you've been working inside all day?"
     },
     {
         "MessageId": 101360200,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "うん、それでなんだけど……",
         "MessageKR": "응.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "Yeah.\u200b"
     },
     {
         "MessageId": 101360201,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと気分転換しようかなって",
         "MessageKR": "그래서 조금 기분 전환이나 해 볼까 해.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以想稍微轉換一下心情",
+        "MessageEN": "I think it's time to switch it up a little."
     },
     {
         "MessageId": 101350217,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "エイミ（臨戦）の絆イベントへ",
         "MessageKR": "에이미(무장)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往英美（武裝）的羈絆劇情",
+        "MessageEN": "Go to Eimi (Armed)'s Bond Story"
     },
     {
         "MessageId": 101360210,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "先生？",
         "MessageKR": "선생님?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師？",
+        "MessageEN": "Sensei?"
     },
     {
         "MessageId": 101360220,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "大丈夫？",
         "MessageKR": "괜찮아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你沒事吧？",
+        "MessageEN": "Are you okay?"
     },
     {
         "MessageId": 101360230,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "大丈夫だよ。どうしたの？",
         "MessageKR": "아무렇지도 않은데, 왜?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我沒什麼事啊，怎麼了？",
+        "MessageEN": "I'm completely fine. Why?"
     },
     {
         "MessageId": 101360240,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "風邪とか引いてないかなって",
         "MessageKR": "혹시 감기라든가 걸리지 않았을까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只是想說你會不會感冒",
+        "MessageEN": "I was worried"
     },
     {
         "MessageId": 101360241,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "心配になって",
         "MessageKR": "조금 신경이 쓰였거든.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "覺得有點擔心",
+        "MessageEN": "that you caught a cold or something."
     },
     {
         "MessageId": 101360250,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "そこまで弱くないよ……",
         "MessageKR": "그렇게까지 약하지만은 않은데……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我沒那麼弱啦……",
+        "MessageEN": "I'm not THAT weak..."
     },
     {
         "MessageId": 101360260,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "そっか",
         "MessageKR": "그렇구나.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原來如此",
+        "MessageEN": "Right."
     },
     {
         "MessageId": 101360261,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと残念",
         "MessageKR": "조금 아쉽",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有點可惜",
+        "MessageEN": "That's unfortunate."
     },
     {
         "MessageId": 101360270,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "うそ",
         "MessageKR": "아니다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不是啦",
+        "MessageEN": "Wait."
     },
     {
         "MessageId": 101360280,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "よかった",
         "MessageKR": "다행이네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "太好了",
+        "MessageEN": "I mean, I'm glad to hear it."
     },
     {
         "MessageId": 101360290,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "なんか言おうとした？",
         "MessageKR": "무슨 말을 하려고 했던 거야……!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你剛才想說什麼……！",
+        "MessageEN": "What's that supposed to mean...?!"
     },
     {
         "MessageId": 101360290,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "素直に白状しなさい！",
         "MessageKR": "어서 솔직하게 이야기하시오, 에이미 학생!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "快點從實招來，英美同學！",
+        "MessageEN": "Eimi! Be real with me!"
     },
     {
         "MessageId": 101360300,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "何でもない",
         "MessageKR": "아무것도 아니야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒什麼",
+        "MessageEN": "It was nothing."
     },
     {
         "MessageId": 101360310,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "ただ",
         "MessageKR": "그냥",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只是……",
+        "MessageEN": "I just..."
     },
     {
         "MessageId": 101360311,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "温めるのに一番効率的なのは",
         "MessageKR": "사람을 따듯하게 하는 데에는",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "聽說要讓人暖和起來",
+        "MessageEN": "heard once that sharing body heat"
     },
     {
         "MessageId": 101360312,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "体温っていうからね",
         "MessageKR": "사람의 체온이 가장 효율적이라고 하길래.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "人的體溫是最有效率的",
+        "MessageEN": "is the most efficient way to warm someone up."
     },
     {
         "MessageId": 101360320,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "……それって？",
         "MessageKR": "……에이미?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……英美？",
+        "MessageEN": "...Eimi?"
     },
     {
         "MessageId": 101360330,
@@ -327,7 +327,7 @@
         "ImagePath": "",
         "MessageJP": "……エイミ！？エイミさん！？",
         "MessageKR": "에이미 씨?!?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "英美同學！？！？",
+        "MessageEN": "Miss Eimi?!"
     }
 ]

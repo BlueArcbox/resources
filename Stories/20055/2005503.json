@@ -3,8 +3,8 @@
         "CharacterId": 20055,
         "MessageJP": "ユズ（臨戦）",
         "MessageKR": "유즈(무장)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "柚子（武裝）",
+        "MessageEN": "Yuzu (Armed)"
     },
     {
         "MessageId": 200540130,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "今度発売された最新のVRゲーム機",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 200550140,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "「バーチャルボス4.0」……",
         "MessageKR": "혹시 이번에 출시된 최신 VR 게임기 <버추얼 보스 4.0> ……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請問這次發售的最新VR遊戲機「Virtual Boss 4.0」……",
+        "MessageEN": "You know the Virtual Boss 4.0... The new VR gaming console?"
     },
     {
         "MessageId": 200550141,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "先生は、ゲットできましたか……？",
         "MessageKR": "구매 성공하셨나요……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你有順利買到嗎……？",
+        "MessageEN": "...Did you get one?"
     },
     {
         "MessageId": 200550150,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "私もダメだったよ……",
         "MessageKR": "시원하게 실패했단다…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我輸得一敗塗地……",
+        "MessageEN": "Not even close..."
     },
     {
         "MessageId": 200550160,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "カートに入れることすらできなかった……",
         "MessageKR": "구매 페이지에 들어가는 것조차도 실패했어…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "連購買頁面都進不去……",
+        "MessageEN": "I couldn't even load into the sales page..."
     },
     {
         "MessageId": 200550170,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ひぇ……",
         "MessageKR": "흐에에…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗚嗚……",
+        "MessageEN": "Ugh..."
     },
     {
         "MessageId": 200550180,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "わたしも買えませんでした……",
         "MessageKR": "저도 이번 구매는 실패했어요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我這次也沒有買到",
+        "MessageEN": "I didn't get it either."
     },
     {
         "MessageId": 200550181,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "新作のたびに入手困難になりますけど……今回は本当にすごい人気みたいで……",
         "MessageKR": "늘 그랬지만…… 이번 모델은 인기가 정말 대단한 것 같아요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然一直都是這樣……\n但這次的機型好像真的很受歡迎",
+        "MessageEN": "It's always like this...but this new model seems really popular."
     },
     {
         "MessageId": 200550190,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "でも、まったく入手方法がないわけじゃないんだ！",
         "MessageKR": "그런데 방법이 전혀 없는 것은 아니야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過也不是完全沒有辦法",
+        "MessageEN": "We're not COMPLETELY out of luck!"
     },
     {
         "MessageId": 200550200,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "えっ？",
         "MessageKR": "예?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？",
+        "MessageEN": "What?"
     },
     {
         "MessageId": 200550210,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "この状況からでも手に入れられる方法が！？",
         "MessageKR": "아직 구매할 수 있는 방법이 있나요?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還有辦法買到嗎！？",
+        "MessageEN": "Is there another way to buy one? Not through scalpers, right?"
     },
     {
         "MessageId": 200550220,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "うん、あるよ……",
         "MessageKR": "구매는 아니더라도, 구할 방법은 있지…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就算不用買的，也有辦法弄到手……",
+        "MessageEN": "Not \"buying,\" exactly..."
     },
     {
         "MessageId": 200540237,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "ユズ（臨戦）の絆イベントへ",
         "MessageKR": "유즈(무장)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往柚子（武裝）的羈絆劇情",
+        "MessageEN": "Go to Yuzu (Armed)'s Bond Story"
     },
     {
         "MessageId": 200550230,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "本当に、とんでもないことになっちゃいました……",
         "MessageKR": "정말 엄청난 일이 되어버렸네요……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "事情真的變得很不得了呢……",
+        "MessageEN": "What a disaster..."
     },
     {
         "MessageId": 200550240,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "変な誤解が広まらなければいいんですが……",
         "MessageKR": "누군가가 그 함성만 듣고 오해하지 않았으면 좋겠는데……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "希望不會有人聽到那些叫聲就誤會……",
+        "MessageEN": "I just hope nobody got the wrong idea...from all that screaming."
     },
     {
         "MessageId": 200550250,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "それだけみんながユズの才能に驚いたってことじゃないかな？",
         "MessageKR": "그만큼 모두가 유즈의 재능에 감탄했다는 게 아닐까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這不就代表大家都對柚子的才能感到驚嘆嗎？",
+        "MessageEN": "But Yuzu, that shows that they admire your incredible talent!"
     },
     {
         "MessageId": 200550260,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "そんなことないです！変な噂が広まってしまったら……",
         "MessageKR": "그런 말씀은 말아주세요! 또 오해를 하면 어쩌려고……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請不要說那種話！萬一又被誤會怎麼辦……",
+        "MessageEN": "Don't say that! I don't want anyone else asking me to..."
     },
     {
         "MessageId": 200550270,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "あ、そうだ……ゲーム開発部の部室に「バーチャルボス4.0」の本体が送られてきました",
         "MessageKR": "그나저나 주최 측에서 게임개발부 부실로 <버추얼 보스 4.0> 기기를 보내주었어요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "話說回來，主辦方把「Virtual Boss 4.0」的主機送到遊戲開發部的部室了",
+        "MessageEN": "Anyway, the host just sent a Virtual Boss 4.0 to the club room."
     },
     {
         "MessageId": 200550280,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "あの日はバタバタしすぎて、景品を受け取れなかったので……",
         "MessageKR": "그날은 경황이 없어서 상품을 수령하는 것도 까맣게 잊었던지라……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那天後來實在太過混亂，完全忘記要去領獎品了……",
+        "MessageEN": "They had to because I...forgot to claim it at the venue."
     },
     {
         "MessageId": 200550290,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "もしよかったら",
         "MessageKR": "괜찮으시다면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果可以的話",
+        "MessageEN": "So, if you don't mind..."
     },
     {
         "MessageId": 200550291,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "今度「バーチャルボス」で一緒に遊びませんか？",
         "MessageKR": "나중에 <버추얼 보스> 플레이하러 놀러 오세요, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下次再一起來玩「Virtual Boss」吧，老師",
+        "MessageEN": "How about we play some Virtual Boss together?"
     },
     {
         "MessageId": 200550292,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "ソフトも用意しておきますので！",
         "MessageKR": "전용 게임 소프트도 여러 장 구매해 둘 테니까요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我會準備好幾款遊戲軟體的！",
+        "MessageEN": "I have some console exclusive titles!"
     },
     {
         "MessageId": 200550300,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "うん。何があっても行くよ",
         "MessageKR": "무슨 일이 있어도 갈게",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不管發生什麼事我都會去",
+        "MessageEN": "Exclusive Yuzu...? I'm coming over."
     },
     {
         "MessageId": 200550310,
@@ -303,7 +303,7 @@
         "ImagePath": "",
         "MessageJP": "はい！お待ちしています！",
         "MessageKR": "네, 기다리고 있을게요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，我會等你的！",
+        "MessageEN": "Great, I'll be waiting for you!"
     }
 ]

@@ -10737,13 +10737,17 @@
             "/api/Avatars/Fandom/Eimi Armed Icon.png"
         ],
         "Name": {
+            "en": "Eimi (Armed)",
             "jp": "エイミ（臨戦）",
             "kr": "에이미(무장)",
+            "tw": "英美（武裝）",
             "zh": "艾米（临战）"
         },
         "Bio": {
+            "en": "Responding",
             "jp": "いま対応中",
             "kr": "대응 중",
+            "tw": "應對中",
             "zh": "正在处理中"
         },
         "Nickname": [
@@ -10768,13 +10772,17 @@
             "/api/Avatars/Fandom/Yuzu Armed Icon.png"
         ],
         "Name": {
+            "en": "Yuzu (Armed)",
             "jp": "ユズ（臨戦）",
             "kr": "유즈(무장)",
+            "tw": "柚子（武裝）",
             "zh": "柚子（临战）"
         },
         "Bio": {
+            "en": "500 Internal Server Error",
             "jp": "500 Internal Server Error",
             "kr": "500 Internal Server Error",
+            "tw": "500 Internal Server Error",
             "zh": "500 Internal Server Error"
         },
         "Nickname": [

@@ -3,8 +3,8 @@
         "CharacterId": 20055,
         "MessageJP": "ユズ（臨戦）",
         "MessageKR": "유즈(무장)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "柚子（武裝）",
+        "MessageEN": "Yuzu (Armed)"
     },
     {
         "MessageId": 200540080,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "ゲームって……",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei?"
     },
     {
         "MessageId": 200550090,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "こんなに難しいものだったんですね……",
         "MessageKR": "게임이라는 게 이렇게 어려울 수도 있는 것이었군요…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原來遊戲也可以這麼困難啊……",
+        "MessageEN": "I didn't know games could be this difficult..."
     },
     {
         "MessageId": 200550100,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ユズがそんなことを言うなんて……",
         "MessageKR": "유즈가…… 게임이 어렵다고……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "柚子居然……說遊戲很難……？",
+        "MessageEN": "Yuzu...struggling with a game...?"
     },
     {
         "MessageId": 200550110,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっとそっち行くね！",
         "MessageKR": "당장 갈게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我馬上過去",
+        "MessageEN": "I'm coming over."
     },
     {
         "MessageId": 200550120,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "えっ？",
         "MessageKR": "예?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？",
+        "MessageEN": "What?"
     },
     {
         "MessageId": 200550121,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ま、待ってください！",
         "MessageKR": "아니아니아니아니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不不不不",
+        "MessageEN": "No no no no no!"
     },
     {
         "MessageId": 200550122,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "わ、わたし本当に大丈夫ですから！",
         "MessageKR": "저, 정말로 괜찮아요! 이번에는!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我，我沒事的！這次真的沒事！",
+        "MessageEN": "I-I'm really okay! At least this time!"
     },
     {
         "MessageId": 200540127,
@@ -111,7 +111,7 @@
         "ImagePath": "",
         "MessageJP": "ユズ（臨戦）の絆イベントへ",
         "MessageKR": "유즈(무장)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往柚子（武裝）的羈絆劇情",
+        "MessageEN": "Go to Yuzu (Armed)'s Bond Story"
     }
 ]
