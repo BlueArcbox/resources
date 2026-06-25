@@ -2182,6 +2182,51 @@
             false
         ]
     },
+    "10143": {
+        "kivo_id": 598,
+        "avatar": "https://static.kivo.wiki/images/students/春原 瞬/泳装 /Student_Portrait_CH0355_Collection.png",
+        "momotalk": "请小心水边",
+        "name_en": "Shun",
+        "name_jp": "シュン（水着）",
+        "name_zh": "瞬（泳装）",
+        "nicknames": [
+            "  "
+        ],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
+    "10144": {
+        "kivo_id": 598,
+        "avatar": "https://static.kivo.wiki/images/students/春原 瞬/泳装 /Student_Portrait_CH0355_Collection.png",
+        "momotalk": "请小心水边",
+        "name_en": "Shun",
+        "name_jp": "シュン（水着）",
+        "name_zh": "瞬（泳装）",
+        "nicknames": [
+            "  "
+        ],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
+    "10145": {
+        "kivo_id": 599,
+        "avatar": "https://static.kivo.wiki/images/students/龙华 妃咲/泳装/Student_Portrait_CH0356_Collection.png",
+        "momotalk": "绿荫幽草胜花时",
+        "name_en": "Kisaki",
+        "name_jp": "キサキ（水着）",
+        "name_zh": "妃咲（泳装）",
+        "nicknames": [
+            " "
+        ],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
     "13000": {
         "kivo_id": 24,
         "gamekee_id": 66752,

@@ -1,0 +1,105 @@
+[
+    {
+        "CharacterId": 10143,
+        "MessageJP": "シュン（水着）",
+        "MessageKR": "슌(수영복)",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101420010,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 101430010,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 101430010,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101430020,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生、渓谷での余暇はいかがですか？",
+        "MessageKR": "계곡은 어떠세요, 선생님?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101430020,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101430030,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "大自然、サイコー……",
+        "MessageKR": "자연이란 좋구나…….",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101430030,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101430040,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ふふ。お楽しみいただいているようで何よりです",
+        "MessageKR": "다행이에요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101430040,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101430050,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ところで先生",
+        "MessageKR": "그런데 말이에요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101430050,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101430051,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "今日は私もそちらでご一緒したいのですが",
+        "MessageKR": "오늘은 선생님과 함께 계곡을 보고 싶은데",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101430051,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101420057,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "よろしいでしょうか？",
+        "MessageKR": "괜찮으실까요?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101420057,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "シュン（水着）の絆イベントへ",
+        "MessageKR": "슌(수영복)의 인연스토리로",
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
+    }
+]

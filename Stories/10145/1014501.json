@@ -1,0 +1,141 @@
+[
+    {
+        "CharacterId": 10145,
+        "MessageJP": "キサキ（水着）",
+        "MessageKR": "키사키(수영복)",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101440010,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 101450010,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 101450010,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101450020,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "せっかく渓谷にまで来たのならば",
+        "MessageKR": "모처럼 계곡까지 온 참인데",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101450020,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101450030,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "相応の過ごし方をすべきだとは思わぬかえ？",
+        "MessageKR": "평소와는 다른 시간을 보내야 하지 않겠는가?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101450030,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101450040,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "たしかにそうだね",
+        "MessageKR": "그건 확실히 그래야 할 것 같네.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101450040,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101450050,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "うむ",
+        "MessageKR": "음.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101450050,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101450051,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "見解は一致しておるようじゃな",
+        "MessageKR": "그렇게 선생도 동의하였으니.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101450051,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101450060,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "では、今から言う場所で落ち合うとしよう",
+        "MessageKR": "지금부터 내가 이야기하는 곳으로 와 주었으면 한다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101450060,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101450070,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "あ、今すぐ！？",
+        "MessageKR": "전개가 엄청나게 빠르지 않아?!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101450070,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101450071,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "安心せい。気は長いほうじゃ",
+        "MessageKR": "덧붙여서",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101450071,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101440077,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "……限度はあるがの",
+        "MessageKR": "지각은 용서하지 않을 것이야.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101440077,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "キサキ（水着）の絆イベントへ",
+        "MessageKR": "키사키(수영복)의 인연스토리로",
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
+    }
+]

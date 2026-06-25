@@ -1,0 +1,105 @@
+[
+    {
+        "CharacterId": 10027,
+        "MessageJP": "カリン（バニーガール）",
+        "MessageKR": "카린(바니걸)",
+        "MessageTW": "花凛（兔女郎）",
+        "MessageEN": "Karin (Bunny)"
+    },
+    {
+        "MessageId": 100260350,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 100270350,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 100270350,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100270360,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "連絡ありがとう、先生。狙撃手が必要なのか？",
+        "MessageKR": "연락 고마워, 선생님. 저격수가 필요하다고?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100270360,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 100270370,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "もしそうなら詳細を教えてくれ",
+        "MessageKR": "그렇다면 상세히 알려줘.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100270370,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 100270380,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "うん！バニーガールの狙撃手が必要なんだ！",
+        "MessageKR": "응! 바니걸 저격수가 필요해!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100270380,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100270381,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "うん？特殊任務ということか？",
+        "MessageKR": "특수한 임무인가 보네.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100270381,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100270382,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "よし、分かった",
+        "MessageKR": "좋아. 맡겨줘.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100270382,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 100260387,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "合流場所を教えて欲しい",
+        "MessageKR": "랑데부 포인트는 어디지?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 100260387,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "カリン（バニーガール）の絆イベントへ",
+        "MessageKR": "카린(바니걸)의 인연스토리로",
+        "MessageTW": "前往花凛（兔女郎）的羈絆劇情",
+        "MessageEN": "Go to Karin (Bunny)'s Bond Story"
+    }
+]

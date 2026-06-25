@@ -1,0 +1,105 @@
+[
+    {
+        "CharacterId": 23005,
+        "MessageJP": "アヤネ",
+        "MessageKR": "아야네",
+        "MessageTW": "綾音",
+        "MessageEN": "Ayane"
+    },
+    {
+        "MessageId": 230040430,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 230050430,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 230050430,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 230050440,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "本日シャーレ当番ですが……シャーレへ行く前に",
+        "MessageKR": "안녕하세요. 선생님.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 230050440,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 230050450,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "業務状況についていくつかお伺いしてもいいでしょうか？",
+        "MessageKR": "당번에 앞서, 오늘 샬레의 업무 상황을 여쭤보고 싶은데요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 230050450,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 230050460,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "アヤネ、助けて……",
+        "MessageKR": "살려줘 아야네…….",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 230050450,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 230050460,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "今日は書類地獄なんだ……",
+        "MessageKR": "오늘은 특히 서류 지옥이야…….",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 230050460,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 230050461,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ほ、本当ですか！？",
+        "MessageKR": "그, 그런가요?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 230050461,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 230040467,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "すぐに行きます！",
+        "MessageKR": "최대한 빠르게 가겠습니다!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 230040467,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "アヤネの絆イベントへ",
+        "MessageKR": "아야네의 인연스토리로",
+        "MessageTW": "前往綾音的羈絆劇情",
+        "MessageEN": "Go to Ayane's Bond Story"
+    }
+]

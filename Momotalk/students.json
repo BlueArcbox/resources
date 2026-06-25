@@ -11116,5 +11116,95 @@
             "ItemId": 10119,
             "ItemType": "水着"
         }
+    },
+    {
+        "Id": 10143,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10143.webp"
+        ],
+        "Name": {
+            "jp": "シュン（水着）",
+            "kr": "슌(수영복)",
+            "zh": "瞬（泳装）"
+        },
+        "Bio": {
+            "jp": "水辺は気をつけてくださいね。",
+            "kr": "물가에서는 특히 조심해야 한답니다.",
+            "zh": "请小心水边"
+        },
+        "Nickname": [
+            "Shun",
+            "  "
+        ],
+        "Birthday": "2/5",
+        "Age": "極秘",
+        "School": "Shanhaijing",
+        "Club": "Meihuayuan",
+        "Star": 3,
+        "Released": true,
+        "Related": {
+            "ItemId": 10011,
+            "ItemType": "水着"
+        }
+    },
+    {
+        "Id": 10144,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10144.webp"
+        ],
+        "Name": {
+            "jp": "シュン（水着）",
+            "kr": "슌(수영복)",
+            "zh": "瞬（泳装）"
+        },
+        "Bio": {
+            "jp": "",
+            "kr": "",
+            "zh": "请小心水边"
+        },
+        "Nickname": [
+            "Shun",
+            "  "
+        ],
+        "Birthday": "2/5",
+        "Age": "極秘",
+        "School": "Shanhaijing",
+        "Club": "Meihuayuan",
+        "Star": 3,
+        "Released": true,
+        "Related": {
+            "ItemId": 10011,
+            "ItemType": "水着"
+        }
+    },
+    {
+        "Id": 10145,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10145.webp"
+        ],
+        "Name": {
+            "jp": "キサキ（水着）",
+            "kr": "키사키(수영복)",
+            "zh": "妃咲（泳装）"
+        },
+        "Bio": {
+            "jp": "緑陰幽草勝花時",
+            "kr": "녹음방초",
+            "zh": "绿荫幽草胜花时"
+        },
+        "Nickname": [
+            "Kisaki",
+            " "
+        ],
+        "Birthday": "2/19",
+        "Age": "17歳",
+        "School": "Shanhaijing",
+        "Club": "Genryumon",
+        "Star": 3,
+        "Released": true,
+        "Related": {
+            "ItemId": 20039,
+            "ItemType": "水着"
+        }
     }
 ]

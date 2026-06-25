@@ -1,0 +1,129 @@
+[
+    {
+        "CharacterId": 10143,
+        "MessageJP": "シュン（水着）",
+        "MessageKR": "슌(수영복)",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101420060,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 101430060,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 101430060,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101430070,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "私、夏って好きなんです",
+        "MessageKR": "여름이라는 계절은 신기하죠.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101430070,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101430080,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "どこが好きなの？",
+        "MessageKR": "어떤 의미에서?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101430080,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101430090,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "理由はいくつかありますが……",
+        "MessageKR": "이유도 의미도 여러 가지 있겠지만",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101430090,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101430091,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "自分の、いつもとは違った一面を",
+        "MessageKR": "역시 새로운 모습으로 ",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101430091,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101430100,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "表現できる……からでしょうか？",
+        "MessageKR": "누군가에게 다가갈 수 있다는 점이 아닐까요?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101430100,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101430101,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ふふ、ですので",
+        "MessageKR": "말씀드린 김에",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101430101,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101430102,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "私のいつもとは違った一面をお見せしたいのですが",
+        "MessageKR": "새로운 모습을 선생님께 조금 보여드리고 싶은데",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101430102,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101420107,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "お時間をいただいてもよろしいでしょうか？",
+        "MessageKR": "괜찮으실까요?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101420107,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "シュン（水着）の絆イベントへ",
+        "MessageKR": "슌(수영복)의 인연스토리로",
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
+    }
+]
