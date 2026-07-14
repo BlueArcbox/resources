@@ -3,8 +3,8 @@
         "CharacterId": 20056,
         "MessageJP": "コユキ（パジャマ）",
         "MessageKR": "코유키(파자마)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "小雪（睡衣）",
+        "MessageEN": "Koyuki (Pajamas)"
     },
     {
         "MessageId": 200550320,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "ついにこの日が",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 200560330,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "やってきました！！！！",
         "MessageKR": "드디어 그날이 왔습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那一天終於來了",
+        "MessageEN": "The day has finally come."
     },
     {
         "MessageId": 200560331,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "コインの準備はバッチリですか？",
         "MessageKR": "준비된 코인은 충분하신지요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "代幣的準備足夠嗎",
+        "MessageEN": "You better have enough change."
     },
     {
         "MessageId": 200560340,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "？？？",
         "MessageKR": "??????",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "？？？",
+        "MessageEN": "??????"
     },
     {
         "MessageId": 200560340,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "この日？？コイン？？",
         "MessageKR": "그날??? 코인??",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那一天？？？代幣？？",
+        "MessageEN": "The day??? Change???"
     },
     {
         "MessageId": 200560350,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "はい！今日、なんと――",
         "MessageKR": "네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒錯",
+        "MessageEN": "Yes."
     },
     {
         "MessageId": 200560351,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ついに、リリースされたんです",
         "MessageKR": "마침내 오늘, 출시한 것입니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就在今天，終於正式發售了",
+        "MessageEN": "It's finally out."
     },
     {
         "MessageId": 200560360,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "『喫茶クライシス』の正式な続編――",
         "MessageKR": "<찻집 등반>의 정식 후속작",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "《喫茶危機》的正式續作",
+        "MessageEN": "The official sequel to Teahouse Climbing."
     },
     {
         "MessageId": 200560370,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "……",
         "MessageKR": "…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……",
+        "MessageEN": "..."
     },
     {
         "MessageId": 200560380,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "！！！！！",
         "MessageKR": "!!!!!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "！！！！！",
+        "MessageEN": "YO!!!"
     },
     {
         "MessageId": 200560390,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "『ザ・喫茶ファイター』！！！！",
         "MessageKR": "<찻집 난투>!!!!!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "《喫茶店快打》！！！！！！",
+        "MessageEN": "TEAHOUSE BRAWL!!!"
     },
     {
         "MessageId": 200560400,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "行きましょう！！",
         "MessageKR": "갑시다!!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "走吧！！！",
+        "MessageEN": "Let's go!"
     },
     {
         "MessageId": 200560401,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "よそ見をしている暇なんてありません！！！！！！",
         "MessageKR": "머뭇거릴 틈이 없다!!!!!!!!!!!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒時間猶豫了！！！！！！！！！！",
+        "MessageEN": "There's no time to lose!!!"
     },
     {
         "MessageId": 200550417,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "コユキ（パジャマ）の絆イベントへ",
         "MessageKR": "코유키(파자마)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往小雪（睡衣）的羈絆劇情",
+        "MessageEN": "Go to Koyuki (Pajamas)'s Bond Story"
     },
     {
         "MessageId": 200560410,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "いやぁ",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah."
     },
     {
         "MessageId": 200560420,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "本当に最高でした",
         "MessageKR": "정말 최고였습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真的太棒了",
+        "MessageEN": "It was the best."
     },
     {
         "MessageId": 200560421,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "先生は神です……！最高！",
         "MessageKR": "선생님은 최고예요. 대박이었습니다!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師真厲害，實在太神了！！",
+        "MessageEN": "You're the best too, Sensei. That was amazing!!!"
     },
     {
         "MessageId": 200560430,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "一生崇めます！！",
         "MessageKR": "경배하라, 샬레의 선생을!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請受我一拜，夏萊的老師！！",
+        "MessageEN": "All praise Schale's Sensei! HUZZAH!"
     },
     {
         "MessageId": 200560440,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "……ふふ",
         "MessageKR": "……후후",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……呵呵",
+        "MessageEN": "...Heehee."
     },
     {
         "MessageId": 200560440,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "楽しめたならよかったよ……",
         "MessageKR": "즐거웠다니 다행이구나…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你有開心就好……",
+        "MessageEN": "I'm glad you had fun..."
     },
     {
         "MessageId": 200560450,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "？",
         "MessageKR": "?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "？",
+        "MessageEN": "?"
     },
     {
         "MessageId": 200560451,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "なんかありました？",
         "MessageKR": "오잉? 뭐죠, 그 반응?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？那是什麼反應？",
+        "MessageEN": "Hm? What's with that reply?"
     },
     {
         "MessageId": 200560452,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "反応、ちょっと変ですけど",
         "MessageKR": "무슨 일 있었나요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "發生什麼事了嗎？",
+        "MessageEN": "Did something happen?"
     },
     {
         "MessageId": 200560460,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "レシートが見つかって怒られたんだ……",
         "MessageKR": "영수증을 들켜 버리는 바람에…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "收據被發現了……",
+        "MessageEN": "They found my receipt..."
     },
     {
         "MessageId": 200560460,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと、代償をね……",
         "MessageKR": "그에 따른 대가를 지불했지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以為此付出了代價",
+        "MessageEN": "...I had to pay the price."
     },
     {
         "MessageId": 200560470,
@@ -327,8 +327,8 @@
         "ImagePath": "",
         "MessageJP": "あ",
         "MessageKR": "아\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊\u200b",
+        "MessageEN": "Ah.\u200b"
     },
     {
         "MessageId": 200560471,
@@ -339,8 +339,8 @@
         "ImagePath": "",
         "MessageJP": "ああ……",
         "MessageKR": "음.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "Um."
     },
     {
         "MessageId": 200560472,
@@ -351,8 +351,8 @@
         "ImagePath": "",
         "MessageJP": "^_^;;",
         "MessageKR": "ㅎㅎ;",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "^_^;;",
+        "MessageEN": "Heehee."
     },
     {
         "MessageId": 200560480,
@@ -363,7 +363,7 @@
         "ImagePath": "",
         "MessageJP": "Rest in Peace, my sensei",
         "MessageKR": "Rest in Peace, my sensei.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "Rest in Peace, my sensei.",
+        "MessageEN": "RIP in peace, Sensei."
     }
 ]

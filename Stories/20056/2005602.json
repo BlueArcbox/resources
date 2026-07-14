@@ -3,8 +3,8 @@
         "CharacterId": 20056,
         "MessageJP": "コユキ（パジャマ）",
         "MessageKR": "코유키(파자마)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "小雪（睡衣）",
+        "MessageEN": "Koyuki (Pajamas)"
     },
     {
         "MessageId": 200550200,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "今日の当番って私でしたっけ？",
         "MessageKR": "그러고 보니 오늘 제가 당번이었죠?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "話說今天是我當值日生吧？",
+        "MessageEN": "Now that I think about it, I'm your student rep today."
     },
     {
         "MessageId": 200560210,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "なんだかワクワクしてきました",
         "MessageKR": "참으로 기대가 됩니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真是令人期待",
+        "MessageEN": "I'm reaaaaaaaaaally looking forward to it."
     },
     {
         "MessageId": 200560220,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "約束はちゃんと覚えてる？",
         "MessageKR": "약속은 기억하고 있겠지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還記得約定吧？",
+        "MessageEN": "Do you remember our promise?"
     },
     {
         "MessageId": 200560220,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "今度こそ言うこと聞くって言ったよね？",
         "MessageKR": "이번엔 말 잘 듣겠다고 했지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這次說好會乖乖聽話對吧？",
+        "MessageEN": "You said you'll listen to me this time, right?"
     },
     {
         "MessageId": 200560230,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "にはっ",
         "MessageKR": "와ㅋㅋ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哈ww",
+        "MessageEN": "wooooooooow lul"
     },
     {
         "MessageId": 200560231,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "なーんか、トラブルメーカー扱いされてるような気がするんですけど？？",
         "MessageKR": "누굴 뭐 사고뭉치 보듯이 하시네, 곤란하거든요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼好像被當成麻煩製造者了，這樣我很困擾耶",
+        "MessageEN": "I can't believe you're treating me like some kind of menace."
     },
     {
         "MessageId": 200560232,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "先生はひどいなぁ！",
         "MessageKR": "저 그렇게 통제 불능인 사람 아닙니다요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我不是那種無法控制的人啦",
+        "MessageEN": "It's not like I'm out of control, you know?"
     },
     {
         "MessageId": 200560240,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "はいはい、待ってるね",
         "MessageKR": "그래. 기다리고 있을게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好吧，我會等你的",
+        "MessageEN": "Okay. I'll be waiting."
     },
     {
         "MessageId": 200560240,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "本当かなぁ……",
         "MessageKR": "당신의 양심은 어디에…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你的良心在哪裡……",
+        "MessageEN": "Just where is your conscience...?"
     },
     {
         "MessageId": 200560250,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "XD",
         "MessageKR": "ㅋㅋ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "XD",
+        "MessageEN": "Haha"
     },
     {
         "MessageId": 200560251,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "また後ほど～！にはっ！",
         "MessageKR": "그럼 이따 보시죠\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那待會見囉～",
+        "MessageEN": "I'll catch you later!"
     },
     {
         "MessageId": 200550267,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "コユキ（パジャマ）の絆イベントへ",
         "MessageKR": "코유키(파자마)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往小雪（睡衣）的羈絆劇情",
+        "MessageEN": "Go to Koyuki (Pajamas)'s Bond Story"
     },
     {
         "MessageId": 200560260,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "あ",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah."
     },
     {
         "MessageId": 200560270,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "寝落ちしてしまった！！",
         "MessageKR": "자 버렸다ㅋㅋ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不小心睡著了ww",
+        "MessageEN": "I ended up sleeping... lul..."
     },
     {
         "MessageId": 200560271,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "せっかくの夜更かしチャンスだったのに！",
         "MessageKR": "안돼 밤샘의 기회였는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "明明是個熬夜好機會的說",
+        "MessageEN": "Noo! That was my chance to pull an all-nighter."
     },
     {
         "MessageId": 200560280,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "ゆっくり休めたなら良かった",
         "MessageKR": "잘 쉬었으면 된 거지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有好好休息就好了",
+        "MessageEN": "As long as you got some rest."
     },
     {
         "MessageId": 200560280,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "夜更かしは健康によくないからね",
         "MessageKR": "밤샘은 좋지 않아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "熬夜是不好的哦",
+        "MessageEN": "It's not good to stay up all night."
     },
     {
         "MessageId": 200560290,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "？",
         "MessageKR": "?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "？",
+        "MessageEN": "?"
     },
     {
         "MessageId": 200560291,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "なんです？説教モードです？",
         "MessageKR": "어느새 또 평소의 잔소리꾼으로 돌아가셨군요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "又默默變回平常的碎碎念模式了呢",
+        "MessageEN": "Again with the nagging, Sensei."
     },
     {
         "MessageId": 200560300,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "XD\u200b",
         "MessageKR": "ㅋㅋ\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "XD\u200b",
+        "MessageEN": "lul"
     },
     {
         "MessageId": 200560301,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "今日はありがとうございました！",
         "MessageKR": "오늘 감사했습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天謝謝你啦！",
+        "MessageEN": "Thanks for today, btw!"
     },
     {
         "MessageId": 200560310,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "また呼んでくださいね！",
         "MessageKR": "다음에 또 불러주세요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下次再叫我哦！",
+        "MessageEN": "Let's meet again soon!"
     },
     {
         "MessageId": 200560311,
@@ -291,7 +291,7 @@
         "ImagePath": "",
         "MessageJP": "いつでも行きますから！！！",
         "MessageKR": "언제든!!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "隨時都可以！！！",
+        "MessageEN": "Anytime!!!"
     }
 ]

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "レコードプレーヤーって",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 100910480,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "シャーレにあったりする？",
         "MessageKR": "혹시 LP 플레이어, 가지고 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你有黑膠唱片播放機嗎？",
+        "MessageEN": "Do you have a record player by any chance?"
     },
     {
         "MessageId": 100910490,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ん、どうして？",
         "MessageKR": "음? 무슨 일로?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯？為什麼問我？",
+        "MessageEN": "Hm? Why?"
     },
     {
         "MessageId": 100910500,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "シャーレならあるかもって",
         "MessageKR": "그야……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那是因為……",
+        "MessageEN": "Well..."
     },
     {
         "MessageId": 100910501,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "古いもの、だし？",
         "MessageKR": "엄청 옛날에 쓰던 장비니까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "畢竟是很久以前的設備嘛？",
+        "MessageEN": "Because it's vintage?"
     },
     {
         "MessageId": 100910510,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "たしかに、古いものは多いけど……。",
         "MessageKR": "확실히, 오래된 건 많긴 한데……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "確實有很多舊東西……",
+        "MessageEN": "Well, I guess vintage is trendy these days..."
     },
     {
         "MessageId": 100910520,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "レコードを聞くの？",
         "MessageKR": "그런데 무슨 일로?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過是要做什麼用的？",
+        "MessageEN": "But why?"
     },
     {
         "MessageId": 100910530,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "うん。聴きたいLP盤があるんだけど",
         "MessageKR": "아, 들어보고 싶은 LP 음반이 있는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我有想聽的黑膠唱片",
+        "MessageEN": "Ah, I have a vinyl I want to listen to"
     },
     {
         "MessageId": 100910540,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "プレーヤーがなくて……",
         "MessageKR": "막상 재생할 장치가 없어서…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但是沒有播放設備……",
+        "MessageEN": "but I don't have anything to play it on."
     },
     {
         "MessageId": 100910550,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "それで、シャーレにあるの？",
         "MessageKR": "그래서, 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以，夏萊會有嗎？",
+        "MessageEN": "So, do you have one?"
     },
     {
         "MessageId": 100910560,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "ごめん、ないんだ……  ",
         "MessageKR": "안타깝게도 플레이어는 없지만……  ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "抱歉，並沒有……",
+        "MessageEN": "No, unfortunately.  "
     },
     {
         "MessageId": 100910570,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "でも聴く方法はあるよ",
         "MessageKR": "방법은 있지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但是我有辦法",
+        "MessageEN": "But I know where we can listen!"
     },
     {
         "MessageId": 100910580,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "え？ ",
         "MessageKR": "어? ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？",
+        "MessageEN": "Huh? "
     },
     {
         "MessageId": 100910590,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "本当！？",
         "MessageKR": "진짜?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真的嗎！？",
+        "MessageEN": "Really?!"
     },
     {
         "MessageId": 100900597,

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "ご主人様！",
         "MessageKR": "주인님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "主人──！",
+        "MessageEN": "Master."
     },
     {
         "MessageId": 160010430,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "いま時間あったりする？",
         "MessageKR": "혹시 시간 괜찮아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在有時間嗎？",
+        "MessageEN": "Are you busy??"
     },
     {
         "MessageId": 160010431,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ちょーっと助けてほしくて！",
         "MessageKR": "아스나 도움!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我需要你的幫忙！！",
+        "MessageEN": "HELP ASUNA PLEASE!!"
     },
     {
         "MessageId": 160010440,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "ちょうど手が空いたところだよ。どうしたの？",
         "MessageKR": "마침 딱 시간 괜찮았는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在剛好有空",
+        "MessageEN": "I'm free right now!"
     },
     {
         "MessageId": 160010450,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "どこに行けば良い？",
         "MessageKR": "어디로 갈까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要去哪裡呢？",
+        "MessageEN": "Where should I meet you?"
     },
     {
         "MessageId": 160010460,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "よかった！",
         "MessageKR": "오",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哦？！",
+        "MessageEN": "Oh!"
     },
     {
         "MessageId": 160010461,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとうー！",
         "MessageKR": "럭키\\~!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真幸運～！！",
+        "MessageEN": "Lucky!!!"
     },
     {
         "MessageId": 160010470,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "場所送るね！",
         "MessageKR": "여기가 어디냐면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這裡是……",
+        "MessageEN": "Right now I'm"
     },
     {
         "MessageId": 160000477,

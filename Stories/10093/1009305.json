@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生！大変！",
         "MessageKR": "쌤!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師！！",
+        "MessageEN": "Teach!!!"
     },
     {
         "MessageId": 100930590,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "リングノート無くしちゃった！",
         "MessageKR": "쌤쌤쌤쌤!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師老師老師老師！！",
+        "MessageEN": "TEACHTEACHTEACHTEACH!"
     },
     {
         "MessageId": 100930600,
@@ -50,9 +50,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "先生、どこかで見てたりしてない……？",
-        "MessageKR": "혹시 내 스프링 노트",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "혹시 내 스프링노트 ",
+        "MessageTW": "你有看到我的線圈筆記本嗎？",
+        "MessageEN": "Have you seen my "
     },
     {
         "MessageId": 100930601,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "覚えてたらでいいんだけど",
         "MessageKR": "본 적 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有嗎？！",
+        "MessageEN": "spiral notebook somewhere?"
     },
     {
         "MessageId": 100930610,
@@ -74,9 +74,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "どんなノート……？",
-        "MessageKR": "어떤 스프링 노트……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "어떤 스프링노트……?",
+        "MessageTW": "什麼筆記本……？",
+        "MessageEN": "Uhh, which one?"
     },
     {
         "MessageId": 100930620,
@@ -86,9 +86,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "やっぱそうだよねー",
-        "MessageKR": "으아아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "으아아 ",
+        "MessageTW": "啊……",
+        "MessageEN": "Aaaaaa "
     },
     {
         "MessageId": 100930621,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ごめん気にしないで……！",
         "MessageKR": "그치 쌤한테 그게 있을 리가 없지……!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "說得也是，怎麼會在老師那呢……！",
+        "MessageEN": "Right. Of course you wouldn't have!"
     },
     {
         "MessageId": 100930630,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "また後で！",
         "MessageKR": "미안 쌤! 나중에 다시 연락할게!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師抱歉！ 晚點再聯絡！",
+        "MessageEN": "I had to try! Sorry, Teach! I'll catch ya later!"
     },
     {
         "MessageId": 100930640,
@@ -122,9 +122,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "……キララ？",
-        "MessageKR": "……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "……? ",
+        "MessageTW": "……？",
+        "MessageEN": "...? "
     },
     {
         "MessageId": 100920657,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "ごめん先生！",
         "MessageKR": "미안해 쌤!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師抱歉！",
+        "MessageEN": "Teach!!! Sorry for"
     },
     {
         "MessageId": 100930660,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと急用を思い出しちゃって！",
         "MessageKR": "갑자기 뛰쳐나와 버려서!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "突然跑掉！",
+        "MessageEN": "running out like that!"
     },
     {
         "MessageId": 100930670,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "それと",
         "MessageKR": "그리고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還有",
+        "MessageEN": "and"
     },
     {
         "MessageId": 100930671,
@@ -182,9 +182,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "あの",
-        "MessageKR": "그",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "그 ",
+        "MessageTW": "那個",
+        "MessageEN": "um "
     },
     {
         "MessageId": 100930672,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "さっきのヤツ……",
         "MessageKR": "아까 그",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "剛才那個",
+        "MessageEN": "about um"
     },
     {
         "MessageId": 100930680,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "あれのことは",
         "MessageKR": "그건 말이지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就是那幅畫",
+        "MessageEN": "what happened"
     },
     {
         "MessageId": 100930690,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "わ",
         "MessageKR": "잊",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請",
+        "MessageEN": "please"
     },
     {
         "MessageId": 100930691,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "忘れて……",
         "MessageKR": "잊어주세",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請你忘記",
+        "MessageEN": "forget about it"
     },
     {
         "MessageId": 100930700,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "いや",
         "MessageKR": "아니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不對",
+        "MessageEN": "Wait"
     },
     {
         "MessageId": 100930701,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "気にしないで！",
         "MessageKR": "그렇다고 진짜로 잊지는 말고!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當我沒說！",
+        "MessageEN": "But don't like totally forget about it!"
     },
     {
         "MessageId": 100930702,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "分かった！？",
         "MessageKR": "알겠지! 쌤!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "知道了吧！？",
+        "MessageEN": "Okay?! Teach!!"
     },
     {
         "MessageId": 100930710,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "わ……分かりました？",
         "MessageKR": "아…… 알겠습니다?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "知…… 知道了？",
+        "MessageEN": "I understand?!"
     },
     {
         "MessageId": 100930720,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "うん！そういうことで！",
         "MessageKR": "응응!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯！",
+        "MessageEN": "Nice!"
     },
     {
         "MessageId": 100930730,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "それじゃあ",
         "MessageKR": "그러면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那就",
+        "MessageEN": "In that case"
     },
     {
         "MessageId": 100930740,
@@ -315,7 +315,7 @@
         "ImagePath": "",
         "MessageJP": "またね！先生！",
         "MessageKR": "다음에 또 봐!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下次再見囉！！",
+        "MessageEN": "See ya next time!"
     }
 ]

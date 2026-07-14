@@ -3,8 +3,8 @@
         "CharacterId": 20056,
         "MessageJP": "コユキ（パジャマ）",
         "MessageKR": "코유키(파자마)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "小雪（睡衣）",
+        "MessageEN": "Koyuki (Pajamas)"
     },
     {
         "MessageId": 200550010,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "XD",
         "MessageKR": "ㅋㅋ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "XD",
+        "MessageEN": "lul"
     },
     {
         "MessageId": 200560020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "？",
         "MessageKR": "?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "？",
+        "MessageEN": "?"
     },
     {
         "MessageId": 200560030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "？\u200b",
         "MessageKR": "?\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "？\u200b",
+        "MessageEN": "?\u200b"
     },
     {
         "MessageId": 200560040,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "？？",
         "MessageKR": "??",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "？？",
+        "MessageEN": "??"
     },
     {
         "MessageId": 200560050,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "？？\u200b",
         "MessageKR": "??\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "？？\u200b",
+        "MessageEN": "???"
     },
     {
         "MessageId": 200560060,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "どうしたの？",
         "MessageKR": "?? 뭐야",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼了？",
+        "MessageEN": "??? What"
     },
     {
         "MessageId": 200560060,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "要件があるならちゃんと書いてね",
         "MessageKR": "말을 해라",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有話想說就說出來吧",
+        "MessageEN": "WUT?"
     },
     {
         "MessageId": 200560070,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "XDXD",
         "MessageKR": "ㅋㅋ\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "XD\u200b",
+        "MessageEN": "lul\u200b"
     },
     {
         "MessageId": 200550087,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "コユキ（パジャマ）の絆イベントへ",
         "MessageKR": "코유키(파자마)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往小雪（睡衣）的羈絆劇情",
+        "MessageEN": "Go to Koyuki (Pajamas)'s Bond Story"
     },
     {
         "MessageId": 200560080,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "……あ",
         "MessageKR": "……아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……啊",
+        "MessageEN": "...ah."
     },
     {
         "MessageId": 200560090,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "やらかしたかも",
         "MessageKR": "ㅋㅋ망한 듯",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好像搞砸了ww",
+        "MessageEN": "It's so over lul"
     },
     {
         "MessageId": 200560100,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "次は何したの",
         "MessageKR": "또 뭐니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "又怎麼了",
+        "MessageEN": "What is it this time...?"
     },
     {
         "MessageId": 200560100,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "こうなると思った",
         "MessageKR": "내 이럴 줄 알았다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我就知道會這樣",
+        "MessageEN": "I knew this would happen."
     },
     {
         "MessageId": 200560110,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "XD\u200b",
         "MessageKR": "ㅋㅋ\u200b\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "XD\u200b\u200b",
+        "MessageEN": "lul\u200b\u200b"
     },
     {
         "MessageId": 200560111,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "いや",
         "MessageKR": "아니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不是",
+        "MessageEN": "no"
     },
     {
         "MessageId": 200560120,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "その",
         "MessageKR": "그",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個",
+        "MessageEN": "uh..."
     },
     {
         "MessageId": 200560121,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "先生にお菓子を奢ったのは褒められたんですけど……",
         "MessageKR": "선생님 간식 사드린 건 잘했다고 했는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然請老師吃點心這件事有被稱讚",
+        "MessageEN": "They said I was good for buying you snacks."
     },
     {
         "MessageId": 200560122,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "結局、先輩たちのおつかいの品、買い忘れてて",
         "MessageKR": "막상 심부름시킨 걸 안 샀다고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "結果幫忙跑腿的東西卻忘了買",
+        "MessageEN": "But I didn't buy what I was sent out to get..."
     },
     {
         "MessageId": 200560130,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "XD\u200b\u200b",
         "MessageKR": "헉ㅋㅋ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "XD\u200b\u200b\u200b",
+        "MessageEN": "Oh lul"
     },
     {
         "MessageId": 200560130,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "XDXDXDXD",
         "MessageKR": "ㅋㅋ아ㅋㅋㅋ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "XDXDXD",
+        "MessageEN": "ahahahaha"
     },
     {
         "MessageId": 200560140,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "そこ笑うとこですか！？",
         "MessageKR": "ㅋㅋㅋㅋ지금 웃음이 나옵니까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "www那是笑點嗎？",
+        "MessageEN": "Why are you laughing at me?"
     },
     {
         "MessageId": 200560141,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "一緒にいたじゃないですかーーーーー！！！",
         "MessageKR": "같이 있었잖아요!!!!!!!!!!!!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你不是也在一起嗎！！！！！！！！",
+        "MessageEN": "You were right there!"
     },
     {
         "MessageId": 200560150,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "ごめんごめん",
         "MessageKR": "ㅋㅋ쏘리쏘리.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "抱歉抱歉ww",
+        "MessageEN": "lul my bad."
     },
     {
         "MessageId": 200560150,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "ちゃんと確認すればよかったね",
         "MessageKR": "그 부분은 정말 미안해.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那部分真的很抱歉",
+        "MessageEN": "I'm so sorry about that."
     },
     {
         "MessageId": 200560160,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "にはははは！",
         "MessageKR": "ㅋㅋㅋ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "XDXDXD\u200b",
+        "MessageEN": "lul\u200b\u200b\u200b"
     },
     {
         "MessageId": 200560161,
@@ -327,8 +327,8 @@
         "ImagePath": "",
         "MessageJP": "いいんですよ、冗談ですから",
         "MessageKR": "아닙니다. 농담이에요, 농담.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒關係啦，跟你開開玩笑而已",
+        "MessageEN": "Nah, I was kidding."
     },
     {
         "MessageId": 200560170,
@@ -339,8 +339,8 @@
         "ImagePath": "",
         "MessageJP": "それじゃ",
         "MessageKR": "그럼",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼",
+        "MessageEN": "That said"
     },
     {
         "MessageId": 200560171,
@@ -351,8 +351,8 @@
         "ImagePath": "",
         "MessageJP": "おやすみなさい",
         "MessageKR": "저는 먼저 갑니다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我就先走一步了",
+        "MessageEN": "I'm outta here."
     },
     {
         "MessageId": 200560180,
@@ -363,8 +363,8 @@
         "ImagePath": "",
         "MessageJP": "来世では",
         "MessageKR": "다음 생에 다시",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下輩子",
+        "MessageEN": "Let's meet again"
     },
     {
         "MessageId": 200560181,
@@ -375,8 +375,8 @@
         "ImagePath": "",
         "MessageJP": "自由な世界でお会いしましょうXD",
         "MessageKR": "자유로운 세상에서 만나요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "在自由的世界再會吧",
+        "MessageEN": "In a new lifetime, in a free world."
     },
     {
         "MessageId": 200560190,
@@ -387,7 +387,7 @@
         "ImagePath": "",
         "MessageJP": "Adios, Amigo！",
         "MessageKR": "Adios, Amigo.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "Adios, Amigo.",
+        "MessageEN": "ADIOS, AMIGO!"
     }
 ]

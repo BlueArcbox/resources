@@ -10806,13 +10806,17 @@
             "/api/Avatars/Fandom/Koyuki Pajamas Icon.png"
         ],
         "Name": {
+            "en": "Koyuki (Pajamas)",
             "jp": "コユキ（パジャマ）",
             "kr": "코유키(파자마)",
+            "tw": "小雪（睡衣）",
             "zh": "小雪（睡衣）"
         },
         "Bio": {
+            "en": "I did it, but it's not my fault!",
             "jp": "事実ですけど、私のせいじゃありません！",
             "kr": "제가 한 건 맞는데 제 잘못은 아니라고요!",
+            "tw": "雖然是事實，但錯不在我！",
             "zh": "虽然事实的确是这样，但真的不是我的错！"
         },
         "Nickname": [

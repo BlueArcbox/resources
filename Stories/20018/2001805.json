@@ -26,9 +26,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "先生、昨日シラトリの公園にいた？",
-        "MessageKR": "선생님, 어제저녁에 시라토리 근린 공원에 있지 않았어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "선생님, 어제 저녁에 시라토리 근린 공원에 있지 않았어?",
+        "MessageTW": "老師，你昨天晚上有在白鳥區的公園附近嗎？",
+        "MessageEN": "Sensei, weren't you at Shiratori Neighborhood Park last night?"
     },
     {
         "MessageId": 200180260,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "なんか先生が走ってたような気がして……",
         "MessageKR": "어젯밤에 그 근처를 걷다가 선생님이 뛰어가는 모습을 본 것 같아서.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "昨晚在附近散步的時候，好像有看到老師跑過去",
+        "MessageEN": "I thought I saw you running while I was on a walk."
     },
     {
         "MessageId": 200180270,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "モエもいたんだ",
         "MessageKR": "응. 모에도 거기 있었구나?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有啊，萌也在那裡啊？",
+        "MessageEN": "Ah! You saw me there?!"
     },
     {
         "MessageId": 200180270,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "声かけてくれたらよかったのに",
         "MessageKR": "뭔가 개인적인 시간을 들킨 것 같아서 부끄럽네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "感覺像是私人時間被看到了，有點害羞呢",
+        "MessageEN": "I got caught..."
     },
     {
         "MessageId": 200180280,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "てっきり、仕事中かと思って声かけなかったんだけど……",
         "MessageKR": "개인적인 시간……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "私人時間……？",
+        "MessageEN": "Why're you acting so shy?"
     },
     {
         "MessageId": 200180290,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "話しかけてよかったんだ？",
         "MessageKR": "나는 일 때문에 방문한 줄 알았는데, 뭔가 다른 문제라도 있었던 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我以為是因為工作才去那裡的，是有其他事情嗎？",
+        "MessageEN": "I figured you were just there for work. Eheehee, was it something private?"
     },
     {
         "MessageId": 200180300,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "大歓迎だよ。最近ジョギングしててね",
         "MessageKR": "응. 최근에 저녁 조깅을 하고 있었거든.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，最近會在晚上慢跑",
+        "MessageEN": "I've been jogging in the evening lately."
     },
     {
         "MessageId": 200180300,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "座りっぱなしだと身体に悪いからね",
         "MessageKR": "사무 업무만 하다 보니 몸이 뻐근한 것 같아서.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "一直坐在辦公室，身體好像有點僵硬",
+        "MessageEN": "My body's been stiff from work, so I was exercising."
     },
     {
         "MessageId": 200180310,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "あー、ちょっと分かる",
         "MessageKR": "아\\~ 그거 완전 공감해.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊～我完全可以理解",
+        "MessageEN": "Ahhhhh I get that"
     },
     {
         "MessageId": 200180320,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "ずっと座りっぱだと猫背になるし、肩凝るよね",
         "MessageKR": "하루 종일 앉아서 같은 업무로 키보드를 두들기다 보면 목이랑 어깨가 뻐근해서 눕기도 어려울 때가 많지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "整天坐著敲鍵盤做一樣的工作，脖子和肩膀僵硬到連躺下都不舒服",
+        "MessageEN": "Typing on a keyboard can really get your neck and shoulders. You don't even wanna lay down."
     },
     {
         "MessageId": 200180330,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "正しい姿勢が大事って分かってるんだけどね……",
         "MessageKR": "맞아. 바른 자세를 오래 유지하는 것도 피곤하니까……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "對，長時間保持正確姿勢也很累……",
+        "MessageEN": "Yeah. It's hard to maintain good posture..."
     },
     {
         "MessageId": 200180330,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "よかったらモエも一緒に運動しない？",
         "MessageKR": "모에도 괜찮다면, 같이 저녁 운동하지 않을래?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "萌如果方便的話，要一起運動嗎？",
+        "MessageEN": "Hmm, do you want to join me on my workouts?"
     },
     {
         "MessageId": 200180340,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "先生、私が特殊隊員だってこと忘れてない？",
         "MessageKR": "후후, 날 어떻게 생각하고 있었던 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵，你把我當成什麼了？",
+        "MessageEN": "Heehee, just who do you take me for?"
     },
     {
         "MessageId": 200180341,
@@ -182,9 +182,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "これでもSRTの一員なんだけど。トレーニングは毎日やってるよ？",
-        "MessageKR": "이래 봬도 SRT의 일원으로서 트레이닝은 매일 하고 있거든?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "이래뵈도 SRT의 일원으로서 트레이닝은 매일 하고 있거든?",
+        "MessageTW": "雖然我外表如此也是SRT的一員，每天都有在訓練的哦？",
+        "MessageEN": "I know what I was just saying, but I AM still an SRT member."
     },
     {
         "MessageId": 200180350,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "まあ、サキやミヤコに比べたら全然だけどさ",
         "MessageKR": "물론 사키나 미야코에 비하면 산책 수준이지만.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然和咲希還有都子比起來，或許只是散步的程度",
+        "MessageEN": "I train too! Just not the way Saki and Miyako do..."
     },
     {
         "MessageId": 200180360,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "でも、先生と一緒にジョギング……ちょっと破滅的かも？",
         "MessageKR": "그래도 선생님과 함께하는 조깅은 꽤 파멸적일지도.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但是和老師一起慢跑，可能會相當有毀滅性呢",
+        "MessageEN": "But still, jogging with Sensei sounds quite dangerous."
     },
     {
         "MessageId": 200170367,
