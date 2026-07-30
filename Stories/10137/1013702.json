@@ -3,8 +3,8 @@
         "CharacterId": 10137,
         "MessageJP": "コノカ",
         "MessageKR": "코노카",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "木乃香",
+        "MessageEN": "Konoka"
     },
     {
         "MessageId": 101360200,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、元気してました？",
         "MessageKR": "안녕하십니까, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你好，老師",
+        "MessageEN": "Hello, Sensei."
     },
     {
         "MessageId": 101370210,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今日のラッキー行動は「時間を守ること」だとか",
         "MessageKR": "오늘 운세는, '시간을 잘 지키기'라고 합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天的運勢是「嚴格守時」",
+        "MessageEN": "Today's horoscope said I should \"fulfill my promises in a timely manner.\""
     },
     {
         "MessageId": 101370211,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "まあ、時間を守るなんて当然だと思うんですけどね？",
         "MessageKR": "그건 당연한 거 아닙니까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過守時不是理所當然的嗎？",
+        "MessageEN": "Isn't that a given?"
     },
     {
         "MessageId": 101370220,
@@ -62,9 +62,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "意外と難しいことでもあるけどね",
-        "MessageKR": "당연하지만 꽤 힘든 일이긴 하지!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "당연하지만 꽤 힘든일이긴 하지!",
+        "MessageTW": "雖然是這樣沒錯，實際做起來卻挺難的呢",
+        "MessageEN": "It's easier said than done, okay?!"
     },
     {
         "MessageId": 101370230,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "まあ、占いのラッキー行動って普段から実践したほうがいいことでもあるので",
         "MessageKR": "원래 운세에서 하라는 일은 평소에 해도 좋은 일입니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "會在占卜時獲得的建議，本來就是平時做了也有利無害的事",
+        "MessageEN": "Horoscope advice is generally just good life advice."
     },
     {
         "MessageId": 101370231,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "書いてあったらとりあえず普段以上に意識しようかなってなるんですよね",
         "MessageKR": "안 하면 그날 하루가 특히 더 꼬이긴 하겠지만 말입니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然如果不照做的話，當天可能會特別不順就是了",
+        "MessageEN": "At the same time, I wouldn't test fate by NOT doing it!"
     },
     {
         "MessageId": 101370240,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "今日はこんなラッキー行動でしたって共有でした！",
         "MessageKR": "그냥 재밌어서 공유드리려고 모모톡 보내봤습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為覺得還挺有趣的，所以就想傳個MomoTalk跟你分享一下！",
+        "MessageEN": "Anyway. I thought that was interesting, so I wanted to send it to you."
     },
     {
         "MessageId": 101370241,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "良い一日を！ではでは～",
         "MessageKR": "오늘 하루 잘 보내십시오!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "祝老師今天一切順利！",
+        "MessageEN": "Have a good one, Sensei!"
     },
     {
         "MessageId": 101360257,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "コノカの絆イベントへ",
         "MessageKR": "코노카의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往木乃香的羈絆劇情",
+        "MessageEN": "Go to Konoka's Bond Story"
     },
     {
         "MessageId": 101370250,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "びっくりさせちゃいましたかね",
         "MessageKR": "선생님, 놀라셨습니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，剛才是不是嚇到你了",
+        "MessageEN": "Were you surprised, Sensei?"
     },
     {
         "MessageId": 101370251,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "いや～朝からラッキー行動を実践するのって気持ちがいいですね",
         "MessageKR": "아침부터 운세를 잘 따르니 좋지 말입니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "從早上就好好遵循運勢，真讓人舒服呢",
+        "MessageEN": "It really makes the day feel different when you follow your horoscope!"
     },
     {
         "MessageId": 101370260,
@@ -158,9 +158,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "時間厳守って……昨日のラッキー行動じゃなかった？",
-        "MessageKR": "시간 약속 지키기는…… 어제 운세 아니야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "시간약속 지키기는…… 어제 운세 아니야?",
+        "MessageTW": "嚴格守時……應該是昨天的運勢吧？",
+        "MessageEN": "Wasn't \"keeping timely promises\" from yesterday?"
     },
     {
         "MessageId": 101370270,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "え？",
         "MessageKR": "어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？",
+        "MessageEN": "Huh?"
     },
     {
         "MessageId": 101370271,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "ああ……",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah."
     },
     {
         "MessageId": 101370272,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "えっと、今日は……",
         "MessageKR": "그럼 오늘의 운세는",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天的運勢是……",
+        "MessageEN": "Then today's horoscope is..."
     },
     {
         "MessageId": 101370280,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "「あまり時間にとらわれないこと」",
         "MessageKR": "'너무 시간에 얽매이지 말라'",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "「不要過於被時間束縛」",
+        "MessageEN": "\"Let time follow you, not the other way around.\""
     },
     {
         "MessageId": 101370290,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "……",
         "MessageKR": "……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……",
+        "MessageEN": "..."
     },
     {
         "MessageId": 101370291,
@@ -231,7 +231,7 @@
         "ImagePath": "",
         "MessageJP": "あー……",
         "MessageKR": "아…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊……",
+        "MessageEN": "Ah..."
     }
 ]

@@ -2227,6 +2227,45 @@
             false
         ]
     },
+    "10146": {
+        "kivo_id": 610,
+        "avatar": "https://static.kivo.wiki/images/students/羽沼 真琴/泳装/Student_Portrait_CH0344_Collection.png",
+        "momotalk": "为了梦想中的战舰！",
+        "name_en": "Makoto",
+        "name_jp": "マコト（水着）",
+        "name_zh": "真琴（泳装）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
+    "10147": {
+        "kivo_id": 608,
+        "avatar": "https://static.kivo.wiki/images/students/京极 皋月/泳装/Student_Portrait_CH0345_Collection.png",
+        "momotalk": "正在招募受试者／欢迎通过 Momotalk 联系咨询",
+        "name_en": "Satsuki",
+        "name_jp": "サツキ（水着）",
+        "name_zh": "皋月（泳装）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
+    "10148": {
+        "kivo_id": 612,
+        "avatar": "https://static.kivo.wiki/images/students/枣 伊吕波/泳装/Student_Portrait_CH0346_Collection.png",
+        "momotalk": "",
+        "name_en": "Iroha",
+        "name_jp": "イロハ（水着）",
+        "name_zh": "伊吕波（泳装）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
     "13000": {
         "kivo_id": 24,
         "gamekee_id": 66752,
@@ -3674,6 +3713,19 @@
             false
         ]
     },
+    "20060": {
+        "kivo_id": 609,
+        "avatar": "https://static.kivo.wiki/images/students/丹花 伊吹/泳装/Student_Portrait_CH0347_Collection.png",
+        "momotalk": "",
+        "name_en": "Ibuki",
+        "name_jp": "イブキ（水着）",
+        "name_zh": "伊吹（泳装）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
     "23000": {
         "kivo_id": 10,
         "gamekee_id": 66274,
@@ -4054,6 +4106,19 @@
             "大号杂鱼酱",
             "水一花"
         ],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
+    "26016": {
+        "kivo_id": 611,
+        "avatar": "https://static.kivo.wiki/images/students/元宫 千明/泳装/Student_Portrait_CH0348_Collection.png",
+        "momotalk": "请务必阅读「周刊万魔殿」的夏季特刊！",
+        "name_en": "Chiaki",
+        "name_jp": "チアキ（水着）",
+        "name_zh": "千明（泳装）",
+        "nicknames": [],
         "sticker_download_flag": [
             true,
             false

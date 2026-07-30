@@ -1,0 +1,105 @@
+[
+    {
+        "CharacterId": 20060,
+        "MessageJP": "イブキ（水着）",
+        "MessageKR": "이부키(수영복)",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200590150,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 200600150,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 200600150,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200600160,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生！",
+        "MessageKR": "선생님!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200600160,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200600170,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ビーチに新しいお店がたくさんできてる！",
+        "MessageKR": "해변 쪽에 새로 상점가가 생겨났어!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200600170,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200600180,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "えっ！本当に？",
+        "MessageKR": "응? 정말?!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200600180,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200600181,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "い",
+        "MessageKR": "그러니까 가ㅈ",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200600181,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200600190,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "いっしょに見にいこう！",
+        "MessageKR": "같이 구경 가자!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200600190,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200590197,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "喜んで！",
+        "MessageKR": "이부키의 부름이라면 기꺼이……!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200590197,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "イブキ（水着）の絆イベントへ",
+        "MessageKR": "이부키(수영복)의 인연스토리로",
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
+    }
+]

@@ -3,8 +3,8 @@
         "CharacterId": 10138,
         "MessageJP": "レナ",
         "MessageKR": "레나",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "玲奈",
+        "MessageEN": "Rena"
     },
     {
         "MessageId": 101370010,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、今日学院に来るって言ってたよね？",
         "MessageKR": "선생님. 오늘 우리 학원에 온댔지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，你說過今天會來我們學院吧？",
+        "MessageEN": "Sensei. You're coming to our academy today, right?"
     },
     {
         "MessageId": 101380020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "うん、ちょっとした調査を依頼されてて",
         "MessageKR": "응. 간단한 현장 조사 업무야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，是簡單的現場調查工作",
+        "MessageEN": "Yeah. For some field work. Just an inspection."
     },
     {
         "MessageId": 101380030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ちょうどよかった",
         "MessageKR": "아, 잘 됐다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，太好了",
+        "MessageEN": "Ah, perfect."
     },
     {
         "MessageId": 101380040,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと、アクセサリーの材料買ってきてくれない？",
         "MessageKR": "그럼 나 액세서리 재료 몇 개만 사다 줘.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麻煩你幫我買一些飾品的材料吧",
+        "MessageEN": "Can you bring me some materials then?"
     },
     {
         "MessageId": 101380041,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ちょうどいいやつがこっちの店になくて",
         "MessageKR": "필요한 재료가 학원 상점엔 없어서.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "學院裡的商店沒有賣我需要的東西",
+        "MessageEN": "They don't sell what I need at the academy store."
     },
     {
         "MessageId": 101380050,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "……密輸の依頼？",
         "MessageKR": "이건…… 밀수 부탁?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這是……走私的委託？",
+        "MessageEN": "Is this...a SMUGGLING request?"
     },
     {
         "MessageId": 101380060,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "んなわけないでしょ！",
         "MessageKR": "밀수라니!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "什麼走私！",
+        "MessageEN": "Don't say it like that!"
     },
     {
         "MessageId": 101380061,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "別に規制品じゃないし！",
         "MessageKR": "이상한 재료 아냐!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不是奇怪的材料！",
+        "MessageEN": "They're not contraband!"
     },
     {
         "MessageId": 101380062,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "検問にも引っかからないわよ！",
         "MessageKR": "검문에도 안 걸려!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "檢查的時候也不會被攔住！",
+        "MessageEN": "They won't even get flagged during inspection."
     },
     {
         "MessageId": 101380070,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "リスト送っとくから",
         "MessageKR": "아무튼 목록을 보낼 테니까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總之我會發清單給你",
+        "MessageEN": "I'll send you the list, okay?"
     },
     {
         "MessageId": 101380080,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "こっち来るついでによろしく！",
         "MessageKR": "오는 길에 부탁 좀 할게!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "來的路上拜託了！",
+        "MessageEN": "So just... Please! Do me a favor!"
     },
     {
         "MessageId": 101370097,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "レナの絆イベントへ",
         "MessageKR": "레나의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往玲奈的羈絆劇情",
+        "MessageEN": "Go to Rena's Bond Story"
     },
     {
         "MessageId": 101380090,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "先生、ちゃんと帰れた？",
         "MessageKR": "선생님? 잘 들어갔어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，平安到家了嗎？",
+        "MessageEN": "Sensei? Did you get back okay?"
     },
     {
         "MessageId": 101380100,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "また破けてないわよね？",
         "MessageKR": "또 찢어지진 않았지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒有再破掉吧？",
+        "MessageEN": "They didn't rip again or anything, did they?"
     },
     {
         "MessageId": 101380110,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "大丈夫！問題ないよ！",
         "MessageKR": "응! 아주 튼튼해!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯！很結實！",
+        "MessageEN": "Yeah! Your repairs were very sturdy!"
     },
     {
         "MessageId": 101380120,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "ふふ。これは一つ貸しだからね",
         "MessageKR": "이번에 나한테 빚진 거야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這次你欠我一個人情哦",
+        "MessageEN": "You owe me one for that."
     },
     {
         "MessageId": 101380121,
@@ -217,10 +217,10 @@
         "NextId": 101380130,
         "MessageType": "Text",
         "ImagePath": "",
-        "MessageJP": "今度ちゃんと返してよ？",
+        "MessageJP": "今度ちゃんと返ししてよ？",
         "MessageKR": "다음에 꼭 은혜를 갚으라고!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下次一定要還！",
+        "MessageEN": "You better pay me back later!"
     },
     {
         "MessageId": 101380130,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "見つけてくれたのがレナでよかった！",
         "MessageKR": "거리에서 마주친 게 레나라서 다행이었어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "在路上遇到的是玲奈真是太好了",
+        "MessageEN": "I was so relieved it was you, Rena!"
     },
     {
         "MessageId": 101380140,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "私はよくなかったけどね！？",
         "MessageKR": "난 다행 아니었거든?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我才不覺得好呢！？",
+        "MessageEN": "I wasn't relieved at all, you know?!"
     },
     {
         "MessageId": 101380141,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "まぁいいわ。無事に帰れたならよかった",
         "MessageKR": "아무튼 잘 돌아갔다니 안심이네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總之，你有平安回去我就放心了",
+        "MessageEN": "Whatever. I'm glad that you made it back okay."
     },
     {
         "MessageId": 101380142,
@@ -267,7 +267,7 @@
         "ImagePath": "",
         "MessageJP": "また連絡するわね",
         "MessageKR": "그럼 다음에 또 연락할 테니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下次再聯絡囉",
+        "MessageEN": "Talk to you later."
     }
 ]

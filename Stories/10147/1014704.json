@@ -1,0 +1,141 @@
+[
+    {
+        "CharacterId": 10147,
+        "MessageJP": "サツキ（水着）",
+        "MessageKR": "사츠키(수영복)",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101460460,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 101470460,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 101470460,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101470470,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ねぇ、先生に聞きたいことがあるの",
+        "MessageKR": "선생\\~",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101470470,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101470480,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "いいよ。どうしたの？",
+        "MessageKR": "사츠키\\~",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101470480,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101470490,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "紫外線対策はしてる？",
+        "MessageKR": "자외선 대책은 완료됐어?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101470490,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101470500,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "もちろん！",
+        "MessageKR": "물론이지!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101470500,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101470510,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "クラゲ対策は？",
+        "MessageKR": "해파리 대책은?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101470510,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101470520,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "大丈夫！",
+        "MessageKR": "어떻게든 될 거야!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101470520,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101470521,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ふむ……いいでしょう",
+        "MessageKR": "좋아",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101470521,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101470530,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "じゃあ、出発するわよ！",
+        "MessageKR": "출발하자",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101470530,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101460537,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "どこに？",
+        "MessageKR": "그런데 어디로……?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101460537,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "サツキ（水着）の絆イベントへ",
+        "MessageKR": "사츠키(수영복)의 인연스토리로",
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
+    }
+]

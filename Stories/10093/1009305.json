@@ -63,7 +63,7 @@
         "ImagePath": "",
         "MessageJP": "覚えてたらでいいんだけど",
         "MessageKR": "본 적 있어?",
-        "MessageTW": "有嗎？！",
+        "MessageTW": "有嗎！？",
         "MessageEN": "spiral notebook somewhere?"
     },
     {
@@ -111,7 +111,7 @@
         "ImagePath": "",
         "MessageJP": "また後で！",
         "MessageKR": "미안 쌤! 나중에 다시 연락할게!",
-        "MessageTW": "老師抱歉！ 晚點再聯絡！",
+        "MessageTW": "老師抱歉！晚點再聯絡！",
         "MessageEN": "I had to try! Sorry, Teach! I'll catch ya later!"
     },
     {
@@ -159,7 +159,7 @@
         "ImagePath": "",
         "MessageJP": "ちょっと急用を思い出しちゃって！",
         "MessageKR": "갑자기 뛰쳐나와 버려서!",
-        "MessageTW": "突然跑掉！",
+        "MessageTW": "剛才突然跑掉了！",
         "MessageEN": "running out like that!"
     },
     {
@@ -279,7 +279,7 @@
         "ImagePath": "",
         "MessageJP": "わ……分かりました？",
         "MessageKR": "아…… 알겠습니다?!",
-        "MessageTW": "知…… 知道了？",
+        "MessageTW": "知……知道了？",
         "MessageEN": "I understand?!"
     },
     {

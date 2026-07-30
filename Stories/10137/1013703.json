@@ -3,8 +3,8 @@
         "CharacterId": 10137,
         "MessageJP": "コノカ",
         "MessageKR": "코노카",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "木乃香",
+        "MessageEN": "Konoka"
     },
     {
         "MessageId": 101360300,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "機密情報があるんですけど……",
         "MessageKR": "선생님, 기밀 사항이 있습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，有個機密情報",
+        "MessageEN": "I need to tell you a secret."
     },
     {
         "MessageId": 101370310,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "まあ先生になら教えてもいいかなって",
         "MessageKR": "이제는 선생님께 알려드려도 좋을 것 같습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我覺得差不多可以告訴老師了",
+        "MessageEN": "The time is finally ripe to share this."
     },
     {
         "MessageId": 101370311,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "住所を送るので、そこで落ち合いましょう",
         "MessageKR": "주소 보내드릴 테니, 거기서 뵙겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我會把地址發過去，就在那裡見吧",
+        "MessageEN": "Meet me at this address."
     },
     {
         "MessageId": 101360317,
@@ -63,7 +63,7 @@
         "ImagePath": "",
         "MessageJP": "コノカの絆イベントへ",
         "MessageKR": "코노카의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往木乃香的羈絆劇情",
+        "MessageEN": "Go to Konoka's Bond Story"
     }
 ]

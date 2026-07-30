@@ -3,8 +3,8 @@
         "CharacterId": 10137,
         "MessageJP": "コノカ",
         "MessageKR": "코노카",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "木乃香",
+        "MessageEN": "Konoka"
     },
     {
         "MessageId": 101360350,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "あー",
         "MessageKR": "야",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "喂",
+        "MessageEN": "Hey."
     },
     {
         "MessageId": 101370360,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今日あたし病欠するから",
         "MessageKR": "오늘 이 언니가 아파 죽겠어서 못 나간다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "姐姐我今天病得不輕沒辦法出門",
+        "MessageEN": "Your big sis here is too sick to clock in today."
     },
     {
         "MessageId": 101370370,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "日直、適当にやっといて",
         "MessageKR": "주말 당직자들 나 없다고 일만 시키지 말고, 놀면서 하라고 해.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "叫那些值班的傢伙別因為我不在就埋頭工作，邊玩邊做就好",
+        "MessageEN": "Tell the weekend staff to go take it easy, treat themselves to something fun."
     },
     {
         "MessageId": 101370371,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "あとは任せたよ～",
         "MessageKR": "그럼 다시 잔다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那我繼續睡啦",
+        "MessageEN": "Okay. Night."
     },
     {
         "MessageId": 101370380,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "？？",
         "MessageKR": "??",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "？？",
+        "MessageEN": "???"
     },
     {
         "MessageId": 101370390,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "上司に向かってなんだその反応？はぁ……",
         "MessageKR": "부국장한테 ?? 이러네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "居然敢用？？回覆副局長啊",
+        "MessageEN": "Don't you ??? to the Deputy Director."
     },
     {
         "MessageId": 101370391,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "この間の捜査で風邪引いちゃったの",
         "MessageKR": "비 쫄딱 맞아서 감기 걸린 거야 임마",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "之前出任務淋到雨感冒了啦",
+        "MessageEN": "I just got drenched in rain and caught a cold."
     },
     {
         "MessageId": 101370400,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "んじゃ、よろしくね",
         "MessageKR": "그럼 나중에 보자 ㅋㅋ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那就改天見啦，哈哈",
+        "MessageEN": "I'll see ya later then lol"
     },
     {
         "MessageId": 101360417,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "コノカの絆イベントへ",
         "MessageKR": "코노카의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往木乃香的羈絆劇情",
+        "MessageEN": "Go to Konoka's Bond Story"
     },
     {
         "MessageId": 101370410,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "完全！回復！",
         "MessageKR": "완전 회복!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "完全恢復！",
+        "MessageEN": "Complete recovery!"
     },
     {
         "MessageId": 101370420,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "先生、先日はありがとうございました",
         "MessageKR": "선생님, 잘 들어가셨습니까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，平安到家了嗎？",
+        "MessageEN": "Sensei, did you make it back safely?"
     },
     {
         "MessageId": 101370421,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "風邪、移ったりしてないですよね？",
         "MessageKR": "감기, 옮으신 거 아니십니까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒被我傳染感冒吧？",
+        "MessageEN": "Did you catch my cold?"
     },
     {
         "MessageId": 101370430,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "大丈夫だよ！",
         "MessageKR": "멀쩡해!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我沒事！",
+        "MessageEN": "I'm fine!"
     },
     {
         "MessageId": 101370440,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと熱が高くて、喉と身体が痛いだけだよ！",
         "MessageKR": "그냥 열나고 목 아프고 피곤하기만 해!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只是發燒喉嚨痛加上有點累而已！",
+        "MessageEN": "I just have a fever, sore throat, and fatigue!"
     },
     {
         "MessageId": 101370450,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "それ絶対風邪じゃないですか",
         "MessageKR": "그게 감기 걸린 건데 뭐가 멀쩡합니까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那分明是感冒了，怎麼會沒事",
+        "MessageEN": "That's the definition of a cold. What do you mean \"fine\"?"
     },
     {
         "MessageId": 101370451,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "それじゃあ……",
         "MessageKR": "ㅋㅋㅋ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哈哈哈",
+        "MessageEN": "lol"
     },
     {
         "MessageId": 101370460,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "お返しに、お見舞いに行きますね",
         "MessageKR": "이번에는 제가 문병하러 가겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這次就換我去探病吧",
+        "MessageEN": "I'll visit you this time."
     },
     {
         "MessageId": 101370461,
@@ -231,7 +231,7 @@
         "ImagePath": "",
         "MessageJP": "豚骨ラーメン奢ってあげますから！",
         "MessageKR": "돈코츠 라멘 포장해 가겠습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我會帶豚骨拉麵過去的！",
+        "MessageEN": "I'll pick up some tonkotsu ramen on the way!"
     }
 ]

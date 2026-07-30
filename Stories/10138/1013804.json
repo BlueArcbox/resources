@@ -3,8 +3,8 @@
         "CharacterId": 10138,
         "MessageJP": "レナ",
         "MessageKR": "레나",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "玲奈",
+        "MessageEN": "Rena"
     },
     {
         "MessageId": 101370510,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、今日ワイルドハントに来るんだよね？",
         "MessageKR": "선생님. 오늘 우리 학원 오지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，今天會來我們學院吧？",
+        "MessageEN": "Sensei. Are you coming to Wildhunt today?"
     },
     {
         "MessageId": 101380520,
@@ -38,9 +38,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "そうだよ。チョコバナナクレープでも買ってく？",
-        "MessageKR": "응. 초코 바나나 크레이프라도 사 갈까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "응. 초코 바나나 크레이프라도 사갈까?",
+        "MessageTW": "嗯，需要幫你帶巧克力香蕉可麗餅嗎？",
+        "MessageEN": "Yeah. Do you want a chocolate-banana crepe or something?"
     },
     {
         "MessageId": 101380530,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "別にいらないわよ！",
         "MessageKR": "돼, 됐어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不，不用了！",
+        "MessageEN": "I-I'm fine!"
     },
     {
         "MessageId": 101380540,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "というか、お願いがあって",
         "MessageKR": "그거 말고 다른 부탁을 하고 싶거든.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我有別的事想拜託你",
+        "MessageEN": "I actually need something else."
     },
     {
         "MessageId": 101380541,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "アクセサリーの材料を買ってきてほしいの",
         "MessageKR": "또 액세서리 재료가 떨어졌어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "飾品材料又用完了",
+        "MessageEN": "I ran out of accessory materials again."
     },
     {
         "MessageId": 101380550,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "お店がテロにあっちゃってさ",
         "MessageKR": "이번엔 누가 상점을 테러하는 바람에…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這次是有人恐攻商店……",
+        "MessageEN": "Because there was a terrorist attack at the shop..."
     },
     {
         "MessageId": 101380560,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "テロ！？",
         "MessageKR": "테러? 무슨 테러?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "恐攻？什麼恐攻？",
+        "MessageEN": "A WHAT? What kind?"
     },
     {
         "MessageId": 101380570,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "誰かが店の壁に",
         "MessageKR": "누가 상점 벽 전체에",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有人在店家的牆上",
+        "MessageEN": "Someone drew a bunch of weird drawings"
     },
     {
         "MessageId": 101380571,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "変な絵を描いちゃって……",
         "MessageKR": "이상한 그림을 잔뜩 그려놨거든.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "畫了一堆奇怪的圖",
+        "MessageEN": "all over the store wall."
     },
     {
         "MessageId": 101380580,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "それを全部落とすまで休業だって",
         "MessageKR": "그거 정리될 때까지 당분간 문 닫는대.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以在清理完之前得暫時關門",
+        "MessageEN": "So it's closed until that's sorted out."
     },
     {
         "MessageId": 101380581,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "はぁ……",
         "MessageKR": "에휴…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唉……",
+        "MessageEN": "sighhh"
     },
     {
         "MessageId": 101380590,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "そんなわけだから、頼んだわよ",
         "MessageKR": "아무튼 그러니까 부탁 좀 할게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總之拜託你了",
+        "MessageEN": "So, please do me this favor."
     },
     {
         "MessageId": 101380600,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "チョコバナナクレープも買っていくね！",
         "MessageKR": "초코 바나나 크레이프도 사 갈게!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "巧克力香蕉可麗餅我也會帶去的！",
+        "MessageEN": "I'll pick up a crepe too!"
     },
     {
         "MessageId": 101380610,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "好きにすれば！？",
         "MessageKR": "마, 마음대로 해!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "隨，隨便你！",
+        "MessageEN": "...Do whatever you want!"
     },
     {
         "MessageId": 101370617,
@@ -195,7 +195,7 @@
         "ImagePath": "",
         "MessageJP": "レナの絆イベントへ",
         "MessageKR": "레나의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往玲奈的羈絆劇情",
+        "MessageEN": "Go to Rena's Bond Story"
     }
 ]

@@ -3,8 +3,8 @@
         "CharacterId": 10137,
         "MessageJP": "コノカ",
         "MessageKR": "코노카",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "木乃香",
+        "MessageEN": "Konoka"
     },
     {
         "MessageId": 101360010,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "ご無沙汰してます、先生",
         "MessageKR": "선생님, 안녕하십니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，您好",
+        "MessageEN": "Hello, Sensei."
     },
     {
         "MessageId": 101370020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "志真コノカです",
         "MessageKR": "시마 코노카입니다. ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我是志真木乃香",
+        "MessageEN": "This is Shima Konoka. "
     },
     {
         "MessageId": 101370030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "コノカ！？",
         "MessageKR": "코노카?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "木乃香！？",
+        "MessageEN": "Konoka?!"
     },
     {
         "MessageId": 101370040,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "普段より丁寧だ……",
         "MessageKR": "평소하고 말투가 다르지 않아……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "說話方式好像跟平常不太一樣……？",
+        "MessageEN": "Why're you being so formal?"
     },
     {
         "MessageId": 101370050,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "何言ってるんですか？",
         "MessageKR": "네?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？",
+        "MessageEN": "Huh?"
     },
     {
         "MessageId": 101370060,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "いつもこの口調だと思いますけど",
         "MessageKR": "평소에도 이 말투였지 않습니까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我平常不也是這樣說話的嗎？",
+        "MessageEN": "Aren't I always like this?"
     },
     {
         "MessageId": 101370061,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ああそうだ、今日のラッキー行動に「自己紹介をちゃんとする」と書いてあったので",
         "MessageKR": "아무튼, 오늘의 운세는 '자기소개를 잘할 것'이라서요,",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總之，今天的運勢是「好好自我介紹」",
+        "MessageEN": "Anyways, today's horoscope said I should \"make good first impressions.\""
     },
     {
         "MessageId": 101370070,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "名乗ってみました",
         "MessageKR": "그래서 자기소개 해봤습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以就試著自我介紹了",
+        "MessageEN": "So I'm trying it out."
     },
     {
         "MessageId": 101370080,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "そうなんすね！全然知らなかったっす！",
         "MessageKR": "안 했으면 몰라볼 뻔했슴다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒介紹的話，差點認不出來的說！",
+        "MessageEN": "I woulda nevah recognized ya!"
     },
     {
         "MessageId": 101370090,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "先生……どうしたんですか？",
         "MessageKR": "에이, 섭섭합니다. 그보다 무슨 말투십니까, 그게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哎唷，這樣我會很傷心耶。\n而且那個口氣是怎麼回事……",
+        "MessageEN": "That hurt... I don't talk like that, ya know!"
     },
     {
         "MessageId": 101370100,
@@ -146,9 +146,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "まあいいや。後でお手隙の時にヴァルキューレに来てください",
-        "MessageKR": "나중에, 발키리에 한번 와주시면 감사하겠습니다. 행정 관련해서 상의할 게 있습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "나중에, 발키리에 한 번 와주시면 감사하겠습니다. 행정 관련해서 상의할게 있습니다.",
+        "MessageTW": "算了，如果稍後有空請來一趟女武神，我有行政相關的事務想跟老師商量",
+        "MessageEN": "Anyways, I have some administrative work I need to go over with you. Can you swing by Valkyrie sometime?"
     },
     {
         "MessageId": 101370101,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "行政手続きのことでご相談があるので",
         "MessageKR": "언제건 와주시면 감사하겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "隨時過來都沒問題，非常感謝",
+        "MessageEN": "I'd reaaally appreciate it!"
     },
     {
         "MessageId": 101360117,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "コノカの絆イベントへ",
         "MessageKR": "코노카의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往木乃香的羈絆劇情",
+        "MessageEN": "Go to Konoka's Bond Story"
     },
     {
         "MessageId": 101370110,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "けっこーつらいです、これ",
         "MessageKR": "와, 엄청 맵습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哇，這個超辣的",
+        "MessageEN": "Wow, that was so spicy."
     },
     {
         "MessageId": 101370120,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "大丈夫？",
         "MessageKR": "지금은 좀 괜찮아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還好嗎？",
+        "MessageEN": "Are you feeling better now?"
     },
     {
         "MessageId": 101370130,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "あー、まぁ、このくらいなら全然",
         "MessageKR": "괜찮습니다. 뭐 이런 거 가지고.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒事沒事，這不算什麼",
+        "MessageEN": "I'm fine. It wasn't a big deal."
     },
     {
         "MessageId": 101370131,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "冷蔵庫に牛乳があって助かりました",
         "MessageKR": "냉장고에 우유가 있어서 다행이었습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "冰箱裡有牛奶真是太好了",
+        "MessageEN": "I'm glad there was milk in the fridge."
     },
     {
         "MessageId": 101370140,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "今日の子……懲戒処分になったりするの？",
         "MessageKR": "그 아이…… 혹시 혼냈니?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那孩子……不會受到懲處吧？",
+        "MessageEN": "About that kid... Did you scold her?"
     },
     {
         "MessageId": 101370150,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "そんなまさか",
         "MessageKR": "에이, 왜 혼냅니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼可能",
+        "MessageEN": "Eh, why would I do that?"
     },
     {
         "MessageId": 101370151,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "あのくらい人を疑える方がヴァルキューレには向いてるんですよ",
         "MessageKR": "저도 신참이었을 때 비슷했을 겁니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我當新人的時候也差不多是那樣",
+        "MessageEN": "I was probably the same way when I was new."
     },
     {
         "MessageId": 101370160,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "あたしも新人だったら同じことしたでしょうし？",
         "MessageKR": "그런 의욕 있는 친구들이 있어야 조직이 굴러가지 않습니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就是要有那種充滿幹勁的人，組織才能運作不是嗎？",
+        "MessageEN": "You need enthusiastic people like her to keep the organization rolling."
     },
     {
         "MessageId": 101370170,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "かっこいいね！さすがは副局長！",
         "MessageKR": "부국장답게 멋진걸!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真不愧是副局長！",
+        "MessageEN": "How cool! You really are Deputy Director!"
     },
     {
         "MessageId": 101370180,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "まぁ、それに今回はあたしも悪いです……",
         "MessageKR": "그리고 제 잘못도 있습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "而且我也有錯",
+        "MessageEN": "And it was partially my fault too."
     },
     {
         "MessageId": 101370181,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "占いでも言われてたのに、自己紹介を丁寧にしなかったわけですし……",
         "MessageKR": "오늘 운세대로, 자기소개를 안 하지 않았습니까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "按照占卜，我應該要好好自我介紹的",
+        "MessageEN": "I didn't make a good first impression, like what the horoscope said, remember?"
     },
     {
         "MessageId": 101370190,
@@ -315,7 +315,7 @@
         "ImagePath": "",
         "MessageJP": "身から出た錆ってことで",
         "MessageKR": "어쩔 수 없습니다. ㅋㅋ.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "也只能這樣了，哈哈",
+        "MessageEN": "Can't be helped. lol"
     }
 ]

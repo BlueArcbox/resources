@@ -1,0 +1,153 @@
+[
+    {
+        "CharacterId": 10146,
+        "MessageJP": "マコト（水着）",
+        "MessageKR": "마코토(수영복)",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101450010,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 101460010,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 101460010,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101460020,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生に朗報だ",
+        "MessageKR": "선생이여.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101460020,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101460030,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "マコト様が特別な映像を用意した",
+        "MessageKR": "이 마코토 님께서 특별히 영상을 준비했다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101460030,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101460031,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "どんな内容だと思う？",
+        "MessageKR": "그게 무엇인지…….",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101460031,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101460040,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "気になって、居ても立っても居られないだろう！？",
+        "MessageKR": "아마 궁금해서 팔짝 뛸 지경이겠지?!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101460040,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101460050,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "えっと……何の話？",
+        "MessageKR": "갑자기 또 무슨 소리를……?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101460040,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101460050,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "気になる！！！",
+        "MessageKR": "궁금하다!!!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101460050,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101460060,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "キシシッ",
+        "MessageKR": "키시싯.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101460060,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101460070,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "万魔殿で待っているぞ",
+        "MessageKR": "만마전 부실에서 기다리고 있으마.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101460070,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101460071,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "喜ぶがいい",
+        "MessageKR": "각오하는 것이 좋아.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101460071,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101450077,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "マコト様の偉大なる第一歩を、その目に焼き付ける栄誉を得られることに！",
+        "MessageKR": "아주 특별한 것을 보게 될 테니까 말이다!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101450077,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "マコト（水着）の絆イベントへ",
+        "MessageKR": "마코토(수영복)의 인연스토리로",
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
+    }
+]

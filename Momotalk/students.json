@@ -10840,13 +10840,17 @@
             "/api/Avatars/Fandom/Konoka Icon.png"
         ],
         "Name": {
+            "en": "Konoka",
             "jp": "コノカ",
             "kr": "코노카",
+            "tw": "木乃香",
             "zh": "心华"
         },
         "Bio": {
+            "en": "New phone, who this?",
             "jp": "機種変したんで、連絡先飛んでまーす",
             "kr": "폰 바꿔서 연락처 날아갔습니다.",
+            "tw": "換了手機之後，聯絡人都沒了",
             "zh": "换了手机，联络方式都逃走啦。"
         },
         "Nickname": [
@@ -10869,13 +10873,17 @@
             "/api/Avatars/Fandom/Rena Icon.png"
         ],
         "Name": {
+            "en": "Rena",
             "jp": "レナ",
             "kr": "레나",
+            "tw": "玲奈",
             "zh": "莱娜"
         },
         "Bio": {
+            "en": "I don't believe in superstitions!",
             "jp": "オカルトなんて絶対信じないんだから！",
             "kr": "미신 따위 안 믿어!",
+            "tw": "我才不相信那些迷信！",
             "zh": "神秘学什么的我绝对不信！"
         },
         "Nickname": [
@@ -11208,6 +11216,151 @@
         "Released": true,
         "Related": {
             "ItemId": 20039,
+            "ItemType": "水着"
+        }
+    },
+    {
+        "Id": 10146,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10146.webp"
+        ],
+        "Name": {
+            "jp": "マコト（水着）",
+            "kr": "마코토(수영복)",
+            "zh": "真琴（泳装）"
+        },
+        "Bio": {
+            "jp": "夢の戦艦のために！",
+            "kr": "꿈의 전함을 위하여!",
+            "zh": "为了梦想中的战舰！"
+        },
+        "Nickname": [
+            "Makoto"
+        ],
+        "Birthday": "3/19",
+        "Age": "18歳",
+        "School": "Gehenna",
+        "Club": "PandemoniumSociety",
+        "Star": 3,
+        "Released": true,
+        "Related": {
+            "ItemId": 20033,
+            "ItemType": "水着"
+        }
+    },
+    {
+        "Id": 10147,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10147.webp"
+        ],
+        "Name": {
+            "jp": "サツキ（水着）",
+            "kr": "사츠키(수영복)",
+            "zh": "皋月（泳装）"
+        },
+        "Bio": {
+            "jp": "被験者募集中よ／お問い合わせはモモトークまで",
+            "kr": "실험체 상시 모집/문의는 모모톡으로",
+            "zh": "正在招募受试者／欢迎通过 Momotalk 联系咨询"
+        },
+        "Nickname": [
+            "Satsuki"
+        ],
+        "Birthday": "4/10",
+        "Age": "17歳",
+        "School": "Gehenna",
+        "Club": "PandemoniumSociety",
+        "Star": 3,
+        "Released": true,
+        "Related": {
+            "ItemId": 20040,
+            "ItemType": "水着"
+        }
+    },
+    {
+        "Id": 26016,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/26016.webp"
+        ],
+        "Name": {
+            "jp": "チアキ（水着）",
+            "kr": "치아키(수영복)",
+            "zh": "千明（泳装）"
+        },
+        "Bio": {
+            "jp": "「週刊万魔殿」夏の特集号、ぜひご覧ください！",
+            "kr": "여름 특집 주간만마전, 지금 구독하세요!",
+            "zh": "请务必阅读「周刊万魔殿」的夏季特刊！"
+        },
+        "Nickname": [
+            "Chiaki"
+        ],
+        "Birthday": "9/22",
+        "Age": "16歳",
+        "School": "Gehenna",
+        "Club": "PandemoniumSociety",
+        "Star": 1,
+        "Released": true,
+        "Related": {
+            "ItemId": 10107,
+            "ItemType": "水着"
+        }
+    },
+    {
+        "Id": 10148,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10148.webp"
+        ],
+        "Name": {
+            "jp": "イロハ（水着）",
+            "kr": "이로하(수영복)",
+            "zh": "伊吕波（泳装）"
+        },
+        "Bio": {
+            "jp": "休暇中につき、急用以外は連絡しないでください",
+            "kr": "휴가 중입니다. 찾지 말아 주세요.",
+            "zh": ""
+        },
+        "Nickname": [
+            "Iroha"
+        ],
+        "Birthday": "11/16",
+        "Age": "16歳",
+        "School": "Gehenna",
+        "Club": "PandemoniumSociety",
+        "Star": 3,
+        "Released": true,
+        "Related": {
+            "ItemId": 20016,
+            "ItemType": "水着"
+        }
+    },
+    {
+        "Id": 20060,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/20060.webp"
+        ],
+        "Name": {
+            "jp": "イブキ（水着）",
+            "kr": "이부키(수영복)",
+            "zh": "伊吹（泳装）"
+        },
+        "Bio": {
+            "jp": "ゲヘナ学園のイブキ、だよ！",
+            "kr": "게헨나 학원의 이부키입니다!",
+            "zh": ""
+        },
+        "Nickname": [
+            "Ibuki"
+        ],
+        "Birthday": "4/14",
+        "Age": "11歳",
+        "School": "Gehenna",
+        "Club": "PandemoniumSociety",
+        "Star": 3,
+        "Released": true,
+        "Related": {
+            "ItemId": 16014,
             "ItemType": "水着"
         }
     }

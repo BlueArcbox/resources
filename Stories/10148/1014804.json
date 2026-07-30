@@ -1,0 +1,105 @@
+[
+    {
+        "CharacterId": 10148,
+        "MessageJP": "イロハ（水着）",
+        "MessageKR": "이로하(수영복)",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101470320,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 101480320,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 101480320,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101480330,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "あ～",
+        "MessageKR": "아…….",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101480330,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101480340,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "あぁ～……",
+        "MessageKR": "에휴…….",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101480340,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101480350,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "頑張ろう……！",
+        "MessageKR": "힘내자……!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101480350,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101480351,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "あぁ",
+        "MessageKR": "아",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101480351,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101480360,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "まぁ",
+        "MessageKR": "뭐",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101480360,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101470367,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "はぁ",
+        "MessageKR": "네.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101470367,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "イロハ（水着）の絆イベントへ",
+        "MessageKR": "이로하(수영복)의 인연스토리로",
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
+    }
+]

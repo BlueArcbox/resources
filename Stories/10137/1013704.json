@@ -3,8 +3,8 @@
         "CharacterId": 10137,
         "MessageJP": "コノカ",
         "MessageKR": "코노카",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "木乃香",
+        "MessageEN": "Konoka"
     },
     {
         "MessageId": 101360320,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "ちわーっす、先生",
         "MessageKR": "안녕하십니까? 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，哈囉～",
+        "MessageEN": "Hello, Sensei."
     },
     {
         "MessageId": 101370330,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今日のラッキー行動は、「バディと一緒に行動する」だそうです！",
         "MessageKR": "오늘의 운세는 '버디가 있어야 한다', 랍니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天的運勢是「和夥伴一起行動」",
+        "MessageEN": "Today's horoscope tells me I need a buddy."
     },
     {
         "MessageId": 101370340,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "てなわけで、今日一日あたしのバディになってくれませんか？",
         "MessageKR": "그래서 말인데, 오늘 하루 버디가 되어주시는 건 어떻겠습니까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以說，今天一整天當我的夥伴如何？",
+        "MessageEN": "So, I have a question for you. Would you be my buddy for today?"
     },
     {
         "MessageId": 101370341,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "よろしくお願いします！",
         "MessageKR": "기대하겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那就拜託囉！",
+        "MessageEN": "Let's do it!!"
     },
     {
         "MessageId": 101360347,
@@ -75,7 +75,7 @@
         "ImagePath": "",
         "MessageJP": "コノカの絆イベントへ",
         "MessageKR": "코노카의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往木乃香的羈絆劇情",
+        "MessageEN": "Go to Konoka's Bond Story"
     }
 ]
