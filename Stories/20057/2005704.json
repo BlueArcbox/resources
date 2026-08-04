@@ -3,8 +3,8 @@
         "CharacterId": 20057,
         "MessageJP": "アカネ（制服）",
         "MessageKR": "아카네(교복)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "朱音（制服）",
+        "MessageEN": "Akane (School)"
     },
     {
         "MessageId": 200560280,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "最近思ったのですが",
         "MessageKR": "요즘 드는 생각인데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "最近在思考",
+        "MessageEN": "This has been on my mind..."
     },
     {
         "MessageId": 200570290,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "お掃除をする時のパターンが",
         "MessageKR": "청소를 할 때",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "打掃的時候",
+        "MessageEN": "But, when I'm cleaning,"
     },
     {
         "MessageId": 200570291,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "単調になってしまっているのではないかと",
         "MessageKR": "너무 모든 걸 한 가지 방법으로만 처리하는 것은 아닌가",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是不是都用同一種方法處理",
+        "MessageEN": "perhaps I've grown too accustomed to my usual methods."
     },
     {
         "MessageId": 200570292,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "工夫を凝らした方が良いのでしょうか？",
         "MessageKR": "그런 고민이 조금 들어요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "會比較好呢？",
+        "MessageEN": "That has been my concern lately."
     },
     {
         "MessageId": 200570300,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "掃除の仕方ってそんなにないと思うけど……",
         "MessageKR": "원래 청소는 한 가지 방식으로 하는 거 아니야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "打掃原本不就只有一種方法嗎？",
+        "MessageEN": "There aren't all that many different ways to clean, right?"
     },
     {
         "MessageId": 200570310,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ああ、ええと……",
         "MessageKR": "아뇨. 음. 그러니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不，我指的……",
+        "MessageEN": "No. Um, so..."
     },
     {
         "MessageId": 200570311,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "そちらのお掃除ではなく",
         "MessageKR": "그쪽 청소가 아닌",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不是那種打掃",
+        "MessageEN": "I'm talking about the other \"cleaning\""
     },
     {
         "MessageId": 200570312,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "もう一つの「お掃除」の話でして……",
         "MessageKR": "다른 쪽 청소를 말씀드리는 거예요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是另一種打掃",
+        "MessageEN": "not the \"cleaning a room\" type..."
     },
     {
         "MessageId": 200570320,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "もしかして……",
         "MessageKR": "어, 그러니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？難道是……",
+        "MessageEN": "Oh, so..."
     },
     {
         "MessageId": 200570330,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "……爆弾のこと？",
         "MessageKR": "……폭탄?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……炸彈？",
+        "MessageEN": "...Bombs?"
     },
     {
         "MessageId": 200570340,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "ええ",
         "MessageKR": "네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是的",
+        "MessageEN": "Yes."
     },
     {
         "MessageId": 200570341,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "とても悩ましい問題で……",
         "MessageKR": "정말, 고민이네요…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "實在很令人煩惱……",
+        "MessageEN": "It's truly a problem..."
     },
     {
         "MessageId": 200560357,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "アカネ（制服）の絆イベントへ",
         "MessageKR": "아카네(교복)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往朱音（制服）的羈絆劇情",
+        "MessageEN": "Go to Akane (School)'s Bond Story"
     },
     {
         "MessageId": 200570350,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "遅い時間まで、本当にお疲れさまでした……",
         "MessageKR": "늦은 시간까지 너무 고생 많으셨어요……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "拖到這麼晚，真是辛苦您了……",
+        "MessageEN": "Thank you so much for working so late..."
     },
     {
         "MessageId": 200570360,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "アカネは大丈夫？",
         "MessageKR": "아카네는 괜찮아……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "朱音還好嗎……？",
+        "MessageEN": "Are you doing okay, Akane...?"
     },
     {
         "MessageId": 200570370,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "ええ\u200b",
         "MessageKR": "네.\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是的\u200b",
+        "MessageEN": "Yes.\u200b"
     },
     {
         "MessageId": 200570371,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "予習復習も終わりましたし",
         "MessageKR": "늦었지만 숙제도 다 했고.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然時間有點晚，不過作業也都做完了",
+        "MessageEN": "Though it was a bit late, I finished my homework."
     },
     {
         "MessageId": 200570372,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "明日の準備も完璧です",
         "MessageKR": "등교 준비도 완벽하답니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還有明天的準備也是",
+        "MessageEN": "And I'm ready for class tomorrow."
     },
     {
         "MessageId": 200570380,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "全て、先生の指導の賜物です",
         "MessageKR": "모두, 지도해 주신 덕분이에요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這都多虧了老師的指導",
+        "MessageEN": "It's all thanks to your guidance."
     },
     {
         "MessageId": 200570390,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "あはは…自分の教育方針を見つめ直したくなってきたよ",
         "MessageKR": "이럴 때마다 내 교육 방침을 되돌아보게 된단다……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "每次遇到這種情況，我都會反省自己的教育方針……",
+        "MessageEN": "These moments make me reflect on my educational policies..."
     },
     {
         "MessageId": 200570400,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "ふふ",
         "MessageKR": "후후.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵",
+        "MessageEN": "Fufu."
     },
     {
         "MessageId": 200570401,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "自らを見つめ直している方のお言葉ほど",
         "MessageKR": "스스로를 되돌아볼 수 있는 분의 말씀만큼",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "懂得自我反省的人說出來的話",
+        "MessageEN": "I believe there may be nothing more reliable"
     },
     {
         "MessageId": 200570402,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "心強いものはありません",
         "MessageKR": "든든한 것도 없을 거예요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是最可靠的",
+        "MessageEN": "than the words of someone capable of self-reflection."
     },
     {
         "MessageId": 200570410,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "これからも、どうぞよろしくお願いしますね",
         "MessageKR": "앞으로도 잘 부탁드리겠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今後也請您多多關照",
+        "MessageEN": "I'll continue to be in your care,"
     },
     {
         "MessageId": 200570411,
@@ -315,7 +315,7 @@
         "ImagePath": "",
         "MessageJP": "……ご主人様",
         "MessageKR": "주인님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "主人",
+        "MessageEN": "Master."
     }
 ]

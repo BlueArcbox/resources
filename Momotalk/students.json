@@ -10904,13 +10904,17 @@
             "/api/Avatars/Fandom/Akane Schoolgirl Icon.png"
         ],
         "Name": {
+            "en": "Akane (School)",
             "jp": "アカネ（制服）",
             "kr": "아카네(교복)",
+            "tw": "朱音（制服）",
             "zh": "茜（制服）"
         },
         "Bio": {
+            "en": "Make to-do list. Do homework.",
             "jp": "ToDoリストを書く。宿題も忘れずに。",
             "kr": "할 일 적어 두기. 숙제 잊지 말 것.",
+            "tw": "記下要做的事，不要忘記作業",
             "zh": "写To Do（待做）清单。作业也别忘了。"
         },
         "Nickname": [

@@ -3,8 +3,8 @@
         "CharacterId": 20057,
         "MessageJP": "アカネ（制服）",
         "MessageKR": "아카네(교복)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "朱音（制服）",
+        "MessageEN": "Akane (School)"
     },
     {
         "MessageId": 200560010,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "ミレニアムはいかがですか？ご主人様",
         "MessageKR": "밀레니엄은 어떠신가요, 주인님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "主人，千年感覺如何呢？",
+        "MessageEN": "What do you think of Millennium, Master?"
     },
     {
         "MessageId": 200570020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "何度も足を運ばれているので、慣れ親しんだ場かもしれませんが……",
         "MessageKR": "사실 이젠 익숙해지셨을지도 모르지만요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然您說不定已經習慣了",
+        "MessageEN": "Although, this question may be coming a little late."
     },
     {
         "MessageId": 200570030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "たしかに、慣れつつはあるけど……",
         "MessageKR": "익숙하다면 익숙한데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "習慣是習慣了",
+        "MessageEN": "I don't think I'll ever FULLY get Millennium."
     },
     {
         "MessageId": 200570030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "足を運ぶたびに新鮮な気持ちになるよ",
         "MessageKR": "왜 밀레니엄은 나날이 새로울까……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過千年每天都有新鮮事呢……",
+        "MessageEN": "I've been here a while, but every day feels new in Millennium."
     },
     {
         "MessageId": 200570040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "おや、そうなのですね",
         "MessageKR": "어머나.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哎呀？",
+        "MessageEN": "Oh, my."
     },
     {
         "MessageId": 200570041,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ミレニアムは技術の学園。たしかに日進月歩移り変わる場所です",
         "MessageKR": "그건 조금 죄송한 부분일지도 모르겠네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "千年確實是個每天都日新月異的地方",
+        "MessageEN": "I'm sorry you see it that way."
     },
     {
         "MessageId": 200570050,
@@ -98,9 +98,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "そうですね……たまには業務以外で",
-        "MessageKR": "하지만, 이 기회에",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "하지만, 이 기회에 ",
+        "MessageTW": "我想想……要不要偶爾在工作時間以外",
+        "MessageEN": "In that case, "
     },
     {
         "MessageId": 200570051,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "私たちの日常をご覧になってみては？",
         "MessageKR": "저희 일상을 참관하시는 것도 좋지 않을까요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "來參觀我們的日常呢？",
+        "MessageEN": "wouldn't you like to see what our everyday lives are like?"
     },
     {
         "MessageId": 200560067,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "アカネ（制服）の絆イベントへ",
         "MessageKR": "아카네(교복)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往朱音（制服）的羈絆劇情",
+        "MessageEN": "Go to Akane (School)'s Bond Story"
     },
     {
         "MessageId": 200570060,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 200570070,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "私、一歩踏み出してみたいです",
         "MessageKR": "말씀 주신 대로, 저는 준비되었습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如您所說的，我準備好了",
+        "MessageEN": "Okay. I'm ready."
     },
     {
         "MessageId": 200570080,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "よし、頑張ろうか",
         "MessageKR": "좋아. 해 보자.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好，來試試吧",
+        "MessageEN": "Perfect. Let's do this."
     },
     {
         "MessageId": 200570090,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "よろしくお願いします",
         "MessageKR": "네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是的",
+        "MessageEN": "Yes."
     },
     {
         "MessageId": 200570100,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "今から徹夜で……！",
         "MessageKR": "이제부터 밤을 거의 새서라도 좋으니……!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "從現在開始，即便必須熬夜……！",
+        "MessageEN": "We can even stay up all night to write it!"
     },
     {
         "MessageId": 200570100,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "「親しくなろう」作戦の台本作り、始めようか！",
         "MessageKR": "'친해지길 바래' 대본 작성 작전, 시작이다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "「友好相處吧」劇本撰寫作戰，開始！",
+        "MessageEN": "Commence the \"Become Friendlier\" script-writing operation!"
     },
     {
         "MessageId": 200570110,
@@ -207,7 +207,7 @@
         "ImagePath": "",
         "MessageJP": "はい、先生。",
         "MessageKR": "네. 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好的，老師",
+        "MessageEN": "Yes, Sensei."
     }
 ]

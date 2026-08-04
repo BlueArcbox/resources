@@ -3,8 +3,8 @@
         "CharacterId": 20057,
         "MessageJP": "アカネ（制服）",
         "MessageKR": "아카네(교복)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "朱音（制服）",
+        "MessageEN": "Akane (School)"
     },
     {
         "MessageId": 200560160,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "こんにちは。先生",
         "MessageKR": "안녕하세요. 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "您好，老師",
+        "MessageEN": "Hello, Sensei."
     },
     {
         "MessageId": 200570170,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "おかげさまでクラスの子たちと",
         "MessageKR": "선생님 덕분이겠지만",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "多虧了老師",
+        "MessageEN": "Thanks to you,"
     },
     {
         "MessageId": 200570171,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "少しうまくやれるようになった気がします",
         "MessageKR": "반 아이들과 조금 더 잘 지내게 된 것 같아요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我似乎和班上的同學相處得更融洽了",
+        "MessageEN": "I seem to be getting on better with my classmates."
     },
     {
         "MessageId": 200570180,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "それはよかった！",
         "MessageKR": "다행이네!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那真是太好了！",
+        "MessageEN": "That's great!"
     },
     {
         "MessageId": 200570180,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "アカネなら大丈夫だと思ってた",
         "MessageKR": "아카네라면 잘할 줄 알았어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我就知道朱音可以的！",
+        "MessageEN": "I knew you could do it, Akane!"
     },
     {
         "MessageId": 200570190,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとうございます",
         "MessageKR": "네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是啊",
+        "MessageEN": "Yes."
     },
     {
         "MessageId": 200570191,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "その……もし、先生さえよろしければ……",
         "MessageKR": "그래서 말인데요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以說呢",
+        "MessageEN": "Which is why."
     },
     {
         "MessageId": 200570200,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "今の私をお見せしたい、と思って……",
         "MessageKR": "선생님만 괜찮으시다면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果老師願意的話",
+        "MessageEN": "If you don't mind,"
     },
     {
         "MessageId": 200570201,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "いかがでしょうか？",
         "MessageKR": "그런 제 모습을, 보여 주고 싶다는 생각을 했답니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我想讓您看看改變後的我",
+        "MessageEN": "I'd like to show you this new side of me as well."
     },
     {
         "MessageId": 200570202,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "――二人きりで",
         "MessageKR": "단둘이서, 말이에요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就我們兩個人",
+        "MessageEN": "Just the two of us."
     },
     {
         "MessageId": 200570210,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "アカネ……？",
         "MessageKR": "아카네……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "朱音……？",
+        "MessageEN": "Akane...?"
     },
     {
         "MessageId": 200560227,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "アカネ（制服）の絆イベントへ",
         "MessageKR": "아카네(교복)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往朱音（制服）的羈絆劇情",
+        "MessageEN": "Go to Akane (School)'s Bond Story"
     },
     {
         "MessageId": 200570220,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "あの、先生",
         "MessageKR": "저, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個，老師",
+        "MessageEN": "Um, Sensei..."
     },
     {
         "MessageId": 200570230,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "今日はありがとうございました",
         "MessageKR": "오늘, 동급생이 되어 주셔서 감사했습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天謝謝您當我的同學",
+        "MessageEN": "Thank you for being my classmate today."
     },
     {
         "MessageId": 200570240,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "先に帰っちゃうなんて……",
         "MessageKR": "동급생을 두고 먼저 가 버리다니…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼丟下同學先走了……",
+        "MessageEN": "I can't believe you would leave your classmate behind..."
     },
     {
         "MessageId": 200570250,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "寂しいな",
         "MessageKR": "토라져 버릴 테다…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我好寂寞……",
+        "MessageEN": "I'm going to pout..."
     },
     {
         "MessageId": 200570260,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "申し訳ありませんでした……",
         "MessageKR": "죄송해요……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "非常抱歉……",
+        "MessageEN": "I'm sorry..."
     },
     {
         "MessageId": 200570261,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "ですが……その……",
         "MessageKR": "하지만……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可，可是……",
+        "MessageEN": "But..."
     },
     {
         "MessageId": 200570262,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "思っていたより……",
         "MessageKR": "생각했던 것보다도 더……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為那比想像中……",
+        "MessageEN": "It was more"
     },
     {
         "MessageId": 200570270,
@@ -255,7 +255,7 @@
         "ImagePath": "",
         "MessageJP": "恥ずかしかったんです",
         "MessageKR": "부끄럽더라고요……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "更加令人害羞……",
+        "MessageEN": "embarrassing than I expected..."
     }
 ]

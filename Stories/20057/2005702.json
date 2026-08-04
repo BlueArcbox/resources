@@ -3,8 +3,8 @@
         "CharacterId": 20057,
         "MessageJP": "アカネ（制服）",
         "MessageKR": "아카네(교복)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "朱音（制服）",
+        "MessageEN": "Akane (School)"
     },
     {
         "MessageId": 200560120,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生とほぼ徹夜で",
         "MessageKR": "선생님과 거의 밤을 새우다시피",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然和老師幾乎整晚沒睡",
+        "MessageEN": "It's great that we stayed up almost all night"
     },
     {
         "MessageId": 200570130,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "シミュレーションをしながら",
         "MessageKR": "시뮬레이션을 해 가며",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "做了模擬訓練",
+        "MessageEN": "doing simulations"
     },
     {
         "MessageId": 200570131,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "「台本」を作成しましたが……",
         "MessageKR": "'대본'을 작성한 건 좋은데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "把「劇本」完成了是好事",
+        "MessageEN": "and writing this script"
     },
     {
         "MessageId": 200570132,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "本当に、大丈夫でしょうか？",
         "MessageKR": "……정말로, 괜찮을까요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……但是，真的沒問題嗎？",
+        "MessageEN": "...But will it really work out?"
     },
     {
         "MessageId": 200570140,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "私にも正解は分からないけど……",
         "MessageKR": "사실 나도 모르겠어……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "其實我也不知道……",
+        "MessageEN": "Honestly, I don't know..."
     },
     {
         "MessageId": 200570140,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "やってみてから考えよう！",
         "MessageKR": "하지만 우린 할 수밖에 없어……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但我們只能做了……",
+        "MessageEN": "We have no choice but to try..."
     },
     {
         "MessageId": 200570150,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "そうですね……何事もトライアンドエラー、ですものね",
         "MessageKR": "그건 확실히 그렇겠네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "確實是這樣呢",
+        "MessageEN": "You're right."
     },
     {
         "MessageId": 200560157,
@@ -111,7 +111,7 @@
         "ImagePath": "",
         "MessageJP": "アカネ（制服）の絆イベントへ",
         "MessageKR": "아카네(교복)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往朱音（制服）的羈絆劇情",
+        "MessageEN": "Go to Akane (School)'s Bond Story"
     }
 ]
