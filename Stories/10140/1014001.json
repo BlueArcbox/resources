@@ -3,8 +3,8 @@
         "CharacterId": 10140,
         "MessageJP": "クルミ",
         "MessageKR": "쿠루미",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "胡桃",
+        "MessageEN": "Kurumi"
     },
     {
         "MessageId": 101390010,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "さっき、私のこと探してたでしょ",
         "MessageKR": "선생님, 나를 찾았다고 들었는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，聽說你在找我",
+        "MessageEN": "Sensei, I heard you were looking for me."
     },
     {
         "MessageId": 101400020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "何かあったの？",
         "MessageKR": "무슨 일이야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有什麼事嗎？",
+        "MessageEN": "What's wrong?"
     },
     {
         "MessageId": 101400021,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "もしかして危ない事件に巻き込まれたとか？",
         "MessageKR": "혹시 내 힘이 필요한 위험한 사건에 휘말린 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "難道你被捲入危險事件了嗎？",
+        "MessageEN": "Do you need my strength to bail you out of a dangerous situation?"
     },
     {
         "MessageId": 101400030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "あ、ちょうど探してたんだ",
         "MessageKR": "아, 쿠루미. 안 그래도 한참 찾았었어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，胡桃，我正好在找你",
+        "MessageEN": "Ah, Kurumi! There you are!"
     },
     {
         "MessageId": 101400040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "近くの商店街でフルーツ牛乳をもらってきたから、よかったら飲んでね",
         "MessageKR": "근처 상점가에서 선물로 과일 우유를 받았는데 가져가서 먹어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我在附近的商店街收到了水果牛奶，拿去喝吧",
+        "MessageEN": "I wanted to share some fruit milk I got as a gift with you!"
     },
     {
         "MessageId": 101400050,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "クルミは甘い牛乳が好きって聞いたから",
         "MessageKR": "쿠루미는 달콤한 우유를 좋아하잖아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "胡桃喜歡甜甜的牛奶吧？",
+        "MessageEN": "You like sweet milks, right?"
     },
     {
         "MessageId": 101400060,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと",
         "MessageKR": "잠깐",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "等一下",
+        "MessageEN": "Hold on."
     },
     {
         "MessageId": 101400061,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "なんで私の好み知ってるのよ",
         "MessageKR": "내 취향을 어떻게",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你怎麼會知道我的喜好",
+        "MessageEN": "How did you know that?"
     },
     {
         "MessageId": 101400070,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "というか",
         "MessageKR": "아니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不對",
+        "MessageEN": "Wait"
     },
     {
         "MessageId": 101400071,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "そんなものに釣られるわけないじゃない！",
         "MessageKR": "나를 간식이 있다면 쪼르르 달려가는 꼬마로 생각하는 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你是把我當成只要有零食就會開開心心跑過去的小孩子嗎？",
+        "MessageEN": "Am I some kid who'll come running at the first sign of sweets to you?!"
     },
     {
         "MessageId": 101400080,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "私はSRTの特殊隊員なのよ？",
         "MessageKR": "SRT의 특수 요원을 그런 사소한 일로 불러내지 말라고!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "別為了這種小事把SRT的特殊隊員叫出來啦！",
+        "MessageEN": "I'm an SRT special agent! Don't call me over something like that?"
     },
     {
         "MessageId": 101400090,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "本当にいいの？",
         "MessageKR": "정말 안 먹을 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真的不要嗎？",
+        "MessageEN": "Are you suuuuuure?"
     },
     {
         "MessageId": 101400090,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "果肉がたっぷり入ったやつなのに",
         "MessageKR": "진짜 과일이 들어가서 엄청 고급스러운 과일 우유인데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這可是放了真正的水果，超級高級的水果牛奶呢",
+        "MessageEN": "It's super fancy fruit milk made with real fruits."
     },
     {
         "MessageId": 101400100,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "……",
         "MessageKR": "그게",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個……",
+        "MessageEN": "Well"
     },
     {
         "MessageId": 101400101,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "…………",
         "MessageKR": "음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯……",
+        "MessageEN": "Mm"
     },
     {
         "MessageId": 101400110,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "イチゴミルクもある？",
         "MessageKR": "딸기 우유도 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有草莓牛奶嗎？",
+        "MessageEN": "Do you have strawberry?"
     },
     {
         "MessageId": 101400120,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "もちろん。バナナ味とメロン味もあるよ",
         "MessageKR": "바나나랑 멜론도 있으니까 원하는대로 가져가",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還有香蕉和哈密瓜，你想要哪個就拿去吧",
+        "MessageEN": "And banana and melon. All waiting for you."
     },
     {
         "MessageId": 101400130,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "じゃあ、あとでもらいに行くわ",
         "MessageKR": "그럼 작전 끝나고 보고서 제출할 때 가져갈게",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那我等作戰結束提交報告的時候順便去拿",
+        "MessageEN": "...I'll be there after I submit this report."
     },
     {
         "MessageId": 101400140,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "言っとくけど！",
         "MessageKR": "다시 말해두지만",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我再說一次",
+        "MessageEN": "Again"
     },
     {
         "MessageId": 101400150,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "別に牛乳に釣られたわけじゃないからね！",
         "MessageKR": "어디까지나 간식 때문에 가는 게 아니니까!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我絕對不是為了牛奶才去的哦！",
+        "MessageEN": "It's not just because I want sweets, OKAY?!"
     },
     {
         "MessageId": 101390157,
@@ -267,7 +267,7 @@
         "ImagePath": "",
         "MessageJP": "クルミの絆イベントへ",
         "MessageKR": "쿠루미의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往胡桃的羈絆劇情",
+        "MessageEN": "Go to Kurumi's Bond Story"
     }
 ]

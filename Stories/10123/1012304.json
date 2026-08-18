@@ -98,7 +98,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "これから報告に上がるよ",
-        "MessageKR": "특별히 이번에는 제가 찾아 뵙도록 하죠.",
+        "MessageKR": "특별히 이번에는 제가 찾아뵙도록 하죠.",
         "MessageTW": "這次就換我過去找你吧",
         "MessageEN": "I'll grace you with a special visit, Sensei."
     },
@@ -134,7 +134,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "気が向いたときには、また",
-        "MessageKR": "다음 번에도, 내키실 때에는 부탁드리겠습니다.",
+        "MessageKR": "다음번에도, 내키실 때에는 부탁드리겠습니다.",
         "MessageTW": "如果願意的話，之後再麻煩你陪我吧",
         "MessageEN": "Feel free to reach out whenever you're in the mood for another one."
     },
@@ -170,7 +170,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "わかっているのだろう？まったく、先生も意地が悪いね",
-        "MessageKR": "알만큼 아시는 분께서 왜 이러시는지.",
+        "MessageKR": "알 만큼 아시는 분께서 왜 이러시는지.",
         "MessageTW": "你明明很清楚，何必這麼問呢？",
         "MessageEN": "It is what it is."
     },

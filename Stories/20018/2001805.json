@@ -26,7 +26,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "先生、昨日シラトリの公園にいた？",
-        "MessageKR": "선생님, 어제 저녁에 시라토리 근린 공원에 있지 않았어?",
+        "MessageKR": "선생님, 어제저녁에 시라토리 근린 공원에 있지 않았어?",
         "MessageTW": "老師，你昨天晚上有在白鳥區的公園附近嗎？",
         "MessageEN": "Sensei, weren't you at Shiratori Neighborhood Park last night?"
     },
@@ -182,7 +182,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "これでもSRTの一員なんだけど。トレーニングは毎日やってるよ？",
-        "MessageKR": "이래뵈도 SRT의 일원으로서 트레이닝은 매일 하고 있거든?",
+        "MessageKR": "이래 봬도 SRT의 일원으로서 트레이닝은 매일 하고 있거든?",
         "MessageTW": "我好歹也是SRT的一員，每天都有在訓練的哦？",
         "MessageEN": "I know what I was just saying, but I AM still an SRT member."
     },

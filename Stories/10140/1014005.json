@@ -3,8 +3,8 @@
         "CharacterId": 10140,
         "MessageJP": "クルミ",
         "MessageKR": "쿠루미",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "胡桃",
+        "MessageEN": "Kurumi"
     },
     {
         "MessageId": 101390530,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、あの噂聞いた？",
         "MessageKR": "선생님, 그 소문 들었어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，你聽說那個傳聞了嗎？",
+        "MessageEN": "Sensei! Have you heard?"
     },
     {
         "MessageId": 101400540,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "最近この街に強盗が現れたんだって",
         "MessageKR": "최근 이 주변 골목에서 금품을 목적으로 한 강도가 나타나는 모양이야",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "最近這附近的巷子裡，好像出現了以財物為目標的強盜",
+        "MessageEN": "A robber in the area has been lurking in alleys and stealing valuables from people."
     },
     {
         "MessageId": 101400550,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ひとけのない場所からあとをつけて",
         "MessageKR": "인적이 드문 어두운 골목길에서 몰래 뒤를 밟은 뒤에",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "會在人煙稀少的昏暗巷弄裡偷偷跟在後面",
+        "MessageEN": "They'll stalk you into a deserted area"
     },
     {
         "MessageId": 101400551,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "財布とかを盗むらしいわ",
         "MessageKR": "뒤를 급습해서 쓰러트리고 주머니를 털어 간다나 봐",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "再從背後突襲將人擊倒，然後把財物洗劫一空的樣子",
+        "MessageEN": "and then ambush you and take you for everything you own!"
     },
     {
         "MessageId": 101400560,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "物騒な噂だね……",
         "MessageKR": "흉흉한 소문이네……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真是令人不安的傳聞呢……",
+        "MessageEN": "How ominous..."
     },
     {
         "MessageId": 101400570,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "犯人はまだ捕まってないの？",
         "MessageKR": "범인은 아직 잡히지 않은 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "犯人還沒被抓到嗎？",
+        "MessageEN": "Do they have a suspect?"
     },
     {
         "MessageId": 101400580,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ヴァルキューレが捜査に当たってるから、すぐ捕まると思うけど……",
         "MessageKR": "발키리 경비국에서 집중 수사에 나섰으니, 금방 잡히겠지만……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "女武神已經展開了集中搜查，應該很快就會抓到了……",
+        "MessageEN": "The Valkyrie Security Bureau started an intensive investigation, so I'm sure it'll only be a matter of time until they catch them..."
     },
     {
         "MessageId": 101400590,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "でも先生も気をつけて",
         "MessageKR": "그래도 선생님도 조심해.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過老師你也要小心",
+        "MessageEN": "But you should still be careful, Sensei."
     },
     {
         "MessageId": 101400600,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "ただでさえ私たちより弱いのに、ひとりで夜道を歩くことも多いでしょ？",
         "MessageKR": "안 그래도 우리보다 몸도 약하면서, 밤길을 혼자 걸을 때가 많잖아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "而且你的身體本來就比我們脆弱，還常常一個人走夜路，對吧？",
+        "MessageEN": "You're weaker than us, but you're always wandering around at night."
     },
     {
         "MessageId": 101400610,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "なんなら",
         "MessageKR": "뭣하다면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果有需要的話",
+        "MessageEN": "You know"
     },
     {
         "MessageId": 101400611,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "私が迎えに行くから",
         "MessageKR": "샬레 근처에서 부르면 내가 마중을 나갈테니까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只要在夏萊附近喊我一聲，我就會去接你",
+        "MessageEN": "I can be your escort if you call me out around Schale."
     },
     {
         "MessageId": 101400620,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "クルミが迎えに来てくれるなんて、照れちゃうね",
         "MessageKR": "쿠루미가 마중을 나온다니 뭔가 설레네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "胡桃要來接我啊？總覺得有點心動呢",
+        "MessageEN": "Oooh, I do like the idea of you coming out to meet me."
     },
     {
         "MessageId": 101400620,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "エプロン姿で来てくれる？",
         "MessageKR": "앞치마 차림으로 마중 나와 줄 수 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可以穿著圍裙來接我嗎？",
+        "MessageEN": "Maybe you could wear an apron?"
     },
     {
         "MessageId": 101400630,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "うるさい！",
         "MessageKR": "시끄러워!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "閉嘴啦！",
+        "MessageEN": "Shut up!"
     },
     {
         "MessageId": 101400631,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "そういう意味じゃないわよ！",
         "MessageKR": "그런 의미로 말한 게 아니거든?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我不是那個意思！",
+        "MessageEN": "You're missing the point entirely!"
     },
     {
         "MessageId": 101390637,
@@ -207,7 +207,7 @@
         "ImagePath": "",
         "MessageJP": "クルミの絆イベントへ",
         "MessageKR": "쿠루미의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往胡桃的羈絆劇情",
+        "MessageEN": "Go to Kurumi's Bond Story"
     }
 ]

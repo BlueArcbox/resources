@@ -3,8 +3,8 @@
         "CharacterId": 16020,
         "MessageJP": "オトギ",
         "MessageKR": "오토기",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "御伽",
+        "MessageEN": "Otogi"
     },
     {
         "MessageId": 160190010,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "こんにちは。こちら、シャーレの先生の番号でよろしいですか？",
         "MessageKR": "안녕하세요. 여기, 샬레 선생님 번호인가요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "您好，請問這是夏萊的老師的電話嗎？",
+        "MessageEN": "Hello. Is this Sensei? Of Schale?"
     },
     {
         "MessageId": 160200020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "そうですが……",
         "MessageKR": "그렇습니다만……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是……？",
+        "MessageEN": "Yes? That's me?"
     },
     {
         "MessageId": 160200030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "以前から、二人でお会いしてみたかったんです",
         "MessageKR": "제가 전부터 선생님을 꼭 한 번 단둘이서 뵙는 게 소원이라서요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我從以前就一直很希望能和老師單獨見一次面",
+        "MessageEN": "I've always wanted to spend some one-on-one time with you, Sensei."
     },
     {
         "MessageId": 160200031,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "今夜、ロストハイウェイの4番通りに来れませんか？",
         "MessageKR": "혹시 오늘 저녁에 로스트웨이의 4번 골목으로 나와주실 수 있으실까요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不知道今天傍晚，您願不願意到失落之路的4號巷子來呢？",
+        "MessageEN": "Can you come meet me at 4 Lostway Alley tonight?"
     },
     {
         "MessageId": 160200040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "8時以降でも良ければ……",
         "MessageKR": "저녁 8시 이후라도 괜찮다면……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果晚上8點以後也可以的話……",
+        "MessageEN": "If you're fine with after 8..."
     },
     {
         "MessageId": 160200040,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "時間作れるよ",
         "MessageKR": "잠깐 시간 내는 건 어렵지 않을 것 같은데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "抽出一點時間應該不難",
+        "MessageEN": "I'll make the time!"
     },
     {
         "MessageId": 160200050,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと、ちょっとー！",
         "MessageKR": "아니, 아니지!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不對不對！",
+        "MessageEN": "No, no, no!"
     },
     {
         "MessageId": 160200051,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "何ホイホイ乗ってるのさ！",
         "MessageKR": "선생님. 뭘 아무렇지도 않게 수상한 제안을 받아들이고 있는 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，你怎麼若無其事地就接受這種可疑的邀約啊？",
+        "MessageEN": "C'mon, Sensei. That was suspicious as heck."
     },
     {
         "MessageId": 160200052,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "知らない人からの連絡は、疑ってかかりなよ",
         "MessageKR": "낯선 사람이 갑자기 말을 걸면 일단 한 번은 의심해 보는 게 좋다고.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "陌生人突然搭話的時候，至少先懷疑一下會比較好哦",
+        "MessageEN": "At least try to exercise a LITTLE caution if a stranger makes a weird request of you."
     },
     {
         "MessageId": 160200060,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "シャーレの情報を狙った悪い人かもしれないじゃん？",
         "MessageKR": "샬레의 선생님에게 접근해서 정보를 캐내려는 수상한 녀석일지도 모르잖아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "說不定是想接近老師，套取情報的可疑傢伙呢？",
+        "MessageEN": "What if it was someone who was trying to dig up intel on Schale's Sensei?"
     },
     {
         "MessageId": 160200070,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "……うん？",
         "MessageKR": " ……응?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……咦？",
+        "MessageEN": " ...What now?"
     },
     {
         "MessageId": 160200080,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "もしかして可愛い女の子からだと思った？",
         "MessageKR": "혹시 귀여운 여자아이의 데이트 제안이라고 착각한 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你該不會誤以為……這是可愛女孩子的約會邀請了吧？",
+        "MessageEN": "Ah. Did you think a cute girl was asking you out on a date?"
     },
     {
         "MessageId": 160200081,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "残念！オトギちゃんでした～",
         "MessageKR": "유감이지만, 오토기 쨩이었습니다\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "很遺憾……是御伽醬哦～",
+        "MessageEN": "Unfortunately, it was none other than me, Otogi!"
     },
     {
         "MessageId": 160200090,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "いや、最初から分かってたよ",
         "MessageKR": "아니, 착각하진 않았는데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不，我並沒有誤會",
+        "MessageEN": "No, I didn't think that at all."
     },
     {
         "MessageId": 160200090,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "オトギの名前、表示されてるし",
         "MessageKR": "애초에 발신자에 오토기라고 찍혀 있는데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "畢竟發信人那邊本來就顯示著御伽",
+        "MessageEN": "I have your contact info saved..."
     },
     {
         "MessageId": 160200100,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "あ",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah."
     },
     {
         "MessageId": 160200101,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "これ、作戦用の電話じゃないんだぁ",
         "MessageKR": "이거 작전용 임시 번호가 아니었네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原來這不是作戰用的臨時號碼啊",
+        "MessageEN": "Oops. I thought this was our burner phone."
     },
     {
         "MessageId": 160200110,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "あーあ、ミスっちゃった",
         "MessageKR": "미안. 개인 정비 시간에 심심해서 잠깐 장난 좀 치려 했는데, 너무 준비가 허술했네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "抱歉，因為個人整備時間太無聊，就想稍微惡作劇一下，結果準備得太草率了",
+        "MessageEN": "Sorry. I was just kinda bored, and I wanted to mess with you. Execution was subpar, though."
     },
     {
         "MessageId": 160200120,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "生徒からの連絡なら、いつでも歓迎だよ",
         "MessageKR": "신경 쓰지 마. 학생의 연락이라면 언제든 환영이니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "別在意。只要是學生的聯絡，我隨時歡迎",
+        "MessageEN": "Don't be sorry! I'm happy to hear from one of my precious students!"
     },
     {
         "MessageId": 160200130,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "先生は、知らない人から連絡来てもいいの？",
         "MessageKR": "하지만 선생님은 모르는 사람과 연락하는 게 꺼려지진 않아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過老師，你不會排斥和不認識的人聯絡嗎？",
+        "MessageEN": "You don't mind talking to strangers, though?"
     },
     {
         "MessageId": 160200131,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "ふつー無視すると思うんだけど",
         "MessageKR": "대부분 사람들은 모르는 번호로 연락이 오면 일단 받지 않는데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "大部分的人接到不認識的電話都會先無視",
+        "MessageEN": "The normal thing to do is to ignore unknown numbers."
     },
     {
         "MessageId": 160200140,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "知らない番号の大半はスパムだけど……",
         "MessageKR": "물론 모르는 번호의 대부분은 광고나 잘못 걸려온 전화지만……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不認識的電話確實大多是廣告或打錯的電話啦……",
+        "MessageEN": "It could be a telemarketer..."
     },
     {
         "MessageId": 160200150,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "緊急事態かもしれないし？",
         "MessageKR": "급한 도움이 필요한 학생일지도 모르잖아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但說不定是急需幫助的學生啊？",
+        "MessageEN": "Or it could be a student in need of help."
     },
     {
         "MessageId": 160200160,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "まあ、それもそっか",
         "MessageKR": "확실히 그도 그렇네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "確實也會有那種情況呢",
+        "MessageEN": "I see where you're coming from."
     },
     {
         "MessageId": 160200161,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "でも、万が一のことを考えて",
         "MessageKR": "위험이 존재한다고 언제나 회피할 수는 없는 노릇이니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "畢竟不能因為潛在危險就總是選擇迴避",
+        "MessageEN": "Sometimes you just have to take the risk, no matter the consequences."
     },
     {
         "MessageId": 160200170,
@@ -327,8 +327,8 @@
         "ImagePath": "",
         "MessageJP": "もうちょっと危機意識を持ったほうがいいよ",
         "MessageKR": "하지만 선생님은 좀 더 몸을 사리는 게 좋을 거야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過老師你還是稍微小心一點比較好哦",
+        "MessageEN": "Still. You really should be more careful."
     },
     {
         "MessageId": 160200171,
@@ -339,8 +339,8 @@
         "ImagePath": "",
         "MessageJP": "弾丸にも耐えられない軟弱な大人を狙う生徒なんて、ごまんといるんだから",
         "MessageKR": "총알도 이겨내지 못하는 연약한 어른을 노리고 있는 학생이 이 키보토스에 한 둘은 아닐테니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "在這奇普托斯裡，把你這種連子彈都擋不住的柔弱大人當成目標的學生，可不佔少數哦。",
+        "MessageEN": "After all, there's more than one person gunning for the weak, frail adult who can't withstand even a single bullet."
     },
     {
         "MessageId": 160200180,
@@ -351,8 +351,8 @@
         "ImagePath": "",
         "MessageJP": "……肝に銘じておきます",
         "MessageKR": "……명심할게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……我會牢記在心的",
+        "MessageEN": "...I'll do my best."
     },
     {
         "MessageId": 160190187,
@@ -363,7 +363,7 @@
         "ImagePath": "",
         "MessageJP": "オトギの絆イベントへ",
         "MessageKR": "오토기의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往御伽的羈絆劇情",
+        "MessageEN": "Go to Otogi's Bond Story"
     }
 ]

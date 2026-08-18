@@ -3,8 +3,8 @@
         "CharacterId": 16020,
         "MessageJP": "オトギ",
         "MessageKR": "오토기",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "御伽",
+        "MessageEN": "Otogi"
     },
     {
         "MessageId": 160190420,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "空き地の土管や、橋の下の陰を見ると",
         "MessageKR": "공터에 놓여있는 토관이나 다리 밑의 그늘을 보면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "看到空地上放著的水泥管，或是橋下的陰影時",
+        "MessageEN": "You ever see a pipe in a park, or a shadow under a bridge,"
     },
     {
         "MessageId": 160200430,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "自分だけの秘密基地にしたいって、思ったりしない？",
         "MessageKR": "어쩐지 나만의 비밀 기지로 삼고 심다는 생각이 든 적 없어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你會不會莫名地很想把它當成只屬於自己的秘密基地呢？",
+        "MessageEN": "and think, \"That'd be the perfect secret hideout!\"?"
     },
     {
         "MessageId": 160200440,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "昔は、そんなことも考えたなあ",
         "MessageKR": "어릴 적에는 그런 생각을 했었지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "小時候確實這麼想過",
+        "MessageEN": "Mm. Yeah. A lot when I was younger."
     },
     {
         "MessageId": 160200440,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "今も布団を被って、自分だけの空間に入っていたいかも",
         "MessageKR": "지금도 이불을 뒤집어쓰고 나만의 공간에 들어가 있고 싶어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就連現在也想裹著棉被，躲進只屬於自己的空間裡",
+        "MessageEN": "Sometimes, I want to just hide out under my blanket."
     },
     {
         "MessageId": 160200450,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "……それ、ちょっとヤバくない？",
         "MessageKR": "……그거 살짝 위험한 거 아냐?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……那有點不妙吧？",
+        "MessageEN": "...Isn't that a bit dangerous?"
     },
     {
         "MessageId": 160200451,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "まあいいや",
         "MessageKR": "여하튼",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總之",
+        "MessageEN": "Anyways"
     },
     {
         "MessageId": 160200460,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "みんな、同じようなことを考えるもんなんだねぇ",
         "MessageKR": "사람 생각하는 건 다 비슷하구나",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "大家想的都差不多呢",
+        "MessageEN": "People really do think a lot."
     },
     {
         "MessageId": 160200470,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "私も小さい時は、ゲームや漫画を隠す秘密基地を探し回ったけど",
         "MessageKR": "나도 어릴 적에는 게임기나 만화책을 숨겨 두기 위해 나만의 비밀 기지를 찾아다녔었는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我小時候也為了藏遊戲機或漫畫書，到處尋找只屬於自己的秘密基地",
+        "MessageEN": "I used to always find new hideouts for my consoles and manga."
     },
     {
         "MessageId": 160200471,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "まさか、高校生になってまでやるなんて",
         "MessageKR": "설마 고등학생이 된 이후에도 비밀기지를 찾아다니게 될 줄은 몰랐어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒想到成了高中生之後，竟然還會到處找秘密基地",
+        "MessageEN": "But I didn't think the habit would persist into high school."
     },
     {
         "MessageId": 160200480,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "最近も作ってるの？",
         "MessageKR": "요새는 왜?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "最近怎麼了？",
+        "MessageEN": "Why do you need one now?"
     },
     {
         "MessageId": 160200480,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "個人の部屋じゃ、狭い？",
         "MessageKR": "개인 공간이 충분치 않아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "個人空間不夠用嗎？",
+        "MessageEN": "Do you not have enough personal space?"
     },
     {
         "MessageId": 160200490,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "あ、そういうことじゃなくて……",
         "MessageKR": "아, 그런 건 아니지만……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "倒也不是那樣……",
+        "MessageEN": "No, it's not like that..."
     },
     {
         "MessageId": 160200491,
@@ -170,9 +170,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "作戦だと、24時間以上の潜伏とか夜通しの任務がよくあるからさ",
-        "MessageKR": "SRT의 작전을 진행하다 보면 하루 넘게 밖에서 잠복하거나, 밤을 새워야 하는 경우 자주 있거든.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "SRT의 작전을 진행하다 보면 하루 넘게 밖에서 잠복하거나, 밤을 새워야 하는 경우가 자주 있거든.",
+        "MessageTW": "進行SRT的作戰時，常常需要在外面潛伏超過一天，或是徹夜不眠",
+        "MessageEN": "Sometimes stakeouts for SRT missions can last all day, or even all night."
     },
     {
         "MessageId": 160200500,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "そういう時は、こういう「秘密基地」が",
         "MessageKR": "그럴 때는 이런 <비밀 기지>들이 생각보다 유용하게 쓰이는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那種時候，這些「秘密基地」意外地相當實用",
+        "MessageEN": "My secret bases tend to be pretty useful at times like those."
     },
     {
         "MessageId": 160200501,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "弾薬や私物を置くのに役立つんだ",
         "MessageKR": "가끔은 작전 전에 이런 상황을 대비해서 비밀 기지에 탄약이나 개인 용품을 미리 가져다 둘 때도 있어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有時還會在作戰前為這種狀況做準備，事先把彈藥或個人用品放到秘密基地裡",
+        "MessageEN": "I have ammunition or personal things I need stashed all over."
     },
     {
         "MessageId": 160200510,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "なんか、小さい時のロマンにあふれてて、かっこいいね",
         "MessageKR": "뭔가 어린 시절의 로망이 실현된 것 같아 멋진 걸.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "感覺像是實現了兒時的浪漫，真不錯",
+        "MessageEN": "It's cool to see your childhood dream coming true."
     },
     {
         "MessageId": 160200520,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "最近、目をつけてる特別な場所ってあるの？",
         "MessageKR": "요새 눈 여겨 보는 특별한 비밀기지라도 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "最近有什麼特別中意的秘密基地嗎？",
+        "MessageEN": "Is there a new spot you've been eyeing as a base?"
     },
     {
         "MessageId": 160200530,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "うーん、先生の机の下かなぁ？",
         "MessageKR": "음, 선생님의 책상 밑이랄까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯……例如老師的書桌底下？",
+        "MessageEN": "Hm. Under your desk?"
     },
     {
         "MessageId": 160200540,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "えっ",
         "MessageKR": "엑",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦……？",
+        "MessageEN": "Eh"
     },
     {
         "MessageId": 160200550,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "なに、そのリアクション？",
         "MessageKR": "왜 그런 반응이야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你那是什麼反應？",
+        "MessageEN": "What's with that reaction?"
     },
     {
         "MessageId": 160200551,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "あのさぁ",
         "MessageKR": "아니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不是",
+        "MessageEN": "No"
     },
     {
         "MessageId": 160200552,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "変なこと考えたりする？\n机っていうのが、大事なんだからぁ！",
         "MessageKR": "이상한 생각 하지 마. 책상인 게 중요한 거니까!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "別想歪了，重點是書桌啦！",
+        "MessageEN": "Don't get any funny ideas. What's important is that it's a desk!"
     },
     {
         "MessageId": 160200560,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "机の下に入って自分の基地にしたこと、あるでしょ？",
         "MessageKR": "책상에 모포를 두르고 그 아래에 들어가서 비밀기지라고 선언하는 일은, 어릴 때 종종 있잖아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "在書桌上蓋一條毛毯鑽進底下，然後宣稱那裡是秘密基地，這種事小時候常有吧？",
+        "MessageEN": "You know how kids'll wrap themselves in a blanket, crawl under a desk, and call that their secret base?"
     },
     {
         "MessageId": 160200570,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "ああ、そういう意味か",
         "MessageKR": "아, 그런 의미인가.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哦哦，原來是那個意思",
+        "MessageEN": "Ah, so that's what you mean."
     },
     {
         "MessageId": 160200570,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "それならたまに使ってもいいよ",
         "MessageKR": "그런 용도라면 가끔 대여해 줄 수도 있어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果是這樣的話，倒是可以偶爾借給你",
+        "MessageEN": "I can lend it to you for those purposes."
     },
     {
         "MessageId": 160200580,
@@ -327,8 +327,8 @@
         "ImagePath": "",
         "MessageJP": "うーん、先生の厚意はありがたいけど",
         "MessageKR": "음, 선생님의 호의는 고맙지만",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，謝謝老師的好意",
+        "MessageEN": "Um, I appreciate it"
     },
     {
         "MessageId": 160200581,
@@ -339,8 +339,8 @@
         "ImagePath": "",
         "MessageJP": "そこ狙っている生徒、多いから諦めたんだよね",
         "MessageKR": "그 비밀기지는 노리고 있는 학생이 많아서 이미 진작에 포기했어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過覬覦那個秘密基地的學生很多，所以我早就放棄了",
+        "MessageEN": "But I gave up on that a while ago. Too many other students were going after it."
     },
     {
         "MessageId": 160200590,
@@ -351,8 +351,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと待って",
         "MessageKR": "잠깐",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "等一下",
+        "MessageEN": "Hold on."
     },
     {
         "MessageId": 160200600,
@@ -363,8 +363,8 @@
         "ImagePath": "",
         "MessageJP": "それ、どういう意味！？",
         "MessageKR": "그거 무슨 의미야?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那是什麼意思！？",
+        "MessageEN": "What do you mean by that?!"
     },
     {
         "MessageId": 160190607,
@@ -375,7 +375,7 @@
         "ImagePath": "",
         "MessageJP": "オトギの絆イベントへ",
         "MessageKR": "오토기의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往御伽的羈絆劇情",
+        "MessageEN": "Go to Otogi's Bond Story"
     }
 ]

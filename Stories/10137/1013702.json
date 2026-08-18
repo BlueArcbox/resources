@@ -62,7 +62,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "意外と難しいことでもあるけどね",
-        "MessageKR": "당연하지만 꽤 힘든일이긴 하지!",
+        "MessageKR": "당연하지만 꽤 힘든 일이긴 하지!",
         "MessageTW": "雖然是這樣沒錯，實際做起來卻挺難的呢",
         "MessageEN": "It's easier said than done, okay?!"
     },
@@ -158,7 +158,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "時間厳守って……昨日のラッキー行動じゃなかった？",
-        "MessageKR": "시간약속 지키기는…… 어제 운세 아니야?",
+        "MessageKR": "시간 약속 지키기는…… 어제 운세 아니야?",
         "MessageTW": "嚴格守時……應該是昨天的運勢吧？",
         "MessageEN": "Wasn't \"keeping timely promises\" from yesterday?"
     },

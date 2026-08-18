@@ -3,8 +3,8 @@
         "CharacterId": 16020,
         "MessageJP": "オトギ",
         "MessageKR": "오토기",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "御伽",
+        "MessageEN": "Otogi"
     },
     {
         "MessageId": 160190350,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、今週末時間ある？",
         "MessageKR": "선생님, 이번 주 주말에 시간 돼?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，這週末有空嗎？",
+        "MessageEN": "Sensei, are you free this weekend?"
     },
     {
         "MessageId": 160200360,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "うん、もちろん",
         "MessageKR": "응. 괜찮아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，有哦",
+        "MessageEN": "Yes. 100%."
     },
     {
         "MessageId": 160200360,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "何かあった？",
         "MessageKR": "내가 도와줄 일이라도?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有什麼需要我幫忙的嗎？",
+        "MessageEN": "Do you need help with something?"
     },
     {
         "MessageId": 160200370,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "次の作戦で使う迷彩服がなくてさ",
         "MessageKR": "음, 다음 작전에서 쓸 위장복이 없어서.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，因為下次作戰要用的迷彩服沒了",
+        "MessageEN": "Um, I need to get some new camo for our next weapon."
     },
     {
         "MessageId": 160200371,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "新しいのを買いにコーギータウンに行ってみようかなって",
         "MessageKR": "새 위장복을 구하러 코기 타운에 한 번 가보려고.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以我想去柯基町一趟，找件新的迷彩服",
+        "MessageEN": "So I was thinking of doing some shopping in Corgi Town."
     },
     {
         "MessageId": 160200372,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "良ければ、一緒にどう？",
         "MessageKR": "혹시 괜찮으면 같이 보러 갈래?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果方便的話，要不要一起去看看？",
+        "MessageEN": "Do you want to come with?"
     },
     {
         "MessageId": 160200380,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "うん、いいよ",
         "MessageKR": "응, 갈래.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好，我要去",
+        "MessageEN": "I'm on my way."
     },
     {
         "MessageId": 160200390,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "ショッピングモールで迷彩服が買えるの？",
         "MessageKR": "그나저나 쇼핑몰에서도 위장복을 구할 수 있는 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "話說回來，購物中心也能買到迷彩服嗎？",
+        "MessageEN": "But can you get a camouflage uniform...at the mall?"
     },
     {
         "MessageId": 160200400,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "そりゃあ、もちろん",
         "MessageKR": "그야 물론이지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然可以",
+        "MessageEN": "Uh, where else?"
     },
     {
         "MessageId": 160200401,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "お金さえあれば、今晩のおかずからハッキングツールまで！",
         "MessageKR": "돈만 있다면 코기 타운에서는 오늘 저녁 반찬부터 해킹용 툴까지, 모두 구할 수 있으니까!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只要有錢，在柯基町從今晚的配菜到駭客用的工具，全都買得到！",
+        "MessageEN": "From tonight's dinner to hacking tools, you can find everything in Corgi Town. So long as you have the money!"
     },
     {
         "MessageId": 160200410,
@@ -146,9 +146,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "……それは別のお店のキャッチコピーじゃなかった？",
-        "MessageKR": "……그건 다른 가게의 캐치프레이즈아냐?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "……그건 다른 가게의 캐치프레이즈 아냐?",
+        "MessageTW": "……那不是別家店的宣傳標語嗎？",
+        "MessageEN": "...Isn't that a catchphrase from a different store?"
     },
     {
         "MessageId": 160190417,
@@ -159,7 +159,7 @@
         "ImagePath": "",
         "MessageJP": "オトギの絆イベントへ",
         "MessageKR": "오토기의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往御伽的羈絆劇情",
+        "MessageEN": "Go to Otogi's Bond Story"
     }
 ]

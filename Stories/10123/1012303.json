@@ -86,7 +86,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "願いを……叶えてはくれまいか",
-        "MessageKR": "도와주실 수…있을 까요?",
+        "MessageKR": "도와주실 수…있을까요?",
         "MessageTW": "你願意……成全我嗎？",
         "MessageEN": "Can you...help me?"
     },
@@ -98,7 +98,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "文字で咳き込んでる……",
-        "MessageKR": "누가 기침소리를 채팅으로 쳐ㅋㅋ",
+        "MessageKR": "누가 기침 소리를 채팅으로 쳐ㅋㅋ",
         "MessageTW": "居然在聊天室裡打咳嗽聲ww",
         "MessageEN": "Who writes out \"cough\" in chat? lol"
     },
@@ -242,7 +242,7 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "当然だろう？",
-        "MessageKR": "당연한 거 아닌 가요?",
+        "MessageKR": "당연한 거 아닌가요?",
         "MessageTW": "那當然囉？",
         "MessageEN": "Yes? Of course?"
     },

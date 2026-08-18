@@ -3,8 +3,8 @@
         "CharacterId": 16020,
         "MessageJP": "オトギ",
         "MessageKR": "오토기",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "御伽",
+        "MessageEN": "Otogi"
     },
     {
         "MessageId": 160190280,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "夜遅くにごめん",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 160200290,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "あれー、先生",
         "MessageKR": "늦은 시간에 미안한데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不好意思這麼晚打擾你",
+        "MessageEN": "Sorry for texting you so late"
     },
     {
         "MessageId": 160200291,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "もしかして寝てる？",
         "MessageKR": "혹시 자고 있어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你該不會已經睡了？",
+        "MessageEN": "Are you asleep?"
     },
     {
         "MessageId": 160200292,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "うーん",
         "MessageKR": "음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔嗯……",
+        "MessageEN": "Um"
     },
     {
         "MessageId": 160200293,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "やっぱりそうだよねぇ。ごめんごめん",
         "MessageKR": "역시 자고 있으려나. 미안.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "果然睡著了吧，抱歉",
+        "MessageEN": "I guess you're probably sleeping. Sorry about that."
     },
     {
         "MessageId": 160200300,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "大したことないから、気にしないで。おやすみ！",
         "MessageKR": "아무 일도 아니었으니까, 신경 쓰지 마. 잘 자!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒什麼事，別在意，晚安！",
+        "MessageEN": "It was nothing, so don't worry about it. Good night!"
     },
     {
         "MessageId": 160200310,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ごめん。ちょっと確認ができなかった",
         "MessageKR": "미안. 잠깐 메시지를 확인 못 했어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "抱歉，剛剛沒看到訊息",
+        "MessageEN": "Sorry, I didn't see your message."
     },
     {
         "MessageId": 160200310,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "どうしたの？",
         "MessageKR": "무슨 일이야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼了嗎？",
+        "MessageEN": "What's going on?"
     },
     {
         "MessageId": 160200320,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "何かあった？大丈夫？",
         "MessageKR": "이런 늦은 시간에 무슨 일이라도 있었던 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這麼晚了，是發生什麼事了嗎？",
+        "MessageEN": "It's so late. Did something happen?"
     },
     {
         "MessageId": 160200330,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "オトギ……？",
         "MessageKR": "오토기……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "御伽……？",
+        "MessageEN": "Otogi...?"
     },
     {
         "MessageId": 160200340,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "今すぐ行くね！",
         "MessageKR": "지금 갈게!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我立刻過去！",
+        "MessageEN": "I'm on my way!"
     },
     {
         "MessageId": 160190347,
@@ -159,7 +159,7 @@
         "ImagePath": "",
         "MessageJP": "オトギの絆イベントへ",
         "MessageKR": "오토기의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往御伽的羈絆劇情",
+        "MessageEN": "Go to Otogi's Bond Story"
     }
 ]

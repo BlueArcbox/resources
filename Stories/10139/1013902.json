@@ -3,8 +3,8 @@
         "CharacterId": 10139,
         "MessageJP": "ニコ",
         "MessageKR": "니코",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "仁子",
+        "MessageEN": "Niko"
     },
     {
         "MessageId": 101380150,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、今日の午後、お時間はありますか？",
         "MessageKR": "선생님, 혹시 오늘 오후에 시간 되시나요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，請問您今天下午有空嗎？",
+        "MessageEN": "Sensei, do you have some spare time this afternoon?"
     },
     {
         "MessageId": 101390160,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "うん。ちょうど手が空いたところだよ",
         "MessageKR": "응. 마침 한가하던 참이었어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，那時候剛好有空",
+        "MessageEN": "I actually happen to be free today."
     },
     {
         "MessageId": 101390160,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "どうしたの、急に？",
         "MessageKR": "갑자기 무슨 일이야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼突然這麼問？",
+        "MessageEN": "Is there anything I can help with?"
     },
     {
         "MessageId": 101390170,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "その……今日の午後「特殊補給作戦」をしようとしていたのですが",
         "MessageKR": "그게, <특수 보급 작전>이 오늘 오후에 예정되어 있었는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個……原本今天下午預定要進行「特殊補給作戰」的",
+        "MessageEN": "So, we have a special supply op scheduled in a few hours..."
     },
     {
         "MessageId": 101390171,
@@ -74,9 +74,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "小隊のみんなが来れなくなってしまって……",
-        "MessageKR": "소대원들이 다른 일 때문에 오지 못하게 되어서요……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "소대원들이 다른 일 때문에 오지 못하게 되어서요…….",
+        "MessageTW": "但小隊成員都有其他事情在身，所以沒辦法過來……",
+        "MessageEN": "But none of the other squad members can make it anymore."
     },
     {
         "MessageId": 101390172,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "もしよろしければ、先生にお手伝いをお願いできませんか？",
         "MessageKR": "혹시 선생님께서 작전을 도와주실 수 없을까요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師是否能協助這次的作戰呢？",
+        "MessageEN": "Could you step in for them, please?"
     },
     {
         "MessageId": 101390180,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "もちろんだよ！",
         "MessageKR": "물론이지!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然囉！",
+        "MessageEN": "Whatever you need!"
     },
     {
         "MessageId": 101390190,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "でも……私が役に立てることなんてあるかな？",
         "MessageKR": "하지만 내가 도울만한 게 있을까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過，有什麼是我能幫上忙的嗎？",
+        "MessageEN": "What will I need to do?"
     },
     {
         "MessageId": 101390190,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "特殊作戦なんて、何も分からないんだけど",
         "MessageKR": "나는 특수 작전에 대해서는 아무것도 모르는데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我對特殊作戰一無所知耶",
+        "MessageEN": "I don't know if I can keep up with your special operations!"
     },
     {
         "MessageId": 101390200,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "大丈夫です。そこまで危険な作戦ではありませんから",
         "MessageKR": "괜찮아요. 그리 위험한 작전은 아니니까요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒關係的，因為這並不是那麼危險的作戰",
+        "MessageEN": "Don't worry yourself. It won't be dangerous!"
     },
     {
         "MessageId": 101390210,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "……たぶん",
         "MessageKR": "……아마도.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……應該吧",
+        "MessageEN": "...Probably."
     },
     {
         "MessageId": 101390220,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "たぶん！？",
         "MessageKR": "아마도?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "應該！？",
+        "MessageEN": "Probably?!"
     },
     {
         "MessageId": 101380227,
@@ -171,7 +171,7 @@
         "ImagePath": "",
         "MessageJP": "ニコの絆イベントへ",
         "MessageKR": "니코의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往仁子的羈絆劇情",
+        "MessageEN": "Go to Niko's Bond Story"
     }
 ]

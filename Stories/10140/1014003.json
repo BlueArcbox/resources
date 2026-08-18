@@ -3,8 +3,8 @@
         "CharacterId": 10140,
         "MessageJP": "クルミ",
         "MessageKR": "쿠루미",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "胡桃",
+        "MessageEN": "Kurumi"
     },
     {
         "MessageId": 101390300,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "この近くに",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 101400310,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "証明写真が撮れる場所ってあるかしら？",
         "MessageKR": "혹시 이 근처에 증명 사진을 찍을 만한 곳이 없을까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這附近有沒有可以拍證件照的地方呢？",
+        "MessageEN": "Do you know somewhere I could get my ID photo taken?"
     },
     {
         "MessageId": 101400320,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "近くに写真館はなかったような……",
         "MessageKR": "근처에 사진관은 없는 것 같은데……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "附近好像沒有照相館……",
+        "MessageEN": "Not that I know of..."
     },
     {
         "MessageId": 101400330,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "急にどうしたの？",
         "MessageKR": "갑자기 증명 사진은 왜?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼突然要拍證件照？",
+        "MessageEN": "What do you need a ID photo for?"
     },
     {
         "MessageId": 101400340,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "作戦に必要な証明書を新しく発行することになったんだけど",
         "MessageKR": "그게, 작전에 필요한 증명서를 새로 발급받아야 하는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為作戰需要重新申請一份證明文件",
+        "MessageEN": "I need to get this certification for a mission"
     },
     {
         "MessageId": 101400350,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "最新の証明写真が必要で……",
         "MessageKR": "최근에 찍은 증명 사진을 첨부해야 한다지 뭐야",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "然後得附上最近的證件照才行",
+        "MessageEN": "but I need a recent photo to attach to the application."
     },
     {
         "MessageId": 101400351,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "昔の写真が使えないのよ",
         "MessageKR": "그래서 SRT 학원 시절에 쓰던 증명 사진은 쓸 수가 없어서.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以SRT學園時期用的證件照不能用了",
+        "MessageEN": "The last one I took was when I was still in SRT."
     },
     {
         "MessageId": 101400360,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "証明写真ボックスを使ったら？",
         "MessageKR": "무인 사진기를 이용하는 건 어때?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "用證件快照機怎麼樣？",
+        "MessageEN": "How about using one of those self-service photo booths?"
     },
     {
         "MessageId": 101400370,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "証明写真ボックス？",
         "MessageKR": "무인 사진기?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "證件快照機？",
+        "MessageEN": "Self-service photo booths?"
     },
     {
         "MessageId": 101400380,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "うん。だいたい駅前にあるし",
         "MessageKR": "응. 역 앞에 증명 사진을 찍을 수 있는 무인 사진기가 있어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，車站前有個可以拍證件照的證件快照機",
+        "MessageEN": "They have them in most stations these days."
     },
     {
         "MessageId": 101400390,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "いつでも利用できるし、行ってみたら？",
         "MessageKR": "아무 때나 이용할 수 있으니까 써보는 게 어때?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那是24小時營業的，要不要試試看？",
+        "MessageEN": "They're 24/7, so you can go whenever you want!"
     },
     {
         "MessageId": 101400400,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "証明写真ボックスはちょっと",
         "MessageKR": "무인 사진기는 조금",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "證件快照機有點……",
+        "MessageEN": "Self-service photo booths are a bit.."
     },
     {
         "MessageId": 101400401,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "……",
         "MessageKR": "음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯……",
+        "MessageEN": "Mm"
     },
     {
         "MessageId": 101400402,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "しょうがないか",
         "MessageKR": "어쩔 수 없나",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "看來只能這樣了",
+        "MessageEN": "I guess that's my only option."
     },
     {
         "MessageId": 101400410,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "分かったわ。ありがとう",
         "MessageKR": "알겠어. 나중에 참고해 볼게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我知道了，我之後試試看",
+        "MessageEN": "All right, thanks, Sensei."
     },
     {
         "MessageId": 101390417,
@@ -207,7 +207,7 @@
         "ImagePath": "",
         "MessageJP": "クルミの絆イベントへ",
         "MessageKR": "쿠루미의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往胡桃的羈絆劇情",
+        "MessageEN": "Go to Kurumi's Bond Story"
     }
 ]

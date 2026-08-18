@@ -3,8 +3,8 @@
         "CharacterId": 16020,
         "MessageJP": "オトギ",
         "MessageKR": "오토기",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "御伽",
+        "MessageEN": "Otogi"
     },
     {
         "MessageId": 160190190,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、ブラボーチャーリーが来た",
         "MessageKR": "선생님, 브라보 찰리가 왔어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，BravoCharlie來了",
+        "MessageEN": "Sensei, Bravo Charlie is here."
     },
     {
         "MessageId": 160200200,
@@ -38,9 +38,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "見られたらマズイ物は、片づけといたほうがいいよ",
-        "MessageKR": "혹시 신경 쓰이는 물건이 있으면 미리 치워두는 걸 추천할 게",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "혹시 신경 쓰이는 물건이 있으면 미리 치워두는 걸 추천할게",
+        "MessageTW": "如果有什麼讓你在意的東西，建議你先收好哦",
+        "MessageEN": "I recommend you hide anything that you don't want the authorities to find."
     },
     {
         "MessageId": 160200210,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ブラボーチャーリー……？",
         "MessageKR": "브라보 찰리……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "BravoCharlie……？",
+        "MessageEN": "Bravo Charlie...?"
     },
     {
         "MessageId": 160200210,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "……どういうこと？",
         "MessageKR": "……그게 무슨 뜻이야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……那是什麼意思？",
+        "MessageEN": "...What do you mean by that?"
     },
     {
         "MessageId": 160200220,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "あ",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah."
     },
     {
         "MessageId": 160200221,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ごめんごめん",
         "MessageKR": "미안",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "抱歉",
+        "MessageEN": "I'm sorry."
     },
     {
         "MessageId": 160200222,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "うっかり音声コード使っちゃった",
         "MessageKR": "소대원들끼리 쓰는 속어를 무심코 썼네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不小心用了我們小隊成員之間的暗號了",
+        "MessageEN": "I defaulted to code without thinking."
     },
     {
         "MessageId": 160200230,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "ブラボーはB、チャーリーはCを意味するんだけど",
         "MessageKR": "브라보 찰리는 음성 기호로 B, C 를 의미 하는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "BravoCharlie在語音字母裡是代表B和C的意思",
+        "MessageEN": "\"Bravo\" and \"Charlie\" stand for B and C in the phonetic alphabet."
     },
     {
         "MessageId": 160200231,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "私たちの間では、Bean Counterをコードで呼んでるんだぁ",
         "MessageKR": "우리끼리는 보통 Bean Counter 라는 말을 입에 담기 싫어서 대신 쓰곤 하거든.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我們之間通常不想把BeanCounter這個詞掛在嘴邊，就會用這個來代替",
+        "MessageEN": "And we use it to refer to the Bean Counter?"
     },
     {
         "MessageId": 160200240,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "豆を数える人？",
         "MessageKR": "콩 세는 사람?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "數豆子的人？",
+        "MessageEN": "Bean Counter?"
     },
     {
         "MessageId": 160200250,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "そのくらい厳しい財務担当者って意味",
         "MessageKR": "응, 재무 전문가를 놀리는 말이지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，是用來揶揄財務專家的說法",
+        "MessageEN": "Yeah, it's a word for mocking financial officers."
     },
     {
         "MessageId": 160200251,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "えーっと",
         "MessageKR": "그러니까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個",
+        "MessageEN": "So..."
     },
     {
         "MessageId": 160200252,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "つまり……",
         "MessageKR": "음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "也就是說",
+        "MessageEN": "Um"
     },
     {
         "MessageId": 160200260,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "行政委員会の財務室長が来たよ",
         "MessageKR": "행정위원회의 재무실장이 온 것 같아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "行政委員會的財務室長好像來了",
+        "MessageEN": "The Chief of Finance from the Board of Administration is here."
     },
     {
         "MessageId": 160200270,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "先に言ってよ！",
         "MessageKR": "그걸 먼저 말해줬어야지!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這種事你應該先說啊！",
+        "MessageEN": "PLEASE LEAD WITH THAT!"
     },
     {
         "MessageId": 160190277,
@@ -207,7 +207,7 @@
         "ImagePath": "",
         "MessageJP": "オトギの絆イベントへ",
         "MessageKR": "오토기의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往御伽的羈絆劇情",
+        "MessageEN": "Go to Otogi's Bond Story"
     }
 ]

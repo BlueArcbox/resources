@@ -3,8 +3,8 @@
         "CharacterId": 10140,
         "MessageJP": "クルミ",
         "MessageKR": "쿠루미",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "胡桃",
+        "MessageEN": "Kurumi"
     },
     {
         "MessageId": 101390160,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "眠い……",
         "MessageKR": "피곤해……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好累……",
+        "MessageEN": "I'm tired..."
     },
     {
         "MessageId": 101400170,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "昨日の夜作戦があったの？",
         "MessageKR": "어젯밤에 작전이라도 있었던 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "昨晚是有什麼作戰嗎？",
+        "MessageEN": "Did you have a late-night operation?"
     },
     {
         "MessageId": 101400180,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ううん",
         "MessageKR": "아니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒有",
+        "MessageEN": "No"
     },
     {
         "MessageId": 101400190,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "面白そうなショート動画を見てたら",
         "MessageKR": "사실은 자기 전에 SNS에 흥미로운 숏폼 동영상이 올라와서 봤는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "其實是睡前在SNS上看到有趣的短影音",
+        "MessageEN": "I was watching some shorts on social media before I fell asleep."
     },
     {
         "MessageId": 101400191,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "夜ふかししちゃって……",
         "MessageKR": "생각없이 보다 보니 시간이 너무 흘러서 잘 타이밍을 놓치고 말았어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不小心看了太久沒注意時間，結果就錯過了睡覺的時機",
+        "MessageEN": "I lost track of time and ended up staying up too late."
     },
     {
         "MessageId": 101400200,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "見てると時間の流れが速く感じちゃうよね",
         "MessageKR": "확실히 숏폼 영상을 보면 시간이 빨리 가지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "看短影音的時候，時間確實會過得很快呢",
+        "MessageEN": "Those short-form videos will get you!"
     },
     {
         "MessageId": 101400200,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "長い動画より中毒性があるというか",
         "MessageKR": "긴 영상보다 중독적인 것 같아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "感覺比長影片還容易讓人上癮",
+        "MessageEN": "They're weirdly more addicting than long videos..."
     },
     {
         "MessageId": 101400210,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "そうなの",
         "MessageKR": "맞아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒錯",
+        "MessageEN": "True."
     },
     {
         "MessageId": 101400220,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "最近はライフハック系の動画を見ているんだけど",
         "MessageKR": "최근에는 Life Hack 이라고 해서 일상에서 쓸 수 있는 간단한 팁 영상을 자주 보는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我最近常看一種叫Life Hack，\n能用在日常生活中的簡單小技巧影片",
+        "MessageEN": "I've been watching these \"Life Hack\" videos, where they teach you little tips for everyday use."
     },
     {
         "MessageId": 101400221,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "コツを謳うわりには、変な道具を使う動画ばっかでね",
         "MessageKR": "요새는 굳이 팁이 필요없는 단순 작업에도 팁이랍시고, 이상한 도구를 쓰는 영상이 늘어난 것 같아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過最近好像越來越多影片，明明只是簡單的作業卻硬要包裝成生活小技巧，還用上一些莫名其妙的工具",
+        "MessageEN": "But so many of them call it an easy tip, but they're using obscure tools for the most simple tasks?"
     },
     {
         "MessageId": 101400230,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "まあ、ショート動画に効率の悪さを語るのも変だけど",
         "MessageKR": "뭐 숏폼 영상을 보며 비효율을 논하는 것도 우습지만",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "但是說實話，邊看短影音邊談論效率低落也挺好笑的",
+        "MessageEN": "I guess I can't harp about inefficiency when I was doom scrolling all night."
     },
     {
         "MessageId": 101400240,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "でも普通の道具をいかに使いこなして困難を乗り越えるか考えるのはワクワクするよ",
         "MessageKR": "그래도 평범한 물건으로 난관을 헤쳐나가는 건 언제나 흥미롭지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過用平凡的物品來克服難關，確實很有意思呢",
+        "MessageEN": "It's fun to see people create solutions out of ordinary objects!"
     },
     {
         "MessageId": 101400250,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "知恵袋の活用というか",
         "MessageKR": "뭔가 맥O이버 같기도 하고……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總覺得有點像馬○先……",
+        "MessageEN": "Sounds like MacXver..."
     },
     {
         "MessageId": 101400260,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "知恵袋？なにそれ？",
         "MessageKR": "맥O이버? 그게 뭐야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "馬○先？那是什麼？",
+        "MessageEN": "MacXver? What's that?"
     },
     {
         "MessageId": 101400270,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "うーん……説明すると長くなるけど",
         "MessageKR": "음…… 설명하자면 길어지는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯……這有點難說明",
+        "MessageEN": "Um... It'd be a long story."
     },
     {
         "MessageId": 101400280,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "ライフハックの代名詞のようなものだよ",
         "MessageKR": "Life Hack의 대명사 같은 거야",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "算是Life Hack的代名詞之類的",
+        "MessageEN": "To put it simply, it's like the definition of a life hack."
     },
     {
         "MessageId": 101400290,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "？",
         "MessageKR": "?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "？",
+        "MessageEN": "?"
     },
     {
         "MessageId": 101400291,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "大人はたまに変な流行語を使うのね",
         "MessageKR": "어른들은 가끔 이상한 유행어를 쓴다니까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "大人有時候真的會用一些奇怪的流行語呢",
+        "MessageEN": "You adults have the weirdest slang."
     },
     {
         "MessageId": 101390297,
@@ -243,7 +243,7 @@
         "ImagePath": "",
         "MessageJP": "クルミの絆イベントへ",
         "MessageKR": "쿠루미의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往胡桃的羈絆劇情",
+        "MessageEN": "Go to Kurumi's Bond Story"
     }
 ]

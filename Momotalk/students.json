@@ -10938,13 +10938,17 @@
             "/api/Avatars/Fandom/Niko_Icon.png"
         ],
         "Name": {
+            "en": "Niko",
             "jp": "ニコ",
             "kr": "니코",
+            "tw": "仁子",
             "zh": "妮可"
         },
         "Bio": {
+            "en": "Please order through the FOX EATS app",
             "jp": "＜FOX EATS＞ご利用の場合はアプリから",
             "kr": "<FOX EATS> 주문은 앱을 이용해 주세요",
+            "tw": "「FOX EATS」的訂購請使用APP",
             "zh": "如需使用＜FOX EATS＞服务，请通过 App 预约。"
         },
         "Nickname": [
@@ -10966,13 +10970,17 @@
             "/api/Avatars/Fandom/Kurumi_Icon.png"
         ],
         "Name": {
+            "en": "Kurumi",
             "jp": "クルミ",
             "kr": "쿠루미",
+            "tw": "胡桃",
             "zh": "胡桃"
         },
         "Bio": {
+            "en": "I won't turn around",
             "jp": "過去は振り返らない主義",
             "kr": "뒤돌아보지 않을 거야",
+            "tw": "我是不會回頭的",
             "zh": "一往无前主义"
         },
         "Nickname": [
@@ -10993,13 +11001,17 @@
             "/api/Avatars/Fandom/Otogi_Icon.png"
         ],
         "Name": {
+            "en": "Otogi",
             "jp": "オトギ",
             "kr": "오토기",
+            "tw": "御伽",
             "zh": "音葵"
         },
         "Bio": {
+            "en": "Loneliness in the Crowd",
             "jp": "群衆の中の孤独",
             "kr": "군중 속의 고독",
+            "tw": "群眾中的孤獨",
             "zh": "群众中的孤独"
         },
         "Nickname": [

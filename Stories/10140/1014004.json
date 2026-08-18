@@ -3,8 +3,8 @@
         "CharacterId": 10140,
         "MessageJP": "クルミ",
         "MessageKR": "쿠루미",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "胡桃",
+        "MessageEN": "Kurumi"
     },
     {
         "MessageId": 101390420,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "最近リリースされたスマホRPGをしてるんだけど",
         "MessageKR": "최근에 출시된 스마트폰 RPG를 플레이하고 있는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我最近在玩一款剛上市的RPG手遊",
+        "MessageEN": "I've been playing this new mobile RPG game."
     },
     {
         "MessageId": 101400430,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "このゲーム、タンクの能力が低すぎる気がするの",
         "MessageKR": "이 게임, 방패병의 능력치가 너무 나쁜 것 같아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這個遊戲，盾兵的能力值好像太差了",
+        "MessageEN": "And the stats balance for shield tanks is the worst."
     },
     {
         "MessageId": 101400431,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "しかもモンクよりDPSが低いのおかしくない？",
         "MessageKR": "다른 건 몰라도 방패병의 공격력이 수도승보다 낮은 건 너무 하지 않아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "別的職業就算了，攻擊力比武僧還低也太過分了吧？",
+        "MessageEN": "I can accept most of it, but why do we have less attack than a MONK?"
     },
     {
         "MessageId": 101400440,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "ゲームバランスじゃない？",
         "MessageKR": "캐릭터 밸런스 때문에 그런 게 아닐까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "會不會是因為角色平衡的關係啊？",
+        "MessageEN": "Aren't they trying to balance for the high DEF?"
     },
     {
         "MessageId": 101400440,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "盾は防御ってイメージだし",
         "MessageKR": "방패는 방어에 치중된 장비라는 인식도 있고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "也有人認為盾牌是偏重防禦的裝備",
+        "MessageEN": "I mean, people THINK that shields are just for defense."
     },
     {
         "MessageId": 101400450,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "でも",
         "MessageKR": "하지만",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過",
+        "MessageEN": "But"
     },
     {
         "MessageId": 101400451,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "盾は防御以外にも使えるのよ",
         "MessageKR": "방패는 단순한 방어구가 아니라고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "盾牌可不是單純的防具哦",
+        "MessageEN": "Shields aren't just part of your armor."
     },
     {
         "MessageId": 101400460,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "場合によっては武器より恐ろしくなるわ",
         "MessageKR": "쓰는 사람에 따라서는 어지간한 무기보다 위협적이거든?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "根據使用者的不同，也能變得比一般武器還有威脅性呢",
+        "MessageEN": "Used correctly, they're more lethal than most weapons."
     },
     {
         "MessageId": 101400470,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "盾が武器になる……？",
         "MessageKR": "방패가 무기가 된다고……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "盾牌能變成武器……？",
+        "MessageEN": "Really...?"
     },
     {
         "MessageId": 101400480,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "一応、鉄の塊だもの",
         "MessageKR": "일단은 거대한 쇳덩어리나 다름없으니까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "畢竟那基本上就是一塊巨大的鐵塊嘛",
+        "MessageEN": "It's a giant chunk of metal!"
     },
     {
         "MessageId": 101400481,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "私が使ってるのだって、数十kgくらいはあるのよ",
         "MessageKR": "내가 쓰는 방패만 하더라도 수십 kg이 훌쩍 넘는 걸",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "光是我用的盾牌就有幾十kg了呢",
+        "MessageEN": "My shield weights over tens of kilograms, I'll have you know."
     },
     {
         "MessageId": 101400490,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "それをずっと片手で持ち歩いてたの！？",
         "MessageKR": "그걸 한 손으로 들고 다녔던 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你都是單手拿著它走動的嗎！？",
+        "MessageEN": "Wait! Don't you carry it with just one hand?!"
     },
     {
         "MessageId": 101400500,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "？",
         "MessageKR": "?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "？",
+        "MessageEN": "?"
     },
     {
         "MessageId": 101400510,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "当然でしょ。銃も持たなきゃだし",
         "MessageKR": "당연하지. 다른 한 손에는 총을 들고 있잖아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那當然啊，我另一隻手不是還拿著槍嗎？",
+        "MessageEN": "Well, yes? My other hand is for my gun."
     },
     {
         "MessageId": 101400520,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "たしかにタンクって強いね……",
         "MessageKR": "확실히 방패병은 강하구나……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "盾兵果然很強呢……",
+        "MessageEN": "Wow... Tanks are strong..."
     },
     {
         "MessageId": 101390527,
@@ -207,7 +207,7 @@
         "ImagePath": "",
         "MessageJP": "クルミの絆イベントへ",
         "MessageKR": "쿠루미의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往胡桃的羈絆劇情",
+        "MessageEN": "Go to Kurumi's Bond Story"
     }
 ]

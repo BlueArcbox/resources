@@ -3,8 +3,8 @@
         "CharacterId": 10139,
         "MessageJP": "ニコ",
         "MessageKR": "니코",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "仁子",
+        "MessageEN": "Niko"
     },
     {
         "MessageId": 101380230,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生に質問です",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 101390240,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "「失敗する可能性のあることは、必ず失敗する」という格言をご存じでしょうか？",
         "MessageKR": "혹시 <잘못될 가능성이 있는 문제는 반드시 잘못된다>는 격언을 알고 계시나요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "您是否聽過「可能出錯的問題就必定會出錯」……這句格言呢？",
+        "MessageEN": "Have you heard the adage, \"Anything that can go wrong, will go wrong\"?"
     },
     {
         "MessageId": 101390250,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "マーフィーの法則のだね",
         "MessageKR": "머피의 법칙, 말이구나.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你說的是墨菲定律，對吧",
+        "MessageEN": "You mean Murphy's Law."
     },
     {
         "MessageId": 101390250,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "仕事をしていると、よく耳にするよ",
         "MessageKR": "일을 하다 보면 자주 듣곤 하지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "工作的時候經常會聽到呢",
+        "MessageEN": "I hear it at work a lot."
     },
     {
         "MessageId": 101390260,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "はい。意外と共感する人が多いみたいで",
         "MessageKR": "네. 꽤나 많은 사람들이 그 말에 공감하더라고요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是的，許多人都對這句話深有同感呢",
+        "MessageEN": "Yes. I think most people regard it as true."
     },
     {
         "MessageId": 101390261,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "私も昔、毎日やっていた装備点検をうっかり抜いてしまった日があって……",
         "MessageKR": "저도 예전에 매일 하던 장비 점검을 실수로 빠트린 적이 있었는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我曾經也因為粗心大意，疏忽了每天都要執行的裝備檢查",
+        "MessageEN": "Once, I forgot to do our daily equipment checks..."
     },
     {
         "MessageId": 101390270,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "よりによってその日に限って、現場でトラブルが起きてしまって",
         "MessageKR": "공교롭게도 그 날 안전 사고가 일어나는 바람에 애를 먹은 기억이 있어요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "偏偏那天就發生了安全事故，讓我吃了不少苦頭，至今記憶猶新",
+        "MessageEN": "And on THAT day, an accident happened, and I got in trouble."
     },
     {
         "MessageId": 101390271,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "なんで今日だけ……？って、思わず空を仰いじゃいました",
         "MessageKR": "하필이면 실수한 날 사고가 일어나다니\\~ 하고 말이죠.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼偏偏就在我出錯的那天發生了事故呢",
+        "MessageEN": "I seriously couldn't believe a safety failure occurred on the ONE day I forgot."
     },
     {
         "MessageId": 101390280,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "私も似たようなことが何度かあったな",
         "MessageKR": "나도 그런 경험이 꽤 있었지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我也有過不少這樣的經驗呢",
+        "MessageEN": "Don't worry, it happens to the best of us. Even me!"
     },
     {
         "MessageId": 101390280,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "偶然って、本当に意地悪なタイミングで来るんだよね",
         "MessageKR": "우연이란 참 얄궃은 타이밍에 일어난다니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "巧合總是會在令人哭笑不得的時機發生啊",
+        "MessageEN": "That's why they say there's no such thing as a coincidence!"
     },
     {
         "MessageId": 101390290,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "その時ちょうど、関連の本を読んで知ったんですけど……",
         "MessageKR": "그 때, 관련된 책을 읽다가 알게 되었는데요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那時候，我讀了相關的書籍才知道",
+        "MessageEN": "But I read this recently in a book:"
     },
     {
         "MessageId": 101390291,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "実はこういう法則って、良い出来事より悪い出来事のほうが記憶に残りやすいから起きる現象らしいんです",
         "MessageKR": "사실 이런 법칙은 좋은 기억보다 나쁜 기억을 더 잘 기억하기 때문에 발생하는 일이래요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "其實這種定律，只是因為人們對負面記憶比正面記憶的印象更深刻",
+        "MessageEN": "It seems this way, because we tend to remember bad memories over the good ones."
     },
     {
         "MessageId": 101390300,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "失敗しても何も起きなかった日のことを記憶していないといいますか",
         "MessageKR": "실수를 해도 아무 일도 벌어지지 않았으면 기억에서 지워버린다는 거죠.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就算出了錯，只要沒發生任何事，就會從記憶中被抹去",
+        "MessageEN": "So the times you make a mistake and nothing happens, you're less likely to remember it."
     },
     {
         "MessageId": 101390310,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "ちゃんと科学的な理由があったんだね",
         "MessageKR": "과연, 과학적인 이유가 있었구나.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原來如此，原來是有科學根據的呢",
+        "MessageEN": "Ah! So there's a scientific explanation."
     },
     {
         "MessageId": 101390320,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "それってなんだか少しもったいない気もするな……",
         "MessageKR": "그래도 조금 아쉬운 걸……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過還是有點可惜呢……",
+        "MessageEN": "Still, it's a bit of a shame..."
     },
     {
         "MessageId": 101390320,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "どうせなら、いい思い出の方を記憶したいのに",
         "MessageKR": "기왕이면 좋은 기억이 더 오래 남으면 좋을텐데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果可以的話，要是正面的記憶能留得更久就好了",
+        "MessageEN": "I wish good memories lasted longer."
     },
     {
         "MessageId": 101390330,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "そうですか？私は、悪い記憶が残ったほうが良いと思います",
         "MessageKR": "그래도 저는 나쁜 상황을 기억하는 게 더 좋은 것 같아요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過我覺得記住負面的記憶反而更好",
+        "MessageEN": "But I think there's good reason for us to remember the bad ones."
     },
     {
         "MessageId": 101390331,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "失敗をちゃんと次に生かせますから……ね？",
         "MessageKR": "그래야 실수를 교훈 삼아 다음엔 더 잘 할 수 있을테니까요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為這樣可以把失誤當作教訓，下次才能做得更好嘛",
+        "MessageEN": "You can learn from your mistakes and do better next time that way."
     },
     {
         "MessageId": 101380337,
@@ -243,7 +243,7 @@
         "ImagePath": "",
         "MessageJP": "ニコの絆イベントへ",
         "MessageKR": "니코의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往仁子的羈絆劇情",
+        "MessageEN": "Go to Niko's Bond Story"
     }
 ]
