@@ -3,8 +3,8 @@
         "CharacterId": 20058,
         "MessageJP": "エリカ",
         "MessageKR": "에리카",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "繪里香",
+        "MessageEN": "Erika"
     },
     {
         "MessageId": 200570370,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "暇な時間ある？",
         "MessageKR": "선생님 혹시",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，那個",
+        "MessageEN": "Sensei..."
     },
     {
         "MessageId": 200580380,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "会えたら嬉しいんだけど",
         "MessageKR": "시간 언제 괜찮으려나?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你什麼時候有空呢？",
+        "MessageEN": "When's the next time you're free?"
     },
     {
         "MessageId": 200580390,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "何かあったの？",
         "MessageKR": "무슨 일이 있나 본데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "看來是發生了什麼事呢",
+        "MessageEN": "Why? Do you need something?"
     },
     {
         "MessageId": 200580400,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "んー",
         "MessageKR": "음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "Um"
     },
     {
         "MessageId": 200580401,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと相談したいことがあって",
         "MessageKR": "나 요즘",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我最近",
+        "MessageEN": "Well actually..."
     },
     {
         "MessageId": 200580410,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "話せたらなーと",
         "MessageKR": "상담하고 싶은 게 있어서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有件事想找你商量",
+        "MessageEN": "I've been wanting to ask for your advice about something."
     },
     {
         "MessageId": 200580420,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "今からとかどうかな？",
         "MessageKR": "좋아, 그럼 지금 볼까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好啊，那現在見個面吧",
+        "MessageEN": "Then I'm free right now."
     },
     {
         "MessageId": 200580430,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "今から！？",
         "MessageKR": "지금?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在！？",
+        "MessageEN": "Right now?!"
     },
     {
         "MessageId": 200570447,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "エリカの絆イベントへ",
         "MessageKR": "에리카의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往繪里香的羈絆劇情",
+        "MessageEN": "Go to Erika's Bond Story"
     },
     {
         "MessageId": 200580440,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "友達にも言ってみようかな？",
         "MessageKR": "친구들에게도 말해볼까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要不要也跟朋友們說說看",
+        "MessageEN": "Should I tell my friends too?"
     },
     {
         "MessageId": 200580450,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "たまには一人の時間も必要かもって",
         "MessageKR": "가끔 혼자만의 시간이 필요하다는 거",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我偶爾也需要獨處這件事",
+        "MessageEN": "That I just need some \"me\" time every once in a while?"
     },
     {
         "MessageId": 200580460,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "んー、でもなんか",
         "MessageKR": "음 뭔가",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯……總覺得",
+        "MessageEN": "I just kinda feel like"
     },
     {
         "MessageId": 200580461,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "私のキャラと違う気がするかな",
         "MessageKR": "내 이미지랑 안 어울릴까봐",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好像跟我的形象不太搭",
+        "MessageEN": "that's not how they see me. As a person."
     },
     {
         "MessageId": 200580470,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "エリカってキャラ作ってたんだ？",
         "MessageKR": "에리카 쨩, 이미지 만들고 있었던 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "繪里香醬，原來你有在塑造形象啊？",
+        "MessageEN": "Erika, have you been working on improving your public image?"
     },
     {
         "MessageId": 200580480,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "……",
         "MessageKR": "……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……",
+        "MessageEN": "..."
     },
     {
         "MessageId": 200580490,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "そうだったんだ！？",
         "MessageKR": "에리카 쨩 그랬던 거야\\~?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原來是這樣啊～？繪里香醬～",
+        "MessageEN": "Is that a yes, Erika?"
     },
     {
         "MessageId": 200580500,
@@ -219,7 +219,7 @@
         "ImagePath": "",
         "MessageJP": "意地悪な人",
         "MessageKR": "못됐어 진짜",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你真的很壞耶",
+        "MessageEN": "You're so mean."
     }
 ]

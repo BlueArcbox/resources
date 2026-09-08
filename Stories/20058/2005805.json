@@ -3,8 +3,8 @@
         "CharacterId": 20058,
         "MessageJP": "エリカ",
         "MessageKR": "에리카",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "繪里香",
+        "MessageEN": "Erika"
     },
     {
         "MessageId": 200570510,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、今日の空見た？",
         "MessageKR": "선생님 오늘 하늘 봤어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，你有看到今天的天空嗎？",
+        "MessageEN": "Sensei, have you seen the sky today?"
     },
     {
         "MessageId": 200580520,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "見れてないけど、どうかした？",
         "MessageKR": "왜? 못 봤어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼了？沒有耶",
+        "MessageEN": "No, why?"
     },
     {
         "MessageId": 200580520,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "いま地下鉄に乗ってて",
         "MessageKR": "지금은 지하철이라",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在在地鐵裡",
+        "MessageEN": "I'm in the subway right now."
     },
     {
         "MessageId": 200580530,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "すごい綺麗なんだ",
         "MessageKR": "엄\\~청 예쁘거든",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "超～級漂亮的哦",
+        "MessageEN": "It's suuuperrr pretty."
     },
     {
         "MessageId": 200580531,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "外出たらちょっと見てみて",
         "MessageKR": "밖에 나오면 한번 올려다봐",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "出去之後抬頭看一下",
+        "MessageEN": "Go check it out later!"
     },
     {
         "MessageId": 200580540,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "絶対感動するから",
         "MessageKR": "분명 감동할 거야",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "一定會很感動的",
+        "MessageEN": "I'm sure you'll love it."
     },
     {
         "MessageId": 200580550,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "信じるからね？",
         "MessageKR": "믿어본다?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我相信你囉？",
+        "MessageEN": "Maybe I'll just take your word for it..."
     },
     {
         "MessageId": 200580560,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "いやいや笑",
         "MessageKR": "ㅋㅋㅋ아니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哈哈哈",
+        "MessageEN": "lol"
     },
     {
         "MessageId": 200580561,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "こんなことで嘘つかないから！",
         "MessageKR": "이런 걸로 속이겠냐고!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我才不會因為這種事說謊呢！",
+        "MessageEN": "I'm not lying about the SKY okay?!"
     },
     {
         "MessageId": 200580570,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "今ゲヘナに向かってるとこなんだ",
         "MessageKR": "마침 게헨나 가는 중이거든",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我正好在去格黑娜的路上哦",
+        "MessageEN": "I'm actually on my way to Gehenna right now."
     },
     {
         "MessageId": 200580580,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "えっ！？",
         "MessageKR": "어??",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦！？",
+        "MessageEN": "Oh??"
     },
     {
         "MessageId": 200570597,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "エリカの絆イベントへ",
         "MessageKR": "에리카의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往繪里香的羈絆劇情",
+        "MessageEN": "Go to Erika's Bond Story"
     },
     {
         "MessageId": 200580590,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "今日は穏やかな一日だったね",
         "MessageKR": "오늘은 아주 평화로웠지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天非常平靜呢",
+        "MessageEN": "Wasn't it nice and peaceful today?"
     },
     {
         "MessageId": 200580600,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "そうだね",
         "MessageKR": "그러게 말이야",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我也有同感",
+        "MessageEN": "It really was."
     },
     {
         "MessageId": 200580610,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "私はあの後から",
         "MessageKR": "나는 이제 평화로운지 아닌지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然我現在已經分不清",
+        "MessageEN": "Although I don't really know"
     },
     {
         "MessageId": 200580611,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと、落ち着かないんだけどね",
         "MessageKR": "알 수 없게 되어버렸지만 말야",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "自己算不算平靜就是了",
+        "MessageEN": "if I can say it's peaceful anymore..."
     },
     {
         "MessageId": 200580620,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "まあいいや",
         "MessageKR": "아무튼",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總之",
+        "MessageEN": "Anyway"
     },
     {
         "MessageId": 200580621,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "先生に喜んでもらえたならよかった",
         "MessageKR": "선생님이 만족했다면 됐어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只要老師滿意就好",
+        "MessageEN": "As long as you're good, I'm good, Sensei."
     },
     {
         "MessageId": 200580630,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "エリカと見る空、すごく綺麗だったよ",
         "MessageKR": "에리카의 하늘 좋더라",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "繪里香的天空很棒呢",
+        "MessageEN": "I really enjoyed Erika's sky."
     },
     {
         "MessageId": 200580640,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "また一緒に行こうね",
         "MessageKR": "다음에도 같이 갈까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下次也一起去吧",
+        "MessageEN": "Let's go again some day."
     },
     {
         "MessageId": 200580650,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "うう",
         "MessageKR": "ㅓ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦",
+        "MessageEN": "A"
     },
     {
         "MessageId": 200580651,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "あーー",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊啊",
+        "MessageEN": "Ah."
     },
     {
         "MessageId": 200580652,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "ほんとさ",
         "MessageKR": "진짜ㅏ ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真的",
+        "MessageEN": "Srsly "
     },
     {
         "MessageId": 200580653,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "またそーやってーーー",
         "MessageKR": "이런 거ㅓ어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "實在是吼",
+        "MessageEN": "Something like this..."
     },
     {
         "MessageId": 200580660,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "……",
         "MessageKR": "……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……",
+        "MessageEN": "..."
     },
     {
         "MessageId": 200580670,
@@ -327,8 +327,8 @@
         "ImagePath": "",
         "MessageJP": "うん",
         "MessageKR": "응",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "Yeah"
     },
     {
         "MessageId": 200580680,
@@ -339,7 +339,7 @@
         "ImagePath": "",
         "MessageJP": "また一緒に行こうね\u200b",
         "MessageKR": "다음에도 같이",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下次也一起去吧\u200b",
+        "MessageEN": "Let's go together next time too."
     }
 ]

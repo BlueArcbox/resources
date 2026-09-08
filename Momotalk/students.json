@@ -11032,13 +11032,17 @@
             "/api/Avatars/Fandom/Erika_Icon.png"
         ],
         "Name": {
+            "en": "Erika",
             "jp": "エリカ",
             "kr": "에리카",
+            "tw": "繪里香",
             "zh": "绘里香"
         },
         "Bio": {
+            "en": "(ᐡ - ᐡ)",
             "jp": "(• - •)",
             "kr": "(• - •)",
+            "tw": "(ᐡ - ᐡ)",
             "zh": "(• - •)"
         },
         "Nickname": [
@@ -11379,5 +11383,57 @@
             "ItemId": 16014,
             "ItemType": "水着"
         }
+    },
+    {
+        "Id": 10149,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10149.webp"
+        ],
+        "Name": {
+            "jp": "ココロ",
+            "kr": "코코로",
+            "zh": "心"
+        },
+        "Bio": {
+            "jp": "Semper Paratus",
+            "kr": "Semper Paratus",
+            "zh": "Semper Paratus"
+        },
+        "Nickname": [
+            "Kokoro"
+        ],
+        "Birthday": "6/11",
+        "Age": "16歳",
+        "School": "Odyssey",
+        "Club": "DivingClub",
+        "Star": 3,
+        "Released": true,
+        "Related": null
+    },
+    {
+        "Id": 10150,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10150.webp"
+        ],
+        "Name": {
+            "jp": "コトネ",
+            "kr": "코토네",
+            "zh": "琴音"
+        },
+        "Bio": {
+            "jp": "広く、さらに深い海へ",
+            "kr": "더 넓고 더 깊은 바다로",
+            "zh": "向着更广阔，更深的海"
+        },
+        "Nickname": [
+            "Kotone"
+        ],
+        "Birthday": "10/16",
+        "Age": "16歳",
+        "School": "Odyssey",
+        "Club": "DivingClub",
+        "Star": 3,
+        "Released": true,
+        "Related": null
     }
 ]

@@ -3,8 +3,8 @@
         "CharacterId": 20058,
         "MessageJP": "エリカ",
         "MessageKR": "에리카",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "繪里香",
+        "MessageEN": "Erika"
     },
     {
         "MessageId": 200570010,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "やっほ、先生",
         "MessageKR": "요 선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呀齁，老師",
+        "MessageEN": "Yo, Sensei."
     },
     {
         "MessageId": 200580020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "エリカであってる？",
         "MessageKR": "에리카인가",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是繪里香，對吧",
+        "MessageEN": "Is this Erika?"
     },
     {
         "MessageId": 200580020,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "こんにちは",
         "MessageKR": "안녕, 에리카",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗨，繪里香",
+        "MessageEN": "Hi, Erika!"
     },
     {
         "MessageId": 200580030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "あ、良かった",
         "MessageKR": "앗",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah"
     },
     {
         "MessageId": 200580031,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "登録してくれてたんだ",
         "MessageKR": "내 번호 저장했었네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原來你有存我的號碼啊",
+        "MessageEN": "You saved my number"
     },
     {
         "MessageId": 200580040,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "なんか嬉しいかも笑",
         "MessageKR": "왠지 고마운걸ㅋㅋㅋ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "莫名有點感動www",
+        "MessageEN": "Thank you lol"
     },
     {
         "MessageId": 200570057,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "エリカの絆イベントへ",
         "MessageKR": "에리카의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往繪里香的羈絆劇情",
+        "MessageEN": "Go to Erika's Bond Story"
     },
     {
         "MessageId": 200580050,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "今日はごめんね",
         "MessageKR": "오늘 쇼핑",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天逛街",
+        "MessageEN": "About shopping today..."
     },
     {
         "MessageId": 200580051,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "先生はあまり興味ないのに",
         "MessageKR": "선생님은 별로 관심 없는데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "明明都是老師沒什麼興趣的東西",
+        "MessageEN": "I hope I didn't drag you around too much..."
     },
     {
         "MessageId": 200580060,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "連れ回しちゃったかもだけど……",
         "MessageKR": "내가 너무 끌고 다닌 거 아냐?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我是不是拉著你到處跑太久了？",
+        "MessageEN": "Especially if you weren't that interested"
     },
     {
         "MessageId": 200580070,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "全然。楽しかったよ！",
         "MessageKR": "나도 즐거웠어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我也很開心哦",
+        "MessageEN": "I had a lot of fun too!"
     },
     {
         "MessageId": 200580070,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "エリカの好み探しだね",
         "MessageKR": "에리카의 취향 공부",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "陪繪里香探索喜好",
+        "MessageEN": "I enjoyed learning more about your tastes!"
     },
     {
         "MessageId": 200580080,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "わお",
         "MessageKR": "우왓",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哇哦",
+        "MessageEN": "Whoa"
     },
     {
         "MessageId": 200580081,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "そんな風に言ってくれるなんて、ちょっと意外",
         "MessageKR": "그렇게까지 말해주네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒想到你會這麼說",
+        "MessageEN": "Thanks for saying that."
     },
     {
         "MessageId": 200580090,
@@ -195,7 +195,7 @@
         "ImagePath": "",
         "MessageJP": "楽しかった！ありがとね",
         "MessageKR": "아무튼 즐거웠어 덕분에!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總之我今天很開心，謝謝你！",
+        "MessageEN": "Well, I had a good time too."
     }
 ]

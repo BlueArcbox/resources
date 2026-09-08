@@ -3,8 +3,8 @@
         "CharacterId": 20058,
         "MessageJP": "エリカ",
         "MessageKR": "에리카",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "繪里香",
+        "MessageEN": "Erika"
     },
     {
         "MessageId": 200570260,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "あつーい。マジヤバくない？",
         "MessageKR": "오늘 엄청 더워",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哇，今天超熱的",
+        "MessageEN": "It's so hot today."
     },
     {
         "MessageId": 200580270,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "ね、今日やばいね",
         "MessageKR": "와 진짜 장난 아냐",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "對啊，真的很誇張",
+        "MessageEN": "Like, seriously."
     },
     {
         "MessageId": 200580280,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ほんと笑笑",
         "MessageKR": "ㅋㅋㅋ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "XDD",
+        "MessageEN": "lol"
     },
     {
         "MessageId": 200580290,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "外出る時は",
         "MessageKR": "밖에 나갈 일 있으면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果有事要出門",
+        "MessageEN": "Be careful if you go out today!"
     },
     {
         "MessageId": 200580291,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ちゃんと水分とるんだよ～！",
         "MessageKR": "수분 섭취 잘하고!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "記得好好補充水分！",
+        "MessageEN": "Make sure you stay hydrated!"
     },
     {
         "MessageId": 200570307,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "エリカの絆イベントへ",
         "MessageKR": "에리카의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往繪里香的羈絆劇情",
+        "MessageEN": "Go to Erika's Bond Story"
     },
     {
         "MessageId": 200580300,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "あ、そうだ",
         "MessageKR": "아 혹시 모르니까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，以防萬一",
+        "MessageEN": "Ah, just to be safe"
     },
     {
         "MessageId": 200580310,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "手を洗ったりした時はちゃんと絆創膏変えるんだよ",
         "MessageKR": "손 씻거나 하면 바로 갈아줘야 해",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果有洗手之類的話",
+        "MessageEN": "if you wash your hands, make sure to replace it."
     },
     {
         "MessageId": 200580311,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "雑菌繁殖しちゃうからね",
         "MessageKR": "밴드",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就要馬上換新的OK繃哦",
+        "MessageEN": "The bandage"
     },
     {
         "MessageId": 200580320,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "これ可愛いのに",
         "MessageKR": "하지만 귀여운데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可是這個很可愛耶",
+        "MessageEN": "It's so cute, though!!"
     },
     {
         "MessageId": 200580330,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "傷の治りが遅くなるからダメ",
         "MessageKR": "상처에 습기가 들어가면 안 좋아요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "傷口進水可不好哦",
+        "MessageEN": "Yeah, but you don't want moisture to get trapped inside."
     },
     {
         "MessageId": 200580340,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "てか、それ気に入ってくれたんだ？",
         "MessageKR": "근데 그거 마음에 들었나 보네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過看來你挺喜歡那個的嘛",
+        "MessageEN": "So, you like that stuff like that, huh?"
     },
     {
         "MessageId": 200580350,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "これどこで売ってるの？",
         "MessageKR": "이거 어디서 사?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這個是在哪裡買的？",
+        "MessageEN": "Where can I get my own??"
     },
     {
         "MessageId": 200580360,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "教えませーん",
         "MessageKR": "안 가르쳐줄 거야",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "才不告訴你",
+        "MessageEN": "Mmm... Not telling."
     },
     {
         "MessageId": 200580361,
@@ -195,7 +195,7 @@
         "ImagePath": "",
         "MessageJP": "また怪我しないでよ？",
         "MessageKR": "다치지 마!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "別再受傷啦！！",
+        "MessageEN": "So don't hurt yourself!!"
     }
 ]

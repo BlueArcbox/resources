@@ -3,8 +3,8 @@
         "CharacterId": 20058,
         "MessageJP": "エリカ",
         "MessageKR": "에리카",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "繪里香",
+        "MessageEN": "Erika"
     },
     {
         "MessageId": 200570100,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "前言ってたやつ、買えたよ！",
         "MessageKR": "저번에 말했던 거 샀다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我把上次說的那個買下來了！",
+        "MessageEN": "And I bought that thing I was telling you about."
     },
     {
         "MessageId": 200580110,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "お、よかった！",
         "MessageKR": "오 좋겠네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哦？有買到真是太好了",
+        "MessageEN": "Good for you!"
     },
     {
         "MessageId": 200580120,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "えへへ。これが欲しくて",
         "MessageKR": "이거 구한다고 D.U.를",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "為了買到那個",
+        "MessageEN": "I traveled literally all over"
     },
     {
         "MessageId": 200580121,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "D.U.のお店ぜーんぶみて回ったんだから！",
         "MessageKR": "완전 싹 돌았거든",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我把整個D.U.跑了一遍呢",
+        "MessageEN": "the D.U. to get my hands on it."
     },
     {
         "MessageId": 200580130,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "こんな時間まで？",
         "MessageKR": "이 늦은 시간까지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "到這麼晚？",
+        "MessageEN": "All the way until now?"
     },
     {
         "MessageId": 200580140,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "そうなんだよね。夢中になってたらこんな時間になっちゃった笑",
         "MessageKR": "맞아 어느새 시간이 이렇게",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "對啊，不知不覺就這個時間了",
+        "MessageEN": "Yeah. I didn't even realize what time it was."
     },
     {
         "MessageId": 200580141,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "夜ご飯食べる時間もなかったよ～",
         "MessageKR": "저녁도 안 먹었어ㅋㅋㅋ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "連晚餐都還沒吃www",
+        "MessageEN": "I skipped dinner and everything lolol"
     },
     {
         "MessageId": 200580150,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "私も！",
         "MessageKR": "나돈데!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我也是！",
+        "MessageEN": "I haven't eaten yet either!"
     },
     {
         "MessageId": 200580160,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "お、先生いまどこにいるの？",
         "MessageKR": "오 선생님 어딘데?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哦？老師你現在在哪？",
+        "MessageEN": "Oh? Where you at, Sensei?"
     },
     {
         "MessageId": 200580170,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "よかったら一緒にご飯食べない？",
         "MessageKR": "그럼 저녁 같이 먹을래?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要不要一起吃晚餐？",
+        "MessageEN": "Wanna grub with me?"
     },
     {
         "MessageId": 200570187,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "エリカの絆イベントへ",
         "MessageKR": "에리카의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往繪里香的羈絆劇情",
+        "MessageEN": "Go to Erika's Bond Story"
     },
     {
         "MessageId": 200580180,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "先生、今日もありがとね",
         "MessageKR": "선생님 오늘 즐거웠어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，我今天很開心",
+        "MessageEN": "Today was a blast, Sensei."
     },
     {
         "MessageId": 200580190,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "ご馳走してもらった上に送ってもらっちゃって……",
         "MessageKR": "저녁도 사주고 바래다주기까지 하다니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不只請我吃晚餐還送我回去",
+        "MessageEN": "You treated me out AND walked me home."
     },
     {
         "MessageId": 200580191,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "ちょっと優しすぎない？",
         "MessageKR": "너무 잘해주는 거 아냐?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "對我太好了吧？",
+        "MessageEN": "It's almost a little too chivalrous."
     },
     {
         "MessageId": 200580200,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "時間も遅いからね",
         "MessageKR": "학생에게는 좀 늦은 시간이었으니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "畢竟這個時間對學生來說太晚了",
+        "MessageEN": "It's dangerous to walk around so late at night."
     },
     {
         "MessageId": 200580210,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "まぁそれもそっか",
         "MessageKR": "아무래도 그렇지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯……確實是這樣",
+        "MessageEN": "Eh. That's fair."
     },
     {
         "MessageId": 200580211,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "ありがと",
         "MessageKR": "고마워",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝你",
+        "MessageEN": "Well, thanks."
     },
     {
         "MessageId": 200580220,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "今度は私が奢るね！",
         "MessageKR": "다음에는 내가 밥 살게!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下次換我請你吃飯！",
+        "MessageEN": "Next one's on me, okay?"
     },
     {
         "MessageId": 200580230,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "今度はトマトくれる？",
         "MessageKR": "토마토 줄 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你會把番茄給我嗎？",
+        "MessageEN": "Are you going to be giving me tomatoes?"
     },
     {
         "MessageId": 200580240,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "まだ引っ張ってるのそれ笑",
         "MessageKR": "아ㅋㅋㅋ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊哈哈哈",
+        "MessageEN": "Ah lol"
     },
     {
         "MessageId": 200580250,
@@ -267,7 +267,7 @@
         "ImagePath": "",
         "MessageJP": "ん～どうしよっかな？",
         "MessageKR": "글쎄\\~ 어떠려나!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這個嘛～該怎麼辦呢？",
+        "MessageEN": "You'll just have to find out!"
     }
 ]

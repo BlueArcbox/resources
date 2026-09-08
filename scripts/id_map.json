@@ -2266,6 +2266,32 @@
             false
         ]
     },
+    "10149": {
+        "kivo_id": 620,
+        "avatar": "https://static.kivo.wiki/images/students/渡海 心/original/Student_Portrait_CH0368_Collection.png",
+        "momotalk": "Semper Paratus",
+        "name_en": "Kokoro",
+        "name_jp": "ココロ",
+        "name_zh": "心",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
+    "10150": {
+        "kivo_id": 621,
+        "avatar": "https://static.kivo.wiki/images/students/渊上 琴音/original/Student_Portrait_CH0369_Collection.png",
+        "momotalk": "向着更广阔，更深的海",
+        "name_en": "Kotone",
+        "name_jp": "コトネ",
+        "name_zh": "琴音",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
     "13000": {
         "kivo_id": 24,
         "gamekee_id": 66752,
