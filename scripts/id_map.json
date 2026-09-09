@@ -3752,6 +3752,19 @@
             false
         ]
     },
+    "20061": {
+        "kivo_id": 546,
+        "avatar": "https://static.kivo.wiki/images/students/鬼怒川 霞/泳装/Student_Portrait_CH0328_Collection.png",
+        "momotalk": "",
+        "name_en": "Kasumi",
+        "name_jp": "カスミ（水着）",
+        "name_zh": "霞（泳装）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
     "23000": {
         "kivo_id": 10,
         "gamekee_id": 66274,

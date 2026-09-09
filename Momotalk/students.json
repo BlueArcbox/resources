@@ -11435,5 +11435,34 @@
         "Star": 3,
         "Released": true,
         "Related": null
+    },
+    {
+        "Id": 20061,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/20061.webp"
+        ],
+        "Name": {
+            "jp": "カスミ（水着）",
+            "kr": "카스미(수영복)",
+            "zh": "霞（泳装）"
+        },
+        "Bio": {
+            "jp": "温泉は人類による自らへの贈り物だ",
+            "kr": "온천은 인류가 스스로에게 선사한 선물이지.",
+            "zh": ""
+        },
+        "Nickname": [
+            "Kasumi"
+        ],
+        "Birthday": "5/24",
+        "Age": "16歳",
+        "School": "Gehenna",
+        "Club": "HotSpringsDepartment",
+        "Star": 3,
+        "Released": true,
+        "Related": {
+            "ItemId": 10078,
+            "ItemType": "水着"
+        }
     }
 ]
