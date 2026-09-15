@@ -3,8 +3,8 @@
         "CharacterId": 10141,
         "MessageJP": "ハルカ（ドレス）",
         "MessageKR": "하루카(드레스)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "遙香（禮服）",
+        "MessageEN": "Haruka (Dress)"
     },
     {
         "MessageId": 101400220,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "か",
         "MessageKR": "ㄱ ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "e",
+        "MessageEN": "a "
     },
     {
         "MessageId": 101410230,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "……？",
         "MessageKR": "……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……？",
+        "MessageEN": "...?"
     },
     {
         "MessageId": 101410240,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "あ",
         "MessageKR": "앗 ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "Ah! "
     },
     {
         "MessageId": 101410241,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "すみません",
         "MessageKR": "아니 그게",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不是",
+        "MessageEN": "No. I mean"
     },
     {
         "MessageId": 101410250,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "今のは入力ミスでした",
         "MessageKR": "방금 전 것은 실수로 그만",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "剛剛那個是我不小心打錯的",
+        "MessageEN": "That was a mistake"
     },
     {
         "MessageId": 101410251,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "おかに",
         "MessageKR": "신ㄱ을  ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請",
+        "MessageEN": "You don "
     },
     {
         "MessageId": 101410252,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "お気になさらないでください",
         "MessageKR": "신경을 쓰지 않으셔도 ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請別放在心上",
+        "MessageEN": "You don't have to worry about it "
     },
     {
         "MessageId": 101410260,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "すみませんすみませんすみません……！",
         "MessageKR": "죄송합니다죄송합니다죄송합니다……!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "對不起對不起對不起……！",
+        "MessageEN": "Imsorryimsorryimsorry...!"
     },
     {
         "MessageId": 101410270,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "ハルカ、今どこ？",
         "MessageKR": "혹시 어디야, 하루카?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "遙香，你在哪裡呢？",
+        "MessageEN": "Where are you, Haruka?"
     },
     {
         "MessageId": 101410280,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "え？",
         "MessageKR": "예?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？",
+        "MessageEN": "What?"
     },
     {
         "MessageId": 101410281,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "その、シャーレの前ですが……",
         "MessageKR": "저, 그, 샬레 앞인데요…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個……我在夏萊前面……",
+        "MessageEN": "I'm, uh, in front of Schale..."
     },
     {
         "MessageId": 101400287,
@@ -159,7 +159,7 @@
         "ImagePath": "",
         "MessageJP": "ハルカ（ドレス）の絆イベントへ",
         "MessageKR": "하루카(드레스)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往遙香（禮服）的羈絆劇情",
+        "MessageEN": "Go to Haruka (Dress)'s Bond Story"
     }
 ]

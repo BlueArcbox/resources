@@ -3,8 +3,8 @@
         "CharacterId": 10141,
         "MessageJP": "ハルカ（ドレス）",
         "MessageKR": "하루카(드레스)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "遙香（禮服）",
+        "MessageEN": "Haruka (Dress)"
     },
     {
         "MessageId": 101400290,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、ハルカです",
         "MessageKR": "안녕하십니까 선생님 하루카입니다. ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "您好，老師。我是遙香",
+        "MessageEN": "Hello, Sensei. This is Haruka. "
     },
     {
         "MessageId": 101410300,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "その、あまりご興味ない話かもしれませんが",
         "MessageKR": "제가 비록 선생님의 미적 취향을 잘 알지는 못하지만",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然我並不太了解老師的審美喜好",
+        "MessageEN": "I don't know what kind of aesthetics and stuff you like"
     },
     {
         "MessageId": 101410301,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "もしよろしければ、一緒に美術館に行きませんか？",
         "MessageKR": "혹시 미술관 가는 걸 좋아하시는지 여쭤보고 싶은데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過想請問您喜不喜歡去美術館",
+        "MessageEN": "but uhhh do you like going to art museums?"
     },
     {
         "MessageId": 101410310,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "すぐ行こう",
         "MessageKR": "당장 가자.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "馬上出發吧",
+        "MessageEN": "Yes. Let's go. Right now."
     },
     {
         "MessageId": 101410320,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "え",
         "MessageKR": "엑",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦",
+        "MessageEN": "Eh"
     },
     {
         "MessageId": 101410321,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "どんなテーマなのか聞かなくていいんですか？",
         "MessageKR": "저기, 선생님이 좋아하시는 테마일지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個，會不會是老師喜歡的主題",
+        "MessageEN": "Um, we don't even know"
     },
     {
         "MessageId": 101410330,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "先生が好きかどうか、まだ……",
         "MessageKR": "모르는 상태인데…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我現在還不確定……",
+        "MessageEN": "if you'll like the exhibits..."
     },
     {
         "MessageId": 101410340,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "ハルカと一緒に行くんでしょう？",
         "MessageKR": "어쨌든 하루카랑 함께 보러 가는 거잖아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "反正都是要和遙香一起去看吧？",
+        "MessageEN": "But I'm going with Haruka!"
     },
     {
         "MessageId": 101410350,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "それならなんでも楽しめるよ",
         "MessageKR": "그렇다면 가야지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那就一定要去啊",
+        "MessageEN": "I'll have fun no matter what!"
     },
     {
         "MessageId": 101410360,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "ふ",
         "MessageKR": "흐",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呼",
+        "MessageEN": "Oh"
     },
     {
         "MessageId": 101410361,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "ふええええ",
         "MessageKR": "흐에ㅔ에ㅔㅔ에에",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呼耶耶耶耶耶",
+        "MessageEN": "Aaaaaaa"
     },
     {
         "MessageId": 101410370,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "あ",
         "MessageKR": "가",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝",
+        "MessageEN": "Thank"
     },
     {
         "MessageId": 101410371,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとうございます",
         "MessageKR": "감사합니다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝您",
+        "MessageEN": "Thank you."
     },
     {
         "MessageId": 101410380,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとうございますありがとうございますありがとうございます……",
         "MessageKR": "감사합니다감사합니다감사합니다…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝您謝謝您謝謝您……",
+        "MessageEN": "Thankyouthankyouthankyou..."
     },
     {
         "MessageId": 101400397,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "ハルカ（ドレス）の絆イベントへ",
         "MessageKR": "하루카(드레스)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往遙香（禮服）的羈絆劇情",
+        "MessageEN": "Go to Haruka (Dress)'s Bond Story"
     },
     {
         "MessageId": 101410390,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "先生、無事にお帰りになりましたか？",
         "MessageKR": "잘 들어가셨나요, 선생님?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "您到家了嗎，老師？",
+        "MessageEN": "Did you get home okay, Sensei?"
     },
     {
         "MessageId": 101410400,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "うん",
         "MessageKR": "물론이지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然",
+        "MessageEN": "Of course."
     },
     {
         "MessageId": 101410400,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "ハルカは？",
         "MessageKR": "하루카도 잘 들어갔어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "遙香也平安到家了嗎？",
+        "MessageEN": "What about you, Haruka?"
     },
     {
         "MessageId": 101410410,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "はい、今ちょうどお風呂上がりで横になっています",
         "MessageKR": "예, 이제 씻고 나와서 누웠습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是的，我現在洗完澡出來躺在床上了",
+        "MessageEN": "Yes... I showered and am in bed now."
     },
     {
         "MessageId": 101410411,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "今日は",
         "MessageKR": "오늘",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天",
+        "MessageEN": "About today"
     },
     {
         "MessageId": 101410420,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "本当に",
         "MessageKR": "정말 정말",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真的真的",
+        "MessageEN": "I really, really"
     },
     {
         "MessageId": 101410421,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "本当に本当に",
         "MessageKR": "정말로",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真的",
+        "MessageEN": "really"
     },
     {
         "MessageId": 101410422,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "楽しかったです",
         "MessageKR": "즐거웠습니다",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "很開心",
+        "MessageEN": "had fun."
     },
     {
         "MessageId": 101410430,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "それで",
         "MessageKR": "그래서 그런데 ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以那個",
+        "MessageEN": "So I was wondering "
     },
     {
         "MessageId": 101410440,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "もし今度、機会があれば",
         "MessageKR": "만약에 혹여 다음에도 이런 기회가 닿는다면 ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果下次還有機會的話",
+        "MessageEN": "Um. You know. If there's another exhibit "
     },
     {
         "MessageId": 101410441,
@@ -327,8 +327,8 @@
         "ImagePath": "",
         "MessageJP": "また……",
         "MessageKR": "또, 이렇게…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還能再像這樣……",
+        "MessageEN": "Would you mind"
     },
     {
         "MessageId": 101410450,
@@ -339,8 +339,8 @@
         "ImagePath": "",
         "MessageJP": "もちろん",
         "MessageKR": "물론이지.\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然可以",
+        "MessageEN": "Of course.\u200b"
     },
     {
         "MessageId": 101410450,
@@ -351,8 +351,8 @@
         "ImagePath": "",
         "MessageJP": "いつでも言ってね",
         "MessageKR": "언제든 말해.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "隨時都可以找我哦",
+        "MessageEN": "Ask me anytime."
     },
     {
         "MessageId": 101410460,
@@ -363,8 +363,8 @@
         "ImagePath": "",
         "MessageJP": "……！",
         "MessageKR": "……!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……！",
+        "MessageEN": "...!"
     },
     {
         "MessageId": 101410461,
@@ -375,7 +375,7 @@
         "ImagePath": "",
         "MessageJP": "はい！",
         "MessageKR": "예!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好的！",
+        "MessageEN": "Yes!"
     }
 ]

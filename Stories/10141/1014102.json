@@ -3,8 +3,8 @@
         "CharacterId": 10141,
         "MessageJP": "ハルカ（ドレス）",
         "MessageKR": "하루카(드레스)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "遙香（禮服）",
+        "MessageEN": "Haruka (Dress)"
     },
     {
         "MessageId": 101400140,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、ハルカです",
         "MessageKR": "안녕하십니까 선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "您好，老師",
+        "MessageEN": "Hello, Sensei."
     },
     {
         "MessageId": 101410150,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "本日当番でお邪魔する予定ですが……",
         "MessageKR": "오늘 당번으로 샬레에 방문하게 된 하루카입니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我是今天負責值日的遙香",
+        "MessageEN": "This is Haruka, I will be visiting Schale as Student Rep today."
     },
     {
         "MessageId": 101410160,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "そ",
         "MessageKR": "그",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過",
+        "MessageEN": "um"
     },
     {
         "MessageId": 101410161,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "その……",
         "MessageKR": "그런데 혹시…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那個……",
+        "MessageEN": "By the way..."
     },
     {
         "MessageId": 101410170,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "私の顔を見て、先日の傷が痛むようなことがあればと思うと……",
         "MessageKR": "저를 보면 저번에 입으신 상처가 욱신거리거나 하시면…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "看到我，是不是會讓您上次受的傷隱隱作痛……",
+        "MessageEN": "If my presence will make your injury worse..."
     },
     {
         "MessageId": 101410171,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "行かないほうが……よいかと……思っているのですが……",
         "MessageKR": "제가 가지 않는 게 오히려…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "說不定我不在反而……",
+        "MessageEN": "I can just...not come... ... ..."
     },
     {
         "MessageId": 101410180,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "むしろ、来てくれたら嬉しいな",
         "MessageKR": "아냐, 문제는 전혀 없어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不，完全沒問題",
+        "MessageEN": "No, no. There's no need for that."
     },
     {
         "MessageId": 101410190,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "ハルカの顔も見たいし",
         "MessageKR": "거기다 하루카도 보고 싶고. ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "而且我也想見遙香",
+        "MessageEN": "I want to see you, Haruka! "
     },
     {
         "MessageId": 101410200,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "ち",
         "MessageKR": "흐",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我",
+        "MessageEN": "Oh"
     },
     {
         "MessageId": 101410201,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "ちあちにあふ！",
         "MessageKR": "흐ㅡㅇ머ㅏ;lㅇㅁ;\\#@",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我媽昂樹根哦去",
+        "MessageEN": "dkasdsajkthjk"
     },
     {
         "MessageId": 101410210,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "い",
         "MessageKR": "바",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊",
+        "MessageEN": "I"
     },
     {
         "MessageId": 101410211,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "いま行きます！",
         "MessageKR": "바로 가겠습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我馬上過去！",
+        "MessageEN": "I'm coming right now!!"
     },
     {
         "MessageId": 101400217,
@@ -171,7 +171,7 @@
         "ImagePath": "",
         "MessageJP": "ハルカ（ドレス）の絆イベントへ",
         "MessageKR": "하루카(드레스)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往遙香（禮服）的羈絆劇情",
+        "MessageEN": "Go to Haruka (Dress)'s Bond Story"
     }
 ]

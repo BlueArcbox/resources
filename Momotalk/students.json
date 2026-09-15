@@ -11066,13 +11066,17 @@
             "/api/Avatars/Fandom/Haruka_Suit_Icon.png"
         ],
         "Name": {
+            "en": "Haruka (Dress)",
             "jp": "ハルカ（ドレス）",
             "kr": "하루카(드레스)",
+            "tw": "遙香（禮服）",
             "zh": "遥香（礼服）"
         },
         "Bio": {
+            "en": "It's difficult to reach me while I'm working.",
             "jp": "業務中は連絡が取りにくくなります",
             "kr": "업무 수행 중에는 연락이 어렵습니다.",
+            "tw": "執行任務期間可能無法聯絡",
             "zh": "正在工作中，难以及时回复"
         },
         "Nickname": [
@@ -11097,13 +11101,17 @@
             "/api/Avatars/Fandom/Mutsuki_Suit_Icon.png"
         ],
         "Name": {
+            "en": "Mutsuki (Dress)",
             "jp": "ムツキ（ドレス）",
             "kr": "무츠키(드레스)",
+            "tw": "無月（禮服）",
             "zh": "睦月（礼服）"
         },
         "Bio": {
+            "en": "We're playing at infiltrating!",
             "jp": "潜入ごっこ中～",
             "kr": "잠입 놀이 중이야!",
+            "tw": "正在玩潛入遊戲！",
             "zh": "正在游玩潜入游戏~"
         },
         "Nickname": [

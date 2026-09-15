@@ -3,8 +3,8 @@
         "CharacterId": 20059,
         "MessageJP": "ムツキ（ドレス）",
         "MessageKR": "무츠키(드레스)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "無月（禮服）",
+        "MessageEN": "Mutsuki (Dress)"
     },
     {
         "MessageId": 200580300,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、私しばらく身を隠すつもりなんだ",
         "MessageKR": "선생님. 나 며칠 동안 잠적할 예정이야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，我接下來幾天打算消失一陣子",
+        "MessageEN": "Sensei. I have to lay low for the next few days."
     },
     {
         "MessageId": 200590310,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "だから、便利屋に私がいなくてもビックリしないでね",
         "MessageKR": "그러니까 흥신소에 내가 없더라도 놀라지 마.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以就算我不在便利屋，你也別嚇到哦",
+        "MessageEN": "Don't look for me. Not even with Problem Solver."
     },
     {
         "MessageId": 200590320,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "何があったの？",
         "MessageKR": "무슨 일 있었어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "發生什麼事了嗎？",
+        "MessageEN": "Is everything okay?"
     },
     {
         "MessageId": 200590330,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "この前の転売屋騒動があったでしょ？",
         "MessageKR": "저번에 그 폭탄 되팔이들 있잖아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "上次那群轉賣炸彈的傢伙，你還記得吧",
+        "MessageEN": "Remember those bomb resellers from last time?"
     },
     {
         "MessageId": 200590340,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "あの後、実はもうひと悶着あったんだよね",
         "MessageKR": "그거랑 관련된 사건이 조금 더 있었거든.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "後來又發生了一些和他們有關的事",
+        "MessageEN": "Weeell, just a few little things related to that."
     },
     {
         "MessageId": 200590341,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "まあ、大したことじゃないから",
         "MessageKR": "뭐, 큰 일은 아니고.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過也不是什麼大事啦",
+        "MessageEN": "It's nothing to fuss over."
     },
     {
         "MessageId": 200590350,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "私がちょっと姿をくらませば大丈夫",
         "MessageKR": "나만 며칠 잠적하면 돼.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只要我消失個幾天就行了",
+        "MessageEN": "I just need to lay low for a little."
     },
     {
         "MessageId": 200590351,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "みんなにも言ってあるから",
         "MessageKR": "동료들한테도 말해뒀어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我也跟大家說過了",
+        "MessageEN": "The others already know too."
     },
     {
         "MessageId": 200590360,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "ちなみにどこに？",
         "MessageKR": "잠적이라면 어디로?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要消失的話，你打算去哪裡？",
+        "MessageEN": "Where are you going to be laying low?"
     },
     {
         "MessageId": 200590370,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "んーまだ決めてないけど",
         "MessageKR": "으음…… 아직 안 정했는데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯……我還沒決定耶",
+        "MessageEN": "Hmm... I haven't decided yet."
     },
     {
         "MessageId": 200590371,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "せっかくだし",
         "MessageKR": "이왕 이렇게 된 거",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "既然都這樣了",
+        "MessageEN": "Maybe I'll make the best of it"
     },
     {
         "MessageId": 200590380,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "ホテルでバカンスでも楽しもうかな？",
         "MessageKR": "호텔에서 호캉스나 즐겨볼까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "乾脆在飯店度假享受一下？",
+        "MessageEN": "and go have a little \"stay\"-cation at a hotel."
     },
     {
         "MessageId": 200580397,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "ムツキ（ドレス）の絆イベントへ",
         "MessageKR": "무츠키(드레스)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往無月（禮服）的羈絆劇情",
+        "MessageEN": "Go to Mutsuki (Dress)'s Bond Story"
     },
     {
         "MessageId": 200590390,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "先生、グッドニュース！",
         "MessageKR": "선생님! 좋은 소식이야!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師！好消息！",
+        "MessageEN": "Sensei! Good news!"
     },
     {
         "MessageId": 200590400,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "お店に爆弾が並び始めたよ！",
         "MessageKR": "폭탄 편의점에서 다시 폭탄을 팔기 시작했어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "炸彈便利商店又開始賣炸彈了",
+        "MessageEN": "The bomb convenience store started selling bombs again!"
     },
     {
         "MessageId": 200590401,
@@ -206,9 +206,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "これでやっと日常に戻ったって感じ？",
-        "MessageKR": "이제 완전히 일상으로 돌아온 느낌이랄까?.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "이제 완전히 일상으로 돌아온 느낌이랄까?",
+        "MessageTW": "終於完全回歸日常的感覺？",
+        "MessageEN": "So everything is as it should be!"
     },
     {
         "MessageId": 200590410,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "転売屋が居なくなってよかった",
         "MessageKR": "되팔이가 사라져서 다행이네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "轉賣商消失了，真是太好了呢",
+        "MessageEN": "I'm glad the resellers are gone."
     },
     {
         "MessageId": 200590420,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "転売屋は撲滅しないとね！",
         "MessageKR": "응! 되팔이는 박멸해야지!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯！轉賣商就該被根除！",
+        "MessageEN": "Yeah! Resellers need to be exterminated!"
     },
     {
         "MessageId": 200590421,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "あっそうだ、お金の使い道考えた？",
         "MessageKR": "아, 참. 돈은 어디다 쓸지는 정했어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，對了。你決定好那些錢要拿來做什麼了嗎？",
+        "MessageEN": "Ah, right. Have you decided where you'll be using the money?"
     },
     {
         "MessageId": 200590430,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "やっぱり、私との未来に使う？",
         "MessageKR": "역시 나와의 미래를 위해 저금하는 쪽?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "果然還是要為了和我的未來存起來嗎？",
+        "MessageEN": "Going to be saving it for your future with me?"
     },
     {
         "MessageId": 200590440,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "き、寄付します！",
         "MessageKR": "기, 기부를 할 겁니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我，我要拿去捐款！",
+        "MessageEN": "I-I'll donate it!"
     },
     {
         "MessageId": 200590450,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "あははっ！",
         "MessageKR": "아하핫!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊哈哈！",
+        "MessageEN": "Ahaha!"
     },
     {
         "MessageId": 200590460,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "うん、それもいいんじゃない？",
         "MessageKR": "응! 기부도 좋아!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯！捐款也很好！",
+        "MessageEN": "Ya know, that works too!"
     },
     {
         "MessageId": 200590461,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "柄にもなくいいことしちゃった気がするけど",
         "MessageKR": "어울리지 않게 착한 일을 한 것 같지만",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然好像做了件不太符合我風格的善事",
+        "MessageEN": "That was unusually nice of me"
     },
     {
         "MessageId": 200590462,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "これはこれで楽しかったよ",
         "MessageKR": "이건 이것대로 재미있었어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過這樣也別有一番樂趣呢",
+        "MessageEN": "but it was still fun."
     },
     {
         "MessageId": 200590470,
@@ -327,8 +327,8 @@
         "ImagePath": "",
         "MessageJP": "また楽しいことあるといいな",
         "MessageKR": "다음에 또 재미있는 일 있었으면 좋겠다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "希望下次也能發生有趣的事",
+        "MessageEN": "And I hope next time is fun too!"
     },
     {
         "MessageId": 200590471,
@@ -339,8 +339,8 @@
         "ImagePath": "",
         "MessageJP": "ね？先生",
         "MessageKR": "그치?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "對吧？",
+        "MessageEN": "Don't you?"
     },
     {
         "MessageId": 200590480,
@@ -351,8 +351,8 @@
         "ImagePath": "",
         "MessageJP": "うん、そうだね",
         "MessageKR": "응. 그랬으면 좋겠다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，就是說啊",
+        "MessageEN": "Yes! I really do."
     },
     {
         "MessageId": 200590490,
@@ -363,8 +363,8 @@
         "ImagePath": "",
         "MessageJP": "くふふ",
         "MessageKR": "쿠후후.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咯呵呵",
+        "MessageEN": "Kufufu."
     },
     {
         "MessageId": 200590491,
@@ -375,7 +375,7 @@
         "ImagePath": "",
         "MessageJP": "それじゃ、また連絡する！",
         "MessageKR": "그럼 다음에 또 연락할게!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼下次再聯絡你！",
+        "MessageEN": "Then I'll catch ya later!"
     }
 ]

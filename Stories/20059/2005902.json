@@ -3,8 +3,8 @@
         "CharacterId": 20059,
         "MessageJP": "ムツキ（ドレス）",
         "MessageKR": "무츠키(드레스)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "無月（禮服）",
+        "MessageEN": "Mutsuki (Dress)"
     },
     {
         "MessageId": 200580260,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生ー今日何してるー？",
         "MessageKR": "선생님. 오늘 뭐해?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師今天要做什麼？",
+        "MessageEN": "Hey, Sensei! What'cha doin today?"
     },
     {
         "MessageId": 200590270,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "暇なら夕方ショッピングでも行こうよ！",
         "MessageKR": "한가하면 저녁에 쇼핑이나 하자.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有空的話，傍晚一起去購物吧",
+        "MessageEN": "Are you busy tonight? Let's go shopping later!"
     },
     {
         "MessageId": 200590271,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "今回のは先生も気に入ると思うから！",
         "MessageKR": "이번 물건은 선생님도 마음에 들 거야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這次的東西老師應該也會喜歡",
+        "MessageEN": "You DEFINITELY want to see what I'm getting this time."
     },
     {
         "MessageId": 200590280,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "気に入るって？",
         "MessageKR": "그게 뭔데?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是什麼？",
+        "MessageEN": "And what's that?"
     },
     {
         "MessageId": 200590290,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "くふふっ、それは秘密",
         "MessageKR": "쿠후후, 그건 비밀.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咯呵呵，那是祕密",
+        "MessageEN": "Kufufu, SECRET."
     },
     {
         "MessageId": 200590291,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "とにかくいいよね？",
         "MessageKR": "아무튼 시간 괜찮지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總之你有空對吧？",
+        "MessageEN": "Anyways, you got time, right?"
     },
     {
         "MessageId": 200590292,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "それじゃ後で！",
         "MessageKR": "그럼 나중에 봐!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那就待會見啦！",
+        "MessageEN": "I'll see you then, then!!"
     },
     {
         "MessageId": 200580297,
@@ -111,7 +111,7 @@
         "ImagePath": "",
         "MessageJP": "ムツキ（ドレス）の絆イベントへ",
         "MessageKR": "무츠키(드레스)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往無月（禮服）的羈絆劇情",
+        "MessageEN": "Go to Mutsuki (Dress)'s Bond Story"
     }
 ]
