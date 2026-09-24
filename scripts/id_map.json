@@ -2292,6 +2292,19 @@
             false
         ]
     },
+    "10151": {
+        "kivo_id": 644,
+        "avatar": "https://static.kivo.wiki/images/students/仁木 安娜/original/Student_Portrait_CH0320_Collection.png",
+        "momotalk": "随时接受业务相关的联络。",
+        "name_en": "Anna",
+        "name_jp": "アンナ",
+        "name_zh": "安娜",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
     "13000": {
         "kivo_id": 24,
         "gamekee_id": 66752,
@@ -3759,6 +3772,19 @@
         "name_en": "Kasumi",
         "name_jp": "カスミ（水着）",
         "name_zh": "霞（泳装）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
+    "20062": {
+        "kivo_id": 641,
+        "avatar": "https://static.kivo.wiki/images/students/二木 叶莲娜/original/Student_Portrait_CH0321_Collection.png",
+        "momotalk": "禁止业务联络！",
+        "name_en": "Erina",
+        "name_jp": "エリナ",
+        "name_zh": "叶莲娜",
         "nicknames": [],
         "sticker_download_flag": [
             true,

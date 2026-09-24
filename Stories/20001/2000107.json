@@ -1,0 +1,141 @@
+[
+    {
+        "CharacterId": 20001,
+        "MessageJP": "カリン",
+        "MessageKR": "카린",
+        "MessageTW": "花凛",
+        "MessageEN": "Karin"
+    },
+    {
+        "MessageId": 200000460,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 200010460,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 200010460,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200010470,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "最近、色んな掃除をしてるんだけど",
+        "MessageKR": "요즘 정말 다양한 청소 업무를 하고 있어.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200010470,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200010471,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "先生はどう？",
+        "MessageKR": "그런 의미에서",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200010471,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200010472,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "必要であれば言ってくれ",
+        "MessageKR": "혹시 선생님도 청소가 필요해?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200010472,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200010480,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "私が手伝おう",
+        "MessageKR": "내가 도와주겠다.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200010480,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200010490,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "それ……言葉通りの意味だよね？",
+        "MessageKR": "그거…… 의미 그대로의 청소지?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200010490,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200010500,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "もちろん。エージェントの仕事ばかりじゃないから",
+        "MessageKR": "응. 항상 에이전트 일만 하는 건 아니니까.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200010500,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200010510,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "それなら、執務室の掃除をしようと思ってたんだ",
+        "MessageKR": "그럼 슬슬 사무실 청소를 하려고 했는데, 같이 해볼까?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200010510,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200010511,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "分かった",
+        "MessageKR": "응. 좋아.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200010511,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200000517,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "すぐ行く",
+        "MessageKR": "바로 가지.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200000517,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "カリンの絆イベントへ",
+        "MessageKR": "카린의 인연스토리로",
+        "MessageTW": "前往花凛的羈絆劇情",
+        "MessageEN": "Go to Karin's Bond Story"
+    }
+]

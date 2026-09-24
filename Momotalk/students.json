@@ -11472,5 +11472,57 @@
             "ItemId": 10078,
             "ItemType": "水着"
         }
+    },
+    {
+        "Id": 10151,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10151.webp"
+        ],
+        "Name": {
+            "jp": "アンナ",
+            "kr": "안나",
+            "zh": "安娜"
+        },
+        "Bio": {
+            "jp": "お仕事に関するご連絡ならいつでも。",
+            "kr": "업무 연락 항시 환영합니다.",
+            "zh": "随时接受业务相关的联络。"
+        },
+        "Nickname": [
+            "Anna"
+        ],
+        "Birthday": "3/10",
+        "Age": "16歳",
+        "School": "RedWinter",
+        "Club": "Class183",
+        "Star": 3,
+        "Released": true,
+        "Related": null
+    },
+    {
+        "Id": 20062,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/20062.webp"
+        ],
+        "Name": {
+            "jp": "エリナ",
+            "kr": "에리나",
+            "zh": "叶莲娜"
+        },
+        "Bio": {
+            "jp": "業務連絡禁止！",
+            "kr": "업무 연락 사절!",
+            "zh": "禁止业务联络！"
+        },
+        "Nickname": [
+            "Erina"
+        ],
+        "Birthday": "2/8",
+        "Age": "15歳",
+        "School": "RedWinter",
+        "Club": "Class183",
+        "Star": 3,
+        "Released": true,
+        "Related": null
     }
 ]
