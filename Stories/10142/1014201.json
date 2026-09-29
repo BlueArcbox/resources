@@ -3,8 +3,8 @@
         "CharacterId": 10142,
         "MessageJP": "ナグサ（水着）",
         "MessageKR": "나구사(수영복)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "名草（泳裝）",
+        "MessageEN": "Nagusa (Swimsuit)"
     },
     {
         "MessageId": 101410010,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "連絡くれてたんだね",
         "MessageKR": "안녕, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你好，老師",
+        "MessageEN": "Hello, Sensei."
     },
     {
         "MessageId": 101420020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "急用だった？",
         "MessageKR": "연락했었네. 무슨 일이야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "找我有什麼事嗎？",
+        "MessageEN": "I received a missed call from you. Is all well?"
     },
     {
         "MessageId": 101420030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "最近暑いから大丈夫かなと思って",
         "MessageKR": "요즘 더운데 잘 지내나 해서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "最近天氣很熱，想說關心一下你過得好不好",
+        "MessageEN": "I wanted to make sure you were doing okay with the heat."
     },
     {
         "MessageId": 101420040,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "あ……うん、ありがとう",
         "MessageKR": "아…… 응.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊……嗯",
+        "MessageEN": "Ah... I see."
     },
     {
         "MessageId": 101420050,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "気にかけてくれて",
         "MessageKR": "신경 써줘서 고마워.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝你的關心",
+        "MessageEN": "I appreciate your concern."
     },
     {
         "MessageId": 101420051,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "大丈夫。ちゃんと水で涼んでるから",
         "MessageKR": "난 괜찮아. 틈틈이 피서를 즐기고 있거든.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒事的，我有趁空檔想辦法消暑",
+        "MessageEN": "I have been adapting by enjoying summer getaways at every opportunity."
     },
     {
         "MessageId": 101420060,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "海で？",
         "MessageKR": "바다에서 놀기?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "像是去海邊玩？",
+        "MessageEN": "Like going to the beach?"
     },
     {
         "MessageId": 101420060,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "プールで？",
         "MessageKR": "워터파크에서 놀기?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "像是去水上樂園玩？",
+        "MessageEN": "Like going to the water park?"
     },
     {
         "MessageId": 101420070,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "実は……",
         "MessageKR": "그게……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "其實……",
+        "MessageEN": "Not exactly..."
     },
     {
         "MessageId": 101420071,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "庭でちょっとした射撃訓練をしてるんだ",
         "MessageKR": "평소와 같은 사격 연습이야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是和平常一樣的射擊練習",
+        "MessageEN": "It is only our routine shooting practice."
     },
     {
         "MessageId": 101420080,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "水鉄砲で、だけど",
         "MessageKR": "물총으로 하는 게 좀 다르긴 하지만.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只是把武器換成了水槍",
+        "MessageEN": "Although, we've replaced our weapons with water guns."
     },
     {
         "MessageId": 101420090,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "つまり……水鉄砲遊びってこと？",
         "MessageKR": "즉…… 물총놀이를 한다?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "也就是說……在玩水槍？",
+        "MessageEN": "So...a water gun fight?"
     },
     {
         "MessageId": 101420100,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "そう言われると……そうかも？",
         "MessageKR": "그렇게 부른다면…… 그럴지도.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要這麼說的話……或許是吧",
+        "MessageEN": "From a certain perspective... Yes."
     },
     {
         "MessageId": 101410117,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "ナグサ（水着）の絆イベントへ",
         "MessageKR": "나구사(수영복)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往名草（泳裝）的羈絆劇情",
+        "MessageEN": "Go to Nagusa (Swimsuit)'s Bond Story"
     },
     {
         "MessageId": 101420110,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "やっぱり……",
         "MessageKR": "선생님. 그게 말인데…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師……",
+        "MessageEN": "Sensei. I believe..."
     },
     {
         "MessageId": 101420111,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "気にし過ぎだったみたい",
         "MessageKR": "아무래도 내가 너무 걱정했던 것 같아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "看來是我太過擔心了",
+        "MessageEN": "I may have allowed the monsters of my insecurities to rear their ugly heads."
     },
     {
         "MessageId": 101420120,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "百花繚乱のみんなにも同じことを言われた",
         "MessageKR": "우리 부원들도 선생님과 똑같은 이야기를 하더라.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我們的部員也和老師說了一樣的話",
+        "MessageEN": "In fact, the club members agreed with your sentiments."
     },
     {
         "MessageId": 101420121,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "私の水着姿で苦しむ人はいないって",
         "MessageKR": "내가 수영복을 입어도 사람들이 불편해하진 않을 거라고.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "他們說就算我穿上泳裝，也不會有人因此而痛苦",
+        "MessageEN": "That no one would feel uncomfortable, even if I am dressed in a swimsuit."
     },
     {
         "MessageId": 101420130,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "ほら！言ったとおりでしょ",
         "MessageKR": "그래! 괜한 걱정이라니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "對啊！我就說是白擔心了嘛",
+        "MessageEN": "I'm glad! There really was nothing to worry about."
     },
     {
         "MessageId": 101420140,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "うん",
         "MessageKR": "응.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "Yes."
     },
     {
         "MessageId": 101420141,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "だから次は……",
         "MessageKR": "그래서 다음엔…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以下次……",
+        "MessageEN": "Therefore..."
     },
     {
         "MessageId": 101420142,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "みんなと海に行ってみる",
         "MessageKR": "부원 모두와 바다에 가보려고 해.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我打算和部員們一起去海邊",
+        "MessageEN": "I plan to travel to the beach with the other members."
     },
     {
         "MessageId": 101420150,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "きっと……楽しいと思う",
         "MessageKR": "분명…… 즐거운 시간이 될 거야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "一定……會是一段快樂的時光",
+        "MessageEN": "Surely...it will be enjoyable for all."
     },
     {
         "MessageId": 101420160,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "いいね。日焼け止めを忘れずに！",
         "MessageKR": "그래! 선크림 꼭 바르고!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不錯耶！要記得擦防曬乳哦！",
+        "MessageEN": "Sounds fun! Make sure to put on sunscreen!"
     },
     {
         "MessageId": 101420170,
@@ -315,7 +315,7 @@
         "ImagePath": "",
         "MessageJP": "うん。ありがとう",
         "MessageKR": "응. 고마워, 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯。謝謝你，老師",
+        "MessageEN": "I will. Thank you, Sensei."
     }
 ]

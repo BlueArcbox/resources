@@ -3,8 +3,8 @@
         "CharacterId": 10142,
         "MessageJP": "ナグサ（水着）",
         "MessageKR": "나구사(수영복)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "名草（泳裝）",
+        "MessageEN": "Nagusa (Swimsuit)"
     },
     {
         "MessageId": 101410410,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "今週はずっといい天気が続くみたいだね",
         "MessageKR": "선생님. 이번 주는 야외 활동하기 좋은 날씨가 이어진대.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，聽說這週都會是適合外出活動的好天氣",
+        "MessageEN": "Sensei. The weather report appears ideal for outdoor activities."
     },
     {
         "MessageId": 101420420,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "それで、先生がよければだけど……",
         "MessageKR": "그래서 말인데……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以……",
+        "MessageEN": "Therefore..."
     },
     {
         "MessageId": 101420421,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "週末に会わない？",
         "MessageKR": "주말에 시간 괜찮아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "週末有空嗎？",
+        "MessageEN": "Do you have time this weekend?"
     },
     {
         "MessageId": 101420430,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "もちろん！",
         "MessageKR": "물론이지!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然囉！",
+        "MessageEN": "For you, ALWAYS!"
     },
     {
         "MessageId": 101420430,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "私も同じことを考えてたんだ！",
         "MessageKR": "내가 먼저 물어보려던 참이었어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我正想問你呢！",
+        "MessageEN": "That's actually exactly what I was going to ask YOU!"
     },
     {
         "MessageId": 101420440,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "それじゃ、また海に行こう",
         "MessageKR": "그럼 또 바다에 가자.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那就再一起去海邊吧",
+        "MessageEN": "Then let us depart."
     },
     {
         "MessageId": 101420441,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "また楽しいことがあるかも",
         "MessageKR": "이번에도 왠지 즐거운 일이 있을 것 같아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總覺得這次也會有開心的事發生",
+        "MessageEN": "My instinct tells me that \"fun\" hangs just around the corner."
     },
     {
         "MessageId": 101410447,
@@ -111,7 +111,7 @@
         "ImagePath": "",
         "MessageJP": "ナグサ（水着）の絆イベントへ",
         "MessageKR": "나구사(수영복)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往名草（泳裝）的羈絆劇情",
+        "MessageEN": "Go to Nagusa (Swimsuit)'s Bond Story"
     }
 ]

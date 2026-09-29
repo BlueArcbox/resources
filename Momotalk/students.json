@@ -11134,13 +11134,17 @@
             "/api/Avatars/Kivo/Released/10142.webp"
         ],
         "Name": {
+            "en": "Nagusa (Swimsuit)",
             "jp": "ナグサ（水着）",
             "kr": "나구사(수영복)",
+            "tw": "名草（泳裝）",
             "zh": "名草（泳装）"
         },
         "Bio": {
+            "en": "Waiting for the flowers to bloom",
             "jp": "花が、咲き誇るのを待ってる",
             "kr": "꽃이 피길 기다리며",
+            "tw": "靜待花開之時",
             "zh": ""
         },
         "Nickname": [

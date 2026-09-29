@@ -3,8 +3,8 @@
         "CharacterId": 10142,
         "MessageJP": "ナグサ（水着）",
         "MessageKR": "나구사(수영복)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "名草（泳裝）",
+        "MessageEN": "Nagusa (Swimsuit)"
     },
     {
         "MessageId": 101410180,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "みんなと海に行ってからというもの……",
         "MessageKR": "부원들과 바다에 다녀온 뒤로……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "自從和部員們去過海邊之後……",
+        "MessageEN": "Since my initial visit to the beach with the others"
     },
     {
         "MessageId": 101420190,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "気づいたら海に行っちゃうんだ",
         "MessageKR": "요즘 시간이 날 때마다 해변을 찾고 있어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "最近只要一有空，我就會往海邊跑",
+        "MessageEN": "I have returned at every opportunity I could find."
     },
     {
         "MessageId": 101420200,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "海は楽しいよね",
         "MessageKR": "바다는 즐겁지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "海邊好玩吧？",
+        "MessageEN": "The beach is really fun, isn't it?"
     },
     {
         "MessageId": 101420210,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "うん。楽しい",
         "MessageKR": "응. 즐거워.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，很好玩",
+        "MessageEN": "Yes. Very much so."
     },
     {
         "MessageId": 101420211,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "水泳は鍛錬になるし",
         "MessageKR": "수영은 신체 단련에 도움도 되고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "游泳既有助於鍛鍊身體",
+        "MessageEN": "Not only is swimming an excellent training exercise,"
     },
     {
         "MessageId": 101420212,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "雑念を払うのにも良い",
         "MessageKR": "잡생각을 떨치기에도 좋아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "也很適合擺脫雜念",
+        "MessageEN": "it helps clear a troubled mind."
     },
     {
         "MessageId": 101420220,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "それに、独特な雰囲気もあって",
         "MessageKR": "바다만이 가지는 고유의 운치도 있고.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "而且大海也有它獨有的韻味",
+        "MessageEN": "And there's a unique feeling that only a sea breeze can carry."
     },
     {
         "MessageId": 101420221,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "これなら、今までもっと行っておけば良かった",
         "MessageKR": "나는 왜 좀 더 일찍 바다에 가지 않았을까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我為什麼沒有更早一點去海邊呢？",
+        "MessageEN": "I wish I had discovered this earlier."
     },
     {
         "MessageId": 101420230,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "今からでもたくさん行けばいいよ",
         "MessageKR": "지금부터라도 더 자주 가면 되지!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "從現在開始多去幾次不就好了！",
+        "MessageEN": "Well, it's never too late!"
     },
     {
         "MessageId": 101420240,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "……うん。そうだね",
         "MessageKR": "……응. 그러게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……嗯，是啊",
+        "MessageEN": "...Yes. That is true."
     },
     {
         "MessageId": 101420241,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "これからは、どんどん海に行こうと思う",
         "MessageKR": "좀 더 자주 바다에 가야겠어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "得更常去海邊才行",
+        "MessageEN": "I will endeavor to go more often."
     },
     {
         "MessageId": 101410247,
@@ -159,7 +159,7 @@
         "ImagePath": "",
         "MessageJP": "ナグサ（水着）の絆イベントへ",
         "MessageKR": "나구사(수영복)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往名草（泳裝）的羈絆劇情",
+        "MessageEN": "Go to Nagusa (Swimsuit)'s Bond Story"
     }
 ]

@@ -3,8 +3,8 @@
         "CharacterId": 10142,
         "MessageJP": "ナグサ（水着）",
         "MessageKR": "나구사(수영복)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "名草（泳裝）",
+        "MessageEN": "Nagusa (Swimsuit)"
     },
     {
         "MessageId": 101410250,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "雪女の噂、まだ流れてるみたい",
         "MessageKR": "으음…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯……",
+        "MessageEN": "Hmm..."
     },
     {
         "MessageId": 101420260,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "うーん……",
         "MessageKR": "여전히 해변에 설녀가 나타난다는 소문이 도는 것 같아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "海邊好像還是在流傳有雪女出現的傳聞呢",
+        "MessageEN": "Rumors of a snow maiden haunting the beach still run rampant."
     },
     {
         "MessageId": 101420261,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "いちいち説明してたら逆に誤解されるかもしれないし",
         "MessageKR": "일일이 해명하면 오해만 키울 텐데.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "去一一解釋的話，感覺只會加深誤會而已",
+        "MessageEN": "Attempting to dispel them would only fuel the misunderstanding."
     },
     {
         "MessageId": 101420270,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "どうしたらいいのかな？",
         "MessageKR": "어떻게 해야 좋을까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "該怎麼做才好呢？",
+        "MessageEN": "What should I do?"
     },
     {
         "MessageId": 101420280,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "また一緒に海に行こう！",
         "MessageKR": "계속 같이 바다에 가는 거야!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "再一起去海邊吧！",
+        "MessageEN": "We should go to the beach together!"
     },
     {
         "MessageId": 101420290,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "先生と一緒の姿を見せ続けたら",
         "MessageKR": "설녀가 아닌 내 모습을 계속 보여주면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只要持續讓大家看到不是雪女的我",
+        "MessageEN": "Ah. I see. If I continue to appear as myself, not as the snow maiden,"
     },
     {
         "MessageId": 101420291,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "噂もすぐに消えるってこと？",
         "MessageKR": "이상한 소문도 곧 사라질 거라는 거지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "奇怪的傳聞很快就會消失了，是嗎？",
+        "MessageEN": "then the rumors will dissipate on their own."
     },
     {
         "MessageId": 101420300,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "うん……分かった",
         "MessageKR": "응……. 알았어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯……我知道了",
+        "MessageEN": "Okay... Got it."
     },
     {
         "MessageId": 101420310,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "ナグサのためだからね……",
         "MessageKR": "모두 나구사를 위한 거니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "畢竟全都是為了名草嘛",
+        "MessageEN": "It's all for you, Nagusa."
     },
     {
         "MessageId": 101420320,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "……",
         "MessageKR": "…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……",
+        "MessageEN": "..."
     },
     {
         "MessageId": 101420321,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "やっぱり先生は、したたかだよね",
         "MessageKR": "역시 선생님은 엉큼해.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師果然別有心思呢",
+        "MessageEN": "You truly are shrewd, Sensei."
     },
     {
         "MessageId": 101420330,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "どうして！？",
         "MessageKR": "어째서?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "為什麼！？",
+        "MessageEN": "Why?!"
     },
     {
         "MessageId": 101410347,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "ナグサ（水着）の絆イベントへ",
         "MessageKR": "나구사(수영복)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往名草（泳裝）的羈絆劇情",
+        "MessageEN": "Go to Nagusa (Swimsuit)'s Bond Story"
     },
     {
         "MessageId": 101420340,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "帰り道に偶然、聞いたんだけど",
         "MessageKR": "오늘 돌아가는 길에 우연히 이런 이야기를 들었어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天回去的路上，我偶然聽到了這樣的消息",
+        "MessageEN": "I overheard people speaking."
     },
     {
         "MessageId": 101420350,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "海に雪女が出るっていう噂は……",
         "MessageKR": "해변에 설녀가 나타났다는 소문은……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "海邊出現雪女的傳聞……",
+        "MessageEN": "They were discussing the rumors of the beach's snow maiden."
     },
     {
         "MessageId": 101420351,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "全部嘘だったって",
         "MessageKR": "전부 헛소문인 것 같다고.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "全都是騙人的",
+        "MessageEN": "And declared them baseless drivel."
     },
     {
         "MessageId": 101420360,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "おお、作戦成功だね！",
         "MessageKR": "오오, 계획 성공이네!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哦哦，計畫成功了呢！",
+        "MessageEN": "Mission success!!"
     },
     {
         "MessageId": 101420370,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "うん。大成功",
         "MessageKR": "응. 성공이야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，成功了",
+        "MessageEN": "Yes. It's mission success."
     },
     {
         "MessageId": 101420371,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "もう安心して海に行ける",
         "MessageKR": "이제 안심하고 바다에 갈 수 있어.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在可以安心地去海邊了",
+        "MessageEN": "I may now travel to the beach in peace."
     },
     {
         "MessageId": 101420380,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "また一緒に行ってくれるよね？",
         "MessageKR": "또 나랑 같이 가주는 거지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你還會再跟我一起去吧？",
+        "MessageEN": "Will you...accompany me again?"
     },
     {
         "MessageId": 101420390,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "……\u200b",
         "MessageKR": "…….\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……\u200b",
+        "MessageEN": "...\u200b"
     },
     {
         "MessageId": 101420400,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "うん",
         "MessageKR": "응.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "Yes."
     },
     {
         "MessageId": 101420401,
@@ -291,7 +291,7 @@
         "ImagePath": "",
         "MessageJP": "じゃあ、またね",
         "MessageKR": "그럼 다음에 또 보자.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那就下次見",
+        "MessageEN": "I shall see you again, then."
     }
 ]
