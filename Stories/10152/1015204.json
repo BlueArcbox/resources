@@ -1,0 +1,129 @@
+[
+    {
+        "CharacterId": 10152,
+        "MessageJP": "ツムギ",
+        "MessageKR": "츠무기",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101510470,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 101520470,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 101520470,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101520480,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "今日は",
+        "MessageKR": "오늘은",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101520480,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101520490,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "創作意欲の高まりを感じます",
+        "MessageKR": "영감이 샘솟는 하루네요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101520490,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101520491,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "実は、先生と一緒に行きたい場所があるのですが",
+        "MessageKR": "그런 의미에서 같이 가보고 싶은 장소가 있는데",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101520491,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101520500,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "よろしいでしょうか？",
+        "MessageKR": "어떠실까요?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101520500,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 101520510,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "もちろん付き合うよ！",
+        "MessageKR": "언제든 불러만 줘.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101520510,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101520511,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ではこれから",
+        "MessageKR": "그럼 오늘은",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101520511,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 101520520,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ワイルドハントの美術館に行きませんか？",
+        "MessageKR": "우리 학원의 미술관에서 만날까요?",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101520520,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 101510527,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "新しい展示会が始まったんです",
+        "MessageKR": "오늘부터 새로운 작품전이 개최된다고 해요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 101510527,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ツムギの絆イベントへ",
+        "MessageKR": "츠무기의 인연스토리로",
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
+    }
+]

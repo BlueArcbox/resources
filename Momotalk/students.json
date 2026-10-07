@@ -11528,5 +11528,31 @@
         "Star": 3,
         "Released": true,
         "Related": null
+    },
+    {
+        "Id": 10152,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10152.webp"
+        ],
+        "Name": {
+            "jp": "ツムギ",
+            "kr": "츠무기",
+            "zh": "纺"
+        },
+        "Bio": {
+            "jp": "人生は美しい",
+            "kr": "인생은 아름다워",
+            "zh": "生活如此多娇"
+        },
+        "Nickname": [
+            "Tsumugi"
+        ],
+        "Birthday": "3/11",
+        "Age": "16歳",
+        "School": "WildHunt",
+        "Club": "OccultClub",
+        "Star": 3,
+        "Released": true,
+        "Related": null
     }
 ]
