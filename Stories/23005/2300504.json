@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "本日シャーレ当番ですが……シャーレへ行く前に",
         "MessageKR": "안녕하세요. 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "您好，老師",
+        "MessageEN": "Hello, Sensei."
     },
     {
         "MessageId": 230050440,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "業務状況についていくつかお伺いしてもいいでしょうか？",
         "MessageKR": "당번에 앞서, 오늘 샬레의 업무 상황을 여쭤보고 싶은데요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "在值班之前，我想請教一下今天夏萊的業務狀況",
+        "MessageEN": "I was wondering what I'll be working on during my Student Rep shift today."
     },
     {
         "MessageId": 230050450,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "アヤネ、助けて……",
         "MessageKR": "살려줘 아야네…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "救救我，綾音……",
+        "MessageEN": "Save me, Ayane..."
     },
     {
         "MessageId": 230050450,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "今日は書類地獄なんだ……",
         "MessageKR": "오늘은 특히 서류 지옥이야…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天的文件簡直是地獄……",
+        "MessageEN": "I'm trapped in a hellscape of paperwork..."
     },
     {
         "MessageId": 230050460,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ほ、本当ですか！？",
         "MessageKR": "그, 그런가요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真，真的嗎？",
+        "MessageEN": "A-Are you okay?!"
     },
     {
         "MessageId": 230050461,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "すぐに行きます！",
         "MessageKR": "최대한 빠르게 가겠습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我會盡快趕過去！",
+        "MessageEN": "I'll be there as soon as I can!"
     },
     {
         "MessageId": 230040467,

@@ -3,8 +3,8 @@
         "CharacterId": 10145,
         "MessageJP": "キサキ（水着）",
         "MessageKR": "키사키(수영복)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "妃姬（泳裝）",
+        "MessageEN": "Kisaki (Swimsuit)"
     },
     {
         "MessageId": 101440210,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "暑い日が続くが、息災かえ？",
         "MessageKR": "계곡에서 돌아왔지만",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "儘管已自溪谷歸來",
+        "MessageEN": "We've returned from the valley..."
     },
     {
         "MessageId": 101450220,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "こうも日差しが強くては",
         "MessageKR": "아직 밖은 여름이구나.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "外頭仍是夏日呢",
+        "MessageEN": "However, the summer sun still beats down."
     },
     {
         "MessageId": 101450230,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "あの渓谷が恋しくなってしまうのう",
         "MessageKR": "하여.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "故而",
+        "MessageEN": "And thus."
     },
     {
         "MessageId": 101450231,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "先生もどうじゃ？",
         "MessageKR": "보다 수영복이 어울리는 장소를 ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "妾身便心生一念",
+        "MessageEN": "I have arrived at the conclusion "
     },
     {
         "MessageId": 101450232,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "水着にふさわしき場所へ",
         "MessageKR": "더 찾아가고 싶다는 생각이 든 것이다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是否須找尋更宜著泳裝之處",
+        "MessageEN": "that I must seek out the optimal environment for a swimsuit."
     },
     {
         "MessageId": 101450240,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ん……？",
         "MessageKR": "뭐……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦……？",
+        "MessageEN": "What...?"
     },
     {
         "MessageId": 101440257,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "キサキ（水着）の絆イベントへ",
         "MessageKR": "키사키(수영복)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往妃姬（泳裝）的羈絆劇情",
+        "MessageEN": "Go to Kisaki (Swimsuit)'s Bond Story"
     },
     {
         "MessageId": 101450250,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "この夏を共にしてくれたこと、礼を言う",
         "MessageKR": "이번 여름을 함께 해 주어 고마웠다, 선생.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，多謝汝與妾身共度此夏",
+        "MessageEN": "I must thank you for enjoying this summer with me, Sensei."
     },
     {
         "MessageId": 101450260,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "どれも忘れられない思い出ばかりじゃ",
         "MessageKR": "잊지 못할 추억들뿐이었구나.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "盡是些難以忘懷的回憶呢",
+        "MessageEN": "The sun has set on an unforgettable time."
     },
     {
         "MessageId": 101450270,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "まだだよ",
         "MessageKR": "아직 아니야, 키사키.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "還沒結束哦，妃姬",
+        "MessageEN": "Not yet, Kisaki."
     },
     {
         "MessageId": 101450280,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "ほう？",
         "MessageKR": "그것은 무슨 뜻인가?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "此言何意？",
+        "MessageEN": "What do you mean?"
     },
     {
         "MessageId": 101450290,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "外はまだ暑いでしょ？",
         "MessageKR": "키사키가 처음에 이야기했잖아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "妃姬一開始不是說了嗎？",
+        "MessageEN": "You said so earlier!"
     },
     {
         "MessageId": 101450290,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "夏はまだ続くでしょ？",
         "MessageKR": "밖은 아직 여름이라고.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "外頭還是夏天",
+        "MessageEN": "It's still summer outside!"
     },
     {
         "MessageId": 101450300,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "それはそうじゃが……",
         "MessageKR": "그렇게 이야기하기는 했다만……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "妾身確實曾有所言……",
+        "MessageEN": "I did say summer was not over, however..."
     },
     {
         "MessageId": 101450301,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "そうか",
         "MessageKR": "그런가.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原來如此",
+        "MessageEN": "I see."
     },
     {
         "MessageId": 101450310,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "ならば、妾とまだ一緒にいてくれるのかえ？",
         "MessageKR": "그렇다면 아직, 나와 여름을 더 함께해 준다는 뜻인가?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼，汝仍願與妾身共度此夏嗎？",
+        "MessageEN": "Do you intend to pass more of your summertime in my company?"
     },
     {
         "MessageId": 101450320,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "望むなら、いくらでも",
         "MessageKR": "키사키가 바란다면 얼마든지!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只要妃姬有所期望，不管多久都沒問題！",
+        "MessageEN": "For as long as you'll have me, Kisaki!"
     },
     {
         "MessageId": 101450330,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "そうか\u200b",
         "MessageKR": "그렇구나.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "妾身明白了",
+        "MessageEN": "I see.\u200b"
     },
     {
         "MessageId": 101450340,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "ふふ",
         "MessageKR": "후후.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵",
+        "MessageEN": "Fufu."
     },
     {
         "MessageId": 101450350,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "あまり他所でそういうことは言わぬようにな",
         "MessageKR": "물론 선생은 그럴 만한 사람이 아니겠지만.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "儘管老師之為人並非如此",
+        "MessageEN": "While I do not regard you as such a person,"
     },
     {
         "MessageId": 101450351,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "先生ならば心配は不要やもしれぬが……",
         "MessageKR": "너무 가벼이 이야기하지 않는 편이 좋을 것이야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "仍需注意不得過於輕易道出這般言語才是",
+        "MessageEN": "I hope you do not say such things lightly."
     },
     {
         "MessageId": 101450360,
@@ -279,7 +279,7 @@
         "ImagePath": "",
         "MessageJP": "とある蝶は、永久に約束を記憶するそうじゃからの",
         "MessageKR": "어떤 나비는, 약속을 영원히 기억한다고 하니 말이다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "相傳有一蝶類，可是會終生不忘所許之約的啊",
+        "MessageEN": "For a butterfly remembers a promise for life."
     }
 ]

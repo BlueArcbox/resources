@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、今お忙しいですか？",
         "MessageKR": "선생님, 바쁘신가요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，你現在忙嗎？",
+        "MessageEN": "Sensei, are you busy?"
     },
     {
         "MessageId": 200160250,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "暇だよ",
         "MessageKR": "한가해.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我很閒",
+        "MessageEN": "I don't have anything to do! Come visit!"
     },
     {
         "MessageId": 200160260,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "今日も来るの？",
         "MessageKR": "오늘도 오게?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天也會過來嗎？",
+        "MessageEN": "Are you planning on coming to Schale?"
     },
     {
         "MessageId": 200160270,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "いえ、今日は少し立て込んでいて",
         "MessageKR": "아, 저는 좀 바빠서요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，我今天有點忙",
+        "MessageEN": "Ah, I'm a bit busy today."
     },
     {
         "MessageId": 200160271,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "シャーレに寄るのは難しいので……",
         "MessageKR": "샬레에 들르기 힘들 거 같아서……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可能很難抽空去夏萊……",
+        "MessageEN": "I don't have time to visit..."
     },
     {
         "MessageId": 200160290,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "来るときは、アメリカーノを一杯お願いします",
         "MessageKR": "올 때 아메리카노 한잔 부탁할게요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你過來的時候，麻煩幫我帶一杯黑咖啡",
+        "MessageEN": "So please grab me an iced americano on your way over."
     },
     {
         "MessageId": 200160300,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "え……？",
         "MessageKR": "네……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦……？",
+        "MessageEN": "What...?"
     },
     {
         "MessageId": 200150317,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "コーヒー、ごちそうさまでした",
         "MessageKR": "커피 고마웠어요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝你的咖啡",
+        "MessageEN": "Thank you for the coffee."
     },
     {
         "MessageId": 200160320,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "お粗末様でした！？",
         "MessageKR": "엄청 새삼스럽네?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這也太見外了吧！？",
+        "MessageEN": "NOW you say that?!"
     },
     {
         "MessageId": 200160330,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "久しぶりにその本を開いたら……",
         "MessageKR": "오랜만에 그 책을 읽다 보니까.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "隔了好久重新翻開那本書",
+        "MessageEN": "It's been a while since I've read that book."
     },
     {
         "MessageId": 200160340,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "ふと思い出してしまって",
         "MessageKR": "갑자기 생각나더라고요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "突然就想起來了",
+        "MessageEN": "And looking at it now reminds me"
     },
     {
         "MessageId": 200160341,
@@ -171,7 +171,7 @@
         "ImagePath": "",
         "MessageJP": "今日のコーヒーの味を",
         "MessageKR": "오늘 커피맛.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天咖啡的味道",
+        "MessageEN": "of the taste of today's coffee."
     }
 ]

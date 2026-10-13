@@ -3,8 +3,8 @@
         "CharacterId": 10143,
         "MessageJP": "シュン（水着）",
         "MessageKR": "슌(수영복)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "旬（泳裝）",
+        "MessageEN": "Shun (Swimsuit)"
     },
     {
         "MessageId": 101420110,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "昨日はご迷惑をおかけしました……",
         "MessageKR": "어제는",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "昨天",
+        "MessageEN": "About yesterday..."
     },
     {
         "MessageId": 101430120,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "本当に、色々と……",
         "MessageKR": "여러모로, 죄송했습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "在各方面都給您添麻煩了……",
+        "MessageEN": "I am sorry, for many reasons."
     },
     {
         "MessageId": 101430130,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "やっとシュンが声をかけてくれた……",
         "MessageKR": "드디어 오늘 처음 슌이 말을 걸어 줬어……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "旬終於在今天第一次主動跟我說話了……",
+        "MessageEN": "You're finally talking to me again..."
     },
     {
         "MessageId": 101430140,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "え？",
         "MessageKR": "네?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？",
+        "MessageEN": "What?"
     },
     {
         "MessageId": 101430141,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "言われてみれば、そうですね……",
         "MessageKR": "생각해 보니, 그렇네요……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "仔細想想，確實是這樣呢……",
+        "MessageEN": "Ah, I suppose I was avoiding you a little..."
     },
     {
         "MessageId": 101430150,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "あのとき……",
         "MessageKR": "하지만, 저도……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過，我也……",
+        "MessageEN": "But I also..."
     },
     {
         "MessageId": 101430160,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "何も見てない！何も覚えていないよ！",
         "MessageKR": "아니야! 역시 아무것도 못 봤어! 잊었어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不是的！我什麼都沒看到！什麼都不記得了！",
+        "MessageEN": "I didn't see anything at all! I forgot everything I saw!"
     },
     {
         "MessageId": 101430170,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "……",
         "MessageKR": "……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……",
+        "MessageEN": "..."
     },
     {
         "MessageId": 101430180,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "それはちょっと",
         "MessageKR": "그건 조금",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那樣的話",
+        "MessageEN": "That is"
     },
     {
         "MessageId": 101430181,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "寂しいかもしれません……",
         "MessageKR": "서운할지도, 모르겠는데요……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "或許會有點寂寞也說不定……？",
+        "MessageEN": "a tad disappointing...?"
     },
     {
         "MessageId": 101430190,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "私は……どうしたらいいのかな……",
         "MessageKR": "나는…… 어떻게 해야 하는 걸까…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我到底……該怎麼辦才好呢……",
+        "MessageEN": "What...was the right answer here?"
     },
     {
         "MessageId": 101430200,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "そう、ですね",
         "MessageKR": "그러, 게요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔嗯……",
+        "MessageEN": "I'm not quite sure..."
     },
     {
         "MessageId": 101430210,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "……\u200b",
         "MessageKR": "……\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……\u200b",
+        "MessageEN": "...\u200b"
     },
     {
         "MessageId": 101430220,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "もしよろしければ",
         "MessageKR": "선생님께서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果",
+        "MessageEN": "Sensei,"
     },
     {
         "MessageId": 101430221,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "先生と一緒にリベンジをしたいのですが……",
         "MessageKR": "리벤지에 참여해 주신다면……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師願意陪我一起雪恥的話……",
+        "MessageEN": "I think what would help is"
     },
     {
         "MessageId": 101430222,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "お時間があれば今からでも……よろしいでしょうか？",
         "MessageKR": "조금, 괜찮을…… 지도요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "也許……我就能稍微釋懷一些了吧？",
+        "MessageEN": "if you helped me with my revenge."
     },
     {
         "MessageId": 101420227,
@@ -219,7 +219,7 @@
         "ImagePath": "",
         "MessageJP": "シュン（水着）の絆イベントへ",
         "MessageKR": "슌(수영복)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往旬（泳裝）的羈絆劇情",
+        "MessageEN": "Go to Shun (Swimsuit)'s Bond Story"
     }
 ]

@@ -3,8 +3,8 @@
         "CharacterId": 10143,
         "MessageJP": "シュン（水着）",
         "MessageKR": "슌(수영복)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "旬（泳裝）",
+        "MessageEN": "Shun (Swimsuit)"
     },
     {
         "MessageId": 101420010,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、渓谷での余暇はいかがですか？",
         "MessageKR": "계곡은 어떠세요, 선생님?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，您覺得溪谷如何呢？",
+        "MessageEN": "How are you enjoying the valley so far, Sensei?"
     },
     {
         "MessageId": 101430020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "大自然、サイコー……",
         "MessageKR": "자연이란 좋구나…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "大自然真不錯啊……",
+        "MessageEN": "Nature is amazing..."
     },
     {
         "MessageId": 101430030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "ふふ。お楽しみいただいているようで何よりです",
         "MessageKR": "다행이에요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那真是太好了",
+        "MessageEN": "I'm glad to hear that."
     },
     {
         "MessageId": 101430040,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "ところで先生",
         "MessageKR": "그런데 말이에요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "話說回來，老師",
+        "MessageEN": "On that note..."
     },
     {
         "MessageId": 101430050,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "今日は私もそちらでご一緒したいのですが",
         "MessageKR": "오늘은 선생님과 함께 계곡을 보고 싶은데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天我想和老師一起欣賞溪谷",
+        "MessageEN": "I was hoping to visit the river with you today."
     },
     {
         "MessageId": 101430051,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "よろしいでしょうか？",
         "MessageKR": "괜찮으실까요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "請問您方便嗎……？",
+        "MessageEN": "Would you be willing to come with me?"
     },
     {
         "MessageId": 101420057,
@@ -99,7 +99,7 @@
         "ImagePath": "",
         "MessageJP": "シュン（水着）の絆イベントへ",
         "MessageKR": "슌(수영복)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往旬（泳裝）的羈絆劇情",
+        "MessageEN": "Go to Shun (Swimsuit)'s Bond Story"
     }
 ]

@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "連絡ありがとう、先生。狙撃手が必要なのか？",
         "MessageKR": "연락 고마워, 선생님. 저격수가 필요하다고?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "謝謝你的聯絡，老師。你需要狙擊手嗎？",
+        "MessageEN": "Thank you for reaching out, Sensei. My understanding is that you require sniper support?"
     },
     {
         "MessageId": 100270360,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "もしそうなら詳細を教えてくれ",
         "MessageKR": "그렇다면 상세히 알려줘.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果是的話，就告訴我詳情吧",
+        "MessageEN": "Please brief me on the mission details."
     },
     {
         "MessageId": 100270370,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "うん！バニーガールの狙撃手が必要なんだ！",
         "MessageKR": "응! 바니걸 저격수가 필요해!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯！我需要一位兔女郎狙擊手！",
+        "MessageEN": "Yes! I need a bunny girl sniper!"
     },
     {
         "MessageId": 100270380,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "うん？特殊任務ということか？",
         "MessageKR": "특수한 임무인가 보네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "看來是特殊任務呢",
+        "MessageEN": "Sounds like it's a special mission."
     },
     {
         "MessageId": 100270381,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "よし、分かった",
         "MessageKR": "좋아. 맡겨줘.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好，交給我吧",
+        "MessageEN": "Got it. You can trust in me."
     },
     {
         "MessageId": 100270382,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "合流場所を教えて欲しい",
         "MessageKR": "랑데부 포인트는 어디지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "會合地點在哪裡？",
+        "MessageEN": "Where's the rendezvous point?"
     },
     {
         "MessageId": 100260387,

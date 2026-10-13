@@ -11167,13 +11167,17 @@
             "/api/Avatars/Kivo/Released/10143.webp"
         ],
         "Name": {
+            "en": "Shun (Swimsuit)",
             "jp": "シュン（水着）",
             "kr": "슌(수영복)",
+            "tw": "旬（泳裝）",
             "zh": "瞬（泳装）"
         },
         "Bio": {
+            "en": "Take extra caution near water!",
             "jp": "水辺は気をつけてくださいね。",
             "kr": "물가에서는 특히 조심해야 한답니다.",
+            "tw": "在水邊要特別小心哦",
             "zh": "请小心水边"
         },
         "Nickname": [
@@ -11197,13 +11201,17 @@
             "/api/Avatars/Kivo/Released/10144.webp"
         ],
         "Name": {
+            "en": "Shunling (Swimsuit)",
             "jp": "シュン（水着）",
-            "kr": "슌(수영복)",
+            "kr": "슈에링(수영복)",
+            "tw": "小旬（泳裝）",
             "zh": "瞬（泳装）"
         },
         "Bio": {
+            "en": "",
             "jp": "",
             "kr": "",
+            "tw": "",
             "zh": "请小心水边"
         },
         "Nickname": [
@@ -11227,13 +11235,17 @@
             "/api/Avatars/Kivo/Released/10145.webp"
         ],
         "Name": {
+            "en": "Kisaki (Swimsuit)",
             "jp": "キサキ（水着）",
             "kr": "키사키(수영복)",
+            "tw": "妃姬（泳裝）",
             "zh": "妃咲（泳装）"
         },
         "Bio": {
+            "en": "Lush greenery, fragrant grass",
             "jp": "緑陰幽草勝花時",
             "kr": "녹음방초",
+            "tw": "綠陰芳草",
             "zh": "绿荫幽草胜花时"
         },
         "Nickname": [

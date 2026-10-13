@@ -3,8 +3,8 @@
         "CharacterId": 10145,
         "MessageJP": "キサキ（水着）",
         "MessageKR": "키사키(수영복)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "妃姬（泳裝）",
+        "MessageEN": "Kisaki (Swimsuit)"
     },
     {
         "MessageId": 101440010,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "せっかく渓谷にまで来たのならば",
         "MessageKR": "모처럼 계곡까지 온 참인데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "難得來到溪谷",
+        "MessageEN": "While we are at the valley"
     },
     {
         "MessageId": 101450020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "相応の過ごし方をすべきだとは思わぬかえ？",
         "MessageKR": "평소와는 다른 시간을 보내야 하지 않겠는가?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "豈不是該共度一段異於平日的時光嗎？",
+        "MessageEN": "should we not attempt to deviate from our usual routines?"
     },
     {
         "MessageId": 101450030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "たしかにそうだね",
         "MessageKR": "그건 확실히 그래야 할 것 같네.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那倒是沒錯呢",
+        "MessageEN": "You have a point."
     },
     {
         "MessageId": 101450040,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "うむ",
         "MessageKR": "음.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔呣",
+        "MessageEN": "Hmm."
     },
     {
         "MessageId": 101450050,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "見解は一致しておるようじゃな",
         "MessageKR": "그렇게 선생도 동의하였으니.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "既然老師贊同此議",
+        "MessageEN": "Since we are in agreement,"
     },
     {
         "MessageId": 101450051,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "では、今から言う場所で落ち合うとしよう",
         "MessageKR": "지금부터 내가 이야기하는 곳으로 와 주었으면 한다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "希望汝接下來能動身前往妾身所說的地點",
+        "MessageEN": "please come to the location I am sending you, immediately."
     },
     {
         "MessageId": 101450060,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "あ、今すぐ！？",
         "MessageKR": "전개가 엄청나게 빠르지 않아?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這進展得也太快了吧！？",
+        "MessageEN": "This escalated really quickly!!"
     },
     {
         "MessageId": 101450070,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "安心せい。気は長いほうじゃ",
         "MessageKR": "덧붙여서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "順帶一提",
+        "MessageEN": "Furthermore,"
     },
     {
         "MessageId": 101450071,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "……限度はあるがの",
         "MessageKR": "지각은 용서하지 않을 것이야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不容許遲到",
+        "MessageEN": "tardiness will not go unpunished."
     },
     {
         "MessageId": 101440077,
@@ -135,7 +135,7 @@
         "ImagePath": "",
         "MessageJP": "キサキ（水着）の絆イベントへ",
         "MessageKR": "키사키(수영복)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往妃姬（泳裝）的羈絆劇情",
+        "MessageEN": "Go to Kisaki (Swimsuit)'s Bond Story"
     }
 ]

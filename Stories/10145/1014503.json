@@ -3,8 +3,8 @@
         "CharacterId": 10145,
         "MessageJP": "キサキ（水着）",
         "MessageKR": "키사키(수영복)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "妃姬（泳裝）",
+        "MessageEN": "Kisaki (Swimsuit)"
     },
     {
         "MessageId": 101440160,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、起きておるか？",
         "MessageKR": "일어났는가, 선생.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，汝醒了嗎？",
+        "MessageEN": "Are you awake, Sensei?"
     },
     {
         "MessageId": 101450170,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "ん……？",
         "MessageKR": "어……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯……？",
+        "MessageEN": "At this hour?"
     },
     {
         "MessageId": 101450180,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "朝早くにどうしたの？",
         "MessageKR": "지금, 조금 이르지 않아……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在還有點太早了吧……？",
+        "MessageEN": "You're up so early!"
     },
     {
         "MessageId": 101450190,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "早起きとは感心じゃな",
         "MessageKR": "그렇게 생각할 수도 있겠지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "汝有此認知亦是無可厚非",
+        "MessageEN": "A matter of perspective."
     },
     {
         "MessageId": 101450200,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "時は絶えず流れ続ける",
         "MessageKR": "하지만 여름은 영원하지 않다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "然而夏日並非長存之物",
+        "MessageEN": "However, summer is not eternal."
     },
     {
         "MessageId": 101450201,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "少しでも有効に使うことが",
         "MessageKR": "촌음을 아껴 써야만",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唯有珍惜寸陰",
+        "MessageEN": "If one does not seize upon this fleeting moment,"
     },
     {
         "MessageId": 101450202,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "悔いのない休暇に繋がるのじゃ",
         "MessageKR": "비로소 후회 없는 휴가를 보냈다고 할 수 있을 것이야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "方得稱作度過了毫無遺憾的假期",
+        "MessageEN": "they will walk away from vacation colored with regret."
     },
     {
         "MessageId": 101440207,
@@ -111,7 +111,7 @@
         "ImagePath": "",
         "MessageJP": "キサキ（水着）の絆イベントへ",
         "MessageKR": "키사키(수영복)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往妃姬（泳裝）的羈絆劇情",
+        "MessageEN": "Go to Kisaki (Swimsuit)'s Bond Story"
     }
 ]

@@ -3,8 +3,8 @@
         "CharacterId": 10143,
         "MessageJP": "シュン（水着）",
         "MessageKR": "슌(수영복)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "旬（泳裝）",
+        "MessageEN": "Shun (Swimsuit)"
     },
     {
         "MessageId": 101420230,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生にお願いしたいことがあるのですが……",
         "MessageKR": "안녕하세요. 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "您好，老師",
+        "MessageEN": "Hello, Sensei."
     },
     {
         "MessageId": 101430240,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "よろしければ……",
         "MessageKR": "정말, 송구스럽지만……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真的很不好意思……",
+        "MessageEN": "I'm very sorry to bother you..."
     },
     {
         "MessageId": 101430241,
@@ -50,9 +50,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "聞いていただけますでしょうか？",
-        "MessageKR": "한가지, 의사를 여쭈어보아도 괜찮으실까요……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "한 가지, 의사를 여쭈어 보아도 괜찮으실까요……?",
+        "MessageTW": "我可以請教您一件事嗎……？",
+        "MessageEN": "But may I ask a favor of you?"
     },
     {
         "MessageId": 101430250,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "何でもどうぞ！",
         "MessageKR": "얼마든지!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "儘管問吧！",
+        "MessageEN": "Of course you can!"
     },
     {
         "MessageId": 101430260,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "今日、梅花園の子供たちと",
         "MessageKR": "오늘, 매화원 아이들과 워터 파크에 방문하기로 했는데요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天，我要和梅花園的孩子們去水上樂園",
+        "MessageEN": "I will be visiting the water park with the Plum Blossom children today."
     },
     {
         "MessageId": 101430270,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ウォーターパークに行くことになりまして……",
         "MessageKR": "혹시 괜찮으시다면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "如果老師願意的話",
+        "MessageEN": "If you don't mind,"
     },
     {
         "MessageId": 101430271,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "一緒に引率していただけませんでしょうか？",
         "MessageKR": "저와 함께…… 아이들을 인솔해 주실 수 있을까, 해서요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "能不能和我一起……帶領孩子們呢？",
+        "MessageEN": "would you like to help chaperone them...with me?"
     },
     {
         "MessageId": 101430280,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "任せて！",
         "MessageKR": "문제 없어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然沒問題！",
+        "MessageEN": "Of course!"
     },
     {
         "MessageId": 101430290,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "ふふ",
         "MessageKR": "후후.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵",
+        "MessageEN": "Fufu."
     },
     {
         "MessageId": 101430291,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "ありがとうございます。先生",
         "MessageKR": "감사합니다. 선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "非常感謝您，老師",
+        "MessageEN": "Thank you, Sensei."
     },
     {
         "MessageId": 101420307,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "シュン（水着）の絆イベントへ",
         "MessageKR": "슌(수영복)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往旬（泳裝）的羈絆劇情",
+        "MessageEN": "Go to Shun (Swimsuit)'s Bond Story"
     },
     {
         "MessageId": 101430300,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "無事にお帰りになられましたか、先生？",
         "MessageKR": "잘 들어가셨나요, 선생님?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師，您平安到家了嗎？",
+        "MessageEN": "Did you get back safely, Sensei?"
     },
     {
         "MessageId": 101430310,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "う、うん……ただ筋肉痛が……。",
         "MessageKR": "으어어…… 근육통과 피로가……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "唔哇……肌肉痠痛加上疲勞……",
+        "MessageEN": "Ughhh... I'm tired, and my muscles are sore..."
     },
     {
         "MessageId": 101430320,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "ふふ\u200b",
         "MessageKR": "후후",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵\u200b",
+        "MessageEN": "Fufu.\u200b"
     },
     {
         "MessageId": 101430321,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "水遊びは、思いのほか体力を使いますからね",
         "MessageKR": "물놀이는, 체력을 상당히 소모하니까요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "畢竟水上活動是相當消耗體力的呢",
+        "MessageEN": "Playing in water does require a lot of stamina."
     },
     {
         "MessageId": 101430330,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "今日は、本当にありがとうございました",
         "MessageKR": "오늘 정말 감사했습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天真的很謝謝您",
+        "MessageEN": "Thank you so much for today."
     },
     {
         "MessageId": 101430340,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "先生さえよろしければ、ですが……",
         "MessageKR": "선생님만 괜찮으시다면, 이지만……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "假如老師不介意的話……",
+        "MessageEN": "If you don't mind..."
     },
     {
         "MessageId": 101430341,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "また、このような時間が欲しいです",
         "MessageKR": "다음에도, 이런 시간이 또 있었으면 하네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "希望下次，還能有這樣的時光呢",
+        "MessageEN": "I hope we can do something like this again."
     },
     {
         "MessageId": 101430350,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "いつでも呼んでね",
         "MessageKR": "언제든지 불러 줘.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "隨時都可以找我哦",
+        "MessageEN": "Call me whenever you want."
     },
     {
         "MessageId": 101430360,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "ふふ。ありがとうございます",
         "MessageKR": "후후. 그렇게 말씀하실 것 같았지만.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵。我就知道您會這麼說",
+        "MessageEN": "Fufu. I knew you'd say that."
     },
     {
         "MessageId": 101430361,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "そう言ってくださると思っていました",
         "MessageKR": "역시 감사합니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過還是要謝謝您",
+        "MessageEN": "But I'm grateful."
     },
     {
         "MessageId": 101430370,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "でしたら、次は……",
         "MessageKR": "그러면 다음에는……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼下次……",
+        "MessageEN": "Then, for next time..."
     },
     {
         "MessageId": 101430371,
@@ -291,7 +291,7 @@
         "ImagePath": "",
         "MessageJP": "二人きりで過ごす機会を設けますね",
         "MessageKR": "저희 둘만의 시간으로, 한번 자리를 만들어 볼게요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我會找個機會，安排一段只屬於我們兩人的時光",
+        "MessageEN": "We can do something with just the two of us."
     }
 ]
