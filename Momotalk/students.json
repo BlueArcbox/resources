@@ -11566,5 +11566,90 @@
         "Star": 3,
         "Released": true,
         "Related": null
+    },
+    {
+        "Id": 10153,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10153.webp"
+        ],
+        "Name": {
+            "jp": "ヒフミ（レーシング）",
+            "kr": "히후미(레이싱)",
+            "zh": "日富美（赛车）"
+        },
+        "Bio": {
+            "jp": "運転中はお返事が遅くなります！",
+            "kr": "운전중에는 답장이 느려요!",
+            "zh": "驾驶途中回复会比较慢！"
+        },
+        "Nickname": [
+            "Hifumi"
+        ],
+        "Birthday": "11/27",
+        "Age": "16歳",
+        "School": "Trinity",
+        "Club": "RemedialClass",
+        "Star": 3,
+        "Released": true,
+        "Related": {
+            "ItemId": 10003,
+            "ItemType": "レーシング"
+        }
+    },
+    {
+        "Id": 20063,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/20063.webp"
+        ],
+        "Name": {
+            "jp": "アズサ（レーシング）",
+            "kr": "아즈사(레이싱)",
+            "zh": "梓（赛车）"
+        },
+        "Bio": {
+            "jp": "Vita cotidiana optata.",
+            "kr": "Vita cotidiana optata.",
+            "zh": "Vita cotidiana optata."
+        },
+        "Nickname": [
+            "Azusa"
+        ],
+        "Birthday": "12/26",
+        "Age": "16歳",
+        "School": "Trinity",
+        "Club": "RemedialClass",
+        "Star": 3,
+        "Released": true,
+        "Related": {
+            "ItemId": 10019,
+            "ItemType": "レーシング"
+        }
+    },
+    {
+        "Id": 26017,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/26017.webp"
+        ],
+        "Name": {
+            "jp": "ラナ",
+            "kr": "라나",
+            "zh": "兰娜"
+        },
+        "Bio": {
+            "jp": "admin' OR 1=1#",
+            "kr": "admin' OR 1=1#",
+            "zh": "admin' OR 1=1#"
+        },
+        "Nickname": [
+            "Rana",
+            "时雨羽衣"
+        ],
+        "Birthday": "6/13",
+        "Age": "12歳",
+        "School": "RedWinter",
+        "Club": "Class183",
+        "Star": 1,
+        "Released": true,
+        "Related": null
     }
 ]

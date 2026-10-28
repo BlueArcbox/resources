@@ -2318,6 +2318,19 @@
             false
         ]
     },
+    "10153": {
+        "kivo_id": 646,
+        "avatar": "https://static.kivo.wiki/images/students/阿慈谷 日富美/赛车/Student_Portrait_CH0379_Collection.png",
+        "momotalk": "驾驶途中回复会比较慢！",
+        "name_en": "Hifumi",
+        "name_jp": "ヒフミ（レーシング）",
+        "name_zh": "日富美（赛车）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
     "13000": {
         "kivo_id": 24,
         "gamekee_id": 66752,
@@ -3804,6 +3817,19 @@
             false
         ]
     },
+    "20063": {
+        "kivo_id": 645,
+        "avatar": "https://static.kivo.wiki/images/students/白洲 梓/original/8EAB83518515B360020F309E3659A183.png",
+        "momotalk": "Vita cotidiana optata.",
+        "name_en": "Azusa",
+        "name_jp": "アズサ（レーシング）",
+        "name_zh": "梓（赛车）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
     "23000": {
         "kivo_id": 10,
         "gamekee_id": 66274,
@@ -4197,6 +4223,21 @@
         "name_jp": "チアキ（水着）",
         "name_zh": "千明（泳装）",
         "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
+    "26017": {
+        "kivo_id": 642,
+        "avatar": "https://static.kivo.wiki/images/students/古畑 ラナ/original/0233.jpg",
+        "momotalk": "admin' OR 1=1#",
+        "name_en": "Rana",
+        "name_jp": "ラナ",
+        "name_zh": "兰娜",
+        "nicknames": [
+            "时雨羽衣"
+        ],
         "sticker_download_flag": [
             true,
             false
