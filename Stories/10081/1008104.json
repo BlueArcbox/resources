@@ -62,9 +62,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "商品の中には、おでゅっせいあ海洋高等学校のりぞーとに行ける招待券もあるみたいですのよ",
-        "MessageKR": "상품 중에는 오디세이아 해양학교의 휴양지로 떠날 수 있는 초대권도 있다는 모양이어요.",
-        "MessageTW": "聽說商品之中，好像還有奧德賽海洋高級中學渡假勝地的招待券",
-        "MessageEN": "And they're raffling away an invitation to the Odyssey Maritime School resort!"
+        "MessageKR": "상품 중에는 오디세이아 해양학원의 휴양지로 떠날 수 있는 초대권도 있다는 모양이어요.",
+        "MessageTW": "聽說商品之中，好像還有奧德賽海洋學園渡假勝地的招待券",
+        "MessageEN": "And they're raffling away an invitation to the Odyssey Maritime Academy resort!"
     },
     {
         "MessageId": 100810290,

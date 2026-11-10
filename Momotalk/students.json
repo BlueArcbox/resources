@@ -11269,13 +11269,17 @@
             "/api/Avatars/Kivo/Released/10146.webp"
         ],
         "Name": {
+            "en": "Makoto (Swimsuit)",
             "jp": "マコト（水着）",
             "kr": "마코토(수영복)",
+            "tw": "真琴（泳裝）",
             "zh": "真琴（泳装）"
         },
         "Bio": {
+            "en": "For the battleship of my dreams!",
             "jp": "夢の戦艦のために！",
             "kr": "꿈의 전함을 위하여!",
+            "tw": "為了夢想中的戰艦！",
             "zh": "为了梦想中的战舰！"
         },
         "Nickname": [
@@ -11298,13 +11302,17 @@
             "/api/Avatars/Kivo/Released/10147.webp"
         ],
         "Name": {
+            "en": "Satsuki (Swimsuit)",
             "jp": "サツキ（水着）",
             "kr": "사츠키(수영복)",
+            "tw": "皐月（泳裝）",
             "zh": "皋月（泳装）"
         },
         "Bio": {
+            "en": "Recruiting test subjects/Inquire via MomoTalk",
             "jp": "被験者募集中よ／お問い合わせはモモトークまで",
             "kr": "실험체 상시 모집/문의는 모모톡으로",
+            "tw": "長期招募實驗體／洽詢請洽MomoTalk",
             "zh": "正在招募受试者／欢迎通过 Momotalk 联系咨询"
         },
         "Nickname": [
@@ -11327,13 +11335,17 @@
             "/api/Avatars/Kivo/Released/26016.webp"
         ],
         "Name": {
+            "en": "Chiaki (Swimsuit)",
             "jp": "チアキ（水着）",
             "kr": "치아키(수영복)",
+            "tw": "千秋（泳裝）",
             "zh": "千明（泳装）"
         },
         "Bio": {
+            "en": "Check out the Weekly Pandemonium Society summer special!",
             "jp": "「週刊万魔殿」夏の特集号、ぜひご覧ください！",
             "kr": "여름 특집 주간만마전, 지금 구독하세요!",
+            "tw": "夏季特輯週刊萬魔殿，現在就來訂閱吧！",
             "zh": "请务必阅读「周刊万魔殿」的夏季特刊！"
         },
         "Nickname": [
@@ -11356,13 +11368,17 @@
             "/api/Avatars/Kivo/Released/10148.webp"
         ],
         "Name": {
+            "en": "Iroha (Swimsuit)",
             "jp": "イロハ（水着）",
             "kr": "이로하(수영복)",
+            "tw": "伊呂波（泳裝）",
             "zh": "伊吕波（泳装）"
         },
         "Bio": {
+            "en": "I'm on vacation. Do not disturb.",
             "jp": "休暇中につき、急用以外は連絡しないでください",
             "kr": "휴가 중입니다. 찾지 말아 주세요.",
+            "tw": "休假中，請不要找我。",
             "zh": ""
         },
         "Nickname": [
@@ -11385,13 +11401,17 @@
             "/api/Avatars/Kivo/Released/20060.webp"
         ],
         "Name": {
+            "en": "Ibuki (Swimsuit)",
             "jp": "イブキ（水着）",
             "kr": "이부키(수영복)",
+            "tw": "伊吹（泳裝）",
             "zh": "伊吹（泳装）"
         },
         "Bio": {
+            "en": "Ibuki from the Gehenna Academy!",
             "jp": "ゲヘナ学園のイブキ、だよ！",
             "kr": "게헨나 학원의 이부키입니다!",
+            "tw": "我是格黑娜學園的伊吹！",
             "zh": ""
         },
         "Nickname": [

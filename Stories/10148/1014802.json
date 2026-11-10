@@ -3,8 +3,8 @@
         "CharacterId": 10148,
         "MessageJP": "イロハ（水着）",
         "MessageKR": "이로하(수영복)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "伊呂波（泳裝）",
+        "MessageEN": "Iroha (Swimsuit)"
     },
     {
         "MessageId": 101470120,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "お疲れ様です",
         "MessageKR": "선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 101480130,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今、シャーレですか？",
         "MessageKR": "지금 샬레에 계신가요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你現在在夏萊嗎？",
+        "MessageEN": "Are you at Schale right now?"
     },
     {
         "MessageId": 101480140,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "そうだけど……",
         "MessageKR": "그렇긴 한데…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "在是在啦……",
+        "MessageEN": "I am, but..."
     },
     {
         "MessageId": 101480140,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "まさか……また？",
         "MessageKR": "설마 또?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "該不會又要……？",
+        "MessageEN": "Please... No... again...?"
     },
     {
         "MessageId": 101480150,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "はい？",
         "MessageKR": "네?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "什麼？",
+        "MessageEN": "What?"
     },
     {
         "MessageId": 101480151,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ああ、水着ですか。持っていけばいいんですね？",
         "MessageKR": "아, 수영복 말이네요. 챙겨 갈게요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，是泳裝對吧。我會帶過去的",
+        "MessageEN": "Oh, my swimsuit. Since you insist, I'll bring it."
     },
     {
         "MessageId": 101480160,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "一応、あるといいけど……",
         "MessageKR": "아니, 그, 저, 뭐, 됐나…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不是，那個，我……算了……",
+        "MessageEN": "That's not! what! I! meant!"
     },
     {
         "MessageId": 101480160,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "それより",
         "MessageKR": "그보다는",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "比起那個",
+        "MessageEN": "More importantly..."
     },
     {
         "MessageId": 101480170,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "虎丸に乗ってきてくれる？",
         "MessageKR": "올때 꼭 토라마루를 타고 와줘.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "來的時候一定要搭虎丸過來",
+        "MessageEN": "Please ride Toramaru over here."
     },
     {
         "MessageId": 101480180,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "……なぜです？",
         "MessageKR": "……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……？",
+        "MessageEN": "...?"
     },
     {
         "MessageId": 101480181,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "まあ、いいですけど",
         "MessageKR": "네, 뭐, 어렵지는 않은데요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好吧，這也不是什麼難事",
+        "MessageEN": "Sure, I can do that."
     },
     {
         "MessageId": 101470197,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "イロハ（水着）の絆イベントへ",
         "MessageKR": "이로하(수영복)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往伊呂波（泳裝）的羈絆劇情",
+        "MessageEN": "Go to Iroha (Swimsuit)'s Bond Story"
     },
     {
         "MessageId": 101480190,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "ああ",
         "MessageKR": "이야.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哎呀",
+        "MessageEN": "Wow."
     },
     {
         "MessageId": 101480200,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "今日は充実してました",
         "MessageKR": "오늘은 꽤 충실했네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天過得相當充實呢",
+        "MessageEN": "Today was fulfilling."
     },
     {
         "MessageId": 101480201,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "大満足です",
         "MessageKR": "상당히 만족스러운 휴일이었어요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是個非常令人滿意的假日",
+        "MessageEN": "That's what I call a successful day off."
     },
     {
         "MessageId": 101480210,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "それなら良かったけど……",
         "MessageKR": "만족했다면 다행이지만…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你滿意就好……",
+        "MessageEN": "I guess as long as you're happy..."
     },
     {
         "MessageId": 101480210,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "思ってたのとはちょっと違ったけど……",
         "MessageKR": "생각한 거랑 좀 다른데…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然跟我想的有點不一樣……",
+        "MessageEN": "It wasn't exactly what I expected."
     },
     {
         "MessageId": 101480220,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "寝転がって過ごす",
         "MessageKR": "무슨 말씀을.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你在說什麼",
+        "MessageEN": "Don't think too hard about it."
     },
     {
         "MessageId": 101480221,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "やはり休みの日はこれに限ります",
         "MessageKR": "원래 휴일에는 누워서 쉬는 게 제일이에요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "假日本來就是躺著休息最好",
+        "MessageEN": "You need to take advantage of days off and get some rest!"
     },
     {
         "MessageId": 101480230,
@@ -255,7 +255,7 @@
         "ImagePath": "",
         "MessageJP": "疲れた大人みたいなことを……",
         "MessageKR": "지친 직장인 같은 소리를…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "別說得像個疲憊的上班族一樣……",
+        "MessageEN": "You sound like an exhausted wage worker..."
     }
 ]

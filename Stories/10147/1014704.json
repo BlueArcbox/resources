@@ -3,8 +3,8 @@
         "CharacterId": 10147,
         "MessageJP": "サツキ（水着）",
         "MessageKR": "사츠키(수영복)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "皐月（泳裝）",
+        "MessageEN": "Satsuki (Swimsuit)"
     },
     {
         "MessageId": 101460460,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "ねぇ、先生に聞きたいことがあるの",
         "MessageKR": "선생\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師～",
+        "MessageEN": "Sensei!"
     },
     {
         "MessageId": 101470470,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "いいよ。どうしたの？",
         "MessageKR": "사츠키\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "皐月～",
+        "MessageEN": "Satsuki!"
     },
     {
         "MessageId": 101470480,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "紫外線対策はしてる？",
         "MessageKR": "자외선 대책은 완료됐어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "防曬措施都做好了嗎？",
+        "MessageEN": "Do you have sufficient UV protection?"
     },
     {
         "MessageId": 101470490,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "もちろん！",
         "MessageKR": "물론이지!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然！",
+        "MessageEN": "Of course!"
     },
     {
         "MessageId": 101470500,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "クラゲ対策は？",
         "MessageKR": "해파리 대책은?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "防水母的措施呢？",
+        "MessageEN": "And you've protected yourself against jellyfish attacks?"
     },
     {
         "MessageId": 101470510,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "大丈夫！",
         "MessageKR": "어떻게든 될 거야!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總會有辦法的！",
+        "MessageEN": "Sure, sure!"
     },
     {
         "MessageId": 101470520,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ふむ……いいでしょう",
         "MessageKR": "좋아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "很好",
+        "MessageEN": "Good."
     },
     {
         "MessageId": 101470521,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "じゃあ、出発するわよ！",
         "MessageKR": "출발하자",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "出發吧",
+        "MessageEN": "Then let us be off!"
     },
     {
         "MessageId": 101470530,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "どこに？",
         "MessageKR": "그런데 어디로……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可是要去哪裡……？",
+        "MessageEN": "To where exactly...?"
     },
     {
         "MessageId": 101460537,
@@ -135,7 +135,7 @@
         "ImagePath": "",
         "MessageJP": "サツキ（水着）の絆イベントへ",
         "MessageKR": "사츠키(수영복)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往皐月（泳裝）的羈絆劇情",
+        "MessageEN": "Go to Satsuki (Swimsuit)'s Bond Story"
     }
 ]

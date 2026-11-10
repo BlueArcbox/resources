@@ -3,8 +3,8 @@
         "CharacterId": 10147,
         "MessageJP": "サツキ（水着）",
         "MessageKR": "사츠키(수영복)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "皐月（泳裝）",
+        "MessageEN": "Satsuki (Swimsuit)"
     },
     {
         "MessageId": 101460300,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "海ってとっても怖い場所よね",
         "MessageKR": "선생",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 101470310,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "先生もそう思うでしょう？",
         "MessageKR": "바다는 아주 무서운 곳이지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "大海是個很可怕的地方吧？",
+        "MessageEN": "The sea is a very scary place, isn't it?"
     },
     {
         "MessageId": 101470320,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "デジャブだね",
         "MessageKR": "이 흐름 익숙한데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這個發展好熟悉",
+        "MessageEN": "I feel like I've heard this before..."
     },
     {
         "MessageId": 101470320,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "サツキはもう大丈夫じゃないの？",
         "MessageKR": "이제 괜찮지 않아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在已經沒事了吧？",
+        "MessageEN": "I thought it was fun now"
     },
     {
         "MessageId": 101470330,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "海のずぅっと深いところには――",
         "MessageKR": "바다 깊은 곳에는",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總覺得大海深處",
+        "MessageEN": "I have a feeling..."
     },
     {
         "MessageId": 101470331,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "恐ろしい何かが潜んでいる気がするの",
         "MessageKR": "무서운 뭔가가 있을 것 같아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好像潛伏著某種可怕的東西",
+        "MessageEN": "there's something very scary down in the depths of the sea"
     },
     {
         "MessageId": 101470340,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "そういうのもいるかもしれないね",
         "MessageKR": "그럴지도 모르지만……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "或許真的有吧……",
+        "MessageEN": "I technically can't disprove that..."
     },
     {
         "MessageId": 101470350,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "浅いところなら平気かもしれないわ",
         "MessageKR": "얕은 곳은 괜찮겠지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "淺水區應該沒問題吧？",
+        "MessageEN": "It should be safe in the shallows"
     },
     {
         "MessageId": 101470360,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "だって、先生が守ってくれるもの",
         "MessageKR": "선생이 지켜줄 테니까",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為老師會保護我",
+        "MessageEN": "Since you'll be there to protect me"
     },
     {
         "MessageId": 101460377,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "サツキ（水着）の絆イベントへ",
         "MessageKR": "사츠키(수영복)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往皐月（泳裝）的羈絆劇情",
+        "MessageEN": "Go to Satsuki (Swimsuit)'s Bond Story"
     },
     {
         "MessageId": 101470370,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "ねえ先生",
         "MessageKR": "선생\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師\u200b",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 101470380,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "知ってる？",
         "MessageKR": "그거 알아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你知道嗎？",
+        "MessageEN": "...Did you know?"
     },
     {
         "MessageId": 101470390,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "多分しらないかも？",
         "MessageKR": "아마 모를걸?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你大概不知道吧？",
+        "MessageEN": "Probably not!"
     },
     {
         "MessageId": 101470400,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "クラゲ同士って",
         "MessageKR": "해파리는 서로의 독에",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "聽說水母不會受到",
+        "MessageEN": "Jellyfish"
     },
     {
         "MessageId": 101470401,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "お互いの毒が効かないらしいのよ",
         "MessageKR": "영향을 안 받는대",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "彼此毒素的影響",
+        "MessageEN": "are immune to each other's venom."
     },
     {
         "MessageId": 101470410,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "そうなんだ！すごいね！",
         "MessageKR": "몰랐어! 신기하네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我不知道耶！真神奇",
+        "MessageEN": "Whoa! That's a fun fact."
     },
     {
         "MessageId": 101470420,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "つまり……",
         "MessageKR": "말하자면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "換句話說",
+        "MessageEN": "In other words..."
     },
     {
         "MessageId": 101470421,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "先生と私みたいな関係ってこと",
         "MessageKR": "선생과 나 같은 거지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就像老師和我一樣",
+        "MessageEN": "They're just like you and me, Sensei"
     },
     {
         "MessageId": 101470430,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "よく分からないけど……",
         "MessageKR": "그렇게 말하니 더 모르겠는데……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你這樣說，我反而更不懂了……",
+        "MessageEN": "You lost me there..."
     },
     {
         "MessageId": 101470440,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "サツキが言うのなら、そうなのかもね",
         "MessageKR": "아무튼 그런 걸로 하자",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總之就當作是這樣吧",
+        "MessageEN": "I'll just smile and nod."
     },
     {
         "MessageId": 101470450,
@@ -267,7 +267,7 @@
         "ImagePath": "",
         "MessageJP": "ふふっ、そうよ",
         "MessageKR": "좋아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "很好",
+        "MessageEN": "Good."
     }
 ]

@@ -3,8 +3,8 @@
         "CharacterId": 10148,
         "MessageJP": "イロハ（水着）",
         "MessageKR": "이로하(수영복)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "伊呂波（泳裝）",
+        "MessageEN": "Iroha (Swimsuit)"
     },
     {
         "MessageId": 101470010,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "お疲れ様です",
         "MessageKR": "선생님.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 101480020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今日は休みを勝ち取りました",
         "MessageKR": "저 휴가 받았습니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我能放假了",
+        "MessageEN": "I got some time off."
     },
     {
         "MessageId": 101480030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "おめでとう！",
         "MessageKR": "오오, 축하해!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哦哦，恭喜！",
+        "MessageEN": "Ooh! Congrats!"
     },
     {
         "MessageId": 101480030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "羨ましい！",
         "MessageKR": "부럽다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好羨慕！",
+        "MessageEN": "I'm so jealous!"
     },
     {
         "MessageId": 101480040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "そういうことなので、よろしくお願いします",
         "MessageKR": "그런 연유로, 잘 부탁드립니다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以就拜託你了",
+        "MessageEN": "So I'm looking forward to seeing you."
     },
     {
         "MessageId": 101480050,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "どういうことなので？",
         "MessageKR": "네?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "什麼？",
+        "MessageEN": "Eh?"
     },
     {
         "MessageId": 101470067,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "イロハ（水着）の絆イベントへ",
         "MessageKR": "이로하(수영복)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往伊呂波（泳裝）的羈絆劇情",
+        "MessageEN": "Go to Iroha (Swimsuit)'s Bond Story"
     },
     {
         "MessageId": 101480060,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "分かってはいましたが……",
         "MessageKR": "선생님.\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師\u200b",
+        "MessageEN": "Sensei.\u200b"
     },
     {
         "MessageId": 101480070,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "執務室で水着になれだなんて",
         "MessageKR": "알고는 있었지만, 참 매니악하시네요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然早就知道，但你還真內行呢",
+        "MessageEN": "Not that I'm surprised, but you really are something else..."
     },
     {
         "MessageId": 101480071,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "マニアックですね",
         "MessageKR": "굳이 사무실에서 수영복을 입으라니.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "居然特地要我在辦公室穿泳裝",
+        "MessageEN": "I never thought you'd force me to wear a swimsuit in your own office."
     },
     {
         "MessageId": 101480080,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "言ったかなぁ！？",
         "MessageKR": "아닌데요?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我沒這麼說吧！？",
+        "MessageEN": "Why are you making things up?!"
     },
     {
         "MessageId": 101480090,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "それより、なんで水着を持ってたの？",
         "MessageKR": "그보다 수영복은 왜 갖고 온 거야? ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "話說回來，你為什麼會帶泳裝來？",
+        "MessageEN": "Why did you even bring your swimsuit? "
     },
     {
         "MessageId": 101480090,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "初めからそのつもりだったとか？",
         "MessageKR": "애초에 수영복은 어디서 난 거야?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你一開始到底是從哪弄到泳裝的？",
+        "MessageEN": "Where did you even get it from?!"
     },
     {
         "MessageId": 101480100,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "あれ？",
         "MessageKR": "네? 이로하 씨?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？伊呂波？",
+        "MessageEN": "Hello? Iroha?"
     },
     {
         "MessageId": 101480110,
@@ -195,7 +195,7 @@
         "ImagePath": "",
         "MessageJP": "おーい",
         "MessageKR": "저기요……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "人呢……？",
+        "MessageEN": "Hello...?"
     }
 ]

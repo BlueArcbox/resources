@@ -3,8 +3,8 @@
         "CharacterId": 26016,
         "MessageJP": "チアキ（水着）",
         "MessageKR": "치아키(수영복)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "千秋（泳裝）",
+        "MessageEN": "Chiaki (Swimsuit)"
     },
     {
         "MessageId": 260150280,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "「週刊万魔殿」の定期購読",
         "MessageKR": "<주간 만마전>",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "《週刊萬魔殿》",
+        "MessageEN": "Weekly Pandemonium Society"
     },
     {
         "MessageId": 260160290,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "今すぐお申し込みください……",
         "MessageKR": "지금 바로 구독하세요…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "現在立刻訂閱吧……",
+        "MessageEN": "Subscribe now..."
     },
     {
         "MessageId": 260160300,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "もう定期購読しているけど……",
         "MessageKR": "이미 구독은 하고 있는데?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我已經訂閱了啊？",
+        "MessageEN": "But I'm already subscribed?!"
     },
     {
         "MessageId": 260160300,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "なんだか元気がないね？",
         "MessageKR": "평소보다 기운이 없는 홍보 문자?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "比平常沒精神的宣傳訊息？！",
+        "MessageEN": "What is this energy?!"
     },
     {
         "MessageId": 260160310,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "うぅ……",
         "MessageKR": "흐이잉잉…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗚嗚……",
+        "MessageEN": "Waah..."
     },
     {
         "MessageId": 260160320,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "記事のネタがどうしても思い浮かばないんです",
         "MessageKR": "기삿거리가 도저히 떠오르질 않아서요",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我怎麼樣都想不到報導題材。",
+        "MessageEN": "I have total and complete writer's block."
     },
     {
         "MessageId": 260160321,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "面白いこともないし……",
         "MessageKR": "재밌는 일도 없고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "也沒有什麼有趣的事，",
+        "MessageEN": "There's not a single interesting thing to write about."
     },
     {
         "MessageId": 260160330,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "もうこうなったら、私がドカンと事件を起こすしか……",
         "MessageKR": "역시, 저 스스로를 기삿거리로 만드는 수밖에…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "看來只好把我自己變成報導題材了……",
+        "MessageEN": "When there is no news, I just have to make the news..."
     },
     {
         "MessageId": 260160340,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "よく分からないけど、とりあえずストップ！",
         "MessageKR": "뭔지 몰라도 일단 스톱!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然不知道你想做什麼，總之先住手！",
+        "MessageEN": "Whatever you're thinking, stop right there!"
     },
     {
         "MessageId": 260160350,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "スクープが見つかりそうな場所を散歩してみるのはどう？",
         "MessageKR": "특종이 있을법한 곳에서 산책이라도 해보자!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要不要去可能有獨家新聞的地方散散步？",
+        "MessageEN": "You should go for a walk somewhere with a lot of activity!"
     },
     {
         "MessageId": 260160360,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "お？",
         "MessageKR": "오?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "喔？",
+        "MessageEN": "Oh?"
     },
     {
         "MessageId": 260160370,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "おお！",
         "MessageKR": "오오!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "喔喔！",
+        "MessageEN": "Oh!"
     },
     {
         "MessageId": 260160371,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "その手がありました！",
         "MessageKR": "그걸 생각 못 했네요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我居然沒想到這招！",
+        "MessageEN": "How have I never thought of that before?!"
     },
     {
         "MessageId": 260160380,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "現場百遍の精神ですね！",
         "MessageKR": "역시, 답은 현장에 있겠죠!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "果然答案就在現場！",
+        "MessageEN": "Of course! There are always answers out in the field!"
     },
     {
         "MessageId": 260160381,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "では、後ほどお会いしましょうー！",
         "MessageKR": "그러면 현장에서 뵙겠습니다아-!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼，現場見啦──！",
+        "MessageEN": "I'll see you on site then, Sensei!"
     },
     {
         "MessageId": 260160390,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "私も行くの！？",
         "MessageKR": "당연히 나까지?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "連我也得去嗎？！",
+        "MessageEN": "Me too?!"
     },
     {
         "MessageId": 260150407,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "チアキ（水着）の絆イベントへ",
         "MessageKR": "치아키(수영복)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往千秋（泳裝）的羈絆劇情",
+        "MessageEN": "Go to Chiaki (Swimsuit)'s Bond Story"
     },
     {
         "MessageId": 260160400,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "先生、見てください！",
         "MessageKR": "선생님선생님선생님!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師老師老師！",
+        "MessageEN": "SenseiSenseiSensei!"
     },
     {
         "MessageId": 260160410,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "じゃじゃーん！",
         "MessageKR": "짜짜잔-!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "鏘鏘──！",
+        "MessageEN": "Ta-da!"
     },
     {
         "MessageId": 260160420,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "今週の週刊万魔殿が、過去最多部数を記録しました！",
         "MessageKR": "이번 주 주간 만마전, 역대 최대 부수에요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "本週《週刊萬魔殿》的發行量創下歷史新高！",
+        "MessageEN": "This week's Weekly Pandemonium Society had the largest print run ever!"
     },
     {
         "MessageId": 260160431,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "マコト先輩も、私を今年のリポーター賞の候補に挙げるって言ってました！",
         "MessageKR": "마코토 선배도 대단하다면서, 올해의 기자상 후보에 올리겠대요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真琴前輩也說很厲害，要提名我角逐今年的記者獎。",
+        "MessageEN": "Makoto said she was proud of me. She's going to nominate me for reporter of the year!"
     },
     {
         "MessageId": 260160432,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "記者は私しかいないんですが……それはさておき！",
         "MessageKR": "저밖에 기자가 없긴 하지만, 중요한 건 아니고!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然記者只有我一個，但那不重要！",
+        "MessageEN": "I'm the only reporter at Gehenna, but still!"
     },
     {
         "MessageId": 260160440,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "先生のおかげでスクープをゲットすることができました！",
         "MessageKR": "덕분에 특종을 잡았습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "多虧老師，我抓到獨家新聞了！",
+        "MessageEN": "This is all thanks to you helping me find a scoop!"
     },
     {
         "MessageId": 260160450,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "力になれたなら良かった！",
         "MessageKR": "잘됐네!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "太好了！",
+        "MessageEN": "Congratulations!"
     },
     {
         "MessageId": 260160460,
@@ -327,8 +327,8 @@
         "ImagePath": "",
         "MessageJP": "はい！また次もよろしくお願いします！",
         "MessageKR": "다음에도 잘 부탁드리겠습니다아-!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "下次也請多多指教啦──！",
+        "MessageEN": "So I'll count on you next time too, okay?"
     },
     {
         "MessageId": 260160470,
@@ -339,8 +339,8 @@
         "ImagePath": "",
         "MessageJP": "それで、あの昆布はどうなったの？",
         "MessageKR": "들고 간 다시마는 어떻게 했어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你帶走的昆布後來怎麼了？",
+        "MessageEN": "What did you do with the kelp you took with you?"
     },
     {
         "MessageId": 260160480,
@@ -351,8 +351,8 @@
         "ImagePath": "",
         "MessageJP": "厨房に持っていって、酢昆布にしました！",
         "MessageKR": "주방에 갖다줘서 다시마 초절임으로 만들었어요.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我拿去廚房做成醋昆布了。",
+        "MessageEN": "I took it to the school kitchen, and they pickled it!"
     },
     {
         "MessageId": 260160481,
@@ -363,8 +363,8 @@
         "ImagePath": "",
         "MessageJP": "保管するのも一苦労ですから！",
         "MessageKR": "보관하기도 힘드니까요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "畢竟也很難保存！",
+        "MessageEN": "There's not a lot of places to store kelp in my dorm room, after all!"
     },
     {
         "MessageId": 260160490,
@@ -375,7 +375,7 @@
         "ImagePath": "",
         "MessageJP": "大切に保管するんじゃないんだ！？",
         "MessageKR": "소중하게 보관하는 게 아니었네?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "原來不是要珍藏起來嗎？！",
+        "MessageEN": "You weren't planning on keeping the whole thing with you?!"
     }
 ]

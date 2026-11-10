@@ -3,8 +3,8 @@
         "CharacterId": 20060,
         "MessageJP": "イブキ（水着）",
         "MessageKR": "이부키(수영복)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "伊吹（泳裝）",
+        "MessageEN": "Ibuki (Swimsuit)"
     },
     {
         "MessageId": 200590010,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "せん",
         "MessageKR": "선",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老",
+        "MessageEN": "Sen"
     },
     {
         "MessageId": 200600020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "せい",
         "MessageKR": "선새ㅇ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "師",
+        "MessageEN": "Sens"
     },
     {
         "MessageId": 200600021,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "先生",
         "MessageKR": "선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei"
     },
     {
         "MessageId": 200600030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "準備はできてるよ～",
         "MessageKR": "파라솔이랑 돗자리 펴 놨어\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "陽傘和野餐墊都鋪好了～",
+        "MessageEN": "I have a parasol and picnic mat!"
     },
     {
         "MessageId": 200600040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "やったー！",
         "MessageKR": "가ㄹ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好耶",
+        "MessageEN": "gooo"
     },
     {
         "MessageId": 200600041,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "イブキいくね！",
         "MessageKR": "이부키 갈래!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "伊吹要去！",
+        "MessageEN": "Ibuki wanna go!"
     },
     {
         "MessageId": 200590047,
@@ -99,7 +99,7 @@
         "ImagePath": "",
         "MessageJP": "イブキ（水着）の絆イベントへ",
         "MessageKR": "이부키(수영복)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往伊吹（泳裝）的羈絆劇情",
+        "MessageEN": "Go to Ibuki (Swimsuit)'s Bond Story"
     }
 ]

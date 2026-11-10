@@ -3,8 +3,8 @@
         "CharacterId": 10146,
         "MessageJP": "マコト（水着）",
         "MessageKR": "마코토(수영복)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真琴（泳裝）",
+        "MessageEN": "Makoto (Swimsuit)"
     },
     {
         "MessageId": 101450080,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "マコト様に名案がある",
         "MessageKR": "샬레의 선생이여.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "夏萊的老師啊",
+        "MessageEN": "Sensei of Schale."
     },
     {
         "MessageId": 101460090,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "あれから、じっくり考えてな……素晴らしい考えが浮かんだのだ",
         "MessageKR": "저번 만남 이후로, 오랜 고민 끝에 마침내 명안을 떠올렸다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "自從上次見面後，本大人苦思許久，終於想出了一個妙計",
+        "MessageEN": "After our previous meeting, I thought long and hard. And I've come up with a brilliant plan."
     },
     {
         "MessageId": 101460100,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "これは重大な案件だ。モモトークではなく、直接話したい",
         "MessageKR": "이렇게 중대한 깨달음을 모모톡으로 전하는 것은 볼품없는 일이겠지.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這麼重大的領悟，只透過MomoTalk告訴你也太不像話了",
+        "MessageEN": "However, the incredibleness of this realization can't be captured through a mere MomoTalk message!"
     },
     {
         "MessageId": 101460110,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "すぐに迎えを送ろう！",
         "MessageKR": "지금 당장 의전을 보내 맞이하겠다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我現在立刻派儀仗隊去迎接你！",
+        "MessageEN": "I'll send an official escort to collect you and bring you here!"
     },
     {
         "MessageId": 101460120,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "大丈夫、自分で行くよ",
         "MessageKR": "괜찮아. 직접 갈게.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "沒關係，我自己過去",
+        "MessageEN": "No, no. I'll just head over."
     },
     {
         "MessageId": 101460120,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "リムジンは必要ないよ……",
         "MessageKR": "리무진은 필요 없으니까…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不用準備禮車……",
+        "MessageEN": "I really don't need a limo..."
     },
     {
         "MessageId": 101460130,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "ん？",
         "MessageKR": "음?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯？",
+        "MessageEN": "Hm?"
     },
     {
         "MessageId": 101460131,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "キシシッ！先生は察しが良いな",
         "MessageKR": "과연, 선생! 명철한 판단이다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不愧是老師！真是明智的判斷！",
+        "MessageEN": "Sensei, you have excellent judgment! As always!"
     },
     {
         "MessageId": 101460140,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "たしかに、慎重に事を進めねばならないな……",
         "MessageKR": "이번 일은 극비리에 진행되어야 한다, 그렇게 말하고 싶은 건가?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你是想說，這件事必須極機密地進行嗎？",
+        "MessageEN": "Of course, something like this should be conducted with secrecy!"
     },
     {
         "MessageId": 101460141,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "私としたことが先生に一刻も早く伝えることしか考えていなかったようだ",
         "MessageKR": "마코토 님답지 않게 서둘러 일을 그르칠 뻔했군!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "本大人居然差點因為心急而把事情搞砸了！",
+        "MessageEN": "I can't believe that I, the Great Makoto, nearly ruined my great idea before it even began!"
     },
     {
         "MessageId": 101460142,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "では待っているぞ！",
         "MessageKR": "그러면 이 몸은 선생이 방문하기를 기다리고 있으마!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那本大人就等老師大駕光臨！",
+        "MessageEN": "Well, I'll be waiting for you!"
     },
     {
         "MessageId": 101460150,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "水着姿で！",
         "MessageKR": "수영복 차림으로!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "穿著泳裝！",
+        "MessageEN": "In a swimsuit!"
     },
     {
         "MessageId": 101460160,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "なんで水着！？",
         "MessageKR": "평범하게 옷 입고 기다려…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "穿普通衣服等我啦……",
+        "MessageEN": "Just wait in your normal clothes..."
     },
     {
         "MessageId": 101460160,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "風邪引いちゃうよ",
         "MessageKR": "감기 걸려도 모른다…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要是感冒了我可不管哦……",
+        "MessageEN": "You're going to catch a cold..."
     },
     {
         "MessageId": 101450167,
@@ -195,7 +195,7 @@
         "ImagePath": "",
         "MessageJP": "マコト（水着）の絆イベントへ",
         "MessageKR": "마코토(수영복)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往真琴（泳裝）的羈絆劇情",
+        "MessageEN": "Go to Makoto (Swimsuit)'s Bond Story"
     }
 ]

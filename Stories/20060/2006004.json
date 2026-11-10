@@ -3,8 +3,8 @@
         "CharacterId": 20060,
         "MessageJP": "イブキ（水着）",
         "MessageKR": "이부키(수영복)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "伊吹（泳裝）",
+        "MessageEN": "Ibuki (Swimsuit)"
     },
     {
         "MessageId": 200590200,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生！",
         "MessageKR": "선생님!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師！",
+        "MessageEN": "Sensei!"
     },
     {
         "MessageId": 200600210,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "イブキね",
         "MessageKR": "이부키 말이지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "伊吹呢",
+        "MessageEN": "Ibuki"
     },
     {
         "MessageId": 200600211,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "新しい絵の描き方、見つけたの！",
         "MessageKR": "그림 그리는 새로운 방법을 찾아냈어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "找到新的畫畫方法了！",
+        "MessageEN": "discovered a new way to draw!"
     },
     {
         "MessageId": 200600220,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "おお、どんな方法？",
         "MessageKR": "오, 어떤 건데?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "哦？是什麼方法？",
+        "MessageEN": "Huh, what is it?"
     },
     {
         "MessageId": 200600230,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "それはね",
         "MessageKR": "그건 말이지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那就是",
+        "MessageEN": "It is"
     },
     {
         "MessageId": 200600240,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "えへへ",
         "MessageKR": "음",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯……",
+        "MessageEN": "um"
     },
     {
         "MessageId": 200600241,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "このあと見せてあげる！",
         "MessageKR": "직접 만나서 보여줄게!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "見面後直接畫給你看！",
+        "MessageEN": "Ibuki will show you!"
     },
     {
         "MessageId": 200590257,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "イブキ（水着）の絆イベントへ",
         "MessageKR": "이부키(수영복)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往伊吹（泳裝）的羈絆劇情",
+        "MessageEN": "Go to Ibuki (Swimsuit)'s Bond Story"
     },
     {
         "MessageId": 200600250,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "先生先生",
         "MessageKR": "선생님 선생님",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師老師！",
+        "MessageEN": "Sensei Sensei"
     },
     {
         "MessageId": 200600251,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "シャーレにつきましたかー？",
         "MessageKR": "샬레에는 잘 돌아가셨나요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你平安回到夏萊了嗎？",
+        "MessageEN": "Didja get back okay?"
     },
     {
         "MessageId": 200600260,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "ついてるよ！",
         "MessageKR": "물론, 잘 들어갔지!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然，已經到了！",
+        "MessageEN": "I did! What about your drawing?"
     },
     {
         "MessageId": 200600270,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "絵は完成した？",
         "MessageKR": "이부키는 그림 잘 완성했어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "伊吹有順利把畫畫完嗎？",
+        "MessageEN": "Did you finish your drawing, Ibuki?"
     },
     {
         "MessageId": 200600280,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "あ……えっと……",
         "MessageKR": "아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊……",
+        "MessageEN": "Ah"
     },
     {
         "MessageId": 200600281,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "実はね……ちょっと足りなくて",
         "MessageKR": "사실 조각 수가 부족해서",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "其實素材的數量不夠",
+        "MessageEN": "Ibuki ran outta pieces"
     },
     {
         "MessageId": 200600282,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "画用紙の半分くらいしか埋まらなかったんだ！",
         "MessageKR": "절반밖에 못 그렸어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以只畫了一半！",
+        "MessageEN": "so Ibuki only got half done!"
     },
     {
         "MessageId": 200600290,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "あっ……",
         "MessageKR": "앗…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊……\u200b",
+        "MessageEN": "Ah..."
     },
     {
         "MessageId": 200600300,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "大丈夫！",
         "MessageKR": "이부키는 괜찮아!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "伊吹沒事的！",
+        "MessageEN": "Ibuki is fine!"
     },
     {
         "MessageId": 200600301,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "また海に行って",
         "MessageKR": "다음에 바닷가에 가서 ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "只要下次再去海邊",
+        "MessageEN": "Ibuki can go to the beach again "
     },
     {
         "MessageId": 200600302,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "拾えばいいから！",
         "MessageKR": "또 주워 오면 되니까!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "撿回來就好了！",
+        "MessageEN": "and get more!"
     },
     {
         "MessageId": 200600310,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "そのときはまた",
         "MessageKR": "그때도 어제처럼 ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "到時候可以像昨天一樣",
+        "MessageEN": "And Sensei will come too, right? "
     },
     {
         "MessageId": 200600311,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "先生も一緒に、行ってくれるよね？",
         "MessageKR": "또 같이 가 줄 거지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "再陪我一起去嗎？",
+        "MessageEN": "Just like yesterday, right?"
     },
     {
         "MessageId": 200600320,
@@ -279,7 +279,7 @@
         "ImagePath": "",
         "MessageJP": "もちろん！",
         "MessageKR": "물론이지!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然！",
+        "MessageEN": "Of course!"
     }
 ]

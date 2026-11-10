@@ -3,8 +3,8 @@
         "CharacterId": 20060,
         "MessageJP": "イブキ（水着）",
         "MessageKR": "이부키(수영복)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "伊吹（泳裝）",
+        "MessageEN": "Ibuki (Swimsuit)"
     },
     {
         "MessageId": 200590150,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生！",
         "MessageKR": "선생님!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師！",
+        "MessageEN": "Sensei!"
     },
     {
         "MessageId": 200600160,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "ビーチに新しいお店がたくさんできてる！",
         "MessageKR": "해변 쪽에 새로 상점가가 생겨났어!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "海邊新開了一條商店街！",
+        "MessageEN": "There's a new shopping street near the beach!"
     },
     {
         "MessageId": 200600170,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "えっ！本当に？",
         "MessageKR": "응? 정말?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "咦？真的嗎！？",
+        "MessageEN": "What? Really?!"
     },
     {
         "MessageId": 200600180,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "い",
         "MessageKR": "그러니까 가ㅈ",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以一",
+        "MessageEN": "Ibuki wanna go"
     },
     {
         "MessageId": 200600181,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "いっしょに見にいこう！",
         "MessageKR": "같이 구경 가자!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "一起去逛逛吧！",
+        "MessageEN": "with Sensei!"
     },
     {
         "MessageId": 200600190,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "喜んで！",
         "MessageKR": "이부키의 부름이라면 기꺼이……!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "既然是伊吹的邀請，我當然樂意……！",
+        "MessageEN": "I will always answer your call, Ibuki!"
     },
     {
         "MessageId": 200590197,
@@ -99,7 +99,7 @@
         "ImagePath": "",
         "MessageJP": "イブキ（水着）の絆イベントへ",
         "MessageKR": "이부키(수영복)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往伊吹（泳裝）的羈絆劇情",
+        "MessageEN": "Go to Ibuki (Swimsuit)'s Bond Story"
     }
 ]

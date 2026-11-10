@@ -3,8 +3,8 @@
         "CharacterId": 10147,
         "MessageJP": "サツキ（水着）",
         "MessageKR": "사츠키(수영복)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "皐月（泳裝）",
+        "MessageEN": "Satsuki (Swimsuit)"
     },
     {
         "MessageId": 101460010,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生、ちょっといいかしら",
         "MessageKR": "선생\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師～",
+        "MessageEN": "Sensei!"
     },
     {
         "MessageId": 101470020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "大丈夫だよ。どうしたの？",
         "MessageKR": "사츠키\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "皐月～",
+        "MessageEN": "Satsuki!"
     },
     {
         "MessageId": 101470030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "先生は……",
         "MessageKR": "후후",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵",
+        "MessageEN": "Fufu."
     },
     {
         "MessageId": 101470040,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "海がどれだけ危険な場所か",
         "MessageKR": "해변이 얼마나 위험한지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "海邊有多危險",
+        "MessageEN": "You already know"
     },
     {
         "MessageId": 101470041,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ちゃんと理解してるかしら？",
         "MessageKR": "알고 있겠지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你應該知道對吧？",
+        "MessageEN": "how dangerous the ocean can be, right?"
     },
     {
         "MessageId": 101470050,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "いや、あんまり……",
         "MessageKR": "그랬던가……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是這樣嗎……",
+        "MessageEN": "I do...?"
     },
     {
         "MessageId": 101470060,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "……これは直接説明した方がよさそうね",
         "MessageKR": "이건 만나서 설명하는 편이 낫겠네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這件事還是見面說明比較好",
+        "MessageEN": "It's best to explain this in person."
     },
     {
         "MessageId": 101470070,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "今から行くから、待っていて頂戴",
         "MessageKR": "지금 갈게\\~!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我現在就過去～！",
+        "MessageEN": "I'll be there soon!"
     },
     {
         "MessageId": 101470080,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "う、うん。待ってるね……",
         "MessageKR": "왠지 익숙한 기분이……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總覺得有股似曾相識的感覺……",
+        "MessageEN": "I'm getting deja vu..."
     },
     {
         "MessageId": 101460097,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "サツキ（水着）の絆イベントへ",
         "MessageKR": "사츠키(수영복)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往皐月（泳裝）的羈絆劇情",
+        "MessageEN": "Go to Satsuki (Swimsuit)'s Bond Story"
     },
     {
         "MessageId": 101470090,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "私が教えた海の安全対策……",
         "MessageKR": "선생\\~\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師～\u200b",
+        "MessageEN": "Sensei!\u200b"
     },
     {
         "MessageId": 101470100,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "ちゃんと覚えているかしら？",
         "MessageKR": "오늘의 안전 대책",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今天教你的安全對策",
+        "MessageEN": "You can't forget the proper safety measures"
     },
     {
         "MessageId": 101470110,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "忘れたらダメよ？",
         "MessageKR": "잊으면 안 돼?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "可別忘了哦？",
+        "MessageEN": "for today, okay?!"
     },
     {
         "MessageId": 101470120,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "大丈夫、覚えてるよ！",
         "MessageKR": "물론이지",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當然記得",
+        "MessageEN": "Of course."
     },
     {
         "MessageId": 101470130,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "それを聞いて安心したわ",
         "MessageKR": "그래도 혹시 모르니",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不過以防萬一",
+        "MessageEN": "Just to be safe,"
     },
     {
         "MessageId": 101470131,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "でもまだ少し心配だから……",
         "MessageKR": "앞으로도 계속",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今後也一直讓我",
+        "MessageEN": "I'll still"
     },
     {
         "MessageId": 101470132,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "これからもずっと、私がそばでケアしてあげる",
         "MessageKR": "내가 옆에서 케어하겠어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "在你身邊照顧你吧",
+        "MessageEN": "keep an eye on you."
     },
     {
         "MessageId": 101470140,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "それはうれしいな",
         "MessageKR": "나야 고마워",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我才要謝謝你",
+        "MessageEN": "Thank you."
     },
     {
         "MessageId": 101470150,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "ふふ、でしょう？",
         "MessageKR": "후후\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵\u200b",
+        "MessageEN": "Fufu.\u200b"
     },
     {
         "MessageId": 101470151,
@@ -255,7 +255,7 @@
         "ImagePath": "",
         "MessageJP": "それじゃあ、またね",
         "MessageKR": "좋아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "很好",
+        "MessageEN": "Good."
     }
 ]

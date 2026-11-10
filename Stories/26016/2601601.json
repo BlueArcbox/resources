@@ -3,8 +3,8 @@
         "CharacterId": 26016,
         "MessageJP": "チアキ（水着）",
         "MessageKR": "치아키(수영복)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "千秋（泳裝）",
+        "MessageEN": "Chiaki (Swimsuit)"
     },
     {
         "MessageId": 260150010,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "★週刊万魔殿★愛読者様特別イベント！",
         "MessageKR": "★주간 만마전★☞애독자 특별 이벤트!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "★週刊萬魔殿★☞讀者限定特別活動！",
+        "MessageEN": "★ Weekly Pandemonium Society ★☞ Special Subscriber Event!"
     },
     {
         "MessageId": 260160020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "あなたも記事を書いてみませんか？お申し込みはお早めに！",
         "MessageKR": "함께 기사를 써보자! 지금 당장 신청하세요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "一起來寫報導吧！現在立刻報名！",
+        "MessageEN": "Let's write an article together! Sign up now!"
     },
     {
         "MessageId": 260160030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "えっ……？",
         "MessageKR": "치아키?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "千秋？",
+        "MessageEN": "Chiaki?"
     },
     {
         "MessageId": 260160030,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "読者が記事を書くの……？",
         "MessageKR": "독자가 기사를 쓰는 게…… 이벤트?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "讓讀者來寫報導……這算活動？",
+        "MessageEN": "Having a reader write an article...is an event?"
     },
     {
         "MessageId": 260160040,
@@ -74,9 +74,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "あ、怪しんでますね……",
-        "MessageKR": "역시, 의심하시는군요…....",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "역시, 의심하시는군요…….",
+        "MessageTW": "果然，你在懷疑吧……",
+        "MessageEN": "So it does indeed sound suspicious."
     },
     {
         "MessageId": 260160050,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "あー、もう！認めます！",
         "MessageKR": "아아\\~ 그래요! 인정할게요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊啊～好啦！我承認！",
+        "MessageEN": "Fine! I'll 'fess up!"
     },
     {
         "MessageId": 260160051,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "先生と遊ぶための口実ですよ！",
         "MessageKR": "선생님하고 같이 놀고싶은 핑계에요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這只是想跟老師一起玩的藉口！",
+        "MessageEN": "I just wanted an excuse to play with you!"
     },
     {
         "MessageId": 260160060,
@@ -110,9 +110,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "一人で取材するのは寂しいですし……",
-        "MessageKR": "혼자서 취재하는건 심심하기도 하구…...",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "혼자서 취재하는건 심심하기도 하구…….",
+        "MessageTW": "而且一個人採訪也很無聊……",
+        "MessageEN": "It's get boring, covering stories all by myself..."
     },
     {
         "MessageId": 260160070,
@@ -122,9 +122,9 @@
         "MessageType": "Text",
         "ImagePath": "",
         "MessageJP": "正直だね……",
-        "MessageKR": "솔직하네…...",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageKR": "솔직하네…….",
+        "MessageTW": "還真坦白……",
+        "MessageEN": "At least you're honest..."
     },
     {
         "MessageId": 260160080,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "当然です！週刊万魔殿から真実を抜くのは、ラーメンの麺抜きみたいなものですから！",
         "MessageKR": "후후, 만마전 정론지 주간 만마전은 진실 빼면 시체니까요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "呵呵，萬魔殿的正統刊物《週刊萬魔殿》，少了真相就什麼都不是！",
+        "MessageEN": "Fufu, as Pandemonium Society's reputable journal, Weekly Pandemonium Society thrives on TRUTH!"
     },
     {
         "MessageId": 260160081,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "それってただのスープじゃない？とか言われますが……それはさておき！",
         "MessageKR": "그래서 가끔가끔 좀비라는 말을 듣곤 하지만, 중요한 건 아니구!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "雖然偶爾會被叫做殭屍，但那不重要！",
+        "MessageEN": "Which has led people to start calling it a zombie, but that's beside the point!"
     },
     {
         "MessageId": 260160090,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "では、現場でお待ちしています！",
         "MessageKR": "그러면, 현장에서 뵙겠습니다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "那麼，現場見！",
+        "MessageEN": "I'll be seeing you on site then!"
     },
     {
         "MessageId": 260150107,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "チアキ（水着）の絆イベントへ",
         "MessageKR": "치아키(수영복)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往千秋（泳裝）的羈絆劇情",
+        "MessageEN": "Go to Chiaki (Swimsuit)'s Bond Story"
     },
     {
         "MessageId": 260160100,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "ヤバいです！記事、ポシャっちゃいました！",
         "MessageKR": "낙종해 버렸어요! 치이!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "稿子泡湯了！嘖！",
+        "MessageEN": "I missed the deadline! Tch!"
     },
     {
         "MessageId": 260160110,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "先日のあの店、「私たちの身近にある名店」という特集記事を書いたんですが",
         "MessageKR": "저번의 그 가게, '우리 주변의 양심가게' 특집기사로 썼는데요,",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "上次那家店，我寫成「我們身邊的良心店家」專題報導，",
+        "MessageEN": "I used the store we visited for my \"Ethical Businesses in the Neighborhood\" special."
     },
     {
         "MessageId": 260160111,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "編集中に、お店が潰れたそうです！",
         "MessageKR": "마지막 편집 중이었는데, 그 가게가 망해서 없어졌대요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "結果編輯到最後，聽說那家店倒閉了！",
+        "MessageEN": "And just when I was wrapping on the story, it went out of business!"
     },
     {
         "MessageId": 260160120,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "あんなにお客さんがたくさんいたのに、どうしてでしょう？",
         "MessageKR": "그때는 손님들이 그렇게 많았는데, 왤까요?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "當時明明有那麼多客人，為什麼呢？",
+        "MessageEN": "They had so many customers when we went! What happened?"
     },
     {
         "MessageId": 260160130,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "黒字倒産……？",
         "MessageKR": "흑자도산……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "獲利倒閉……？",
+        "MessageEN": "A surplus bankruptcy...?"
     },
     {
         "MessageId": 260160140,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "そういうこともあるんですね！",
         "MessageKR": "식당도 그런 게 있나요?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "餐廳也會發生這種事嗎？！",
+        "MessageEN": "That can happen to food places too??"
     },
     {
         "MessageId": 260160141,
@@ -255,7 +255,7 @@
         "ImagePath": "",
         "MessageJP": "勉強になりました！",
         "MessageKR": "흥미롭네요!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真有意思！",
+        "MessageEN": "I had no idea!"
     }
 ]

@@ -3,8 +3,8 @@
         "CharacterId": 10146,
         "MessageJP": "マコト（水着）",
         "MessageKR": "마코토(수영복)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真琴（泳裝）",
+        "MessageEN": "Makoto (Swimsuit)"
     },
     {
         "MessageId": 101450240,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "シャーレの先生よ",
         "MessageKR": "샬레의 선생이여.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "夏萊的老師啊",
+        "MessageEN": "Sensei of Schale."
     },
     {
         "MessageId": 101460250,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "を！？",
         "MessageKR": "ㄴ네?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "什摩！？",
+        "MessageEN": "Yeees?"
     },
     {
         "MessageId": 101460250,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "どえしたの！？",
         "MessageKR": "무스 ㄴ일?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總麼了兒！？",
+        "MessageEN": "What??"
     },
     {
         "MessageId": 101460260,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "……どうしたんだ？",
         "MessageKR": "……뭐냐, 그 얼빠진 반응은?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "……你那個反應是怎麼回事？",
+        "MessageEN": "...Why the lackluster response?"
     },
     {
         "MessageId": 101460261,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "ところで水着モデルの件だが",
         "MessageKR": "저번에 말했던 모델 일 말이다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "就是上次說過的模特兒工作",
+        "MessageEN": "It's about the modeling job I mentioned before."
     },
     {
         "MessageId": 101460270,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "ああ、その話か",
         "MessageKR": "아, 아아, 그거구나.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，啊啊，原來是那件事",
+        "MessageEN": "Ah. Right, that."
     },
     {
         "MessageId": 101460280,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "忘れてた……",
         "MessageKR": "깜빡하고 있었다…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我都忘了……",
+        "MessageEN": "I almost forgot..."
     },
     {
         "MessageId": 101460290,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "詳細を改めて連絡する",
         "MessageKR": "음, 일자와 장소가 확정되어서 말이다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯，日期和地點已經確定了",
+        "MessageEN": "We've settled on a place and time."
     },
     {
         "MessageId": 101460300,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "ぜひ見にきてもらいたい",
         "MessageKR": "부디 참관해 주길 바란다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "希望你務必來參觀",
+        "MessageEN": "Please attend if you can."
     },
     {
         "MessageId": 101450307,
@@ -135,7 +135,7 @@
         "ImagePath": "",
         "MessageJP": "マコト（水着）の絆イベントへ",
         "MessageKR": "마코토(수영복)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往真琴（泳裝）的羈絆劇情",
+        "MessageEN": "Go to Makoto (Swimsuit)'s Bond Story"
     }
 ]

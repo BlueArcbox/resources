@@ -3,8 +3,8 @@
         "CharacterId": 10147,
         "MessageJP": "サツキ（水着）",
         "MessageKR": "사츠키(수영복)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "皐月（泳裝）",
+        "MessageEN": "Satsuki (Swimsuit)"
     },
     {
         "MessageId": 101460540,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "ああ、そういえば",
         "MessageKR": "선생",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 101470550,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "先生は知っているかしら？",
         "MessageKR": "그거 알아?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你知道嗎？",
+        "MessageEN": "Do you know...?"
     },
     {
         "MessageId": 101470560,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "たぶん……？",
         "MessageKR": "아마 알걸?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我大概知道吧？",
+        "MessageEN": "Probably!"
     },
     {
         "MessageId": 101470570,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "あら？私の気持ちが分かったの？",
         "MessageKR": "내 기분을 알았다고?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你知道我的心情了？",
+        "MessageEN": "You know how I'm feeling?!"
     },
     {
         "MessageId": 101470571,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "さすが先生ね",
         "MessageKR": "역시 선생이네",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不愧是老師",
+        "MessageEN": "You really are THE Sensei."
     },
     {
         "MessageId": 101470580,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "そ、そういう話だったの？",
         "MessageKR": "아 그 이야기였어?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "啊，原來是在說這個？",
+        "MessageEN": "Oh... That's what you meant."
     },
     {
         "MessageId": 101470580,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "分かるような、分からないような……",
         "MessageKR": "알듯 말듯……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好像懂，又好像不懂……",
+        "MessageEN": "Maybe I do, maybe I don't..."
     },
     {
         "MessageId": 101470590,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "実は、私もよく分かっていないの",
         "MessageKR": "사실 나도 잘 모르겠지만",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "其實我也不太明白",
+        "MessageEN": "I don't know if I even know."
     },
     {
         "MessageId": 101470600,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "この気持ちは……なんと言うのかしら",
         "MessageKR": "뭐라고 해야 할지 모르겠어",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "不知道該怎麼形容",
+        "MessageEN": "I don't know how to put it into words."
     },
     {
         "MessageId": 101470601,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "なんだか落ち着かないわ",
         "MessageKR": "아무튼 이상해",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總之感覺很奇怪",
+        "MessageEN": "The point is, it's weird."
     },
     {
         "MessageId": 101470610,
@@ -147,8 +147,8 @@
         "ImagePath": "",
         "MessageJP": "私に手伝えることはあるかな？",
         "MessageKR": "내가 도울 일이 있을까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "有什麼我能幫忙的嗎？",
+        "MessageEN": "Is there any way I can help?"
     },
     {
         "MessageId": 101470620,
@@ -159,8 +159,8 @@
         "ImagePath": "",
         "MessageJP": "う～ん",
         "MessageKR": "음\\~\\~\\~\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯～～～～",
+        "MessageEN": "Hmm..."
     },
     {
         "MessageId": 101470630,
@@ -171,8 +171,8 @@
         "ImagePath": "",
         "MessageJP": "そうね……",
         "MessageKR": "뭔가\\~\\~\\~\\~\\~",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總覺得～～～～～",
+        "MessageEN": "For some reason..."
     },
     {
         "MessageId": 101470640,
@@ -183,8 +183,8 @@
         "ImagePath": "",
         "MessageJP": "……先生の顔を見せて頂戴",
         "MessageKR": "선생의 얼굴을 보고 싶은데",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我想看看老師的臉",
+        "MessageEN": "I want to see you."
     },
     {
         "MessageId": 101470650,
@@ -195,8 +195,8 @@
         "ImagePath": "",
         "MessageJP": "分かった、今どこにいるの？",
         "MessageKR": "어디로 갈까?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "要去哪裡見面？",
+        "MessageEN": "I can come to you."
     },
     {
         "MessageId": 101460667,
@@ -207,8 +207,8 @@
         "ImagePath": "",
         "MessageJP": "サツキ（水着）の絆イベントへ",
         "MessageKR": "사츠키(수영복)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往皐月（泳裝）的羈絆劇情",
+        "MessageEN": "Go to Satsuki (Swimsuit)'s Bond Story"
     },
     {
         "MessageId": 101470660,
@@ -219,8 +219,8 @@
         "ImagePath": "",
         "MessageJP": "先生、聞いて",
         "MessageKR": "선생\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師\u200b",
+        "MessageEN": "Sensei.\u200b"
     },
     {
         "MessageId": 101470670,
@@ -231,8 +231,8 @@
         "ImagePath": "",
         "MessageJP": "人はね、見慣れたものを",
         "MessageKR": "사람은 익숙한 것을",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "聽說人會把習以為常的事物",
+        "MessageEN": "They say people tend to make habits"
     },
     {
         "MessageId": 101470671,
@@ -243,8 +243,8 @@
         "ImagePath": "",
         "MessageJP": "いつの間にか「当たり前」だと思い込むらしいわ",
         "MessageKR": "당연하게 생각하게 된대",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "視為理所當然",
+        "MessageEN": "out of familiar things."
     },
     {
         "MessageId": 101470680,
@@ -255,8 +255,8 @@
         "ImagePath": "",
         "MessageJP": "なるほど、そうかもしれないね",
         "MessageKR": "확실히 그럴지도……",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "確實或許是這樣……",
+        "MessageEN": "That's a well-known saying."
     },
     {
         "MessageId": 101470690,
@@ -267,8 +267,8 @@
         "ImagePath": "",
         "MessageJP": "だから先に言っておくわ",
         "MessageKR": "그래서 미리 말해둘게",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "所以我先跟你說",
+        "MessageEN": "So I have something to say"
     },
     {
         "MessageId": 101470700,
@@ -279,8 +279,8 @@
         "ImagePath": "",
         "MessageJP": "何を？",
         "MessageKR": "어떤 거?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "說什麼？",
+        "MessageEN": "Yes?"
     },
     {
         "MessageId": 101470710,
@@ -291,8 +291,8 @@
         "ImagePath": "",
         "MessageJP": "これからも",
         "MessageKR": "앞으로도",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "今後我也會",
+        "MessageEN": "I'll stay"
     },
     {
         "MessageId": 101470711,
@@ -303,8 +303,8 @@
         "ImagePath": "",
         "MessageJP": "ずっと隣にいるって",
         "MessageKR": "계속 옆에 있을 거라고",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "一直待在你身邊",
+        "MessageEN": "by your side."
     },
     {
         "MessageId": 101470720,
@@ -315,8 +315,8 @@
         "ImagePath": "",
         "MessageJP": "慣れさせるってこと？",
         "MessageKR": "익숙하게 만들려고?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "是想讓我習慣嗎？",
+        "MessageEN": "So we can be familiar?"
     },
     {
         "MessageId": 101470730,
@@ -327,8 +327,8 @@
         "ImagePath": "",
         "MessageJP": "ええ",
         "MessageKR": "응",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嗯",
+        "MessageEN": "Yeah"
     },
     {
         "MessageId": 101470740,
@@ -339,8 +339,8 @@
         "ImagePath": "",
         "MessageJP": "そうしていれば",
         "MessageKR": "그러다 보면",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "這樣一來",
+        "MessageEN": "That way..."
     },
     {
         "MessageId": 101470741,
@@ -351,8 +351,8 @@
         "ImagePath": "",
         "MessageJP": "いつか、それが当たり前になるでしょう？",
         "MessageKR": "그게 당연해지겠지?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "總有一天就會變成理所當然了吧？",
+        "MessageEN": "I'll become a habit, right?"
     },
     {
         "MessageId": 101470750,
@@ -363,8 +363,8 @@
         "ImagePath": "",
         "MessageJP": "うん、そうだね",
         "MessageKR": "좋아",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "好",
+        "MessageEN": "Right."
     },
     {
         "MessageId": 101470760,
@@ -375,7 +375,7 @@
         "ImagePath": "",
         "MessageJP": "そうよ。ふふっ",
         "MessageKR": "좋아\u200b",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "很好",
+        "MessageEN": "Good."
     }
 ]

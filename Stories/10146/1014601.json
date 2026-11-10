@@ -3,8 +3,8 @@
         "CharacterId": 10146,
         "MessageJP": "マコト（水着）",
         "MessageKR": "마코토(수영복)",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "真琴（泳裝）",
+        "MessageEN": "Makoto (Swimsuit)"
     },
     {
         "MessageId": 101450010,
@@ -27,8 +27,8 @@
         "ImagePath": "",
         "MessageJP": "先生に朗報だ",
         "MessageKR": "선생이여.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "老師啊",
+        "MessageEN": "Sensei."
     },
     {
         "MessageId": 101460020,
@@ -39,8 +39,8 @@
         "ImagePath": "",
         "MessageJP": "マコト様が特別な映像を用意した",
         "MessageKR": "이 마코토 님께서 특별히 영상을 준비했다.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我真琴大人特地準備了一段影片",
+        "MessageEN": "I, the Great Makoto, have specially prepared a video for you."
     },
     {
         "MessageId": 101460030,
@@ -51,8 +51,8 @@
         "ImagePath": "",
         "MessageJP": "どんな内容だと思う？",
         "MessageKR": "그게 무엇인지…….",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "至於是什麼嘛……",
+        "MessageEN": "I know you're dying of curiosity"
     },
     {
         "MessageId": 101460031,
@@ -63,8 +63,8 @@
         "ImagePath": "",
         "MessageJP": "気になって、居ても立っても居られないだろう！？",
         "MessageKR": "아마 궁금해서 팔짝 뛸 지경이겠지?!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "你大概好奇得都快跳起來了吧！？",
+        "MessageEN": "You really want to know what it's about, don't you?"
     },
     {
         "MessageId": 101460040,
@@ -75,8 +75,8 @@
         "ImagePath": "",
         "MessageJP": "えっと……何の話？",
         "MessageKR": "갑자기 또 무슨 소리를……?",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "怎麼突然說這些……？",
+        "MessageEN": "What is happening...?"
     },
     {
         "MessageId": 101460040,
@@ -87,8 +87,8 @@
         "ImagePath": "",
         "MessageJP": "気になる！！！",
         "MessageKR": "궁금하다!!!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我很好奇！！！",
+        "MessageEN": "Yes! I really want to know!"
     },
     {
         "MessageId": 101460050,
@@ -99,8 +99,8 @@
         "ImagePath": "",
         "MessageJP": "キシシッ",
         "MessageKR": "키시싯.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "嘻嘻嘻",
+        "MessageEN": "Kihehe."
     },
     {
         "MessageId": 101460060,
@@ -111,8 +111,8 @@
         "ImagePath": "",
         "MessageJP": "万魔殿で待っているぞ",
         "MessageKR": "만마전 부실에서 기다리고 있으마.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "我會在萬魔殿等你",
+        "MessageEN": "I will be waiting for you in the Pandemonium Society Room."
     },
     {
         "MessageId": 101460070,
@@ -123,8 +123,8 @@
         "ImagePath": "",
         "MessageJP": "喜ぶがいい",
         "MessageKR": "각오하는 것이 좋아.",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "做好心理準備吧",
+        "MessageEN": "You should brace yourself."
     },
     {
         "MessageId": 101460071,
@@ -135,8 +135,8 @@
         "ImagePath": "",
         "MessageJP": "マコト様の偉大なる第一歩を、その目に焼き付ける栄誉を得られることに！",
         "MessageKR": "아주 특별한 것을 보게 될 테니까 말이다!",
-        "MessageTW": "",
-        "MessageEN": ""
+        "MessageTW": "因為你將會看到非常特別的東西！",
+        "MessageEN": "To witness something AMAZING!"
     },
     {
         "MessageId": 101450077,
@@ -147,7 +147,7 @@
         "ImagePath": "",
         "MessageJP": "マコト（水着）の絆イベントへ",
         "MessageKR": "마코토(수영복)의 인연스토리로",
-        "MessageTW": "前往的羈絆劇情",
-        "MessageEN": "Go to 's Bond Story"
+        "MessageTW": "前往真琴（泳裝）的羈絆劇情",
+        "MessageEN": "Go to Makoto (Swimsuit)'s Bond Story"
     }
 ]
