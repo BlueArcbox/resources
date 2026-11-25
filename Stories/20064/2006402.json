@@ -1,0 +1,129 @@
+[
+    {
+        "CharacterId": 20064,
+        "MessageJP": "ウララ",
+        "MessageKR": "우라라",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200630210,
+        "Flag": 2,
+        "Type": 4,
+        "NextId": 200640210,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "既読",
+        "MessageKR": "읽혔습니다",
+        "MessageTW": "已讀",
+        "MessageEN": "Message read"
+    },
+    {
+        "MessageId": 200640210,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200640220,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ごきげんよう",
+        "MessageKR": "안녕하세요, 선생님.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200640220,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200640230,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "本日はお仕事があると伺いました",
+        "MessageKR": "오늘 업무차 이쪽에 오신다 들었어요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200640230,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200640231,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ワイルドハントでお手伝いできることがありましたら",
+        "MessageKR": "혹시라도 필요한 일이 있다면",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200640231,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200640240,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ご遠慮なくお申し付けください",
+        "MessageKR": "부담 없이 말씀해 주세요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200640240,
+        "Flag": 2,
+        "Type": 3,
+        "NextId": 200640250,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ありがとう！",
+        "MessageKR": "응! 고마워!",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200640250,
+        "Flag": 2,
+        "Type": 0,
+        "NextId": 200640260,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "とんでもございません",
+        "MessageKR": "별말씀을요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200640260,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200640270,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "わたくしの務めですから",
+        "MessageKR": "해야만 하는 일인데요.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200640270,
+        "Flag": 1,
+        "Type": 0,
+        "NextId": 200630277,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "では本日も、のどけき香りに満ちたる日となりますことを",
+        "MessageKR": "그럼 오늘도 평온한 향기가 가득한 하루가 되시길.",
+        "MessageTW": "",
+        "MessageEN": ""
+    },
+    {
+        "MessageId": 200630277,
+        "Flag": 2,
+        "Type": 2,
+        "NextId": -1,
+        "MessageType": "Text",
+        "ImagePath": "",
+        "MessageJP": "ウララの絆イベントへ",
+        "MessageKR": "우라라의 인연스토리로",
+        "MessageTW": "前往的羈絆劇情",
+        "MessageEN": "Go to 's Bond Story"
+    }
+]

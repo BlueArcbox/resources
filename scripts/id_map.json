@@ -2331,6 +2331,19 @@
             false
         ]
     },
+    "10154": {
+        "kivo_id": 555,
+        "avatar": "https://static.kivo.wiki/images/students/云类鹫 爱美/original/Student_Portrait_CH0339_Collection.png",
+        "momotalk": "收藏即感觉的艺术",
+        "name_en": "Manami",
+        "name_jp": "マナミ",
+        "name_zh": "爱美",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
     "13000": {
         "kivo_id": 24,
         "gamekee_id": 66752,
@@ -3824,6 +3837,19 @@
         "name_en": "Azusa",
         "name_jp": "アズサ（レーシング）",
         "name_zh": "梓（赛车）",
+        "nicknames": [],
+        "sticker_download_flag": [
+            true,
+            false
+        ]
+    },
+    "20064": {
+        "kivo_id": 649,
+        "avatar": "https://static.kivo.wiki/images/students/云林院 丽/original/Student_Portrait_CH0340_Collection.png",
+        "momotalk": "随时都可以找我商量",
+        "name_en": "Urara",
+        "name_jp": "ウララ",
+        "name_zh": "丽",
         "nicknames": [],
         "sticker_download_flag": [
             true,

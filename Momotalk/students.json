@@ -11671,5 +11671,57 @@
         "Star": 1,
         "Released": true,
         "Related": null
+    },
+    {
+        "Id": 10154,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/10154.webp"
+        ],
+        "Name": {
+            "jp": "マナミ",
+            "kr": "마나미",
+            "zh": "爱美"
+        },
+        "Bio": {
+            "jp": "収集とは感覚の芸術",
+            "kr": "수집은 감각의 예술",
+            "zh": "收藏即感觉的艺术"
+        },
+        "Nickname": [
+            "Manami"
+        ],
+        "Birthday": "6/19",
+        "Age": "17歳",
+        "School": "WildHunt",
+        "Club": "AssemblyOfArts",
+        "Star": 3,
+        "Released": true,
+        "Related": null
+    },
+    {
+        "Id": 20064,
+        "Avatar": [
+            "/api/Avatars/Kivo/Released/20064.webp"
+        ],
+        "Name": {
+            "jp": "ウララ",
+            "kr": "우라라",
+            "zh": "丽"
+        },
+        "Bio": {
+            "jp": "いつでも相談してくださいね",
+            "kr": "상담은 언제든 환영이에요.",
+            "zh": "随时都可以找我商量"
+        },
+        "Nickname": [
+            "Urara"
+        ],
+        "Birthday": "7/28",
+        "Age": "16歳",
+        "School": "WildHunt",
+        "Club": "AssemblyOfArts",
+        "Star": 3,
+        "Released": true,
+        "Related": null
     }
 ]
